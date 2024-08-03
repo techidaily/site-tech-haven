@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate ChatGPT Extensions for Instant Upgrades
-date: 2024-07-21 11:41:25
-updated: 2024-07-24 11:55:26
+date: 2024-08-02T16:06:11.964Z
+updated: 2024-08-03T16:06:11.964Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
 ## Four Desired Improvements for the Next Generation AI, GPT-5
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is OpenAI's GPT-5?](https://www.makeuseof.com/gpt-5-features-we-want-to-see/#what-is-openai-39-s-gpt-5)
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
  Still, no matter the due date, there are a few key features we want to see when GPT-5 launches.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is OpenAI's GPT-5?
 
  GPT-5 is the highly anticipated successor to OpenAI's GPT-4 AI model, widely expected to be the most powerful generative model in the market. While there is currently no official release date for GPT-5, there are indications it could be released as early as the summer of 2024\. Very little detail about the model is known at this time, but several things can be said with some amount of certainty:
@@ -49,9 +55,15 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Larger and More Efficient Context Window
 
-![Monitor on a desk with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-analyze-your-local-documents-with-langchain-and-chatgpt-featured-image.jpg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
@@ -63,7 +75,11 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
 ## 3\. GPT Agents
 
-![ChatGPT accessed on a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/muo-chatgpt-mentions-fi.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
 
@@ -79,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
  So, if GPT-5 ships with GPT Agents, you could ask it to "build a portfolio website for Maxwell Timothy" rather than just "write me a code for the homepage." GPT-5 would then theoretically be able to self-prompt by invoking expert AI agents to handle the various subtasks needed to build a website. It might invoke one GPT to scrap the web for information on Maxwell Timothy, another agent to write the code for different pages, another agent to generate and optimize images, and even another AI agent to deploy the site, all without the need for repeated human prompting.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 4\. Less Hallucination
 
  Although OpenAI has come a long way in dealing with hallucinations in its AI models, the true litmus test for GPT-5 will be its ability to address the persistent issue of hallucinations, which has held back the widespread adoption of AI in high-stakes, safety-critical domains like healthcare, aviation, and cybersecurity. These are all areas that would benefit heavily from heavy AI involvement but are currently avoiding any significant adoption.

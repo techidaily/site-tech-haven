@@ -1,7 +1,7 @@
 ---
 title: "Is AI Revolutionizing Academic Writing: The Impact of ChatGPT on Student Essays"
-date: 2024-07-21 14:47:50
-updated: 2024-07-24 12:57:35
+date: 2024-08-02T16:05:06.354Z
+updated: 2024-08-03T16:05:06.354Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/e88d8c41e4814f7655a90371c7c1a9d7d6681eb85
 
  There's no denying that AI usage is on the rise, be it in manufacturing, education, cybersecurity, or even transport. But with this growing AI prevalence, should you be at all concerned about your mental health? Will AI improve or worsen mental health across the board?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## How Can AI Improve Mental Health?
 
  AI is already a big deal in a number of industries, including healthcare, transport, and finance. But you may not know that AI is also being experimented with in the mental health realm.
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/e88d8c41e4814f7655a90371c7c1a9d7d6681eb85
 
  Of course, some may see[using AI to provide mental health advice as risky](https://www.makeuseof.com/dangers-using-ai-free-therapist-psychiatrist/) . We'll discuss the possible downsides of this a little later.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Monitoring Patient Progress With AI
 
 ![person typing on laptop next to stethoscope on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/stetho-laptop-1.jpg)
@@ -55,22 +61,42 @@ thumbnail: https://thmb.techidaily.com/e88d8c41e4814f7655a90371c7c1a9d7d6681eb85
 
  Though this all seems very promising, there are also[dangers associated with using AI](https://www.makeuseof.com/is-ai-dangerous-5-immediate-risks-of-artificial-intelligence/) in the mental health field and other ways that AI can worsen mental health in general.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## How Can AI Worsen Mental Health?
 
  While AI has significant potential to improve mental healthcare, there are also risks and dangers in the adoption of this fast-evolving technology.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Increased Reliance on AI
 
  Over the past few decades, the rise of smart technology has led many people to rely on phones, PCs, tablets, and other devices to simplify and enhance their lives. Whether they're chatting on social media, streaming movies, browsing for new clothes, or simply getting some work done, technology usually stands as the backbone. Many people are even[addicted to their smartphones](https://www.makeuseof.com/smartphone-addiction-how-overcome-negative-habit/) or computers, which can have a huge impact on their lives.
 
  So, when AI becomes prominent across various industries, it could have a detrimental effect on mental health. For instance, an individual may opt to[use AI for their education](https://www.makeuseof.com/reasons-teachers-embrace-ai/) , work, entertainment, and other elements of their social life. This, in turn, may lead to something of an AI addiction. There are already plenty of people addicted to social media, online shopping, and online gaming today, which can often give way to feelings of anxiety and very real social and financial problems.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Lack of Human Contact
 
  Humans are, by nature, social beings. So, it can often be hugely beneficial to discuss your feelings with somebody else, instead of dealing with them alone.
 
  But if AI becomes increasingly used in the mental health industry, accessing face-to-face treatment, such as talking therapy, may become even more challenging than it currently is. If AI is too frequently used as a replacement for human contact, a decline in recovery rates and patient progress may occur as a result.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hands reaching out to each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hands-reaching-1.jpg)
 
  At the moment, humans are seen as much more effective at conducting therapy than machines, and this may always be the case. This is why the application of AI in the mental health field should be regulated and monitored very carefully so that patients are still receiving the best care possible.

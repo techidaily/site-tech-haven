@@ -1,7 +1,7 @@
 ---
 title: Can You Rely on AI Assistants Such as ChatGPT & Bard for Sound Financial Counseling?
-date: 2024-07-26 16:18:35
-updated: 2024-07-27 11:13:32
+date: 2024-08-02T16:06:15.161Z
+updated: 2024-08-03T16:06:15.161Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/ab73c5c82bc9058309dd4ae16fa20f2ff280634d2
 * [ChatGPT Can Get Facts Wrong](https://www.makeuseof.com/why-you-shouldnt-trust-chatgpt-to-summarize-your-text/#chatgpt-can-get-facts-wrong)
 * [ChatGPT Can Get Word or Character Limits Wrong](https://www.makeuseof.com/why-you-shouldnt-trust-chatgpt-to-summarize-your-text/#chatgpt-can-get-word-or-character-limits-wrong)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * ChatGPT can misinterpret prompts, deviate from instructions, and fail to recognize specific words. Be precise and monitor its responses.
@@ -39,14 +42,23 @@ thumbnail: https://thmb.techidaily.com/ab73c5c82bc9058309dd4ae16fa20f2ff280634d2
 
  In the following example, ChatGPT got lots of information about the linguistic function of emojis. The intentionally simple prompt asked the chatbot to summarize everything and explain the links between emojis and cultures.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Misintepreting a Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-misintepreting-a-prompt.jpg)
 
  The chatbot merged both answers into one paragraph. A follow-up prompt with clearer instructions asked it to dip into its knowledge pool, too.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Breaking Down Information as Instructed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-breaking-down-information-as-instructed.jpg)
 
  This is why you should keep your instructions precise, provide context when necessary, and keep an eye on ChatGPT’s results. If you flag up any mistake immediately, the chatbot can produce something more accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Can Omit Information You Provide
 
  ChatGPT is smart, but it’s not a good idea to bombard it with details about a particular topic without specifying what is or isn’t important.
@@ -59,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/ab73c5c82bc9058309dd4ae16fa20f2ff280634d2
 
  When asked if it omitted details, it admitted that, yes, it left certain information out, such as specific attractions and transportation options. Conciseness was its goal.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Omitting Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-omitting-information.jpg)
 
  If left to its own devices, there’s no guarantee that ChatGPT will use the details you expect. So, plan and phrase your prompts carefully to ensure the chatbot’s summary is spot on.
@@ -71,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/ab73c5c82bc9058309dd4ae16fa20f2ff280634d2
 
  The following example involves a translation into English. ChatGPT didn’t understand the Greek name for the Toque d’Or awards, but instead of highlighting the problem, it just offered a literal and wrong translation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![ChatGPT Getting a Name Wrong While Translating](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-getting-a-name-wrong-while-translating.jpg)
 
  Company names, books, awards, research links, and other elements can disappear or be altered in the chatbot’s summary. To avoid major mistakes, be aware of[ChatGPT’s content creation limits](https://www.makeuseof.com/mistakes-to-avoid-using-chatgpt-content-creation/) .
@@ -97,6 +116,9 @@ thumbnail: https://thmb.techidaily.com/ab73c5c82bc9058309dd4ae16fa20f2ff280634d2
 
  The test below shows ChatGPT needing several prompts. It still either fell short or exceeded the word count needed.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Trying to Stick to Word Count Instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-trying-to-stick-to-word-count-instructions.jpg)
 
  It’s not the worst mistake to expect from ChatGPT. But it’s one more factor to consider when proofreading the summaries it creates.

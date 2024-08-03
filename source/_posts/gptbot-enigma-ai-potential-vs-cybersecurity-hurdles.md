@@ -1,7 +1,7 @@
 ---
 title: "GPTBot Enigma: AI Potential Vs. Cybersecurity Hurdles"
-date: 2024-07-20 14:33:39
-updated: 2024-07-23 12:28:32
+date: 2024-08-02T16:05:53.716Z
+updated: 2024-08-03T16:05:53.716Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/d063f2ca427c5d79f99dec8234182f00aa398e1a0
 
  Most generative AI chatbots offer a subscription service that unlocks new features. However, how do you know you're choosing the right one? Here, we'll be discussing seven features that you should look out for when subscribing to one of these services.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Choosing the right AI chatbot involves considering factors like response accuracy and comprehension, which can be checked through their free versions.
@@ -33,12 +36,18 @@ thumbnail: https://thmb.techidaily.com/d063f2ca427c5d79f99dec8234182f00aa398e1a0
 
 ## 2\. Security and Data Privacy
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Man holding phone using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-phone-using-chatgpt.jpg)
 
  While many people are beginning to use AI tools, we're still in largely uncharted territory. It's hard to predict how AI will affect society and how we will deal with it. There are also concerns that chatbots like[ChatGPT represent a privacy risk](https://www.makeuseof.com/chatgpt-privacy-risk/) . For example, ChatGPT developer OpenAI has stated that they review your ChatGPT conversations to further its training.
 
  It is uncertain how much data they're actually collecting and what they plan to do with it in the long term. The best you can do is ensure the service you're subscribing to has good privacy policies and you're not sharing personal data or private information with any generative AI chatbot.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Contextual Understanding
 
  While comparing[ChatGPT Plus and Perplexity AI](https://www.makeuseof.com/chatgpt-plus-vs-perplexity-which-is-best/) , we found that Perplexity was faster while ChatGPT Plus had a better contextual understanding. This is why ChatGPT Plus outperforms most other chatbots regarding detailed responses. If an AI chatbot struggles with understanding context, it will start to hallucinate and give irrational responses.
@@ -47,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/d063f2ca427c5d79f99dec8234182f00aa398e1a0
 
  The level of contextual understanding depends on the language model and how it's trained. Again, you should try the free version to check this for yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Knowledge Base
 
 ![Laptop screen showing computer codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/laptop-screen-showing-computer-codes.jpg)
@@ -55,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/d063f2ca427c5d79f99dec8234182f00aa398e1a0
 
  Access to the internet is an obvious fix to this problem. Microsoft's[Bing is now powered by AI](https://www.makeuseof.com/more-likely-to-use-bing-now-powered-by-ai/) , meaning Bing AI Chat also has access to the web and can access relevant and updated information without any limits.[ChatGPT Plus also has this feature in the form of plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) , but you'll have to upgrade from the free version if you want to use them.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Language Model
 
  The biggest difference between AI chatbots is the[type of large language model (LLM)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) they use. For example, the free version of Perplexity uses GPT-3, while the paid version gives you access to GPT-4\. The situation is similar in the case of ChatGPT. Some chatbots, such as Bard, use Google's PaLM 2 LLM, with others use Meta's Llama or one of its many variants.
@@ -71,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/d063f2ca427c5d79f99dec8234182f00aa398e1a0
 
  Multilingual support shouldn't be an issue as AI chatbots continue to improve. However, you should still try out a potential AI chatbot to ensure its translation features are up to par.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Cost and Plans
 
  Most AI chatbots have a free version and a premium version with advanced features. For example, ChatGPT's free version works great, but upgrading to Plus gives you access to GPT-4 and plugins. Similarly, Perplexity is free, but upgrading to Perplexity Pro gives you more GPT-4 uses and access to the file upload feature.

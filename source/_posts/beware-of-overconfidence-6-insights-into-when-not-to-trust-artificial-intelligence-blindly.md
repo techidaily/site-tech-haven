@@ -1,7 +1,7 @@
 ---
 title: "Beware of Overconfidence: 6 Insights Into When Not to Trust Artificial Intelligence Blindly"
-date: 2024-07-28 13:39:54
-updated: 2024-07-29 11:11:27
+date: 2024-08-02T16:05:01.728Z
+updated: 2024-08-03T16:05:01.728Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf
 
  Despite AI being innovative, it isn't always beneficial. Here are some ways AI chatbots have been positive and negative for professionals in the content industry.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## 1\. AI Minimizes Grammatical Errors
 
  AI chatbots have come a long way from producing incoherent text. Nowadays, advanced LLMs produce grammatically correct outputs on any topic under the sun. You could even ask them to adopt a specific tone.
@@ -35,6 +38,9 @@ The below image shows ChatGPT suggesting text corrections.
 
  You’ll find many[reliable grammar checkers online](http://www.makeuseof.com/tag/best-grammar-checker/) , but full-suite plans often come with monthly subscriptions. Free accounts get limited checks. On Grammarly, users can’t even unlock advanced suggestions until they upgrade to a Premium plan.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Poorly Researched Articles Spread Misinformation
 
 [One of the biggest problems with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) and Bing Chat, among other platforms, is that they don’t double-check facts. They merely present what they know. ChatGPT formulates answers from datasets, and Bing Chat runs search queries, but neither performs fact-checking.
@@ -47,8 +53,14 @@ The below image shows ChatGPT suggesting text corrections.
 
  Many shady AI writers actually draw flak for spreading misinformation. Only use chatbots for preliminary research. Ask them to break down complex subjects before diving into academic journals and scholarly papers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Generic AI-Generated Articles Flood SERPs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Analytics Google Search Results on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/google-search-results-on-smartphone.jpg)
 
  Unfortunately, you’ll find AI content ranking on Google. AI writers use the time and effort they save to improve their SEO, boosting page visibility. Some of them even utilize backlinks to fake authoritativeness.
@@ -71,6 +83,9 @@ The below image shows Bing Chat’s keyword research on AI.
 
 ## 5\. Content Mills Publish AI-Generated Articles in Masses
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to Write a 1,000 word Article on AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-1-000-word-article.jpg)
 
  Content mills have always prioritized quantity over quality. But with the availability of AI-driven chatbots, they further sped up the writing process at no extra cost. It’s common for them to publish hundreds of AI content daily.
@@ -79,6 +94,9 @@ The below image shows Bing Chat’s keyword research on AI.
 
  Avoid content mills like the plague. They pay industry-low rates, set unrealistic output expectations, and place zero value on quality writing. Your writing career won’t progress while working for them.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Plagiarism Has Become More Widespread
 
  Plagiarism has become more widespread recently. Remember: AI repeats answers. So if multiple writers were to discuss one topic, their articles would share the same angle, structure, outline, and theme. Some writers rephrase texts to avoid getting flagged for plagiarism.
@@ -89,6 +107,9 @@ The below image shows Bing Chat’s keyword research on AI.
 
  AI chatbots produce template responses. They pull information from the exact datasets even if you regenerate responses several times. Take the below conversation as an example. This photo shows ChatGPT answering a general knowledge question about AI.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Answering a Basic Question General Kowledge Question About AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answers-general-knowledge-question-about-ai.jpg)
 
  We started a new chat and reused our prompt, but ChatGPT provided identical facts. It only rephrased its output.
@@ -99,6 +120,9 @@ The below image shows Bing Chat’s keyword research on AI.
 
  Ultimately, the lack of variation and originality triggers plagiarism offenses. Your site’s ranking will quickly drop, and visitors won’t bother reading your blogs if they’ve already seen them elsewhere.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## 8\. AI Chatbots Commodify Subpar Content
 
  As content mills bombard readers with AI-generated pieces, other publications are forced to fight back. Even global media publishers invest in writing tools nowadays. Some use them ironically, while others churn out content to stay relevant.

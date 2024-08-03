@@ -1,7 +1,7 @@
 ---
 title: The 6 Revolutionary Traits of Snapchat's My AI
-date: 2024-07-22 20:17:26
-updated: 2024-07-25 12:12:52
+date: 2024-08-02T16:05:35.975Z
+updated: 2024-08-03T16:05:35.975Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 
  Snapchat’s trainers also use the same datasets. You’ll notice that My AI knows the same things as ChatGPT does, especially with general knowledge questions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Snapchat My AI Explaining the Details of an Image of an Object](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-recognizing-image-of-object.jpg)
 
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
@@ -43,12 +46,18 @@ Close
 
  Take this conversation as an example. We asked My AI to roleplay a fictional character. It maintained the instructed persona even after receiving 2,000+ words of irrelevant information. Other platforms may have dropped prior instructions by this point.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Snapchat My AI Roleplaying as Ash Ketchum from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-roleplay-request.jpg)
 
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. My AI Can Pull Real-Time Information
 
  My AI has some access to real-time data. Although it has trouble answering specific questions about current events, it can quickly pull general information online, such as weather forecasts, news headlines, and local events.
@@ -57,6 +66,10 @@ Close
 
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
 Close
@@ -67,8 +80,14 @@ Close
 
  Snapchat offers helpful location-based services. It can tell you which establishments and landmarks are near your current location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
 Close
@@ -81,14 +100,23 @@ Close
 
  While Bard AI and Bing Chat use more advanced LLMs than Snapchat, My AI surprisingly does well in Math.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
 
 Close
 
  Try rephrasing word problems that My AI answers wrong. You’ll generate better output if you compose clear, detailed prompts—avoid vague phrasing.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 6\. Snapchat Continuously Updates My AI
 
  Snapchat unexpectedly joined the AI race. Initial users responded poorly to My AI—it faced backlash for its faulty training and restrictions.[The Washington Post](https://www.washingtonpost.com/technology/2023/03/14/snapchat-myai/) even showed the chatbot providing harmful advice.

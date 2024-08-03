@@ -1,7 +1,7 @@
 ---
 title: How To Bookmark or Save Messages From Your ChatGPT Exchanges
-date: 2024-07-28 21:44:53
-updated: 2024-07-29 11:14:31
+date: 2024-08-02T16:05:15.575Z
+updated: 2024-08-03T16:05:15.575Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
 ## How Do AI Chatbots Manage Inappropriate Messages? Effects on Users
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * AI chatbots are censored to protect users from harmful content, comply with legal restrictions, maintain brand image, and ensure focused discussions in specific fields.
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
 ## Why Are AI Chatbots Censored?
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![illustration of man wearing a mask with censored on the face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Censored-image.jpg)
 
  There are a variety of reasons why programmers may censor an AI chatbot. Some are due to legal restrictions, while others are due to ethical considerations.
@@ -38,8 +44,14 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
  There are other reasons why generative AI chatbots are censored, but these four cover the majority of restrictions.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Censorship Mechanisms in AI Chatbots
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gold steel gears](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/what-is-ai-chatbot-censorship-mechanism.jpeg)
 
  Not all AI chatbots use the same censorship mechanisms. Censorship mechanisms vary depending on the AI chatbot's design and purpose.
@@ -52,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
  You'll often find AI chatbots using a combination of the tools above to ensure they don't escape the boundaries of their censorship. A good example is[ChatGPT jailbreak methods](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) that attempt to find ways around OpenAI's limitations on the tool. With time, users break through ChatGPT's censorship and encourage it to answer normally off-limits topics,[create dangerous malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) , or otherwise.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## The Balance Between Freedom of Speech and Censorship
 
  Balancing freedom of speech and censorship in AI chatbots is a complex issue. Censorship is essential for safeguarding users and complying with regulations. On the other hand, it must never infringe upon the right of people to express ideas and opinions. Striking the right balance is challenging.
@@ -74,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
  On the other hand, governments and organizations can use censorship as a loophole to ensure the chatbots do not respond to input they deem inappropriate. Or even use them to spread misinformation among citizens or employees.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Evolution of AI in Censorship
 
  AI and chatbot technology continually evolve, leading to sophisticated chatbots with an understanding of context and user intent. A good example is the development of deep learning models like GPT. This significantly increases the accuracy and precision of censorship mechanisms, reducing the number of false positives.

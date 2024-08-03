@@ -1,7 +1,7 @@
 ---
 title: Mastering ChatGPT Add-Ons - Begin Your Journey Through the Sign Up Procedure
-date: 2024-07-25 21:32:14
-updated: 2024-07-26 12:15:13
+date: 2024-08-02T16:05:46.754Z
+updated: 2024-08-03T16:05:46.754Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
 ## Navigate Through the Best Free AI Image Synthesis Programs – Our Open Source Selection
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Craiyon](https://www.makeuseof.com/best-open-source-ai-image-generators/#craiyon)
@@ -27,8 +30,14 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
  There are dozens of free and open-source AI text-to-image generators available on the internet that specialize in specific kinds of images. So, we've sifted through the pile and found the best open-source AI text-to-image generators you can try right now.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1 [Craiyon](https://www.craiyon.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![craiyon-home-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-home-page.jpg)
 
  Craiyon is one of the most easily accessible open-source AI image generators. It's based on DALL-E Mini, and while you can clone the[Github repository](https://github.com/borisdayma/dalle-mini) and install the model locally on your computer, Craiyon seems to have dropped this approach in favor of its website.
@@ -37,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
  In terms of functionality, you'll see all the usual options that you expect from an AI image generator. Once you enter your prompt and get an image, you can use the upscale feature to get a higher-resolution copy. There are three styles to choose from: Art, Photo, and Drawing. You can also select the "None" option if you want the model to decide.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![craiyon-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-generated-image.jpg)
 
  Additionally, "Expert Mode" lets you include negative words, which tells the model to avoid specific items. There's also a prompt prediction feature, which uses ChatGPT to help users write the best, most detailed prompts possible. Lastly, the AI-powered remove background features can help you save time and effort cropping backgrounds out of images.
@@ -61,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
  Running the model is also rather easy. We tested it with the[AUTOMATIC1111 Stable Diffusion web user interface](https://github.com/AUTOMATIC1111/stable-diffusion-webui) , and all controls and parameters work well. It's also quite NSFW-proof courtesy of the LAION-5B database that the model trained on (although it's not perfect, mind you). While generation time itself will vary based on your hardware, you can expect your images to be detailed and realistic even with basic prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 [DreamShaper](https://huggingface.co/Lykon/DreamShaper)
 
  DreamShaper is an image generation model based on Stable Diffusion. It was intended as an open-source alternative to MidJourney and focuses on photorealism in the generated images, although it can handle anime and painting styles just as well with a few tweaks.
@@ -75,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
  You don't need a behemoth PC to run the model, either. My GTX 1650Ti with 4GB VRAM ran the model perfectly. Generation time was a bit longer, but it didn't seem to affect the actual output. That said, you might require GPUs with more VRAM to run DreamShaper XL, which is based on the Stable Diffusion XL model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4 [InvokeAI](https://www.invoke.com/)
 
  Invoke AI is another AI-based image generation model based on Stable Diffusion, with an XL version based on Stable Diffusion XL. It also has its own web and command line user interface, meaning you won't have to jump hoops with things like the Stable Diffusion web UI.
@@ -95,6 +113,9 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
  For the image generation part, the model tends to lean more toward artistic styles than photorealism. Of course, you can train the model on your dataset and have it generate images closer to what you want, even if that involves photorealistic images, especially if you're working in product design, architecture, or retail spaces. However, one important thing to keep in mind is that InvokeAI is primarily an image generation engine, meaning you'll likely have to use your own models for the best results (easily found via the model manager provided in the web interface) as the default model is quite similar to Stable Diffusion itself.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 [Openjourney](https://openjourney.art/)
 
  Openjourney is a free, open-source AI image generation model based yet again on Stable Diffusion. If you're wondering why the model is called Openjourney, it's because it was trained on Midjourney images and can mimic its style in the images it generates.

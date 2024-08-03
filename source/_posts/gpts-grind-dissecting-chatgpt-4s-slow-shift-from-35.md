@@ -1,7 +1,7 @@
 ---
 title: "GPT's Grind: Dissecting ChatGPT-4's Slow Shift From 3.5"
-date: 2024-07-27 23:51:57
-updated: 2024-07-29 12:11:21
+date: 2024-08-02T16:05:16.019Z
+updated: 2024-08-03T16:05:16.019Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 
  DALL-E 3's integrated editing tools now aim to fix issues within the same image without creating a new prompt. You highlight an area in the image you want to adjust, prompt DALL-E to make a specific change (such as "remove this" or "add this feature"), and it goes to work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dalle 3 editing tools example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-example.jpg)
 
 However, it's a mixed bag.
@@ -47,6 +50,9 @@ However, it's a mixed bag.
 
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use DALL-E 3's Editing Tool
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
@@ -69,6 +75,9 @@ Close
 
  I asked DALL-E to "create a 2:1 4k image of a human eye close up, be detailed," resulting in the following image:
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
@@ -79,6 +88,9 @@ Close
 
  Next up, I prompted DALL-E to "create a 4k 2:1 claymation style image of a person wearing a tiger onesie skiing down a slope with a yeti background."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![dalle 3 editing tools tiger yeti claymation style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-tiger-yeti-claymation-style.jpg)
 
  Again, the original image is good, has sharp, vibrant colors, and matches the prompt. However, I wanted to switch the yeti to a different type of scary animal.
@@ -87,6 +99,9 @@ Close
 
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Adding Text
 
  There isn't much to cover here. As said, generative AI generally struggles with text anyway, and adding text to an image is even more difficult. I prompted DALL-E to create a postcard from a British seaside, which it did, capturing the scene nicely. I then wanted to add the words "Sunny Beach" to the image, which it just couldn't handle. That is, until after around six or seven back-and-forth prompts reminding DALL-E what it needed to do, it created a whole new image with the required text. And accurate text, too; I'm not sure about the baby face in the sunshine, mind.
@@ -97,6 +112,11 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
 
  I've found that DALL-E's editing tools are useful for certain tasks, but it takes some time to get the editing right. At other times, it just won't work, and you're probably better off taking your original prompt and tweaking that to create a new image.

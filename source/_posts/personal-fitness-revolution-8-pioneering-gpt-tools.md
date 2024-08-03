@@ -1,7 +1,7 @@
 ---
 title: "Personal Fitness Revolution: 8 Pioneering GPT Tools"
-date: 2024-07-23 10:41:40
-updated: 2024-07-26 10:12:27
+date: 2024-08-02T16:05:11.386Z
+updated: 2024-08-03T16:05:11.386Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
 
 ## Microsoft's Revolutionary Image Creator Tool – Generate One-of-a-Kind AI Images Today
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Microsoft Copilot Image Creator?](https://www.makeuseof.com/how-use-bing-image-creator-free/#what-is-microsoft-copilot-image-creator)
@@ -41,12 +44,18 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
 
  There are two "versions" of Copilot Image Creator, though they both work similarly. You can access the Copilot Image Creator directly from Microsoft Copilot within the Edge browser, which is an exclusive Edge feature. However, not wanting to cut potential users out, you can also access it in any browser by heading to the[Copilot Image Creator](https://copilot.microsoft.com/) . I'll cover the differences between each option below, but both AI image creation tools follow the same premise: you input your words, and the AI tool turns them into unique images.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## How to Use Microsoft Copilot Image Generator
 
  Microsoft's Copilot Image Creator uses DALL-E 3 to create AI images. DALL-E 3 is the same AI text-to-image you'll find on ChatGPT Plus, OpenAI's premium $20 subscription tier. So here's the rub: you can use the same DALL-E 3 image creation tool with Copilot without paying a penny.
 
  Copilot Image Creator is completely free, which gives it a substantial advantage over ChatGPT Plus. It's also not the only[reason to use Microsoft Copilot instead of ChatGPT](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### Microsoft Copilot Image Creator in Edge
 
  If you use Microsoft's Edge browser, the easiest way to start using the Image Creator is in a regular Copilot chat. Ask Copilot to create an image, and it'll do its best to deliver a unique take on your input, providing four 1:1 images (it will not give you a 2:1 image or otherwise, no matter what input you try—but there is a reason for that!).
@@ -57,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
 
  For example, I asked Copilot Image Creator to "create a 2:1 image of a person standing on a beach," which, of course, it didn't do and gave me four 1:1 images instead.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
 
  However, from there, I selected the image I wanted to use, pressed the "expand" icon in the bottom right corner, and selected**Landscape** . Copilot auto-magically adjusted the original image into a 2:1 1792x1024, finally fulfilling my original request.
@@ -67,12 +79,18 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Microsoft Copilot Image Creator in Any Browser
 
  If you don't use Edge, you can use Copilot Image Creator in any browser with its dedicated site. The Copilot Image Creator site is mostly the same but with a couple of differences.
 
  First up, the website version doesn't feature on-page AI editing like the Edge Copilot Image Creator. You can open any image you create in Microsoft Designer, but at the time of writing, this photo editor doesn't feature AI editing tools to change ratios, apply unique styles, and so on.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
  Second, the Image Creator available to all browsers uses a "boost" token system to provide speedy images. You start with 100 boosts, and each time you input a prompt, it uses a boost. Once your boosts run out, Image Creator won't prioritize your creations, and they can take a few minutes to appear. It doesn't appear to make a difference to quality, mind, just time.

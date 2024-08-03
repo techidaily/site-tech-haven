@@ -1,7 +1,7 @@
 ---
 title: "Custom ChatGPT Modus Operandi: The Ultimate 5 Methods"
-date: 2024-07-22 17:56:23
-updated: 2024-07-23 10:44:42
+date: 2024-08-02T16:05:25.674Z
+updated: 2024-08-03T16:05:25.674Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
  But using these AI systems isn’t just for big businesses. Let’s zero in on ChatGPT. If you’re a small business owner, there are plenty of ways to use this AI tool to boost your small business’s productivity and efficiency.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## 1\. Create Content
 
  Whether you’re crafting a blog for your business website or scripting a video for your brand’s YouTube channel, ChatGPT can be your go-to content creator. This is particularly valuable for small businesses that may not yet have the budget for a dedicated content writer.
@@ -45,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
 ## 4\. Make Text Excel-Friendly
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Use ChatGPT to Convert Text to Excel-Friendly Data-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-convert-text-to-excel-friendly-data-1.jpg)
 
  Most inventory systems necessitate inputting data into an Excel sheet, which can become problematic if all your information is stored in your smart device’s notes or even in a more traditional format, such as handwritten records in a notebook. Transferring this data into an Excel sheet can be a laborious and time-consuming process.
@@ -53,6 +60,15 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
  Paste the text into ChatGPT and instruct it to make columns based on your preference. Don’t forget to tell it to make the data easily copy-pastable into Excel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## 5\. Modify Text According to a Specified Format
 
  You can also give ChatGPT a large chunk of text to modify according to a specified format. Just provide the text and specify the formatting you want. These include:
@@ -67,14 +83,25 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 * Obfuscate emails (for example, <contact@muo.com> to contact\[at\]muo\[dot\]com
 * Format numbers (for example, 60000 to 60,000)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Translate Languages
 
  Many businesses often interact with customers who speak different languages, especially as the business expands. Thankfully, ChatGPT can assist with language translation. Copy-paste the text and ask the AI tool to translate it into your native language. Simply input the text and request its translation into your preferred language. Also, if you’re unsure of a language, ChatGPT can help[identify unknown languages for you](https://www.makeuseof.com/tag/what-language-is-this-5-online-tools-to-identify-almost-every-unknown-language/) too.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## 7\. Write Personalized Emails
 
  Similar to writing content, crafting personalized emails can be challenging. If writing personalized emails is part of your strategy to gain new customers and nurture existing customers, ChatGPT can help you make them. You can also use it to develop various versions of follow-up emails, providing flexibility and options if the initial outreach does not receive a response.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Create FAQ Lists
 
 ![Ask ChatGPT to Create FAQs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ask-chatgpt-to-create-faqs.jpeg)

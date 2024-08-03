@@ -1,7 +1,7 @@
 ---
 title: Collective Legal Action by Artists Against AI Innovators
-date: 2024-07-20 20:52:26
-updated: 2024-07-23 11:49:36
+date: 2024-08-02T16:05:14.350Z
+updated: 2024-08-03T16:05:14.350Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
 ## Elon Musk Introduces Grok: The Innovative AI Technology – Discover Its Functionality & Price Tag
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Elon Musk's AI startup xAI has unveiled Grok, a large language model aiming to compete with other leading models like OpenAI's GPT and Anthropic's Claude.
@@ -27,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
  Musk has talked xAI's Grok up, but does it have what it takes to compete?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## What Is xAI's Grok?
 
  Despite Musk regularly reminding the world that AI could be bad, that it could create a world without jobs for regular folks (if you believe Musk's take on this is benign, I have a bridge to sell you), and that the entire focus of AI needs greater governance, Musk proudly proclaimed on X that "In some important aspects, it \[Grok\] is the best that current exists."
@@ -41,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
  For any casual observer, Musk's chortling about being based is anything but, landing more on the toe-curling plane of discomfort, delivering a visceral sense of embarrassment. But for Musk's legion of fans, xAI's Grok is the long-awaited "answer to the monstrosity of WokeGPT," a reference to the boundaries and perceived neutering of ChatGPT's capabilities by OpenAI.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## How Does Grok Perform? Is Grok Better Than ChatGPT?
 
  Given only a minute number of users have been given access to Grok so far, most of what we know about its performance comes from xAI. The company was keen to stress that "Grok is still a very early beta product" and that its current performance is "the best we could do with 2 months of training."
@@ -53,6 +67,11 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
  Currently, it's difficult to say whether Grok is better than ChatGPT, and it's clear that Grok is speeding forward based on the work already laid out by other AI research companies.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## How Much Will Grok Cost? Who Can Use Grok?
 
  Grok is still currently in early testing. Limited beta access has been granted to a small number of X Premium Plus users, which currently costs $16 per month. Once Grok leaves its beta period, it will become available to all X Premium Plus subscribers, dangling a weighty AI-shaped carrot over X verification.
@@ -63,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
  Musk has indicated that a separate version of Grok may launch in the future, but there is little information on that at the current time.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## What's Next for xAI's Grok?
 
  xAI's development of Grok ticks off another goal for Musk, who was once part of the OpenAI team. He's long rallied against OpenAI's perceived censorship of ChatGPT, arguing that limiting its capabilities is limiting what people can and should be able to do with such powerful AI tools.

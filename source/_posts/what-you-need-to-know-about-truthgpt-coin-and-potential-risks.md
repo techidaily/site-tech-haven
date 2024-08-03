@@ -1,7 +1,7 @@
 ---
 title: What You Need to Know About TruthGPT Coin & Potential Risks
-date: 2024-07-22 19:18:22
-updated: 2024-07-25 10:16:46
+date: 2024-08-02T16:05:25.535Z
+updated: 2024-08-03T16:05:25.535Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  There are plenty of[language learning apps to choose from](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) , and developers are always looking for innovative ways to improve their products. Duolingo's early uptake of GPT-4 allowed them to roll out a new app called[Duolingo Max](https://blog.duolingo.com/duolingo-max/) , which brings two new GPT-4 enabled features.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshots from Duolingo Max](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshots-from-duolingo-max.jpg)
 
  Image Credit:[Duolingo](https://blog.duolingo.com/duolingo-max/)
@@ -40,6 +43,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
 ## 2\. Be My Eyes
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Picture Introducing Virtual Volunteer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-introducing-virtual-volunteer.jpg)
 
  The use of AI in our lives has been the source of many heated discussions. However, there are some areas where there can be little argument that AI has a positive effect. Be My Eyes is one such example. The app is designed to make the world more accessible for visually impaired people.
@@ -52,8 +58,14 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The Be My Eyes Virtual Volunteer is in beta testing; the company hopes to roll it out to the public soon. It will be available for free to all blind and low-vision members on both Android and iOS platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 3\. Khan Academy
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Khan Academy Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-khan-academy-homepage.jpg)
 
  On the topic of worthwhile causes, another early adopter of GPT-4 is Khan Academy, a[free online course platform](https://www.khanacademy.org/signup) . This non-profit organization's mission statement is to offer free, world-class education to anyone.
@@ -81,8 +93,14 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The Khan Academy app is free across all platforms; students and teachers can sign up online to join[Khan Academy](https://www.khanacademy.org/signup) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Stripe
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Stripe Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-stripe-homepage.jpg)
 
  Stripe is a payment processing platform that allows all types of businesses to accept and send payments online and provides other business management tools.
@@ -111,6 +129,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The app is an upgraded version of WriteSonic, a writing aid based on ChatGPT 3.5\. WriteSonic is the foundation that ChatSonic was built on; GPT-4 adds the extra functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What Can You Do With ChatSonic?
 
  The basis of the app is to be a one-stop personal assistant for your business. From developing your website to acting as a customer support chatbot, ChatSonic can do this and much more. The core tasks of this multi-tool include:
@@ -125,10 +146,16 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
 ## 6\. Bing AI
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
 
 Close
@@ -164,12 +191,18 @@ Close
 
  The most basic tier for GPT-4 is a one-off payment of $3.99 on top of the cost of the app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### What Can You Do With Petey?
 
  It has all the usual features you'd expect from a ChatGPT-based app. However, the inclusion of GPT-4 brings the added benefit of access to real-time data, which comes into its own with its Apple Music integration. Without GPT-4, this feature can only use music released before the GPT-3.5 cut-off date (around late 2021).
 
 **Download** :[Petey](https://apps.apple.com/us/app/petey-ai-assistant/id6446047813) for iOS ($3.99 Premium version required for GPT-4)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## GPT-4: A New Level of Artificial Intelligence
 
  These apps represent the tip of a huge GPT-4 iceberg. As more developers unlock the power of GPT-4, there will be many apps to follow. These will likely emulate many of the features and uses we mentioned. But what is more exciting is the companies looking to explore new and imaginative uses for a fledgling technology.

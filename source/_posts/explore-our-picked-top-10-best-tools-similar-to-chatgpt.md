@@ -1,7 +1,7 @@
 ---
 title: Explore Our Picked Top 1^0 Best Tools Similar to ChatGPT
-date: 2024-07-28 12:40:10
-updated: 2024-07-29 11:53:24
+date: 2024-08-02T16:05:05.760Z
+updated: 2024-08-03T16:05:05.760Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/e8d273b848143c340000d0079f7c83e7faa1151d7
 
 ## 1 [Craiyon](https://www.craiyon.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![craiyon-home-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-home-page.jpg)
 
  Craiyon is one of the most easily accessible open-source AI image generators. It's based on DALL-E Mini, and while you can clone the[Github repository](https://github.com/borisdayma/dalle-mini) and install the model locally on your computer, Craiyon seems to have dropped this approach in favor of its website.
@@ -37,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/e8d273b848143c340000d0079f7c83e7faa1151d7
 
  In terms of functionality, you'll see all the usual options that you expect from an AI image generator. Once you enter your prompt and get an image, you can use the upscale feature to get a higher-resolution copy. There are three styles to choose from: Art, Photo, and Drawing. You can also select the "None" option if you want the model to decide.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![craiyon-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-generated-image.jpg)
 
  Additionally, "Expert Mode" lets you include negative words, which tells the model to avoid specific items. There's also a prompt prediction feature, which uses ChatGPT to help users write the best, most detailed prompts possible. Lastly, the AI-powered remove background features can help you save time and effort cropping backgrounds out of images.
@@ -45,10 +55,17 @@ thumbnail: https://thmb.techidaily.com/e8d273b848143c340000d0079f7c83e7faa1151d7
 
  The model is free to use, but free users are limited to nine free images at a time within a minute. You can subscribe to their Supporter or Professional tiers (priced at $5 and $20 a month, respectively, and billed annually) to get no ads or watermarks, faster generation, and the option to keep your generated images private. A Custom subscription tier also allows custom models, integration, dedicated support, and private servers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 2 [Stable Diffusion 1.5](https://github.com/runwayml/stable-diffusion)
 
  Stable Diffusion is perhaps one of the most popular open-source text-to-image generation models. It also powers other models, including the three image generators mentioned below. It was released in 2022 and has had many implementations since.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![stable-diffusion-web-ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/stable-diffusion-web-ui.jpg)
 
  I'll spare you the overly technical details of how the model works (for which you can check out their[official Github repository](https://github.com/runwayml/stable-diffusion) ), but the model is easy to install even for complete beginners and works well as long as you have a dedicated GPU with at least 4GB of memory. You can also access[Stable Diffusion](https://stablediffusionweb.com/) online, and we've got you covered if you want to[run Stable Diffusion on a Mac](https://www.makeuseof.com/how-to-use-stable-diffusion-mac/) .
@@ -61,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/e8d273b848143c340000d0079f7c83e7faa1151d7
 
  Running the model is also rather easy. We tested it with the[AUTOMATIC1111 Stable Diffusion web user interface](https://github.com/AUTOMATIC1111/stable-diffusion-webui) , and all controls and parameters work well. It's also quite NSFW-proof courtesy of the LAION-5B database that the model trained on (although it's not perfect, mind you). While generation time itself will vary based on your hardware, you can expect your images to be detailed and realistic even with basic prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## 3 [DreamShaper](https://huggingface.co/Lykon/DreamShaper)
 
  DreamShaper is an image generation model based on Stable Diffusion. It was intended as an open-source alternative to MidJourney and focuses on photorealism in the generated images, although it can handle anime and painting styles just as well with a few tweaks.
@@ -87,6 +107,9 @@ thumbnail: https://thmb.techidaily.com/e8d273b848143c340000d0079f7c83e7faa1151d7
 
  However, the extra control does bring a few limitations, most notably stricter hardware requirements. InvokeAI recommends a dedicated GPU with at least 4GB of memory, with six to eight GB recommended for running the XL variant. The VRAM requirements apply to both AMD and Nvidia GPUs. You'll also need at least 12GB of RAM and 12GB of free disk space for the model, its dependencies, and Python.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![invoke-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/invoke-ai-generated-image.jpg)
 
  Yadullah Abidi/MakeUseOf/InvokeAI  
@@ -107,6 +130,9 @@ thumbnail: https://thmb.techidaily.com/e8d273b848143c340000d0079f7c83e7faa1151d7
 
  Openjourney doesn't list any specific hardware requirements for running the model locally on its website, but you can expect similar hardware requirements to Stable Diffusion. This means a dedicated GPU with 4GB VRAM, 16GB RAM, and around 12 to 15GB of free space on your computer to save the model and its dependencies.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![openjourney-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/openjourney-ai-generated-image.jpg)
 
  Yadullah Abidi/MakeUseOf/OpenJourney

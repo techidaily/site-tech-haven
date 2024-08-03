@@ -1,7 +1,7 @@
 ---
 title: Navigate Through the Best Free AI Image Synthesis Programs – Our Open Source Selection
-date: 2024-07-24 17:42:50
-updated: 2024-07-26 12:13:32
+date: 2024-08-02T16:05:36.954Z
+updated: 2024-08-03T16:05:36.954Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
  In terms of functionality, you'll see all the usual options that you expect from an AI image generator. Once you enter your prompt and get an image, you can use the upscale feature to get a higher-resolution copy. There are three styles to choose from: Art, Photo, and Drawing. You can also select the "None" option if you want the model to decide.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![craiyon-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-generated-image.jpg)
 
  Additionally, "Expert Mode" lets you include negative words, which tells the model to avoid specific items. There's also a prompt prediction feature, which uses ChatGPT to help users write the best, most detailed prompts possible. Lastly, the AI-powered remove background features can help you save time and effort cropping backgrounds out of images.
@@ -45,16 +48,26 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
  The model is free to use, but free users are limited to nine free images at a time within a minute. You can subscribe to their Supporter or Professional tiers (priced at $5 and $20 a month, respectively, and billed annually) to get no ads or watermarks, faster generation, and the option to keep your generated images private. A Custom subscription tier also allows custom models, integration, dedicated support, and private servers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2 [Stable Diffusion 1.5](https://github.com/runwayml/stable-diffusion)
 
  Stable Diffusion is perhaps one of the most popular open-source text-to-image generation models. It also powers other models, including the three image generators mentioned below. It was released in 2022 and has had many implementations since.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![stable-diffusion-web-ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/stable-diffusion-web-ui.jpg)
 
  I'll spare you the overly technical details of how the model works (for which you can check out their[official Github repository](https://github.com/runwayml/stable-diffusion) ), but the model is easy to install even for complete beginners and works well as long as you have a dedicated GPU with at least 4GB of memory. You can also access[Stable Diffusion](https://stablediffusionweb.com/) online, and we've got you covered if you want to[run Stable Diffusion on a Mac](https://www.makeuseof.com/how-to-use-stable-diffusion-mac/) .
 
  There are several checkpoints (consider them versions) available to use for Stable Diffusion. While we tested out version 1.5,[version 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1) is also in active development and is more precise.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![dreamshaper-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/dreamshaper-ai-generated-image.jpg)
 
  Yadullah Abidi/MakeUseOf/DreamShaper
@@ -75,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
  You don't need a behemoth PC to run the model, either. My GTX 1650Ti with 4GB VRAM ran the model perfectly. Generation time was a bit longer, but it didn't seem to affect the actual output. That said, you might require GPUs with more VRAM to run DreamShaper XL, which is based on the Stable Diffusion XL model.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4 [InvokeAI](https://www.invoke.com/)
 
  Invoke AI is another AI-based image generation model based on Stable Diffusion, with an XL version based on Stable Diffusion XL. It also has its own web and command line user interface, meaning you won't have to jump hoops with things like the Stable Diffusion web UI.
@@ -95,12 +111,18 @@ thumbnail: https://thmb.techidaily.com/d909c336a94ed9bab4a7576f74cacae95859492ef
 
  For the image generation part, the model tends to lean more toward artistic styles than photorealism. Of course, you can train the model on your dataset and have it generate images closer to what you want, even if that involves photorealistic images, especially if you're working in product design, architecture, or retail spaces. However, one important thing to keep in mind is that InvokeAI is primarily an image generation engine, meaning you'll likely have to use your own models for the best results (easily found via the model manager provided in the web interface) as the default model is quite similar to Stable Diffusion itself.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 [Openjourney](https://openjourney.art/)
 
  Openjourney is a free, open-source AI image generation model based yet again on Stable Diffusion. If you're wondering why the model is called Openjourney, it's because it was trained on Midjourney images and can mimic its style in the images it generates.
 
 [PromptHero](http://prompthero.com/create) , the company behind Openjourney, lets you test the model alongside other models, including Stable Diffusion (versions 1.5 and 2), DreamShaper, and Realistic Vision. When signing up, you get 25 free credits (one credit for each image generated), after which you have to subscribe to their Pro subscription tier, which costs $9 a month and gives you access to 300 credits each month with other exclusive features.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![openjourney-stablediffusion-comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/openjourney-stablediffusion-comparison.jpg)
 
  However, if you want to run it locally and for free, you can[download the model file from HuggingFace](https://huggingface.co/prompthero/openjourney) and run it using the Stable Diffusion web UI. Openjourney is also the second most downloaded AI image generation model on HuggingFace, right behind Stable Diffusion.

@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Revolutionary Image Creator Tool – Generate One-of-a-Kind AI Images Today!
-date: 2024-07-21 13:50:41
-updated: 2024-07-24 11:54:49
+date: 2024-08-02T16:05:40.774Z
+updated: 2024-08-03T16:05:40.774Z
 tags:
   - chatgpt
   - open-ai
@@ -15,12 +15,18 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
 ## Microsoft's Revolutionary Image Creator Tool – Generate One-of-a-Kind AI Images Today
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Microsoft Copilot Image Creator?](https://www.makeuseof.com/how-use-bing-image-creator-free/#what-is-microsoft-copilot-image-creator)
 * [How to Use Microsoft Copilot Image Generator](https://www.makeuseof.com/how-use-bing-image-creator-free/#how-to-use-microsoft-copilot-image-generator)
 * [Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?](https://www.makeuseof.com/how-use-bing-image-creator-free/#should-you-use-microsoft-copilot-image-creator-or-chatgpt-plus-with-dall-e-3)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Microsoft Copilot Image Creator is a competitor to OpenAI's DALL-E 3, but it also uses DALL-E 3 tech.
@@ -31,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
  That's right; you can use Microsoft Copilot to generate free AI images using DALL-E 3, and it's incredibly simple to do.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Microsoft Copilot Image Creator?
 
  The[Official Microsoft Blog](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/) first announced that AI image creation would be coming to Copilot on 21 March 2023\. At the time, Copilot was still called Bing AI Chat prior to its November 2023 name change.
@@ -47,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
  Copilot Image Creator is completely free, which gives it a substantial advantage over ChatGPT Plus. It's also not the only[reason to use Microsoft Copilot instead of ChatGPT](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Microsoft Copilot Image Creator in Edge
 
  If you use Microsoft's Edge browser, the easiest way to start using the Image Creator is in a regular Copilot chat. Ask Copilot to create an image, and it'll do its best to deliver a unique take on your input, providing four 1:1 images (it will not give you a 2:1 image or otherwise, no matter what input you try—but there is a reason for that!).
@@ -57,6 +69,9 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
  For example, I asked Copilot Image Creator to "create a 2:1 image of a person standing on a beach," which, of course, it didn't do and gave me four 1:1 images instead.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
 
  However, from there, I selected the image I wanted to use, pressed the "expand" icon in the bottom right corner, and selected**Landscape** . Copilot auto-magically adjusted the original image into a 2:1 1792x1024, finally fulfilling my original request.
@@ -73,6 +88,9 @@ Close
 
  First up, the website version doesn't feature on-page AI editing like the Edge Copilot Image Creator. You can open any image you create in Microsoft Designer, but at the time of writing, this photo editor doesn't feature AI editing tools to change ratios, apply unique styles, and so on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
  Second, the Image Creator available to all browsers uses a "boost" token system to provide speedy images. You start with 100 boosts, and each time you input a prompt, it uses a boost. Once your boosts run out, Image Creator won't prioritize your creations, and they can take a few minutes to appear. It doesn't appear to make a difference to quality, mind, just time.

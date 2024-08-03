@@ -1,7 +1,7 @@
 ---
 title: The Hidden Depth of Snapchat's MyAI - Learn About Its Six Unexpected Utilities Beyond Cool Tech!
-date: 2024-07-23 11:10:35
-updated: 2024-07-24 10:57:38
+date: 2024-08-02T16:05:45.204Z
+updated: 2024-08-03T16:05:45.204Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 
 ## 1\. My AI Runs on GPT-3.5
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
 
  Snapchat uses the same[large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) as ChatGPT. The GPT model is a powerful LLM that composes coherent paragraphs, adopts different writing styles, and uses everyday language. Its output almost seems indistinguishable from human writing.
@@ -35,6 +38,9 @@ Close
 
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Conversations Retain the Last 3,000 Words
 
  Contextual memory helps AI provide more accurate responses. Instead of taking prompts at face value, chatbots will reference relevant information in active conversations. Let’s say you’re looking for side hustles. AI-driven chatbots will also consider your skills and career background, assuming you provide them.
@@ -43,12 +49,22 @@ Close
 
  Take this conversation as an example. We asked My AI to roleplay a fictional character. It maintained the instructed persona even after receiving 2,000+ words of irrelevant information. Other platforms may have dropped prior instructions by this point.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Snapchat My AI Roleplaying as Ash Ketchum from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-roleplay-request.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 3\. My AI Can Pull Real-Time Information
 
  My AI has some access to real-time data. Although it has trouble answering specific questions about current events, it can quickly pull general information online, such as weather forecasts, news headlines, and local events.
@@ -57,12 +73,18 @@ Close
 
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
 Close
 
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 4\. Snapchat’s Location Services Are Wholly Utilized
 
  Snapchat offers helpful location-based services. It can tell you which establishments and landmarks are near your current location.
@@ -89,6 +111,9 @@ Close
 
  Try rephrasing word problems that My AI answers wrong. You’ll generate better output if you compose clear, detailed prompts—avoid vague phrasing.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Snapchat Continuously Updates My AI
 
  Snapchat unexpectedly joined the AI race. Initial users responded poorly to My AI—it faced backlash for its faulty training and restrictions.[The Washington Post](https://www.washingtonpost.com/technology/2023/03/14/snapchat-myai/) even showed the chatbot providing harmful advice.
@@ -97,6 +122,9 @@ Close
 
  Snapchat also adds new features consistently. Take My AI’s image prompting feature as an example. The chatbot is getting way better at recognizing images, even ones you take yourself. Meanwhile, other chatbots have yet to adopt image prompting.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Snapchat’s New AI Assistant
 
  My AI was initially limited to Snapchat+ subscriptions. But Snapchat has made the chatbot available for free users.

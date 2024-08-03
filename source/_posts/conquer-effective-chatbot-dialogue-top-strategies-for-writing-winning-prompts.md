@@ -1,7 +1,7 @@
 ---
 title: "Conquer Effective Chatbot Dialogue: Top Strategies for Writing Winning Prompts"
-date: 2024-07-25 10:48:47
-updated: 2024-07-26 12:26:46
+date: 2024-08-02T16:05:20.846Z
+updated: 2024-08-03T16:05:20.846Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 
 ## 1.[ChatGPT - EasyCode](https://marketplace.visualstudio.com/items?itemName=EasyCodeAI.chatgpt-gpt4-gpt3-vscode)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT by EasyCode AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-by-easycode-ai.jpg)
 
  The ChatGPT extension by EasyCode is a readily available way to get AI assistance via different language models. It supports ChatGPT-3.5 and ChatGPT-4, with the option to switch between them easily. The extension also supports[Claude AI an alternative to ChatGPT](https://www.makeuseof.com/what-is-claude-ai-why-use-it/) . If your OpenAI account includes premium features from GPT-4, you can also add your API key for extended use.
@@ -47,8 +50,14 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 
  Another valuable feature is code indexing, allowing you to highlight your code and seek help in navigating complex situations. This extension requires an OpenAI API key, which you'll set in its settings menu after installation. However, the extension may fail if you’ve exhausted your free OpenAI credit.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[Code GPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Code GPT 4 interface VS Code extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/code-gpt-4-interface-vs-code-extension.jpg)
 
  Code GPT offers a more inclusive AI service for VS Code. Although its default AI model choice comes from OpenAI's ChatGPT-3.5 and ChatGPT-4, it also features[ChatGPT alternatives](https://www.makeuseof.com/best-alternatives-chatgpt/) , including Cohere, AI21, Google's Bard, and Anthropic, among others.
@@ -57,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 
  It features built-in and custom prompts. A small setback is that it only allows a maximum of 800 tokens per request, so it supports less text than some other providers.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4.[ChatGPT Helper](https://marketplace.visualstudio.com/items?itemName=kiranshah.chatgpt-helper)
 
 ![ChatGPT Helper extsnion VS Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-helper-extsnion-vs-code.jpg)
@@ -67,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 
  However, unlike other ChatGPT extensions, it doesn't have a chat feature. But you can send custom and built-in prompts via VS Code's command palette. It writes responses in separate text files, allowing you to save prompt replies for later.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5.[ChatGPT - Genie AI](https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode)
 
 ![Genie AI ChatGPT extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/genie-ai-chatgpt-extension.jpg)
@@ -77,8 +92,15 @@ thumbnail: https://thmb.techidaily.com/b89bc76dab2d2da8b94cbca20640b5005a7d28742
 
  While using the extension, you don't need to manually copy and paste the code it generates. Genie AI will automatically write responses into relevant code files, which you can use directly in your app. You can also save your conversations locally and resume them later.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 6.[ChatGPT VS Code Plugin by Jay Barnes](https://marketplace.visualstudio.com/items?itemName=JayBarnes.chatgpt-vscode-plugin)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![ChatGPT VS Code extension by Jay Barnes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-vs-code-extension-by-jay-barnes.jpg)
 
  If you want to use ChatGPT for free, the ChatGPT VS Code extension by Jay Barnes comes in handy. It operates on a different level and requires your ChatGPT web session token and user agent rather than your OpenAI API key. So it's invariably free since it extends your interaction with ChatGPT from the web.

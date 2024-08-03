@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio Code Companion: In-Depth Walkthrough for Adding and Using CodeGPT to Your Projects"
-date: 2024-07-26 19:31:16
-updated: 2024-07-29 12:18:29
+date: 2024-08-02T16:05:34.441Z
+updated: 2024-08-03T16:05:34.441Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
  ChatGPT is one of the most popular AI as of late—you can’t seem to go a day without hearing the name or reading an article on it. Even more, its capabilities are impressive. The question here, though, is can it be used to replace other AI grammar checkers?
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Can You Use ChatGPT as a Proofreader?
 
  To directly answer the question, yes. ChatGPT can be used as a proofreader. However, there are limitations to what the AI can do for you and your writing.
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
 ![Asking ChatGPT to proofread any spelling mistakes in this paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spelling.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT recommendations for what spelling errors to fix](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spelling-answers.jpeg)
 
  ChatGPT’s response proved that it was capable of not only correcting the misspelled words but also correcting the misused words like “there” and “wright.” It also goes on to explain exactly what it changed to correct the spelling, so the writer can learn from any mistakes.
@@ -43,12 +49,18 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
  This super short story about a robot was submitted to ChatGPT to look for any punctuation issues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![asking ChatGPT to proofread this paragraph for punctuation mistakes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/punctuation.jpeg)
 
 ![ChatGPT's answer to any punctuation mistakes in the paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/punctuation-answer.jpeg)
 
  ChatGPT was able to correct all the punctuation errors. This included replacing the question marks with periods and placing commas where they were needed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Check Grammar
 
  This quick scenario of some friends going to the store and then playing video games was submitted to ChatGPT to look for any grammar issues.
@@ -59,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
  ChatGPT was impressive with its ability to correct all grammar mistakes. Not only was it able to detect the subject-verb agreement issues, but it also found multiple errors with tense. As an added bonus, ChatGPT also corrected the order placement of multiple subjects in a sentence.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Check Passive Voice
 
  Because other AI grammar checkers frequently look for passive voice, a test paragraph was submitted to ChatGPT to see if it could detect voice as well.
@@ -73,8 +88,15 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
  ChatGPT suggests that the writer only asks for it to focus on one issue at a time. This short paragraph was submitted to ChatGPT to simply proofread to see if more work makes a difference.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to Proofread a Paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/just-proofread.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT's answers to proofreading a paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/just-proofread-answers.jpeg)
 
  ChatGPT fixed all the mistakes—however, it also claimed that it fixed issues that weren’t there. For example, it said that “ChatGPT should be capitalized” and that a period should be added to the second sentence when both of those suggestions already existed in the original.
@@ -95,14 +117,23 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
  It is a great tool and writers can[use ChatGPT to succeed in this new age of technology](https://www.makeuseof.com/tips-writers-to-succeed-ai-content/) . However, it is important to know the limitations of AI—it can’t beat the experience of a trained human professional.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What to Look Out For
 
  ChatGPT is upfront when you ask if it can proofread your work. It says it’s not perfect and could make mistakes. It is incredibly important to consider every suggestion it makes and know whether it is correct or not.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT's send a message screen with explaination that it may produce wrong information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/send-a-message.jpeg)
 
  Furthermore, ChatGPT may try to overcorrect your work—meaning the paragraph you put in comes out reading like ChatGPT wrote it. It’s important to make sure that your finished written work is still your own writing. If you copy and paste overcorrected work, you are risking the chance of it getting[flagged by an AI-generated content checker](https://www.makeuseof.com/accurate-ai-text-detectors/) .
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Using ChatGPT to Find Errors in Your Own Work
 
  Sometimes, people can be a bit weary of using AI—there are still some questioning and fallacies that come with technological advancement. However, ChatGPT can be extremely beneficial and has the ability to help where needed, like proofreading.

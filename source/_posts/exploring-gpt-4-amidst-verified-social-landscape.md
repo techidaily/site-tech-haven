@@ -1,7 +1,7 @@
 ---
 title: Exploring GPT-4 Amidst Verified Social Landscape
-date: 2024-07-25 15:47:42
-updated: 2024-07-26 11:13:40
+date: 2024-08-02T16:06:14.768Z
+updated: 2024-08-03T16:06:14.768Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
  ChatGPT, the AI language model that has taken the world by storm, can now be used together with Excel to help you accomplish more in less time. In this post, we'll explore how you can leverage this powerful tool to help with everyday Excel usage and get answers to complex questions with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Getting Started With ChatGPT and Excel
 
 [ChatGPT's many practical use cases](http://www.makeuseof.com/ways-you-can-use-auto-gpt/) include its ability to provide real-time assistance and answer Excel-related queries instantly.
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 2. **Macros** : To create a macro that copies the contents of one cell to another, you can ask ChatGPT with a prompt like "How can I create a macro that copies the value of cell A1 to cell B1?" or "What is the VBA code to copy a cell value to another cell?"
 3. **Data Analysis** : To generate a chart based on a range of data, you can ask ChatGPT with a prompt like "What is the formula to create a chart based on these values xyz?” or "Can you help me create a chart that shows the trend of my sales data?"
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Prompts and Code Examples for Excel
 
  Here are some examples of common ChatGPT prompts and code that can be useful while working with Excel.
@@ -43,12 +49,21 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
  To round a number to the nearest whole number, you can ask ChatGPT, "What is the formula to round a number to the nearest whole number?", and ChatGPT will respond with the formula "=ROUND(A1,0)".
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![ChatGPT showing the formula to round a number to the nearest whole number on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-round-number.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Calculating Averages
 
  To calculate the average of a range of cells, you can ask ChatGPT, "What is the formula to calculate the average of cells A1 to A10?", and ChatGPT will respond with the formula "=AVERAGE(A1:A10)".
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![ChatGPT showing the formula to calculate the average of cells on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-average.jpg)
 
 ### 3\. Sorting and Filtering Data
@@ -69,10 +84,16 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
  If you ask “Calculate the weighted average of a range of cells”, it will respond with:
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT showing the formula for the SUMPRODUCT function for weighted average on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-weighted-average.jpg)
 
  As you can see, ChatGPT can provide you with the prompts and code examples you need to use Excel more effectively. Just ask ChatGPT in plain English, and it will respond with the necessary information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Practices of Using ChatGPT With Excel
 
  While ChatGPT can be a powerful tool for working with Excel, it's essential to use it correctly to get the best results. Here are some best practices for using ChatGPT with Excel.
@@ -83,12 +104,18 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
  For instance, a prompt like "Can you please tell me the average sales figures for the previous quarter, excluding sales from the southeast region, and sorted by date in descending order?" might be too complicated for ChatGPT to parse and provide a meaningful response accurately.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### 2\. Double-Check the Generated Code
 
  ChatGPT is an AI-based tool, and while it's usually very accurate, it's always a good idea to double-check the generated code to ensure it's doing what you want it to do. Test the generated code with sample data to ensure it's accurate and functioning as expected.
 
  When using ChatGPT to generate a macro, review the code carefully and check for syntax errors or logical inconsistencies. Testing the macro with sample data can also help ensure it functions as expected.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Start With More Straightforward Problems
 
  If you're new to using ChatGPT with Excel, starting with more specific and straightforward issues is a good idea to understand how the tool works. For example, you can begin by asking for formulas to[sort and filter data in Excel](https://www.makeuseof.com/excel-macros-for-sorting-data/) or create a pivot table.

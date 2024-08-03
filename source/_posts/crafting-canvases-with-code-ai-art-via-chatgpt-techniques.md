@@ -1,7 +1,7 @@
 ---
 title: "Crafting Canvases with Code: AI Art via ChatGPT Techniques"
-date: 2024-07-24 15:41:38
-updated: 2024-07-25 12:39:45
+date: 2024-08-02T16:05:29.520Z
+updated: 2024-08-03T16:05:29.520Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e8013
 
  For instance, imagine you have a packed schedule for the day and don't know where to start. Enter your tasks into ChatGPT, prompt it to sort things into an Eisenhower Matrix, and get a better sense of your priorities in an instant.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![ChatGPT Eisenhower Matrix example prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-eisenhower-matrix-example-prompt.jpg)
 
  This approach is named for[U.S. President Dwight D. Eisenhower](https://www.presidency.ucsb.edu/documents/address-the-second-assembly-the-world-council-churches-evanston-illinois) , who once quoted a former college president's philosophy about time management in a speech.
@@ -63,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e8013
 
  For a more proactive take, the chatbot can also find ways to automate some of your routine tasks. For this example, we prompted ChatGPT to provide some automation ideas for a realtor.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT automation ideas for a realtor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-automation-ideas-for-a-realtor.jpg)
 
  ChatGPT provided several tips in regard to email marketing, virtual tours, and property listing syndication services that can help realtors excel in their line of work while saving some time. Prompt the chatbot for some advice about time management in your own career for more specific tips.
@@ -73,22 +79,35 @@ thumbnail: https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e8013
 
  In instances like these, you can even prompt ChatGPT to assume various roles. In this case, we had it present the information like a professional organizer, with a focus on getting through the process as quickly and efficiently as possible.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![ChatGPT decluttering prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-decluttering-prompt.jpg)
 
  The chatbot provided a series of tips for decluttering more efficiently. Many of them focused on speeding up the process, such as the advice to make rapid decisions about whether to keep or donate a particular item.
 
  The next time you have a large project to tackle, see whether ChatGPT can help you sort through the steps to make it more manageable and efficient. The chatbot just might offer the right piece of advice to help speed up the whole job.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 4\. Get Personalized Time-Saving Tips
 
  Prompt the bot to provide time-saving tips. Tailor the prompts to suit your specific needs (i.e., “provide time-saving tips for people with a long commute” or “provide time-saving tips for software developers”).
 
  In this case, we requested time-saving tips for people who struggle with procrastination. After all, the tendency to procrastinate is one of the[biggest time management mistakes](https://www.makeuseof.com/time-management-mistakes-to-avoid/) that many people face from time to time. For this prompt, we focused on procrastination around household chores in particular.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT procrastination prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-procrastination-prompt.jpg)
 
  The chatbot offered plenty of practical advice about eliminating unnecessary steps and visualizing the end result for motivation. Given the sheer amount of information that ChatGPT can pull from, it can likely suggest time-saving options for your situation, too. Remember to provide detailed, specific prompts to get the best advice.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## Save Time With ChatGPT
 
  For the most part, AI technologies such as ChatGPT can help streamline your productivity and time management skills. Experiment with the chatbot to make the most of your time with a few simple prompts.

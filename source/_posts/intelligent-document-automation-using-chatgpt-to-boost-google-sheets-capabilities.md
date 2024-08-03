@@ -1,7 +1,7 @@
 ---
 title: "Intelligent Document Automation: Using ChatGPT to Boost Google Sheets Capabilities"
-date: 2024-07-23 12:52:53
-updated: 2024-07-26 11:10:55
+date: 2024-08-02T16:05:06.342Z
+updated: 2024-08-03T16:05:06.342Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 
 ## Unveiling the Top 8 AI Mobile Applications: Boost Your Phone's Capabilities Today
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * AI apps are now available in various fields such as productivity, education, entertainment, and more, catering to a range of needs.
@@ -27,12 +30,25 @@ thumbnail: https://thmb.techidaily.com/06d94324402f19737805b6dd681a3b55315b5b457
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## 1\. ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![ChatGPT in App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-in-app-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 ![ChatGPT demo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-demo.jpg)
@@ -49,8 +65,14 @@ Close
 
 ![WOMBO Dream AI art generator app text prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-art-generator-app-text-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![WOMBO Dream AI art generator app art style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-art-generator-app-art-style-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![WOMBO Dream AI artwork example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-artwork-example.jpg)
 
 Close
@@ -71,6 +93,9 @@ Close
 
 ![Youper Therapy chatbot emotions tracking slider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-emotions-tracking-slider.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![Youper Therapy chatbot emotions log](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-emotions-log.jpg)
 
 Close
@@ -87,8 +112,15 @@ Close
 
 ![Replika AI app relationship status options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replika-ai-app-relationship-status-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Replika AI app chat example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replika-ai-app-chat-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Replika AI app Pride Month outfit collection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replika-ai-app-pride-month-outfit-collection.jpg)
 
 Close
@@ -99,8 +131,14 @@ Close
 
 **Download:** Replika for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=ai.replika.app) |[iOS](https://apps.apple.com/us/app/replika-virtual-ai-companion/id1158555867) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Be My Eyes
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Be My Eyes app start screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-start-screen.jpg)
 
 ![Be My Eyes app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-home-page.jpg)
@@ -119,8 +157,14 @@ Close
 
 ## 6\. Bing
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Home page for the Bing app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-app-home.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bing AI App Discussing Its GPT Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-app-on-gpt-models.jpg)
 
 ![Bing app horse image generation results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/image-generation-3.jpg)
@@ -137,10 +181,16 @@ Close
 
 ![ELSA Speak English learning app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-home-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ELSA Speak English learning app training options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-training-options.jpg)
 
 ![ELSA Speak English learning app catching errors in pronunciation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-catching-errors-in-pronunciation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ELSA Speak English learning app personalized course](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-personalized-course.jpg)
 
 Close
@@ -151,8 +201,14 @@ Close
 
 **Download:** ELSA for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=us.nobarriers.elsa) |[iOS](https://apps.apple.com/us/app/elsa-english-language-app/id1083804886) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 8\. Otter
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Otter AI app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/otter-ai-app-home-page.jpg)
 
 ![Otter AI app transcribing speech example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/otter-ai-app-transcribing-speech-example.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Merging AI and Messaging: ChatGPT with WhatsApp Support Guide"
-date: 2024-07-23 11:53:59
-updated: 2024-07-26 11:55:53
+date: 2024-08-02T16:05:37.485Z
+updated: 2024-08-03T16:05:37.485Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,11 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 
  And just like you wouldn't start a road trip without a destination, don't start your wellness journey without setting your health goals.[ChatGPT can provide reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/) , so there are plenty of[reasons to use ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/) , including setting health goals.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Getting Started With ChatGPT
 
  Learning[how to use ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) is easy. You can interact with ChatGPT in a variety of ways, including:
@@ -36,8 +41,14 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 
  To get the most out of ChatGPT, you will also want to know[how to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . Try, for example, "You are a nutritional expert and world-renowned health coach working with a new client who needs help establishing health goals" and see what kind of responses you get! You might be amazed at the conversation that follows.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT prompt and response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-17-at-10-22-29-am.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Brainstorming Health Goals
 
  So you've chatted with ChatGPT and now you're ready to set some health goals. But wait, what if you're not quite sure what your goals should be? No problem! All you need to do is ask.
@@ -48,10 +59,16 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 
  Here's an example: You could tell ChatGPT, "I sit a lot for work and often eat fast food. What are some health goals I could set?" Based on this, ChatGPT could suggest goals like taking regular breaks to stretch, incorporating more whole foods into your meals, or setting a healthier sleep schedule.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT response to a health question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-17-at-10-24-19-am.jpg)
 
  Remember, it's your journey and your goals. ChatGPT is there to help you brainstorm and customize them to fit your needs. And if you're ever in doubt about the recommendations you receive, be sure you know[how to fact-check health information from ChatGPT](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/) .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Clarifying and Defining Your Health Goals
 
 Now that you've got some health goals in mind, let's sharpen them.
@@ -74,6 +91,9 @@ Now that you've got some health goals in mind, let's sharpen them.
 
  For regular exercise, you could ask, "How can I exercise more regularly when I work 9-5 and have no energy left at the end of the day?" You will likely get suggestions like scheduling workout time over the lunch hour or cycling to work.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT exercise recommendations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-17-at-10-26-09-am.jpg)
 
 ## Using ChatGPT to Help You Achieve Your Health Goals

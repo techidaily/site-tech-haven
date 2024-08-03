@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Productivity: ChatGPT for Effective Time Utilization"
-date: 2024-07-24 11:24:15
-updated: 2024-07-26 11:48:45
+date: 2024-08-02T16:05:23.349Z
+updated: 2024-08-03T16:05:23.349Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b5
 
  What if you could have AI create it all for you? Since ChatGPT can't output files, you can combine ChatGPT with another AI tool and have them build your presentation from scratch. All in a matter of seconds. Sounds good? Read on to learn how.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Create a Presentation From Scratch With ChatGPT
 
  Before diving into creating a presentation with ChatGPT, let's go over the steps involved. We'll use a combination of two AI tools to make this presentation.
@@ -70,13 +73,22 @@ thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b5
 
 1. Open the**Extensions** menu.
 2. Go to SlidesAI and then click**Generate Slides** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under**Enter text** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
 6. Check**Replace Existing Slides** .
 7. Go to the**Themes** tab and select a style.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Choosing a theme in SlidesAI ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-slidesai-theme.jpg)
 8. When all is set, go back to the**Text** tab and click**Create Slides** .
 
@@ -86,10 +98,16 @@ thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b5
 
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 4\. Add the Finishing Touches and Export the Presentation
 
  Now you can customize the slides and add the finishing touches. Remember that AI is still prone to making mistakes, so proofread your presentation to ensure there aren't any blunders. If the main content looks good, you can then start making visual improvements like[adding animations to your slides](https://www.makeuseof.com/add-animation-google-slides/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![The Magic Write tool in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-magic-write.jpg)
 
  There's a chance that SlidesAI adds irrelevant images to some slides. In that case, you can replace the image with SlideAI's Magic Write tool. This feature considers the slide's content and suggests relevant stock photos.
@@ -105,6 +123,9 @@ thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b5
 
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to**File > Download** and then select**Microsoft PowerPoint** .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Create Efficient Presentations in Minutes
 
  Creating a presentation involves a lot of invisible work. In an ideal world, you would dedicate your precious time to researching and rehearsing, and have someone else do the labor of creating the presentation.

@@ -1,7 +1,7 @@
 ---
 title: Top 5 Unauthorized Uses for GPT-3
-date: 2024-07-26 15:10:33
-updated: 2024-07-28 10:46:32
+date: 2024-08-02T16:06:05.988Z
+updated: 2024-08-03T16:06:05.988Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
  Take the below text about cats as an example. You won’t spot any basic errors like typos, missing punctuation marks, or misspelled words. It’s a relatively decent piece.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Generated a 200-Word Article on Cats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-on-cats.jpg)
 
  Now, compare it with the below photo. You’ll notice that the response follows the exact template, although this one talks about dogs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
 
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
@@ -53,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
 ## 4\. AI Scrapes Commonly Published Information
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Copy.ai Generates an Article on Taking Care of Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-on-dogs.jpg)
 
  AI avoids inaccuracies by generating generic responses. Take the above piece as an example. When we asked an AI writing tool to talk about dog care, it focused on super-common tips, which readers have likely seen multiple times. The below photo also shows that its insights came from an unreliable source.
@@ -63,14 +72,23 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
  Of course, you can still discuss general subjects. Just make sure you cover a unique angle or stand that aligns with your branding and image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. AI Generates the Same Results for Similar Questions
 
  While AI scans billions of resources, its answers contain the same information. Chatbots and writing tools generate formulaic text comprising repeated data, regardless of how you state questions. Restructuring prompts will only trigger sentence variations.
 
  For more accurate insights, double-check facts by visiting reputable, credible resources. Also, compare differing opinions. There are several ways to approach topics—you don’t have to copy the story angles of your AI tools.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. AI Can’t Adopt Your Tone
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![ChatGPT Generates Dog Articles in Different Tones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-dog-articles-examples.jpg)
 
  AI writing tools and chatbots can structure responses in certain ways. For instance, the above photo shows that ChatGPT could form professional and casual variations of the same topic. Generally, if you insert specific keywords into your prompts, you’ll trigger detailed changes.
@@ -87,6 +105,9 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
  If you want top-ranking pages, focus on providing value. Haphazardly instructing writing tools and chatbots to stuff keywords into lengthy, generic blogs yields negligible results. Search engines might even qualify your site as spam.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Many Premium Plagiarism Checkers Flag AI-Generated Pieces
 
 ![Plagiarism Checker Results of AI-Generated Text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/plagiarism-checker-results.jpg)

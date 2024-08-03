@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Secrets to Penning Persuasive Business Proposals Successfully
-date: 2024-07-24 13:50:19
-updated: 2024-07-25 10:50:17
+date: 2024-08-02T16:05:53.081Z
+updated: 2024-08-03T16:05:53.081Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 
  If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question asked more than any other: is ChatGPT getting dumber?Is the performance of the world's leading generative AI chatbot decreasing as time passes, or are ChatGPT's millions of users collectively hallucinating quality issues?
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is ChatGPT Getting Worse?
 
  It's something many ChatGPT users have wondered: is ChatGPT getting dumber? OpenAI releases frequent updates to ChatGPT designed to tweak its responses, safety, and more,[using user feedback](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , prompts, and user data to inform its direction.
@@ -27,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 
  Responses requiring specific outputs, like those involving coding and math, are likely easiest to compare directly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Stanford Study Suggests ChatGPT Drop Off
 
  A combined Stanford University and UC Berkley research group believes those feelings that ChatGPT is changing could be right. Lingjiao Chen, Matei Zaharia, and James Zou's paper[How Is ChatGPT's Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf) \[PDF\] is one of the first in-depth studies into ChatGPT's changing capabilities.
@@ -37,10 +44,16 @@ The report summary explains:
 
  When presented with math problems ChatGPT could previously solve earlier in 2023, responses later in the year were wildly inaccurate. Furthermore, ChatGPT explained in detail why the answer was correct despite being wrong.[Instances of AI hallucination](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) are nothing new, but the figures in the charts below suggest a significant change in overall reasoning.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt study answers changing chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart.jpg)
 
  Image Credit:[Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![chatgpt study answers changing chart explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart-explanations.jpg)
 
  Image Credit:[Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
@@ -51,6 +64,9 @@ The report summary explains:
 
  The report explains that ChatGPT's large language model chain of thought "did not work" when presented with the questions in June. Conversation drift has always been a notable issue with LLMs, but the extreme variance in responses suggests performance issues and changes to ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is ChatGPT Getting Worse? OpenAI Says No
 
  Is it just a coincidence that both casual and prolific ChatGPT users are noticing ChatGPT's changing quality?
@@ -61,6 +77,9 @@ The report summary explains:
 
  Still, that didn't stop numerous responses to his tweet detailing how users have found ChatGPT's responses wanting, with many taking the time to annotate prompts and responses.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can OpenAI Restore ChatGPT to Its Original State?
 
  The early days of ChatGPT seem long in the distance now; November 2022 is a hazy memory, and the world of AI moves fast.

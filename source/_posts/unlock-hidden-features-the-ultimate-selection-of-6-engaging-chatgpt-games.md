@@ -1,7 +1,7 @@
 ---
 title: "Unlock Hidden Features: The Ultimate Selection of 6 Engaging ChatGPT Games"
-date: 2024-07-23 16:29:56
-updated: 2024-07-26 11:24:58
+date: 2024-08-02T16:05:29.361Z
+updated: 2024-08-03T16:05:29.361Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 
  What if you could have AI create it all for you? Since ChatGPT can't output files, you can combine ChatGPT with another AI tool and have them build your presentation from scratch. All in a matter of seconds. Sounds good? Read on to learn how.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Create a Presentation From Scratch With ChatGPT
 
  Before diving into creating a presentation with ChatGPT, let's go over the steps involved. We'll use a combination of two AI tools to make this presentation.
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 
  Once you've generated the presentation, all that is left is to make some final changes and export the presentation to any format you like. If you want to create a PowerPoint slideshow with AI, you can follow these same steps and then export the slideshow to PowerPoint.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## 1\. Generate the Presentation Text With ChatGPT
 
  The first step in creating a presentation is to generate the text with ChatGPT. To get a proper output, you must provide ChatGPT with some basic information about the presentation, such as the topic, the audience, and the main points you want to cover.
@@ -53,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 
  After generating the text for your presentation, the next step is to install[SlidesAI for Google Slides](https://workspace.google.com/marketplace/app/slidesaiio%5Fcreate%5Fslides%5Fwith%5Fai/904276957168) . You can do this through the Google Slides add-ons store.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![SlidesAI on the Google Webstore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-store.jpg)
 
 1. Go to Google Slides.
@@ -64,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Compile the Presentation With SlidesAI
 
  With SlidesAI installed, you can now begin creating your presentation. You can do this in the same blank presentation you made in the previous step. SlidesAI will automatically add new slides and fill them with appropriate content.
@@ -72,11 +84,18 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 2. Go to SlidesAI and then click**Generate Slides** .  
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under**Enter text** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
 6. Check**Replace Existing Slides** .
 7. Go to the**Themes** tab and select a style.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Choosing a theme in SlidesAI ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-slidesai-theme.jpg)
 8. When all is set, go back to the**Text** tab and click**Create Slides** .
 
@@ -86,6 +105,9 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Add the Finishing Touches and Export the Presentation
 
  Now you can customize the slides and add the finishing touches. Remember that AI is still prone to making mistakes, so proofread your presentation to ensure there aren't any blunders. If the main content looks good, you can then start making visual improvements like[adding animations to your slides](https://www.makeuseof.com/add-animation-google-slides/) .

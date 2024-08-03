@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and Medical Advice: How Trustworthy Is It Really?"
-date: 2024-07-20 16:45:35
-updated: 2024-07-23 10:20:40
+date: 2024-08-02T16:05:15.373Z
+updated: 2024-08-03T16:05:15.373Z
 tags:
   - chatgpt
   - open-ai
@@ -25,12 +25,18 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
 * Data privacy is a concern when using chatbots like ChatGPT, so it's important to ensure the service has good privacy policies and avoids sharing personal information.
 * AI chatbots with better contextual understanding, like ChatGPT Plus, provide more detailed responses, distinguishing them from search engines.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Response Accuracy
 
  AI chatbots can sometimes fall prey to[AI Hallucination, meaning the output can be inaccurate or illogical](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . While chatbots are good at responding to basic prompts, they occasionally struggle with longer or more complex questions. It's the kind of tradeoff you expect when talking about bleeding-edge technology.
 
 [Various factors affect chatbot accuracy](https://www.makeuseof.com/test-factors-ai-chatbots-accuracy/) , such as comprehension and contextual memory. If you plan on subscribing to a chatbot service, try the free version first. Chatbots like ChatGPT and Perplexity have free versions that you can use to get an idea of accuracy. If the free version is good, the odds are that the paid version is even better.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Security and Data Privacy
 
 ![Man holding phone using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-phone-using-chatgpt.jpg)
@@ -47,8 +53,14 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
 
  The level of contextual understanding depends on the language model and how it's trained. Again, you should try the free version to check this for yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## 4\. Knowledge Base
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Laptop screen showing computer codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/laptop-screen-showing-computer-codes.jpg)
 
  Most AI chatbots are trained on a limited knowledge base. They have information cutoffs, meaning they can't access information released beyond a certain date. This is a well-known issue with ChatGPT, which is trained on data up to September 2021.
@@ -61,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
 
  Currently, most AI chatbots appear to use GPT-3 or GPT-4.[While GPT-3 is quite capable, GPT-4 is much better](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained) . The latter is better at understanding longer prompts, has better contextual understanding, and is trained on a larger dataset.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Multilingual Support
 
 ![Cell phone screens with Hello in different languages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cell-phone-screens-with-hello-in-different-languages.jpg)
@@ -71,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
 
  Multilingual support shouldn't be an issue as AI chatbots continue to improve. However, you should still try out a potential AI chatbot to ensure its translation features are up to par.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Cost and Plans
 
  Most AI chatbots have a free version and a premium version with advanced features. For example, ChatGPT's free version works great, but upgrading to Plus gives you access to GPT-4 and plugins. Similarly, Perplexity is free, but upgrading to Perplexity Pro gives you more GPT-4 uses and access to the file upload feature.

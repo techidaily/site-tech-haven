@@ -1,7 +1,7 @@
 ---
 title: How to Use ChatGPT for Fictional Worldbuilding
-date: 2024-07-22 20:59:18
-updated: 2024-07-24 11:55:10
+date: 2024-08-02T16:05:08.427Z
+updated: 2024-08-03T16:05:08.427Z
 tags:
   - chatgpt
   - open-ai
@@ -23,8 +23,14 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
 
  As ChatGPT advances, it has the potential to transform the healthcare sector completely. When integrated with health systems, it may improve patient access to care and boost doctors' work efficiency. However, because it is AI-based, several concerns about its potential dangers exist.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. ChatGPT Has Limited Knowledge
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pig-to-heart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pig-to-heart.jpg)
 
  ChatGPT does not know everything. According to OpenAI, ChatGPT has limited knowledge, particularly when it comes to what happened after September 2021\.
@@ -41,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
 
  Because ChatGPT cannot independently research or verify material, it cannot differentiate between fact and fiction. Respected medical journals, including the Journal of the American Medical Association (JAMA), have established strict regulations that only humans can write scientific studies published in the journal. As a result, [you should constantly fact-check ChatGPT's responses](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. ChatGPT Does Not Physically Examine You
 
  Medical diagnoses are not solely dependent on symptoms. Physicians can gain insights into the pattern and severity of an illness through a patient's physical examination. In order to diagnose patients, doctors today use both medical technologies and the five senses.
@@ -49,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
 
 ## 4\. ChatGPT Can Provide False Information
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT False Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-response.jpg)
 
  A recent study by the [University of Maryland School of Medicine](https://www.medschool.umaryland.edu/news/2023/UM-School-of-Medicine-Study-Finds-ChatGPT-Helpful-for-Breast-Cancer-Screening-Advice-With-Certain-Caveats-.html) on ChatGPT's advice for breast cancer screening found the following results:
@@ -59,8 +71,15 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
 
  When we inquired about the book, it replied that it was a "hypothetical" book that it created. ChatGPT won't tell you if a journal article or book is false if you don't inquire further.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. ChatGPT Is Just an AI Language Model
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![ChatGPT Medical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-medical.jpg)
 
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.

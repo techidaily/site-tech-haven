@@ -1,7 +1,7 @@
 ---
 title: "The Future of Language Tech: Insight Into BERT & GPT"
-date: 2024-07-24 13:33:44
-updated: 2024-07-25 10:49:25
+date: 2024-08-02T16:05:11.457Z
+updated: 2024-08-03T16:05:11.457Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  Is this technology going to disrupt the search engine industry? This question is on the minds of most tech enthusiasts. Here, we'll discuss how ChatGPT differs from search engines and whether it is a threat to them.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Does ChatGPT Differ From Search Engines?
 
  The most significant difference between ChatGPT and search engines is how they respond to user requests.
@@ -33,14 +36,23 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  However, it's important to understand[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) so that you can use it efficiently. By having a better understanding of how it was created and trained and how it generates responses, you will be able to make the most of it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Why Hasn't ChatGPT Affected the Search Engines So Far?
 
  Despite ChatGPT's immense popularity, it's still not ready to significantly impact the search engine industry for several reasons. Here are a few of them:
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. ChatGPT Is Trained on a Limited Set of Data
 
  ChatGPT has been trained on the information that was available until the end of 2021\. When asking the chatbot about anything that happened in 2022 and later, it apologizes for not having that information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Apologizing For Not Having any Information About Events Happened in 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-apologizing-for-not-having-information-about-events-happened-in-2022.jpg)
 
  Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
@@ -49,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  Despite being AI-driven, ChatGPT often gives inaccurate responses. OpenAI, the parent company of ChatGPT, admits that the chatbot sometimes generates inaccurate answers. The company has listed this shortcoming as one of the limitations of its product on its official blog.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Saying It Can Also Generate Wrong Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-also-generate-wrong-answers-and-explains-why-it-does-so.jpg)
 
 ### 3\. ChatGPT Is Less Credible
@@ -75,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  On the other hand, search engines give you results based on your queries, so you need to fine-tune your keyword selection to get the best results.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How Soon Could ChatGPT Significantly Impact the Search Engine Industry?
 
  Despite ChatGPT's potential to take a significant chunk of search engine traffic, it still has a long way to go to overcome its limitations.

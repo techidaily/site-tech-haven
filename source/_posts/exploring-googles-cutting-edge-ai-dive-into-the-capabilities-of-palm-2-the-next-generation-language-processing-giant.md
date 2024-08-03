@@ -1,7 +1,7 @@
 ---
 title: "Exploring Google's Cutting-Edge AI: Dive Into the Capabilities of PaLM 2, the Next Generation Language Processing Giant"
-date: 2024-07-22 22:23:21
-updated: 2024-07-24 12:53:10
+date: 2024-08-02T16:06:09.324Z
+updated: 2024-08-03T16:06:09.324Z
 tags:
   - chatgpt
   - open-ai
@@ -32,16 +32,25 @@ thumbnail: https://thmb.techidaily.com/4e09b5e1cc338687bdb5629756ebeeb2fe6540438
 
  Now, privacy-focused search engine DuckDuckGo has stepped up to provide an alternative, and its AI Chat offers anonymous access to a host of generative AI chatbots.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is DuckDuckGo AI Chat?
 
 [DuckDuckGo is well-known for its privacy-friendly search engine](https://www.makeuseof.com/why-consider-duckduckgo/) , which, unlike most other options, doesn't collect and store heaps of data as you use it. DDG is extending its push for privacy into the world of AI chatbots, as its AI Chat lets you have anonymous conversations with popular AI chat models, including OpenAI's ChatGPT 3.5 Turbo, Anthropic's Claude 3 Haiku, Mistral AI's Mixtral 8x7B, and Meta's Llama 3 70B.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DuckDuckGo' AI Chat supported language models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduckgo-ai-models.jpeg)
 
  DuckDuckGo AI Chat is currently free to use within a daily usage limit. However, the company might introduce a paid version with additional features and more language models in the future.
 
  It's a novel idea. Other services combine multiple AI chatbots into a single tool, but DuckDuckGo's AI Chat will make it easier for users to use some of the best AI chatbots while maintaining some privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## How DuckDuckGo AI Chat Keeps Your Chats Private
 
  Privacy is a rare commodity in the digital era, more so when it comes to interacting with AI chatbots. Generative AI chatbots are data-hungry, as they rely on large data sets to continuously train and improve their language models. For instance, ChatGPT stores your chat history for as long as you have an account.
@@ -50,14 +59,24 @@ thumbnail: https://thmb.techidaily.com/4e09b5e1cc338687bdb5629756ebeeb2fe6540438
 
  As noted in[DuckDuckGo's AI Chat](https://duckduckgo.com/aichat/privacy-terms?ref=spreadprivacy.com) privacy and terms of use page, the company does not store personally identifiable information. By removing metadata containing personal information like your IP address before sending your prompts to one of the third-party AI models it supports, DuckDuckGo ensures that your chats remain anonymous.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![duckduckgo-ai-privacy-measures](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduckgo-ai-privacy-measures.jpeg)
 
  In addition to anonymizing your chats, the company states that it has agreements with model providers that prevent them from using your conversations to develop or train their models and delete your chat history within 30 days. This allows you to engage with AI chatbots without worrying about being identified, making it ideal for sensitive conversations or discussing personal information.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## How to Use DuckDuckGo's AI Chat
 
  Launch a browser of your choice and visit the[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat) website. Click****Get Started,** select your preferred AI model from the list, and click****Next**. Read the****Privacy Policy and Terms of Use** and click the****I Agree** button to proceed. You can enter your query or use one of the suggested prompts to start your anonymous conversation with the AI model.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![DuckDuckGo's AI welcome dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduck-ai-chat.jpeg)
 
  You can pick a different chat model at any time by clicking the name of the current model on the left of the screen and selecting another model from the list. Click****Start New Chat** to begin a conversation with the selected model. The DuckDuckGo AI Chat has a familiar interface, so if you have used other chatbots before, you will find it easy to use. Like other AI chatbots, you can ask questions, summarize text, compose emails, and more.

@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Common Errors in Crafting ChatGPT Prompts: Steer Clear"
-date: 2024-07-23 17:41:50
-updated: 2024-07-24 12:42:22
+date: 2024-08-02T16:06:08.516Z
+updated: 2024-08-03T16:06:08.516Z
 tags:
   - chatgpt
   - open-ai
@@ -35,14 +35,23 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
   * How to execute trades and adjust the strategy in response to market conditions  
   * A list of common crypto trading mistakes I should avoid.
 * **Result** :  
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT showing how to do advanced trading](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/learn-to-do-advanced-trading.jpg)
 
  Whenever you want to upgrade your skills, you easily get overwhelmed with every detail you must consider. In this case, the prompt will help you narrow down these details, so you can focus on the most important aspects.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Summarize a Whitepaper
 
 * **Prompt** : Assume I am an 18-year-old with basic computer knowledge. I want to understand Bitcoin's whitepaper. Summarize the key concepts and innovations presented in the paper in an easy-to-read manner. Provide a concise overview of the objectives, technology, and problems it aims to solve. Describe how Bitcoin is intended to be used and how different it is from government currencies and other cryptocurrencies. Ensure the summary is accurate and avoids any ambiguity.
 * **Result** :  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screesnhot of ChatGPT Summarizing a Whitepaper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/summarizing-a-whitepaper.jpg)
 
  With many crypto projects in the market, you don't want to spend thousands of hours going through endless whitepapers. Use this prompt to summarize any crypto whitepaper and get a quick, firm grasp of what the project entails.
@@ -54,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 * **Prompt** : I have a Solidity source code copied from an Ethereum smart contract. Please review the code and inform me of any security vulnerabilities you may find. Also, highlight the potential results of using the smart contract.  
   * \* Source Code \*
 * **Result** :  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT Reviewing a Smart Contract](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/review-smart-contracts.jpg)
 
  This is perhaps one of the most ingenious ways to use ChatGPT in crypto. Considering the many scams in the industry, it's wise to complete a technical analysis of every smart contract you wish to use or participate in. Paste the smart contract into ChatGPT and let it tell you if it's malicious.
@@ -62,10 +74,17 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
 * **Prompt** : Help me understand Zk Rollups. Tell me what they are, how they work, and their benefits and concerns, and list a few examples. Also, how will they impact the blockchain industry in general? Ensure your explanation is simple, clear, and well-structured.
 * **Result** :  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT offering Crypto Terms Explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-crypto-terms-explanations.jpg)
 
  The cryptocurrency industry is fast evolving. A few years back, we thought Bitcoin's only use was as a store of value and currency. Today courtesy of[Bitcoin ordinals](https://www.makeuseof.com/what-are-bitcoin-ordinals-how-differ-from-nfts/) , Bitcoin can now support NFTs. Often, you'll come across many such crypto terms that need some explaining, and this prompt helps you to understand them better.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 6\. Make Investment Strategies
 
 * **Prompt** : I'm interested in earning passive income, and I've opted to invest in crypto staking. Currently, which cryptocurrencies are most secure and offer the most attractive returns? In addition, could you provide a detailed analysis of these cryptocurrencies mentioning their historical annual percentage yield, potential risks, token lockup periods, and security measures in place to safeguard my investment? I would also like to know the minimum requirements to participate in these programs and any associated fees. Break down the analysis for easy reading.
@@ -74,6 +93,9 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
  If you want to take control of your financial future and have chosen cryptocurrency as the tool for growth, ChatGPT can be a great companion. This prompt, for instance, can help you get started with crypto staking the safest way.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 7\. Create a "Getting Started" Plan
 
 * **Prompt** : I want to learn how to code in Solidity. I have a coding background in HTML, CSS, and JavaScript languages. However, it's been three years since I last coded. I need a personalized step-by-step plan to help me get started with Solidity and master it in 6 months. Include essential resources, recommended online courses, best practices, and practical coding exercises to build a strong foundation in developing smart contracts on the Ethereum blockchain. Additionally, include tips on debugging and common pitfalls to help me navigate the learning process smoothly.
@@ -82,10 +104,16 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
  The crypto industry is growing, and more professionals will be needed to help develop solutions. So, if you need a guide on how to get started with anything in crypto, this prompt (or similar) can get ChatGPT to design a great plan specifically for you.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Brainstorm Token Project Ideas
 
 * **Prompt** : I want to create a new cryptocurrency token project to solve a real problem. I need some brainstorming assistance for innovative and practical ideas. My primary interests are in sustainability, financial inclusion, and education. Can you propose three unique token project concepts, each tied to one of these areas? Briefly explain the problem each project addresses, the potential benefits and impact, and how the token would function within each system.
 * **Result** :  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT Brainstorming Token Project Ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/brainstorm-token-project-ideas.jpg)
 
  Sometimes, we fall into a creativity rut. Don't let it stop you. You can use this type of prompt to brainstorm ideas that run the gamut from crypto projects to[meme crypto coins](https://www.makeuseof.com/what-are-crypto-meme-coins/) . ChatGPT is your oyster.
@@ -94,6 +122,9 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
 * **Prompt** : I want to launch a new cryptocurrency project. Please provide a step-by-step guide for launching a successful crypto project. Include all stages I must go through and highlight potential challenges and how to overcome them at each step. Lastly, include best practices for maintaining transparency and building trust with potential investors and participants.
 * **Result** :  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT offering a Guideline for Launching a Project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-a-guideline-for-launching-a-project.jpg)
 
  If you've got a crypto project idea to solve whatever world problems you can conjure up, this prompt lets ChatGPT break down the process of successfully launching your project.

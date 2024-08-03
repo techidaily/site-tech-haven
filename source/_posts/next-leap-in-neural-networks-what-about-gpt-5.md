@@ -1,7 +1,7 @@
 ---
 title: "Next Leap in Neural Networks: What About GPT-5?"
-date: 2024-07-21 14:45:27
-updated: 2024-07-23 12:44:34
+date: 2024-08-02T16:05:50.487Z
+updated: 2024-08-03T16:05:50.487Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 
 ## Best No-Cost AI Art Generators: Explore Our Top 5 Picks
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Craiyon](https://www.makeuseof.com/best-open-source-ai-image-generators/#craiyon)
@@ -27,8 +31,14 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 
  There are dozens of free and open-source AI text-to-image generators available on the internet that specialize in specific kinds of images. So, we've sifted through the pile and found the best open-source AI text-to-image generators you can try right now.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1 [Craiyon](https://www.craiyon.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![craiyon-home-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-home-page.jpg)
 
  Craiyon is one of the most easily accessible open-source AI image generators. It's based on DALL-E Mini, and while you can clone the[Github repository](https://github.com/borisdayma/dalle-mini) and install the model locally on your computer, Craiyon seems to have dropped this approach in favor of its website.
@@ -37,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 
  In terms of functionality, you'll see all the usual options that you expect from an AI image generator. Once you enter your prompt and get an image, you can use the upscale feature to get a higher-resolution copy. There are three styles to choose from: Art, Photo, and Drawing. You can also select the "None" option if you want the model to decide.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![craiyon-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-generated-image.jpg)
 
  Additionally, "Expert Mode" lets you include negative words, which tells the model to avoid specific items. There's also a prompt prediction feature, which uses ChatGPT to help users write the best, most detailed prompts possible. Lastly, the AI-powered remove background features can help you save time and effort cropping backgrounds out of images.
@@ -95,18 +109,27 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 
  For the image generation part, the model tends to lean more toward artistic styles than photorealism. Of course, you can train the model on your dataset and have it generate images closer to what you want, even if that involves photorealistic images, especially if you're working in product design, architecture, or retail spaces. However, one important thing to keep in mind is that InvokeAI is primarily an image generation engine, meaning you'll likely have to use your own models for the best results (easily found via the model manager provided in the web interface) as the default model is quite similar to Stable Diffusion itself.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5 [Openjourney](https://openjourney.art/)
 
  Openjourney is a free, open-source AI image generation model based yet again on Stable Diffusion. If you're wondering why the model is called Openjourney, it's because it was trained on Midjourney images and can mimic its style in the images it generates.
 
 [PromptHero](http://prompthero.com/create) , the company behind Openjourney, lets you test the model alongside other models, including Stable Diffusion (versions 1.5 and 2), DreamShaper, and Realistic Vision. When signing up, you get 25 free credits (one credit for each image generated), after which you have to subscribe to their Pro subscription tier, which costs $9 a month and gives you access to 300 credits each month with other exclusive features.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![openjourney-stablediffusion-comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/openjourney-stablediffusion-comparison.jpg)
 
  However, if you want to run it locally and for free, you can[download the model file from HuggingFace](https://huggingface.co/prompthero/openjourney) and run it using the Stable Diffusion web UI. Openjourney is also the second most downloaded AI image generation model on HuggingFace, right behind Stable Diffusion.
 
  Openjourney doesn't list any specific hardware requirements for running the model locally on its website, but you can expect similar hardware requirements to Stable Diffusion. This means a dedicated GPU with 4GB VRAM, 16GB RAM, and around 12 to 15GB of free space on your computer to save the model and its dependencies.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![openjourney-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/openjourney-ai-generated-image.jpg)
 
  Yadullah Abidi/MakeUseOf/OpenJourney

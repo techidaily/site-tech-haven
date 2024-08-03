@@ -1,7 +1,7 @@
 ---
 title: Why Not Rely on AI for Chat? #7 Key Objections
-date: 2024-07-25 18:45:10
-updated: 2024-07-27 11:57:27
+date: 2024-08-02T16:05:12.657Z
+updated: 2024-08-03T16:05:12.657Z
 tags:
   - chatgpt
   - open-ai
@@ -51,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/d560ca9c3c8262a76b0a5ec32a0dcb8921bf59ea8
 
  Chatbots have template responses for these queries. Bing Chat gives you an in-depth explanation of the most common mental health medication.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing Chat Explains Anxiety Medication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-prescription-meds.jpg)
 
  Meanwhile, ChatGPT diverts the topic to alternative medicine. It likely limits outputs to prevent saying anything harmful or misleading.
@@ -63,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/d560ca9c3c8262a76b0a5ec32a0dcb8921bf59ea8
 
  Just note that AI produces generic information. The below conversation shows ChatGPT presenting a reasonable yet simplistic action plan for someone experiencing panic attacks.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Gives Generic Advice on Panic Attack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-panic-attack-advice.jpg)
 
  A professional counselor or therapist would go beyond what AI suggests. You can use AI output as a starting point to better understand academic journals and research papers, but be sure to do deeper research or consult a professional.
@@ -75,16 +81,25 @@ thumbnail: https://thmb.techidaily.com/d560ca9c3c8262a76b0a5ec32a0dcb8921bf59ea8
 
  The below conversation shows ChatGPT assessing a persona. With only common medical symptoms mentioned in the prompt, it has trouble narrowing down its diagnosis.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![ChatGPT Can't Determine Your Disease Based on Symptoms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-explaining-anxiety-symptoms.jpg)
 
  As a general rule, avoid self-diagnosis altogether. Getting on the wrong treatment plan or overlooking symptoms will cause more complications.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. AI Has No Access to Your Medical Records
 
  Generative AI tools like[ChatGPT learn from conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) . They use contextual memory to remember the details you mention, thus improving output accuracy and relevance.
 
  Take the below conversation as an example. The persona in the prompt struggles with debt, so ChatGPT incorporated financial freedom into its anti-anxiety advice.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sharing Finance Problems With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/telling-chatgpt-about-finance-problems.jpg)
 
  With enough context, AI could start providing personalized plans. The problem is that generative AI tools have token limits—they only remember a finite amount of data.
@@ -103,12 +118,35 @@ thumbnail: https://thmb.techidaily.com/d560ca9c3c8262a76b0a5ec32a0dcb8921bf59ea8
 
  This conversation shows Bing Chat making a generic response. It should’ve asked an open-ended question.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![Bing Chat Can't Empathize With Someone With Depression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-depression.jpg)
 
  Meanwhile, ChatGPT asks open-ended questions but provides simplistic tips you’ll find anywhere else online.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![ChatGPT Giving Advice for Depression and Debt Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-advice-for-depression.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 9\. AI Doesn’t Track Your Progress
 
  Managing the symptoms of mental illnesses involves long-term treatment and observation. There’s no easy remedy for mental health conditions. Like most patients, you might try several programs. Their effects vary from person to person—carelessly committing to generic options yields negligible results.
@@ -117,6 +155,9 @@ thumbnail: https://thmb.techidaily.com/d560ca9c3c8262a76b0a5ec32a0dcb8921bf59ea8
 
  Look for people who’ll support you throughout your journey. They should track your progress, assess which treatment plans work, address persistent symptoms, and analyze your mental health triggers.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## You Can’t Replace Consultations With AI Chatbots
 
  Only use generative AI tools for basic support. Ask general questions about mental health, study therapy options, and research the most reputable professionals in your area. Just don’t expect them to replace consultations altogether.

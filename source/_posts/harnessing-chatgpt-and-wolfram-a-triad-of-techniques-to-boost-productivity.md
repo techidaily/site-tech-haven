@@ -1,7 +1,7 @@
 ---
 title: "Harnessing ChatGPT and Wolfram: A Triad of Techniques to Boost Productivity"
-date: 2024-07-25 14:32:32
-updated: 2024-07-28 10:10:16
+date: 2024-08-02T16:05:41.164Z
+updated: 2024-08-03T16:05:41.164Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/c6291d176ca52af593ed97a64202c588c0b54ac6b
 
  For instance, imagine you have a packed schedule for the day and don't know where to start. Enter your tasks into ChatGPT, prompt it to sort things into an Eisenhower Matrix, and get a better sense of your priorities in an instant.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Eisenhower Matrix example prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-eisenhower-matrix-example-prompt.jpg)
 
  This approach is named for[U.S. President Dwight D. Eisenhower](https://www.presidency.ucsb.edu/documents/address-the-second-assembly-the-world-council-churches-evanston-illinois) , who once quoted a former college president's philosophy about time management in a speech.
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/c6291d176ca52af593ed97a64202c588c0b54ac6b
 
  For a different approach, ChatGPT can also streamline your tasks based on the ABCD Method. It's another[popular task management approach](https://www.makeuseof.com/task-management-tips-improve-productivity/) , and the chatbot makes using it a cinch. In the prompt, list your tasks for the day and ask it to apply the ABCD Method.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT ABCD Method part one](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-abcd-method-part-one.jpg)
 
  If you have a list of pending tasks and don't know where to start, ChatGPT can take a guess at which ones are likely the most important using the ABCD Method. Even if you disagree with the app's initial sorting, it's a quick way to gauge your priorities.
@@ -53,16 +59,36 @@ thumbnail: https://thmb.techidaily.com/c6291d176ca52af593ed97a64202c588c0b54ac6b
 
  Depending on your profession, ChatGPT can also offer specific advice for speeding up your workflow. In this example, we prompted the chatbot to address a common time suck: reading and responding to emails.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT email prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-email-prompt.jpg)
 
  For this prompt, the chatbot provided some general advice about using templates and unsubscribing from as much as possible. However, you can also drill down to get more specific advice for these issues as well.
 
  In this case, we prompted the chatbot to free up time wasted on unimportant emails. It provided a long list of advice, including tips for communicating in clear language and staying out of unnecessary conversations.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT unnecessary email advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-unnecessary-email-advice.jpg)
 
  For a more proactive take, the chatbot can also find ways to automate some of your routine tasks. For this example, we prompted ChatGPT to provide some automation ideas for a realtor.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![ChatGPT automation ideas for a realtor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-automation-ideas-for-a-realtor.jpg)
 
  ChatGPT provided several tips in regard to email marketing, virtual tours, and property listing syndication services that can help realtors excel in their line of work while saving some time. Prompt the chatbot for some advice about time management in your own career for more specific tips.
@@ -85,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/c6291d176ca52af593ed97a64202c588c0b54ac6b
 
  In this case, we requested time-saving tips for people who struggle with procrastination. After all, the tendency to procrastinate is one of the[biggest time management mistakes](https://www.makeuseof.com/time-management-mistakes-to-avoid/) that many people face from time to time. For this prompt, we focused on procrastination around household chores in particular.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT procrastination prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-procrastination-prompt.jpg)
 
  The chatbot offered plenty of practical advice about eliminating unnecessary steps and visualizing the end result for motivation. Given the sheer amount of information that ChatGPT can pull from, it can likely suggest time-saving options for your situation, too. Remember to provide detailed, specific prompts to get the best advice.

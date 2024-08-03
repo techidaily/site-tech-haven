@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intuition: Nine Catalysts for Fantasy Blur"
-date: 2024-07-28 23:22:57
-updated: 2024-07-29 11:11:33
+date: 2024-08-02T16:05:12.734Z
+updated: 2024-08-03T16:05:12.734Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
 ## 1\. ChatGPT Has Limited Knowledge
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Pig-to-heart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pig-to-heart.jpg)
 
  ChatGPT does not know everything. According to OpenAI, ChatGPT has limited knowledge, particularly when it comes to what happened after September 2021\.
@@ -41,12 +44,18 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
  Because ChatGPT cannot independently research or verify material, it cannot differentiate between fact and fiction. Respected medical journals, including the Journal of the American Medical Association (JAMA), have established strict regulations that only humans can write scientific studies published in the journal. As a result, [you should constantly fact-check ChatGPT's responses](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. ChatGPT Does Not Physically Examine You
 
  Medical diagnoses are not solely dependent on symptoms. Physicians can gain insights into the pattern and severity of an illness through a patient's physical examination. In order to diagnose patients, doctors today use both medical technologies and the five senses.
 
  ChatGPT cannot perform a complete virtual checkup or even a physical examination; it can only reply to the symptoms you provide as messages. For a patient's safety and care, errors in physical examination—or completely ignoring physical examination—can be harmful. Because ChatGPT didn't physically examine you, it will offer an incorrect diagnosis.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. ChatGPT Can Provide False Information
 
 ![ChatGPT False Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-response.jpg)
@@ -59,12 +68,23 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
  When we inquired about the book, it replied that it was a "hypothetical" book that it created. ChatGPT won't tell you if a journal article or book is false if you don't inquire further.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## 5\. ChatGPT Is Just an AI Language Model
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![ChatGPT Medical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-medical.jpg)
 
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## ChatGPT Is Not a Replacement for Your Doctor
 
  Human doctors will always be needed to make the final call on healthcare decisions. ChatGPT usually advises speaking with a licensed healthcare practitioner when you ask for medical advice.

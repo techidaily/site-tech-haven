@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Workflow: Discover How ChatGPT Elevates Productivity by Sevenfold"
-date: 2024-07-23 21:56:32
-updated: 2024-07-25 12:50:10
+date: 2024-08-02T16:06:12.166Z
+updated: 2024-08-03T16:06:12.166Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  After ChatGPT generates your prompts, read over them. One of the[issues with using ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is occasionally it generates inaccurate information. If you’re making content that informs people, you should ensure that it is correct.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Copy the Text Into a Spreadsheet
 
 ![GoogleSheets-quotes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-quotes.jpg)
@@ -56,14 +59,23 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ## 4\. Label Your Columns
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Sheets with Quotes and Attribution labels.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/labelledgoogledocs.jpg)
 
  Now it’s time to put labels in the first row. This allows Canva to attribute your spreadsheet values to its bulk creation system later.
 
  Label**A1** with “QUOTES” or the type of content that’s there, like “SONGS,” “PASSAGES,” or “TESTIMONIALS.” In**B1** —and any further columns—label it with the content type, ensuring the label is different. We’re going to use “ATTRIBUTION,” but you could use “CREDIT,” “CUSTOMER,” “ARTIST,” or whatever suits your content.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## 5\. Save Your Sheet as a CSV File
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Sheets saving options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/saveas-csv.jpg)
 
  CSV stands for Comma-Separated Values which allows your content to be saved in a structured table ready for input into other programs.
@@ -72,6 +84,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  For Microsoft Excel, go to**File** \>**Save as** ​​​​​​, and under File Format choose**CSV UTF-8 (Comma-delimited) (.csv)** ​​​​​​. But this could be different depending on which version of Microsoft Office you’re running.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Make Your Design in Canva
 
 ![Create a Design options in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-design-canva.jpg)
@@ -80,6 +95,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  If you’ve already[made and published Canva templates](https://www.makeuseof.com/canva-how-to-create-publish-templates/) , choose one of those, or if you’re designing from scratch, you could[use Canva’s Brand Kit feature](https://www.makeuseof.com/canva-how-to-use-brand-kit-feature/) to incorporate your branding into your design. Both of those features require a Canva Pro subscription or the free trial.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![Canva template design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-template-design.jpg)
 
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
@@ -94,16 +112,25 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  If you want different designs for the same content, you can create more than one template design here. Select**Add a page** beneath your artboard to add a new design.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Bulk Create Your Content
 
 ![Bulk Create app in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-app-canva.jpg)
 
  Select**Apps** on Canva’s left-hand menu and type “Bulk Create” in the search bar. Select the**Bulk Create** app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Canva Bulk Create options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-csv.jpg)
 
  Select**Upload CSV** and find your saved CSV file to open. Canva will identify your two sections of content and separate them, in this case, into a section of Quote content and another of Attribution content.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Canva CSV input.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/curly-brackets.jpg)
 
  Select your Quotes placeholder text, then right-click >**Connect Data** \>**\[QUOTES\]** . This inputs your data into Canva, shown by your label now written in curly brackets. Do this again for your second set of content, and any others you’re adding. Select**Continue** .
@@ -112,8 +139,15 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select**Generate Pages** . Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## 9\. Review and Edit Your Designs
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Canva bulk designs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-bulk-designs.jpg)
 
  After generation, your designs appear on their own page in a new tab. Scroll to view them all. If you applied Bulk Create to more than one design, you’ll have alternate designs for each set of text.
@@ -124,6 +158,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ## 10\. Save Your Bulk-Created Designs
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Canva save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-save-options.jpg)
 
  If you’re happy with how everything looks, it’s time to save your designs. Go to**Share** \>**Download** and choose the best format for your designs. PNG is what we recommend for the best quality, but some social media applications might not accept PNGs, or perhaps another format works better for your designs.

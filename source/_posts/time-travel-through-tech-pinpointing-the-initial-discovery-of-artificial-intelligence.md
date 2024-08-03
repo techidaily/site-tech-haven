@@ -1,7 +1,7 @@
 ---
 title: "Time Travel Through Tech: Pinpointing the Initial Discovery of Artificial Intelligence"
-date: 2024-07-25 23:19:50
-updated: 2024-07-28 12:13:51
+date: 2024-08-02T16:05:30.405Z
+updated: 2024-08-03T16:05:30.405Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 
  Will Bing overtake Google as the best search engine now that it's equipped with an immensely powered AI model? Read on as we discuss what you can expect from Microsoft's new version of Bing.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
 
  OpenAI is the company responsible for[ChatGPT–the AI-powered chatbot](http://www.makeuseof.com/how-to-use-chatgpt-by-openai/) that can generate content, answer questions, create marketing strategies, fix code bugs, and more. The AI research lab also launched DALL-E 2 late last year, capable of[generating images based on textual prompts](https://www.makeuseof.com/how-to-use-dall-e-2/) .
@@ -29,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 
  According to[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What's New in Bing?
 
  Remember when searching was underwhelming and lousy using Bing? Thanks to the new AI web search companion, those days are far behind. Bing will now use AI at its core to deliver enhanced search results that are precisely relevant, allow you to generate content, and, best of all, integrate a brand new chat experience specialized to answering complex queries.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
 
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -43,12 +52,18 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## What's New in Microsoft Edge?
 
  Over the past few years, Microsoft has significantly improved Edge with incredible features that have allowed it to compete directly against Google Chrome. With the latest capabilities of Bing + AI, Microsoft has made Edge even more potent with new AI features and an updated look.
 
  Once you’ve configured the Microsoft Edge on your device, you can directly engage with its AI capabilities, including two core features,**Chat** and**Compose** , that will be integrated into a new version of the Edge sidebar.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -57,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Microsoft Bing Reinvents Web Searching
 
  Today's youth may not have witnessed the space race of the 20th century, but now we’ve all got front-row tickets to the AI race of the 21st century, and Microsoft has just scored a home run. Only time will tell if Google’s Bard can compete with the new Bing.

@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your Dungeons & Dragons Adventures with ChatGPT: A Comprehensive Guide"
-date: 2024-07-24 17:53:48
-updated: 2024-07-25 10:36:11
+date: 2024-08-02T16:05:42.606Z
+updated: 2024-08-03T16:05:42.606Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
  If you are a privacy-conscious Linux user looking for a little convenience, it's now possible to use ChatGPT from a native desktop app, with no account required. The app's name is Bavarder.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is ChatGPT?
 
  Okay, let's back up. Maybe you aren't yet familiar with ChatGPT. It's a chatbot that you can communicate with by typing into a window in your web browser. You can raise questions or make requests, such as[ask ChatGPT what to watch next on Netflix](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) or[have the chatbot help you with your job search](https://www.makeuseof.com/practical-ways-to-use-chatgpt-job-search/) .
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
  ChatGPT's intelligence comes from the large language model that it learns from. ChatGPT was originally based on OpenAI's GPT 3.5 model, though this is no longer the newest version. GPT stands for "generative pre-trained transformer" and refers to this particular type of large language model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## What Is Bavarder?
 
 ![The Linux Bavarder chatbot desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/linux-bavarder-chatbot-app.jpg)
@@ -39,12 +45,18 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
  Some of the providers utilize the same learning models as ChatGPT, but that doesn't mean you can expect them to generate the same results as ChatGPT would. But to the average person, BAI Chat probably comes off as close enough to the same thing.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Download Bavarder
 
  Bavarder is available in[a universal package format known as flatpak](https://www.makeuseof.com/flatpak-for-beginners/) that works across most versions of Linux. You can download Bavarder from Flathub.
 
 **Download:** [Bavarder](http://flathub.org/apps/io.github.Bavarder.Bavarder)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Bavarder on Linux
 
  Like many GNOME apps, there isn't much to see when you first open Bavarder. There is an input field labeled "Message" at the top and a second input field labeled "Response" at the bottom. You ask your question or give your command in the top field and Bavarder will give you the output in the bottom.
@@ -53,12 +65,18 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
  You may need to configure sources to change the type or quality of the response. You can do this by clicking on the hamburger menu and selecting**Preferences** . To change the provider currently in use, select**Providers** instead.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Selecting a provider in the Bavarder Linux chatbot app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bavarder-linux-chatbot-providers.jpg)
 
  The app may seem to load for quite a while before providing a response. If you were to use BAI chat via[chatbot.theb.ai](http://chatbot.theb.ai/#/chat) in a browser, you would see your answer arrive a few words at a time as though the chatbot were typing.
 
  Bavarder only delivers the answer all at once, so you have to wait for the AI to finish "thinking" rather than watch it think in real time.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Should You Use Bavarder on Linux?
 
  There are ethical questions to wrestle with when using ChatGPT and similar chatbots. Do you trust one company collecting that much information? Are you concerned about putting people out of jobs? Do you think people should think creatively for themselves instead of outsourcing that task to machines?

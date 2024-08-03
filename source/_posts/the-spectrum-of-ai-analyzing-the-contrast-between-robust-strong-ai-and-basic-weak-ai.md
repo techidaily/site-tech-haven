@@ -1,7 +1,7 @@
 ---
 title: "The Spectrum of AI: Analyzing the Contrast Between Robust (Strong) AI and Basic (Weak) AI"
-date: 2024-07-22 12:49:57
-updated: 2024-07-24 11:41:45
+date: 2024-08-02T16:05:32.592Z
+updated: 2024-08-03T16:05:32.592Z
 tags:
   - chatgpt
   - open-ai
@@ -17,12 +17,35 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 
  The world can’t stop talking about ChatGPT. Once people learn how to use ChatGPT, they love how the chatbot tool gives impressively realistic responses to various inputs. However, some are also concerned about the kind of information users might use the tool to get or create. Others worry they’ll eventually be out of work when ChatGPT replaces them.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do People Use ChatGPT?
 
  ChatGPT launched in November 2022, and it didn’t take long for people to experiment with how they might use it. For example, you can[use ChatGPT to do everything](http://www.makeuseof.com/things-you-can-do-with-chatgpt/) from telling pumpkin jokes to advising how to improve team collaboration or even writing marketing emails!
@@ -35,8 +58,14 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 
  These examples might make you think there’s[no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/) . However, that’s not an accurate assumption.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Will ChatGPT Replace Programmers?
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
@@ -53,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some[criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Will ChatGPT Replace Other Jobs?
 
  You might wonder if[content writers should worry about ChatGPT](http://www.makeuseof.com/why-chatgpt-wont-take-writing-job/) taking their jobs. Fortunately, those professionals need not fear. ChatGPT responses are often repetitive and sometimes outdated, making them less valuable.

@@ -1,7 +1,7 @@
 ---
 title: "The Art of Custom AI: Crafting ChatGPT From Scratch"
-date: 2024-07-26 22:57:39
-updated: 2024-07-29 12:55:17
+date: 2024-08-02T16:06:17.592Z
+updated: 2024-08-03T16:06:17.592Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
  ChatGPT is an AI language model that demonstrates the quickly growing popularity and accessibility of AI tools. However, can you trust this advanced technology when it comes to health and fitness information? It may be good at mimicking human writing, but there are some caveats you should be aware of before you start relying on it for health advice.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT's Potential for Improving Wellness
 
  When it comes to wellness information, there are several benefits of using an AI tool, such as ChatGPT:
@@ -28,10 +31,16 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 * The AI tool can tailor its advice to your specific circumstances. For instance, it allows you to set parameters and ask follow-up questions so that it can better understand your needs and goals, which can lead to more personalized recommendations.
 * ChatGPT is easy to use. If you can think and type, you can use ChatGPT. Eventually, as tech companies integrate these systems into voice assistants, you might not even need to do the typing! This makes ChatGPT accessible to people of varying ages and technical abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Examples of How ChatGPT Can Be Used for Health and Fitness Advice
 
  There are several use cases for ChatGPT in the realm of health and wellness. For starters, you could use the AI tool to provide you with nutrition advice, including general recommendations on healthy eating habits.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
 
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
@@ -42,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
  You could also use ChatGPT to provide information on how to maintain a healthy lifestyle, including how to protect yourself from illness. Or you can ask it to make recommendations for cancer screenings based on your factors (e.g. age, sex, and family history).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Limitations of Relying on ChatGPT for Health and Fitness Advice
 
  It's important to remember that AI technology is only as good as the data it's trained on. According to ChatGPT's developers,[Open AI](https://help.openai.com/en/articles/6783457-chatgpt-general-faq) , "ChatGPT is not connected to the internet, and it can occasionally produce incorrect answers. It has limited knowledge of world and events after 2021 and may also occasionally produce harmful instructions or biased content."
@@ -52,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
 
  Here are some tips and tricks for getting the most reliable health and fitness information from ChatGPT:
@@ -61,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 * **Ask for clarification** . If the information provided by ChatGPT seems unclear or incomplete, ask it for additional information. You can even ask ChatGPT to ask you questions to better understand your individual needs before providing you with a response.
 * **Be specific** . The information provided by ChatGPT will be as specific as you ask it to be. For instance, if you ask it simple, single-sentence questions such as, "How can I lose weight?" you'll get general responses. However, if you figure out how to focus the model with parameters and guidelines, it is more likely to provide the advice you can use.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can You Use ChatGPT to Get Trustworthy Health Information?
 
  So, can ChatGPT be trusted for health and fitness advice? The answer is, as with most things in life, it depends. Would you use Instagram, TikTok, or Facebook for health and wellness advice? You might, but you shouldn't rely on those as your only sources of information.

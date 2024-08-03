@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT: An In-Depth Look at Its Impact on User Privacy and Security"
-date: 2024-07-26 16:55:18
-updated: 2024-07-27 11:49:47
+date: 2024-08-02T16:05:01.675Z
+updated: 2024-08-03T16:05:01.675Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,18 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
  A malicious Chrome extension using ChatGPT's name is being used to steal users' Facebook logins for malicious advertising.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
 
  Facebook and Chrome users are being targeted by a malicious browser extension using the well-known name of the[AI-powered chatbot ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) .
@@ -31,16 +43,27 @@ Guardio took to Twitter to warn readers of the malicious campaign.
 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Thousands of Facebook Accounts May Have Been Compromised
 
  In this malicious campaign, thousands of Facebook accounts may have been successfully hijacked. In the aforementioned blog post, it was stated that there are "more than 2000 users installing this extension on a daily basis since its first appearance on 03/03/2023."
 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## The Malicious App Has Been Removed from Chrome
 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## ChatGPT's Name Is Consistently Used by Scammers
 
  Since ChatGPT's rise to fame, its name has been repeatedly used by cybercriminals to gain the trust of potential victims. Whether its phony ChatGPT-related tokens, or malicious Chat GPT-branded extensions, the popularity of this AI-powered chatbot is undoubtedly being exploited by malicious actors to steal data and money.

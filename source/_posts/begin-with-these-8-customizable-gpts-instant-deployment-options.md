@@ -1,7 +1,7 @@
 ---
 title: Begin with These 8 Customizable GPTs - Instant Deployment Options
-date: 2024-07-24 17:39:27
-updated: 2024-07-25 11:27:23
+date: 2024-08-02T16:05:42.026Z
+updated: 2024-08-03T16:05:42.026Z
 tags:
   - chatgpt
   - open-ai
@@ -17,12 +17,18 @@ thumbnail: https://thmb.techidaily.com/a48de872a6c6993681d46785e55907dbe1a82ff0e
 
  Chrome is undoubtedly one of the most powerful web browsers, but there’s much more you can accomplish with it—thanks to AI tools. From improving your search results to enhancing web applications, read on to find out brilliant ways to scale up your productivity online.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 1\. ChatGPT for Google
 
  ChatGPT is an AI tool that has proven incredibly useful. It's a language model that produces fascinating results across a variety of fields of learning and interest.
 
  ChatGPT for Google is a Chrome extension that integrates ChatGPT’s insights into your search results. This means that once you launch a search on your Chrome browser, you'll see responses from ChatGPT on the side.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![The ChatGPT for Google Extension in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-showing-the-chatgpt-for-google-extension-in-chrome.jpg)
 
  As such, this extension helps you compare search results from both platforms. It can also be useful for comparing and detecting errors or discrepancies, as AI-generated responses are usually prone to such things.
@@ -51,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/a48de872a6c6993681d46785e55907dbe1a82ff0e
 
 **Download** :[Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Upword
 
 ![ Note Generation on Upword Extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-showing-note-generation-on-upword-extension.jpg)
@@ -63,6 +72,14 @@ thumbnail: https://thmb.techidaily.com/a48de872a6c6993681d46785e55907dbe1a82ff0e
 
 ## 4\. Merlin AI
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Screenshot Showing Merlin AI Chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-showing-merlin-ai-chatbot.jpg)
 
  Merlin AI is a ChatGPT-powered extension that is designed to facilitate conversations with users and provide responses to queries posed to it. The extension integrates the chatbot directly with Chrome so that you can generate AI replies related to your browser searches and[speed up your browsing experience](https://www.makeuseof.com/speed-up-your-browsing-simple-fixes/) .
@@ -77,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/a48de872a6c6993681d46785e55907dbe1a82ff0e
 
 ## 5\. Jasper AI
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![ Jasper AI on Google Docs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-showing-jasper-ai-on-google-docs.jpg)
 
  Jasper AI is a brilliant AI content generator that helps you create various types of content, including blog posts, newsletters, social media captions, ads, email campaigns, and copy. It can also be a useful marketing tool for engaging audiences and upselling sales.
@@ -89,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/a48de872a6c6993681d46785e55907dbe1a82ff0e
 
 ## 6\. ChatGPT for YouTube
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Screenshot Showing  Generated Summary by ChatGPT for YouTube](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-showing-generated-summary-by-chatgpt-for-youtube.jpg)
 
  As the name suggests, ChatGPT for YouTube is a Chrome extension that provides text summaries of YouTube videos for you. This is useful for getting through long videos quickly or scanning the content of a video before watching. Also, you can use it while watching study videos as a note-taking mechanism.
@@ -97,6 +121,9 @@ thumbnail: https://thmb.techidaily.com/a48de872a6c6993681d46785e55907dbe1a82ff0e
 
 **Download** :[ChatGPT for YouTube](https://chrome.google.com/webstore/detail/chatgpt-for-youtube/ocbklpkcikpidkleacbohkobinlilgbd) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Scholarcy
 
 ![AI-generated Flashcards on Schorlarcy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-showing-ai-generated-flashcards-on-schorlarcy.jpg)
@@ -117,12 +144,18 @@ thumbnail: https://thmb.techidaily.com/a48de872a6c6993681d46785e55907dbe1a82ff0e
 
  Once you’ve enabled the assistant on a web page, it underlines keywords, which you can click on to view definitions for. This is its**Focus** feature.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Focus Feature on Wiseone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-showing-focus-feature-on-wiseone.jpg)
 
  Furthermore, you can hover over certain paragraphs to view cited sources with its cross-check feature. Lastly, you can ask questions and interact with its AI bot to gain insight into any topic. All in all, Wiseone is clearly a great tool from which any user would benefit, especially for reading and researching.
 
 **Download** :[Wiseone](https://chrome.google.com/webstore/detail/wiseone-your-ai-powered-r/paodpkkacimmkacaecjmhdncjgjepcai#:~:text=What%20is%20Wiseone%3F,online%20reading%20and%20browsing%20experience.&text=What%20problem%20are%20we%20trying,productive%20have%20become%20more%20difficult.) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## AI-Powered Productivity for Your Workspace
 
  If there’s one thing we know, it’s that AI is here to stay. And with a lot to gain from these platforms, it’s in your best interest to leverage this powerful technology to improve your workflow.

@@ -1,7 +1,7 @@
 ---
 title: Automating Mundane HR Tasks Through GPT
-date: 2024-07-21 14:34:20
-updated: 2024-07-24 11:15:59
+date: 2024-08-02T16:05:40.473Z
+updated: 2024-08-03T16:05:40.473Z
 tags:
   - chatgpt
   - open-ai
@@ -36,8 +36,14 @@ So, how do ChatGPT and OpenAI Playground differ?
 1. Head to[OpenAI](https://openai.com/api/) and click**Get Started** .
 2. Follow the signup instructions. You must input your email and a valid mobile number and answer a quick question about why you want to use OpenAI.
 3. Once that's done, click**Playground** from the navigation menu at the top of the screen. It will bring you to the**Chat** mode page, with some adjustable settings in the sidebar.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of OpenAI's Playground interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-interface-gpt3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Enter a Prompt
 
  To use GPT-3, you will need to enter what's called a prompt. A prompt could be a question, an instruction, or even an incomplete sentence, to which the model will generate a completion.
@@ -50,22 +56,37 @@ So, how do ChatGPT and OpenAI Playground differ?
 
  To get the most out of GPT-3, you will need to think of a good prompt. Good prompts are specific and give context to help GPT-3 generate an appropriate answer. As a demonstration, we asked GPT-3 to "list a few names for a small dog."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Screenshot of OpenAI Playground prompt completion.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-names.jpg)
 
  The response listed different names for small dog**breeds** like Poodle, Chihuahua, and Yorkshire Terrier. However, we were hoping to get some suggestions for pet names. So let's try again, this time using the keywords "pet names" and "small fluffy dog."
 
  This time, the results turned out closer to what we imagined with a list of names like Biscuit, Fido, and Gizmo.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Screenshot of OpenAI Playground prompt completion listing dog pet names.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-pet-names.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Experiment With Different Ideas and Prompts
 
  Asking GPT-3 to suggest a few names for your pet dog is just the tip of the iceberg; there is so much more you can do with it, including generating content, summarizing information, and translating text. There are plenty of[creative uses for GPT-3](https://www.makeuseof.com/creative-uses-for-gpt-3-openai-playground/) , from writing a bedtime story for your children to creating a social media bio text.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot showing GPT-3 translating a phrase into five languages.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/gpt3-translate-language.jpg)
 
  These days, AI is finding its way into all sorts of apps. You can check out[all the things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) , which, as mentioned, is an AI chatbot built by the same company and developed using the GPT-3 language model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## 4\. Keep Track of Your OpenAI Playground Credits
 
 ![Screenshot of usage stats in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-usage-stats.jpg)
@@ -76,6 +97,9 @@ So, how do ChatGPT and OpenAI Playground differ?
 
  Tokens are then translated to dollars, of which you have $5 to spend in the first three months (previously $18). It's a strange pricing model to wrap your head around at first, but what matters is that it's more than enough to play with. When we tested it out over a couple of days, we only used $0.11 from our total.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Switch to a Different GPT Model
 
  Davinci, Curie, Babbage, and Ada are the names of the different models you can choose to power GPT-3\. You can select**Model** in the settings bar on the right of the text box to switch between them.

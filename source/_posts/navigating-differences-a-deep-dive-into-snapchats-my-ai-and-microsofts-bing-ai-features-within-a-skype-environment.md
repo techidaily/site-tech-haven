@@ -1,7 +1,7 @@
 ---
 title: "Navigating Differences: A Deep-Dive Into Snapchat's My AI & Microsoft’s Bing AI Features Within a Skype Environment"
-date: 2024-07-26 14:57:21
-updated: 2024-07-28 11:59:40
+date: 2024-08-02T16:05:33.597Z
+updated: 2024-08-03T16:05:33.597Z
 tags:
   - chatgpt
   - open-ai
@@ -53,10 +53,16 @@ Here's a pretty great prompt for generating NPCs:
 
 * One of the players asks the innkeeper: "Have you heard any interesting news lately?"
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Prompt for dialogue with NPC innkeeper in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dialogue-with-npc.jpg)
 
  Of course, you can swap out multiple variables in each prompt to adjust them to your campaign and situation. For extra flair, you can[use ChatGPT and DALL-E to generate images of characters](https://www.makeuseof.com/how-to-use-chatgpt-and-dall-e-to-create-characters-for-dungeons-and-dragons/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Filler Content in a Pinch: When Players Deviate From the Story
 
  You've probably run into a situation where your players decide to deviate from a carefully crafted campaign. While ChatGPT can't help with the frustration this can cause, it can help you with filler content in a pinch. It's a fantastic option for creating engaging content on the fly and avoiding awkward or long pauses during the session.
@@ -65,6 +71,9 @@ Here's one example of a prompt that can work:
 
 * The players in my D&D game decided to leave the mansion where they were, and they're headed in a random direction. Can you generate a randomized area where they're headed, along with an NPC that has a quest for them?
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Prompt in ChatGPT for D&D when players deviate from story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/players-deviate-from-campaign.jpg)
 
  Here, ChatGPT automatically generated an easy-to-understand environment, an NPC with a name, and a quest to boot. All of this within seconds. The next time your party surprises you by taking a new direction, ChatGPT has you covered.
@@ -77,6 +86,9 @@ Here's one example of a prompt that can work:
 
  Alternatively, you can use ChatGPT for map creation by prompting for ideas. You can provide the basics of your idea for a foundation, and ChatGPT will provide you with and elaborate on the details.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Keep Track of the Game State
 
  If you've been running a campaign for more than 15 sessions, you might consider using ChatGPT as a D&D assistant to keep track of the game state. It might take some work and a bit of time, but it's definitely worth it. And in many cases, it's better than managing a complex spreadsheet and a tall stack of notes.
@@ -87,12 +99,18 @@ Here's one example of a prompt that can work:
 
  If you're not too happy with the answers from this prompt, there are a few[ways to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) that you might consider implementing. A cheat sheet can really help you tweak prompts to better fit the context of your campaign.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 6\. Provide Guidance and Feedback for New DMs
 
  Guidance and feedback from ChatGPT can take place in or outside a session. During a session, you can use ChatGPT to quickly double-check rules and look up information regarding classes, races, abilities, items, and more. It's also a definite lifesaver in complicated battle scenarios.
 
  For new DMs, though, it's a great way to get some feedback on ideas and session summaries. For the prompt, you can write out a summary of what happened, and ask if the events that took place made sense, followed the rules, and if there's anything that could have been done better.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Improve Your D&D Experience With ChatGPT
 
  ChatGPT, with the right prompts, can greatly improve your D&D experience by functioning as an efficient dungeon master assistant, whether you're just getting started or you're a veteran dungeon master. Assisting with map and environment creation, NPC dialogue, guidance and feedback after sessions, and generating random events are just a few examples.

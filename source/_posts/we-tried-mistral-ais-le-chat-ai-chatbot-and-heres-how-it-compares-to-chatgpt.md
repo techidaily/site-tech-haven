@@ -1,7 +1,7 @@
 ---
 title: We Tried Mistral AI's Le Chat AI Chatbot, and Here's How It Compares to ChatGPT
-date: 2024-07-21 10:59:54
-updated: 2024-07-24 10:38:19
+date: 2024-08-02T16:06:10.723Z
+updated: 2024-08-03T16:06:10.723Z
 tags:
   - chatgpt
   - open-ai
@@ -33,12 +33,18 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 
 ## 2\. Security and Data Privacy
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Man holding phone using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-phone-using-chatgpt.jpg)
 
  While many people are beginning to use AI tools, we're still in largely uncharted territory. It's hard to predict how AI will affect society and how we will deal with it. There are also concerns that chatbots like[ChatGPT represent a privacy risk](https://www.makeuseof.com/chatgpt-privacy-risk/) . For example, ChatGPT developer OpenAI has stated that they review your ChatGPT conversations to further its training.
 
  It is uncertain how much data they're actually collecting and what they plan to do with it in the long term. The best you can do is ensure the service you're subscribing to has good privacy policies and you're not sharing personal data or private information with any generative AI chatbot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## 3\. Contextual Understanding
 
  While comparing[ChatGPT Plus and Perplexity AI](https://www.makeuseof.com/chatgpt-plus-vs-perplexity-which-is-best/) , we found that Perplexity was faster while ChatGPT Plus had a better contextual understanding. This is why ChatGPT Plus outperforms most other chatbots regarding detailed responses. If an AI chatbot struggles with understanding context, it will start to hallucinate and give irrational responses.
@@ -47,8 +53,14 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 
  The level of contextual understanding depends on the language model and how it's trained. Again, you should try the free version to check this for yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Knowledge Base
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Laptop screen showing computer codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/laptop-screen-showing-computer-codes.jpg)
 
  Most AI chatbots are trained on a limited knowledge base. They have information cutoffs, meaning they can't access information released beyond a certain date. This is a well-known issue with ChatGPT, which is trained on data up to September 2021.
@@ -63,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 
 ## 6\. Multilingual Support
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cell phone screens with Hello in different languages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cell-phone-screens-with-hello-in-different-languages.jpg)
 
  One of the best AI chatbot features is the ability to converse in different languages. You can type in almost any language; most AI chatbots will respond in the same tongue. However, not all AI chatbots can do this. For example, while Perplexity AI can understand most languages, it still defaults to responding to English. Fortunately, you can specify the language you want.
@@ -71,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/c9a6389a75e39b0704a742bad64a540518e449e3f
 
  Multilingual support shouldn't be an issue as AI chatbots continue to improve. However, you should still try out a potential AI chatbot to ensure its translation features are up to par.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Cost and Plans
 
  Most AI chatbots have a free version and a premium version with advanced features. For example, ChatGPT's free version works great, but upgrading to Plus gives you access to GPT-4 and plugins. Similarly, Perplexity is free, but upgrading to Perplexity Pro gives you more GPT-4 uses and access to the file upload feature.

@@ -1,7 +1,7 @@
 ---
 title: Essential GPT Plugins & Their Functions
-date: 2024-07-24 21:57:30
-updated: 2024-07-27 12:48:57
+date: 2024-08-02T16:05:43.754Z
+updated: 2024-08-03T16:05:43.754Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3
 
 ## Essential Free Travel Arranger Applications: Get Swift, Smart Itineraries Now
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Layla](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#layla)
@@ -25,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3
 * [Trip Planner AI](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#trip-planner-ai)
 * [Vacay Chatbot](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#vacay-chatbot)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Layla, Wonderplan, and PLAN by ixigo are AI travel planning apps with customizable itineraries.
@@ -35,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3
 
  These free travel planning apps use AI and machine-learning tools like ChatGPT to prepare an itinerary for you in a few seconds, and we took them for a spin.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[Layla](https://justasklayla.com/)
 
 ![layla ai trip planner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/layla-ai-trip-planner.png)
@@ -49,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3
 
 ## 2.[Wonderplan](https://wonderplan.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![wonderplan website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/wonderplan-screenshot.jpg)
 
  Wonderplan is a wonderful AI tool for planning your trip. To create your itinerary, Wonderplan first asks you to enter your destination country and city, your budget, the number of days you'll be staying, and your interests.
@@ -61,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3
 
 ## 3.[PLAN by ixigo](https://www.ixigo.com/plan)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![PLAN by ixigo website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/plan-by-ixigo-screenshot.jpg)
 
  PLAN by ixigo starts by asking you about your dream destination. Then, it provides an option to describe the type of experience you want to have. This is just like a ChatGPT prompt, so you can enter anything you wish.
@@ -87,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3
 
 ## 5.[Curiosio](https://curiosio.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Curiosio is a roadtrip planning app based on AI that gives you several parameters to refine your journey before plotting a route based on your interests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/travel-planning-ai-apps-generate-itinerary-curiosio.jpg)
 
  The easiest last-minute travel plan is to get into a car and drive. Curiosio specializes in helping you plan an itinerary for a road trip to several major countries on all continents. It doesn't cover every single place, but the existing collection is impressive enough.
@@ -109,6 +129,9 @@ thumbnail: https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3
 
  Finally, Trip Planner AI generates a detailed itinerary, a map, and basic information about the city you're visiting. For each destination, it provides the details of the place, expected traveling time, and cost. Though it provides a complete plan for your trip, you can manually add or remove activities from your itinerary. You can also invite your friends to edit the itinerary and download it as a PDF.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7.[Vacay Chatbot](https://www.usevacay.com/chatbot)
 
 ![vacay chatbot screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/vacay-chatbot-screenshot.png)

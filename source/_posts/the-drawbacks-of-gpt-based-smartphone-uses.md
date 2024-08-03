@@ -1,7 +1,7 @@
 ---
 title: The Drawbacks of GPT-Based Smartphone Uses
-date: 2024-07-26 23:36:34
-updated: 2024-07-29 12:58:24
+date: 2024-08-02T16:05:53.359Z
+updated: 2024-08-03T16:05:53.359Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 
  OpenAI's ChatGPT app now offers a widget for Android devices. You can add it to your Home screen and quickly enter prompts using images, text, voice, or conversation mode queries. We'll show you how to add and use it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Adding the ChatGPT Widget to Your Android Home Screen
 
  Before proceeding, you'll need to update the ChatGPT Android app—if you're on any version older than 1.2024.052, you can't create this handy home screen widget. Currently, there's only one variation of the ChatGPT widget: a 4x2 option.
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Using the ChatGPT Widget on Android
 
  The ChatGPT widget lets you enter any query with just one tap. To enter a text query, tap the**Message** field on the ChatGPT widget and start typing your prompt.

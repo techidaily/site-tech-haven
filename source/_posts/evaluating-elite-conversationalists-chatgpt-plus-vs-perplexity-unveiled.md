@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Elite Conversationalists: ChatGPT Plus Vs. Perplexity Unveiled"
-date: 2024-07-23 18:32:24
-updated: 2024-07-26 10:16:39
+date: 2024-08-02T16:05:25.743Z
+updated: 2024-08-03T16:05:25.743Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
  With that in mind, let's pit the two against each other across various categories (like base technology, response quality, and stability) to determine which is better trained to be your virtual chatting/research assistant.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 1\. Technology (GPT-3 vs. GPT-4)
 
  The difference in language models is immediately where things get interesting. ChatGPT's free version gives you access to GPT-3.5, the large language model that most of us are familiar with now. Upgrading to the Plus version gives you access to GPT-4,[a more impressive language model than its predecessor](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
@@ -53,10 +57,16 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
  To compare the performance in terms of responses, we conducted a series of tests between the two chatbots. We presented the same questions to both language models for a better analysis.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT 4 response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-4-response.jpg)
 
  The tests revealed that ChatGPT Plus consistently outperformed Perplexity by providing detailed and clear responses. In addition, it demonstrated a superior ability to provide well-reasoned and elaborative answers.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Perplexity AI response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-response.jpg)
 
  Perplexity produced responses of decent quality but lacked the level of clarity and detail exhibited by ChatGPT Plus. However, while the answers might not be elaborate, they are accurate. You'll often find that Perplexity is great at finding sources that help you find the right answers.
@@ -69,8 +79,15 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
 **Download:** Perplexity for[iOS](https://apps.apple.com/us/app/perplexity-ask-anything/id1668000334) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Perplexity AI Chat Interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-chat-interface.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Perplexity AI Popular Topics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-popular-topics.PNG)
 
 Close
@@ -79,6 +96,14 @@ Close
 
 ## 6\. Speed and Stability
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Models Speed and Stability](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-models-speed-and-stability.jpg)
 
  Perplexity AI is noticeably faster than any other chatbot or AI search engine. The GPT-3 version quickly searches the web and curates a response inspired by different sources. This ability to access real-time information makes it faster than ChatGPT.
@@ -87,6 +112,9 @@ Close
 
  Both of these chatbots are also matched in terms of stability. OpenAI gives priority access to Plus subscribers, so you can access the service even during peak usage hours. Perplexity AI has a relatively smaller user base, and stability issues aren't something to worry about.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Comparison With Bing
 
  Microsoft's investment in OpenAI allowed them to incorporate a version of GPT-4 into Bing. Bing Chat is their newest AI-powered chatbot/search engine, which has been highly impressive. You can use it on the web and phone by downloading the Bing AI app.

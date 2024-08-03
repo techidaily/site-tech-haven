@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Leveraging ChatGPT's Inbuilt Tools and Their Purposes
-date: 2024-07-21 11:45:11
-updated: 2024-07-24 10:15:27
+date: 2024-08-02T16:05:28.221Z
+updated: 2024-08-03T16:05:28.221Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
  But using these AI systems isn’t just for big businesses. Let’s zero in on ChatGPT. If you’re a small business owner, there are plenty of ways to use this AI tool to boost your small business’s productivity and efficiency.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## 1\. Create Content
 
  Whether you’re crafting a blog for your business website or scripting a video for your brand’s YouTube channel, ChatGPT can be your go-to content creator. This is particularly valuable for small businesses that may not yet have the budget for a dedicated content writer.
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
  While it may seem easy to outsource everything to ChatGPT, you should merely use it as a starting point. It's critical to add your personality to any content that carries the brand of your business.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Generate Social Media Posts Out of Existing Content
 
 ![Use ChatGPT to Make  Social Media Posts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-make-social-media-posts.jpg)
@@ -37,12 +43,18 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 ## 3\. Fill In Templates
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Use ChatGPT to Fill In Templates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-fill-in-templates.jpeg)
 
  While businesses can employ automation tools that send messages based on actions like abandoned carts or website visits, they might be beyond the budget of small businesses. Don’t worry; ChatGPT can help populate your message templates. If you don’t have a template yet, you can ask ChatGPT to make one.
 
  Just copy and paste your template into ChatGPT, ensuring it has all the necessary placeholders. Supply it with all it needs to fill in the placeholders and let it fill in the template. Once ChatGPT finishes generating a personalized message for each customer, all that’s left for you to do is copy and send them to your customers.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## 4\. Make Text Excel-Friendly
 
 ![Use ChatGPT to Convert Text to Excel-Friendly Data-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-convert-text-to-excel-friendly-data-1.jpg)
@@ -53,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
  Paste the text into ChatGPT and instruct it to make columns based on your preference. Don’t forget to tell it to make the data easily copy-pastable into Excel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 5\. Modify Text According to a Specified Format
 
  You can also give ChatGPT a large chunk of text to modify according to a specified format. Just provide the text and specify the formatting you want. These include:
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 ## 8\. Create FAQ Lists
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Ask ChatGPT to Create FAQs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ask-chatgpt-to-create-faqs.jpeg)
 
  Supply ChatGPT with details about your business, products, and target audience, and it can generate a list of FAQs tailored to your business. This can offer insights into what your customers are likely to inquire about. ChatGPT can also provide draft answers, leaving you to refine or correct them as needed.

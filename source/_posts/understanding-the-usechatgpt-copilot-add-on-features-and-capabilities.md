@@ -1,7 +1,7 @@
 ---
 title: "Understanding the UseChatGPT Copilot Add-On: Features & Capabilities"
-date: 2024-07-21 22:16:30
-updated: 2024-07-23 12:56:56
+date: 2024-08-02T16:05:04.413Z
+updated: 2024-08-03T16:05:04.413Z
 tags:
   - chatgpt
   - open-ai
@@ -25,12 +25,20 @@ thumbnail: https://thmb.techidaily.com/da3401fb2ac78eb6ea2665b0f0063719a28f111af
 * Data privacy is a concern when using chatbots like ChatGPT, so it's important to ensure the service has good privacy policies and avoids sharing personal information.
 * AI chatbots with better contextual understanding, like ChatGPT Plus, provide more detailed responses, distinguishing them from search engines.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 1\. Response Accuracy
 
  AI chatbots can sometimes fall prey to[AI Hallucination, meaning the output can be inaccurate or illogical](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . While chatbots are good at responding to basic prompts, they occasionally struggle with longer or more complex questions. It's the kind of tradeoff you expect when talking about bleeding-edge technology.
 
 [Various factors affect chatbot accuracy](https://www.makeuseof.com/test-factors-ai-chatbots-accuracy/) , such as comprehension and contextual memory. If you plan on subscribing to a chatbot service, try the free version first. Chatbots like ChatGPT and Perplexity have free versions that you can use to get an idea of accuracy. If the free version is good, the odds are that the paid version is even better.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 2\. Security and Data Privacy
 
 ![Man holding phone using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-phone-using-chatgpt.jpg)
@@ -39,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/da3401fb2ac78eb6ea2665b0f0063719a28f111af
 
  It is uncertain how much data they're actually collecting and what they plan to do with it in the long term. The best you can do is ensure the service you're subscribing to has good privacy policies and you're not sharing personal data or private information with any generative AI chatbot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## 3\. Contextual Understanding
 
  While comparing[ChatGPT Plus and Perplexity AI](https://www.makeuseof.com/chatgpt-plus-vs-perplexity-which-is-best/) , we found that Perplexity was faster while ChatGPT Plus had a better contextual understanding. This is why ChatGPT Plus outperforms most other chatbots regarding detailed responses. If an AI chatbot struggles with understanding context, it will start to hallucinate and give irrational responses.
@@ -47,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/da3401fb2ac78eb6ea2665b0f0063719a28f111af
 
  The level of contextual understanding depends on the language model and how it's trained. Again, you should try the free version to check this for yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## 4\. Knowledge Base
 
 ![Laptop screen showing computer codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/laptop-screen-showing-computer-codes.jpg)
@@ -55,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/da3401fb2ac78eb6ea2665b0f0063719a28f111af
 
  Access to the internet is an obvious fix to this problem. Microsoft's[Bing is now powered by AI](https://www.makeuseof.com/more-likely-to-use-bing-now-powered-by-ai/) , meaning Bing AI Chat also has access to the web and can access relevant and updated information without any limits.[ChatGPT Plus also has this feature in the form of plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) , but you'll have to upgrade from the free version if you want to use them.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Language Model
 
  The biggest difference between AI chatbots is the[type of large language model (LLM)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) they use. For example, the free version of Perplexity uses GPT-3, while the paid version gives you access to GPT-4\. The situation is similar in the case of ChatGPT. Some chatbots, such as Bard, use Google's PaLM 2 LLM, with others use Meta's Llama or one of its many variants.
@@ -77,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/da3401fb2ac78eb6ea2665b0f0063719a28f111af
 
  You'll have to consider carefully whether the paid AI chatbot versions are worth it. Usually, the features are great for the price, but it depends on how much use you will get out of them. Remember that the paid versions also tend to be faster than the free ones. Paying for faster responses should be a no-brainer if your workflow involves time-sensitive projects.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Should You Care About Paid Chatbot Services?
 
  While paid AI chatbot services are great, the free versions are often good enough. In fact, they're almost too good. GPT-3 or GPT-3.5 is enough for most people, meaning upgrading to GPT-4 might not be worth it for everyone. However, it's still worth it if you need more detailed and faster responses.

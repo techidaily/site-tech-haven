@@ -1,7 +1,7 @@
 ---
 title: Understanding Llama 2 - An In-Depth Look at How to Utilize It
-date: 2024-07-22 18:57:11
-updated: 2024-07-25 11:33:23
+date: 2024-08-02T16:05:06.016Z
+updated: 2024-08-03T16:05:06.016Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
 ## DALL-E 3 Reveals Integrated Editing Tools - Time to Polish and Perfect Them
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Are DALL-E 3's Editing Tools?](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#what-are-dall-e-3-39-s-editing-tools)
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
  The only issue is that they don't do what OpenAI advertises, and it's a mixed bag as to whether you'll get the edits you want. But still, it's a start of what's to come for DALL-E 3 editing, and this is how they work.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## What Are DALL-E 3's Editing Tools?
 
  They've been a while coming, but OpenAI has finally added editing functionality to DALL-E 3 in ChatGPT Plus. Prior to this, you could attempt to make edits to your DALL-E 3 creations, but it would typically always result in a completely fresh image being generated. Even if the prompts used to create the edited image were extremely similar to the first prompt, due to the very nature of generative AI, the output could be significantly different.
@@ -51,6 +57,9 @@ However, it's a mixed bag.
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Removing and Erasing
 
  DALL-E 3's editing tools can erase some small features, but it definitely struggles. In the following image, I'd asked DALL-E to create "A robotic hand holding a glowing, transparent square chip with 'AI Accelerated' written on it. The background is dark blue, creating a futuristic and high-tech atmosphere."
@@ -79,10 +88,16 @@ Close
 
  Next up, I prompted DALL-E to "create a 4k 2:1 claymation style image of a person wearing a tiger onesie skiing down a slope with a yeti background."
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dalle 3 editing tools tiger yeti claymation style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-tiger-yeti-claymation-style.jpg)
 
  Again, the original image is good, has sharp, vibrant colors, and matches the prompt. However, I wanted to switch the yeti to a different type of scary animal.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![dalle 3 editing tools yeti removed from image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-yeti-removed-from-image.jpg)
 
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
@@ -97,6 +112,9 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
 
  I've found that DALL-E's editing tools are useful for certain tasks, but it takes some time to get the editing right. At other times, it just won't work, and you're probably better off taking your original prompt and tweaking that to create a new image.

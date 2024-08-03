@@ -1,7 +1,7 @@
 ---
 title: Insights From Top 10 International Tech Innovators on Artificial Intelligence
-date: 2024-07-27 18:29:31
-updated: 2024-07-28 10:56:56
+date: 2024-08-02T16:05:04.759Z
+updated: 2024-08-03T16:05:04.759Z
 tags:
   - chatgpt
   - open-ai
@@ -39,14 +39,23 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
  Whenever you want to upgrade your skills, you easily get overwhelmed with every detail you must consider. In this case, the prompt will help you narrow down these details, so you can focus on the most important aspects.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## 3\. Summarize a Whitepaper
 
 * **Prompt** : Assume I am an 18-year-old with basic computer knowledge. I want to understand Bitcoin's whitepaper. Summarize the key concepts and innovations presented in the paper in an easy-to-read manner. Provide a concise overview of the objectives, technology, and problems it aims to solve. Describe how Bitcoin is intended to be used and how different it is from government currencies and other cryptocurrencies. Ensure the summary is accurate and avoids any ambiguity.
 * **Result** :  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Screesnhot of ChatGPT Summarizing a Whitepaper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/summarizing-a-whitepaper.jpg)
 
  With many crypto projects in the market, you don't want to spend thousands of hours going through endless whitepapers. Use this prompt to summarize any crypto whitepaper and get a quick, firm grasp of what the project entails.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## 4\. Review Smart Contracts
 
  Note that for the following, we tested the source code of a[smart contract](https://etherscan.io/address/0xa7ca36f7273d4d38fc2aec5a454c497f86728a7a#code) listed on Etherscan.
@@ -58,10 +67,17 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
  This is perhaps one of the most ingenious ways to use ChatGPT in crypto. Considering the many scams in the industry, it's wise to complete a technical analysis of every smart contract you wish to use or participate in. Paste the smart contract into ChatGPT and let it tell you if it's malicious.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 5\. Get Crypto Terms Explanations
 
 * **Prompt** : Help me understand Zk Rollups. Tell me what they are, how they work, and their benefits and concerns, and list a few examples. Also, how will they impact the blockchain industry in general? Ensure your explanation is simple, clear, and well-structured.
 * **Result** :  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT offering Crypto Terms Explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-crypto-terms-explanations.jpg)
 
  The cryptocurrency industry is fast evolving. A few years back, we thought Bitcoin's only use was as a store of value and currency. Today courtesy of[Bitcoin ordinals](https://www.makeuseof.com/what-are-bitcoin-ordinals-how-differ-from-nfts/) , Bitcoin can now support NFTs. Often, you'll come across many such crypto terms that need some explaining, and this prompt helps you to understand them better.
@@ -70,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
 * **Prompt** : I'm interested in earning passive income, and I've opted to invest in crypto staking. Currently, which cryptocurrencies are most secure and offer the most attractive returns? In addition, could you provide a detailed analysis of these cryptocurrencies mentioning their historical annual percentage yield, potential risks, token lockup periods, and security measures in place to safeguard my investment? I would also like to know the minimum requirements to participate in these programs and any associated fees. Break down the analysis for easy reading.
 * **Result** :  
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screesnhot of ChatGPT offering Investment Strategies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/make-investment-strategies.jpg)
 
  If you want to take control of your financial future and have chosen cryptocurrency as the tool for growth, ChatGPT can be a great companion. This prompt, for instance, can help you get started with crypto staking the safest way.
@@ -78,6 +97,9 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
 * **Prompt** : I want to learn how to code in Solidity. I have a coding background in HTML, CSS, and JavaScript languages. However, it's been three years since I last coded. I need a personalized step-by-step plan to help me get started with Solidity and master it in 6 months. Include essential resources, recommended online courses, best practices, and practical coding exercises to build a strong foundation in developing smart contracts on the Ethereum blockchain. Additionally, include tips on debugging and common pitfalls to help me navigate the learning process smoothly.
 * **Result** :  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT Creating A Getting Started Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-a-getting-started-plan.jpg)
 
  The crypto industry is growing, and more professionals will be needed to help develop solutions. So, if you need a guide on how to get started with anything in crypto, this prompt (or similar) can get ChatGPT to design a great plan specifically for you.
@@ -86,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
 * **Prompt** : I want to create a new cryptocurrency token project to solve a real problem. I need some brainstorming assistance for innovative and practical ideas. My primary interests are in sustainability, financial inclusion, and education. Can you propose three unique token project concepts, each tied to one of these areas? Briefly explain the problem each project addresses, the potential benefits and impact, and how the token would function within each system.
 * **Result** :  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT Brainstorming Token Project Ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/brainstorm-token-project-ideas.jpg)
 
  Sometimes, we fall into a creativity rut. Don't let it stop you. You can use this type of prompt to brainstorm ideas that run the gamut from crypto projects to[meme crypto coins](https://www.makeuseof.com/what-are-crypto-meme-coins/) . ChatGPT is your oyster.
@@ -98,6 +123,9 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
  If you've got a crypto project idea to solve whatever world problems you can conjure up, this prompt lets ChatGPT break down the process of successfully launching your project.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 10\. Role-Play Anyone for Their Crypto Opinion
 
 * **Prompt** : Assume you're Vitalik Buterin. I will ask you a few questions about decentralized finance. Tell me what you think.  
@@ -105,6 +133,9 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
    2. While cryptocurrencies were developed to decentralize finance, 63% of Ethereum's computing power is controlled by two mining pools. What's your opinion on that?  
    3. How do you see DeFi evolving in the next five years?
 * **Result** :  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT Role-play Vitalik Buterin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/role-play-anyone-for-their-crypto-opinion.jpg)
 
  Yes, you can have fun with ChatGPT too. This prompt exemplifies how you can turn ChatGPT into a crypto thought leader and get their opinion without DMing them on social media. You can even go further and generate a conversation with two personalities.

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Employment Landscape via ChatGPT
-date: 2024-07-26 20:47:43
-updated: 2024-07-27 12:33:22
+date: 2024-08-02T16:05:03.654Z
+updated: 2024-08-03T16:05:03.654Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/ae11f135f58753564eec93a4a8d775f2e6a724fb4
 
  On the surface, the website looks geared toward programmers, but we'll show you that it's just as accessible to someone with no coding knowledge. If you're waiting for the next GPT model to be released, why not spend some time experimenting in OpenAI's Playground?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is OpenAI Playground?
 
  In November 2021, the waitlist was removed for GPT-3, allowing more people to use the OpenAI API. But what most people don't know is that a version of GPT-3 is accessible through the OpenAI Playground.
@@ -36,6 +39,9 @@ So, how do ChatGPT and OpenAI Playground differ?
 1. Head to[OpenAI](https://openai.com/api/) and click**Get Started** .
 2. Follow the signup instructions. You must input your email and a valid mobile number and answer a quick question about why you want to use OpenAI.
 3. Once that's done, click**Playground** from the navigation menu at the top of the screen. It will bring you to the**Chat** mode page, with some adjustable settings in the sidebar.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of OpenAI's Playground interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-interface-gpt3.jpg)
 
 ## 2\. Enter a Prompt
@@ -50,18 +56,39 @@ So, how do ChatGPT and OpenAI Playground differ?
 
  To get the most out of GPT-3, you will need to think of a good prompt. Good prompts are specific and give context to help GPT-3 generate an appropriate answer. As a demonstration, we asked GPT-3 to "list a few names for a small dog."
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of OpenAI Playground prompt completion.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-names.jpg)
 
  The response listed different names for small dog**breeds** like Poodle, Chihuahua, and Yorkshire Terrier. However, we were hoping to get some suggestions for pet names. So let's try again, this time using the keywords "pet names" and "small fluffy dog."
 
  This time, the results turned out closer to what we imagined with a list of names like Biscuit, Fido, and Gizmo.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of OpenAI Playground prompt completion listing dog pet names.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-pet-names.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Experiment With Different Ideas and Prompts
 
  Asking GPT-3 to suggest a few names for your pet dog is just the tip of the iceberg; there is so much more you can do with it, including generating content, summarizing information, and translating text. There are plenty of[creative uses for GPT-3](https://www.makeuseof.com/creative-uses-for-gpt-3-openai-playground/) , from writing a bedtime story for your children to creating a social media bio text.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot showing GPT-3 translating a phrase into five languages.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/gpt3-translate-language.jpg)
 
  These days, AI is finding its way into all sorts of apps. You can check out[all the things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) , which, as mentioned, is an AI chatbot built by the same company and developed using the GPT-3 language model.
@@ -76,6 +103,9 @@ So, how do ChatGPT and OpenAI Playground differ?
 
  Tokens are then translated to dollars, of which you have $5 to spend in the first three months (previously $18). It's a strange pricing model to wrap your head around at first, but what matters is that it's more than enough to play with. When we tested it out over a couple of days, we only used $0.11 from our total.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Switch to a Different GPT Model
 
  Davinci, Curie, Babbage, and Ada are the names of the different models you can choose to power GPT-3\. You can select**Model** in the settings bar on the right of the text box to switch between them.
@@ -98,6 +128,9 @@ So, how do ChatGPT and OpenAI Playground differ?
 
  To demonstrate this parameter, we asked GPT-3 to briefly summarize how to create an exciting new podcast. With the temperature set to zero, the answer was the same no matter how many times we hit the**Regenerate** button. By contrast, when we changed the temperature to**1,** we got plenty of varied results that offered slightly different steps.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Three screenshots of GPT-3 generated text offering different answers for the same prompt.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-3-settings-tempearture.jpg)
 
  This is a great parameter to play around with if you want to use GPT-3 to generate ideas, such as brainstorming video ideas for YouTube or generating new social media posts. Understanding this one setting can help you to fine-tune the results you get from GPT-3.

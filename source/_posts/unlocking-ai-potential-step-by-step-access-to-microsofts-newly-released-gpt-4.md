@@ -1,7 +1,7 @@
 ---
 title: "Unlocking AI Potential: Step-by-Step Access to Microsoft's Newly Released GPT-4"
-date: 2024-07-23 18:21:16
-updated: 2024-07-25 12:55:14
+date: 2024-08-02T16:05:59.368Z
+updated: 2024-08-03T16:05:59.368Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
  If you are a privacy-conscious Linux user looking for a little convenience, it's now possible to use ChatGPT from a native desktop app, with no account required. The app's name is Bavarder.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## What Is ChatGPT?
 
  Okay, let's back up. Maybe you aren't yet familiar with ChatGPT. It's a chatbot that you can communicate with by typing into a window in your web browser. You can raise questions or make requests, such as[ask ChatGPT what to watch next on Netflix](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) or[have the chatbot help you with your job search](https://www.makeuseof.com/practical-ways-to-use-chatgpt-job-search/) .
@@ -27,8 +30,23 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
  ChatGPT's intelligence comes from the large language model that it learns from. ChatGPT was originally based on OpenAI's GPT 3.5 model, though this is no longer the newest version. GPT stands for "generative pre-trained transformer" and refers to this particular type of large language model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is Bavarder?
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Linux Bavarder chatbot desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/linux-bavarder-chatbot-app.jpg)
 
  Bavarder is an app that enables you to "chit-chat" with artificial intelligence. Bavarder is built specifically for GNOME,[the most widely-used interface on Linux PCs](https://www.makeuseof.com/ways-gnome-is-best-linux-desktop/) . But Bavarder works on other desktop environments as well.
@@ -45,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
 **Download:** [Bavarder](http://flathub.org/apps/io.github.Bavarder.Bavarder)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## How to Use Bavarder on Linux
 
  Like many GNOME apps, there isn't much to see when you first open Bavarder. There is an input field labeled "Message" at the top and a second input field labeled "Response" at the bottom. You ask your question or give your command in the top field and Bavarder will give you the output in the bottom.
@@ -53,12 +74,18 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
  You may need to configure sources to change the type or quality of the response. You can do this by clicking on the hamburger menu and selecting**Preferences** . To change the provider currently in use, select**Providers** instead.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Selecting a provider in the Bavarder Linux chatbot app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bavarder-linux-chatbot-providers.jpg)
 
  The app may seem to load for quite a while before providing a response. If you were to use BAI chat via[chatbot.theb.ai](http://chatbot.theb.ai/#/chat) in a browser, you would see your answer arrive a few words at a time as though the chatbot were typing.
 
  Bavarder only delivers the answer all at once, so you have to wait for the AI to finish "thinking" rather than watch it think in real time.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Should You Use Bavarder on Linux?
 
  There are ethical questions to wrestle with when using ChatGPT and similar chatbots. Do you trust one company collecting that much information? Are you concerned about putting people out of jobs? Do you think people should think creatively for themselves instead of outsourcing that task to machines?

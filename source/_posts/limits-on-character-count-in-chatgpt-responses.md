@@ -1,7 +1,7 @@
 ---
 title: Limits on Character Count in ChatGPT Responses?
-date: 2024-07-25 10:30:31
-updated: 2024-07-27 12:24:29
+date: 2024-08-02T16:05:43.889Z
+updated: 2024-08-03T16:05:43.889Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/7216cdd0db0d51b9ba6ea43c8d26dd6a0eb4cf5b2
 
  ChatGPT converts each word into a legible token whenever you ask a question. To break it down further, tokens are text fragments, and each programming language uses a different set of token values to understand the requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Comparison operators and boolean logic with cpp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cpp-coding-samples.jpg)
 
  Since computers don't understand text values directly, they break them down into a combination of numbers, often called embeddings. You can even consider embeddings like[Python lists](https://www.makeuseof.com/tag/arrays-lists-in-python/) , which resemble a list of related numbers, such as \[1.1,2.1,3.1,4.1…n\].
@@ -49,18 +53,27 @@ Let's enter some sample text, such as:
 
         `[2437, 466, 314, 4727, 262, 779, 286, 16326, 287, 24101, 38, 11571, 30]`
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Tokenizer calculation from OpenAI's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tokenizer.jpg)
 
  As per the[OpenAI token calculator](https://platform.openai.com/tokenizer) :
 
  A helpful rule of thumb is that one token generally corresponds to \~4 text characters for common English text. This translates to roughly ¾ of a word (100 tokens \~= 75 words).
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Free vs. Paid Tokens
 
  To give you a flavor of what's what within the ChatGPT application, OpenAI offers you a free limited token subscription. If you want to experiment with the ChatGPT API, use the free $5 credit, which is valid for three months. Once the limit is exhausted (or the trial period is up), you can pay-as-you-go, which increases the maximum quota to $120.
 
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
 
  To take it up a notch, you can even sign up for the[ChatGPT Plus Offer](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) , which sets you back by $20 a month. Given the extensive usage and popularity of the entire AI model, here are the top features of the paid subscription model:
@@ -71,6 +84,9 @@ Let's enter some sample text, such as:
 
  If you feel these features are entirely worth it and up your alley, you can enroll for the paid subscription and benefit from them immediately.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Token Pricing Structure
 
 ![Set of black opened envelope and cash dollars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-karolina-grabowska-4386370.jpg)
@@ -91,6 +107,10 @@ Let's enter some sample text, such as:
 
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Maximum Token Limits
 
  Each model allows you to set the maximum number of tokens within each query. This method controls the maximum number of tokens the application generates in a single call, limiting the output. The max\_token feature is quite useful, especially when you want to control the length of your output while avoiding overusing your token usage and credits. The default length is fixed at 2,048 tokens, while the maximum can be set at 4,096 tokens.

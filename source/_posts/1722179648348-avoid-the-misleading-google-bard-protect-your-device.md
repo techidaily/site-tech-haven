@@ -1,7 +1,7 @@
 ---
 title: Avoid the Misleading Google Bard — Protect Your Device
-date: 2024-07-26 23:58:19
-updated: 2024-07-28 10:21:45
+date: 2024-08-02T16:05:20.228Z
+updated: 2024-08-03T16:05:20.228Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 ## Avoid the Misleading Google Bard — Protect Your Device
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Scammers are using Google's generative AI tool, Bard, to infect users with malware and steal login credentials.
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 [Google Bard](https://bard.google.com/chat) was launched in March 2023 and is Google's answer to [OpenAI's ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/). While offering similar functionalities, it doesn't perform as extensively as ChatGPT—which is what scammers have been exploiting to infect devices with malware.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
 
  There are many [ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/). You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
  On November 13, 2023, Google announced on its official blog, [The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/), that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on [Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf).
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
 
 Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
@@ -99,6 +108,10 @@ Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbm
 
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## Stick With Google Bard on Your Browser
 
  If you're thinking about downloading an app version of Google Bard you saw advertised on Facebook, think twice; **it's malware**.
@@ -123,10 +136,17 @@ Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbm
 
  The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why You Shouldn't Download the Google Bard App
 
  On November 13, 2023, Google announced on its official blog, [The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/), that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on [Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
 
 Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
@@ -141,6 +161,9 @@ Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbm
 
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Stick With Google Bard on Your Browser
 
  If you're thinking about downloading an app version of Google Bard you saw advertised on Facebook, think twice; **it's malware**.
@@ -155,10 +178,16 @@ Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbm
 
  Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Google Bard?
 
 [Google Bard](https://bard.google.com/chat) was launched in March 2023 and is Google's answer to [OpenAI's ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/). While offering similar functionalities, it doesn't perform as extensively as ChatGPT—which is what scammers have been exploiting to infect devices with malware.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
 
  There are many [ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/). You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
@@ -183,6 +212,9 @@ Image Credit: [Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbm
 
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Stick With Google Bard on Your Browser
 
  If you're thinking about downloading an app version of Google Bard you saw advertised on Facebook, think twice; **it's malware**.

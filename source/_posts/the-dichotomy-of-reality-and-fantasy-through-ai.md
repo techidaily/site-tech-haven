@@ -1,7 +1,7 @@
 ---
 title: The Dichotomy of Reality & Fantasy Through AI
-date: 2024-07-22 13:21:42
-updated: 2024-07-24 12:20:42
+date: 2024-08-02T16:05:40.158Z
+updated: 2024-08-03T16:05:40.158Z
 tags:
   - chatgpt
   - open-ai
@@ -21,8 +21,14 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
  Cloud-based data analysis by GPT-4, integrated with microcontroller-based platforms like Arduino, will offer DIYers a more productive approach to product development.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Multi-Modal AI and DIY: What Is a Multi-Modal AI?
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![An electric bulb on a black chalkboard with chat bubbles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bulb-on-chalkboard.jpg)
 
  Multi-modal AI refers to AI models that can process and understand different types of data, such as text, images, and videos. Get this, if GPT-4 becomes a multi-modal AI, it will be a game changer for DIY enthusiasts.
@@ -41,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
  Large-scale language generation is a feature that will allow the generation of large, coherent, and accurate texts that provide informative responses to DIY enthusiasts. A multilingual support feature will also diversify the use of the language model by the DIY community, hence promoting collaboration and quickening the formation and implementation of ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### AI-Based IDE Plugins
 
  The integration of AI tools and extensions in IDEs is already taking off with modules such as[GitHub Copilot](https://github.com/features/copilot) . GitHub Copilot is a tool from GitHub that is powered by[OpenAI Codex](https://openai.com/blog/openai-codex/) , a GPT3-based model.
@@ -51,14 +60,23 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
  Integrating algorithms can improve model response relevance and accuracy, leading to personalized DIY recommendations based on user behavior. ML algorithms can recognize DIY-related keywords and tailor user-specific responses, easing the product research and development process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Future of Microcontroller-Based Platforms
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A white robot assistant with a tablet with user interface attached to the chest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/white-robot-assistant.jpg)
 
  Microcontroller-based platforms could benefit greatly from advancements in AI models such as ChatGPT4\. Integrating these models can expand the processing power and memory of the platforms, leading to more accurate data analysis from embedded and IoT systems. Speaking of this, we've covered many[Arduino IoT projects](https://www.makeuseof.com/best-arduino-iot-projects/) you can try without waiting for GPT advancements.
 
  Predictive maintenance measures could also be developed using this data. In the future, lightweight AI versions could even be integrated into devices for DIY projects using compression techniques. Generally, DIY partakers will soon be able to efficiently ideate, research, implement, and modify projects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Bringing AI to the DIY World
 
  GPT-4 will undoubtedly transform the DIY industry. Generation of personalized and accurate responses, multilingual support, virtual DIY assistance, coding assistant, and debugging features are just the tip of the iceberg of the capabilities the upcoming language model has to offer the field.

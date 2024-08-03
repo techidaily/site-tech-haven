@@ -1,7 +1,7 @@
 ---
 title: Exploring the Functionality of ChatGPT Shared Links
-date: 2024-07-24 16:42:25
-updated: 2024-07-26 11:33:26
+date: 2024-08-02T16:05:44.385Z
+updated: 2024-08-03T16:05:44.385Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
  But if ChatGPT isn't saving the chat history, you'll have to repeat some of your prompts all over again. So, how do you fix ChaGPT when it won't save your conversations?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Turn On the Chat History & Training Data
 
  ChatGPT will save your previous conversations by default, so you can access them anytime. Now, if you or someone else accidentally disabled the feature, ChatGPT will no longer save any new conversations and delete the chat history.
@@ -27,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
  Head to ChatGPT and click the**three-dot** icon next to your username, followed by**Settings** **\>** **Data controls** . Hit the toggle next to**Chat history & training** so that ChatGPT will save your conversations.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Save your conversations on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-history-1.jpg)
 
  You should know that this setting doesn't sync across multiple devices or browsers. So if you use ChatGPT on more than one browser or device, you'll have to enable the feature for each one.
@@ -43,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
  After you've deleted the browser cache, you might notice websites loading a bit slower. This is because your browser is rebuilding the cache, which shouldn't take long.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## 4\. Use a Different Browser
 
  ChatGPT's inability to save your conversation might be limited to your browser. To test it, switch to another browser. If ChatGPT is working as usual, you'll have to fix your default browser.
@@ -55,12 +65,21 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
  So, if you can access it, you should continue the conversation, as ChatGPT will now save it for future reference.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## 6\. Contact Support
 
  If you still can't get ChatGPT to save your conversation history, it's time to contact the support team. Go to OpenAI Help Center and click the**Chat** icon in the bottom-right corner. Then, click**Send us a message** and describe the ChatGPT malfunction to the support team.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Contact OpenAI support](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-support-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Have ChatGPT Save Your Conversations
 
  Hopefully, one or more of the methods above helped you, and now ChatGPT is saving your conversations. If nothing works, contact ChatGPT support and inform them about the problem.

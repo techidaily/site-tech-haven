@@ -1,7 +1,7 @@
 ---
 title: OpenAI Unveils Groundbreaking GPT-4 AI Revolutionizing Technology
-date: 2024-07-23 10:17:59
-updated: 2024-07-26 11:54:12
+date: 2024-08-02T16:05:50.499Z
+updated: 2024-08-03T16:05:50.499Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/41de1135ff58d32185caafd7a16e179b6c3f3f0f5
 
  Despite AI being innovative, it isn't always beneficial. Here are some ways AI chatbots have been positive and negative for professionals in the content industry.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 1\. AI Minimizes Grammatical Errors
 
  AI chatbots have come a long way from producing incoherent text. Nowadays, advanced LLMs produce grammatically correct outputs on any topic under the sun. You could even ask them to adopt a specific tone.
@@ -27,14 +30,32 @@ thumbnail: https://thmb.techidaily.com/41de1135ff58d32185caafd7a16e179b6c3f3f0f5
 
 The below image shows ChatGPT suggesting text corrections.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to Edit Text and Spot Grammar Errors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-spotting-spelling-errors.jpg)
 
  Bing Chat provides more accurate results by referencing other grammar checkers in real-time.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing Chat Edits Paragraphs by Quillbot's Standards ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-edits-text.jpg)
 
  You’ll find many[reliable grammar checkers online](http://www.makeuseof.com/tag/best-grammar-checker/) , but full-suite plans often come with monthly subscriptions. Free accounts get limited checks. On Grammarly, users can’t even unlock advanced suggestions until they upgrade to a Premium plan.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Poorly Researched Articles Spread Misinformation
 
 [One of the biggest problems with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) and Bing Chat, among other platforms, is that they don’t double-check facts. They merely present what they know. ChatGPT formulates answers from datasets, and Bing Chat runs search queries, but neither performs fact-checking.
@@ -47,6 +68,9 @@ The below image shows ChatGPT suggesting text corrections.
 
  Many shady AI writers actually draw flak for spreading misinformation. Only use chatbots for preliminary research. Ask them to break down complex subjects before diving into academic journals and scholarly papers.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 3\. Generic AI-Generated Articles Flood SERPs
 
 ![Google Analytics Google Search Results on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/google-search-results-on-smartphone.jpg)
@@ -79,6 +103,9 @@ The below image shows Bing Chat’s keyword research on AI.
 
  Avoid content mills like the plague. They pay industry-low rates, set unrealistic output expectations, and place zero value on quality writing. Your writing career won’t progress while working for them.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 6\. Plagiarism Has Become More Widespread
 
  Plagiarism has become more widespread recently. Remember: AI repeats answers. So if multiple writers were to discuss one topic, their articles would share the same angle, structure, outline, and theme. Some writers rephrase texts to avoid getting flagged for plagiarism.
@@ -93,6 +120,9 @@ The below image shows Bing Chat’s keyword research on AI.
 
  We started a new chat and reused our prompt, but ChatGPT provided identical facts. It only rephrased its output.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Trying to Get ChatGPT to Answer the Same Question About AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answering-a-regenerated-question-about-ai.jpg)
 
  Since chatbots generate the same information, writers publishing AI-generated content end up sharing angles. Many even follow similar article structures.
@@ -107,6 +137,9 @@ The below image shows Bing Chat’s keyword research on AI.
 
  Also, AI writing tools are unsustainable.[Google](https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t) prioritizes authoritative websites that publish well-researched articles—it might start cracking down on AI content soon. It already prohibits manipulating SERP rankings with AI, after all.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Do AI Chatbots Positively or Negatively Impact the Content Industry?
 
  Despite all these points, you can’t just call AI chatbots a positive or negative influence on the content industry. AI is inherently unbiased. Instead of criticizing chatbots, blame writers for exploiting them. Harmful, plagiarized, and damaging output stem from human prejudices—machines only respond to input.

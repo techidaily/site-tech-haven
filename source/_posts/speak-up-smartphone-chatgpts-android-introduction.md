@@ -1,7 +1,7 @@
 ---
 title: "Speak Up, Smartphone: ChatGPT's Android Introduction"
-date: 2024-07-22 19:22:31
-updated: 2024-07-23 10:48:51
+date: 2024-08-02T16:05:41.327Z
+updated: 2024-08-03T16:05:41.327Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  OpenAI's ChatGPT app now offers a widget for Android devices. You can add it to your Home screen and quickly enter prompts using images, text, voice, or conversation mode queries. We'll show you how to add and use it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Adding the ChatGPT Widget to Your Android Home Screen
 
  Before proceeding, you'll need to update the ChatGPT Android app—if you're on any version older than 1.2024.052, you can't create this handy home screen widget. Currently, there's only one variation of the ChatGPT widget: a 4x2 option.
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Using the ChatGPT Widget on Android
 
  The ChatGPT widget lets you enter any query with just one tap. To enter a text query, tap the**Message** field on the ChatGPT widget and start typing your prompt.

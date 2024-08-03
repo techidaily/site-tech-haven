@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Obsolescence: Six Ways to Shine in an AI World"
-date: 2024-07-25 13:23:30
-updated: 2024-07-26 10:48:11
+date: 2024-08-02T16:05:01.397Z
+updated: 2024-08-03T16:05:01.397Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 
 ## 1\. Some Treat AI-Generated Personas as Real People
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![AI-Generated Virtual Girlfriend With Asian Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-girl-virtual-gf.jpg)
 
  AI virtual girlfriend/boyfriend apps are becoming more realistic than ever. They simulate romantic relationships through AI-generated personas, which users can customize to their preferences. Some prefer human-like characters with intricate features, while others replicate fictional characters.
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 
  Ironically, AI girlfriend and boyfriend apps worsen social isolation by perpetuating toxic beliefs about interpersonal relationships. Users want partners who’ll live up to their made-up AI personas. Some would even go as far as to marry their AI-generated companions and give up on human relationships altogether.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## 2\. Chatbots Provide Fake Emotional Support
 
  It’s common to use generative AI chatbots for psychotherapy. AI platforms scrape mental health advice from their datasets and mimic human-like speech through LLMs. Their output is neutral and generic, yet many will explore AI tools rather than paying for psychotherapy sessions.
@@ -53,8 +59,14 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 
  What’s worse is that some victims fall into the delusion that they can form genuine connections with AI personas. The desire for companionship gets the best of them. They choose to overlook the fact that the strangers operating these personas couldn’t care less about them.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. AI Content Floods SERPs
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Empty Search Bar on Google Online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-search-bar-online.jpg)
 
  AI chatbots significantly impacted the content industry. Individual writers, marketing agencies, content mills, and even legit publications are exploring ways to hasten the writing process with AI. After all, advanced LLMs can produce a 500-word piece in under 15 seconds.
@@ -63,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 
  To make matters worse, many low-effort AI articles still rank high through advanced SEO techniques. Most don’t even notice which Google results are AI-generated. They could be reading and citing misleading, factually incorrect information without realizing it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 6\. Deepfakes Destroy Reputations
 
  AI-driven generative models can imitate other people’s features, voices, and mannerisms through digitally manipulated media. Take the below TikTok video featuring “Tom Cruise.” Millions would believe it’s the real deal if the account didn’t explicitly state it’s a deepfake video.
@@ -71,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 
 ## 7\. Immersive VR/AR Experience Distorts Your Senses
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Person Scrolling Nonstop on Phone While in Bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-in-bed-scrolling-phone.jpg)
 
  AI models enable[virtual reality (VR) and augmented reality (AR)](https://www.makeuseof.com/tag/augmented-vs-virtual-reality-whats-difference/) technologies to provide a more immersive experience. Their hyper-realistic output thoroughly stimulates the senses. And as high-end VR/AR devices develop, their standard auditory, visual, and haptic cues will also improve.

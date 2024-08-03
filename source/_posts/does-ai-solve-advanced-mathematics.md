@@ -1,7 +1,7 @@
 ---
 title: Does AI Solve Advanced Mathematics?
-date: 2024-07-25 19:17:48
-updated: 2024-07-27 11:49:52
+date: 2024-08-02T16:05:30.135Z
+updated: 2024-08-03T16:05:30.135Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
 ## Is It Better to Use Gemini Advanced Over ChatGPT Plus? Let's Find Out
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [User Interface](https://www.makeuseof.com/gemini-advanced-vs-chatgpt-plus/#user-interface)
@@ -55,6 +59,9 @@ Close
 
  Although both interfaces are similar, the additional features give Gemini a slight advantage over ChatGPT. So, Gemini takes this round 2-1.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Well Can ChatGPT 4 and Gemini Advanced Answer Your Questions?
 
  To answer a question well, GPTs need to understand it, reason about it, and construct the output. Without all three, you won't get a proper output.
@@ -75,6 +82,9 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Optical Character Recognition
 
  The previous test shows that text can be extracted from an image. But how do both fare when presented with text of different sizes and colors?
@@ -83,6 +93,9 @@ Close
 
  Both seem to start well. ChatGPT generates a very accurate output, but Gemini drops the ball midway and starts summarizing the content in the image. Clearly, this is not a problem with the abilities, but Gemini Advanced lost a point here.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Can ChatGPT 4 & Gemini Advanced Summarize Videos?
 
  Just like images, can you summarize videos, too? There is no provision for uploading videos to ChatGPT. When you try to add a video link, the application says it cannot provide a transcript of an online video on YouTube. However, ChatGPT has a library of third-party GPTs, and a quick search will find tools like[Full Video Transcript GPT](https://chat.openai.com/g/g-8bFoeNNre-full-video-transcript-gpt) , which you can use to create a perfect text transcription.
@@ -91,6 +104,18 @@ Close
 
  On the other hand, YouTube is supposed to be Gemini's home turf, and it has a dedicated plugin for YouTube. But yet again, it veers off task and begins summarizing the video instead of providing the full-text transcript. Gemini needs to complete the answer before displaying its summarizing skills.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Transcript generation by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/14-2.png)
 
  It is YouTube videos only, though. Neither can fetch videos from other online video services.
@@ -105,14 +130,23 @@ Close
 
  Mobile phones, with their built-in cameras and microphones, allow for advanced functions within each chatbot's respective app. I am using a Google Pixel phone for these tests.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Picture Recognition
 
  To test ChatGPT and Gemini Advanced mobile app capabilities, I grabbed a set of headphones and started to ask each app questions. First, why do the headphones have a USB port instead of a regular 3.5mm jack? Both explained it well enough and when asked how I could connect them to the phone for audio, both of them answered correctly.
 
 ![Question on the photo taken answered by ChatGPT on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Question on the photo taken answered by Google Gemini on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Photo related question answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-1.png)
 
 ![Photo related question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-2.png)
@@ -121,10 +155,19 @@ Close
 
  When asked to recognize the headphones, Gemini got the answer spot on. Furthermore, it provided the purchase links to the product. Gemini 2-1.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Headphones recognition by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Headphones recognition by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Where to buy question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/29.png)
 
 Close
@@ -133,10 +176,16 @@ Close
 
  One important feature of the mobile app is how well it recognizes speech. ChatGPT listens till you pause and then converts it into text, and its output is accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Speech recording for conversion to text by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-1.png)
 
 ![Speech conversion to text in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Converted text from speech prompt answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-3.png)
 
 Close
@@ -147,6 +196,9 @@ Close
 
 ![Converted text from speech prompt answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Translation to telugu by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-3.png)
 
 Close
@@ -155,10 +207,16 @@ Close
 
 ![Voice conversations introduction page in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Voice Conversation in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-2.png)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Computation and Reasoning
 
  The ideal use of a GPT is to solve complex problems. Feed in tons of data, and it can churn out answers at the speed of light. So, what better way to test ChatGPT Plus and Gemini Advanced than to solve problems?
@@ -199,6 +257,9 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### Creative Writing
 
  I asked both tools to write a 100-word story on AI. Most GPTs and AI tools are strong at writing creative stories, and both did well at this task.

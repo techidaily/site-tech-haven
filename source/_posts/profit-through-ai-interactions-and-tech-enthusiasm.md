@@ -1,7 +1,7 @@
 ---
 title: Profit Through AI Interactions & Tech Enthusiasm
-date: 2024-07-23 23:48:27
-updated: 2024-07-25 12:26:44
+date: 2024-08-02T16:05:43.429Z
+updated: 2024-08-03T16:05:43.429Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
 ## 1 [Craiyon](https://www.craiyon.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![craiyon-home-page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/craiyon-home-page.jpg)
 
  Craiyon is one of the most easily accessible open-source AI image generators. It's based on DALL-E Mini, and while you can clone the[Github repository](https://github.com/borisdayma/dalle-mini) and install the model locally on your computer, Craiyon seems to have dropped this approach in favor of its website.
@@ -55,18 +58,33 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
  There are several checkpoints (consider them versions) available to use for Stable Diffusion. While we tested out version 1.5,[version 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1) is also in active development and is more precise.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dreamshaper-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/dreamshaper-ai-generated-image.jpg)
 
  Yadullah Abidi/MakeUseOf/DreamShaper
 
  Running the model is also rather easy. We tested it with the[AUTOMATIC1111 Stable Diffusion web user interface](https://github.com/AUTOMATIC1111/stable-diffusion-webui) , and all controls and parameters work well. It's also quite NSFW-proof courtesy of the LAION-5B database that the model trained on (although it's not perfect, mind you). While generation time itself will vary based on your hardware, you can expect your images to be detailed and realistic even with basic prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3 [DreamShaper](https://huggingface.co/Lykon/DreamShaper)
 
  DreamShaper is an image generation model based on Stable Diffusion. It was intended as an open-source alternative to MidJourney and focuses on photorealism in the generated images, although it can handle anime and painting styles just as well with a few tweaks.
 
  The model is more capable than Stable Diffusion, allowing users more freedom over the final output, ranging from lightning improvements to looser NSFW restrictions. Running the model is also easy, with a[downloadable, pre-trained version available](https://civitai.com/models/4384?modelVersionId=128713) online for local access and a host of websites, including[Sinkin.ai](https://sinkin.ai/m/4zdwGOB) ,[RandomSeed](https://randomseed.co/?id=20) , and[Mage.space](https://www.mage.space/) (requires a basic subscription) that let you run the model with GPU acceleration.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![dreamshaper-stablediffusion-comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/dreamshaper-stablediffusion-comparison.jpg)
 
  As you can probably guess by now, images generated by DreamShaper tend to look more realistic compared to Stable Diffusion. Even if you run the same prompt on both models, the DreamShaper model will likely be more realistic, detailed, and better-lit.
@@ -75,6 +93,9 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
  You don't need a behemoth PC to run the model, either. My GTX 1650Ti with 4GB VRAM ran the model perfectly. Generation time was a bit longer, but it didn't seem to affect the actual output. That said, you might require GPUs with more VRAM to run DreamShaper XL, which is based on the Stable Diffusion XL model.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4 [InvokeAI](https://www.invoke.com/)
 
  Invoke AI is another AI-based image generation model based on Stable Diffusion, with an XL version based on Stable Diffusion XL. It also has its own web and command line user interface, meaning you won't have to jump hoops with things like the Stable Diffusion web UI.
@@ -87,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
  However, the extra control does bring a few limitations, most notably stricter hardware requirements. InvokeAI recommends a dedicated GPU with at least 4GB of memory, with six to eight GB recommended for running the XL variant. The VRAM requirements apply to both AMD and Nvidia GPUs. You'll also need at least 12GB of RAM and 12GB of free disk space for the model, its dependencies, and Python.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![invoke-ai-generated-image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/invoke-ai-generated-image.jpg)
 
  Yadullah Abidi/MakeUseOf/InvokeAI  
@@ -95,6 +119,9 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
  For the image generation part, the model tends to lean more toward artistic styles than photorealism. Of course, you can train the model on your dataset and have it generate images closer to what you want, even if that involves photorealistic images, especially if you're working in product design, architecture, or retail spaces. However, one important thing to keep in mind is that InvokeAI is primarily an image generation engine, meaning you'll likely have to use your own models for the best results (easily found via the model manager provided in the web interface) as the default model is quite similar to Stable Diffusion itself.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 5 [Openjourney](https://openjourney.art/)
 
  Openjourney is a free, open-source AI image generation model based yet again on Stable Diffusion. If you're wondering why the model is called Openjourney, it's because it was trained on Midjourney images and can mimic its style in the images it generates.

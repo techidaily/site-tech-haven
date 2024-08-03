@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Development: CodeGPT + VS Code"
-date: 2024-07-20 10:21:46
-updated: 2024-07-23 10:38:37
+date: 2024-08-02T16:05:13.946Z
+updated: 2024-08-03T16:05:13.946Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
 ## Customize Your Own AI with ChatGPT's Newest Feature - Tailored Generative Models Now
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The arrival of GPT-4 Turbo introduces significant improvements to ChatGPT, including a larger context window, up-to-date knowledge base, and improved instruction following abilities. It offers the largest context window of any commercially available AI chatbot.
@@ -35,16 +38,26 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
  It's worth noting that the data cut-off applies to GPT-4 Turbo's general knowledge. If you ask a specific question, GPT-Turbo now turns to its integrated browsing mode to answer any question, so you're technically unlimited in the scope of queries. For example, in the image below, ChatGPT confirms its new data cut-off point, then correctly answers who won the 2023 F1 World Drivers Championship.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt4 turbo data cut off point question november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt4-turbo-data-cut-off-point-question-november-2023.jpg)
 
  Also, ChatGPT Plus users can rejoice—the cumbersome dropdown menu for switching between models will soon be retired. ChatGPT’s upgraded multimodal skills owing to GPT-4 Turbo’s upgrades will allow it to automatically select the optimal model for a given task, goodbye to manual toggling. This improvement may seem minor, but power users will appreciate not having to constantly switch models mid-conversation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## 2\. Ability to Create Custom GPTs
 
  GPT-4 Turbo’s arrival is big news, but what you’ll perhaps find more exciting is the ability GPTs feature. In its simplest form, custom GPTs allow you to create mini versions of ChatGPT customized for specific purposes. ​I knocked up an example of an extremely basic custom GPT in seconds, asking the model to help me in Football Manager 2024.
 
 ![chatgpt custom gpt model football manager example november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-november-2023.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![chatgpt custom gpt model football manager example with suggestions november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-with-suggestions-november-2023.jpg)
 
 Close
@@ -57,10 +70,16 @@ Close
 
  You can build a custom GPT, or you can choose from a long list of hundreds of pre-built options to supercharge your prompting experience. Since they are optimized for particular functions, you can get even better responses than regular ChatGPT for niche uses. The[pre-built GPTs have already been primed](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) with specialized knowledge to supercharge performance for targeted prompting.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![list of new integrated chatgpt bots november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/list-of-new-integrated-chatgpt-bots-november-2023.jpg)
 
  With so many to select from, you can find a tailored GPT for nearly any purpose you can imagine. Options include a Creative Writing Coach to provide feedback on your work, a Math Mentor to explain complex concepts, and a Trip Planner to craft your perfect vacation. You can even get a Laundry Buddy for stain help or a Game Time assistant to explain the rules for family game night. Each prebuilt option has niche expertise to deliver superior performance for prompts related to its focus area. With this expansive range of GPTs, you can easily find a customized AI with the ideal skills and knowledge to supercharge prompting in your unique domain of interest. GPTs allow you to tap into the power of customized AI without the effort of creating your own.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## ChatGPT’s Evolution Continues
 
  ChatGPT's meteoric rise shows no signs of slowing down. Whenever ChatGPT seems to be losing steam, OpenAI rolls out key upgrades that significantly improve the chatbot's capabilities. The AI chatbot is on a steep growth trajectory, evidenced by game-changing additions like the powerful GPT-4 Turbo model and the ability to build specialized GPTs.

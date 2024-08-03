@@ -1,7 +1,7 @@
 ---
 title: "Identifying AI Delusions: Recognizing Fake Data Interpretations"
-date: 2024-07-25 18:18:55
-updated: 2024-07-27 10:10:14
+date: 2024-08-02T16:05:42.248Z
+updated: 2024-08-03T16:05:42.248Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/56e1f89334f10f1cb05f14f5231043c0f4d7f09cc
 
  What if you could have AI create it all for you? Since ChatGPT can't output files, you can combine ChatGPT with another AI tool and have them build your presentation from scratch. All in a matter of seconds. Sounds good? Read on to learn how.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Create a Presentation From Scratch With ChatGPT
 
  Before diving into creating a presentation with ChatGPT, let's go over the steps involved. We'll use a combination of two AI tools to make this presentation.
@@ -49,10 +52,16 @@ thumbnail: https://thmb.techidaily.com/56e1f89334f10f1cb05f14f5231043c0f4d7f09cc
 
  If you want to make the whole process even easier and don't feel like editing the AI-generated text yourself, you can use yet another[AI writing tool](https://www.makeuseof.com/ai-writing-tools/) to edit ChatGPT's output.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## 2\. Install SlidesAI for Google Slides
 
  After generating the text for your presentation, the next step is to install[SlidesAI for Google Slides](https://workspace.google.com/marketplace/app/slidesaiio%5Fcreate%5Fslides%5Fwith%5Fai/904276957168) . You can do this through the Google Slides add-ons store.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![SlidesAI on the Google Webstore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-store.jpg)
 
 1. Go to Google Slides.
@@ -70,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/56e1f89334f10f1cb05f14f5231043c0f4d7f09cc
 
 1. Open the**Extensions** menu.
 2. Go to SlidesAI and then click**Generate Slides** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under**Enter text** .  
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
@@ -86,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/56e1f89334f10f1cb05f14f5231043c0f4d7f09cc
 
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Add the Finishing Touches and Export the Presentation
 
  Now you can customize the slides and add the finishing touches. Remember that AI is still prone to making mistakes, so proofread your presentation to ensure there aren't any blunders. If the main content looks good, you can then start making visual improvements like[adding animations to your slides](https://www.makeuseof.com/add-animation-google-slides/) .
@@ -101,10 +116,16 @@ thumbnail: https://thmb.techidaily.com/56e1f89334f10f1cb05f14f5231043c0f4d7f09cc
 
  Once your slideshow is all set, it's time to start preparing for the presentation. If you want to present on Google Slides, there's only a little left to do other than rehearse.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Downloading a Google Slides presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-download.jpg)
 
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to**File > Download** and then select**Microsoft PowerPoint** .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Create Efficient Presentations in Minutes
 
  Creating a presentation involves a lot of invisible work. In an ideal world, you would dedicate your precious time to researching and rehearsing, and have someone else do the labor of creating the presentation.

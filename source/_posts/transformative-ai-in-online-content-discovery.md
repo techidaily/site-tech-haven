@@ -1,7 +1,7 @@
 ---
 title: Transformative AI in Online Content Discovery
-date: 2024-07-21 21:31:30
-updated: 2024-07-24 11:38:59
+date: 2024-08-02T16:05:12.055Z
+updated: 2024-08-03T16:05:12.055Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  Although this feat signifies a technological milestone, it also blurs the line between reality and fantasy. AI images, text, and videos manufacture digital content that overshadows authentic experiences. Here are the ways AI creates an illusion of reality.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Some Treat AI-Generated Personas as Real People
 
 ![AI-Generated Virtual Girlfriend With Asian Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-girl-virtual-gf.jpg)
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  That said,[treating AI chatbots like therapists is dangerous](https://www.makeuseof.com/dangers-using-ai-free-therapist-psychiatrist/) . AI can’t empathize with you or understand your situation—it uses NLP to comprehend input and presents the corresponding output based on its datasets. Please see a licensed therapist or psychiatrist if you need mental health advice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Users Imitate Voices Through Speech Synthesis
 
  Advancements in text-to-speech and speech-to-speech models led to the rise of affordable, accessible AI voice generators. They produce natural-sounding speech output. Depending on input quality and model sophistication, anyone can clone another person’s voice accurately.
@@ -45,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  But don’t underestimate the[security risks of AI voice generators](https://www.makeuseof.com/ai-voice-generators-security-threat/) —crooks are exploiting these tools to spread misinformation and execute social engineering attacks. Even tech-savvy individuals could fall for AI-synthesized voices if they’re careless.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## 4\. Image and Video Generation Tools Create Entirely New Identities
 
  The proliferation of AI-driven voice, image, and text generators enables users to create an entirely new persona online. Take[virtual influencers](https://www.makeuseof.com/popular-virtual-influencers/) , for instance. Many AI-generated avatars have super-realistic, lifelike features—they could pass off as humans.
@@ -55,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
 ## 5\. AI Content Floods SERPs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Empty Search Bar on Google Online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-search-bar-online.jpg)
 
  AI chatbots significantly impacted the content industry. Individual writers, marketing agencies, content mills, and even legit publications are exploring ways to hasten the writing process with AI. After all, advanced LLMs can produce a 500-word piece in under 15 seconds.
@@ -63,12 +75,19 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  To make matters worse, many low-effort AI articles still rank high through advanced SEO techniques. Most don’t even notice which Google results are AI-generated. They could be reading and citing misleading, factually incorrect information without realizing it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 6\. Deepfakes Destroy Reputations
 
  AI-driven generative models can imitate other people’s features, voices, and mannerisms through digitally manipulated media. Take the below TikTok video featuring “Tom Cruise.” Millions would believe it’s the real deal if the account didn’t explicitly state it’s a deepfake video.
 
  But not everyone’s as honest as them. Crooks exploit deepfake videos to spread misleading, damaging, and sexually suggestive content. They can manufacture almost any clip with the necessary editing skills and tools.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## 7\. Immersive VR/AR Experience Distorts Your Senses
 
 ![Person Scrolling Nonstop on Phone While in Bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-in-bed-scrolling-phone.jpg)

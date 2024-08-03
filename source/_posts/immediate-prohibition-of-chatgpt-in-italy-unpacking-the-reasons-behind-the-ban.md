@@ -1,7 +1,7 @@
 ---
 title: "Immediate Prohibition of ChatGPT in Italy: Unpacking the Reasons Behind the Ban"
-date: 2024-07-27 10:39:18
-updated: 2024-07-29 11:21:43
+date: 2024-08-02T16:05:30.771Z
+updated: 2024-08-03T16:05:30.771Z
 tags:
   - chatgpt
   - open-ai
@@ -37,12 +37,21 @@ thumbnail: https://thmb.techidaily.com/ae6f5dcb864372a7daff39d6864d42313e356ceda
 
  Take the below text about cats as an example. You won’t spot any basic errors like typos, missing punctuation marks, or misspelled words. It’s a relatively decent piece.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![ChatGPT Generated a 200-Word Article on Cats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-on-cats.jpg)
 
  Now, compare it with the below photo. You’ll notice that the response follows the exact template, although this one talks about dogs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
 
  AI has further simplified “research.” Instead of combing through Google search results, you can just ask chatbots and writing tools. They’ll provide brief, concise answers.
@@ -51,8 +60,23 @@ thumbnail: https://thmb.techidaily.com/ae6f5dcb864372a7daff39d6864d42313e356ceda
 
  Before writing, make sure you study your subject. Extensive research is the core of every well-written piece—spend at least 30 to 60 minutes reading online sources. You can provide value by comparing resources, laying down verified facts, and asserting well-founded conclusions. Simply paraphrasing what chatbots say is senseless.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. AI Scrapes Commonly Published Information
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Copy.ai Generates an Article on Taking Care of Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-on-dogs.jpg)
 
  AI avoids inaccuracies by generating generic responses. Take the above piece as an example. When we asked an AI writing tool to talk about dog care, it focused on super-common tips, which readers have likely seen multiple times. The below photo also shows that its insights came from an unreliable source.
@@ -79,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/ae6f5dcb864372a7daff39d6864d42313e356ceda
 
  It’s best to curate articles yourself. Remember that consistent branding plays a crucial role in retaining site visitors. The content you publish, your layout, and the conclusions you assert should resonate with your target audience. Give them reasons to come back to your site.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Writing Tools Don’t Incorporate SEO Tactics Into Its Pieces
 
  Writers typically use AI platforms to hasten the writing process. Most tools produce thousands of words within seconds, so theoretically, you could edit and publish a new blog in under 10 minutes.
@@ -87,6 +114,9 @@ thumbnail: https://thmb.techidaily.com/ae6f5dcb864372a7daff39d6864d42313e356ceda
 
  If you want top-ranking pages, focus on providing value. Haphazardly instructing writing tools and chatbots to stuff keywords into lengthy, generic blogs yields negligible results. Search engines might even qualify your site as spam.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 8\. Many Premium Plagiarism Checkers Flag AI-Generated Pieces
 
 ![Plagiarism Checker Results of AI-Generated Text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/plagiarism-checker-results.jpg)

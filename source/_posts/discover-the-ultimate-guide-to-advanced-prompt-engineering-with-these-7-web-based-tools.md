@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Guide to Advanced Prompt Engineering with These 7 Web-Based Tools
-date: 2024-07-26 12:41:51
-updated: 2024-07-28 12:24:46
+date: 2024-08-02T16:06:02.930Z
+updated: 2024-08-03T16:06:02.930Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
 
  Using ChatGPT as a dungeon master assistant is useful for both scripted and unscripted sessions! Keep reading for a quick look at how you can use ChatGPT to greatly improve your Dungeons & Dragons sessions.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Create Random Encounters While Players Are Traveling
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A blue and yellow D20 di](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/blue-dice.jpg)
 
  Whether you're strictly following a scripted adventure or mostly just going with the flow, ChatGPT can make it easy to add random encounters to your campaign. This is especially useful for when your players are traveling. It's also a great addition for anyone learning[how to play Dungeons & Dragons online](https://www.makeuseof.com/how-to-play-dungeons-dragons-online/) .
@@ -53,6 +59,9 @@ Here's a pretty great prompt for generating NPCs:
 
 * One of the players asks the innkeeper: "Have you heard any interesting news lately?"
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Prompt for dialogue with NPC innkeeper in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dialogue-with-npc.jpg)
 
  Of course, you can swap out multiple variables in each prompt to adjust them to your campaign and situation. For extra flair, you can[use ChatGPT and DALL-E to generate images of characters](https://www.makeuseof.com/how-to-use-chatgpt-and-dall-e-to-create-characters-for-dungeons-and-dragons/) .
@@ -65,10 +74,16 @@ Here's one example of a prompt that can work:
 
 * The players in my D&D game decided to leave the mansion where they were, and they're headed in a random direction. Can you generate a randomized area where they're headed, along with an NPC that has a quest for them?
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Prompt in ChatGPT for D&D when players deviate from story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/players-deviate-from-campaign.jpg)
 
  Here, ChatGPT automatically generated an easy-to-understand environment, an NPC with a name, and a quest to boot. All of this within seconds. The next time your party surprises you by taking a new direction, ChatGPT has you covered.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. ChatGPT Can Assist in Map Creation
 
  You can use ChatGPT to describe an area to your party better or build a room for an encounter. In fact, there are two great ways to use ChatGPT to generate maps.
@@ -87,6 +102,9 @@ Here's one example of a prompt that can work:
 
  If you're not too happy with the answers from this prompt, there are a few[ways to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) that you might consider implementing. A cheat sheet can really help you tweak prompts to better fit the context of your campaign.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Provide Guidance and Feedback for New DMs
 
  Guidance and feedback from ChatGPT can take place in or outside a session. During a session, you can use ChatGPT to quickly double-check rules and look up information regarding classes, races, abilities, items, and more. It's also a definite lifesaver in complicated battle scenarios.

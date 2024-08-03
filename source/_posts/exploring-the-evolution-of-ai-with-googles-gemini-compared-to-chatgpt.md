@@ -1,7 +1,7 @@
 ---
 title: Exploring the Evolution of AI with Google's Gemini Compared to ChatGPT
-date: 2024-07-26 12:21:54
-updated: 2024-07-28 12:21:49
+date: 2024-08-02T16:06:04.548Z
+updated: 2024-08-03T16:06:04.548Z
 tags:
   - chatgpt
   - open-ai
@@ -33,10 +33,16 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 
  However, it's important to understand[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) so that you can use it efficiently. By having a better understanding of how it was created and trained and how it generates responses, you will be able to make the most of it.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Why Hasn't ChatGPT Affected the Search Engines So Far?
 
  Despite ChatGPT's immense popularity, it's still not ready to significantly impact the search engine industry for several reasons. Here are a few of them:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### 1\. ChatGPT Is Trained on a Limited Set of Data
 
  ChatGPT has been trained on the information that was available until the end of 2021\. When asking the chatbot about anything that happened in 2022 and later, it apologizes for not having that information.
@@ -45,6 +51,18 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 
  Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. ChatGPT Can Generate Incorrect Response
 
  Despite being AI-driven, ChatGPT often gives inaccurate responses. OpenAI, the parent company of ChatGPT, admits that the chatbot sometimes generates inaccurate answers. The company has listed this shortcoming as one of the limitations of its product on its official blog.
@@ -57,10 +75,20 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 
  In contrast, ChatGPT doesn't provide citations or references; it simply generates responses based on the raw data it is trained on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![ChatGPT  Saying It Can't Add References](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-add-references.jpg)
 
  You can[sign up and start using ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) in just a few minutes. If you haven't tried it yet, take advantage of it to enhance your productivity. Although ChatGPT isn't ready to disrupt the search engine industry just yet, does it have the potential to do so in the future?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Is ChatGPT Capable of Disrupting Search Engines in the Future?
 
  Even though ChatGPT has some limitations, it has some strengths that make it an excellent candidate to disrupt the search engine industry. Let's discuss a few of them.
@@ -89,6 +117,9 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 
 ![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Let ChatGPT Evolve
 
  It will take time before people trust ChatGPT as they do on search engine results; it will be fascinating to see how this technology evolves.

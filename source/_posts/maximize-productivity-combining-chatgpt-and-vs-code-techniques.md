@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Combining ChatGPT and VS Code Techniques"
-date: 2024-07-26 14:47:42
-updated: 2024-07-28 10:22:12
+date: 2024-08-02T16:05:46.212Z
+updated: 2024-08-03T16:05:46.212Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
 
  For a different approach, ChatGPT can also streamline your tasks based on the ABCD Method. It's another[popular task management approach](https://www.makeuseof.com/task-management-tips-improve-productivity/) , and the chatbot makes using it a cinch. In the prompt, list your tasks for the day and ask it to apply the ABCD Method.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT ABCD Method part one](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-abcd-method-part-one.jpg)
 
  If you have a list of pending tasks and don't know where to start, ChatGPT can take a guess at which ones are likely the most important using the ABCD Method. Even if you disagree with the app's initial sorting, it's a quick way to gauge your priorities.
@@ -59,10 +62,16 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
 
  In this case, we prompted the chatbot to free up time wasted on unimportant emails. It provided a long list of advice, including tips for communicating in clear language and staying out of unnecessary conversations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT unnecessary email advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-unnecessary-email-advice.jpg)
 
  For a more proactive take, the chatbot can also find ways to automate some of your routine tasks. For this example, we prompted ChatGPT to provide some automation ideas for a realtor.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT automation ideas for a realtor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-automation-ideas-for-a-realtor.jpg)
 
  ChatGPT provided several tips in regard to email marketing, virtual tours, and property listing syndication services that can help realtors excel in their line of work while saving some time. Prompt the chatbot for some advice about time management in your own career for more specific tips.
@@ -73,12 +82,18 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
 
  In instances like these, you can even prompt ChatGPT to assume various roles. In this case, we had it present the information like a professional organizer, with a focus on getting through the process as quickly and efficiently as possible.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT decluttering prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-decluttering-prompt.jpg)
 
  The chatbot provided a series of tips for decluttering more efficiently. Many of them focused on speeding up the process, such as the advice to make rapid decisions about whether to keep or donate a particular item.
 
  The next time you have a large project to tackle, see whether ChatGPT can help you sort through the steps to make it more manageable and efficient. The chatbot just might offer the right piece of advice to help speed up the whole job.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Get Personalized Time-Saving Tips
 
  Prompt the bot to provide time-saving tips. Tailor the prompts to suit your specific needs (i.e., “provide time-saving tips for people with a long commute” or “provide time-saving tips for software developers”).
@@ -89,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
 
  The chatbot offered plenty of practical advice about eliminating unnecessary steps and visualizing the end result for motivation. Given the sheer amount of information that ChatGPT can pull from, it can likely suggest time-saving options for your situation, too. Remember to provide detailed, specific prompts to get the best advice.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Save Time With ChatGPT
 
  For the most part, AI technologies such as ChatGPT can help streamline your productivity and time management skills. Experiment with the chatbot to make the most of your time with a few simple prompts.

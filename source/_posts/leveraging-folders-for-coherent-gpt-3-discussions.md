@@ -1,7 +1,7 @@
 ---
 title: Leveraging Folders for Coherent GPT-3 Discussions
-date: 2024-07-23 12:11:37
-updated: 2024-07-26 12:29:50
+date: 2024-08-02T16:05:51.098Z
+updated: 2024-08-03T16:05:51.098Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 
  That said,[treating AI chatbots like therapists is dangerous](https://www.makeuseof.com/dangers-using-ai-free-therapist-psychiatrist/) . AI can’t empathize with you or understand your situation—it uses NLP to comprehend input and presents the corresponding output based on its datasets. Please see a licensed therapist or psychiatrist if you need mental health advice.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Users Imitate Voices Through Speech Synthesis
 
  Advancements in text-to-speech and speech-to-speech models led to the rise of affordable, accessible AI voice generators. They produce natural-sounding speech output. Depending on input quality and model sophistication, anyone can clone another person’s voice accurately.
@@ -45,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 
  But don’t underestimate the[security risks of AI voice generators](https://www.makeuseof.com/ai-voice-generators-security-threat/) —crooks are exploiting these tools to spread misinformation and execute social engineering attacks. Even tech-savvy individuals could fall for AI-synthesized voices if they’re careless.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Image and Video Generation Tools Create Entirely New Identities
 
  The proliferation of AI-driven voice, image, and text generators enables users to create an entirely new persona online. Take[virtual influencers](https://www.makeuseof.com/popular-virtual-influencers/) , for instance. Many AI-generated avatars have super-realistic, lifelike features—they could pass off as humans.
@@ -63,6 +69,9 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 
  To make matters worse, many low-effort AI articles still rank high through advanced SEO techniques. Most don’t even notice which Google results are AI-generated. They could be reading and citing misleading, factually incorrect information without realizing it.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Deepfakes Destroy Reputations
 
  AI-driven generative models can imitate other people’s features, voices, and mannerisms through digitally manipulated media. Take the below TikTok video featuring “Tom Cruise.” Millions would believe it’s the real deal if the account didn’t explicitly state it’s a deepfake video.
@@ -71,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 
 ## 7\. Immersive VR/AR Experience Distorts Your Senses
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Person Scrolling Nonstop on Phone While in Bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-in-bed-scrolling-phone.jpg)
 
  AI models enable[virtual reality (VR) and augmented reality (AR)](https://www.makeuseof.com/tag/augmented-vs-virtual-reality-whats-difference/) technologies to provide a more immersive experience. Their hyper-realistic output thoroughly stimulates the senses. And as high-end VR/AR devices develop, their standard auditory, visual, and haptic cues will also improve.
@@ -81,6 +93,9 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 
 [Using VR/AR devices for extended periods has several risks](https://www.makeuseof.com/ways-virtual-reality-bad-for-you/) , including eye strain, social isolation, and susceptibility to cyberattacks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 8\. AI Business Systems Create Unrealistic Profit Expectations
 
  AI is transforming the way companies across different sectors operate.[Fox](https://www.foxbusiness.com/technology/small-businesses-using-ai-loving-it) reports that 90 percent of small businesses have already integrated AI chatbots into their workflow. Likewise, technologically adept professionals are exploring more advanced models.
@@ -89,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 
  AI isn’t the golden ticket to success. Misinformed entrepreneurs should ditch the false belief that replacing human workers with AI spikes profits. Adopting new systems could still lead to losses if you forego proper planning.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## Drawing the Line Between Fantasy and Reality
 
  Differentiating between the virtual and real world will become even harder as AI technologies advance. Sophisticated models will generate more realistic output. The only way to combat these widespread false realities is to explore AI yourself—study its functions and limitations.

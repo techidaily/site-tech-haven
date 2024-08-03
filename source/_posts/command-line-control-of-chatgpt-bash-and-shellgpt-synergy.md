@@ -1,7 +1,7 @@
 ---
 title: "Command-Line Control of ChatGPT: Bash & ShellGPT Synergy"
-date: 2024-07-27 11:30:23
-updated: 2024-07-28 12:13:28
+date: 2024-08-02T16:05:51.996Z
+updated: 2024-08-03T16:05:51.996Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
 ## 1\. Learn What AI Is and How AI-Powered Tools Work
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A computer screen displaying ChatGPT's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-generative-ai.jpg)
 
  It helps to start with understanding[what AI is, the dangers it poses](http://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) , and how it can help you. Understanding the basics of AI and how it works will help you know its strengths and limitations, as well as how to use it to thrive in your workplace.
@@ -31,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
  ChatGPT is a large language model developed by OpenAI that relies on vast amounts of training data to generate natural-sounding text. This AI chatbot is used for tasks such as content creation, programming, and translation, to name a few. In fact, this tool is so good that[people wonder if generative AI will take over their jobs](https://www.makeuseof.com/can-chatgpt-replace-me/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## 2\. Know the Difference Between Artificial Intelligence and Human Intelligence
 
  Having gained a basic understanding of what AI is and how it works, knowing how it compares to human intelligence will help you appreciate their limitations, discover how they can complement each other, and how you can use both to achieve your work goals.
@@ -41,8 +48,14 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
  On the other hand, humans possess the unique ability to use their senses and emotions and apply knowledge and logic in creative ways to solve complex problems.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Develop Skills AI Can't Replicate
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Close-up image of hand writing "be creative"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/future-proof-skills-1.jpg)
 
  As good as generative AI tools like ChatGPT are, they have limitations, and AI is still far from replicating the unique skills, insights, and creativity that humans possess. As such, it is vital to invest in future-proofing skills that AI can't replicate to survive and thrive in the AI-dominated workplace.
@@ -65,12 +78,18 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
  There are several[ways creatives can network professionally](https://www.makeuseof.com/creative-professional-networking-ways/) , including attending in-person and virtual networking events, joining online forums and communities, attending conferences and meetups, or[building a professional network on LinkedIn](https://www.makeuseof.com/ways-to-build-professional-network-linkedin/) . Undoubtedly, some of these connections will prove invaluable in helping you thrive in your workplace.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Become a Lifelong Learner to Keep Up With Upcoming Tech
 
  As mentioned above, adaptability and flexibility are vital skills in an AI-dominated workplace. That's because there's a growing consensus that artificial intelligence is moving too fast—so fast that tech innovators like[Elon Musk want to pause AI development](https://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) . This means you will need to swiftly learn new skills to remain competitive in this AI-dominated workplace.
 
  One of the best ways to achieve this is by becoming a lifelong learner and continuously upskilling and reskilling yourself. This includes anything from staying on top of AI news to attending conferences and workshops or taking courses to learn about the latest tools.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Future-Proof Your Career in the AI-Dominated Workplace
 
  The increasing use of artificial intelligence in the workplace is a double-edged sword, as it presents both opportunities and threats. By following these tips and investing in future-proofing skills that AI can't automate, you will be better positioned to survive and thrive in an AI-dominated workplace.
