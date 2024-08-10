@@ -1,7 +1,7 @@
 ---
 title: "AI Application Made Simple: Python + GPT-3"
-date: 2024-08-02T16:06:29.043Z
-updated: 2024-08-03T16:06:29.043Z
+date: 2024-08-09T20:30:14.094Z
+updated: 2024-08-10T20:30:14.094Z
 tags:
   - chatgpt
   - open-ai
@@ -245,3 +245,59 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-steps-to-record-your-hp-laptop-screen-efficiently/"><u>[New] Essential Steps to Record Your HP Laptop Screen Efficiently</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-how-to-record-hulu-on-all-platforms-winmacmobile/"><u>[Updated] 2024 Approved  How To Record Hulu On All Platforms - Win/Mac/Mobile</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-maximizing-visibility-with-instagrams-highlight-system/"><u>[Updated] Maximizing Visibility with Instagram's Highlight System</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-players-guide-to-unforgettable-virtual-realities/"><u>2024 Approved  Players' Guide to Unforgettable Virtual Realities</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-apple-iphone-15-plus-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing Apple iPhone 15 Plus iCloud Activation Lock</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/activating-your-systems-concealed-finder-interface-for-easier-file-access/"><u>Activating Your System's Concealed Finder Interface for Easier File Access</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-quick-access-for-file-explorer-through-onedrive/"><u>Adjusting Quick Access for File Explorer Through OneDrive</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-depend-on-chatgpt-or-bard-when-seeking-personalized-financial-counsel/"><u>Can You Depend on ChatGPT or Bard When Seeking Personalized Financial Counsel?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cant-access-chatgpt-discover-the-five-checkpoints-for-its-status/"><u>Can't Access ChatGPT? Discover the Five Checkpoints for Its Status</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-student-tool-uncovering-5-effective-ways-to-utilize-it-at-school/"><u>ChatGPT as a Student Tool: Uncovering 5 Effective Ways to Utilize It at School</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-the-ultimate-study-tool-for-note-taking-pros/"><u>ChatGPT: The Ultimate Study Tool for Note Taking Pros</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-the-workings-of-predictive-ai-systems/"><u>Deciphering the Workings of Predictive AI Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-ai-dominance-gemini-extreme-vs-gptplusplus/"><u>Decoding AI Dominance: Gemini Extreme Vs. GPT++</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-ai-types-a-guide-to-distinguishing-between-public-private-and-personal-variants/"><u>Decoding AI Types: A Guide to Distinguishing Between Public, Private & Personal Variants</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-emotion-detection-by-ai-systems-the-potential-and-limitations-in-deciphering-human-emotions/"><u>Decoding Emotion Detection by AI Systems: The Potential and Limitations in Deciphering Human Emotions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-errors-reap-bounties-your-guide-to-openais-initiative/"><u>Discover Errors, Reap Bounties: Your Guide to OpenAI's Initiative</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-these-4-amazing-ai-powered-narrative-engine-applications/"><u>Discover These 4 Amazing AI Powered Narrative Engine Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diy-installation-process-for-llama-2-locally-in-simple-steps/"><u>DIY Installation Process for Llama 2 Locally in Simple Steps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/effective-usage-of-hashtags-by-advertisers-on-fb/"><u>Effective Usage of Hashtags by Advertisers on FB</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elon-musks-grok-explanation-decoding-its-essence-and-price-tag/"><u>Elon Musk's Grok Explanation - Decoding Its Essence and Price Tag</u></a></li>
+<li><a href="https://article-helps.techidaily.com/encompassing-insight-understanding-the-google-podcast-app-for-2024/"><u>Encompassing Insight  Understanding the Google Podcast App for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-your-options-with-a-focus-on-local-llm-benefits-and-challenges/"><u>Exploring Your Options with a Focus on Local LLM Benefits & Challenges</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/first-contact-with-langchain-llm-an-introductory-roadmap-for-starters/"><u>First Contact with LangChain LLM: An Introductory Roadmap for Starters</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/future-of-chatgpt-addons-top-features-and-updates-on-the-horizon/"><u>Future of ChatGPT Addons: Top Features and Updates on the Horizon</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-bard-or-microsofts-bing-chat-who-takes-the-crown-in-ai-dialogue/"><u>Google Bard or Microsoft's Bing Chat? Who Takes the Crown in AI Dialogue?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-io-2023-showcases-bard-ais-new-edge-check-out-these-top-7-features/"><u>Google I/O 2023 Showcases Bard AI's New Edge - Check Out These Top 7 Features!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-4-at-your-fingertips-but-plus-continues-to-offer-unmatched-services/"><u>GPT-4 at Your Fingertips; But Plus Continues To Offer Unmatched Services.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/groundbreaking-release-openais-newest-creation-the-transformative-gpt-narrator/"><u>Groundbreaking Release: OpenAI's Newest Creation, The Transformative GPT-Narrator</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-learning-chatgpt-can-boost-your-professional-skills-a-guide-for-job-hunters/"><u>How Learning ChatGPT Can Boost Your Professional Skills: A Guide for Job Hunters</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-14-plus-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone 14 Plus Without Apple ID Password?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hype-generating-headline-author/"><u>Hype-Generating Headline Author</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-y100-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo Y100 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-share-your-story-share-a-spark-top-20-instagram-shots/"><u>In 2024, Share Your Story, Share a Spark  Top 20 Instagram Shots</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/interpretation-in-motion-how-gpt-deciphers-human-language/"><u>Interpretation in Motion: How GPT Deciphers Human Language</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-pursuing-a-profession-in-prompt-engineering-worth-your-time-8-essential-factors-to-consider/"><u>Is Pursuing a Profession in Prompt Engineering Worth Your Time? 8 Essential Factors to Consider</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/key-editing-solutions-in-app-development/"><u>Key Editing Solutions in App Development</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-auto-gpt-complete-setup-instructions-for-ubuntu-enthusiasts/"><u>Mastering Auto-GPT: Complete Setup Instructions for Ubuntu Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-regular-meditation-techniques-using-insights-from-chatgpt/"><u>Mastering Regular Meditation Techniques Using Insights From ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-bing-ai-chat-on-android-tips-and-tricks-for-optimal-usage/"><u>Navigating Bing AI Chat on Android: Tips & Tricks for Optimal Usage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-cyberspace-the-quinary-methodologies-of-cybercrime-exploiting-ai/"><u>Navigating Cyberspace: The Quinary Methodologies of Cybercrime Exploiting AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-wave-on-iphones-chatgpt-written-for-you/"><u>New Wave on iPhones: ChatGPT' Written for You</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/no-budget-big-fun-youtube-vids-as-tweets-gifs/"><u>No Budget, Big Fun  YouTube Vids as Tweets' GIFs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/no-distractions-just-high-quality-webcam-recording-for-2024/"><u>No Distractions, Just High-Quality Webcam Recording for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-challenges-with-chatgpt-understanding-google-news-revision-policies-and-ensuring-uninterrupted-internet-access-on-the-go/"><u>Overcoming Challenges with ChatGPT, Understanding Google News Revision Policies & Ensuring Uninterrupted Internet Access on the Go</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revivemediakit-efficient-flawed-file-fixing/"><u>ReviveMediaKit: Efficient Flawed File Fixing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sequencing-your-way-through-the-classic-superman-movie-series/"><u>Sequencing Your Way Through the Classic 'Superman' Movie Series</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-method-for-capturing-internet-radio-frequencies/"><u>Step-by-Step Method for Capturing Internet Radio Frequencies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/superior-free-reproduction-tools-for-switch-games/"><u>Superior Free Reproduction Tools for Switch Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tackling-blurry-youtube-content-quickly/"><u>Tackling Blurry YouTube Content Quickly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vocalizing-visions-embedding-melodies-in-your-windows-media/"><u>Vocalizing Visions  Embedding Melodies in Your Windows Media</u></a></li>
+</ul></div>

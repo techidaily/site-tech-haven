@@ -1,0 +1,169 @@
+---
+title: Top 10 Decisions When Investing in Artificous Assistants
+date: 2024-08-09T20:32:32.837Z
+updated: 2024-08-10T20:32:32.837Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Top 10 Decisions When Investing in Artificous Assistants
+excerpt: This Article Describes Top 10 Decisions When Investing in Artificous Assistants
+thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c6610495144fe17eca852c8fbd.jpg
+---
+
+## Exploring the Implications of AI Assistants on Future Search Engine Technologies
+
+ With the arrival of OpenAI's AI-powered chatbot, ChatGPT, in late November 2022, search engines now face tough competition. Since its release, Google and other search engine companies have stepped up their efforts to combat it.
+
+ Is this technology going to disrupt the search engine industry? This question is on the minds of most tech enthusiasts. Here, we'll discuss how ChatGPT differs from search engines and whether it is a threat to them.
+
+## How Does ChatGPT Differ From Search Engines?
+
+ The most significant difference between ChatGPT and search engines is how they respond to user requests.
+
+ If you search for the query "how should you prepare for an interview" on any search engine, it'll show you a list of relevant web pages explaining the topic. You may have to visit a single or sometimes several web pages to find an answer to your question.
+
+ In contrast, ChatGPT provides you with summarized answers to your questions directly. If you ask the same question about preparing for an interview from ChatGPT, the chatbot will give direct, straightforward advice.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Comparing Response of ChatGPT With Google Search Engine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/comparing-response-of-chatgpt-with-google-search-engine.jpg)
+
+ Shortly put, ChatGPT can help you find a definite answer to any question without having to search through numerous web pages on search engines. So, the chatbot eliminates additional effort, answers your question more precisely, and saves you time.
+
+ However, it's important to understand[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) so that you can use it efficiently. By having a better understanding of how it was created and trained and how it generates responses, you will be able to make the most of it.
+
+## Why Hasn't ChatGPT Affected the Search Engines So Far?
+
+ Despite ChatGPT's immense popularity, it's still not ready to significantly impact the search engine industry for several reasons. Here are a few of them:
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
+### 1\. ChatGPT Is Trained on a Limited Set of Data
+
+ ChatGPT has been trained on the information that was available until the end of 2021\. When asking the chatbot about anything that happened in 2022 and later, it apologizes for not having that information.
+
+![ChatGPT Apologizing For Not Having any Information About Events Happened in 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-apologizing-for-not-having-information-about-events-happened-in-2022.jpg)
+
+ Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. ChatGPT Can Generate Incorrect Response
+
+ Despite being AI-driven, ChatGPT often gives inaccurate responses. OpenAI, the parent company of ChatGPT, admits that the chatbot sometimes generates inaccurate answers. The company has listed this shortcoming as one of the limitations of its product on its official blog.
+
+![ChatGPT Saying It Can Also Generate Wrong Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-also-generate-wrong-answers-and-explains-why-it-does-so.jpg)
+
+### 3\. ChatGPT Is Less Credible
+
+ On search engines, you know where information is coming from. Each time you search for something, you know the source of the webpage (i.e., brand or website). By putting in some effort, you can also check the authenticity of authors.
+
+ In contrast, ChatGPT doesn't provide citations or references; it simply generates responses based on the raw data it is trained on.
+
+![ChatGPT  Saying It Can't Add References](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-add-references.jpg)
+
+ You can[sign up and start using ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) in just a few minutes. If you haven't tried it yet, take advantage of it to enhance your productivity. Although ChatGPT isn't ready to disrupt the search engine industry just yet, does it have the potential to do so in the future?
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
+## Is ChatGPT Capable of Disrupting Search Engines in the Future?
+
+ Even though ChatGPT has some limitations, it has some strengths that make it an excellent candidate to disrupt the search engine industry. Let's discuss a few of them.
+
+ On search engines, you have to wade through blogs comprising thousands of words to find answers to your questions; ChatGPT relieves you of that labor entirely. The chatbot answers your questions as concisely as possible and allows you to ask follow-up questions to learn more about your query.
+
+ Secondly, ChatGPT makes finding answers to your questions more engaging. Its interface is similar to that of instant messaging apps, and it responds to your questions with a conversational tone. The chatbot makes you feel like you're talking to a friend.
+
+ Furthermore, ChatGPT keeps a record of your interactions with it. Thus, it responds to your questions according to the information it already knows about your issue or query.
+
+ For example, if you ask ChatGPT to write an essay on any topic and later ask it to keep the essay under 2000 words, the chatbot will know the topic on which you want it to write a 2000-word essay. Therefore, it won't be necessary to write the subject again.
+
+ On the other hand, search engines give you results based on your queries, so you need to fine-tune your keyword selection to get the best results.
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How Soon Could ChatGPT Significantly Impact the Search Engine Industry?
+
+ Despite ChatGPT's potential to take a significant chunk of search engine traffic, it still has a long way to go to overcome its limitations.
+
+ Even if it begins to give answers by processing real-time data, provides sources of information, and always gives correct responses, the technology couldn't negate the need for search engines.
+
+ One primary reason for that can be that people have been using search engines for decades**—** a behavior that has taken a long time to develop. Therefore, it may take time for people to digest this change and switch completely to a chatbot.
+
+ Secondly, ChatGPT is a large language model; as of right now, it cannot render visuals. So even though ChatGPT may excel at satisfying some search intents, it may still fall short in others.
+
+ For example, ChatGPT can quickly answer whether cats eat carrots since it is a solid fact. However, it may not effectively satisfy the search intent of some queries (such as how-to explainer guides) where users expect to see images alongside textual information.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
+
+## Let ChatGPT Evolve
+
+ It will take time before people trust ChatGPT as they do on search engine results; it will be fascinating to see how this technology evolves.
+
+ Since Microsoft integrated the AI-powered chatbot into Bing and Google is adding chatbot features to its search engine, this integration may lessen the impact of ChatGPT on search engine traffic.
+
+ Have you tried ChatGPT? If you haven't tried it yet, you should. Whether you need help writing an essay, generating code, composing an engaging email, or breaking down a complex topic, ChatGPT can take care of it all.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-does-spending-on-youtube-followers-really-amplify-your-presence-for-2024/"><u>[New] Does Spending on YouTube Followers Really Amplify Your Presence for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-5-excellent-external-hdd-recommendations-for-xbox/"><u>[Updated] In 2024, 5 Excellent External HDD Recommendations for Xbox</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterful-video-transitions-with-these-10-editors/"><u>2024 Approved  Masterful Video Transitions with These 10 Editors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-8-essential-laptop-skins-for-dynamic-screens/"><u>2024 Approved  Top 8 Essential Laptop Skins for Dynamic Screens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-price-guide-for-cloud-storage-services/"><u>2024 Approved  Ultimate Price Guide for Cloud Storage Services</u></a></li>
+<li><a href="https://extra-information.techidaily.com/4k-innovation-top-10-mac-compatible-displays-for-2024/"><u>4K Innovation  Top 10 Mac-Compatible Displays for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-compelling-arguments-for-enterprises-dismissing-gpt/"><u>5 Compelling Arguments for Enterprises Dismissing GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-face-off-unveiling-10-key-differences-between-microsoft-bing-and-chatgpt-technologies/"><u>AI Face-Off: Unveiling 10 Key Differences Between Microsoft Bing and ChatGPT Technologies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bring-bings-smart-conversations-to-your-finger-tap-away-on-android-devices/"><u>Bring Bing's Smart Conversations to Your Finger-Tap Away on Android Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/building-social-bonds-through-ai-how-chatgpt-can-help-reduce-loneliness/"><u>Building Social Bonds Through AI: How ChatGPT Can Help Reduce Loneliness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-google-bard-an-in-depth-analysis-of-which-leads-in-conversational-ai/"><u>ChatGPT Vs. Google Bard: An In-Depth Analysis of Which Leads in Conversational AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-powered-marketing-copy-excellence/"><u>ChatGPT-Powered Marketing Copy Excellence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-right-llm-unraveling-the-pros-and-cons-quickly/"><u>Choosing the Right LLM: Unraveling the Pros & Cons Quickly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-leading-ais-which-reigns-supreme-notion-or-chatgpt/"><u>Comparing Leading AIs: Which Reigns Supreme, Notion or ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-patterns-6-ingenious-ways-to-utilize-chatgpt/"><u>Decoding Patterns: 6 Ingenious Ways to Utilize ChatGPT</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x50i-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X50i Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-solutions-for-the-chatgpt-too-busy-problem-when-using-windows/"><u>Effective Solutions for the 'ChatGPT Too Busy' Problem When Using Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/elite-software-solutions-for-fluent-communication/"><u>Elite Software Solutions for Fluent Communication</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embrace-a-new-era-in-web-exploration-microsoft-enhances-bing-with-smart-ai-capabilities/"><u>Embrace a New Era in Web Exploration: Microsoft Enhances Bing with Smart, AI Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-tips-for-securely-leveraging-chatgpt-in-psychological-support/"><u>Essential Tips for Securely Leveraging ChatGPT in Psychological Support</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-enhanced-privacy-in-ai-conversations-connect-with-duckduckgos-secure-platform-for-chatgpt-style-engagement/"><u>Experience Enhanced Privacy in AI Conversations: Connect with DuckDuckGo's Secure Platform for ChatGPT-Style Engagement</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/master-the-art-of-sharing-gaming-moments-xboxfb-livestream/"><u>Master the Art of Sharing Gaming Moments  Xbox/FB Livestream</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-airplay-glitches-a-comprehensive-troubleshooting-guide/"><u>Overcoming AirPlay Glitches: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-essential-ai-chatbot-plugins-for-visual-studio-code/"><u>Top 6 Essential AI Chatbot Plugins for Visual Studio Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-innovative-ai-programs-revolutionizing-math-problem-solving/"><u>Top 7 Innovative AI Programs Revolutionizing Math Problem-Solving</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transcending-limits-in-chatgpt-3-conversations/"><u>Transcending Limits in ChatGPT-3 Conversations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-imagery-needs-7-innovative-ways-to-use-chatgpt/"><u>Transform Your Imagery Needs: 7 Innovative Ways to Use ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-bert-a-comprehensive-guide-to-the-nlp-framework-gpt-vs/"><u>Understanding BERT: A Comprehensive Guide to the NLP Framework - GPT Vs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-ai-potential-for-enhanced-wellbeing-with-chatgpt/"><u>Unlocking AI Potential for Enhanced Wellbeing with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-microsofts-ai-eight-ingenious-uses-for-the-newly-enhanced-chatgpt-vision-feature/"><u>Unlocking the Potential of Microsoft's AI: Eight Ingenious Uses for the Newly Enhanced ChatGPT Vision Feature</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-wellness-wisdom-effective-fact-checking-methods/"><u>Unraveling Wellness Wisdom: Effective Fact-Checking Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-gptbot-how-it-works-and-why-some-websites-have-chosen-to-block-access/"><u>Unveiling GPTBot: How It Works & Why Some Websites Have Chosen to Block Access</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voicegpt-for-android-unleashing-the-power-of-speech-recognition-in-conversations-with-chatgpt/"><u>VoiceGPT for Android: Unleashing the Power of Speech Recognition in Conversations with ChatGPT</u></a></li>
+</ul></div>

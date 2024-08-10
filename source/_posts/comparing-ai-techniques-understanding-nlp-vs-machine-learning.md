@@ -1,0 +1,218 @@
+---
+title: "Comparing AI Techniques: Understanding NLP Vs. Machine Learning"
+date: 2024-08-09T20:39:20.780Z
+updated: 2024-08-10T20:39:20.780Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Comparing AI Techniques: Understanding NLP Vs. Machine Learning"
+excerpt: "This Article Describes Comparing AI Techniques: Understanding NLP Vs. Machine Learning"
+thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf760faf0d85aa4162c1de5de.jpg
+---
+
+## Siri Vs. ChatGPT: Understanding Their Unique Capabilities
+
+ We're all excited spectators in the big AI showdown, and there's a lot of speculation and gossip among the crowds. Which AI model is the best? Are ChatGPT and Siri similar? Will ChatGPT eventually replace Siri?
+
+ While Siri and ChatGPT are both driven by AI, that's pretty much where the similarities end. So, we'll look at how Siri and ChatGPT differ and why they're both equally useful in their own unique ways.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
+## Siri vs. ChatGPT: How Are They Different?
+
+ The most fundamental difference between the two arises in their purpose. While ChatGPT is a language-based model with the ability to hold a human-like conversation, Siri is a virtual assistant that responds to commands and performs various tasks on Apple devices.
+
+ It's safe to say both occupy completely different niches despite being run by AI. It's not much of a race if they're both playing a different sport, is it? We'll dissect some specific differences down below so that you know which is better suited for your purpose.\\
+
+### Real-Time Updates
+
+![Using Siri on an iPhone on a white table.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/siri-on-iphone-2.jpg)
+
+ You may think ChatGPT is your one-stop shop for anything and everything you need, but there's one major setback you may not be aware of. ChatGPT has absolutely no real-time access to current events, and its knowledge is limited to data from September 2021 and older. So, you will not receive an answer if you try to ask for any sort of update.
+
+ For example, if you try to ask the chatbot to tell you today's weather or the date of Queen Elizabeth's death, it will tell you it does not have access to current weather conditions and that Queen Elizabeth is still alive according to its knowledge. Live events and breaking news are also no-shows for ChatGPT.
+
+ Siri, on the other hand, can give you real-time updates on the weather and other things like the stock market, and its database is updated regularly, so it does not have a knowledge cutoff as old as ChatGPT does. Siri will immediately tell you the date Queen Elizabeth passed away and what the weather will be like tomorrow.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+### Engaging in Conversations
+
+![Person Using ChatGPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cchatgpt-on-laptop.jpg)
+
+ One of the biggest reasons ChatGPT is as popular as it is today is its ability to engage in conversations, similar to how a human would converse.
+
+ You can open up ChatGPT right now and start up a conversation about your day, type out your feelings, talk about your favorite food, and the chatbot will respond amicably, understand context, give you personalized answers, ask you questions in return, and some say[ChatGPT can even make you laugh](https://www.makeuseof.com/can-ai-make-us-laugh/) .
+
+ It's like chatting with a friend, but much faster and more fluent. The purpose of using ChatGPT for mental health support is gaining popularity among users for this reason, but we're not sure how accurate the process is.
+
+ Siri is much more focused on implementing tasks and executing your command. Thus, its answers are usually short and straightforward. Its ability to carry out a long conversation and understand context is relatively low, so it's definitely not something you would want to use if you need long, explanatory answers and a back-and-forth conversation.
+
+### Activation
+
+![voice recognition homepod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/voice-recognition-homepo.jpg)
+
+ Image Credit:[Apple](https://support.apple.com/en-us/HT204753)
+
+ Siri is designed to respond to voice commands and text input, making it quite easy for users to interact with the virtual assistant. You can ask Siri a quick question by speaking to it when you're on the run, and it's even handier since it is integrated directly into your iPhone. Or, you can type your queries away if that's what you prefer.
+
+ However, ChatGPT only functions with text-based input and does not respond to voice commands. You will have to type in every time you want to use it, so it may be a little more time-consuming if you've got a quick, short question to ask that Siri can answer for you instead.
+
+ However, if you want to use ChatGPT with voice and integrate it into your iPhone, there's a way, and we've explained it in detail towards the end of this article.
+
+### Executing Basic Commands
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![iOS 16.2 Siri shutdown prompt on iPhone offering the Cancel and Power Off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-ios-16-2-siri-prompt-turn-off-iphone.jpg)
+
+ One of the most significant differences between the two emerges when executing tasks. This is where Siri excels, and it's also where its primary purpose lies. As Apple's official virtual assistant, the AI model is here to help make your everyday tasks easier and more efficient.
+
+ You can ask Siri to control a home device, turn on Bluetooth, switch to[Low Power Mode](https://www.makeuseof.com/iphone-low-power-mode/) , set the alarm, make a phone call—you name it, Siri can do it. It's here to make your life convenient.
+
+ ChatGPT simply does not have the means to integrate with other apps and devices, and it cannot associate itself with any of your smart home devices. It cannot provide you with the current status of any physical object or device, thereby making it useless in this department. Simply put, this is just not the purpose it was built for.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+### Answering Your Questions
+
+![A ChatGPT screenshot showing a personalized output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-personalized-responses.jpg)
+
+ Siri and ChatGPT both hold power to answer your queries, albeit in slightly different ways. Put forth a question for Siri, and it will give you a short and sweet response.
+
+ For example, ask Siri when World War 2 occurred, and it will tell you the exact date and leave it at that. However, ChatGPT, with its enormous training data, provides a broader spectrum of information. Give it the same question, and the chatbot responds with a paragraph of details about World War 2 alongside the date. Its large database is one of the reasons there is speculation that[ChatGPT will replace jobs](https://www.makeuseof.com/can-chatgpt-replace-me/) in the future.
+
+ Apart from the amount of information given, both also differ in the way information is provided. If you pose Siri with an open-ended question or a creative scenario like "What is the Bermuda Triangle?" or "What is a black hole?", the virtual assistant will list relevant web searches and links you can sift through to gain your information on the matter.
+
+ When ChatGPT is posed with the same questions, it will do all the hard work for you. It will run through all the data it has and give you a well-formulated answer, so you don't have to spend your time poring over large chunks of text.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## How to Use Both Siri and ChatGPT for the Best Results
+
+ While they're both great in their own ways, there's a way you can get the best of both worlds! Here's a[detailed guide of how you can use ChatGPT with Siri](https://www.makeuseof.com/how-to-use-chatgpt-with-siri-on-iphone/) , but we'll do a quick overview for you here:
+
+1. Open[platform.openai.com](https://auth0.openai.com/u/login/identifier?state=hKFo2SBrQS1NMU1EMzFMSTNJdTc2RWJialpPX1VOX3NhYUwwTKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHB1b0dyNk9aazZQMlhvdHo4QXM0SU9YTjRtbzUtc1J6o2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q) and log in or register.
+2. Tap on the icon with three horizontal lines at the top-right corner of your screen, then tap on your profile icon.
+3. Select**View API keys** .
+4. Tap**\+ Create new secret key** .
+5. Tap on the**Copy** icon in green and press**OK** to finish.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![OpenAI profile options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-profile-options.jpg)
+
+![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
+![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
+
+Close
+
+Now:
+
+1. Open[Yue-Yang's GitHub](https://github.com/Yue-Yang/ChatGPT-Siri) and select the English version of the latest**ChatGPT Siri** update available.
+2. Tap**Set Up Shortcut** to continue.
+3. Paste your copied API key in the**Text** box and tap**Next** twice.
+4. Now, tap**Add Shortcut** at the end, and it will appear on the Shortcuts page of your app.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
+![english version of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/english-version-chatgpt.jpg)
+
+![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
+
+Close
+
+ Now all you have to say is, "Hey Siri, launch ChatGPT 1.2.4," and the chatbot will work. You can also use shortcuts apart from the one listed above, so make sure to pick out the option you find easiest.
+
+## Siri vs. ChatGPT: Two Completely Different AI Models
+
+ Siri and ChatGPT differ in their functions, their purpose, the way they work, and how they respond. Siri is a holy grail for all Apple users as it executes all your commands and performs essential tasks.
+
+ But Siri isn't what you'll use for a lengthy conversation and descriptive answers, and that's where ChatGPT comes in. So, why compare the two when you can use both to make your life much more convenient?
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-improve-viewability-master-the-art-of-adding-timestamps-to-youtube-urls/"><u>[New] 2024 Approved  Improve Viewability  Master the Art of Adding Timestamps to YouTube URLs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-auditory-enhancement-unlocked-delve-into-freeware-audio-effect-software/"><u>[New] Auditory Enhancement Unlocked  Delve Into Freeware Audio Effect Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-guide-for-prime-webcams-in-youtube-live-broadcasts/"><u>[New] In 2024, Essential Guide for Prime Webcams in YouTube Live Broadcasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastery-of-fb-instream-ad-setup-and-evaluation-techniques-in-digital-marketing/"><u>[Updated] 2024 Approved  Mastery of FB Instream Ad Setup & Evaluation Techniques in Digital Marketing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevating-your-youtube-experience-tips-on-channel-art-and-sizes/"><u>[Updated] In 2024, Elevating Your YouTube Experience  Tips on Channel Art and Sizes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-building-time-lapse-shots-on-samsung-gear/"><u>[Updated] Step-by-Step  Building Time Lapse Shots on Samsung Gear</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-offline-speech-to-text-transcription-apps/"><u>[Updated] Top Offline Speech-to-Text Transcription Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-vivid-imagery-with-nikon-j5s-4k-capability-revealed/"><u>[Updated] Vivid Imagery with Nikon J5's 4K Capability Revealed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-seamless-integration-of-snap-camera-in-video-conferencing-tools/"><u>2024 Approved  Seamless Integration of Snap Camera in Video Conferencing Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-world-of-ai-clear-and-simple-insights/"><u>Decoding the World of AI: Clear and Simple Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-most-promising-4-ai-stories-maker-tools/"><u>Discover the Most Promising 4 AI Stories Maker Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-power-of-conversing-with-chatgpt-how-it-works/"><u>Discover the Power of Conversing with ChatGPT: How It Works</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dynamic-topic-suggestions-for-streamers-for-2024/"><u>Dynamic Topic Suggestions for Streamers for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-privacy-game-connect-securely-with-chatgpt-using-duckduckgos-innovative-ai-chat-features/"><u>Elevate Your Privacy Game: Connect Securely with ChatGPT Using DuckDuckGo’s Innovative AI Chat Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-watchlist-15-must-see-stop-motion-classics/"><u>Essential Watchlist  15 Must-See Stop-Motion Classics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/excel-mastery-three-unique-functions-you-cant-find-in-chatgpt-or-similar-ais/"><u>Excel Mastery: Three Unique Functions You Can't Find in ChatGPT or Similar AIs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-enters-the-battle-of-ai-assistants-with-the-launch-of-bard-to-challenge-chatgpt/"><u>Google Enters the Battle of AI Assistants With the Launch of Bard to Challenge ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-do-shared-chatgpt-links-operate-an-overview/"><u>How Do Shared ChatGPT Links Operate? An Overview</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12 Pro Max Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-utilize-the-power-of-chatgpt-copilot-for-enhanced-productivity/"><u>How to Utilize the Power of ChatGPT Copilot for Enhanced Productivity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-guide-5-efficient-windows-11-audio-recording-tips/"><u>In 2024, Streamlined Guide  5 Efficient Windows 11 Audio Recording Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovate-communication-apples-siri-and-microsofts-chatgpt/"><u>Innovate Communication: Apple’s Siri & Microsoft's ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-ai-into-daily-meditation-practices-for-lasting-serenity/"><u>Integrating AI Into Daily Meditation Practices for Lasting Serenity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/joining-bings-ai-world-your-onboarding-tips/"><u>Joining Bing's AI World: Your Onboarding Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-for-success-4-methods-of-using-chatgpt-in-time-management/"><u>Leveraging AI for Success: 4 Methods of Using ChatGPT in Time Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-folders-for-coherent-gpt-3-discussions/"><u>Leveraging Folders for Coherent GPT-3 Discussions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-gpt-4-in-todays-chatgpt-sessions/"><u>Leveraging GPT-4 in Today's ChatGPT Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-business-efficiency-top-8-strategies-with-chatgpt/"><u>Maximizing Business Efficiency: Top 8 Strategies with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-new-normal-how-will-generative-ai-shape-our-professional-landscapes/"><u>Navigating the New Normal: How Will Generative AI Shape Our Professional Landscapes?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/real-time-strategies-for-utilizing-gpt-cutting-edge-with-chatgpt-now/"><u>Real-Time Strategies for Utilizing GPT-Cutting Edge with ChatGPT Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-storytelling-abilities-through-the-use-of-chatgpt/"><u>Revolutionize Your Storytelling Abilities Through the Use of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-ai-art-dall-e-3s-new-editing-capabilities-demand-further-development/"><u>Revolutionizing AI Art: DALL-E 3'S New Editing Capabilities Demand Further Development</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-crafting-your-own-personalized-chatgpt-with-ai-generation/"><u>Step-by-Step Guide: Crafting Your Own Personalized ChatGPT with AI Generation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-document-drafting-using-chatgpt-for-microsoft-word-users/"><u>Streamline Document Drafting Using ChatGPT for Microsoft Word Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/symbolic-financial-guidance/"><u>Symbolic Financial Guidance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-7-common-blunders-in-leveraging-generative-ai-technologies/"><u>The 7 Common Blunders in Leveraging Generative AI Technologies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-development-with-artificial-intelligence-professional-insights/"><u>The Future of Development with Artificial Intelligence: Professional Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-mechanics-behind-bot-success-and-their-appeal/"><u>The Mechanics Behind Bot Success and Their Appeal</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-showdown-is-googleer-gemini-a-superior-alternative-to-chatgpt/"><u>The Showdown: Is Google'er Gemini a Superior Alternative to ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-beginner-friendly-ai-tool-communities-to-join/"><u>Top Beginner-Friendly AI Tool Communities to Join</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-nokia-c110-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Nokia C110 Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tweet-no-more-emojis-linuss-secrets-revealed-trojan-dangers-decoded-and-gpt-issues-exposed/"><u>Tweet No More Emojis, Linus’s Secrets Revealed, Trojan Dangers Decoded, & GPT Issues Exposed</u></a></li>
+</ul></div>
