@@ -1,7 +1,7 @@
 ---
 title: Factory Reset Windows 7 without a CD
-date: 2024-08-14 18:40:48
-updated: 2024-08-16 11:15:37
+date: 2024-08-16T10:09:35.333Z
+updated: 2024-08-17T10:09:35.333Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
  However difficult it may seem to start when your computer refuse to boot, there is no reason for you to despair. The silver lining is, Microsoft has spent a lot of time and energy to make Windows easy to fix, almost to the point where it’s actually self-repairable.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## How do I fix my not booting computer?
 
  To fix this problem, here are some of the most effective methods that you can try. As mentioned, you don’t have to try them all; just pick from the list the options you have tried and then work until you hit the jackpot for you.
@@ -58,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
  Be sure to check your computer monitor. If your computer seems to power on but your screen stays black, ensure your monitor is powered on and that the cable connecting it to your computer’s case is plugged in securely at both ends.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Step 2: Remove External Devices
 
  1) Remove or disconnect all unnecessary discs and devices from the computer. Make sure that the computer is**off** , and then remove any discs and USB devices and the memory cards from the card reader slot. Disconnect non-essential devices such as camera, MP3-playersprinters, scanners, external hard drives etc., and leave**mouse** ,**keyboard** and**monitor** connected.
@@ -89,10 +96,30 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
  5) Choose**Troubleshoot.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 
  6) Then you will be seeing a page similar to the following one. You could choose**Startup Repair** since your computer refuse to load. (You can also do a[system restore](https://tools.techidaily.com/drivereasy/download/) if you have previously created a system restore point.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Follow the on-screen instructions to continue with the system repair.
 
@@ -105,12 +132,18 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
  1) Repeat step 1) to 5) in the above method. When in the Advanced options page, click**System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e358da77cc.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 
  2) Follow the on-screen instructions and choose a restore point for you to go back to.
 
 **NOTE** : If you have not created a restore point, or that you didn’t manually turn on the system restore point feature in Windows 10, you might see this instead:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e35e350ad6.jpg)
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In such case, you may need to use a recovery disc or a USB drive to boot, provided that you manage to get the installation files for Windows 10 from other sources.
 
@@ -121,6 +154,9 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
  1) Do a hard reboot on your computer, and click**Command Prompt** when you are here:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e39f67a517.jpg)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) In the Command Prompt window, type
 
@@ -134,6 +170,9 @@ chkdsk c: /r /x
 
  Your PC should be able to boot now. If not, you may need to consider do a system reset or refresh.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 6: Refresh or Rest your computer
 
 A **refresh**  on Windows 10 will help you reinstall Windows 10\. However, it will **remove**  the applications and drivers that you have installed and your personal settings will be changed back to default as well. It will also remove applications from your computer manufacturer but the apps you installed from the Windows store will remain.
@@ -151,6 +190,9 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 3) Press the **Reset**  button to confirm the reset process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c39342c6.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 
  It will take a while for the refresh to start and to finish. Your computer will restart a few times during the process.
 
@@ -176,3 +218,52 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-in-depth-explanation-implementing-cc-license-types/"><u>[New] 2024 Approved  In-Depth Explanation  Implementing CC License Types</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-quiet-guide-to-livestreaming-yourself-on-instagram/"><u>[New] 2024 Approved  The Quiet Guide to Livestreaming Yourself on Instagram</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-maximizing-your-iphones-creative-capabilities-for-2024/"><u>[New] Maximizing Your iPhone's Creative Capabilities for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unravel-iphone-tricks-for-repetitive-videos/"><u>[New] Unravel iPhone Tricks for Repetitive Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-average-earnings-per-view-whats-the-income-for-youtubers-per-ad-playback/"><u>[Updated] 2024 Approved  Average Earnings Per View  What's the Income for YouTubers per Ad Playback?</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artistic-uprising-understanding-why-sarah-silverman-is-leading-a-lawsuit-for-ai-accountability/"><u>Artistic Uprising: Understanding Why Sarah Silverman Is Leading a Lawsuit for AI Accountability</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/become-a-pro-at-adding-features-to-chatgpt/"><u>Become a Pro at Adding Features to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-coder-amongst-chatbots-can-gemini-outperform-chatgpt-in-code-generation/"><u>Best Coder Amongst Chatbots: Can Gemini Outperform ChatGPT in Code Generation?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-trust-chatgpt-with-your-health-5-compelling-reasons-to-think-twice-before-accepting-its-advice/"><u>Can You Trust ChatGPT with Your Health? 5 Compelling Reasons to Think Twice Before Accepting Its Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-intellect-shows-strength-openai-asserts/"><u>ChatGPT's Intellect Shows Strength, OpenAI Asserts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/coding-showdown-can-chatgpt-outperform-gemini-in-the-world-of-programming/"><u>Coding Showdown: Can ChatGPT Outperform Gemini in the World of Programming?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creative-ways-to-use-chatgpt-and-transform-your-dandd-campaigns/"><u>Creative Ways to Use ChatGPT and Transform Your D&D Campaigns</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-the-issue-of-synchronizing-artificial-intelligence-with-human-values/"><u>Demystifying the Issue of Synchronizing Artificial Intelligence with Human Values</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-lava-yuva-2-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Lava Yuva 2 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-instructions-running-chatgpt-seamlessly-on-windows-devices/"><u>Easy Instructions: Running ChatGPT Seamlessly on Windows Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficient-chat-management-using-chatgpt-folder-techniques/"><u>Efficient Chat Management Using ChatGPT Folder Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-error-remedies-top-6-chatgpt-blunders-explained/"><u>Essential Error Remedies: Top 6 ChatGPT Blunders Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-chatgpt-security-unveiling-six-key-risks-associated-with-openais-revolutionary-ai/"><u>Evaluating ChatGPT Security: Unveiling Six Key Risks Associated with OpenAI's Revolutionary AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-the-effectiveness-of-chatgpt-for-enhancing-imaginative-writing-pros-vs-cons/"><u>Evaluating the Effectiveness of ChatGPT for Enhancing Imaginative Writing: Pros vs Cons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-a-better-world-with-chatgpts-revolutionary-enhancements/"><u>Explore a Better World with ChatGPT's Revolutionary Enhancements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fantasy-meets-fact-innovations-by-ai/"><u>Fantasy Meets Fact: Innovations by AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-gpt-nation-unleashed-yet-heres-why-chatgpt-plus-remains-your-wise-choice/"><u>Free GPT-Nation Unleashed – Yet, Here's Why ChatGPT Plus Remains Your Wise Choice!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hack-proof-chatterbots-a-must-do-guide/"><u>Hack-Proof Chatterbots: A Must-Do Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-chatgpts-capabilities-to-boost-office-performance/"><u>Harnessing ChatGPT's Capabilities to Boost Office Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-accurate-is-chatgpts-health-related-guidance/"><u>How Accurate Is ChatGPT's Health-Related Guidance?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-openais-shap-e-enhance-machine-learning-interpretation/"><u>How Does OpenAI's Shap-E Enhance Machine Learning Interpretation?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-the-notion-of-a-paperclip-maximizer-influence-modern-artificial-intelligence/"><u>How Does the Notion of a Paperclip Maximizer Influence Modern Artificial Intelligence?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-add-music-in-premiere-pro/"><u>How To Add Music In Premiere Pro?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-generate-images-with-microsoft-bing-and-dall-e-3-at-no-cost/"><u>How to Generate Images with Microsoft Bing and DALL-E 3 at No Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-get-mouse-drivers-for-windows-7-operating-system/"><u>How To Securely Get Mouse Drivers For Windows 7 Operating System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-seamless-integration-and-usage-of-chatgpt-plug-ins-for-enhanced-functionality/"><u>How To: Seamless Integration & Usage of ChatGPT Plug-Ins For Enhanced Functionality</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-samsung-galaxy-s23plus-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Samsung Galaxy S23+ To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a1x-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo A1x 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-7-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From iPhone 7 Plus?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-rights-infringement-abrupt-content-elimination/"><u>In 2024, Rights Infringement  Abrupt Content Elimination</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-y27-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo Y27 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-honor-magic5-ultimate-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Honor Magic5 Ultimate IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-the-enigma-deciphering-the-role-and-operation-of-ai-black-boxes-in-ai-systems/"><u>Inside the Enigma: Deciphering the Role and Operation of 'AI Black Boxes' In AI Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-chatgpt-with-smart-home-technology-feasibility-and-benefits/"><u>Integrating ChatGPT with Smart Home Technology: Feasibility and Benefits</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-features-to-consider-for-ultimate-gaming-screens/"><u>Key Features to Consider for Ultimate Gaming Screens</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/prime-5-minute-time-lapse-video-creator/"><u>Prime 5-Minute Time-Lapse Video Creator</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-power-of-tailored-commands-in-chatgpt-features-and-applications-explored/"><u>The Power of Tailored Commands in ChatGPT: Features and Applications Explored</u></a></li>
+</ul></div>

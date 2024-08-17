@@ -1,7 +1,7 @@
 ---
 title: "Mastering PC Maintenence: Crafting a Restore Point for Windows 8 and 8.1 Systems"
-date: 2024-08-13 17:47:15
-updated: 2024-08-16 10:39:38
+date: 2024-08-16T10:08:23.004Z
+updated: 2024-08-17T10:08:23.004Z
 tags:
   - win11
   - win10
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
  If the installation proceeds and turns out successful, you can plug the devices back in after your system gets updated. But if this doesn’t help, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Clear an attribute of $WINDOWS.\~BT installation folder
 
  The “Windows 10 installation has failed” error could be triggered when the installer tries to repeatedly copy the files in a certain folder. You can try to clear an attribute of the $WINDOWS.\~BT installation folder to see if it solves your problem. Here’s how:
@@ -44,10 +47,17 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 1. Press the**Windows logo key** and**E** to open the File Explorer, and navigate to the**C drive** .
 2. From the toolbar, click**View** and make sure you tick the checkbox of**Hidden items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_11-22-46.png)
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. You should find the**$WINDOWS.\~BT** folder here. Right-click it and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_11-24-21.png)
 4. Uncheck the checkbox of**Read-Only** , then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_11-38-03.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 5. Run the installation again.
 
  If this fix doesn’t solve the installation error you have, try the next fix.
@@ -62,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-03-06.png)
 2. Make sure your Windows display language is set to**English** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-04-37.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 3. Remove all the non-English language packs you have.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-05-07.png)
 4. Run the installer again.
@@ -70,15 +83,28 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
 1. Click the**Start** button. Type**language** in the search bar, then click**Change display languages** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-17.png)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 2. Click**Install/uninstall languages** . You may be prompted for permission, just click OK.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-29.png)
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Click**Uninstall display languages** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-37-1.png)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. **Remove any non-English language packs** per instructions. Make sure you save the changes.
 5. Run the installer again.
 
  If this doesn’t solve your problem and you keep running into the error, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Fix 4: Rebuild the Boot Configuration Data
 
  Any error found in Boot Manager could lead to the “Windows 10 installation has failed” error. The easiest way to fix the Boot Manager is to rebuild the Boot Configuration Data (BCD). It may seem a bit complicated, but the process is very straightforward. Here’s how:
@@ -89,8 +115,14 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
 1. Press the**Windows key** , search for**recovery** , then click**Recovery options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-10-46.png)
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Under Advanced Startup, click**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-16-10.png)
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 3. Click**Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-38.png)
 4. Click**Advanced options** .  
@@ -132,6 +164,9 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 6. Under the**Startup** tab, select every enabled startup item and click**Disable** until you’ve disabled all startup items.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. Restart your PC and try to run the Windows installer.
 
  If performing a clean boot installation doesn’t solve the error for you, there’s one more fix you can try.
@@ -146,9 +181,21 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 2. Run the software. Fortect will start a deep scan of your system. The process may take a while.
 3. Once the scan is complete, you can review the summary. If Fortect detects any missing or broken system files or other issues that may have caused the Windows installer to crash, you can click **START REPAIR** to fix them.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their free support service.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Bonus tip: how to keep your PC in top condition
 
  Outdated or faulty drivers may trigger this error, although not very common. And as we briefly mentioned before, if a driver issue caused this installation error, you’re likely to get a specific error code. But in general, keeping your device drivers up-to-date can help prevent and solve many random computer issues.
@@ -162,6 +209,9 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -190,3 +240,39 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-10plus-free-video-intro-makers-for-youtubers/"><u>[New] Top 10+ Free Video Intro Makers for Youtubers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-understanding-facebooks-chat-language-through-its-blue-signature-marker-for-2024/"><u>[New] Understanding Facebook's Chat Language Through Its Blue Signature Marker for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovateimages-ai-next-level-editing-excellence/"><u>2024 Approved  InnovateImages AI  Next-Level Editing Excellence</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-top-10-audio-editing-apps-beyond-audacity/"><u>2024 Approved Top 10 Audio Editing Apps Beyond Audacity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/customize-your-conversational-ai-building-a-tailored-chatgpt-with-individual-data-sets/"><u>Customize Your Conversational AI: Building a Tailored ChatGPT with Individual Data Sets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/data-analysis-mastery-how-to-harness-the-power-of-chatgpt/"><u>Data Analysis Mastery: How to Harness the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/debunking-chatgpt-windows-app-reality-check/"><u>Debunking ChatGPT Windows App - Reality Check</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-capabilities-of-claude-pro-versus-the-advantages-of-chatgpt-plus/"><u>Decoding the Capabilities of Claude Pro Versus The Advantages of ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-secrets-mastering-claudes-3-ai-prompts-at-anthropics/"><u>Discover the Secrets: Mastering Claudes 3 AI Prompts at Anthropics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-top-twenty-innovative-prompts-for-chatbots-on-github-repositories/"><u>Discover the Top Twenty Innovative Prompts for Chatbots on GitHub Repositories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dissecting-auto-gpt-vs-chatgpt-key-technological-variations/"><u>Dissecting Auto-GPT vs ChatGPT – Key Technological Variations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easter-eggstravaganza-wondershare-filmora-promo-code-inside/"><u>Easter Eggstravaganza Wondershare Filmora Promo Code Inside</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-ai-accuracy-six-proven-steps-for-diminishing-hallucination-risks/"><u>Enhancing AI Accuracy: Six Proven Steps for Diminishing Hallucination Risks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-your-job-application-a-step-by-step-guide-to-writing-a-cover-letter-using-chatgpt/"><u>Enhancing Your Job Application: A Step-by-Step Guide to Writing a Cover Letter Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-the-benefits-and-drawbacks-of-chatgpt-in-creative-composition/"><u>Evaluating the Benefits & Drawbacks of ChatGPT in Creative Composition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-nubia-z50s-pro-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Nubia Z50S Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-in-the-job-market-what-positions-are-at-risk/"><u>Generative AI in the Job Market: What Positions Are at Risk?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/grok-ai-deciphering-its-meaning-functionality-and-cost-with-elon-musk/"><u>Grok AI: Deciphering Its Meaning, Functionality & Cost with Elon Musk</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-ensure-authenticity-of-chatgpt-apps-before-download-on-ios-devices/"><u>How to Ensure Authenticity of ChatGPT Apps Before Download on iOS Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-implement-chatgpt-widget-for-android-devices-a-step-by-step-guide/"><u>How To Implement ChatGPT Widget For Android Devices - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-breakthrough-visuals-top-10-monitors-for-your-macbook/"><u>In 2024, Breakthrough Visuals  Top 10 Monitors For Your MacBook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-expert-tips-on-capturing-and-sharing-your-instagram-stories/"><u>In 2024, Expert Tips on Capturing and Sharing Your Instagram Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-pinnacle-10-royale-struggle-games/"><u>In 2024, Pinnacle 10 Royale Struggle Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/italys-sudden-ban-on-chatgpt-understanding-the-reason-behind-immediate-action/"><u>Italy's Sudden Ban on ChatGPT: Understanding the Reason Behind 'Immediate Action'</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-the-charge-for-ai-responsibility-ceos-perspective/"><u>Leading the Charge for AI Responsibility - CEO's Perspective</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/local-ai-fun-without-the-fuss-get-started-with-a-free-open-source-chatgpt-copy-gpt-4all-for-windows-users/"><u>Local AI Fun Without the Fuss: Get Started With a Free, Open-Source ChatGPT Copy - GPT-4All for Windows Users!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-interaction-read-digest-and-summarize-pdfs-with-ease/"><u>Mastering ChatGPT Interaction: Read, Digest, and Summarize PDFs with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-ai-world-with-these-essential-insights/"><u>Navigating the AI World with These Essential Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-volatility-5-chatgpt-solutions-for-traders/"><u>Navigating Volatility: 5 ChatGPT Solutions for Traders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-the-most-typical-auto-gpt-installation-hurdles-a-guide/"><u>Overcoming the Most Typical Auto-GPT Installation Hurdles: A Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-to-hdmi-bridge-malfunction-heres-how-to-solve-it/"><u>USB to HDMI Bridge Malfunction? Here's How to Solve It</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Use Anthropic's New Claude 3 AI Prompt Store
-date: 2024-08-02T16:05:43.859Z
-updated: 2024-08-03T16:05:43.859Z
+date: 2024-08-16T11:17:23.650Z
+updated: 2024-08-17T11:17:23.650Z
 tags:
   - chatgpt
   - open-ai
@@ -103,3 +103,54 @@ How do you know when you've been granted access?
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-fundamentals-of-av1-encoding/"><u>[New] Exploring the Fundamentals of AV1 Encoding</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/olishing-your-youtube-production-post-publishment-for-2024/"><u>[New] Polishing Your YouTube Production Post-Publishment for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unbeatable-mobilized-game-slowdowns/"><u>[Updated] 2024 Approved  Unbeatable Mobilized Game Slowdowns</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-broadcasting-to-the-household-watching-facebook-videos-in-2024/"><u>[Updated] Broadcasting to the Household  Watching Facebook Videos, In 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-video-quality-mastering-aspect-ratio-and-size-settings-on-youtube-for-2024/"><u>[Updated] Elevate Video Quality  Mastering Aspect Ratio and Size Settings on YouTube for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-navigating-zoom-meetings-on-windows-10/"><u>[Updated] In 2024, Navigating Zoom Meetings on Windows 10</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-streamline-and-stand-out-twitters-video-directive/"><u>[Updated] Streamline and Stand Out  Twitter's Video Directive</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-giggle-guild-imgur-memomaker/"><u>2024 Approved  Giggle Guild  Imgur MemoMaker</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-personalizing-the-perfect-pixel-rhythm/"><u>2024 Approved  Personalizing the Perfect Pixel Rhythm</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-incredible-ways-chatgpt-can-enhance-your-workday-productivity/"><u>7 Incredible Ways ChatGPT Can Enhance Your Workday Productivity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/frontier-ai-chipsets-and-processors-the-quintessential-innovations/"><u>Frontier AI Chipsets and Processors: The Quintessential Innovations</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-sades-headset-drivers-on-windows-guaranteed-malware-free/"><u>Get the Latest Sades Headset Drivers on Windows - Guaranteed Malware-Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-inspired-wearables-navigating-the-next-generation-of-tech/"><u>GPT-Inspired Wearables: Navigating the Next Generation of Tech</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-claude-pro-a-comparative-analysis-with-premium-chatgptplus/"><u>Inside Claude Pro: A Comparative Analysis with Premium ChatGPT+</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-openai-losing-its-grip-on-chatgpt-management/"><u>Is OpenAI Losing Its Grip on ChatGPT Management?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/laughter-layouts-design-meme-magic-on-kapwing-for-2024/"><u>Laughter Layouts  Design Meme Magic on Kapwing for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-build-at-toms-hardware-solutions/"><u>Master Your PC Build at Tom's Hardware Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-6-strategies-for-an-excellent-dandd-guide/"><u>Mastering ChatGPT: 6 Strategies for an Excellent D&D Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-sidestep-these-essential-errors/"><u>Mastering ChatGPT: Sidestep These Essential Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-modern-habits-a-comprehensive-guide-to-leveraging-chatgpt-for-lifestyle-improvement/"><u>Mastering Modern Habits: A Comprehensive Guide to Leveraging ChatGPT for Lifestyle Improvement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-note-taking-with-chatgpt-professional-tips-and-tricks/"><u>Mastering Note-Taking with ChatGPT: Professional Tips and Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide/"><u>Mobile Cinema  Apple's No.1, 8-Pack Free & Paid Film App Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/nostalgic-game-consoles-a-collectors-guide/"><u>Nostalgic Game Consoles: A Collector’s Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-broken-arrow-key-issues-masterful-remedies-for-smooth-typing/"><u>Overcome Broken Arrow Key Issues: Masterful Remedies for Smooth Typing!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-obsolescence-six-ways-to-shine-in-an-ai-world/"><u>Overcoming Obsolescence: Six Ways to Shine in an AI World</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ppro-fs-insights-a-compreran-guide-for-2024/"><u>PPro FS Insights  A Compreran Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/propel-chatgpt-forward-top-9-must-have-plugins-here/"><u>Propel ChatGPT Forward: Top 9 Must-Have Plugins Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/shaping-future-intelligence-the-birth-of-gpt-4/"><u>Shaping Future Intelligence: The Birth of GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/side-by-side-analysis-discover-the-top-eight-differences-between-snapchats-ai-vs-microsofts-bing-chat-on-skype/"><u>Side-by-Side Analysis: Discover the Top Eight Differences Between Snapchat's AI vs Microsoft's Bing Chat on Skype</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-saving-and-retrieving-past-chatgpt-chats-easily/"><u>Step-by-Step Instructions: Saving and Retrieving Past ChatGPT Chats Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-building-a-portable-wireless-movie-hub-for-students-rooms/"><u>Step-by-Step Tutorial on Building a Portable Wireless Movie Hub for Students' Rooms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategic-planning-achieving-wellness-with-ai/"><u>Strategic Planning: Achieving Wellness with AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-to-shield-sensitive-enterprise-discussions/"><u>Strategies to Shield Sensitive Enterprise Discussions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/struggling-with-chatgpt-on-ios-try-out-these-nine-remedies-for-a-smooth-experience/"><u>Struggling with ChatGPT on iOS? Try Out These Nine Remedies for a Smooth Experience!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tailoring-twitter-hashtags-insights-from-chatgpt/"><u>Tailoring Twitter Hashtags: Insights From ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-advantages-and-disadvantages-of-using-chatgpt-for-crafting-written-art/"><u>The Advantages and Disadvantages of Using ChatGPT for Crafting Written Art</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-digital-landscape-transformed-ai-search-engines-redefining-the-way-we-navigate-online-content/"><u>The Digital Landscape Transformed: AI Search Engines Redefining the Way We Navigate Online Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-composing-and-publishing-a-poetry-collection-using-chatgpt/"><u>The Ultimate Guide to Composing and Publishing a Poetry Collection Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-smart-ai-chrome-plugins-that-supercharge-your-workflow/"><u>Top 8 Smart AI Chrome Plugins That Supercharge Your Workflow</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-your-tech-experience-mastering-chatgpt-on-a-mac/"><u>Transforming Your Tech Experience: Mastering ChatGPT on a Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-potential-of-llama-2-tips-for-utilizing-this-advanced-ai/"><u>Understanding the Potential of Llama 2 - Tips for Utilizing This Advanced AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-role-of-chatgpt-jailbreak-tools-and-their-implications/"><u>Understanding the Role of ChatGPT Jailbreak Tools and Their Implications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-your-twitter-potential-premium-video-upload-tools/"><u>Unleash Your Twitter Potential  Premium Video Upload Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-stops-device-resolved-nvidia-error-43/"><u>Windows Stops Device - Resolved: NVIDIA Error #43</u></a></li>
+</ul></div>

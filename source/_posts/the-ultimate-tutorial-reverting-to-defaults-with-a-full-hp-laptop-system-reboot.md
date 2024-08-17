@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Tutorial: Reverting to Defaults with a Full HP Laptop System Reboot"
-date: 2024-08-13 15:43:30
-updated: 2024-08-16 10:57:58
+date: 2024-08-16T10:08:37.265Z
+updated: 2024-08-17T10:08:37.265Z
 tags:
   - win11
   - win10
@@ -32,6 +32,9 @@ Working or gaming with a slow laptop can be extremely irritating. If you’re lo
 
 You may not have to try them all; just choose the method you need.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Disable startup programs
 
  Startup programs start automatically when your PC turns on. They’ll run in the background and hog your PC resources.
@@ -50,6 +53,9 @@ You may not have to try them all; just choose the method you need.
 **2)** Click**Startup.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-29-19.jpg)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Uncheck the box next to the program that you don’t need to launch automatically at startup.
 
@@ -107,6 +113,10 @@ Hopefully, your laptop boots faster than before.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Method 3: Free up your disk space
 
  Over time, your laptop accumulates files and programs, leaving you insufficient disk space to perform regular tasks. Eventually, this will slow down your laptop.
@@ -128,6 +138,9 @@ Hopefully, your laptop boots faster than before.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Method 4: Defragment your hard drive
 
  Defragmenting rearranges the layout of files on your hard disk. It’s a process to help make accessing the files on your disk faster. To see if defragmenting your drive can improve your laptop’s performance, follow the instructions below:
@@ -141,6 +154,9 @@ Hopefully, your laptop boots faster than before.
 **3)** Select your**C drive** and click**Optimize** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-35-14.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 
 **4)** Apply this method for all the drives.
 
@@ -148,6 +164,9 @@ Hopefully, your laptop boots faster than before.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 5: Uninstall unnecessary programs
 
  Another way to increase your laptop speed and enhance your laptop security is by uninstalling unused programs. Here is how to do it:
@@ -155,19 +174,31 @@ Hopefully, your laptop boots faster than before.
 **1)** On your keyboard, press the**Windows logo** key and type**control.** Then, click**Control Panel.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-35-23.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
 **2)** Select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-35-31.jpg)
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 
 **3)** Right-click the program that you don’t use and select**Uninstall** .
 
  Only uninstall those programs that you don’t use anymore. Don’t remove any program that you are not familiar with. It may be critical for the functioning of your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-35-48.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 6: Change your laptop’s power plan
 
  The power plan on all computers is set to Balanced by default to save more energy, so your laptop may slow down automatically to save energy. In this case, changing the power setting to High Performance help speed up your laptop. Here is how:
@@ -187,9 +218,15 @@ Hopefully, your laptop boots faster than before.
 **4)** Select**High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-36-45-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 7: Update drivers for your devices
 
  One of the most common causes of the performance lag on your laptop is outdated or faulty device drivers. It’s essential that you have the latest correct drivers for your hardware devices. There are two ways you can get the right drivers for your devices: manually or automatically.
@@ -203,6 +240,9 @@ Hopefully, your laptop boots faster than before.
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-17_12-11-59.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 
 **3)** Click the**Update button** next to the driver you want to update to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -221,19 +261,34 @@ Hopefully, your laptop boots faster than before.
 **2)** Right-click on the blank area and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-39-33.jpg)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**Advanced system settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-39-43.jpg)
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click**Settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-39-55.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
 **5)** Select**Adjust for best performance** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-40-05.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Method 9: Use Fortect to Optimize Your System
 
  Over time, the performance of your laptop can decrease due to all kinds of problems, for example, malware, broken system data, etc.
@@ -292,3 +347,53 @@ Hopefully, your laptop boots faster than before.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-techniques-to-enhance-your-slow-motion-photos-for-instagram-audiences-for-2024/"><u>[New] Techniques to Enhance Your Slow Motion Photos for Instagram Audiences for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-real-time-reality-rally-does-digital-dethrone-device-dominance/"><u>[Updated] Real-Time Reality Rally  Does Digital Dethrone Device Dominance?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/50-mobiles-and-mastering-ransomware-decryption-join-us-as-chatgpt-helps-write-the-latest-episode-of-our-podcast/"><u>$50 Mobiles & Mastering Ransomware Decryption: Join Us as ChatGPT Helps Write the Latest Episode of Our Podcast!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-minutes-to-boosting-traffic-with-these-9-essential-gpt-plugins/"><u>5 Minutes to Boosting Traffic with These 9 Essential GPT Plugins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-effective-strategies-leveraging-chatgpt-to-enhance-your-career-hunt/"><u>6 Effective Strategies: Leveraging ChatGPT to Enhance Your Career Hunt</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/9-keys-to-understanding-the-future-of-prompt-engineering-jobs/"><u>9 Keys to Understanding the Future of Prompt Engineering Jobs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-complete-overview-claude-3-unwrapped/"><u>A Complete Overview: Claude 3 Unwrapped</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-understanding-and-utilizing-claude-2/"><u>A Comprehensive Guide to Understanding and Utilizing Claude 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-deep-dive-into-gpt4alls-operations/"><u>A Deep Dive Into GPT4All's Operations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-tale-of-three-ais-facing-the-same-crafted-prompts/"><u>A Tale of Three AI's Facing the Same Crafted Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/accelerate-hr-processes-using-just-5-powerful-chatgpt-techniques/"><u>Accelerate HR Processes Using Just 5 Powerful ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/accessible-ai-conversation-companion-at-no-charge-hosting-gpt-4-clones-via-gpt4all-on-pcs/"><u>Accessible AI Conversation Companion at No Charge: Hosting GPT-4 Clones via GPT4All on PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/accessing-cutting-edge-ai-no-monetary-exchange-required/"><u>Accessing Cutting-Edge AI: No Monetary Exchange Required</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-ai-interaction-design-discover-the-quintessential-course-selections-to-shape-prompts-professionally/"><u>Ace AI Interaction Design: Discover The Quintessential Course Selections to Shape Prompts Professionally</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-chatgpt-dialogue-7-proven-prompting-strategies-for-superior-results/"><u>Ace ChatGPT Dialogue: 7 Proven Prompting Strategies for Superior Results</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/achieve-peak-performance-in-studies-with-smart-chatgpt-notes/"><u>Achieve Peak Performance in Studies with Smart ChatGPT Notes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-conversationalists-face-off-identifying-the-best-of-chatgpt-microsofts-bing-ai-and-googles-bard/"><u>AI Conversationalists Face-Off: Identifying the Best of ChatGPT, Microsoft's Bing AI & Google’s Bard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-demystified-understanding-artificnental-intelligence-simply/"><u>AI Demystified: Understanding Artificnental Intelligence Simply</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-face-off-snapchats-intelligence-vs-bing-chat-on-skype-top-8-comparisons/"><u>AI Face-Off: Snapchat's Intelligence Vs. Bing Chat on Skype – Top 8 Comparisons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-for-the-ordinary-person-claude-versus-gpt-analysis/"><u>AI for the Ordinary Person: Claude Versus GPT Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-helpers-in-development-choosing-between-copilot-and-gpt-3/"><u>AI Helpers in Development: Choosing Between Copilot & GPT-3</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-inspection-manual-scrutinizing-chatgpts-aptitude/"><u>AI Inspection Manual: Scrutinizing ChatGPT's Aptitude</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-mastery-unleashed-delving-into-transfer-learning-methods/"><u>AI Mastery Unleashed: Delving Into Transfer Learning Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-driven-deception-top-7-techniques-used-by-fraudsters-in-online-dating-scams/"><u>AI-Driven Deception: Top 7 Techniques Used by Fraudsters in Online Dating Scams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-inception-tracing-its-historical-evolution/"><u>AI's Inception: Tracing Its Historical Evolution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/androids-new-wave-of-conversation-with-chatgpt/"><u>Android's New Wave of Conversation – With ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/anticipated-advances-in-gpt-5-4-key-improvements-on-the-wishlist/"><u>Anticipated Advances in GPT-5: 4 Key Improvements on the Wishlist</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificayering-academia-with-ai-tools/"><u>Artificayering Academia with AI Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-the-impact-of-ai-on-search-algorithms/"><u>Assessing the Impact of AI on Search Algorithms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-the-validity-of-health-information-provided-by-chatgpt/"><u>Assessing the Validity of Health Information Provided by ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-the-role-of-windows-cab-files-in-system-setup/"><u>Dissecting the Role of Windows CAB Files in System Setup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722103316117-eager-to-use-ai-conversations-locally-check-out-these-superb-open-source-options/"><u>Eager to Use AI Conversations Locally? Check Out These Superb Open Source Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722026005149-essential-ai-tools-to-generate-creative-stories-top-picks/"><u>Essential AI Tools to Generate Creative Stories - Top Picks!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-nvidia-drivers-here-windows-11-to-8-support-included/"><u>Get the Latest NVIDIA Drivers Here: Windows 11 to 8 Support Included</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y27 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-14-pro-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 14 Pro iCloud Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-infinix-note-30-vip-racing-edition-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Infinix Note 30 VIP Racing Edition Face Lock?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722158506961-linus-tech-tips-reveals-major-vulnerabilities-and-twitter-introduces-innovative-checkmark-functionality/"><u>Linus Tech Tips Reveals Major Vulnerabilities & Twitter Introduces Innovative 'Checkmark' Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722157800226-public-transit-directions/"><u>Public Transit Directions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-specific-error-403-in-roblox-space/"><u>Resolving Windows-Specific Error 403 in Roblox Space</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721856132177-step-up-your-online-research-ai-powered-bing-on-ios-and-android/"><u>Step Up Your Online Research: AI-Powered Bing on iOS and Android</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-setting-up-dual-monitors-with-a-macbook-air-for-efficient-workflows/"><u>Step-by-Step Tutorial: Setting Up Dual Monitors with a MacBook Air for Efficient Workflows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722169584519-strategic-workflow-optimization-with-the-help-of-chatgpt-a-comprehve-guide/"><u>Strategic Workflow Optimization with the Help of ChatGPT: A Comprehve Guide.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722174161736-unheard-truth-talk-to-chatgpt-now/"><u>Unheard Truth: Talk to ChatGPT Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721885727749-unlock-excel-efficiency-by-leveraging-chatgpt-end-those-spreadsheet-worries/"><u>Unlock Excel Efficiency by Leveraging ChatGPT - End Those Spreadsheet Worries!</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-how-to-define-ai-video/"><u>Updated In 2024, How to Define AI Video?</u></a></li>
+</ul></div>

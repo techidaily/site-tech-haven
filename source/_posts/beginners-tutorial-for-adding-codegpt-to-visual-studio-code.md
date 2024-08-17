@@ -1,7 +1,7 @@
 ---
 title: Beginner's Tutorial for Adding CodeGPT to Visual Studio Code
-date: 2024-08-02T16:05:38.354Z
-updated: 2024-08-03T16:05:38.354Z
+date: 2024-08-16T11:26:30.437Z
+updated: 2024-08-17T11:26:30.437Z
 tags:
   - chatgpt
   - open-ai
@@ -126,3 +126,67 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-humor-harvesters-making-memes-without-a-price-tag/"><u>[New] 2024 Approved  Humor Harvesters  Making Memes Without a Price Tag</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-inside-sharex-analysis-reviews-and-counterparts/"><u>[New] 2024 Approved  Inside ShareX Analysis  Reviews & Counterparts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-podcast-hooks-compelling-beginnings/"><u>[New] The Art of Podcast Hooks  Compelling Beginnings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-harness-free-software-to-broadcast-virtual-events/"><u>[Updated] 2024 Approved  Harness Free Software to Broadcast Virtual Events</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-prime-picks-for-effortless-screenshots/"><u>[Updated] Prime Picks for Effortless Screenshots</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-professional-insights-expert-level-youtube-video-tweaks/"><u>[Updated] Professional Insights  Expert-Level Youtube Video Tweaks</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/4-cutting-edge-artificial-intelligence-solutions-for-dynamic-storytelling/"><u>4 Cutting-Edge Artificial Intelligence Solutions for Dynamic Storytelling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-free-ai-tools-to-generate-professional-emails-with-chatgpt-and-summarize-your-inbox/"><u>5 Free AI Tools to Generate Professional Emails With ChatGPT & Summarize Your Inbox</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-breakdown-of-features-and-capabilities/"><u>A Comprehensive Breakdown of Features and Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/aggregate-of-top-20-chatgpt-question-and-response-examples/"><u>Aggregate of Top 20 ChatGPT Question and Response Examples</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-insightful-forecasts-vs-starry-readings-of-destiny/"><u>AI's Insightful Forecasts Vs. Starry Readings of Destiny</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-chatgpts-capabilities-an-automated-approach-to-proofreading-texts/"><u>Assessing ChatGPT's Capabilities: An Automated Approach to Proofreading Texts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-productivity-6-outstanding-ai-chatgpt-extensions-for-developers-in-vs-code/"><u>Boosting Productivity: 6 Outstanding AI ChatGPT Extensions for Developers in VS Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-unveiling-the-mysteries-of-openai/"><u>Comprehensive Guide: Unveiling the Mysteries of OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/culinary-success-starts-here-7-ways-chatgpt-helps/"><u>Culinary Success Starts Here: 7 Ways ChatGPT Helps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cultivating-emotional-savvy-strategies-using-chatgpt-to-improve-intelligence/"><u>Cultivating Emotional Savvy: Strategies Using ChatGPT to Improve Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-need-for-more-robust-regulation-in-ai-according-to-openais-head/"><u>Decoding the Need for More Robust Regulation in AI According to OpenAI's Head</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-gpt-3s-sibling-the-comprehensive-guide-on-deploying-gpt-4-for-everyone/"><u>Demystifying GPT-3's Sibling: The Comprehensive Guide on Deploying GPT-4 for Everyone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722141706459-discover-top-6-free-substitutes-for-the-openais-phi-your-ultimate-guide/"><u>Discover Top 6 FREE Substitutes for the OpenAI's Phi: Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diving-deep-into-gpt-3-usage-at-openai/"><u>Diving Deep Into GPT-3 Usage at OpenAI</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-realme-v30t-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Realme V30T</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-to-start-using-the-advanced-intelligent-bing-search-by-microsoft/"><u>Easy Steps to Start Using the Advanced, Intelligent Bing Search by Microsoft</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-linkedin-applications-using-these-10-chatgpt-techniques-for-successful-hiring/"><u>Elevate Your LinkedIn Applications Using These 10 ChatGPT Techniques for Successful Hiring</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-imagination-ai-assistance-in-your-dungeon-and-dragons-sessions/"><u>Enhancing Imagination: AI Assistance in Your Dungeon & Dragons Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/first-steps-for-aspiring-professionals-in-the-field-of-conversational-ai/"><u>First Steps for Aspiring Professionals in the Field of Conversational AI</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-bluetooth-connectivity-issues-on-windows-10-solutions-guide/"><u>Fixing Qualcomm Atheros Bluetooth Connectivity Issues on Windows 10 - Solutions Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-x7b-by-drfone-android/"><u>Full Guide to Unlock Your Honor X7b</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/futurescape-next-gen-ai-and-chatbots/"><u>Futurescape: Next-Gen AI & Chatbots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guidelines-for-correcting-chatgpts-plugin-errors/"><u>Guidelines for Correcting ChatGPT's Plugin Errors</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hands-on-msi-pro-mp161-e2-portable-monitor/"><u>Hands-On: MSI PRO MP161 E2 Portable Monitor</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hosting-a-memorable-at-home-karaoke-bash-a-step-by-step-guide/"><u>Hosting a Memorable At-Home Karaoke Bash: A Step-by-Step Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-12-pro-max-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-find-n3-flip-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo Find N3 Flip to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-se-2022-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone SE (2022) Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-digital-self-expression-the-guide-to-metaverse-avatars/"><u>In 2024, Digital Self-Expression  The Guide to Metaverse Avatars</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-image-protection-the-art-of-photowatermarking/"><u>In 2024, Instagram Image Protection  The Art of Photowatermarking</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nintendos-two-titans-clash-unveiling-the-differences-between-switch-lite-and-oled-versions/"><u>Nintendo's Two Titans Clash: Unveiling the Differences Between Switch Lite and OLED Versions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/rethinking-social-media-presence-in-light-of-instagrams-new-algorithm/"><u>Rethinking Social Media Presence in Light of Instagram's New Algorithm</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/satire-software-studio/"><u>Satire Software Studio</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476607523-solve-your-iphone-vpn-connection-problem-with-these-7-key-fixes-today/"><u>Solve Your iPhone VPN Connection Problem with These 7 Key Fixes Today!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/sprint-through-time-uncovering-discarded-reddit-content-for-2024/"><u>Sprint Through Time  Uncovering Discarded Reddit Content for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-6-critical-considerations-for-leveraging-chatgpt-for-emotional-health-management/"><u>The 6 Critical Considerations for Leveraging ChatGPT for Emotional Health Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-complete-how-to-on-transforming-note-taking-skills-using-chatgpt/"><u>The Complete How-To on Transforming Note-Taking Skills Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-intersection-of-websites-and-artificial-intelligence/"><u>The Intersection of Websites and Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-showcase-top-4-ai-driven-plot-generators/"><u>The Ultimate Showcase: Top 4 AI-Driven Plot Generators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-enhancements-needed-for-the-chatgpt-plugin-marketplace/"><u>Top 4 Enhancements Needed for the ChatGPT Plugin Marketplace</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722147689219-transform-your-windows-computer-with-an-easy-to-install-free-clone-of-the-latest-ai-conversationalist-gpt4all/"><u>Transform Your Windows Computer with an Easy-to-Install Free Clone of the Latest AI Conversationalist, GPT4All</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721955708309-turn-by-turn-navigation/"><u>Turn-by-Turn Navigation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-artificular-intelligence-risks-and-concerns/"><u>Understanding Artificular Intelligence: Risks and Concerns</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-capabilities-of-emotional-artificial-intelligence-more-than-just-algorithmic-assumptions/"><u>Understanding the Capabilities of Emotional Artificial Intelligence: More Than Just Algorithmic Assumptions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-your-creative-potential-how-chatgpt-empowers-writers/"><u>Unleashing Your Creative Potential: How ChatGPT Empowers Writers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-chatgpt-4s-sluggishness-in-contrast-with-35/"><u>Unraveling ChatGPT-4's Sluggishness in Contrast with 3.5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-impostor-gpt-through-mention-driven-inspection/"><u>Unveiling Impostor GPT Through Mention-Driven Inspection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-practical-use-cases-for-chatgpt-a-look-at-seven-key-areas/"><u>Unveiling the Practical Use Cases for ChatGPT: A Look at Seven Key Areas</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-truth-the-top-7-reasons-why-chatgpt-jailbreak-attempts-fail/"><u>Unveiling the Truth: The Top 7 Reasons Why ChatGPT Jailbreak Attempts Fail</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/vacation-internet-tips-maximize-your-experience/"><u>Vacation Internet Tips: Maximize Your Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voice-enabled-chatgpt-on-your-android-device-the-ultimate-how-to/"><u>Voice-Enabled ChatGPT on Your Android Device - The Ultimate How-To</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-artificial-intelligence-isnt-a-one-size-fits-all-solution-for-content-creators/"><u>Why Artificial Intelligence Isn't a One-Size-Fits-All Solution for Content Creators</u></a></li>
+</ul></div>

@@ -1,0 +1,170 @@
+---
+title: Ultimate List of Prime ChatGPT Cues You'll Find on GitHub
+date: 2024-08-16T12:36:59.158Z
+updated: 2024-08-17T12:36:59.158Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Ultimate List of Prime ChatGPT Cues You'll Find on GitHub
+excerpt: This Article Describes Ultimate List of Prime ChatGPT Cues You'll Find on GitHub
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
+---
+
+## Join the Elite Club of Bug Detectives at OpenAI
+
+ If you're a security researcher, ethical hacker, or technology enthusiast, OpenAI is asking for your help. And it's not for free.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ On April 11, 2023, OpenAI announced a bug bounty program as part of its commitment to developing reliable, secure, and advanced AI systems, and anyone with the right skill set can potentially help out.
+
+## What Is OpenAI's Bug Bounty Program?
+
+[OpenAI announced](https://openai.com/blog/bug-bounty-program) its Bug Bounty Program to incentivize those using their applications, such as ChatGPT and DALL-E, to create secure, advanced, and globally beneficial AI systems.
+
+ Anyone who finds and reports vulnerabilities in OpenAI's systems will earn cash rewards, resulting in a win-win situation. While participants earn money, the company's systems become safer.
+
+![Man writing code on a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bug-bounty-programs.jpg)
+
+ OpenAI promises to protect you from liabilities or penalties if you follow its stated guidelines and will also acknowledge submissions and remedy validated vulnerabilities promptly. Furthermore, OpenAI claims it will publicly recognize your contribution if it is unique and leads to a configuration or code change.
+
+ However, you cannot disclose your vulnerability-related findings to the public after submitting them.
+
+ This [bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and [AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). You may report these to [OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+## How Much Can You Earn From OpenAI's Bug Bounty Program?
+
+ OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
+
+ The maximum reward you can earn is $20,000\.
+
+ At first, the priority level of your finding, along with your reward, will be determined using [Bugcrowd's Vulnerability Rating Taxonomy](https://bugcrowd.com/vulnerability-rating-taxonomy). However, if it deems it necessary, this level and your reward may be modified by OpenAI.
+
+ Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Participate in OpenAI's Bug Bounty Program
+
+ Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
+
+![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
+
+ With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
+
+![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Here, you must fill in the following information:
+
+1. A title clearly and briefly describing the vulnerability
+2. The target of the discovered vulnerability
+3. The vulnerability type
+4. The URL or location of the vulnerability
+5. The description of the flaw and its impact
+6. Proof-of-concept scripts, screen recordings, or attachments depicting the bug
+7. The researchers and collaborators on the submission
+
+ After filling in these details, agree to Bugcrowd's terms and conditions and click "Report Vulnerability."
+
+![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
+
+ Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+## Which Vulnerabilities Are Eligible for Rewards?
+
+ You will be rewarded for any security, functionality, performance, and documentation vulnerability you find in api.openai.com, third-party targets, ChatGPT, ChatGPT plugins, <https://openai.org>, \*/openai.org, OpenAI API keys, openai.com, \*/openai.com, and developer platform playground.
+
+ These include server-side injection, server security misconfiguration, [cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage, [cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
+
+ All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Earn Money While Improving OpenAI's Systems
+
+ OpenAI's bug bounty program is a great way for you—as an ethical hacker, security researcher, or tech enthusiast—to earn while improving the firm's AI systems.
+
+ However, ensure you comply with all specified guidelines and rules of engagement.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ On April 11, 2023, OpenAI announced a bug bounty program as part of its commitment to developing reliable, secure, and advanced AI systems, and anyone with the right skill set can potentially help out.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-no-trouble-recorder-for-win10-desktop-for-2024/"><u>[New] No-Trouble Recorder for Win10 Desktop for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stabilized-shots-fighting-instability/"><u>[Updated] Stabilized Shots  Fighting Instability</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-unleash-creativity-angled-rotation-mastery-for-youtube-vids/"><u>[Updated] Unleash Creativity  Angled Rotation Mastery for YouTube Vids</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-shipping-secrets-to-surprises-unveiling-new-strategies/"><u>2024 Approved  From Shipping Secrets to Surprises  Unveiling New Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-instagrams-hashtag-language-for-enhanced-engagement/"><u>2024 Approved  Mastering Instagram's Hashtag Language for Enhanced Engagement</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-one-device-live-broadcast-mastery-easy-steps-to-success/"><u>2024 Approved  One-Device LIVE Broadcast Mastery  Easy Steps to Success</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-narzo-n53-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Narzo N53.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/creating-a-single-pdf-from-a-collection-of-jpegs-expert-techniques-for-combining-images/"><u>Creating a Single PDF From a Collection of JPEGs - Expert Techniques for Combining Images</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embracing-ai-top-7-rules-for-writers-and-editors/"><u>Embracing AI: Top 7 Rules for Writers & Editors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-solving-the-problem-of-rocket-league-not-starting/"><u>Expert Advice: Solving the Problem of Rocket League Not Starting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-these-6-innovative-applications-for-chatting-and-analyzing-pdf-content-with-chatgpt/"><u>Explore These 6 Innovative Applications for Chatting and Analyzing PDF Content with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-connectivity-glitches-between-chatgpt-and-plugin-services/"><u>Fixing Connectivity Glitches Between ChatGPT and Plugin Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-kitchen-novice-to-gourmet-with-chatgpts-help/"><u>From Kitchen Novice to Gourmet with ChatGPT's Help</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/futuristic-fortifications-upcoming-secure-systems-insights/"><u>Futuristic Fortifications: Upcoming Secure Systems Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/handling-chatgpt-overload-tips-to-address-maximum-request-limit-alerts-in-windows/"><u>Handling ChatGPT Overload: Tips to Address Maximum Request Limit Alerts in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-auto-gpt-set-itself-apart-from-chatgpt-an-in-depth-analysis/"><u>How Does Auto-GPT Set Itself Apart From ChatGPT? An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-the-newly-upgraded-palm-2-algorithm-enhances-googles-bard-ai/"><u>How the Newly Upgraded PaLM 2 Algorithm Enhances Google's Bard AI</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-13-ultra-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi 13 Ultra Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-effectively-set-health-goals-with-chatgpt/"><u>How to Effectively Set Health Goals With ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-in-other-languages/"><u>How to Use ChatGPT in Other Languages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-will-artificial-intelligence-impact-mental-wellness-advancements-and-challenges/"><u>How Will Artificial Intelligence Impact Mental Wellness: Advancements and Challenges</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flipping-filmmaking-on-your-android-device/"><u>In 2024, Flipping Filmmaking on Your Android Device</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-12-pro-max-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone 12 Pro Max or iPad?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-x-video-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone X Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-rhythmic-resonance-select-sites-for-downloading-tones/"><u>In 2024, Rhythmic Resonance  Select Sites for Downloading Tones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-appropriate-to-use-good-manners-with-digital-companebots-such-as-chatgpt-alexa-or-siri/"><u>Is It Appropriate to Use Good Manners With Digital Companebots Such as ChatGPT, Alexa, or Siri?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-safe-to-use-chatgpt-understanding-its-potential-vulnerabilities/"><u>Is It Safe To Use ChatGPT: Understanding Its Potential Vulnerabilities?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-solo-operation-of-auto-gpt-justifiable/"><u>Is Solo Operation of Auto-GPT Justifiable?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-generative-ai-key-mistakes-and-how-to-prevent-them/"><u>Mastering Generative AI: Key Mistakes and How to Prevent Them</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-minutes-four-innovative-ways-to-apply-chatgpt-in-time-management/"><u>Maximize Your Minutes: Four Innovative Ways to Apply ChatGPT in Time Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-3d-printing-efficiency-with-chatgpt-a-step-by-step-guide/"><u>Maximizing 3D Printing Efficiency with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/methods-for-unloading-enex-drivers-from-windows-11/"><u>Methods for Unloading eNEX Drivers From Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-email-writing-hurdles-at-work-leverage-chatgpt-to-excel-in-business-messaging/"><u>Overcoming Email Writing Hurdles at Work: Leverage ChatGPT to Excel in Business Messaging</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reigniting-creativity-the-role-of-ai-in-crafting-exceptional-content/"><u>Reigniting Creativity: The Role of AI in Crafting Exceptional Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/thriving-in-twitter-live-tv-mode/"><u>Thriving in Twitter Live TV Mode</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-is-aim-unraveling-the-legacy-of-aol-instant-messenger/"><u>What Is AIM? Unraveling the Legacy of AOL Instant Messenger</u></a></li>
+</ul></div>

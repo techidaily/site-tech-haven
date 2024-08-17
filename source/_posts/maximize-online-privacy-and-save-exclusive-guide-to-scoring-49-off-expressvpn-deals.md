@@ -1,7 +1,7 @@
 ---
 title: "Maximize Online Privacy & Save: Exclusive Guide to Scoring 49%% Off ExpressVPN Deals"
-date: 2024-08-15 12:22:27
-updated: 2024-08-16 12:48:58
+date: 2024-08-16T10:06:14.069Z
+updated: 2024-08-17T10:06:14.069Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ This article explains how to manually start Windows 10 in safe mode.
 
 **IMPORTANT:** This method must be manually enabled from within Windows. If you haven't already enabled it, and you can't access Windows to do so, [skip to method 2 below](https://tools.techidaily.com/drivereasy/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### First, you have to enable the F8 key method
 
  On Windows 7, you could press the F8 key as your computer was booting to access the Advanced Boot Options menu. From there, you could access Safe Mode.
@@ -52,6 +56,14 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
  1) Click the**Windows start menu** and type**cmd** , then click**Run as administrator** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-command-prompt-as-admin.png)
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 
 2) Copy this command:
 
@@ -63,6 +75,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 4) Reboot your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Now you can start Safe Mode using the F8 key
 
  Now that you’ve enabled the F8 method, you can use it to start Safe Mode:
@@ -106,23 +121,38 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
  6) Click**Advanced options** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot-screen.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  7) Click**Startup Settings** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/startup-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 
  8) Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/restart.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  Your computer will restart and present a list of different startup options.
 
  9) On your keyboard, press the number**4** key to enter Safe Mode without internet access or the number**5** key to enter Safe Mode with internet access:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/enable-safe-mode.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 3: Start Safe Mode using the System Configuration tool
 
 **IMPORTANT:** If you follow these instructions, Windows will start in Safe Mode every time it restarts, until you undo your changes.
@@ -132,14 +162,23 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
  1) Click the**Windows start menu** and type**msconfig** , then click**Open** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select the **Boot**  tab, then check **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ### To turn off Safe Mode and go back to normal mode
 
@@ -148,14 +187,23 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
  1) Click the**Windows start menu** and type**msconfig** , then click**Open** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 
  2) Select the **Boot**  tab, then UNcheck **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into normal mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -186,6 +234,9 @@ The Windows RE (Recovery environment) screen will then display.
  6) Click **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your computer will then restart and another screen opens showing a lot of different startup options.
 
@@ -233,3 +284,47 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-5-drone-racing-headsets-ultimate-vr-experience/"><u>[New] 2024 Approved  Top 5 Drone Racing Headsets  Ultimate VR Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-budget-friendly-sites-for-stunning-fx-on-videos/"><u>[New] 2024 Approved  Top Budget-Friendly Sites For Stunning FX on Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-breakthrough-beginnings-in-panzoids-for-2024/"><u>[New] Breakthrough Beginnings in Panzoids for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-webm-transformation-from-tweeted-visuals/"><u>[Updated] 2024 Approved  WebM Transformation From Tweeted Visuals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-pioneering-methods-to-log-lol-gaming-sessions/"><u>[Updated] In 2024, Pioneering Methods to Log LOL Gaming Sessions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-brisksnatch-slowframe-capture/"><u>2024 Approved  BriskSnatch SlowFrame Capture</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-step-by-step-guide-to-creating-curved-graphics/"><u>2024 Approved  Step-by-Step Guide to Creating Curved Graphics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-picks-7-royalty-free-audios-for-video-editing/"><u>2024 Approved  Top Picks  7 Royalty-Free Audios for Video Editing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-mastery-adding-visuals-to-your-tweet/"><u>2024 Approved  Twitter Mastery  Adding Visuals to Your Tweet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/academic-advancement-with-ai-discover-4-key-methods-to-elevate-your-studies/"><u>Academic Advancement with AI: Discover 4 Key Methods to Elevate Your Studies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assistants-duel-in-coding-excellence-github-copilot-versus-chatgpt-reviewed/"><u>AI Assistants Duel in Coding Excellence: GitHub Copilot Versus ChatGPT Reviewed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-mastery-generating-original-dandd-heroes-with-chatgpt-and-dall-e-techniques/"><u>AI Mastery: Generating Original D&D Heroes with ChatGPT & DALL-E Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722081868104-bard-versus-chatgpt-versus-alpaca-ranking-the-leading-large-language-models/"><u>Bard Versus ChatGPT versus Alpaca: Ranking the Leading Large Language Models</u></a></li>
+<li><a href="https://windows11.techidaily.com/beat-the-blank-screen-blues-faster-input-in-windows-11/"><u>Beat the Blank Screen Blues: Faster Input in Windows 11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-5-tools-for-adjusting-video-and-audio-bitrates-with-ease/"><u>Best 5 Tools for Adjusting Video and Audio Bitrates with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-character-creation-with-these-11-powerful-chatgpt-book-writing-prompts/"><u>Boost Character Creation with These 11 Powerful ChatGPT Book Writing Prompts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2019-files-by-stellar-guide/"><u>How to Repair Corrupt Excel 2019 Files</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-ideal-camera-and-recording-apps-for-iphone-and-android-smartphones/"><u>In 2024, Ideal Camera and Recording Apps for iPhone and Android Smartphones</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-vlogging-through-verbiage-a-2023-guide-to-twitter-threads/"><u>In 2024, Vlogging Through Verbiage - A 2023 Guide to Twitter Threads</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-5-quandale-dingle-voice-generators/"><u>New Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-best-chatbot-for-you-an-in-depth-look-at-google-bard-vs-bing-chat/"><u>The Best Chatbot for You: An In-Depth Look at Google Bard Vs. Bing Chat</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-developers-roadmap-installing-and-operating-codegpt-on-visual-studio-code/"><u>The Developer’s Roadmap: Installing and Operating CodeGPT on Visual Studio Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-literature-searches-discover-top-5-ai-enhanced-apps-for-finding-books-youll-love/"><u>The Future of Literature Searches: Discover Top 5 AI-Enhanced Apps for Finding Books You'll Love</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-compendium-of-ai-enhanced-note-managers/"><u>The Ultimate Compendium of AI Enhanced Note Managers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-ai-terminology-demystifying-29-important-expressions/"><u>The Ultimate Guide to AI Terminology: Demystifying 29 Important Expressions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-best-chatgpt-queries-for-expanding-crypto-knowledge/"><u>The Ultimate List of Best ChatGPT Queries for Expanding Crypto Knowledge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-walkthrough-for-auto-gpt-download-and-installation-process/"><u>The Ultimate Walkthrough for Auto-GPT Download & Installation Process</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tips-and-tricks-easily-spread-your-chatgpt-messages-wide-online/"><u>Tips & Tricks: Easily Spread Your ChatGPT Messages Wide Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-strategies-leveraging-chatgpt-for-enhanced-productivity-and-time-management/"><u>Top 4 Strategies: Leveraging ChatGPT for Enhanced Productivity & Time Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-digital-resources-for-enhancing-prompt-writing-expertise/"><u>Top 7 Digital Resources for Enhancing Prompt Writing Expertise</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tracing-ais-footsteps-through-time/"><u>Tracing AI’s Footsteps Through Time</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transformative-ai-strategies-for-students/"><u>Transformative AI Strategies for Students</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722074726789-try-these-6-free-ai-solutions-similar-to-openais-sora-no-charge-involved/"><u>Try These 6 Free AI Solutions Similar to OpenAI’s Sora – No Charge Involved!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-consequences-of-chatgpts-real-time-information-for-everyone/"><u>Understanding the Consequences of ChatGPT's Real-Time Information for Everyone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-instantaneous-ai-integration-the-9-premier-chatgpt-plugin-picks/"><u>Unleash Instantaneous AI Integration: The 9 Premier ChatGPT Plugin Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-better-organization-implement-these-4-chatgpt-hacks-for-optimal-time-use/"><u>Unlock Better Organization: Implement These 4 ChatGPT Hacks for Optimal Time Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unpacking-the-preloaded-features-of-chatgpt-functions-and-implementation-tips/"><u>Unpacking the Preloaded Features of ChatGPT: Functions and Implementation Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-ai-chatbot-fallacies-top-9-common-myths-exposed-and-explained/"><u>Unraveling AI Chatbot Fallacies: Top 9 Common Myths Exposed and Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-gpt-4alls-capabilities-understanding-its-functionality-in-detail/"><u>Unveiling GPT-4All's Capabilities: Understanding Its Functionality in Detail</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Solutions for Unrecognized Logitech Keyboards on Windows 11 Systems
-date: 2024-08-15 20:41:29
-updated: 2024-08-16 10:36:49
+date: 2024-08-16T10:10:33.184Z
+updated: 2024-08-17T10:10:33.184Z
 tags:
   - win11
   - win10
@@ -29,6 +29,9 @@ With **[Fortnite](https://www.epicgames.com/store/en-US/p/fortnite?epic%5Fcreato
 
 ![how to fix Fortnite audio delayed or cutting out](https://images.drivereasy.com/wp-content/uploads/2020/12/featured-image-4-1200x673.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1: Disable audio enhancements in Windows
 
  Audio enhancement packages are aimed to enhance your audio performance. But this feature sometimes causes problems with audio and sound. If you encounter any audio issues, you can try disabling audio enhancements.
@@ -47,10 +50,16 @@ Here’s how:
  (Or you can choose the device and then click**Properties** .)  
   
 ![speaker priority](https://images.drivereasy.com/wp-content/uploads/2020/12/double-click-on-the-speaker.png)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 
  4) In the Properties window, select the**Enhancements** tab. Then check the option**Disable all enhancements** .  
   
 ![disable all enhancements speaker](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-all-enhancements-1.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 
  5) Select the**Advanced** tab. Click on the down arrow and choose the first value**16 bit, 44100 Hz (CD Quality)** on the list.  
   
@@ -60,12 +69,18 @@ Here’s how:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 2: Update your audio driver
 
  The audio issue in your game may indicate that you’re using an audio driver that is out of date. If you can’t remember when was the last time you updated your drivers, then definitely do it now as this would fix your issue right away.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [**automatically**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 1: Manually update your audio driver
 
  You can update your audio driver manually via Device Manager or go to your device’s manufacturer’s official website to download and install the correct driver for your system.
@@ -83,11 +98,17 @@ Here’s how it works:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/click-update-all.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -109,6 +130,9 @@ Here’s how it works:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Fix 4: Disable fullscreen optimizations & high DPI scaling
 
  Fullscreen optimization is a Windows 10 feature designed to improve your PCs performance during gaming sessions. But there are certain games that are particularly affected by low FPS issues when players enable fullscreen optimizations. And when this feature is enabled, you may encounter other issues including the delayed audio or audio cutting out. To fix it, you should disable it.
@@ -122,6 +146,9 @@ Here’s how it works:
  3) Select the tab**Compatibility** tab. Check the option**Disable fullscreen optimizations** . Then click**Change high DPI settings** .  
   
 ![disable fullscreen optimizations Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/check-disable-fullscreen-optimizations.png)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Check the option**Override high DPI scaling behavior** and then click**OK** .  
   
@@ -134,6 +161,9 @@ Here’s how it works:
  Now do the same with**FortniteClient-Win64-Shipping\_BE** ,**FortniteClient-Win64-Shipping\_EAC** and**FortniteLauncher** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/do-the-same-with-these-applications.png)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -150,10 +180,18 @@ Here’s how it works:
  3) Under the Processes tab, navigate to the**Fortnite** application. Right-click it and select**Go to details** . (Make sure that you have the game open, otherwise you won’t be able to see the Fortnite application under the tab.)  
   
 ![set priority to high Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/set-priority-to-high.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 
  4) You’ll be directed to the**Details** tab and**FortniteClient-Win64** is highlighted. Right-click it and select**Set priority > Normal** .  
   
 ![set priority to normal Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/set-priority-to-normal.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 
  Once you’ve done these, launch your game and test if this stops the delayed audio and the audio cutouts.
 
@@ -186,3 +224,54 @@ Here’s how it works:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-optimizing-your-video-call-zoom-and-fb-live-integration/"><u>[Updated] 2024 Approved  Optimizing Your Video Call  ZOOM & FB Live Integration</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-in-class-chromebook-recording-app/"><u>2024 Approved  Best in Class  Chromebook Recording App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-precision-in-color-expert-guides-on-adjustment-and-grading/"><u>2024 Approved  Precision in Color  Expert Guides on Adjustment & Grading</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-real-time-facebook-footage-the-top-5-live-streaming-apps/"><u>2024 Approved  Real-Time Facebook Footage  The Top 5 Live-Streaming Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-mac-strategies-for-effective-gpt-use/"><u>Advanced Mac Strategies for Effective GPT Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-powered-diy-how-chatgpt-can-aid-car-customization-projects/"><u>AI-Powered DIY: How ChatGPT Can Aid Car Customization Projects</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-the-benefits-is-chatgpt-plus-right-for-you/"><u>Assessing the Benefits: Is ChatGPT Plus Right For You?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bards-versus-ai-can-woolly-sentinels-outmatch-digital-mind/"><u>Bards Versus AI: Can Woolly Sentinels Outmatch Digital Mind?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-the-screensaver-exploring-the-enigmatic-who-are-you-really-talking-to-in-online-echelons/"><u>Beyond the Screensaver: Exploring the Enigmatic Who Are You Really Talking To? In Online Echelons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-education-5-educational-applications-of-chatgpt-for-school-goers/"><u>Boosting Education: 5 Educational Applications of ChatGPT for School Goers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breaking-down-artificial-intelligence-for-beginners/"><u>Breaking Down Artificial Intelligence for Beginners</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breaking-down-recent-cyber-threats-navigating-twitter-scams-metas-verified-badge-introduction-and-a-comprehensive-guide-to-chatgpt/"><u>Breaking Down Recent Cyber Threats: Navigating Twitter Scams, Meta’s Verified Badge Introduction, and a Comprehensive Guide to ChatGPT-</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/changing-tides-in-academia-can-chatgpt-replace-conventional-student-essay-writing/"><u>Changing Tides in Academia: Can ChatGPT Replace Conventional Student Essay Writing?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-plus-as-a-tool-for-effective-language-education-and-mastery/"><u>ChatGPT Plus as a Tool for Effective Language Education and Mastery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/configure-and-launch-auto-gpt-seamlessly-on-ubuntu-the-ultimate-how-to-guide/"><u>Configure and Launch Auto-GPT Seamlessly on Ubuntu - The Ultimate How-To Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diagnosing-and-fixing-common-login-errors-in-chatgpt-interface/"><u>Diagnosing and Fixing Common Login Errors in ChatGPT Interface</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dive-into-these-4-ai-driven-story-crafting-marvels/"><u>Dive Into These 4 AI-Driven Story Crafting Marvels</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-interactive-exchanges-chatgpt-meets-mac/"><u>Elevate Interactive Exchanges: ChatGPT Meets Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-prompt-design-game-with-these-7-web-apps/"><u>Elevate Your Prompt Design Game with These 7 Web Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ting-income-with-mobile-video-monetization-techniques-for-youtubers/"><u>Elevating Income with Mobile Video Monetization Techniques for YouTubers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722162732311-elon-musk-introduces-grok-the-innovative-ai-technology-discover-its-functionality-and-price-tag/"><u>Elon Musk Introduces Grok: The Innovative AI Technology – Discover Its Functionality & Price Tag</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expand-your-horizons-with-chatgpt-learning-its-usage-across-various-languages/"><u>Expand Your Horizons with ChatGPT - Learning Its Usage Across Various Languages</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-modern-gear-from-your-go-to-source-toms-hardware/"><u>Expert Advice on Modern Gear From Your Go-To Source, Tom's Hardware</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-a15-4g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy A15 4G Device SIM</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-perfect-frame-a-guide-to-polishing-videos-with-instagram-edits/"><u>In 2024, The Perfect Frame  A Guide to Polishing Videos with Instagram Edits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-network-neutrality-predictions-for-security/"><u>Navigating Network Neutrality: Predictions for Security</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-pdf-content-made-easy-6-revolutionary-chatgpt-apps-for-real-time-analysis-and-chatting/"><u>Navigating PDF Content Made Easy: 6 Revolutionary ChatGPT Apps for Real-Time Analysis & Chatting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-your-chatgpt-block-the-4-major-factors-and-how-to-correct-them/"><u>Navigating Through Your ChatGPT Block – The 4 Major Factors and How to Correct Them</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-your-business-efficiency-leveraging-chatgpt-for-better-workflow-management/"><u>Optimizing Your Business Efficiency: Leveraging ChatGPT for Better Workflow Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/perfected-presentations-with-the-help-of-chatgpt-insights/"><u>Perfected Presentations with the Help of ChatGPT Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/picku-or-better-a-critical-look-at-androids-premier-photo-tool-for-2024/"><u>PickU or Better? A Critical Look at Android's Premier Photo Tool for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/professional-note-taking-mastery-using-chatgpt-a-comprehensive-guide/"><u>Professional Note-Taking Mastery Using ChatGPT - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-users-from-gpt-related-threats/"><u>Protecting Users From GPT-Related Threats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-plugin-service-communication-issues-with-chatgpt-a-comprehensive-guide/"><u>Resolving Plugin Service Communication Issues with ChatGPT – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-search-microsofts-new-ai-features-for-bing-explained/"><u>Revolutionizing Search: Microsoft's New AI Features for Bing Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/scam-chatgpt-add-on-risks-compromising-your-facebook-login-credentials/"><u>Scam ChatGPT Add-On Risks Compromising Your Facebook Login Credentials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/share-your-thoughts-essential-extensions-for-exporting-and-sharing-chatgpt-interactions/"><u>Share Your Thoughts: Essential Extensions for Exporting & Sharing ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/snapchat-vs-skype-decoding-the-language-of-ai/"><u>Snapchat vs Skype: Decoding the Language of AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-leveraging-gpt-3-within-the-openai-sandbox/"><u>Step-by-Step Tutorial on Leveraging GPT-3 Within the OpenAI Sandbox</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-huawei-nova-y91-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Huawei Nova Y91</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-text-to-talk-with-siri-on-iphones-and-mac-computers-a-comprehensive-guide/"><u>Transforming Text to Talk with Siri on iPhones & Mac Computers – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-hidden-hazards-the-perils-of-substituting-ai-for-a-real-life-therapist-or-psychiatrist/"><u>Understanding the Hidden Hazards: The Perils of Substituting AI for a Real-Life Therapist or Psychiatrist</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-vivo-y56-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo Y56 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlockedchatgpt-subscription-deadline-clarity/"><u>UnlockedChatGPT: Subscription Deadline Clarity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-everything-you-need-to-know-about-apples-artificial-intelligence-unveiled-at-wwdc-24/"><u>Unlocking the Secrets: Everything You Need to Know About Apple's Artificial Intelligence Unveiled at WWDC 24</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-reality-how-i-dispelled-the-nine-common-ai-chatbot-myths/"><u>Unveiling Reality: How I Dispelled the Nine Common AI Chatbot Myths</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-to-facilitate-engaging-and-efficient-virtual-team-conferences/"><u>Utilizing ChatGPT to Facilitate Engaging and Efficient Virtual Team Conferences</u></a></li>
+</ul></div>

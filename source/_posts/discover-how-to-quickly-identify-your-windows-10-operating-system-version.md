@@ -1,7 +1,7 @@
 ---
 title: Discover How to Quickly Identify Your Windows 10 Operating System Version
-date: 2024-08-15 20:25:39
-updated: 2024-08-16 11:45:21
+date: 2024-08-16T10:07:24.166Z
+updated: 2024-08-17T10:07:24.166Z
 tags:
   - win11
   - win10
@@ -68,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  4) If your computer won’t start and the same problem exists, press and hold the power button to turn off the computer. Please make sure that you don’t connect any external devices to your computer for now.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Step 3: Perform a Hard Reboot
 
  If you**CANNOT**  log into the Windows 10, you can perform a hard reboot on your computer. This will allow you to go to the**Advanced options** page, where you are able to perform a refresh or a reset of your Windows 10\.
@@ -81,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 3) Repeat step 1) and 2) until you see**Please wait** during the boot. It usually takes three repeats (more than three repeats if this is not the first time that you did this) for it to come up. You need to try until you can see the**Please wait** coming out.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/please-wait-in-windows-10.png)
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) When the following page shows, tab or click**See advanced repair options** .
 
@@ -89,15 +96,24 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
  5) Choose**Troubleshoot.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  6) Then you will be seeing a page similar to the following one. You could choose**Startup Repair** since your computer refuse to load. (You can also do a[system restore](https://tools.techidaily.com/drivereasy/download/) if you have previously created a system restore point.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 
  7) Follow the on-screen instructions to continue with the system repair.
 
  8) Your computer will reboot automatically if the repair goes well. And you should be able to see the login screen when the self-repair finishes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Step 4: Perform a system restore
 
  When you have successfully booted into the Advanced repair option page, there is another thing that you can do: do a system restore, on the basis that you have turned this feature on previously. Here is how you do it:
@@ -105,6 +121,9 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
  1) Repeat step 1) to 5) in the above method. When in the Advanced options page, click**System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e358da77cc.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 
  2) Follow the on-screen instructions and choose a restore point for you to go back to.
 
@@ -114,6 +133,14 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  In such case, you may need to use a recovery disc or a USB drive to boot, provided that you manage to get the installation files for Windows 10 from other sources.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Step 5: Run disk check
 
  This method has been proved by a big number of users to be effective. So we think you may want to have a try:
@@ -143,10 +170,16 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
  1) If you choose to refresh your Windows 10, choose**Refresh your PC** option. Then choose**Keep my files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0bd42c7cf.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
 2) If prompt, click on the account you want to provide credentials for.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c2d383b7.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 
 3) Press the **Reset**  button to confirm the reset process.
 
@@ -176,3 +209,45 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-pair-monitor-logging-process/"><u>[New] Pair Monitor Logging Process</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-voice-commands-to-texts-pay-nothing-for-it-for-2024/"><u>[New] Voice Commands to Texts  Pay Nothing for It for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-voice-conversion-tools-for-vlogging-professionals/"><u>[Updated] In 2024, Best Voice Conversion Tools for Vlogging Professionals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-y78-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo Y78 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-deep-examination-of-androids-photo-editing-tool-lightroom/"><u>A Deep Examination of Android's Photo Editing Tool, Lightroom</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-smooth-video-playback-on-portable-devices/"><u>Achieving Smooth Video Playback on Portable Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-llama-3-vs-gpt-4-the-ultimate-comparison-guide/"><u>AI Showdown: Llama 3 vs GPT-4 - The Ultimate Comparison Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/behind-the-magic-cinematic-technique-1-5-insights-for-2024/"><u>Behind the Magic  Cinematic Technique #1-5 Insights for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-the-basics-what-are-chatbot-jailbreaks-and-is-it-wise-to-employ-them/"><u>Beyond the Basics: What Are Chatbot Jailbreaks and Is It Wise to Employ Them?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721926612675-chatgpt-sign-in-glitches-find-relief-with-these-proven-techniques/"><u>ChatGPT Sign-In Glitches? Find Relief with These Proven Techniques!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-top-7-unanswerable-queries-boundaries-of-ai/"><u>ChatGPT's Top 7 Unanswerable Queries: Boundaries of AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-console-fun-playing-nintendo-on-iphone/"><u>Classic Console Fun: Playing Nintendo on iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-guide-downloading-and-installing-auto-gpt-a-step-by-step-tutorial/"><u>Complete Guide: Downloading & Installing Auto-GPT - A Step-By-Step Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010839671-fixed-assassins-creed-mirage-not-launching-2024-tips/"><u>Fixed Assassin’s Creed Mirage Not Launching – 2024 Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-galaxy-a15-4g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Galaxy A15 4G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-xs-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone XS Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-iphone-12-pro-max-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your iPhone 12 Pro Max has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-angles-the-complete-manual-for-effective-video-turns-for-2024/"><u>Instagram Angles  The Complete Manual for Effective Video Turns for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/key-steps-for-applying-fades-in-digital-audio-editing-for-2024/"><u>Key Steps for Applying Fades in Digital Audio Editing for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722097637022-leap-into-a-new-era-of-web-exploration-bing-on-mobile-platforms/"><u>Leap Into a New Era of Web Exploration: Bing on Mobile Platforms.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-imaginary-interpretations-in-artificial-intelligence/"><u>Navigating Through Imaginary Interpretations in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-productivity-at-home-discover-6-creative-ways-to-utilize-chatgpt/"><u>Revolutionize Productivity at Home: Discover 6 Creative Ways to Utilize ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secrets-unveiled-deleting-every-bit-of-your-history-with-chatgpt/"><u>Secrets Unveiled: Deleting Every Bit of Your History with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplify-document-drafting-with-chatgpt-integration-into-ms-word-top-tips-and-tricks/"><u>Simplify Document Drafting with ChatGPT Integration Into MS Word - Top Tips & Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ai-illusion-unveiled-nine-major-issues-with-gpt/"><u>The AI Illusion Unveiled: Nine Major Issues with GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-essential-role-of-default-extensions-in-chatgpt-applications-and-benefits-explained/"><u>The Essential Role of Default Extensions in ChatGPT: Applications & Benefits Explained</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-13-mini-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone 13 mini on MetroPCS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-significance-of-live-info-for-all-with-chatgpt/"><u>Understanding the Significance of Live Info for All with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-ai-power-in-ubuntu-with-auto-gpt/"><u>Unleash AI Power in Ubuntu with Auto-GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-creativity-generating-ai-visuals-using-chatgpt/"><u>Unleash Your Creativity: Generating AI Visuals Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721954243025-unlock-the-power-of-conversation-talk-with-chatgpt-today/"><u>Unlock the Power of Conversation: Talk with ChatGPT Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-your-best-results-with-these-7-advanced-ai-tools-in-maths/"><u>Unlock Your Best Results with These 7 Advanced AI Tools in Maths</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-creativity-with-ai-generate-images-using-dall-e-3-on-bing-no-cost/"><u>Unlocking Creativity with AI: Generate Images Using DALL-E 3 on Bing - No Cost</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-power-of-panoramic-videography-with-premieres-tools-for-2024/"><u>Unlocking the Power of Panoramic Videography with Premiere's Tools for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-talk-of-tech-titans-le-chat-vs-gpt-3/"><u>Unraveling the Talk of Tech Titans: Le Chat vs GPT-3</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/virtual-reality-of-genuine-ppc-games/"><u>Virtual Reality of Genuine PPC Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-you-need-caution-with-ai-the-6-critical-risks/"><u>Why You Need Caution with AI: The 6 Critical Risks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722089553304-worth-investing-in-auto-gpt-before-gpt-4-arrives-lets-compare/"><u>Worth Investing in Auto-GPT Before GPT-4 Arrives? Let's Compare</u></a></li>
+</ul></div>

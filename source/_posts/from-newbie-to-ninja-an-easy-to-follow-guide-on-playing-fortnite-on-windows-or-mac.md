@@ -1,7 +1,7 @@
 ---
 title: "From Newbie to Ninja: An Easy-to-Follow Guide on Playing Fortnite on Windows or Mac"
-date: 2024-08-14 14:18:27
-updated: 2024-08-16 11:58:30
+date: 2024-08-16T10:02:22.891Z
+updated: 2024-08-17T10:02:22.891Z
 tags:
   - win11
   - win10
@@ -45,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How can I set up a VPN on Xbox One?
 
  There are two methods to set up a VPN for Xbox One: through either your Wi-Fi router or your computer. The step-by-step guides for both ways will be shown below.  
@@ -98,10 +101,16 @@ a) get it through your Windows computer:
 5-1) Click the Settings icon if your Xbox Live. Then select All settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5-2) Click Network, then click Network settings on the right pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5-3) Click Set up wireless network. Then proceed to follow the on-screen instructions to configure your Xbox One to connect to use the router.
 
@@ -125,6 +134,9 @@ a) get it through your Windows computer:
  a-2) Right-click on your VPN to select Properties. Under the ‘Sharing’ tab, make sure ‘Allow other network users to connect through this computer’s internet connection’ is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323106f846.jpg)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  b) If you’re using a**Mac computer** , go with the followings:  
  b-1) Go to System Preferences > Sharing. Then Select Internet Sharing.
@@ -134,6 +146,9 @@ a) get it through your Windows computer:
  b-2) Select Wi-Fi from the drop-down menu of ‘Share your connection from’ and make sure Ethernet is ticked on from the ‘To computers using’ list. Then check the box to the left of Internet Sharing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c33250282eb8.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) **Buy a VPN subscription and install its software to configure it on your computer.** You can review[how to choose a VPN service through the method above](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -146,6 +161,18 @@ a) get it through your Windows computer:
  3-2) Click Sign up as a new user and follow the on-screen instructions to sign up and log in.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04f8c899a82.jpg)
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3-3) Click Quick connect to automatically connect to the server recommended for you. Or you can also connect to a server in a specific country by clicking on the country pin on the map.
 
@@ -175,3 +202,52 @@ Enjoy playing Xbox One games!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-swift-channels-growth-optimizing-viewership-with-collaborative-videos/"><u>[New] 2024 Approved  Swift Channels Growth  Optimizing Viewership with Collaborative Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-discovering-how-to-engage-in-discord-calls-easily/"><u>[New] In 2024, Discovering How to Engage in Discord Calls Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-most-affordable-cloud-vendors-listed/"><u>[Updated] Top 10 Most Affordable Cloud Vendors Listed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-code-unveiling-6-transformative-uses-for-chatgpts-ai/"><u>Beyond Code: Unveiling 6 Transformative Uses for ChatGPT's AI</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-common-troubles-with-iphoneipad-widgets-the-fast-fixes-you-need/"><u>Bypass Common Troubles with iPhone/iPad Widgets – The Fast Fixes You Need</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/career-safety-net-protecting-against-ai-takeover/"><u>Career Safety Net: Protecting Against AI Takeover?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/charting-new-territories-in-online-engagement-the-influence-of-artificial-intelligence-on-site-interaction/"><u>Charting New Territories in Online Engagement: The Influence of Artificial Intelligence on Site Interaction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-six-secrets-to-creative-narration-mastery/"><u>ChatGPT's Six Secrets to Creative Narration Mastery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/clear-out-clutter-choose-the-ultimate-iphone-storage-optimization-tool/"><u>Clear Out Clutter: Choose the Ultimate iPhone Storage Optimization Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cost-benefit-analysis-for-gptplus-users/"><u>Cost-Benefit Analysis for GPT+ Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-engaging-slideshows-using-chatgpts-powerful-tools/"><u>Creating Engaging Slideshows Using ChatGPT's Powerful Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-the-cord-ending-chatgpts-recording-habits/"><u>Cutting the Cord: Ending ChatGPT's Recording Habits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-ai-security-risks-an-insight-into-prompt-injection-techniques/"><u>Demystifying AI Security Risks: An Insight Into Prompt Injection Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deploying-artificial-intelligence-with-agentgpt-directly-from-your-web-browser/"><u>Deploying Artificial Intelligence with AgentGPT Directly From Your Web Browser</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-premier-8-chatgpt-tools-revolutionizing-crypto-communication/"><u>Discover the Premier 8 ChatGPT Tools Revolutionizing Crypto Communication</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/drone-design-changes-experiment-for-free-subscribe-for-paid-access/"><u>Drone Design Changes - Experiment for Free, Subscribe for Paid Access</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/four-easy-steps-to-experience-free-gpt-4-capabilities/"><u>Four Easy Steps to Experience Free GPT-4 Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-started-with-openais-new-gpt-store-immediate-access-and-usage-guide/"><u>Get Started with OpenAI's New GPT Store: Immediate Access & Usage Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-artificial-intelligence-find-books-youll-love-with-our-picks-of-the-top-5-apps/"><u>Harnessing Artificial Intelligence: Find Books You'll Love With Our Picks of the Top 5 Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-hot-40i-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Infinix Hot 40i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-a2-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi A2?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-vivo-y55s-5g-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y55s 5G (2023) Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-spark-20c-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Spark 20C Data? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-se-2022-5-ways-to-get-into-a-locked-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone SE (2022)? 5 Ways to get into a Locked Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-techniques-for-youtube-video-format-switching/"><u>In 2024, Ultimate Techniques for YouTube Video Format Switching</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-ai-disrupting-traditional-seo/"><u>Is AI Disrupting Traditional SEO?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-chatgpt-for-excel-proficiency/"><u>Leverage ChatGPT for Excel Proficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-ai-crafting-powerful-gpt-3-prompts-for-athletes/"><u>Maximizing AI: Crafting Powerful GPT-3 Prompts for Athletes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolve-chatgpt-malfunction-on-ios-a-guide-with-9-proven-fixes/"><u>Resolve ChatGPT Malfunction on iOS: A Guide with 9 Proven Fixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stay-alert-ais-limited-trustworthiness-for-secrecy/"><u>Stay Alert: AI's Limited Trustworthiness for Secrecy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/talking-tech-understanding-gpt-vs-bingbot-differences/"><u>Talking Tech: Understanding GPT Vs. BingBot Differences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-core-of-auto-gpt-separating-it-from-chatgpts-framework/"><u>The Core of Auto-GPT - Separating It From ChatGPT's Framework</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-myth-taming-unalterable-chatgpt/"><u>The Myth: Taming Unalterable ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-ai-in-code-comparing-github-copilot-and-chaturbategpt/"><u>The Ultimate Guide to AI in Code: Comparing GitHub Copilot and ChaturbateGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-process-for-discontinuing-your-chatgpt-account/"><u>The Ultimate Process for Discontinuing Your ChatGPT Account</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-strategy-to-harness-microsofts-chatgpt-for-engaging-interactions/"><u>The Ultimate Strategy to Harness Microsoft's ChatGPT for Engaging Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-essential-ai-technologies-every-entrepreneur-needs/"><u>Top 5 Essential AI Technologies Every Entrepreneur Needs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tracing-the-progress-the-gpt-series-unveiled/"><u>Tracing the Progress: The GPT Series Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-unlocking-the-possibilities-with-next-gen-generative-intelligence-systems/"><u>Understanding ChatGPT: Unlocking the Possibilities with Next-Gen Generative Intelligence Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-risks-when-chatting-with-advanced-ais-like-chatgpt/"><u>Understanding Risks When Chatting with Advanced AIs Like ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-impact-of-chatgpt-on-bank-and-pc-security/"><u>Understanding the Impact of ChatGPT on Bank and PC Security</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-ai-artistry-with-dall-e-e-discover-our-favorite-8-prompts/"><u>Unlocking AI Artistry with DALL-E E: Discover Our Favorite 8 Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-future-4-essential-improvements-for-gpt-5/"><u>Unveiling the Future: 4 Essential Improvements for GPT-5</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pcs-cooling-system-ai-thermal-paste-infused-with-nanodiamond-technology-from-cooler-master-comes-in-cryofuze-vee/"><u>Upgrade Your PC's Cooling System - AI 'Thermal Paste' Infused with Nanodiamond Technology From Cooler Master, Comes in CryoFuze Vee</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Chrome Add-On Risk: Impostor ChatGPT Extension Hijacks Social Media Passwords"
-date: 2024-08-02T16:06:14.639Z
-updated: 2024-08-03T16:06:14.639Z
+date: 2024-08-16T10:24:27.071Z
+updated: 2024-08-17T10:24:27.071Z
 tags:
   - chatgpt
   - open-ai
@@ -151,3 +151,50 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-choosing-the-right-microphone-for-mac-devices-a-compreenas/"><u>[New] 2024 Approved  Choosing the Right Microphone for Mac Devices (A Compreenas)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-from-low-to-high-a-beginners-guide-to-video-frame-rates-and-resolutions/"><u>[New] 2024 Approved  From Low to High  A Beginner's Guide to Video Frame Rates & Resolutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experts-pick-essential-plugins-to-elevate-your-ae-projects/"><u>[New] Expert's Pick  Essential Plugins to Elevate Your AE Projects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-best-methods-to-try-for-changing-playback-speed-in-spotify/"><u>[Updated] 2024 Approved  Best Methods to Try for Changing Playback Speed in Spotify</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-kazam-screen-recorder-review/"><u>[Updated] 2024 Approved  Kazam Screen Recorder Review</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-speed-settings-unveiled-customizing-your-snapchat-experience/"><u>[Updated] 2024 Approved  Speed Settings Unveiled  Customizing Your Snapchat Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-full-reviewed-evaluation-hero4-black-capabilities/"><u>[Updated] In 2024, Full Reviewed Evaluation  Hero4 Black Capabilities</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-online-monetization-mission-youtube-to-your-bank/"><u>[Updated] The Online Monetization Mission  YouTube to Your Bank</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-evaluating-professional-filmmaking-tools-filmora-and-democreator/"><u>2024 Approved  Evaluating Professional Filmmaking Tools  Filmora & Democreator</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-simple-path-to-iphone-screen-shots/"><u>2024 Approved  The Simple Path to IPhone Screen Shots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-innovative-ways-to-utilize-chatgpt-for-job-seekers-and-workers/"><u>6 Innovative Ways to Utilize ChatGPT for Job Seekers & Workers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-ways-that-chatgpt-is-already-being-used-in-the-wild/"><u>7 Ways That ChatGPT Is Already Being Used in the Wild</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/8-dall-e-3-prompts-for-your-next-image/"><u>8 DALL-E 3 Prompts for Your Next Image</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-openais-shapley-explainer-shape-features-and-uses/"><u>A Comprehensive Guide to OpenAI's Shapley Explainer (ShapE): Features & Uses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-timeline-to-artificial-intelligences-beginnings/"><u>A Timeline to Artificial Intelligence's Beginnings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722016610906-access-chatgpt-anywhere-with-the-new-android-app/"><u>Access ChatGPT Anywhere with the New Android App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-your-application-with-these-6-creative-uses-of-chatgpt-in-job-searches/"><u>Ace Your Application with These 6 Creative Uses of ChatGPT in Job Searches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adaptive-technology-start-with-your-8-customized-models-now/"><u>Adaptive Technology: Start with Your 8 Customized Models Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-agent-implementation-through-browser-with-agentgpt-tutorials/"><u>AI Agent Implementation Through Browser with AgentGPT Tutorials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assistant-faceoff-which-reigns-supreme-chatgpt-or-hugbingchat/"><u>AI Assistant Faceoff: Which Reigns Supreme, ChatGPT or HugbingChat?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-humor-evaluation-does-chatgpt-have-what-it-takes-to-joke-and-laugh-with-us/"><u>AI Humor Evaluation: Does ChatGPT Have What It Takes to Joke and Laugh with Us?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-leap-from-gpt-35-to-gpt-4-discovering-the-five-essential-differences-explored/"><u>AI Leap From GPT-3.5 to GPT-4: Discovering the Five Essential Differences Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-overhaul-seo-threats-and-opportunities/"><u>AI Overhaul: SEO Threats and Opportunities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-chatgpts-ability-to-design-and-describe-cocktails/"><u>Assessing ChatGPT's Ability to Design and Describe Cocktails</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722139473883-chatgpt-on-iphone-not-responding-apply-any-of-our-9-proven-strategies/"><u>ChatGPT on iPhone Not Responding? Apply Any of Our 9 Proven Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/error-resolved-a-comprehensive-tutorial-on-ac1st16dll-restoration/"><u>Error Resolved: A Comprehensive Tutorial on Ac1st16.dll Restoration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722106342965-exploring-the-viability-of-using-chatgpt-to-enhance-your-writing-through-proofreading-assistance/"><u>Exploring the Viability of Using ChatGPT to Enhance Your Writing Through Proofreading Assistance.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722211196472-free-local-instance-of-gpt-4-allowed-by-gpt4all-get-set-up-in-minutes/"><u>Free Local Instance of GPT-4 Allowed by GPT4All – Get Set Up in Minutes!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonize-tech-new-drivers-for-hp-laserjet-in-windows-11/"><u>Harmonize Tech: New Drivers for HP Laserjet in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722087581066-how-excel-outperforms-chatgpt-in-data-management-discover-3-ways/"><u>How Excel Outperforms ChatGPT in Data Management - Discover 3 Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722120349133-how-palm-2-elevates-googles-bard-ai-discover-7-key-upgrades/"><u>How PaLM 2 Elevates Google's Bard AI - Discover 7 Key Upgrades</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-go-frame-by-frame-on-youtube-video-5-free-methods-for-2024/"><u>How to Go Frame by Frame on YouTube Video [5 Free Methods] for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-itel-p55-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Itel P55 Phone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-syncopated-stories-in-reels-merging-sound-and-vision/"><u>In 2024, Syncopated Stories in Reels  Merging Sound & Vision</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-choosing-top-subtitle-editors-online/"><u>In 2024, The Ultimate Guide to Choosing Top Subtitle Editors Online</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-top-10-streaming-services-a-must-know/"><u>In 2024, Top 10 Streaming Services - A Must Know</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/metaverse-matchmakers-top-friend-focused-ventures-for-2024/"><u>Metaverse Matchmakers  Top Friend-Focused Ventures for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722184338031-no-subscriptions-for-gpt-4-however-select-plus-membership-retains-its-unique-6-features/"><u>No Subscriptions for GPT-4: However, Select Plus Membership Retains Its Unique 6 Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/speed-up-photobooks-instructions-for-faster-google-collage-creation-for-2024/"><u>Speed Up Photobooks  Instructions for Faster Google Collage Creation for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722212047230-the-secrets-of-successfully-engaging-with-openais-bug-bounty-program-top-strategies-revealed/"><u>The Secrets of Successfully Engaging with OpenAI's Bug Bounty Program – Top Strategies Revealed!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-poco-x6-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Poco X6 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722201689537-waiting-for-chatgpts-desktop-version-is-tough-heres-a-great-free-software-replacement/"><u>Waiting for ChatGPT's Desktop Version Is Tough – Here’s a Great, Free Software Replacement!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721926571623-what-is-behind-elon-musks-bold-claims-exploring-the-revolutionary-concept-of-truthgpt/"><u>What Is Behind Elon Musk's Bold Claims? Exploring the Revolutionary Concept of TruthGPT</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Meta & OpenAI: Artists' Group Takes Stand for Creative Rights"
-date: 2024-08-02T16:06:07.936Z
-updated: 2024-08-03T16:06:07.936Z
+date: 2024-08-16T10:36:50.353Z
+updated: 2024-08-17T10:36:50.353Z
 tags:
   - chatgpt
   - open-ai
@@ -100,3 +100,61 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-complete-obs-guide-to-skype-call-recording-for-2024/"><u>[New] The Complete OBS Guide to Skype Call Recording for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-get-your-data-on-site-quickly-5-best-techniques-for-computer-transfer/"><u>[Updated] Get Your Data On-Site Quickly  5 Best Techniques for Computer Transfer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-spectacular-top-liquid-physics-gaming/"><u>[Updated] Spectacular Top Liquid Physics Gaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-7-best-mac-video-viewing-tools/"><u>[Updated] Top 7 Best Mac Video Viewing Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-when-is-the-best-time-to-post-on-instagram-the-ultimate-guide/"><u>[Updated] When Is The Best Time to Post on Instagram - The Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatting-on-the-go-how-mercedes-benz-is-integrating-ai-with-voice-technology-in-vehicles/"><u>Chatting on the Go: How Mercedes-Benz Is Integrating AI With Voice Technology in Vehicles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-your-next-viewing-leveraging-chatgpts-suggestions/"><u>Choosing Your Next Viewing: Leveraging ChatGPT's Suggestions</u></a></li>
+<li><a href="https://article-files.techidaily.com/cloud-costs-2024s-top-storages-and-cheapest-options/"><u>Cloud Costs  2024'S Top Storages & Cheapest Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-engaging-interactive-narratives-with-chatgpt-for-role-playing-games/"><u>Crafting Engaging Interactive Narratives with ChatGPT for Role-Playing Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/critical-revisions-a-fresh-approach-to-the-chatgpt-plugin-hub/"><u>Critical Revisions: A Fresh Approach to the ChatGPT Plugin Hub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-chatgpt-transforming-data-to-insights/"><u>Decoding ChatGPT: Transforming Data to Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-a-smarter-way-to-find-answers-microsofts-bing-gets-an-innovative-ai-upgrade/"><u>Discover a Smarter Way to Find Answers: Microsoft's Bing Gets an Innovative AI Upgrade</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-every-detail-about-apples-revolutionary-ai-innovations-showcased-at-wwdc-202/"><u>Discover Every Detail About Apple’s Revolutionary AI Innovations Showcased at WWDC 202지</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-secure-conversations-with-duckduckgo-ai-chat-your-gateway-to-privacy-first-chatgpt-interactions/"><u>Discover Secure Conversations with DuckDuckGo AI Chat: Your Gateway to Privacy-First ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-best-7-ai-coding-assistants-effective-replacements-for-chatgpt/"><u>Discover the Best 7 AI Coding Assistants: Effective Replacements for ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-leading-ai-checker-apps-to-authenticate-student-writings-and-reports/"><u>Discover the Leading AI Checker Apps to Authenticate Student Writings & Reports</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-to-overcome-chatgpt-saving-conversation-glitches/"><u>Effective Strategies to Overcome ChatGPT Saving Conversation Glitches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-our-carefully-curated-top-8-learning-apps-set-to-dominate-the-digital-classroom/"><u>Explore Our Carefully Curated Top 8 Learning Apps Set to Dominate the Digital Classroom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-humor-capabilities-in-artificial-intelligence-plus-an-insight-into-the-evolution-of-laptops-and-advancements-in-virtual-private-network-technology22/"><u>Exploring Humor Capabilities in Artificial Intelligence + An Insight Into the Evolution of Laptops & Advancements in Virtual Private Network Technology</u></a></li>
+<li><a href="https://fox-access.techidaily.com/five-star-duo-of-picture-taking-and-musical-integration/"><u>Five-Star Duo of Picture Taking & Musical Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719204825676-fix-the-unresponsive-shift-on-your-pc-now/"><u>Fix the Unresponsive Shift on Your PC Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-novice-to-expert-transitioning-into-the-dynamic-field-of-conversational-ai-development/"><u>From Novice to Expert: Transitioning Into the Dynamic Field of Conversational AI Development</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-and-education-the-shift-from-student-drafted-to-ai-generated-papers/"><u>GPT and Education: The Shift From Student-Drafted to AI-Generated Papers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hassle-free-installation-of-chatgpt-for-linux-users-with-bavarder-a-step-by-step-tutorial/"><u>Hassle-Free Installation of ChatGPT for Linux Users with Bavarder - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-repair-communication-failures-between-chatgpt-and-its-plugin-services/"><u>How to Repair Communication Failures Between ChatGPT and Its Plugin Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-seamlessly-access-chatgpt-from-your-ubuntu-terminal-with-a-simple-shell-setup/"><u>How to Seamlessly Access ChatGPT From Your Ubuntu Terminal with a Simple Shell Setup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-supercharge-chatgpt-with-10-advanced-personalized-twists/"><u>How to Supercharge ChatGPT with 10 Advanced Personalized Twists</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/human-expertise-overstated-5-cautionary-tales/"><u>Human Expertise Overstated? 5 Cautionary Tales</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-x-fold-2-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo X Fold 2</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-y28-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo Y28 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-the-unseen-mechanics-of-ai-black-box-workings/"><u>Inside the Unseen Mechanics of AI: Black Box Workings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-safe-the-risks-associated-with-downloading-chatgpt-for-macos-users/"><u>Is It Safe? The Risks Associated with Downloading ChatGPT for macOS Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-time-to-retire-the-turing-test-five-modern-evaluation-methods-for-artifice-intelligence/"><u>Is It Time to Retire the Turing Test? Five Modern Evaluation Methods for Artifice Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/keep-confidential-matters-from-the-prying-eyes-of-ai/"><u>Keep Confidential Matters From the Prying Eyes of AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/learn-how-to-enable-and-employ-microsoft-copilot-for-your-mac-workflows/"><u>Learn How to Enable and Employ Microsoft Copilot for Your Mac Workflows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/local-llm-is-it-right-for-your-business-exploring-the-advantages-and-disadvantages/"><u>Local LLM: Is It Right for Your Business? Exploring the Advantages & Disadvantages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/machine-learning-for-natural-language-bot-chatter/"><u>Machine Learning for Natural Language Bot Chatter</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-productivity-3-insider-tips-to-integrate-chatgpt-into-excel-workflows/"><u>Maximize Productivity: 3 Insider Tips to Integrate ChatGPT Into Excel Workflows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-pitfalls-in-text-generation-with-chatgpt/"><u>Navigating Pitfalls in Text Generation with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-future-of-intelligence-how-to-craft-effective-prompts-for-anthropics-claude-3/"><u>Navigating the Future of Intelligence: How To Craft Effective Prompts for Anthropic's Claude 3</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-ultimate-guide-to-splitting-videos-in-windows-live-movie-maker-2023-edition/"><u>New In 2024, The Ultimate Guide to Splitting Videos in Windows Live Movie Maker (2023 Edition)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/phone-free-setup-joining-the-ranks-of-chatgpt-whatsapp-and-telegram-users-easily/"><u>Phone-Free Setup: Joining the Ranks of ChatGPT, WhatsApp & Telegram Users Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/practical-implementation-of-llama-2s-capabilities/"><u>Practical Implementation of Llama 2’S Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/propel-ai-performance-top-five-tactics-for-writing-stellar-chatgpt-prompts/"><u>Propel AI Performance: Top Five Tactics for Writing Stellar ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ready-for-chatgpt-on-windows-or-macos-opt-for-an-incredible-free-and-open-source-replacement-now/"><u>Ready for ChatGPT on Windows or macOS? Opt for an Incredible Free and Open-Source Replacement Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/refine-interactions-with-chatgpt-by-creating-tailored-user-personas-for-superior-performance/"><u>Refine Interactions with ChatGPT by Creating Tailored User Personas for Superior Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stealth-mode-keeping-your-chatgpt-discussions-private/"><u>Stealth Mode: Keeping Your ChatGPT Discussions Private</u></a></li>
+<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-12-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 12 failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stop-robotic-crawlers-in-their-tracks-protect-your-website-from-automated-data-harvesting/"><u>Stop Robotic Crawlers in Their Tracks: Protect Your Website From Automated Data Harvesting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superb-cyber-shops-for-handcrafted-gift-enclosures-for-2024/"><u>Superb Cyber Shops for Handcrafted Gift Enclosures for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/superior-visuals-leading-hdmi-21-monitors-for-ps5-gaming-for-2024/"><u>Superior Visuals  Leading HDMI 2.1 Monitors for PS5 Gaming for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-preferred-playlists-and-music-packages-for-effortless-background-entertainment-for-2024/"><u>Updated Preferred Playlists and Music Packages for Effortless Background Entertainment for 2024</u></a></li>
+</ul></div>

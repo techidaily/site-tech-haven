@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Generating Bulk Visuals and Text with Canva & ChatGPT
-date: 2024-08-02T16:06:15.524Z
-updated: 2024-08-03T16:06:15.524Z
+date: 2024-08-16T10:24:09.258Z
+updated: 2024-08-17T10:24:09.258Z
 tags:
   - chatgpt
   - open-ai
@@ -121,3 +121,45 @@ thumbnail: https://thmb.techidaily.com/6a865e452463a91a0991eeba9d7367cf47a6e9f95
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-stop-automated-post-proposals-on-instagram/"><u>[New] 2024 Approved  Stop Automated Post Proposals on Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-ultimate-list-7-indispensable-devices-in-the-metaverse/"><u>[New] 2024 Approved  The Ultimate List  7 Indispensable Devices in the Metaverse</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-insiders-look-at-creating-viral-fb-cover-videos/"><u>[New] In 2024, The Insider's Look at Creating Viral FB Cover Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-10-soothing-games-to-ease-anxiety/"><u>[Updated] 2024 Approved  Top 10 Soothing Games to Ease Anxiety</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-exclusive-roundup-best-windows-11-video-recording-options/"><u>[Updated] Exclusive Roundup  Best Windows 11 Video Recording Options</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-sneak-into-a-friends-tiktok-live-unnoticed/"><u>[Updated] Sneak Into a Friend’s TikTok Live Unnoticed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-unique-applications-of-chatgpts-code-execution-capabilities/"><u>7 Unique Applications of ChatGPT's Code Execution Capabilities</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-comparative-review-sns-hdr-pro-and-other-editors/"><u>A Comparative Review  SNS HDR Pro and Other Editors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-deep-dive-into-the-bert-model-clarifying-what-sets-it-apart-from-generative-pre-trained-transformer-technologies/"><u>A Deep Dive Into the BERT Model: Clarifying What Sets It Apart From Generative Pre-Trained Transformer Technologies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/addressing-the-complexities-of-controlling-artificeby-intelligent-machines/"><u>Addressing the Complexities of Controlling Artificeby Intelligent Machines</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-and-the-new-wave-of-search-at-microsofts-bing/"><u>AI & The New Wave of Search at Microsoft's Bing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-advocates-argument-the-ultimate-language-combatant/"><u>AI Advocates’ Argument: The Ultimate Language Combatant</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-in-play-crafting-next-gen-virtual-experiences/"><u>AI in Play: Crafting Next-Gen Virtual Experiences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-jargon-uncovered-essential-terms-for-tech-professionals/"><u>AI Jargon Uncovered: Essential Terms for Tech Professionals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-quintet-of-assistances-in-digital-misconducts/"><u>AI's Quintet of Assistances in Digital Misconducts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artistic-alchemy-blending-imagination-with-dall-e-iii-prompts/"><u>Artistic Alchemy: Blending Imagination with DALL-E III Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-potential-pitfalls-with-a-healthy-skepticism-of-ai/"><u>Avoid Potential Pitfalls with a Healthy Skepticism of AI</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/behind-the-screens-the-leading-bgm-audio-selections/"><u>Behind the Screens The Leading BGM Audio Selections</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/efficient-editing-techniques-mastering-video-cropping-and-exporting/"><u>Efficient Editing Techniques  Mastering Video Cropping and Exporting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/efficient-file-transfers-5-methods-for-pc/"><u>Efficient File Transfers  5 Methods for PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722178681644-evaluating-ais-potential-to-strengthen-or-compromise-mental-health-interventions-an-insightful-look/"><u>Evaluating AI's Potential to Strengthen or Compromise Mental Health Interventions: An Insightful Look.</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y200e-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y200e 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-asus-rog-phone-8-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Asus ROG Phone 8 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722149342460-innovate-text-with-style-at-openais-custom-ai-gpt-store/"><u>Innovate Text With Style at OpenAI’s Custom AI GPT Store!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-oneplus-nord-3-5g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722201789498-the-battle-of-brains-evaluating-the-features-and-capabilities-between-claude-ai-and-chatgpt/"><u>The Battle of Brains: Evaluating the Features and Capabilities Between Claude AI and ChatGPT.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-s23-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy S23 Phone Hassle-Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tracking-chatgpts-health-today/"><u>Tracking ChatGPT's Health Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-to-fix-the-absent-d3dx924dll-error/"><u>Troubleshooting Steps to Fix the Absent d3dx9_24.dll Error</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-artificial-intelligence-the-basics-of-transfer-learning-explained/"><u>Understanding Artificial Intelligence: The Basics of Transfer Learning Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unmasking-duplicates-openais-new-ai-verification-system/"><u>Unmasking Duplicates: OpenAI's New AI Verification System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-claude-pro-an-in-depth-comparison-with-microsofts-chatgptplus/"><u>Unveiling Claude Pro: An In-Depth Comparison with Microsoft's ChatGPT+</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/whats-next-envisioning-new-capabilities-in-gpt-5/"><u>What's Next? Envisioning New Capabilities in GPT-5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-is-gptbot-being-blacklisted-by-sites/"><u>Why Is GPTBot Being Blacklisted by Sites?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-microsoft-copilot-trumps-chatgpt-for-these-four-key-reasons/"><u>Why Microsoft Copilot Trumps ChatGPT for These Four Key Reasons</u></a></li>
+</ul></div>

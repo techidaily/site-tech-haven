@@ -1,0 +1,172 @@
+---
+title: How Do User Discussions Influence the Advancement of ChatGPT's Cognition?
+date: 2024-08-16T12:41:53.444Z
+updated: 2024-08-17T12:41:53.444Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes How Do User Discussions Influence the Advancement of ChatGPT's Cognition?
+excerpt: This Article Describes How Do User Discussions Influence the Advancement of ChatGPT's Cognition?
+thumbnail: https://thmb.techidaily.com/c6507ef1a8c1967e04b9a71ecc3df4d6b245a64121c79bffee638bab85472f90.jpg
+---
+
+## Experience the Best of AI: Discover Why ChatGPT Plus Remains Ideal Even as GPT-N Goes Gratis
+
+### Quick Links
+
+* [More Access to GPT-4o](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#more-access-to-gpt-4o)
+* [Retain Access to GPT-4 Turbo](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#retain-access-to-gpt-4-turbo)
+* [Create Your Own Custom GPT](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#create-your-own-custom-gpt)
+* [Generate Images With DALL-E](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#generate-images-with-dall-e)
+* [Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#get-early-access-to-chatgpt-voice-mode-and-the-chatgpt-desktop-app)
+* [Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#full-access-to-advanced-data-analysis-file-uploads-vision-and-web-browsing)
+
+### Key Takeaways
+
+* Free users get limited access to GPT-4o, the latest AI model, while Plus subscribers get more messages and guaranteed availability.
+* ChatGPT Plus subscribers can create custom GPTs and access features like image generation and early access to new features like Voice Mode.
+* Free users get limited access to advanced features like data analysis and web browsing, while Plus subscribers get full access.
+
+ Following OpenAI's Spring Update, GPT-4o has become publicly available to Free users. This means that everyone can access GPT-4-level intelligence without paying. You might wonder why you would want to keep paying $20 monthly when you can get it for free.
+
+ Well, here are some reasons you might want to keep your ChatGPT Plus sub.
+
+## 1 More Access to GPT-4o
+
+![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+
+[GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) [is OpenAI's latest flagship GPT model](http://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , which it states is twice as fast as GPT-4 Turbo and 50% cheaper (when using APIs). However, Free users are not granted unlimited access to GPT-4o. OpenAI provides Free users with "limited access to GPT-4o."
+
+ GPT-4o is now ChatGPT's default model, but Free users will be reverted to GPT-3.5 when it's unavailable. As a Free user, your access to GPT-4o is not guaranteed and is subject to availability. The term "limited access" implies usage restrictions or reduced availability during peak times.
+
+ Regardless, one thing is for certain: ChatGPT Plus users will get up to five times more messages for GPT-4o. Furthermore, Plus users can send up to 80 messages every three hours. From that, we can infer that Free users would get about 16 messages per hour on a good day. It's not bad, but it's quite low if you're a heavy user.
+
+ However, all of these message rates are the best you will get. As ChatGPT becomes the crutch for more businesses and individuals, usage and availability will likely decline (temporarily) in the near future. Based on this, you'd likely want a Plus subscription to insure against crowded conditions.
+
+## 2 Retain Access to GPT-4 Turbo
+
+ Benchmarks and tests revealed that GPT-4o may be faster, but GPT-4 Turbo seems more accurate in some categories. It's difficult to confirm the criteria for this and how some of these tests have been executed, but some users have reported better results from GPT-4—especially in mathematical and programming problems. Even OpenAI admits this, and according to its text evaluation results, GPT-4T does better at DROP (​​Discrete Reasoning Over Paragraphs) tests.
+
+![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
+
+[OpenAI](https://openai.com/index/hello-gpt-4o/)
+
+ If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
+
+## 3 Create Your Own Custom GPT
+
+ OpenAI will allow Free users to access the GPT store and use custom GPTs as part of its free package. However, this allowance doesn't extend to the creation of custom GPTs.
+
+ You must have a Plus subscription to create custom GPTs. Paying will let you[build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4 Generate Images With DALL-E
+
+![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+
+ When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
+
+ We are uncertain how this will translate to Free users' access to the GPT store, seeing as many custom GPTs rely on DALL-E. But it's very likely going to be completely unavailable until you pay.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## 5  Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App
+
+ OpenAI's demo of GPT-4o made waves on the internet because of its realistic Voice Mode. Due to how quickly GPT-4o can understand words and context, none of that characteristic delay happens while the AI is "thinking," making for fluid—humanlike—conversation. On top of that, you can essentially video call the AI while in Voice Mode, and it will understand visual cues and objects it sees (thanks to its vision capabilities).
+
+ This new Voice Mode is not yet generally available, but Plus users will receive it as an early access feature. If you want to use this technology before most people, you'll need to keep your ChatGPT subscription up and running.
+
+ While OpenAI's recent demo showed us that the feature will come with the Mac app, Voice Mode is only available now through the ChatGPT smartphone app. Features like this are why many consider the[ChatGPT iOS app better than the website](https://www.makeuseof.com/why-chatgpt-ios-app-is-better-than-website/) .
+
+ OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
+
+![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
+
+ Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.
+
+ For some, this has disincentivized carrying on a Plus subscription. However, you will need a subscription if you're a heavy ChatGPT user and rely on it to understand, parse, and analyze documents and photos. Granted, these are features that many don't use very often, but if you fall within the minority, you might want to keep your Plus sub.
+
+ Also, having full access to web browsing is super useful. ChatGPT has a knowledge cutoff, and web browsing helps bridge that knowledge gap by letting it search the web to find current information. If you use ChatGPT for tasks that require current information, you might get frustrated with a Free plan.
+
+ Frankly, all the reasons for getting a ChatGPT Plus subscription are subject to how much you use the AI. If you use it a lot, you'll find yourself hitting the limits very often. It can be well worth the money if you can afford it and don't mind beta-testing new OpenAI features.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-downloadsave-instagram-reels-video-in-2-ways/"><u>[New] How to Download/Save Instagram Reels Video in 2 Ways</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-capture-live-camera-video-using-vlc-media-for-2024/"><u>[Updated] Capture Live Camera Video Using VLC Media for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-analysis-variety-in-fb-video-aspects/"><u>2024 Approved  Analysis  Variety in FB Video Aspects</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhance-your-videos-call-to-action-a-step-by-step-filmora-guide/"><u>2024 Approved  Enhance Your Video's Call-to-Action  A Step-by-Step Filmora Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-superior-mp4-channel-updater/"><u>2024 Approved  Superior MP4 Channel Updater</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-discord-connectivity-woes-with-our-expert-fix-it-manual/"><u>Beat Discord Connectivity Woes with Our Expert Fix-It Manual</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/caption-kings-and-queens-top-10-mobile-writing-aids-iosandroid-for-2024/"><u>Caption Kings and Queens  Top 10 Mobile Writing Aids (iOS/Android) for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/engage-your-friends-with-these-top-7-imessage-games-of-20232024/"><u>Engage Your Friends with These Top 7 iMessage Games of 2023/2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-visuals-on-macos-an-instructional-guide-for-adjusting-folder-colors/"><u>Enhancing Visuals on macOS - An Instructional Guide for Adjusting Folder Colors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/everlasting-visual-capture-services/"><u>Everlasting Visual Capture Services</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-ensure-your-whatsapp-messages-are-automatically-backed-up-to-icloud/"><u>How to Ensure Your WhatsApp Messages Are Automatically Backed Up to iCloud</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-channel-identity-made-simple-discover-the-10-best-banner-maker-apps/"><u>In 2024, Channel Identity Made Simple  Discover the 10 Best Banner Maker Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-increase-views-with-smart-igtv-title-and-summary-edits/"><u>In 2024, Increase Views with Smart IGTV Title and Summary Edits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-gopro-max-or-hero-11/"><u>In 2024, Ultimate Guide to GoPro  Max or Hero 11?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inshot-vs-competitors-a-detailed-video-app-review-for-2024/"><u>InShot vs Competitors  A Detailed Video App Review for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-creative-writing-the-worlds-top-7-ai-tool-markets/"><u>Mastering Creative Writing: The World's Top 7 AI Tool Markets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-schedule-with-these-4-chatgpt-tips/"><u>Maximize Your Schedule with These 4 ChatGPT Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-potential-ais-contributions-towards-optimal-paperclip-arrangement/"><u>Maximizing Potential: AI's Contributions Towards Optimal Paperclip Arrangement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-your-experience-with-chatgpt-five-tricks-when-you-dont-have-an-openai-profile/"><u>Maximizing Your Experience with ChatGPT: Five Tricks When You Don't Have an OpenAI Profile</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimized-writing-techniques-with-chatgpt-aide/"><u>Optimized Writing Techniques with ChatGPT Aide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/premium-fb-video-tools-optimized-for-firefox-users-for-2024/"><u>Premium FB Video Tools - Optimized For FireFox Users for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safety-concerns-unveiling-the-potential-security-threats-in-using-openais-chatgpt/"><u>Safety Concerns: Unveiling the Potential Security Threats in Using OpenAI's ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-chatgpt-use-with-siri-enabled-iphones/"><u>Seamless ChatGPT Use with Siri-Enabled iPhones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-local-setup-of-llama-version-2/"><u>Step-by-Step Guide: Local Setup of LLAMA Version 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tailor-made-ai-engagements-the-key-to-customizing-conversational-experiences-using-chatgpts-newest-features/"><u>Tailor-Made AI Engagements: The Key to Customizing Conversational Experiences Using ChatGPT's Newest Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/talking-bots-face-off-which-one-triumphs-more/"><u>Talking Bots Face-Off: Which One Triumphs More?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-advantages-of-using-the-chatgpt-desktop-app-a-step-above-the-online-version/"><u>The Advantages of Using the ChatGPT Desktop App: A Step Above the Online Version</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-beginners-path-to-chatgpt-on-android/"><u>The Beginner's Path to ChatGPT on Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-comprehensive-beginners-manual-for-implementing-the-chatgpt-api/"><u>The Comprehensive Beginner's Manual for Implementing the ChatGPT API</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-distinct-features-of-auto-gpt-an-in-depth-look-compared-to-chatgpt/"><u>The Distinct Features of Auto-GPT: An In-Depth Look Compared to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-influence-of-gpt-conversations-on-productivity-boosting/"><u>The Influence of GPT Conversations on Productivity Boosting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-secrets-behind-virtual-personas-a-deep-dive-into-the-dead-internet-theory-of-online-communication/"><u>The Secrets Behind Virtual Personas: A Deep Dive Into the 'Dead Internet Theory' Of Online Communication</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-six-dos-and-donts-of-constructing-effective-chatgpt-prompts/"><u>The Six Do's and Don'ts of Constructing Effective ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-translation-titan-gpts-role-in-natural-language-understanding/"><u>The Translation Titan: GPT's Role in Natural Language Understanding</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-maximum-tokens-possibility-of-going-beyond/"><u>Understanding ChatGPT's Maximum Tokens: Possibility of Going Beyond</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-claude-nv-powerful-applications-and-operations/"><u>Understanding Claude Nv: Powerful Applications and Operations</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on OnePlus Nord N30 SE | Dr.fone</u></a></li>
+</ul></div>

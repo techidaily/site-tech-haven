@@ -1,0 +1,165 @@
+---
+title: "Delving Into the Depths: Integrating Deep Learning in Bing Android App"
+date: 2024-08-16T12:45:00.830Z
+updated: 2024-08-17T12:45:00.830Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Delving Into the Depths: Integrating Deep Learning in Bing Android App"
+excerpt: "This Article Describes Delving Into the Depths: Integrating Deep Learning in Bing Android App"
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
+---
+
+## Clarifying Authorship in AI-Generated Works: A Guide to Copyright Principles and Ownership
+
+ As AI technologies get powerful and more people start using them, we face another ethical question: who owns the copyright to AI creations?
+
+ After all, since AI isn't human, it cannot hold ownership over its creations. So, if an AI makes something, who do we attribute it to? The AI's programmer? The person who initiated the prompts? Or the sources the AI used?
+
+## What Is Copyright? Does It Apply to Non-Human Creations?
+
+ Before talking about copyright, we must first define it. According to the[US Copyright Office](https://www.copyright.gov/what-is-copyright/) (USCO), "Copyright is a type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression."
+
+It further defines original works as:
+
+> Works are original when they are independently created by a human author and have a minimal degree of creativity.
+
+ So, for copyright to apply to any work, it must be created by a human. This issue was tested with the so-called monkey selfie copyright dispute.
+
+ In this incident, British nature photographer David Slater set himself up between 2008 and 2011 to befriend a wild Celebes crested macaques troop. He was able to gain their trust, but they were still too nervous for him to get a close-up image.
+
+![sefl portrait of a Macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_large.jpg)
+
+ Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File%3AMacaca%5Fnigra%5Fself-portrait%5Flarge.jpg)
+
+![full body self-portrait of a macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_full_body.jpg)
+
+ Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File:Macaca%5Fnigra%5Fself-portrait%5Ffull%5Fbody.jpg)
+
+Close
+
+ So, he set up his camera gear on a tripod with a remote release and let the monkeys play with them. The animals were amused at the reflections, and since they pressed the remote shutter button while playing with his equipment, the monkeys captured many images, with two of them resulting in the disputed monkey selfie photo.
+
+ The photographer argued that he set up the gear and the circumstance, so he should be assigned the copyright to the image. However, many expert legal opinions, including that of the US Copyright Office and the UK Intellectual Property Office, said that photographs and artwork created by animals or machines could not own copyright.
+
+ But, according to[The Guardian](https://www.theguardian.com/technology/2014/aug/22/monkey-business-macaque-selfie-cant-be-copyrighted-say-us-and-uk) , the UK office added, "the question as to whether the photographer own copyright is more complex. It depends on whether the photographer has made a creative contribution to the work, and this is a decision which must be made by the courts."
+
+ With that, the monkey selfie image was determined to be in the public domain. However, David Slater still claims the copyright of the photo.
+
+ Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
+## An Example of AI Copyright Rejection
+
+ The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
+
+ Although the USCO issued a copyright in September 2022, it said it did it in error. When it came to light that the comic book was produced using MidJourney AI, its copyright protection was revoked.
+
+ This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+## Is AI Work Non-Copyrightable?
+
+ With all the copyright denials, does it mean that AI work is non-copyrightable at all?
+
+ According to a March 2023 report in[The Register](https://www.theregister.com/2023/03/16/ai%5Fart%5Fcopyright%5Fusco/) , the USCO said it would consider AI-generated work copyrightable "if a human can prove they put a meaningful amount of creative effort into the final content."
+
+ USCO director Shira Perlmutter said that the prompts humans give to AI programs aren't traditional elements of ownership. Instead, it's more like an instruction given to a commissioned artist—the prompts let the AI determine what the user wants, but the machine implements it.
+
+ However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+## The Issues With AI-Generated Work
+
+![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+
+ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
+
+ As with any new technology, AI will face many issues. Aside from the[copyright rules around AI art,](https://www.makeuseof.com/copyright-rules-ai-art/) which we've discussed above,[AI writing also has dangers](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) that users and readers must know about.
+
+ More than that, AI learns from millions upon millions of data points it gathers online. And while it's normal for a person to view other pieces of art for inspiration, AI sometimes takes these sources and has output so similar that it can be considered plagiarism.
+
+ Furthermore, some sources, like Getty Images, require AI programmers to get a license from them to train their AI on their data. However, Stability AI did not get this license but still used Getty's data to train their system. Because of this,[Getty Images is suing the art generator](https://www.makeuseof.com/getty-images-suing-stability-ai-why/) for copyright infringement.
+
+ This case highlights one of the biggest problems with AI generators: the data they are trained on are often copyrighted. So, at the very least, it must declare its sources. And if the author demands payment, the AI's creator must do so.
+
+ While one may argue that it's no different from a person looking at the images and using them as an inspiration, AI isn't a person—instead, it's a machine that, at least for now, has no life. Furthermore, AI consumes and spits data at inhumanly insane speeds—so much so that humans cannot compete against it.
+
+ Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+## The Ethics of AI
+
+ Although AI tools are powerful, valuable tools that'll help us be more efficient, it's untested and unprecedented technology. AI could have unintended consequences, so we should be careful when using this technology.
+
+ But, simultaneously, we shouldn't avoid using it because we don't understand it. The best way to deal with AI is to ensure that its use will serve the purpose of advancing humanity as a whole. There will be endless debates about this, for sure; that's why we should have a solid moral compass when using this new tool.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flip-flop-your-watching-anchoring-yourself-at-the-end-of-queue/"><u>[New] In 2024, Flip-Flop Your Watching  Anchoring Yourself at the End of Queue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-enhanced-samsung-k850u-experience/"><u>[New] Unveiling the Enhanced Samsung K850U Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-infuse-thumbnails-unforgettable-scenes/"><u>[Updated] Infuse Thumbnails  Unforgettable Scenes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photographic-standouts-with-our-top-10-grid-picks/"><u>[Updated] Photographic Standouts with Our Top 10 Grid Picks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-snapshot-experience-mastering-snapchat-filters/"><u>[Updated] The Ultimate Snapshot Experience  Mastering Snapchat Filters</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-site-management-streamline-your-web-experience/"><u>Cookiebot-Enabled Site Management: Streamline Your Web Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-ch340g-usb-to-serial-adapter-drivers-for-windows-11/"><u>Download & Update CH340G USB-to-Serial Adapter Drivers for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-usb-webcam-installation-download-top-quality-drivers-today/"><u>Effortless USB Webcam Installation: Download Top-Quality Drivers Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-tabletop-adventures-with-ai-leveraging-chatgpt-in-your-rpg-sessions/"><u>Enhancing Tabletop Adventures with AI: Leveraging ChatGPT in Your RPG Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-accuracy-in-online-health-advice-fact-checking-techniques-for-ai-sources-including-chatgpt/"><u>Ensuring Accuracy in Online Health Advice: Fact-Checking Techniques for AI Sources Including ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-ai-tools-to-generate-creative-stories-top-picks/"><u>Essential AI Tools to Generate Creative Stories - Top Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exercise-plans-crafted-with-safety-and-efficiency-in-mind/"><u>Exercise Plans Crafted with Safety and Efficiency in Mind</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-fun-top-6-games-you-can-enjoy-on-chatgpt/"><u>Explore Fun: Top 6 Games You Can Enjoy on ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/find-inspiration-with-5-innovative-ai-text-generators-for-authors/"><u>Find Inspiration with 5 Innovative AI Text Generators for Authors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpts-potential-role-in-cyber-threat-evolution/"><u>GPT's Potential Role in Cyber Threat Evolution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpts-veracity-in-the-realm-of-health-recommendations/"><u>GPT's Veracity in the Realm of Health Recommendations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/guide-to-incorrantey-instagrams-music-focused-emojis-for-2024/"><u>Guide to Incorrantey Instagram's Music-Focused Emojis for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hidden-knowledge-interacting-with-chatgpt/"><u>Hidden Knowledge: Interacting with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-codegpt-revolutionize-programming-by-generating-codes/"><u>How Does CodeGPT Revolutionize Programming by Generating Codes?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-a24-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Samsung Galaxy A24.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-switch-your-protonvpn-accounts-email-with-ease-and-debunking-the-chatgpt-on-windows-real-or-imitation/"><u>How to Switch Your ProtonVPN Account's Email with Ease & Debunking the ChatGPT on Windows: Real or Imitation?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/illusions-unveiled-8-ways-ai-transforms-views/"><u>Illusions Unveiled: 8 Ways AI Transforms Views</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-your-cs2-network-connection-and-lowering-latency/"><u>Improving Your CS2 Network Connection and Lowering Latency</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-y78plus-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo Y78+ to Protect Your Individual Information</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-managing-who-accesses-your-youtube-videography/"><u>In 2024, Managing Who Accesses Your YouTube Videography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-30-apps-for-audio-lovers/"><u>In 2024, Top 30 Apps for Audio Lovers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-gpt-4-by-openai-pioneering-a-new-era-in-artificial-general-intelligence/"><u>Introducing GPT-4 by OpenAI – Pioneering a New Era in Artificial General Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-chatgpt-the-key-to-unlocking-healthy-meal-preparation-secrets/"><u>Is ChatGPT the Key to Unlocking Healthy Meal Preparation Secrets?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/locking-down-your-secrets-not-on-ai-platforms/"><u>Locking Down Your Secrets, Not on AI Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/lost-in-the-wild-chatgpt-no-more-tethers/"><u>Lost in the Wild: ChatGPT, No More Tethers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-snap-camera-in-ms-teams-for-2024/"><u>Mastering Snap Camera in MS Teams for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-hunt-10-tips-for-using-chatgpt-to-secure-linkedin-positions/"><u>Mastering the Hunt: 10 Tips for Using ChatGPT to Secure LinkedIn Positions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-chatgpt-insider-tips-from-its-creators-at-microsoft/"><u>Navigating ChatGPT: Insider Tips From Its Creators at Microsoft</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ordinary-operations-outcome-choosing-your-bot-buddy/"><u>Ordinary Operations Outcome: Choosing Your Bot Buddy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-youtubes-monthly-monetization-rules-for-2024/"><u>Unveiling YouTube’s Monthly Monetization Rules for 2024</u></a></li>
+</ul></div>
