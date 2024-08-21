@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Guide: Accessing and Enjoying Amazon Kindle Ebooks on Your Windows 8 PC"
-date: 2024-08-19 23:21:34
-updated: 2024-08-21 11:35:51
+date: 2024-08-20T11:53:57.451Z
+updated: 2024-08-21T11:53:57.451Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf462fe90ad515f1ed2896ad3.jpg
@@ -53,12 +53,22 @@ Follow above steps when you want to **read Kindle books on Windows 8 (Pro) PC, S
 
 Besides Kindle books, you can [follow this guide to read **eBooks** on Windows 8 / Surface RT / Pro](https://tools.techidaily.com/epubor/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Read Kindle books on Windows 8 mobile
 
 To read Kindle books on Windows Phone 8 such as Nokia Lumia 920, simply tap “Marketplace” icon on the phone, search for “Kindle” and follow the instructions to install. The latest version of Kindle for Windows Phone 8 app is 2.0.0.2, which comes with a resizable live tile and additional formatting options.
 
 ![read Kindle books on Windows Phone 8](https://www.epubor.com/images/uppic/Win8-kindle_for_windows_phone_8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### More about Amazon Kindle eBook reading
 
 Together with reading Kindle eBooks on Windows 8 devices, you are likely to have other devices to read Kindle books on. As a result of DRM restrictions imposed on Kindle books, however, things are a bit tough and constrained. Thus you might have to **use DRM Removal tools to remove Kindle DRM**, so that you will be able to read Kindle books on non-Kindle devices.
@@ -77,6 +87,9 @@ Related instructions:
 
 [How to read Kindle books on Android phones / tablets](https://tools.techidaily.com/epubor/products/)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Troubleshooting: Can't install kindle app on windows 8
 
 **#1** Provided you have no access to Microsoft app store and can't install Kindle for Windows 8 app, you can also read Kindle books on your Win 8 device by [installing Kindle for PC app from Amazon's official site](https://www.amazon.com/kindle-dbs/fd/kcp). Press "Windows" key on the keyboard (next to "Alt" key) to go back to desktop if necessary.
@@ -85,6 +98,9 @@ Related instructions:
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -257,3 +273,62 @@ Leave a comment
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-a-thorough-examination-of-hero5-video-content/"><u>[New] 2024 Approved  A Thorough Examination of Hero5 Video Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-creating-illusionary-settings-with-instagrams-chroma-key-for-2024/"><u>[New] Creating Illusionary Settings with Instagram’s Chroma Key for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-delving-into-instagrams-videography-restriction/"><u>[New] Delving Into Instagram's Videography Restriction</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-free-android-capture-app-zero-ads/"><u>[New] In 2024, Best Free Android Capture App, Zero Ads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-first-steps-in-starting-a-review-channel-for-tech-gadgets/"><u>[New] The First Steps in Starting a Review Channel for Tech Gadgets</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-launching-an-impactful-instagram-live-session-for-2024/"><u>[Updated] Launching an Impactful Instagram Live Session for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-which-live-stream-software-wins-exploring-obs-vs-streamlabs/"><u>[Updated] Which Live Stream Software Wins? Exploring OBS Vs. Streamlabs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-on-pc-drivers-troubleshooting-techniques-for-windows-users/"><u>A Comprehensive Guide on PC Drivers: Troubleshooting Techniques for Windows Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-performance-ultimate-tips-to-accelerate-windows-10-efficiency/"><u>Boosting Performance: Ultimate Tips to Accelerate Windows 10 Efficiency</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-redmi-12-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi Redmi 12</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-guide-factory-resetting-your-windows-11-in-just-four-simple-steps/"><u>Complete Guide: Factory Resetting Your Windows 11 in Just Four Simple Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/configuring-wireless-internet-on-your-pc-with-windows-7-quick-fixes-and-tips/"><u>Configuring Wireless Internet on Your PC with Windows 7 - Quick Fixes & Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/connecting-beats-wireless-headphones-to-your-windows-desktop-made-easy/"><u>Connecting Beats Wireless Headphones to Your Windows Desktop Made Easy</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-epic-trailers-top-movie-maker-software-for-mac-and-pc-for-2024/"><u>Create Epic Trailers Top Movie Maker Software for Mac and PC for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-how-to-quickly-identify-your-windows-10-operating-system-version/"><u>Discover How to Quickly Identify Your Windows 10 Operating System Version</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-asus-drivers-for-windows-10-and-7/"><u>Download ASUS Drivers for Windows 10 & 7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficient-steps-to-delete-hibernation-file-hiberfilsys-from-your-pc/"><u>Efficient Steps to Delete Hibernation File (Hiberfil.sys) From Your PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enabling-and-disabling-system-hibernate-functionality-on-windows-11-pcs-best-tips-and-tricks/"><u>Enabling and Disabling System Hibernate Functionality on Windows 11 PCs – Best Tips & Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-windows-11-gaming-experience-with-the-asus-aura-interface-download/"><u>Enhance Your Windows 11 Gaming Experience with the ASUS Aura Interface Download</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-capabilities-of-toolwiz-a-comprehensive-mobile-review-for-2024/"><u>Exploring the Capabilities of Toolwiz – A Comprehensive Mobile Review for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fallout-3-and-windows-11-the-ultimate-compatibility-and-setup-tutorial/"><u>Fallout 3 & Windows 11: The Ultimate Compatibility and Setup Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-common-issues-how-to-troubleshoot-non-functional-usb-ports-on-your-laptop/"><u>Fixing Common Issues: How To Troubleshoot Non-Functional USB Ports On Your Laptop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-itel-p55-5g-by-drfone-android/"><u>Full Guide to Unlock Your Itel P55 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-burn-a-cd-or-dvd-on-windows-11/"><u>How to Burn a CD or DVD on Windows 11?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-fix-windows-11-boot-up-restoring-functionality-when-f8-is-unresponsive/"><u>How to Fix Windows 11 Boot Up: Restoring Functionality When F8 Is Unresponsive</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-have-more-fps-on-roblox-games-2024-tips/"><u>How to Have More FPS on Roblox Games - 2024 Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-open-control-panel-in-windows-10/"><u>How to Open Control Panel in Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-prevent-driver-updates-via-windows-11s-automatic-system-a-comprehensive-fix/"><u>How to Prevent Driver Updates via Windows 11'S Automatic System: A Comprehensive Fix</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808339328-how-to-share-games-on-ps4-2021-easy-guide/"><u>How to Share Games on PS4 - 2021 Easy Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-forza-horizon-4-from-crashing-on-your-computer-solutions-proven-effective/"><u>How to Stop Forza Horizon 4 From Crashing on Your Computer - Solutions Proven Effective</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808307997-how-to-update-video-drivers-in-windows-11-easily/"><u>How to Update Video Drivers in Windows 11. Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808290167-hp-drivers-for-windows-11-download-easily/"><u>HP Drivers for Windows 11. Download Easily！</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-break-free-from-routine-with-these-unique-snapchat-ideas/"><u>In 2024, Break Free From Routine with These Unique Snapchat Ideas</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-motorola-edge-2023-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Motorola Edge 2023 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-and-exploration-adobe-storage-vs-competitors-options-for-2024/"><u>In-Depth Analysis & Exploration  Adobe Storage Vs. Competitors' Options for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-depth-review-of-the-apc-back-ups-pro-1500va-device-high-efficiency-diverse-port-availability-and-user-friendly-battery-replacement-feature/"><u>In-Depth Review of the APC Back-UPS Pro 1500VA Device - High Efficiency, Diverse Port Availability & User-Friendly Battery Replacement Feature</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-smart-8-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808250322-instant-access-your-guide-to-direct3d-downloads/"><u>Instant Access: Your Guide to Direct3D Downloads!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/make-every-frame-count-a-list-of-the-hottest-50-video-reducing-apps-for-your-phone/"><u>Make Every Frame Count  A List of the Hottest 50 Video-Reducing Apps for Your Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-the-windows-11-upgrade-process-with-this-easy-detailed-steps-list/"><u>Master the Windows 11 Upgrade Process with This Easy, Detailed Steps List</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-call-issues-quickly-discover-our-top-11-recommendations-for-a-loud-and-clear-ringer/"><u>Solve iPhone Call Issues Quickly: Discover Our Top 11 Recommendations for a Loud and Clear Ringer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/strategies-for-captivating-end-moments-for-2024/"><u>Strategies for Captivating End Moments for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/strategies-for-harvesting-fb-status-video-archives-for-2024/"><u>Strategies for Harvesting FB Status Video Archives for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/supercharge-your-laptop-essential-strategies-for-enhanced-efficiency/"><u>Supercharge Your Laptop: Essential Strategies for Enhanced Efficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-easy-way-to-detach-and-delete-epic-games-launcher-installer-on-windows-and-mac/"><u>The Easy Way to Detach and Delete Epic Games Launcher Installer on Windows and Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-reverting-to-defaults-with-a-full-hp-laptop-system-reboot/"><u>The Ultimate Tutorial: Reverting to Defaults with a Full HP Laptop System Reboot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tips-for-lowering-the-cpu-load-when-playing-call-of-duty-modern-warfare/"><u>Tips for Lowering the CPU Load When Playing Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-strategies-for-minimizing-game-lag-a-comprehensive-guide/"><u>Top Strategies for Minimizing Game Lag : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-guide-resolving-issues-with-arch-bluetooth-mouse-on-windows-11-creators-version/"><u>Troubleshooting Guide: Resolving Issues with Arch Bluetooth Mouse on Windows 11 Creators Version</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-success-resolving-the-windows-11-setup-error-80240020/"><u>Troubleshooting Success: Resolving the Windows 11 Setup Error 80240020</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-dell-v305-printer-software-for-seamless-printing-on-windows-7-systems/"><u>Update Your Dell V305 Printer Software for Seamless Printing on Windows 7 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upside-down-display-fix-effective-solutions-and-steps/"><u>Upside-Down Display Fix: Effective Solutions and Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/winning-at-performance-advanced-tweaks-for-gamers-on-windows-11/"><u>Winning at Performance: Advanced Tweaks for Gamers on Windows 11</u></a></li>
+</ul></div>

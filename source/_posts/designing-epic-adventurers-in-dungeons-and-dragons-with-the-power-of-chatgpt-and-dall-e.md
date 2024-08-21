@@ -1,0 +1,180 @@
+---
+title: Designing Epic Adventurers in Dungeons & Dragons with the Power of ChatGPT and DALL-E
+date: 2024-08-20T12:00:43.687Z
+updated: 2024-08-21T12:00:43.687Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Designing Epic Adventurers in Dungeons & Dragons with the Power of ChatGPT and DALL-E
+excerpt: This Article Describes Designing Epic Adventurers in Dungeons & Dragons with the Power of ChatGPT and DALL-E
+thumbnail: https://thmb.techidaily.com/a8037b9cb425e19a9ec57f5feba58cc91bfb4e98ab568e20793fc881abc0b40e.jpg
+---
+
+## Generative Intelligence Showdown: Evaluating the Pros and Cons of ChatGPT Against Notion AI
+
+ At the end of 2022 and the start of 2023, conversations surrounding artificial intelligence (AI) grew louder. ChatGPT gained significant attention, and Notion also launched Notion AI—a feature it had been experimenting with for a few months before it rolled the tool out to everyone.
+
+ ChatGPT and Notion AI have several useful tools to help improve your workflow, discover answers to questions you may have, and translate bits of text. However, the two AI solutions are also different in several ways. Today, you’ll find out how Notion AI and ChatGPT compare with each other in numerous different aspects.
+
+## 1\. Availability
+
+ To use[Notion AI](https://www.notion.so/product/ai) , you must first sign up for a Notion account. You can use the feature with a free plan, but you must purchase Notion AI as an add-on. For users with a free membership, Notion AI costs $10 per month.
+
+ When buying Notion AI as a premium subscriber, you’ll pay $10 per month if you pay monthly for your normal paid Notion plan. If you have an annual subscription, Notion AI will cost $8 per month instead.
+
+ You can use[ChatGPT](https://chat.openai.com/) ’s basic features for free, and you can type numerous responses into the app. On top of that, you can get ChatGPT Plus—which costs $20 per month. ChatGPT Plus offers access during periods when lots of other people are using the platform, along with other useful features.
+
+## 2\. Drafting Ideas
+
+ You’ll find many[online AI tools for content creation](https://www.makeuseof.com/best-online-ai-tools-content-creation/) , so how do Notion AI and ChatGPT compare in this respect? Notion AI has several tools to help you draft ideas for articles, videos, podcasts, and more.
+
+ If you go to the Draft With AI section, for example, you’ll find an option called**Brainstorm ideas...** . When typing the subject you want to come up with topics for, you’ll receive a list of potential options.
+
+![Notion AI Brainstorm Idea Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-brainstorm-idea.jpg)
+
+ As you can see from the example below, we’ve asked Notion AI to brainstorm ideas related to sports.
+
+![Notion AI Sport Ideas Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-sport-ideas.jpg)
+
+ Notion AI also lets you draft social media posts, press releases, blog posts, and more.
+
+ When using ChatGPT, you can also generate ideas for your projects. After signing in to your account, you can ask the bot to come up with a list of different things that you can then research further.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
+## 3\. Creating Summaries of Existing Pages
+
+![Blog Topics ChatGPT Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/blog-topics-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
+[You can do several useful things in Notion](https://www.makeuseof.com/useful-things-to-do-notion/) , such as making pages that enable you to organize all of your projects better. As you use the app more frequently, keeping your notes together will become more important— and you’ll also want to make what you’ve written easy for others to understand. Notion AI can help you in this respect.
+
+ Notion AI quickly summarizes what your existing pages are about in a short paragraph; all you have to do is select the**Summarize** tool. It’s worth noting that this feature still felt a little rough around the edges when using it, so you may need to be more descriptive to ensure that you have a better summary.
+
+![Notion AI Page Summary Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-page-summary.jpg)
+
+ When using ChatGPT, you can ask the tool to provide summaries on different topics. If you’ve created a conversation, you can get it to provide an overview by typing**“summarize this conversation so far”** .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+## 4\. Finding Answers to Questions
+
+ If you have broader questions that require answering, ChatGPT is a better option than Notion AI. You can ask ChatGPT for answers to numerous questions, such as why people enjoy or dislike visiting a certain place. In another example below, we’ve used ChatGPT to ask where in the world people speak the German language.
+
+![Question Asked in ChatGPT Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/question-asked-in-chatgpt.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ You can also use ChatGPT to find out which movements are most frequently used in certain exercise regimens, along with things to do on your travels and more. However, you should double-check the accuracy of everything you see; as ChatGPT mentions, the feature sometimes has inaccuracies.
+
+ When using Notion AI, you can ask the tool to explain certain parts of the text on your pages. But in terms of finding answers to random questions you may have, it’s not really designed for that.
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Translation
+
+ You can[use Notion to help with your language learning](https://www.makeuseof.com/use-notion-learn-language/) in various ways. For example, you can list your long-term goals and keep track of the resources you primarily use for your lessons. With Notion AI, you can also translate your pages into a selection of different languages—including Dutch, Korean, and Italian.
+
+![Translate Notion AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/translate-notion-ai.jpg)
+
+ With ChatGPT, you also have the option to translate different things. You can ask the tool how you can say various words and phrases in other languages, and it’s also possible to translate your entire conversation. To do this, type**“translate this entire conversation into \[language\]”** at the bottom of your screen.
+
+![ChatGPT Page Translation Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-page-translation.jpg)
+
+## 6\. Stability
+
+ When choosing any AI tool, you want to ensure that you can rely on it whenever you need the service. And when it comes to stability, Notion AI and ChatGPT slightly differ.
+
+ Notion AI is pretty much available whenever you need it, and you can use it on various pages within your workspace. ChatGPT had a lot of teething problems in the beginning—but since then, the tool has seemingly become more stable when generating answers.
+
+ One thing you should keep in mind is that ChatGPT can often experience periods of full capacity. While you can upgrade to ChatGPT Plus to avoid this problem, you may not have round-the-clock access with a free plan.
+
+## 7\. Generating To-Do Lists
+
+ Creating to-do lists isn’t the most exciting task, but having one is a good idea if you want to stay on track during your day. Notion lets you create to-do lists from scratch, but you may also be able to make action items if you’ve already got items on your page.
+
+[Notion AI](https://www.makeuseof.com/what-is-notion-ai-improve-productivity/) has a feature called**Find action items** ; once you select this, the tool will generate a list of things that it perceives as necessary to-dos. After seeing the initial list of options, you can ask Notion AI to expand it if needed.
+
+![Notion Create To-Do List AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-create-to-do-list-ai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ You can also ask ChatGPT to create to-do lists, but you’ll have to provide it with enough context to make your list personalized. If you’ve already got information written somewhere, Notion AI is probably a better option for tasks of this nature.
+
+## Notion AI and ChatGPT: Two Different Forms of Generative AI
+
+ Notion AI and ChatGPT offer various generative AI features, but they differ in terms of strengths and weaknesses. If you want to create summaries of things you’ve already listed or make to-do lists to organize your day better, Notion AI is a better choice.
+
+ On the flip side, ChatGPT excels in the research side of things. While Notion AI lets you generate ideas and draft documents, ChatGPT goes into more depth to provide information on different topics and answers to questions you may have.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-deciphering-complete-fbm-call-transcripts-guide/"><u>[New] Deciphering Complete FBM Call Transcripts Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elevate-your-engagement-select-8-social-apps-for-facebook-fame/"><u>[New] Elevate Your Engagement  Select 8 Social Apps for Facebook Fame</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-comprehensive-exploration-of-polarrs-advanced-image-tools/"><u>[Updated] In 2024, Comprehensive Exploration of Polarr's Advanced Image Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazon-fire-tv-cube-unboxed-the-ultimate-guide-to-your-newest-super-fast-streamer/"><u>Amazon Fire TV Cube Unboxed: The Ultimate Guide to Your Newest Super-Fast Streamer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-how-does-gemini-advanced-stack-up-against-chnagpt-plus/"><u>Chatbot Face-Off: How Does Gemini Advanced Stack Up Against Chnagpt Plus?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fix-for-malfunctioning-beyond-the-wire-headset-microphones/"><u>Comprehensive Fix for Malfunctioning Beyond The Wire Headset Microphones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-your-own-anthology-with-ai-assistance-the-ultimate-guide-to-writing-poetry-with-chatgpt/"><u>Creating Your Own Anthology with AI Assistance: The Ultimate Guide to Writing Poetry with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-prime-chatgpt-dialogue-initiators-on-github/"><u>Discover the Ultimate List of Prime ChatGPT Dialogue Initiators on GitHub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-realm-of-predictive-ai-mechanisms-and-processes-unveiled/"><u>Exploring the Realm of Predictive AI: Mechanisms and Processes Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/for-beginners-top-8-point-and-shoot-and-35mm-cameras-for-2024/"><u>For Beginners  Top 8 Point-and-Shoot and 35Mm Cameras for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-concept-to-reality-how-chatgpt-is-revolutionizing-various-fields-in-7-striking-ways/"><u>From Concept to Reality: How ChatGPT Is Revolutionizing Various Fields in 7 Striking Ways</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-redmi-a2plus-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi Redmi A2+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-most-reliable-iphones-podcast-services/"><u>In 2024, Most Reliable iPhones Podcast Services</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-navigating-through-collective-media-on-messenger/"><u>In 2024, Navigating Through Collective Media on Messenger</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-the-superior-cloud-storage-hub/"><u>In 2024, Selecting the Superior Cloud Storage Hub</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-premier-5-ios-photo-background-swap-apps/"><u>In 2024, The Premier 5 iOS Photo Background Swap Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-bot-comparison-standardized-creative-challenge/"><u>Innovative Bot Comparison: Standardized Creative Challenge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intelligent-assistants-meet-timekeeping-6-reasons-chatgpt-will-change-the-way-you-use-your-smartwatch/"><u>Intelligent Assistants Meet Timekeeping: 6 Reasons ChatGPT Will Change the Way You Use Your Smartwatch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-investing-in-chatgpt-plus-a-smart-move/"><u>Is Investing in ChatGPT Plus a Smart Move?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-productivity-understanding-and-utilizing-chatgpt-copilots-potential/"><u>Maximizing Productivity: Understanding and Utilizing ChatGPT Copilot's Potential</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-broken-video-formats-expertise-for-macos/"><u>Mending Broken Video Formats - Expertise for macOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-stressful-times-through-conversational-ai-tips-with-chatgpt/"><u>Navigating Stressful Times Through Conversational AI - Tips with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-chatgpt-an-exploration-of-capabilities-within-generative-ai-systems/"><u>Navigating the World of ChatGPT – An Exploration of Capabilities Within Generative AI Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-mundane-hr-tasks-via-ai-guidance/"><u>Optimizing Mundane HR Tasks via AI Guidance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pseudo-ai-plugin-purloins-facebook-details/"><u>Pseudo-AI Plugin: Purloins FACEBOOK Details</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-to-troubleshoot-and-repair-fortnite-logon-glitches-easily/"><u>Quick Guide to Troubleshoot & Repair Fortnite Logon Glitches Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-warzone-cant-locate-matches-a-comprehensive-guide-for-pc-players/"><u>Solving 'Warzone Can't Locate Matches': A Comprehensive Guide for PC Players</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-solutions-preserving-your-chatgpt-interactions/"><u>Step-by-Step Solutions: Preserving Your ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-eightfold-path-to-enhanced-content-with-artificial-intelligence-chatbots/"><u>The Eightfold Path to Enhanced Content with Artificial Intelligence Chatbots</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-insiders-look-at-the-most-effective-instagram-tags-for-growth-for-2024/"><u>The Insider's Look at the Most Effective Instagram Tags for Growth for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-crafting-professional-presentations-via-chatgpt/"><u>The Ultimate Tutorial: Crafting Professional Presentations via ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722845817114-the-user-friendly-way-to-hide-subtitles-during-an-amazon-video-binge-session/"><u>The User-Friendly Way to Hide Subtitles During an Amazon Video Binge Session</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-xiaomi-redmi-12-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Xiaomi Redmi 12 Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/travel-without-expenses-identify-your-ultimate-trips-with-these-7-free-ai-apps/"><u>Travel Without Expenses – Identify Your Ultimate Trips with These 7 Free AI Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/twitch-time-reversal-17-methods-to-master-your-live-stream/"><u>Twitch Time Reversal  17 Methods to Master Your Live Stream</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-sony-xperia-1-v-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Sony Xperia 1 V FRP Bypass</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-ai-oversight-navigating-the-future-of-artific/"><u>Understanding AI Oversight: Navigating the Future of Artific</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-bert-nlp-model-key-features-and-distinctions-from-gpt/"><u>Understanding the BERT NLP Model: Key Features and Distinctions From GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-potential-chatgpt-and-academic-work/"><u>Unleashing Potential: ChatGPT & Academic Work</u></a></li>
+</ul></div>

@@ -1,0 +1,103 @@
+---
+title: "Decoding Ransomware: Securing Your Mobile at $50 - Plus Insights From the ChatGPT-Powered Podcast!"
+date: 2024-08-20T12:10:14.284Z
+updated: 2024-08-21T12:10:14.284Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Decoding Ransomware: Securing Your Mobile at $50 - Plus Insights From the ChatGPT-Powered Podcast!"
+excerpt: "This Article Describes Decoding Ransomware: Securing Your Mobile at $50 - Plus Insights From the ChatGPT-Powered Podcast!"
+thumbnail: https://thmb.techidaily.com/0606343d17aebae3a6ccf71123da10011994b6e06ecf6d9900f777b0d8e36c8b.jpg
+---
+
+## Unlocking the Secrets: Mobile Devices at $50 & Free Ransomware Removal Tips + The Power of ChatGPT in Our Podcast
+
+ Our weekly tech podcast for technophobes brings you the latest tech news that will affect you and some tips and tricks to help you get better results from your electronics.
+
+ For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
+
+ You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+## Shownotes
+
+This week, we chat about the following tech news that matters:
+
+* [ChatGPT banned in Italy over privacy concerns](https://www.bbc.co.uk/news/technology-65139406)
+* [Twitter's blue ticks disappear as Musk attacks NY Times](https://www.bbc.co.uk/news/technology-65156216)
+* [Mobile phone inventor made first call 50 years ago](https://www.bbc.co.uk/news/technology-65112048)  
+  * [The Mother of All Demos](https://www.youtube.com/watch?v=B6rKUf9DWRI)
+
+We've got these explainers:
+
+* [Can All Ransomware Be Decrypted?](https://www.makeuseof.com/can-all-ransomware-be-decrypted/)
+* [How to Fix Games That Won't Work in Windows](https://www.makeuseof.com/fix-games-not-working-windows/)
+* [Reasons to Use Office Online/Microsoft 365](https://www.makeuseof.com/tag/dont-pay-word-5-reasons-use-office-online/)
+
+We finish the show with the following recommendations:
+
+* [RoomGPT](http://https://www.roomgpt.io/)
+* [Booom AI Quiz](https://booom.ai/)
+* [HelloTalk](https://www.hellotalk.com/?lang=en)
+
+ Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-preventing-and-addressing-live-pause-issues-fb/"><u>[Updated] In 2024, Preventing and Addressing Live Pause Issues (FB)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-enriched-minecraft-experience-via-ram-expansion/"><u>2024 Approved  Enriched Minecraft Experience via RAM Expansion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-chatbot-shortcomings-in-producing-valid-windows-11-product-keys-explained/"><u>AI Chatbot Shortcomings in Producing Valid Windows 11 Product Keys Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/battle-of-the-bots-comparing-claude-with-chatgpt-for-routine-tasks/"><u>Battle of the Bots: Comparing Claude with ChatGPT for Routine Tasks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-replacement-options-for-chatgpt-unveiled/"><u>Best Replacement Options for ChatGPT Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/clash-of-the-titans-exploring-how-my-ai-from-snapchat-stacks-against-microsofts-bing-chat-on-skype-top-variances-highlighted/"><u>Clash of the Titans: Exploring How My AI From Snapchat Stacks Against Microsoft's Bing Chat on Skype - Top Variances Highlighted</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-lenovo-thinkpad-x12-hybrid-laptoptablet-outstanding-2-in-one-capability-and-top-notch-keys/"><u>Comprehensive Review of Lenovo ThinkPad X12 Hybrid Laptop/Tablet – Outstanding 2-In-One Capability & Top-Notch Keys</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/converse-with-confidence-chatgpt-for-android/"><u>Converse with Confidence: ChatGPT for Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-eu-ai-act-and-chatgpts-future/"><u>Decoding the EU AI Act & ChatGPT's Future</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-writers-select-ai-applications-for-efficiency/"><u>Empowering Writers: Select AI Applications for Efficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-web-based-applications-to-boost-your-prompt-crafting-abilities/"><u>Essential Web-Based Applications to Boost Your Prompt Crafting Abilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-the-value-of-chatgpt-plus-an-in-depth-analysis/"><u>Evaluating the Value of ChatGPT Plus: An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-these-5-ai-powered-free-resources-to-enhance-email-communication-and-quickly-organize-your-inbox-with-chatgpt-assistance/"><u>Explore These 5 AI-Powered, Free Resources to Enhance Email Communication and Quickly Organize Your Inbox with ChatGPT Assistance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y100a-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo Y100A Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-edgeplus-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Edge+ (2023)?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-avoiding-common-drone-purchase-mistakes-a-checklist/"><u>In 2024, Avoiding Common Drone Purchase Mistakes  A Checklist</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-broadcast-friendly-techniques-for-fb-live-events/"><u>In 2024, Broadcast-Friendly Techniques for FB Live Events</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-use-of-luts-in-obs-studio-for-professional-results/"><u>In 2024, Masterful Use of LUTs in OBS Studio for Professional Results</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-investment-examining-the-pros-of-chatgpt-premium/"><u>Inside Investment: Examining the Pros of ChatGPT Premium</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maintaining-confidentiality-in-chatgpt-interactions-without-erasing-them/"><u>Maintaining Confidentiality in ChatGPT Interactions Without Erasing Them</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-3-dimensions-chatgpt-wolfram-alpha-interaction/"><u>Navigating 3 Dimensions: ChatGPT-Wolfram Alpha Interaction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-new-horizons-in-online-search-through-microsoft-bings-advanced-ai-integration/"><u>Navigating New Horizons in Online Search Through Microsoft Bing’s Advanced AI Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-nuance-the-human-advantage-over-bots/"><u>Navigating Nuance - The Human Advantage over Bots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-challenges-ensuring-your-chatgpt-interactions-are-properly-stored-and-remembered/"><u>Overcoming Challenges: Ensuring Your ChatGPT Interactions Are Properly Stored and Remembered</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/personalize-fitness-journeys-with-top-7-gpt-utilities/"><u>Personalize Fitness Journeys with Top 7 GPT Utilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplifying-the-turing-test-can-it-ever-be-overtaken/"><u>Simplifying the Turing Test: Can It Ever Be Overtaken?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/spotting-the-copiers-openais-detective-for-gpt-outputs/"><u>Spotting the Copiers: OpenAI's Detective for GPT Outputs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-inside-microsoft-copilots-world-of-ai-image-generation-tips-and-tricks-revealed/"><u>Step Inside Microsoft Copilot's World of AI Image Generation: Tips and Tricks Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-inner-bard-creating-a-book-of-poems-via-chatgpt-made-easy/"><u>Unleash Your Inner Bard: Creating a Book of Poems via ChatGPT Made Easy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-ai-for-families-the-ultimate-guide-to-chatgpt/"><u>Unlocking the Potential of AI for Families: The Ultimate Guide to ChatGPT</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-get-ready-for-the-movies-top-movie-trailer-apps-for-ios/"><u>Updated In 2024, Get Ready for the Movies Top Movie Trailer Apps for iOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-ai-powered-content-detection-systems-fail-addressing-the-serious-issue/"><u>Why AI-Powered Content Detection Systems Fail: Addressing the Serious Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-the-human-brain-triumphs-over-machine-learning/"><u>Why the Human Brain Triumphs Over Machine Learning</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-you-should-think-twice-the-7-pitfalls-of-generative-ai-for-messaging/"><u>Why You Should Think Twice: The 7 Pitfalls of Generative AI for Messaging</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->

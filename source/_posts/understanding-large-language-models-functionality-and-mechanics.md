@@ -1,0 +1,238 @@
+---
+title: "Understanding Large Language Models: Functionality & Mechanics"
+date: 2024-08-20T11:59:19.846Z
+updated: 2024-08-21T11:59:19.846Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Understanding Large Language Models: Functionality & Mechanics"
+excerpt: "This Article Describes Understanding Large Language Models: Functionality & Mechanics"
+thumbnail: https://thmb.techidaily.com/c1db4ec27c5136dcd8d29377fc669f9488ff5fcb91d758bff8fe15d9459484d0.jpg
+---
+
+## Comparing Top Language Models: Bard, ChatGPT, and Offline Alpaca – The Ultimate Showdown
+
+ Large language models (LLMs) come in all shapes and sizes, and will assist you in any way you see fit. But which is best? We put the dominant AIs from Alphabet, OpenAI, and Meta to the test.
+
+## What You Need to Know About AI Chatbots
+
+![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
+
+ Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
+
+ AGI exhibits intelligence similar to human cognitive capabilities, and[the Turing Test](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/) —a test of a machine's ability to exhibit intelligent behavior indistinguishable from that of a human—remained almost unchallenged in the seven decades since it was first laid out.
+
+ The recent convergence of extremely large-scale computing, vast quantities of money, and the astounding volume of information freely available on the open internet allowed tech giants to train models which can predict the next word section—or token—in a sequence of tokens.
+
+ At the time of writing, both[Google's Bard](https://bard.google.com) and[OpenAI's ChatGPT](https://chat.openai.com/) are available for you to use and test through their web interfaces.
+
+ Meta's language model, LLaMa, is not available on the web, but you can easily[download and run LLaMa on your own hardware](https://www.makeuseof.com/raspberry-pi-large-language-model/) and use it through a command line or[run Dalai on your own machine](https://www.makeuseof.com/raspberry-pi-large-language-model/) —one of several apps with a user-friendly interface.
+
+ For the purposes of the test, we'll be running Stanford University's Alpaca 7B model—an adaptation of LLaMa—and pitching it against Bard and ChatGPT.
+
+ The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
+
+## Which Is the Easiest Large Language Model to Use?
+
+ Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
+
+ However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
+
+## Which Is the Most Private Large Language Model?
+
+![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+ Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
+
+ By default, Google collects your conversations and your general location based on your IP address, your feedback, and usage information. This information is stored in your Google account for up to 18 months. Although you can pause saving your Bard activity, you should be aware that "to help with quality and improve our products, human reviewers read, annotate, and process your Bard conversations."
+
+ Use of Bard is also subject to the standard[Google Privacy Policy](https://policies.google.com/privacy) .
+
+ OpenAI's Privacy policy is broadly similar and collects IP address and usage data. In contrast with Google's time-limited retention, OpenAI will "retain your Personal Information for only as long as we need in order to provide our Service to you, or for other legitimate business purposes such as resolving disputes, safety and security reasons, or complying with our legal obligations."
+
+ In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+## Which LLM Has the Best General Knowledge?
+
+![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
+
+ In order to test which LLM has the best general knowledge, we asked three questions.
+
+ The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
+
+ ChatGPT confidently claimed that "There is no national flag that has five sides. National flags are typically rectangular or square in shape, characterized by their distinct colors, patterns, and symbols".
+
+ Our local model came close, stating that "The Indian National Flag has five sides and was designed in 1916 to represent India's independence movement." While this flag did exist and did have five sides, it was the flag of the Indian Home Rule Movement—not a national flag.
+
+ None of our models could respond that the correct term for a pea-shaped object is "pisiform," with ChatGPT going so far as to suggest that peas have a "three-dimensional geometric shape that is perfectly round and symmetrical."
+
+ All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Which LLM Is Good for Technical Instructions?
+
+![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
+
+ Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
+
+ Our Dalai implementation correctly identified the plug as "English-style," then veered off-course and instead gave instructions for the older round-pin BS 546 plug together with older wiring colors.
+
+ ChatGPT was slightly more helpful. It correctly labeled the wiring colors and gave a materials list and a set of eight instructions. ChatGPT also suggested putting the brown wire into the terminal labeled "L," the blue wire into the "N" terminal, and the yellow wire into "E." This would be correct if BS1363 terminals were labeled, but they aren't.
+
+ Bard identified the correct colors for the wires and instructed us to connect them to Live, Neutral, and Earth terminals. It gave no instructions on how to identify these.
+
+ In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+## Which LLM Is Good for Writing Code?
+
+![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
+
+ While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
+
+## Which LLM Tells the Best Jokes?
+
+![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
+
+ Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
+
+ Fortunately for comedians everywhere and the human race at large, none of the models were capable of generating an original joke.
+
+ Bard rolled out the classic, "Why did the scarecrow win an award? He was outstanding in his field".
+
+ Both our local implementation and ChatGPT offered the groan-worthy, "Why don't scientists trust atoms? Because they make up everything!"
+
+ A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
+
+You read it here first, folks.
+
+## No Chatbot Is Perfect
+
+ We found that while all three large language models have their advantages and disadvantages, none of them can replace the real expertise of a human being with specialized knowledge.
+
+ While both Bard and ChatGPT gave better responses to our coding question and are very easy to use, running a large language model locally means you don't need to be concerned about privacy or censorship.
+
+ If you'd like to create great AI art without worrying that somebody's looking over your shoulder, it's easy to run an art AI model on your local machine, too.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-creating-professional-videos-with-adobe-presenter/"><u>[New] 2024 Approved  Creating Professional Videos with Adobe Presenter</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-step-by-step-guide-to-aplus-tiktok-videos-with-designed-templates/"><u>[New] 2024 Approved  Step-by-Step Guide to A+ TikTok Videos with Designed Templates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-50-greatest-virtual-scenes-for-online-meetings/"><u>[New] 50 Greatest Virtual Scenes for Online Meetings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-host-a-webinar-on-youtube-for-free-for-2024/"><u>[New] How to Host a Webinar on YouTube for Free for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-smooth-blur-magic-for-instagrams-story-moments/"><u>[New] In 2024, Smooth Blur Magic for Instagram's Story Moments</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-facebook-favorites-perfecting-square-video-crafting/"><u>[New] Maximizing Facebook Favorites  Perfecting Square Video Crafting</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-video-marketing-excellence-on-instagram-crafting-a-winning-strategy/"><u>[New] Video Marketing Excellence on Instagram  Crafting a Winning Strategy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-step-by-step-shortcut-for-easy-mac-screen-recording/"><u>[Updated] 2024 Approved  Step-by-Step Shortcut for Easy Mac Screen Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-photo-perfection-implement-these-10-composition-tenets/"><u>[Updated] IPhone Photo Perfection  Implement These 10 Composition Tenets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamline-your-presentation-process-webcam-recording-tips-for-2024/"><u>[Updated] Streamline Your Presentation Process  Webcam Recording Tips for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-key-role-of-image-quality-in-generating-clicks-on-youtube-videos/"><u>[Updated] The Key Role of Image Quality in Generating Clicks on YouTube Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-from-mundane-to-magical-a-guide-to-chromatic-brilliance/"><u>2024 Approved  From Mundane to Magical  A Guide to Chromatic Brilliance</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-premium-downloader-suite-for-vimeo-content/"><u>2024 Approved  Premium Downloader Suite for Vimeo Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-prime-tactics-ensuring-quality-in-live-sport-broadcasts/"><u>2024 Approved  Prime Tactics  Ensuring Quality in Live Sport Broadcasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-quick-advice-preserving-gotomeetings-with-minimal-fuss/"><u>2024 Approved  Quick Advice  Preserving GoToMeetings with Minimal Fuss</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-reviving-memories-with-instagram-reposts/"><u>2024 Approved  Reviving Memories with Instagram Reposts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-art-of-gif-animation-explained/"><u>2024 Approved  The Art of GIF Animation Explained</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-ultimate-checklist-for-video-quality-boost-version-22/"><u>2024 Approved  The Ultimate Checklist for Video Quality Boost  Version 2.2</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/bi-panel-screen-transcription/"><u>Bi-Panel Screen Transcription</u></a></li>
+<li><a href="https://fox-links.techidaily.com/birds-bamboo-boogie-for-2024/"><u>Birds Bamboo Boogie for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-evaluating-the-strengths-of-gemini-pro-against-chatgpt-plus/"><u>Chatbot Face-Off: Evaluating the Strengths of Gemini Pro Against ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-goes-mobile-access-ai-conversations-anytime-anywhere-via-ios-app/"><u>ChatGPT Goes Mobile: Access AI Conversations Anytime, Anywhere via iOS App</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comparative-analysis-intel-core-258v-vs-ryzen-phoenix-processors-in-latest-benchmark-scores/"><u>Comparative Analysis: Intel Core 258V vs Ryzen Phoenix Processors in Latest Benchmark Scores</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-giants-can-googles-gemini-artificial-intelligence-outshine-chatgpt-in-functionality/"><u>Comparing Giants: Can Google's Gemini Artificial Intelligence Outshine ChatGPT in Functionality?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creative-community-takes-a-stand-the-collective-lawsuit-of-prominent-figures-including-sarah-silverman-against-tech-giants/"><u>Creative Community Takes a Stand: The Collective Lawsuit of Prominent Figures, Including Sarah Silverman, Against Tech Giants</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-code-helpers-top-7-alternatives-to-chatgpt/"><u>Cutting-Edge Code Helpers: Top 7 Alternatives to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-and-rectifying-6-predominant-chatgpt-errors/"><u>Decoding and Rectifying 6 Predominant ChatGPT Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/defending-chatbots-against-model-reconstruction/"><u>Defending Chatbots Against Model Reconstruction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dialogues-with-bots-mimicking-human-interaction/"><u>Dialogues with Bots: Mimicking Human Interaction</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-poco-m6-pro-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Poco M6 Pro 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-pc-with-zero-costs-chatgpt-clone-available-now-effortlessly-run-on-windows/"><u>Enhance Your PC with Zero Costs: ChatGPT Clone Available Now - Effortlessly Run on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-8-chatgpt-inquiries-for-elevating-task-completion/"><u>Essential 8 ChatGPT Inquiries for Elevating Task Completion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-ai-engineers-which-is-more-capable-chatgpt-or-gemini-the-coding-duel-explained/"><u>Evaluating AI Engineers: Which Is More Capable, ChatGPT or Gemini? The Coding Duel Explained</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-techniques-in-a-pack-navigating-stellars-diy-and-toolkit-resources/"><u>Expert Techniques in a Pack: Navigating Stellar's DIY and Toolkit Resources</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-bards-ai-evolution-7-innovative-traits-announced/"><u>Exploring Bard's AI Evolution: 7 Innovative Traits Announced</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-secrets-behind-machine-learnings-ai-black-boxes/"><u>Exploring the Secrets Behind Machine Learning's AI Black Boxes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-and-next-gen-chatbots-unlocking-future-possibilities-in-human-ai-interaction/"><u>Generative AI & Next-Gen Chatbots: Unlocking Future Possibilities in Human-AI Interaction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-enroll-and-utilize-microsofts-ai-enhanced-bing-search-platform/"><u>Guide: Enroll and Utilize Microsoft's AI-Enhanced Bing Search Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guiding-kids-safely-through-chatgpt-essential-tips-for-parents-top-5/"><u>Guiding Kids Safely Through ChatGPT: Essential Tips for Parents (Top 5)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-gpt-4all-work-understanding-the-revolutionary-tool/"><u>How Does GPT-4ALL Work? Understanding the Revolutionary Tool</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-window-11s-clock-watchdog-overflow-and-stop-system-crashes/"><u>How to Resolve Window 11'S Clock Watchdog Overflow and Stop System Crashes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-a24-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy A24 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-close-up-magic-avoiding-distance-blur-on-videoleap/"><u>In 2024, Close-Up Magic  Avoiding Distance Blur on Videoleap</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-navigating-the-ins-and-outs-of-youtube-premium/"><u>In 2024, Navigating the Ins and Outs of YouTube Premium</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-secrets-of-swelling-youtube-supporters/"><u>In 2024, Unlocking the Secrets of Swelling YouTube Supporters</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-ai-image-creation-utilizing-chatgpt-effectively/"><u>Mastering AI Image Creation: Utilizing ChatGPT Effectively</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-international-gpt-conversations-confidently/"><u>Navigate International GPT Conversations Confidently</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-ai-governance-identifying-key-stakeholders-in-creating-robust-policies/"><u>Navigating AI Governance: Identifying Key Stakeholders in Creating Robust Policies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/parental-insights-into-chatgpt-and-how-generative-ai-works/"><u>Parental Insights Into ChatGPT & How Generative AI Works</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/preserving-privacy-saving-chatgpt-dialogues-secretly/"><u>Preserving Privacy: Saving ChatGPT Dialogues Secretly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-fix-guide-curing-chatgpt-real-time-errors/"><u>Quick-Fix Guide: Curing ChatGPT Real-Time Errors</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-huawei-nova-y91-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Huawei Nova Y91</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-restore-your-iphones-email-functionality/"><u>Step-by-Step Guide to Restore Your iPhone's Email Functionality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-mastery-your-phone-as-a-personalized-vr-headset/"><u>Step-by-Step Mastery  Your Phone as a Personalized VR Headset</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategic-content-creation-four-slip-ups-to-skip-in-chatgpt/"><u>Strategic Content Creation: Four Slip-Ups to Skip in ChatGPT</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/technology-showcase-highlights-of-the-5-best-slow-cams-for-2024/"><u>Technology Showcase  Highlights of the 5 Best Slow Cams for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-clash-over-ai-control-sarah-silverman-leads-group-of-creatives-in-lawsuit-again-openai-and-meta-under-scrutiny/"><u>The Clash Over AI Control: Sarah Silverman Leads Group of Creatives in Lawsuit Again 🤖 - OpenAI & Meta Under Scrutiny</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-full-potential-of-chatgpt-usage-understanding-its-token-threshold/"><u>The Full Potential of ChatGPT Usage – Understanding Its Token Threshold</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-leading-ai-powered-prompt-creators-for-enhanced-ai-interaction/"><u>Top 5 Leading AI-Powered Prompt Creators for Enhanced AI Interaction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-smartphone-ai-apps-android-and-ios-compatibility/"><u>Top 8 Smartphone AI Apps: Android & iOS Compatibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-household-tasks-with-ai-assistance-leverage-chatgpt-for-enhanced-productivity/"><u>Transform Household Tasks with AI Assistance: Leverage ChatGPT for Enhanced Productivity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-workflow-discover-7-effective-ways-to-utilize-chatgpt-for-superior-productivity-gains/"><u>Transform Your Workflow: Discover 7 Effective Ways to Utilize ChatGPT for Superior Productivity Gains</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-youtube-content-with-these-chatgpt-powered-script-tips/"><u>Transform Your YouTube Content With These ChatGPT-Powered Script Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-on-device-ai-unveiling-its-operations-and-core-principles/"><u>Understanding On-Device AI: Unveiling Its Operations & Core Principles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/uniting-chatgpt-and-iphones-siri-a-guide/"><u>Uniting ChatGPT & iPhone's Siri: A Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unpacking-the-pace-problem-why-is-chatgpt-4-not-as-fast-as-its-predecessor-chatgpt-3e/"><u>Unpacking the Pace Problem: Why Is ChatGPT-4 Not As Fast As Its Predecessor, ChatGPT-3.e.</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-learn-to-edit-mp4-files-on-mac-and-windows-a-beginners-guide/"><u>Updated 2024 Approved Learn to Edit MP4 Files on Mac and Windows A Beginners Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/using-chatgpt-as-a-tool-to-allepinefections-of-isolation/"><u>Using ChatGPT as a Tool to Allepinefections of Isolation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/winprinter-setup-epson-et-2650-windows-installation/"><u>WinPrinter Setup: Epson ET-2650 Windows Installation</u></a></li>
+</ul></div>

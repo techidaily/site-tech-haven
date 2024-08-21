@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Transform VitalSource VBK Books Into User-Friendly PDF Documents
-date: 2024-08-19 13:20:26
-updated: 2024-08-21 12:44:32
+date: 2024-08-20T11:53:34.979Z
+updated: 2024-08-21T11:53:34.979Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf1634f1f32732c80e0c8c7aa.jpg
@@ -81,10 +81,16 @@ Open the VitalSource Bookshelf and download the book you want to convert. Open t
 
 ![print vbk to pdf](http://www.epubor.com/images/uppic/windows-print-VBK.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 The print preview window will pop up. You just have to click on "print" to go to the next step. 
 
 ![print options on windows](http://www.epubor.com/images/uppic/print-options.png)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 Now you will see the print settings window. Choose "doPDF 9" as the virtual printer and select all pages. Then click on "Print". 
 
 ![select printer for vitalsource book](http://www.epubor.com/images/uppic/select-printer.png)
@@ -93,8 +99,14 @@ After you have clicked on "Print", the doPDF will save this file as PDF. You can
 
 ![print vbk to pdf on windows](http://www.epubor.com/images/uppic/print-vbk-to-pdf-on-windows.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 As there may be print limitation, you have to print the pages one by one. After all pages have been printed, you can use Epubor PDF & Merger & Splitter to merge all pdf files to one book. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Convert VBK to PDF with Epubor VitalSource Downloader
 
 The above mentioned methods are very complex and time-consuming, and you need to install so many software to achieve your goal. It will take about your whole days to download a book with one thousand pages. That's why I want to introduce Epubor new software --[Epubor VitalSource Downloader](https://tools.techidaily.com/epubor/products/)to you. With this software, you can download the VitalSource books to pdf with one click.
@@ -113,6 +125,9 @@ Then run VitalSource Downloader and you will see a window as below.
 
 ![Vitalsource downloader login](http://www.epubor.com/images/uppic/vitalsource-downloader-login.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You just need to fill in your VitalSource account information to sign in your VitalSource Bookshelf. See? Very clean interface, right? 
 
 **Tips:** 
@@ -125,6 +140,9 @@ You just need to fill in your VitalSource account information to sign in your Vi
 
 ![Vitalsource downloader login](https://www.epubor.com/images/uppic/vitalsource-downloader-interface.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 When you log in, you will see all books you purchased from VitalSource website. If you found that not all purchased books are displayed in this library, close the software and restart it again please.
 
 #### Step 3: Download VitalSource Bookself to PDF 
@@ -511,3 +529,57 @@ Leave a comment
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-broadcasting-on-demand-transferring-fb-videos-to-whatsapp-groups/"><u>[New] 2024 Approved  Broadcasting on Demand  Transferring FB Videos to WhatsApp Groups</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-sims-4-live-action-gaming-capture-essentials/"><u>[New] 2024 Approved  Sims 4 Live-Action Gaming Capture Essentials</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-mac-visual-snapshot-list-limit-156-chars-for-2024/"><u>[New] Best Mac Visual Snapshot List (Limit  156 Chars) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-blithe-clip-recorder-appraisal/"><u>[New] Blithe Clip Recorder Appraisal</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-comprehensive-guide-to-exceptional-screen-recording-on-the-go-with-mobizen/"><u>[Updated] 2024 Approved  Comprehensive Guide to Exceptional Screen Recording on the Go with Mobizen</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-secret-to-professional-video-calls-on-zoom-for-2024/"><u>[Updated] The Secret to Professional Video Calls on Zoom for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-the-art-of-media-imports-within-windows-10s-realm/"><u>2024 Approved  Mastering the Art of Media Imports Within Windows 10'S Realm</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ace-the-art-of-altering-and-amplifying-vhs-photos-on-computers/"><u>Ace the Art of Altering and Amplifying VHS Photos on Computers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-daily-efficiency-top-6-techniques-with-chatgpt/"><u>Boost Your Daily Efficiency: Top 6 Techniques with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-job-search-with-chatgpt-expert-tips-for-writing-an-impressive-resume/"><u>Boost Your Job Search with ChatGPT: Expert Tips for Writing an Impressive Resume</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-ai-assistants-like-chatgpt-guide-you-through-preparing-nutritious-recipes/"><u>Can AI Assistants Like ChatGPT Guide You Through Preparing Nutritious Recipes?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-your-next-adventure-how-to-craft-the-ultimate-dungeon-master-ai-assistant/"><u>ChatGPT and Your Next Adventure: How to Craft the Ultimate Dungeon Master AI Assistant</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chronicles-of-cognition-discovering-the-dawn-of-artificial-intelligence/"><u>Chronicles of Cognition: Discovering the Dawn of Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conquering-the-ordinary-installation-problems-of-auto-gpt-with-ease/"><u>Conquering the Ordinary Installation Problems of Auto-GPT with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decision-made-easy-mastering-choice-of-content-with-the-help-of-chatgpt-technology/"><u>Decision Made Easy: Mastering Choice of Content with the Help of ChatGPT Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-hugging-face-an-in-depth-guide-to-its-functions-and-uses/"><u>Demystifying Hugging Face: An In-Depth Guide to Its Functions and Uses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-creative-writing-the-best-4-ai-narrative-generators-on-the-market/"><u>Elevate Your Creative Writing: The Best 4 AI Narrative Generators on the Market</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-user-experience-by-leveraging-chatgpts-4-elements/"><u>Enhance User Experience by Leveraging ChatGPT's 4 Elements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enrollment-efficiency-registering-for-gpt-and-other-services-quickly/"><u>Enrollment Efficiency: Registering for GPT & Other Services Quickly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-logic-to-lore-the-8-key-ai-shifts/"><u>From Logic to Lore: The 8 Key AI Shifts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generate-eye-catching-graphics-with-these-8-innovative-dall-e-3-prompt-examples/"><u>Generate Eye-Catching Graphics with These 8 Innovative DALL-E 3 Prompt Examples</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guiding-kids-through-ai-dialogues-safely-the-top-5-advice/"><u>Guiding Kids Through AI Dialogues Safely: The Top 5 Advice</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-google-pixel-8-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Google Pixel 8 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Lava Blaze 2 5G Bootloader Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-and-handling-chatgpt-phishing-sites-safely/"><u>Identifying and Handling ChatGPT Phishing Sites Safely</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-beat-to-freedom-online-fb-music-downloads/"><u>In 2024, Beat to Freedom  Online FB Music Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-m1s-impact-on-video-editing-software-performance/"><u>In 2024, M1's Impact on Video Editing Software Performance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-narrow-your-focus-on-elite-hdr-camera-systems/"><u>In 2024, Narrow Your Focus on Elite HDR Camera Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insightful-ai-with-openais-shap-e-unveiling-the-power-of-explainability/"><u>Insightful AI with OpenAI's Shap-E: Unveiling the Power of Explainability</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-smart-agents-via-agentgpt/"><u>Integrating Smart Agents via AgentGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-vpn-use-possible-for-chatgpt-connections/"><u>Is VPN Use Possible for ChatGPT Connections?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/launchpad-to-success-as-a-prompt-system-designer/"><u>Launchpad to Success as a Prompt System Designer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-new-horizons-7-predicted-alterations-in-jobs-due-to-generative-ai-advancements/"><u>Navigating New Horizons: 7 Predicted Alterations in Jobs Due to Generative AI Advancements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-advanced-ai-insights-into-using-claude/"><u>Navigating the World of Advanced AI: Insights Into Using Claude</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-from-raw-audio-to-polished-masterpiece-editing-with-avidemux-2023-edition/"><u>New From Raw Audio to Polished Masterpiece Editing with Avidemux - 2023 Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-loneliness-with-the-help-of-chatgpt-innovation/"><u>Overcoming Loneliness with the Help of ChatGPT Innovation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/painting-programmatically-gpt-driven-visual-creation/"><u>Painting Programmatically: GPT-Driven Visual Creation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-motorola-moto-g34-5g-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Motorola Moto G34 5G.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/regularly-monitor-the-data-and-adjust-your-seo-strategies-accordingly-keeping-in-mind-seasonal-trends-or-events-related-to-shoe-fashion-trends-which-might-a29/"><u>Regularly Monitor the Data and Adjust Your SEO Strategies Accordingly, Keeping in Mind Seasonal Trends or Events Related to Shoe Fashion Trends Which Might Affect Search Behavior.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-easy-way-to-switch-dall-e-3-generated-webp-photos-to-jpgpng-format/"><u>The Easy Way to Switch DALL-E 3 Generated WebP Photos to JPG/PNG Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-question-of-data-protection-investigating-privacy-aspects-of-chatgpt/"><u>The Question of Data Protection: Investigating Privacy Aspects of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-hugging-face-in-machine-learning-explained/"><u>The Role of Hugging Face in Machine Learning - Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-worsening-landscape-of-security-flaws-in-generative-ai-unveiling-the-top-8-reasons/"><u>The Worsening Landscape of Security Flaws in Generative AI: Unveiling the Top 8 Reasons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-chrome-enhancers-leveraging-ai-for-efficiency-boosts/"><u>Top 8 Chrome Enhancers Leveraging AI for Efficiency Boosts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-development-six-creative-uses-of-the-chatgpt-language-interpreter/"><u>Transforming Development: Six Creative Uses of the ChatGPT Language Interpreter</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-potential-next-level-traits-for-gpt-5/"><u>Unleashing Potential: Next Level Traits for GPT-5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-full-potential-of-3d-printing-using-ai-powered-tools/"><u>Unlock the Full Potential of 3D Printing Using AI-Powered Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-the-secrets-finding-out-what-powershell-version-you-have-on-windows-11/"><u>Unveiling the Secrets: Finding Out What PowerShell Version You Have on Windows 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-background-noise-be-gone-mastering-audio-cleanup-in-final-cut-pro-x-for-2024/"><u>Updated Background Noise Be Gone Mastering Audio Cleanup in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-embrace-claude-mastering-ai-for-efficient-operations/"><u>Why Embrace Claude: Mastering AI for Efficient Operations</u></a></li>
+</ul></div>
