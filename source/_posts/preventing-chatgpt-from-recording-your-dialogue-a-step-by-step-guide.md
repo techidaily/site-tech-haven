@@ -1,0 +1,136 @@
+---
+title: "Preventing ChatGPT From Recording Your Dialogue: A Step-by-Step Guide"
+date: 2024-08-24T12:48:14.511Z
+updated: 2024-08-25T12:48:14.511Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Preventing ChatGPT From Recording Your Dialogue: A Step-by-Step Guide"
+excerpt: "This Article Describes Preventing ChatGPT From Recording Your Dialogue: A Step-by-Step Guide"
+thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123ec37a972f3b6c973af210c4.jpg
+---
+
+## ChatGPT and Windows Users Beware: Official Client Missing, Protect Yourself From Rogue Malware Programs
+
+ OpenAI's ChatGPT generative AI is being used for all manner of enterprising activities. But as with anything that rapidly gains popularity, it doesn't take long before criminals try and use it to their advantage.Enter the ChatGPT Windows desktop client, a supposed full desktop client for ChatGPT that runs on Windows 10 and Windows 11.However, as good as a desktop ChatGPT client sounds, you shouldn't trust any download links or adverts for such a tool because it doesn't currently exist.
+
+## ChatGPT Desktop Client Is Actually Trojan Malware
+
+ In February 2023, cybersecurity firm[Kaspersky reported](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022340/https://www.kaspersky.com/blog/chatgpt-stealer-win-client/47274/) that it had uncovered a malware campaign using ChatGPT as its lure, promising victims a free ChatGPT account with a $50 balance (to spend on[the premium version of ChatGPT](https://www.makeuseof.com/why-paid-chatgpt-professional-is-inevitable/) ) and the use of a new ChatGPT desktop client.
+
+ Unfortunately, it's all a falsehood. The campaign uses fake accounts mimicking OpenAI or ChatGPT spread across several different social networks, including Twitter and Telegram, advertising access to a new ChatGPT trial.
+
+ Once the user clicks the link, it transports them to a page that looks exactly like the official ChatGPT site, albeit with the addition of a**Download For Windows** button. As you can probably guess, when you click the download button, you don't receive a new trial version of a ChatGPT desktop client. Below you can see the real site, followed by the fake ChatGPT site.
+
+![chatgpt homepage march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-homepage-march-2023.png)
+
+![kaspersky malware chatgpt desktop client download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/kaspersky-malware-chatgpt-desktop-client-download-page.jpg)
+
+ Image Credit:[Kaspersky](https://www.kaspersky.com/blog/chatgpt-stealer-win-client/47274/)
+
+Close
+
+ Instead, you receive the Fobo Trojan, designed to steal user credentials for Facebook, Twitter, and other accounts, along with Google cookies and accounts, and "in particular, business accounts."
+
+> If this archive is unpacked and the executable file run, then, depending on the version of Windows, the user sees either a message saying installation failed for some reason, or no message at all — at which point the process seems to end.
+
+ But the lack of a message or the Windows warning that your installation failed is just indicating that the ChatGPT malware was successfully installed.
+
+ According to Kaspersky's research, the ChatGPT desktop client malware has been spotted across Asia, Africa, Europe, and America.
+
+## PSA: There Is No ChatGPT Desktop Client
+
+ Although the temptation of a new ChatGPT desktop client trial is alluring, no such product exists at the current time, nor has OpenAI given any signal that a full desktop client for ChatGPT is in the works.
+
+ For now, the only way to[access ChatGPT is through your browser](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) , be that on your computer or your smartphone.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+### 3 Ways to Avoid ChatGPT Scams
+
+1. First up, make sure you're using the official ChatGPT website, and double-check the actual URL before signing up, adding your credentials, and so on:[https://chat.openai.com/](https://chat.openai.com/) or[https://openai.com/blog/chatgpt](https://openai.com/blog/chatgpt) .
+2. Double-check any social media accounts against OpenAI's official accounts. For example, on Twitter,[OpenAI](https://twitter.com/OpenAI) is the only account you should trust for official ChatGPT product releases and launches.
+3. Make sure your antivirus software is up to date, and consider installing an additional[security tool like Malwarebytes Premium](https://www.makeuseof.com/tag/reasons-upgrade-malwarebytes-premium/) to mop up any other nasties.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Avoid Anything Claiming to Be a ChatGPT Client
+
+ For now, there is no ChatGPT desktop client. ChatGPT is only available through your browser, and for the time being, that's how the situation will stay.
+
+ Check-in with the official OpenAI account from time to time for ChatGPT news, but otherwise, if you see a post claiming to offer a trial account for a new ChatGPT product, give it a wide berth and report it to whatever platform you see it on.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-learn-to-flip-videos-a-guide-for-instagram-users/"><u>[New] 2024 Approved  Learn to Flip Videos  A Guide for Instagram Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-from-syncing-to-capturing-a-complete-itunes-journey/"><u>[New] From Syncing to Capturing  A Complete iTunes Journey</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-step-by-step-enabling-screen-capture-on-macos-for-2024/"><u>[New] Step-by-Step  Enabling Screen Capture on MacOS for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-top-5-ways-to-record-audio-in-windows-11/"><u>[New] The Ultimate Guide  Top 5 Ways to Record Audio in Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-the-potential-of-vimeo-video-logging-for-2024/"><u>[New] Unlocking the Potential of Vimeo Video Logging for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-drone-giants-competing-dji-mavic-meets-karma-for-2024/"><u>[Updated] Drone Giants Competing  DJi Mavic Meets Karma for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-unison-choirs-the-duet-experience-on-tiktok-for-2024/"><u>[Updated] Unison Choirs  The Duet Experience on TikTok for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-quick-guide-how-to-bypass-kfx-protection-and-eliminate-drm-restrictions/"><u>1. Quick Guide: How to Bypass KFX Protection & Eliminate DRM Restrictions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-accessing-and-enjoying-amazon-kindle-ebooks-on-your-windows-8-pc/"><u>A Comprehensive Guide: Accessing and Enjoying Amazon Kindle Ebooks on Your Windows 8 PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amd-high-definition-audio-device-driver-download-for-windows/"><u>AMD High Definition Audio Device Driver Download for Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bard-vs-chatgpt-vs-offline-alpaca-an-ultimate-guide-to-the-best-llms/"><u>Bard Vs. ChatGPT Vs. Offline Alpaca: An Ultimate Guide to the Best LLMs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-ai-prompt-design-courses-ranked-1-5/"><u>Best AI Prompt Design Courses: Ranked #1-#5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-free-ebook-readers-compatible-with-apple-tablets-top-picks-beyond-adobe-digital-editions/"><u>Best Free eBook Readers Compatible with Apple Tablets: Top Picks Beyond Adobe Digital Editions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/bridging-words-to-visuals-the-scriptwriters-craft/"><u>Bridging Words to Visuals  The Scriptwriter's Craft</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-therapeutic-tool-enhancing-cognitive-behavioral-techniques/"><u>ChatGPT as a Therapeutic Tool: Enhancing Cognitive-Behavioral Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-step-by-step-manual-your-ultimate-guide-to-success/"><u>Comprehensive Step-by-Step Manual: Your Ultimate Guide to Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/converting-and-transferring-sony-ebooks-for-reading-on-a-kobo-e-reader/"><u>Converting and Transferring Sony eBooks for Reading on a Kobo E-Reader</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-through-the-hype-unraveling-9-widespread-misunderstandings-about-ai-chatbots/"><u>Cutting Through the Hype: Unraveling 9 Widespread Misunderstandings About AI Chatbots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-chatgpt-enterprise-insightful-overview-of-services-offered-and-comparative-analysis/"><u>Demystifying ChatGPT Enterprise: Insightful Overview of Services Offered & Comparative Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-and-convert-epub-books-to-mobi-ebooks-at-no-cost/"><u>Download & Convert EPUB Books to MOBI eBooks at No Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/drm-free-conversion-tutorial-transforming-protected-epub-files-on-your-mac-computer/"><u>DRM-Free Conversion Tutorial: Transforming Protected ePub Files on Your Mac Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-methods-for-saving-google-book-content-as-a-pdf-updated-guide/"><u>Effective Methods for Saving Google Book Content as a PDF - Updated Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-fixes-for-gpts-six-most-prevalent-errors/"><u>Essential Fixes for GPT's Six Most Prevalent Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-origin-unlocking-the-power-of-your-core-resource/"><u>Essential Origin: Unlocking the Power of Your Core Resource</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evolution-of-conversational-agents-the-roadmap-for-advanced-generative-ai-beyond-chatgpt/"><u>Evolution of Conversational Agents: The Roadmap for Advanced Generative AI Beyond ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-truthgpts-unveiling-law-enforcement-action-against-mullvad-vpn-leading-free-pc-games-and-mechanical-keyboards-decoded/"><u>Exploring TruthGPT's Unveiling, Law Enforcement Action Against Mullvad VPN, Leading Free PC Games & Mechanical Keyboards Decoded</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-a-malfunctioning-computer-using-chatgpt-a-step-by-step-guide/"><u>Fixing a Malfunctioning Computer Using ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guia-simple-transformar-tu-archivo-pdf-en-formato-ebook-epub/"><u>Guía Simple: Transformar Tu Archivo PDF en Formato eBook ePub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-converting-and-accessing-epub-files-for-seamless-reading-experience-on-your-ipad-device/"><u>Guide: Converting and Accessing EPub Files for Seamless Reading Experience on Your iPad Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-locate-your-youtube-fanbase-for-2024/"><u>How to Locate Your YouTube Fanbase for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-remove-digital-rights-management-drm-from-your-kindle-ebooks/"><u>How to Remove Digital Rights Management (DRM) From Your Kindle eBooks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-transform-your-ibooks-library-into-downloadable-pdf-files-essential-tips-and-tricks/"><u>How to Transform Your iBooks Library Into Downloadable PDF Files: Essential Tips and Tricks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-how-to-activate-windows-11-written-for-high-dynamic-range-auto-hdr/"><u>In 2024, Unveiling How to Activate Windows 11' Written for High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-your-3d-printing-projects-with-chatgpt-a-comprehensive-guide/"><u>Maximizing Your 3D Printing Projects with ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-release-free-download-of-the-most-recent-requiem-malware-variant/"><u>New Release: Free Download of the Most Recent Requiem Malware Variant</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-gen-digital-editions-innovating-reading-in-the-digital-era/"><u>Next-Gen Digital Editions: Innovating Reading in the Digital Era</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-digital-rights-management-limits-a-guide-to-unlocking-secured-media/"><u>Overcoming Digital Rights Management Limits: A Guide to Unlocking Secured Media</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pushing-the-limits-of-programmed-imagination/"><u>Pushing the Limits of Programmed Imagination</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revamping-cars-with-conversational-ai-a-step-by-step-plan/"><u>Revamping Cars with Conversational AI: A Step-by-Step Plan</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/streaming-google-meet-to-youtube-a-compreenas-step-by-step-guide/"><u>Streaming Google Meet to YouTube - A Compreenas Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-intersection-of-ai-and-smart-homes-chatgpts-impact/"><u>The Intersection of AI & Smart Homes: ChatGPT's Impact</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-text-adding-bings-intelligent-chat-feature-to-android-keyboards/"><u>Transforming Text: Adding Bing's Intelligent Chat Feature to Android Keyboards</u></a></li>
+</ul></div>

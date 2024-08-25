@@ -1,0 +1,242 @@
+---
+title: "The Latest on ChatGPT: Is It Running?"
+date: 2024-08-24T12:45:18.256Z
+updated: 2024-08-25T12:45:18.256Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes The Latest on ChatGPT: Is It Running?"
+excerpt: "This Article Describes The Latest on ChatGPT: Is It Running?"
+thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a070459838ec79267fdebcd19.jpg
+---
+
+## Create Stunning Visuals with These 8 DALL-E Aster Prompts
+
+### Quick Links
+
+* [A Poster of Your Favorite Place](https://www.makeuseof.com/dall-e-3-best-image-prompts/#a-poster-of-your-favorite-place)
+* [Calendar Cover Artwork](https://www.makeuseof.com/dall-e-3-best-image-prompts/#calendar-cover-artwork)
+* [A Birthday Card Cover](https://www.makeuseof.com/dall-e-3-best-image-prompts/#a-birthday-card-cover)
+* [Desktop Wallpapers](https://www.makeuseof.com/dall-e-3-best-image-prompts/#desktop-wallpapers)
+* [Smartphone Wallpapers](https://www.makeuseof.com/dall-e-3-best-image-prompts/#smartphone-wallpapers)
+* [Music Album Covers](https://www.makeuseof.com/dall-e-3-best-image-prompts/#music-album-covers)
+* [Social Media Cover Banners](https://www.makeuseof.com/dall-e-3-best-image-prompts/#social-media-cover-banners)
+* [Photo Album Covers](https://www.makeuseof.com/dall-e-3-best-image-prompts/#photo-album-covers)
+
+ Learn how to create better AI-generated images in DALL-E 3 with this tried-and-tested list of prompts. You can use these prompts in numerous scenarios and play around with your own ideas and variations for optimal results. Let’s walk through the examples I’ve created.
+
+## 1 A Poster of Your Favorite Place
+
+ There are many[websites to find unique art for your home](https://www.makeuseof.com/best-sites-find-unique-art/) , but creating one in DALL-E3 is easier and more personal. One prompt you can try is asking the platform to generate a poster of your favorite place.
+
+ I started by asking DALL-E 3 to generate a poster of the New York City skyline at dusk. While happy with the initial artwork, I wanted to adjust the format. So, I simply asked:
+
+> “Please recreate this in 1200 x 600 format”
+
+And here is the final result:
+
+![An image of the NYC skyline Created with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-poster-image.jpeg)
+
+## 2 Calendar Cover Artwork
+
+ You can[make a printable calendar with Canva](https://www.makeuseof.com/tag/make-your-own-calendar-using-canva/) and other apps, but that doesn’t mean you can’t use DALL-E 3 to generate the front cover artwork. Whether you want to gift someone your calendar or use it yourself, try using this prompt.
+
+I asked DALL-E 3:
+
+> “Generate calendar cover artwork for a 2025 calendar that’ll feature artistic images of Alaska’s landscapes”
+
+ When I asked DALL-E 3 the first time around, it gave me “20225” instead of “2025.” So, you might need to request grammatical corrections. And remember to use the image size format that your calendar will follow.
+
+![DALL-E 3 Calendar Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-calendar.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
+## 3 A Birthday Card Cover
+
+ Will a loved one be celebrating their special day soon? Consider using AI to generate the image for a birthday card cover. I entered the following prompt:
+
+> “Please create a birthday card for an 18th birthday. The card cover should be in 1600 x 800 format, and it's for someone who's interested in aviation. I want the colors to be somewhat bright, but not over the top.”
+
+This was the result:
+
+![DALL-E 3 Birthday Card Prototype With Typos Etc.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card-prototype.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
+ As you can see, DALL-E 3 gave me a birthday card cover. However, it also added other objects that I didn’t want—such as a background and stencils. There were also spelling inaccuracies.
+
+So, I tried the following prompt instead:
+
+> “Please recreate this with ONLY the birthday card cover taking up the screen. I don’t want the stencils, etc.”
+
+Okay, so that didn’t go to plan…
+
+![DALL-E 3 Birthday Card Error in Text and Design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card-error.jpeg)
+
+ You have to be very specific with your prompts. I was relatively happy with the final result (below), but my prior prompts were perhaps too vague. I did, however, explicitly tell DALL-E 3 to correct the spelling.
+
+![DALL-E 3 Birthday Card Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card.jpeg)
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 4 Desktop Wallpapers
+
+ You can[create a desktop background using AI](https://www.makeuseof.com/how-to-create-desktop-background-using-ai/) in many ways, including with DALL-E 3\. This prompt is very simple. All I asked was the following:
+
+> “Create a watercolor desktop wallpaper that depicts Big Ben in London, UK.”
+
+ Below is the result, which I’m happy with. You may need to get more specific, such as asking DALL-E 3 to remove the white background.
+
+![A Desktop Background Created in DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-desktop-background.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## 5 Smartphone Wallpapers
+
+ If you want a unique smartphone wallpaper, you can experiment with DALL-E 3 and see what it comes up with. I first asked DALL-E 3 to give me a smartphone wallpaper in 16:9 format, but despite asking multiple times, the AI did not remove the images of an actual smartphone (see the first and second images at the bottom of this section).
+
+So, I tried a different prompt:
+
+> “Give me a 16:9 image of a fjord in Norway.”
+
+ This prompt gave me what I needed, as you can see from the third picture in the gallery below.
+
+Close
+
+## 6 Music Album Covers
+
+ You can find several[websites to sell your own music](https://www.makeuseof.com/tag/great-sites-to-sell-your-own-music-on/) , and a visually appealing album cover is paramount to standing out and getting recognized.
+
+ Like the smartphone wallpapers, DALL-E 3 had issues understanding that I didn’t want the album cover background. So, I instead asked it:
+
+> “Give me a square format image that an electronic artist could use.”
+
+ The result was more of what I wanted. If you need album artwork, ask DALL-E 3 without mentioning that you’ll use it for an album cover. Otherwise, you’ll go around in circles with the AI bot for a while.
+
+![DALL-E 3 AI Art Cover in Square Format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-ai-art-cover.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+## 7 Social Media Cover Banners
+
+ If you’re looking for a new cover image or banner for your social media profile, try asking DALL-E 3 to create something artistic. The best option is to ask if the program can create a banner in the sizes you need.
+
+I used the following prompt:
+
+> “Create an artistic 1500 x 750 banner of the Nyhavn canal in Copenhagen, Denmark”
+
+ You can customize the above prompt for any landmark or genre that interests you. Below is the result I got with just one prompt. I was happy with this, and it was a much smoother process than some of the other attempts in this article.
+
+![A social media banner image generated with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-social-media-banner.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## 8 Photo Album Covers
+
+ Do you want to print photos you took on a recent trip? If so, why not also customize the photo album cover? You can also create physical photo album covers for other things, like images of your dogs and family.
+
+Below is a prompt I tried for a photo album cover:
+
+> “Give me a street scene of Paris, France, on a rainy day. Include the French flag somewhere.”
+
+ After a few more prompts to change the orientation and adjust the French flag, I received the below result—which I was quite happy with.
+
+![DALL-E 3 Photo Album Cover Image of a Street Scene](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-photo-album-cover-image.jpeg)
+
+ You can ask DALL-E 3 to remove text, alter colors, and various other things if you want these. If you want to design a picture book, consider checking out this guide on[how to make your own photo book](https://www.makeuseof.com/how-to-make-photo-book-guide/) .
+
+ DALL-E 3 is a simple tool that can help you create images for all kinds of projects, but you need to be specific with your prompts. If you aren’t, you may end up with less-than-desirable results. If you want to design covers for albums and books, it’s a good idea not to tell the AI that you’ll use them for these purposes. If you do, it might give you prototypes instead.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-20-great-tools-for-live-streaming-and-webcam-recordings/"><u>[New] 20 Great Tools for Live Streaming & Webcam Recordings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-reliable-methods-to-elevate-your-youtube-presence-without-breaking-trust/"><u>[New] 2024 Approved  Reliable Methods to Elevate Your YouTube Presence Without Breaking Trust</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-silent-spectator-of-social-media-snippets/"><u>[New] 2024 Approved  Silent Spectator of Social Media Snippets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/our-ultimate-guide-to-youtube-shorts-for-2024/"><u>[New] Your Ultimate Guide to YouTube Shorts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-is-your-social-media-strategy-up-to-date-with-facebook-changes/"><u>[Updated] 2024 Approved  Is Your Social Media Strategy Up-to-Date with Facebook Changes?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-dji-mini-air-2-mix-like-a-pro-20-custom-luts-complimentary/"><u>[Updated] DJI Mini, Air 2  Mix Like a Pro - 20 Custom LUTs Complimentary</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-tips-downloading-and-installing-obs-for-mac-users/"><u>[Updated] Essential Tips  Downloading & Installing OBS for Mac Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-3-key-copywriting-frameworks-for-social-media-promotion/"><u>[Updated] In 2024, Mastering 3 Key Copywriting Frameworks for Social Media Promotion</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-master-the-art-of-video-annotation-using-markers-with-ease-for-2024/"><u>[Updated] Master the Art of Video Annotation  Using Markers with Ease for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-saving-big-on-final-cut-pro-without-paying-for-2024/"><u>[Updated] Saving Big on Final Cut Pro without Paying for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-gamers-screen-guide-best-monitors-at-4k-quality/"><u>[Updated] Top Gamers' Screen Guide  Best Monitors at 4K Quality</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-smart-8-plus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-binary-envisioning-new-capabilities-for-gpt-5/"><u>Beyond Binary: Envisioning New Capabilities for GPT-5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-productivity-in-distance-collaborations-utilizing-chatgpt-for-remote-team-gatherings/"><u>Boosting Productivity in Distance Collaborations: Utilizing ChatGPT for Remote Team Gatherings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-the-language-gap-how-to-effectively-utilize-chatgpt-for-accurate-translations/"><u>Bridging the Language Gap: How to Effectively Utilize ChatGPT for Accurate Translations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-the-error-5-strategies-for-when-zoom-wont-play-videos/"><u>Bypassing the Error: 5 Strategies for When Zoom Won't Play Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-ai-types-the-key-differences-between-public-private-and-personal-artificial-intelligence/"><u>Decoding AI Types: The Key Differences Between Public, Private and Personal Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deconstructing-generative-ai-for-easy-compreranble/"><u>Deconstructing Generative AI for Easy Compreranble</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/detailed-analysis-how-gpt4all-works/"><u>Detailed Analysis: How GPT4All Works</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-chatgpt-unveiling-the-potential-of-its-built-in-addons/"><u>Discovering ChatGPT: Unveiling the Potential of Its Built-In Addons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easing-the-capacity-load-of-wins-chatgpt/"><u>Easing the Capacity Load of Win's ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-your-books-dialogues-top-gpt-ideas-to-craft-characters/"><u>Elevating Your Book's Dialogues: Top GPT Ideas to Craft Characters</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-digital-exploration-go-for-perplexity-ai/"><u>Enhance Your Digital Exploration – Go for Perplexity AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-these-exceptional-chatgpt-alternatives-top-picks-unveiled/"><u>Explore These Exceptional ChatGPT Alternatives – Top Picks Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-contrast-eight-key-points-setting-apart-snapchats-my-ai-from-bing-chat-on-skype/"><u>Exploring the Contrast: Eight Key Points Setting Apart Snapchat's My AI From Bing Chat on Skype</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-elite-6-cutting-edge-ai-in-text-processing-and-generation/"><u>Exploring the Elite 6: Cutting-Edge AI in Text Processing and Generation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-leading-edge-the-best-new-ai-hardware-tech/"><u>Exploring the Leading Edge: The Best New AI Hardware Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-limitations-of-ai-why-cant-chatgpt-identify-its-creative-outputs/"><u>Exploring the Limitations of AI: Why Can't ChatGPT Identify Its Creative Outputs?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exposing-false-beliefs-in-ai-chatbot-technology-an-insightful-look-at-9-popular-fallacies/"><u>Exposing False Beliefs in AI Chatbot Technology: An Insightful Look at 9 Popular Fallacies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-gsdl3l2ddll-not-found-issues-on-your-pc-easily/"><u>Fixing 'gsdl3l2d.dll Not Found' Issues on Your PC Easily</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-novice-to-pro-becoming-a-boomerang-connoisseur-on-snapchat/"><u>From Novice to Pro  Becoming a Boomerang Connoisseur on Snapchat</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/future-forward-notion-ais-race-with-chatgpt-unveiled/"><u>Future Forward: Notion AI's Race with ChatGPT Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-for-young-minds-ensuring-a-secure-and-supportive-environment-in-5-steps/"><u>GPT for Young Minds: Ensuring a Secure and Supportive Environment in 5 Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-install-and-run-chatgpt-as-a-windows-app/"><u>How to Install and Run ChatGPT as a Windows App</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-windows-drivers-for-your-new-epson-et-2750-printer/"><u>How to Install Windows Drivers for Your New Epson ET-2750 Printer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oneplus-nord-ce-3-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any OnePlus Nord CE 3 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-honor-play-8t-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Honor Play 8T Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-what-is-screencasting-and-how-to-choose-the-right-screencasting-software/"><u>In 2024, What Is Screencasting and How to Choose the Right Screencasting Software?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808242753-oculus-air-link-window-error-heres-how-to-restore-connectivity/"><u>Oculus Air Link Window Error? Here's How to Restore Connectivity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revealing-the-truth-the-top-nine-myths-surrounding-artificial-intelligence-conversational-systems/"><u>Revealing the Truth: The Top Nine Myths Surrounding Artificial Intelligence Conversational Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-social-presence-write-stellar-posts-with-chatgpts-help/"><u>Revolutionize Your Social Presence: Write Stellar Posts with ChatGPT's Help</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sam-altman-steps-down-impact-on-openai-and-the-future-of-chatgpt/"><u>Sam Altman Steps Down: Impact on OpenAI and the Future of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-ways-to-delete-all-previous-chats-from-the-chatgpt-platform/"><u>Secure Ways to Delete All Previous Chats From the ChatGPT Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/steering-ai-innovation-the-five-regulatory-strategies-employed-by-government-bodies/"><u>Steering AI Innovation: The Five Regulatory Strategies Employed by Government Bodies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-tasks-with-7-chatgpt-tips-for-optimal-output/"><u>Streamline Tasks with 7 ChatGPT Tips for Optimal Output</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-auto-gpt-blueprint-in-contrast-to-chatgpts-design/"><u>The Auto-GPT Blueprint in Contrast to ChatGPT's Design</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-brisk-blueprint-to-crafting-google-image-mosaics/"><u>The Brisk Blueprint to Crafting Google Image Mosaics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-creative-uses-of-chatgpt-vision-technology/"><u>Top 8 Creative Uses of ChatGPT Vision Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-parents-manual-navigating-the-world-of-chatgpt-and-generative-ai/"><u>Ultimate Parent's Manual: Navigating the World of ChatGPT & Generative AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-gpt-4-top-5-strategies-to-experience-it-at-zero-cost/"><u>Unlocking GPT-4: Top 5 Strategies to Experience It at Zero Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-best-practices-for-leveraging-anthropics-new-claude-3-prompt-platform/"><u>Unlocking Potential: Best Practices for Leveraging Anthropic's New Claude 3 Prompt Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-the-chatgpt-token-limit-and-can-you-exceed-it/"><u>What Is the ChatGPT Token Limit and Can You Exceed It?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-the-chatgpt-mobile-app-outshines-the-web-experience-for-apple-devices/"><u>Why the ChatGPT Mobile App Outshines the Web Experience for Apple Devices</u></a></li>
+</ul></div>
