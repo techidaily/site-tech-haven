@@ -1,7 +1,7 @@
 ---
 title: Easy Methods for Configuring a Linux Swap Partition
-date: 2024-08-26 11:54:57
-updated: 2024-08-29 11:57:11
+date: 2024-08-29T02:12:47.483Z
+updated: 2024-08-30T02:12:47.483Z
 tags:
   - desktop
 categories:
@@ -68,6 +68,9 @@ free -h
 
 ![fre -h  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/1-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  The output from `free` shows that there is no swap space configured on this machine.
 
  Swap is never discussed without RAM and free RAM cropping up. So it's worth noting that the free RAM is given as 237 MB. Don't mistake that for the total of RAM available for use. That value is provided by the "available" figure, which is 881 MB.
@@ -84,6 +87,9 @@ swapon --show
 
  If these commands had revealed some swap space is already configured, the size of the existing swap space should be factored into decisions regarding the size of the swap file you're going to create.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How Much Swap Space Do I Need?
 
  The traditional response was "twice the amount of RAM you have." But this was coined when computers used to have very limited RAM. As RAM has become cheaper, and programs and games more demanding of memory, PC specifications have adjusted accordingly. Home PCs with 32 GB of RAM are not uncommon nowadays. And you're not going to allocate 64 GB of hard drive space to swap space if you've got 32 GB of RAM. That's plainly excessive.
@@ -94,6 +100,9 @@ swapon --show
 
  Pick [a swap file size from the table](https://help.ubuntu.com/community/SwapFaq#How%5Fmuch%5Fswap%5Fdo%5FI%5Fneed.3F), and run it for a while. Monitor your system's use of the swap space. If fine-tuning is required, changes are easily made. With swap files, It's a two-minute job. Compare that to adjusting partitions on a live Linux computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ##  Creating the Swap File
 
  You shouldn't use the `fallocate` command [to create your swapfile](http://man7.org/linux/man-pages/man1/fallocate.1.html). This is from the man page for `swapon`:
@@ -125,6 +134,9 @@ sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576
 
 ![output from sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
  We can see the number of blocks (records) that were written to the file, the size of the file, the time taken to create the file, and the effective data transfer rate.
 
  Use the `ls` command to see the file in the root directory:
@@ -133,6 +145,9 @@ ls /
 
 ![ls / in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ##  Preparing the Swap File
 
  We need to [prepare the swap file](http://man7.org/linux/man-pages/man8/mkswap.8.html) with the `mkswap` command before it can be used. We don't need to provide any parameters to `mkswap` other than the path and name of the file:
@@ -159,8 +174,14 @@ sudo swapon /swapfile
 
 ![sudo swapon /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/9-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The swap file is now active.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Adding the Swap File to fstab
 
  To make sure your swap file is available after a reboot, [add it to the /etc/fstab file](https://win-forum.techidaily.com/complete-disk-usage-overload-in-windows-s-10-heres-how-to-fix-it/). You can use any text editor you prefer, but we'll show the process [using the graphical Gedit text editor](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-passcode-without-computer-drfone-by-drfone-ios/).
@@ -175,6 +196,9 @@ sudo gedit /etc/fstab
 
 ![/etc/fstab with the swapfile entry highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/11-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The fields are:
 
 * **File system**: The path and name of the swap file.
@@ -186,6 +210,9 @@ sudo gedit /etc/fstab
 
  Save the changes and close the editor.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Checking Swap Usage
 
  To see if your swap space is being used, use the `swapon` command with the `--show` option:
@@ -194,6 +221,9 @@ swapon --show
 
 ![swapon --show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/13-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  The columns are:
 
 * **Name**: The name of the swap partition or swap file.
@@ -218,6 +248,9 @@ swapon -- show
 
 ![swapon -- show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/15-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The priority of this swap space has been elevated to 10\. Which is proof positive that the options field in the `/etc/fstab` entry is not ignored.
 
 ##  Swap Space Made Easy
@@ -262,3 +295,44 @@ swapon --show
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-cutting-edge-techniques-recording-in-adobe-presenter/"><u>[New] 2024 Approved  Cutting Edge Techniques  Recording in Adobe Presenter</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-cutting-edge-strategies-to-capture-dynamic-audio-in-video-projects/"><u>[New] Cutting-Edge Strategies to Capture Dynamic Audio in Video Projects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-sky-high-insights-comprehensive-phantom-4-breakdown/"><u>[New] In 2024, Sky-High Insights  Comprehensive Phantom 4 Breakdown</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-get-ready-for-a-lighter-device-experience-top-48-apps-to-cut-down-video-size-on-android-for-2024/"><u>[Updated] Get Ready for a Lighter Device Experience  Top 48 Apps to Cut Down Video Size on Android for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-trim-youtube-videos-like-a-pro-for-2024/"><u>[Updated] How to Trim YouTube Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlocking-the-archive-of-yesteryear-how-to-view-facebook-past-content/"><u>[Updated] In 2024, Unlocking the Archive of Yesteryear  How To View Facebook Past Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-toolwiz-photos-app-complete-review-2023/"><u>2024 Approved  Toolwiz Photos App - Complete Review 2023</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unearthing-past-pixels-with-3-methods-on-social-media-fb/"><u>2024 Approved  Unearthing Past Pixels with 3 Methods on Social Media (FB)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/activating-windows-10-security-features-a-step-by-step-guide/"><u>Activating Windows 10 Security Features: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-chatgpt-the-evolving-landscape-of-ai-powered-conversational-agents-and-their-potential-impact/"><u>Beyond ChatGPT: The Evolving Landscape of AI-Powered Conversational Agents and Their Potential Impact</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-browser-ai-7-excellent-extensions/"><u>Boosting Browser AI: 7 Excellent Extensions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-art-with-gpt-4-and-dall-e-an-image-generation-guide/"><u>Crafting Art with GPT-4 & DALL-E: An Image Generation Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-galaxy-s24plus-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Galaxy S24+ has native HEVC support?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-verifying-medical-data-from-chatgpt-and-artificial-intelligence/"><u>Effective Strategies for Verifying Medical Data From ChatGPT & Artificial Intelligence</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elevate-your-online-engagements-the-ultimate-guide-to-slack-and-filmora-for-2024/"><u>Elevate Your Online Engagements  The Ultimate Guide to Slack & Filmora for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-generative-ais-role-in-search-an-insight-into-current-industry-applications/"><u>Exploring Generative AI's Role in Search: An Insight Into Current Industry Applications</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-newly-revamped-echo-dot-4th-gens-innovative-appearance-reviewed/"><u>Exploring the Newly Revamped Echo Dot - 4Th Gen's Innovative Appearance Reviewed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-capture-a-screen-image-on-your-pc-using-windows-10/"><u>How to Capture a Screen Image on Your PC Using Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-identify-a-suspicious-chatgpt-website-protect-yourself-from-scams/"><u>How to Identify a Suspicious ChatGPT Website - Protect Yourself From Scams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/incorporating-ai-magic-enhancing-your-dungeons-and-dragons-gameplay-using-chatgpt/"><u>Incorporating AI Magic: Enhancing Your Dungeons & Dragons Gameplay Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-techniques-utilizing-chatgpt-as-an-effective-tool-for-video-game-writing/"><u>Innovative Techniques: Utilizing ChatGPT as an Effective Tool for Video Game Writing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/innovative-ways-to-record-and-preserve-streaming-sounds-online-for-2024/"><u>Innovative Ways to Record and Preserve Streaming Sounds Online for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-gpt-eall-deciphering-its-structure-and-workflow/"><u>Inside GPT-eAll: Deciphering Its Structure and Workflow</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-ai-features-of-bing-mobile-app-for-android-users/"><u>Mastering the AI Features of Bing Mobile App for Android Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/opt-for-basic-or-advanced-chatgpt-functionality/"><u>Opt for Basic or Advanced ChatGPT Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/puzzling-over-math-with-openai/"><u>Puzzling Over Math with OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-integration-of-chatgpt-into-your-linux-system-with-bavarder/"><u>Seamless Integration of ChatGPT Into Your Linux System with Bavarder</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sonnet-skirmish-versed-voices-against-digital-llamas/"><u>Sonnet Skirmish - Versed Voices Against Digital Llamas</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-to-skip-over-common-gpt-conversational-errors/"><u>Strategies to Skip Over Common GPT Conversational Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-anatomy-of-extraordinary-llm-systems/"><u>The Anatomy of Extraordinary LLM Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-scope-of-chatgpt-understanding-and-expanding-the-input-length-ceiling/"><u>The Scope of ChatGPT: Understanding and Expanding the Input Length Ceiling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-document-readability-with-4-innovative-chatgpt-strategies/"><u>Transform Document Readability with 4 Innovative ChatGPT Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/undetected-retention-concealing-your-ai-discourse-trail/"><u>Undetected Retention: Concealing Your AI Discourse Trail</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-conversational-ai-tips-and-tricks-for-chatgpt-integration/"><u>Unlocking Conversational AI: Tips and Tricks for ChatGPT Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-claude-3-opportunities-for-productivity-enhancement/"><u>Unveiling the Power of Claude 3: Opportunities for Productivity Enhancement</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oppo-a18-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Oppo A18 Phone Network-Ready</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-silence-is-golden-when-talking-to-gpt/"><u>Why Silence Is Golden When Talking to GPT</u></a></li>
+</ul></div>

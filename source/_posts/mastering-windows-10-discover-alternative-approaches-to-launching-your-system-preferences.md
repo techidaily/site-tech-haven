@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 10: Discover Alternative Approaches to Launching Your System Preferences"
-date: 2024-08-26 18:25:58
-updated: 2024-08-29 10:29:15
+date: 2024-08-29T02:13:42.417Z
+updated: 2024-08-30T02:13:42.417Z
 tags:
   - deals
 categories:
@@ -34,12 +34,18 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
 
  Just press Windows+i and the Settings menu will launch.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Use the Start Menu
 
  You can also quickly access Settings from the Start menu. First, click the Windows icon in the bottom-left corner of the desktop. The Start menu will open. Click the gear icon near the bottom of the menu.
 
 ![Click the Start button, then click the gear icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/start-menu-then-settings-icon.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
  The Settings app will open.
 
 ##  Use the Power User Menu
@@ -58,20 +64,35 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
 
 ![Searching for 'Settings' in the search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/open-the-settings-app-from-the-start-menu-search.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Settings will then launch.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Access Settings From the Context Menu on the Desktop
 
  Another quick way to access Settings is from the desktop's context menu. First, right-click anywhere on your desktop and the context menu will appear. At the bottom of the context menu, click "Display Settings" or "Personalize."
 
 ![Click Display Settings or Personalize from the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-Display-Settings-or-Personalize-from-the-context-menu..png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
  Either one will open up the respective option in the Settings menu. From there, just click "Home" to go to the top of the Settings app.
 
 ![Click the 'Home' button in the top-left corner of any of the pages in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-the-home-button.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ##  Open Settings From File Explorer
 
  You can also access the Settings app from File Explorer's ribbon. First, [open File Explorer](https://youtube-web.techidaily.com/ed-2024-approved-streamers-financial-health-check-in-youtubers/) by clicking its icon in the Taskbar, or use the Windows+E keyboard shortcut.
@@ -82,14 +103,23 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
 
 ![Click the 'Open Settings' button at the top of Windows Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/open-settings-from-windows-explorer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Settings app will open.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Use the Action Center
 
  There's also a way to start the Settings app from the [Action Center](https://win-dash.techidaily.com/download-and-update-tp-link-usb-400-bluetooth-adapter-drivers-faster-pairing/). First, click the text bubble in the bottom-right corner of your desktop to open the Action Center.
 
 ![Click the text bubble icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-the-text-bubble-icon..png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Next, click "Expand" in the bottom-left corner of the Action Center.
 
 ![Click "Expand."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-Expand..png) 
@@ -122,6 +152,9 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
 
 ![Click "User Accounts" in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-User-Accounts-in-Control-Panel..png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the next screen, click "User Accounts" again.
 
 ![Click "User Accounts" again.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-User-Accounts-again..png) 
@@ -134,6 +167,9 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
 
 ![Click the 'Home' button to go to the main page of the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-home-button-in-settings-again.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Run a Command in the Run App
 
  You can also use the Run app to open Settings. Open the Run app by using the Windows+R keyboard shortcut. Once open, enter **ms-settings:** in the text box and then click "OK."
@@ -154,20 +190,33 @@ start ms-settings:
 
 ![Running 'start ms-settings:' in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/cmd.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  The Settings app will open.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Run a Command in Windows PowerShell
 
  If you prefer using Windows PowerShell over Command Prompt, then you can still open the Settings app by running the same command. First, [open Windows PowerShell](https://techtrends.techidaily.com/what-are-the-stages-in-a-game-of-royal-match/) by right-clicking the Windows icon in the bottom-left corner of the desktop. This opens the Power User menu. Here, click "Windows PowerShell." You can also select "Windows PowerShell (Admin)," it change anything in this situation. 
 
 ![Right-click the Start button, then select 'Windows PowerShell.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powershell-from-power-user-menu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  Windows PowerShell will open. Run this command:
 
 start ms-settings:
 
 ![Run 'start ms-settings:' in the PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/run-start-ms-settings-powershell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Settings app will now open.
 
  There you have it. With so many ways to open the Settings app, you'll almost always have immediate access to it. But the Settings app isn't an exception—there are many different ways to open all kinds of apps on Windows 10, including the [Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) and [Control Panel](https://tech-recovery.techidaily.com/1722861107683-troubleshooting-when-your-iphone-doesnt-ring-easy-fixes-inside/). Discover your favorite way to open different apps!
@@ -186,3 +235,46 @@ start ms-settings:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeo-monetization-101-a-step-by-step-guide-for-profits/"><u>[New] 2024 Approved  Vimeo Monetization 101  A Step-by-Step Guide for Profits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-find-a-niche-market-on-youtube/"><u>[New] In 2024, How to Find A Niche Market on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unparalleled-video-intros-made-easy-with-online-tools/"><u>[New] Unparalleled Video Intros Made Easy with Online Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unlocking-youtubes-potential-understanding-the-impact-of-tags/"><u>[Updated] 2024 Approved  Unlocking YouTube's Potential  Understanding the Impact of Tags</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unraveling-the-enigma-instagram-story-follower-secrets-revealed/"><u>[Updated] 2024 Approved  Unraveling the Enigma  Instagram Story Follower Secrets Revealed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-easycast-essential-steps-for-beginner-podcast-streamers/"><u>[Updated] EasyCast  Essential Steps for Beginner Podcast Streamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-6-best-digital-canvases-ideal-nft-services-for-artists/"><u>2024 Approved  The 6 Best Digital Canvases  Ideal NFT Services For Artists</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-watch-series-6-assessment-incremental-improvements-maintain-its-top-ranking/"><u>Apple Watch Series 6 Assessment: Incremental Improvements Maintain Its Top Ranking</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-infinix-note-30i-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Note 30i Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/changing-leadership-at-openai-exploring-the-consequences-for-chatgpt-post-altman-era/"><u>Changing Leadership at OpenAI: Exploring the Consequences for ChatGPT Post-Altman Era</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-poco-x5-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Poco X5.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/engage-in-conversation-how-openai-upgraded-chatgpt-to-understand-prompts-audibly/"><u>Engage in Conversation: How OpenAI Upgraded ChatGPT to Understand Prompts Audibly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-chatgpt-hacks-how-to-benefit-from-its-features-even-without-an-account/"><u>Explore ChatGPT Hacks: How to Benefit From Its Features Even Without an Account</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-your-hardware-running-again-the-ultimate-fix-for-devices-showing-error-code-10/"><u>Get Your Hardware Running Again: The Ultimate Fix for Devices Showing Error Code 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/heaviest-airborne-haulers-drone-selection-insights/"><u>Heaviest Airborne Haulers  Drone Selection Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-chatgpt-enhance-or-hinder-the-creative-writing-process-a-comprehhemal-review/"><u>How Does ChatGPT Enhance or Hinder the Creative Writing Process? A Comprehhemal Review</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-spark-go-2023-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Spark Go (2023) to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-look-how-apple-showcased-ai-innovations-at-wwdc-2023/"><u>Inside Look: How Apple Showcased AI Innovations at WWDC 2023</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intelligent-insights-await-how-microsoft-bing-is-revolutionizing-search-with-artificial-intelligence/"><u>Intelligent Insights Await: How Microsoft Bing Is Revolutionizing Search with Artificial Intelligence</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-s17-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo S17 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-handling-with-voice-control-a-five-step-guide/"><u>Mastering ChatGPT Handling With Voice Control: A Five-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-monitoring-internet-consumption-a-step-by-step-guide/"><u>Mastering the Art of Monitoring Internet Consumption: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-tomorrows-security-landscape-the-top-7-predictions-in-cybersecurity/"><u>Navigating Tomorrow's Security Landscape: The Top 7 Predictions in Cybersecurity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/redefining-ai-interaction-essential-gpt-innovations-explored/"><u>Redefining AI Interaction: Essential GPT Innovations Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-graphics-drivers-on-windows-11-systems/"><u>Refreshing Graphics Drivers on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-information-management-the-best-6-artificial-intelligence-apps-for-note-taking/"><u>Streamline Your Information Management: The Best 6 Artificial Intelligence Apps for Note Taking</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-final-cut-professionals-guide-to-top-10-plug-ins/"><u>The Final Cut Professional's Guide to Top 10 Plug-Ins</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-underrated-gpt-3-functions-unleashing-your-ai-potential/"><u>Top 5 Underrated GPT-3 Functions: Unleashing Your AI Potential</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-workflow-with-chatgpt-the-ultimate-guide-to-an-ai-assistant-at-work/"><u>Transform Workflow with ChatGPT - The Ultimate Guide to an AI Assistant at Work</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-your-android-into-a-smartphone-with-voice-activated-chatgpt-using-voicegpt-app/"><u>Transforming Your Android Into a Smartphone with Voice Activated ChatGPT Using VoiceGPT App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unbounded-gpt-openais-concern/"><u>Unbounded GPT: OpenAI's Concern?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-your-imagination-effective-strategies-for-brainstorming-using-mind-maps-and-chatgpt/"><u>Unlock Your Imagination: Effective Strategies for Brainstorming Using Mind Maps and ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-complexities-of-artificial-intelligence-a-laymans-guide/"><u>Unraveling the Complexities of Artificial Intelligence: A Layman's Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-contrast-what-sets-strong-artificial-intelligence-apart-from-its-weak-counterpart/"><u>Unraveling the Contrast: What Sets Strong Artificial Intelligence Apart From Its Weak Counterpart</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-evolution-how-gpt-models-have-advanced-with-each-iteration-by-openai/"><u>Unraveling the Evolution: How GPT Models Have Advanced with Each Iteration by OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-of-gptzero-how-to-spot-fake-writings-instantly/"><u>Unveiling the Secrets of GPTZero: How to Spot Fake Writings Instantly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/user-demand-highlights-the-4-critical-updates-for-chatgpts-add-on-storefront/"><u>User Demand Highlights: The 4 Critical Updates for ChatGPT's Add-On Storefront</u></a></li>
+</ul></div>

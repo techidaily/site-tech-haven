@@ -1,7 +1,7 @@
 ---
 title: "7I Unleashed: An In-Depth Look at Its Stellar Gen 9 Perfomance"
-date: 2024-08-28 21:10:33
-updated: 2024-08-29 11:28:45
+date: 2024-08-29T02:13:24.207Z
+updated: 2024-08-30T02:13:24.207Z
 tags:
   - deals
 categories:
@@ -112,6 +112,9 @@ Expand
 
 ![The Lenovo Legion 7i 16 Gen 9 has an Intel i9 and Nvidia graphics card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-has-an-intel-i9-and-nvidia-graphics-card_53662863778_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The overall design of Lenovo’s latest Legion 7i 16 Gen 9 is pretty sleek if I do say so myself. I had the privilege of testing the white model and, while I typically like gray or dark laptops, the white is pretty crisp and clean. The branding is minimal with just "Legion" and "Lenovo" graphics on the top. Overall, the aesthetic is definitely on the cleaner side for gaming laptops.
@@ -138,6 +141,9 @@ Jerome Thomas / How-To Geek
 
 ![The Lenovo Legion 7i 16 Gen 9 Legion branding](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-legion-branding_53661777577_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  With the latest tech inside, this laptop has a lot to offer in the performance department. I tested it with some of my favorite games as well as some of the industry’s best synthetic benchmarks to give you a good idea as to what you can expect for performance out of this system.
@@ -166,10 +172,16 @@ Jerome Thomas / How-To Geek
 
  One thing that I wasn’t too happy with, however, was the coil whine. If you’ve not experienced coil whine before, you will with this laptop. Even at idle, there was a whine coming from the system that was a bit annoying. And, when the fans were at full tilt during a game, I could hear the coil whine even through my headphones. It’s not unbearable, but it’s something that I wasn’t very happy with for sure.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Lenovo Included All the Ports You Could Want but Could Have Made It a Bit Less Confusing
 
 ![The ports on the left side of the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-left-side-of-the-lenovo-legion-7i-16-gen-9_53662650521_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Lenovo Legion 7i 16 Gen 9 has just about any port you could want, though, it can be a tad confusing about what’s what. On the left side of the laptop, you have a USB-A port at 5Gb/s, a USB-C 3.2 Gen 2 port, and a Thunderbolt 4 port. There’s only one Thunderbolt 4 port here though, so do keep in mind that the other USB-C ports on the laptop are only 3.2 Gen 2 (10Gb/s), and not rated for 40Gb/s transfer rates. The Thunderbolt 4 port does, however, support up to 140W charging, so you can use a single-cable setup when you’re not pushing the laptop to its max. In front of the Thunderbolt 4 port, you have a combined headphone and microphone jack.
@@ -198,10 +210,16 @@ Jerome Thomas / How-To Geek
 
  One unique thing is that there’s a keyboard shortcut (Fn+R) to switch between 240/60Hz and 165/60Hz, depending on which screen you get. This might seem redundant, but it’s actually very useful. If you’re on the road and need to preserve battery life over all else, then dropping to a 60Hz refresh rate will make the screen refresh 66% slower, which reduces power usage across the board.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo Legion 7i 16 Gen 9?
 
 ![The Lenovo Legion 7i 16 Gen 9 with charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-with-charger_53662863758_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  After spending the better part of a month with this laptop, this laptop is a great buy. The version of the [Lenovo Legion 7i 16 Gen 9](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=http%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-7-series%2Flegion-7i-gen-9-%2816-inch-intel%29%2Flen101g0037) I’ve been testing comes in at $1,785.99 right now direct from Lenovo, and I think that’s a fantastic price for it. You’re getting a laptop that can function as a desktop replacement in many scenarios. Plus, when on the go, you’ll have a 16-inch 240Hz display. All in a body that weighs under five pounds.
@@ -210,8 +228,14 @@ Jerome Thomas / How-To Geek
 
 ![Lenovo Legion 7i 16 Gen 9 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/lenovo-legion-7i-16-gen-9-laptop.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 #####  Lenovo Legion 7i 16 Gen 9
 
 8/ 10 
@@ -236,3 +260,73 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup/"><u>[New] 2024 Approved  Embedded Recorder Usage in Huawei's Mate Series and the P Lineup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-practices-in-upgrading-to-a-high-end-4k-camera-lens/"><u>[New] Best Practices in Upgrading to a High-End 4K Camera Lens</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-fast-track-your-tiktok-video-creation-process/"><u>[New] Fast-Track Your TikTok Video Creation Process</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-creating-seamless-zoom-experiences/"><u>[New] In 2024, Creating Seamless Zoom Experiences</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevating-engagement-with-expert-level-niche-creators/"><u>[New] In 2024, Elevating Engagement with Expert-Level Niche Creators</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-learn-how-to-mute-instagram-recommendations/"><u>[New] Learn How to Mute Instagram Recommendations</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-seamlessly-transfer-spotify-songs-to-youtube-with-these-tools/"><u>[New] Seamlessly Transfer Spotify Songs to YouTube with These Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-fabled-frontiers-top-10-roguely-ventures/"><u>[Updated] 2024 Approved  Fabled Frontiers  Top 10 Roguely Ventures</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-obs-issue-full-screen-bug-fixed/"><u>[Updated] 2024 Approved  Obs Issue  Full-Screen Bug Fixed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-effective-hp-screen-capture/"><u>[Updated] 2024 Approved  Unveiling the Secrets of Effective HP Screen Capture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-immersive-zooming-experience-with-microsoft-teams/"><u>[Updated] In 2024, Immersive Zooming Experience with Microsoft Teams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-innovative-drone-designs-always-on-your-side/"><u>[Updated] In 2024, Innovative Drone Designs  Always on Your Side</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-supercharge-your-channel-growth-harness-the-potential-of-collaborative-videos/"><u>[Updated] Supercharge Your Channel Growth  Harness the Potential of Collaborative Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-basic-routes-to-sync-obs-with-zoom/"><u>[Updated] The Basic Routes to Sync OBS with Zoom</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-the-power-of-blur-in-virtual-meetings/"><u>[Updated] Unlocking the Power of Blur in Virtual Meetings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2023-how-to-post-twitter-videos-on-snapchat-for-2024/"><u>2023 | How to Post Twitter Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-studies-the-five-main-ways-students-benefit-from-chatgpt-in-education/"><u>Boost Your Studies: The Five Main Ways Students Benefit From ChatGPT in Education</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bulk-content-design-strategies-with-canva-and-chatgpt-combinations/"><u>Bulk Content Design Strategies with Canva & ChatGPT Combinations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-artificnial-intelligence-outsmart-humans-predicting-which-jobs-are-endangered-by-generative-models/"><u>Can Artificnial Intelligence Outsmart Humans? Predicting Which Jobs Are Endangered by Generative Models</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capture-perfection-5-expert-tips-for-games-and-live-footage-for-2024/"><u>Capture Perfection  5 Expert Tips for Games & Live Footage for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-its-legal-concerns-revolutionizing-googles-news-algorithm-plus-strategies-for-improved-mobile-internet-during-holidays/"><u>ChatGPT and Its Legal Concerns: Revolutionizing Google's News Algorithm Plus Strategies for Improved Mobile Internet During Holidays</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/vate-community-interest-with-collaborative-lists-for-2024/"><u>Cultivate Community Interest With Collaborative Lists for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-the-best-ai-coding-assistant-the-ultimate-face-off-of-chatgpt-versus-gemini/"><u>Deciphering the Best AI Coding Assistant: The Ultimate Face-Off of ChatGPT Versus Gemini</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/does-chatgpt-adhere-to-a-maximum-character-or-word-count-in-its-replies/"><u>Does ChatGPT Adhere to a Maximum Character or Word Count in Its Replies?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-persistent-reboot-problems-in-windows-10/"><u>Easy Fixes for Persistent Reboot Problems in Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-instructions-to-launch-chatgpt-on-windows-systems/"><u>Easy Instructions to Launch ChatGPT on Windows Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-social-presence-by-writing-smarter-posts-with-chatgpt/"><u>Enhance Your Social Presence by Writing Smarter Posts with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-academic-studies-with-intelligent-technology-a-five-point-breakdown/"><u>Enhancing Academic Studies with Intelligent Technology: A Five-Point Breakdown</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhancing-your-drive-an-insightful-overview-of-the-bouncie-connect-gps-tracker/"><u>Enhancing Your Drive: An Insightful Overview of the Bouncie Connect GPS Tracker</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/finding-your-way-with-gpt-in-remote-landscapes/"><u>Finding Your Way with GPT in Remote Landscapes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ais-game-changing-role-in-the-evolving-job-landscape-7-key-transformations/"><u>Generative AI's Game-Changing Role in the Evolving Job Landscape: 7 Key Transformations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/global-vs-closed-ai-systems-dissecting-varieties/"><u>Global Vs. Closed AI Systems: Dissecting Varieties</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-y17s-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo Y17s Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-15-proipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 15 Pro/iPad/iPod</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-motorola-moto-g34-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Motorola Moto G34 5G Device SIM</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-flight-in-depth-analysis-of-dji-phantom-4/"><u>In 2024, Unveiling Flight  In-Depth Analysis of DJI Phantom 4</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/installer-rapidement-macx-video-converter-pro-via-le-web-gratuit/"><u>Installer Rapidement MacX Video Converter Pro via Le Web Gratuit</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-the-art-of-character-development-with-these-11-powerful-chatgpt-techniques/"><u>Master the Art of Character Development with These 11 Powerful ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-your-files-with-these-gpt-interaction-apps/"><u>Master Your Files with These GPT Interaction Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-cultivating-daily-mindfulness-practice/"><u>Mastering ChatGPT: Cultivating Daily Mindfulness Practice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-gpt-coding-utilizing-openais-platform-with-ease/"><u>Navigating Through GPT-Coding: Utilizing OpenAI's Platform with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-level-gaming-unveiling-microsofts-acquisition-of-blizzards-creative-vision-exclusive-interview/"><u>Next Level Gaming: Unveiling Microsoft's Acquisition of Blizzard's Creative Vision [Exclusive Interview]</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-frequent-win11-failures/"><u>Overcoming Frequent Win11 Failures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-your-device-why-you-need-to-reconsider-installing-the-google-bard-application/"><u>Protect Your Device: Why You Need to Reconsider Installing the Google Bard Application</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-cure-for-hiccup-free-video-playback/"><u>Quick Cure for Hiccup-Free Video Playback</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-study-habits-five-key-uses-for-chatgpt-in-education/"><u>Revolutionizing Study Habits: Five Key Uses for ChatGPT in Education</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-talk-smooth-drive-mercedes-voice-tech-update/"><u>Seamless Talk, Smooth Drive: Mercedes' VOICE Tech Update</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/share-your-chatgpt-exchanges-with-ease-a-step-by-step-guide/"><u>Share Your ChatGPT Exchanges with Ease - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/side-hustle-strategies-using-chatgpt-comprehensive-diy-gaming-rig-builds-and-nostalgic-portable-consoles-reviewed/"><u>Side Hustle Strategies Using ChatGPT, Comprehensive DIY Gaming Rig Builds, and Nostalgic Portable Consoles Reviewed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/small-company-writers-guide-to-protected-video-chats-for-2024/"><u>Small Company' Writers’ Guide to Protected Video Chats for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solve-your-displays-issues-when-nvidia-output-is-missing/"><u>Solve Your Displays Issues When Nvidia Output Is Missing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-repair-for-a-broken-clownfish-speech-alteration-tool/"><u>Step-by-Step Repair for a Broken Clownfish Speech Alteration Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stop-ai-web-scrapers-methods-for-keeping-openai-from-accessing-your-content/"><u>Stop AI Web Scrapers: Methods for Keeping OpenAI From Accessing Your Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-to-bypass-chatgpts-input-limits/"><u>Strategies to Bypass ChatGPT's Input Limits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-using-chatgpt-for-personal-health/"><u>The Ultimate Guide to Using ChatGPT for Personal Health</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-text-input-restrictions-bypassing-the-cap/"><u>Understanding ChatGPT's Text Input Restrictions: Bypassing the Cap</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-key-distinctions-natural-language-processing-vs-machine-learning/"><u>Understanding Key Distinctions: Natural Language Processing vs Machine Learning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-advantages-of-forefront-ai-over-chatgpt/"><u>Understanding the Advantages of Forefront AI Over ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-potential-with-ai-harnessing-the-power-of-chabtgpt-for-inspired-content-creation/"><u>Unleashing Potential with AI: Harnessing the Power of ChabtGPT for Inspired Content Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-productivity-discovering-7-advantages-of-chatgpt-in-workflow/"><u>Unlock Productivity: Discovering 7 Advantages of ChatGPT in Workflow</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-gpt-chat-conversations-public-link-tactics/"><u>Unlocking GPT-Chat Conversations: Public Link Tactics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-how-chatgpt-and-whisper-api-integration-revolutionizes-business-operations/"><u>Unlocking Potential: How ChatGPT & Whisper API Integration Revolutionizes Business Operations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-top-tier-gadgets-explore-toms-hardware-insights/"><u>Unveiling Top-Tier Gadgets: Explore Tom's Hardware Insights</u></a></li>
+</ul></div>

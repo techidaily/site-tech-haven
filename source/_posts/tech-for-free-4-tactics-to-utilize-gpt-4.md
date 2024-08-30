@@ -1,0 +1,138 @@
+---
+title: "Tech for Free: 4 Tactics to Utilize GPT-4"
+date: 2024-08-29T02:30:07.706Z
+updated: 2024-08-30T02:30:07.706Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Tech for Free: 4 Tactics to Utilize GPT-4"
+excerpt: "This Article Describes Tech for Free: 4 Tactics to Utilize GPT-4"
+thumbnail: https://thmb.techidaily.com/f755ebc6fd74e541b86783b8f288eb9ebe73ceda235653be011e1c74d43e6c3e.jpg
+---
+
+## GPT-4 and Copilot Unite: Revolutionize Your Tech Skills for Free
+
+ With AI chatbots becoming mainstream, companies are locking their most powerful features behind subscription paywalls. However, some companies allow free users to do more things than others. As such, if you'd like to give GPT-4 Turbo a try, using Microsoft's Copilot tool is the best way to do it.
+
+## What Is GPT-4 Turbo?
+
+![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
+
+ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-photo/portland-usa-mar-15-2023-webpage-2275173419)
+
+ If this is the first you've heard of GPT-4 Turbo, it's one of the more advanced AI models at the time of writing. It's designed by OpenAI, the people who invented the[wildly popular ChatGPT service](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) .
+
+ To put GPT-4 Turbo into perspective; when ChatGPT went viral, it was using the 3.5 model. After that, OpenAI released the GPT-4 model, which could handle queries better and sounded more human. Finally, they made the model process faster and thus arrived at GPT-4 Turbo.
+
+ Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
+
+## How to Use GPT-4 Turbo for Free With Microsoft Copilot
+
+ To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
+### How to Use GPT-4 Turbo for Free on Windows 10 and 11
+
+![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
+
+ If you want to bring Copilot up faster, you can do so by pressing**Win + C** . Or, if you're lucky enough to own a[laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , just press that to bring up the assistant at any time.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to Use GPT-4 Turbo for Free on Other Devices
+
+![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+ If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
+
+ If you're on mobile, you can download the[Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or[iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) . The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## How to Get the Most Out of GPT-4 Turbo
+
+![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+ GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
+
+ Always remember that Copilot currently doesn't process its queries locally; everything gets sent back to Microsoft's servers so it can generate your answer. Be careful and avoid telling Copilot anything private or something that could identify you.
+
+ If you'd like to learn more about Copilot and the more advanced things you can do with it, check out our guide on[what Microsoft Copilot is and how to use it](https://www.makeuseof.com/what-is-microsoft-365-copilot/) . And if you need some help coming up with prompts, try this[Chrome extension that makes prompting easy](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/) .
+
+ GPT-4 Turbo is a very powerful tool, and fortunately, you don't have to pay a cent to use it. Now you know how to use the popular chatbot model for free, whether you're on a Windows PC or otherwise.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-complete-process-of-recording-your-fb-messenger-conversations/"><u>[Updated] In 2024, The Complete Process of Recording Your FB Messenger Conversations</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-itel-a05s-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Itel A05s Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bards-next-gen-ai-seven-innovations-unveiled-by-google-io-2023/"><u>Bard's Next-Gen AI: Seven Innovations Unveiled by Google I/O 2023</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/best-focus-effects-iphone-vs-android-photo-solutions/"><u>Best Focus Effects  IPhone vs Android Photo Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-productivity-with-powerful-plugins-discover-10-options-to-easily-create-pdfs-via-chatgpt-reducing-manual-labor/"><u>Boosting Productivity with Powerful Plugins: Discover 10 Options to Easily Create PDFs via ChatGPT, Reducing Manual Labor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-compannion-strategies-for-alleviating-loneliness/"><u>ChatGPT as Your Compannion: Strategies for Alleviating Loneliness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-sites-easily-with-gpts-4-essential-aids/"><u>Crafting Sites Easily with GPT's 4 Essential Aids</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-notetaking-using-chatgpt-for-studying/"><u>Cutting-Edge Notetaking: Using ChatGPT for Studying</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-ai-introspection-reasons-behind-chatgpts-inability-to-identify-its-outputs/"><u>Exploring AI Introspection: Reasons Behind ChatGPT's Inability to Identify Its Outputs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-benefits-asus-ax6000-rt-ax88u-router-unveiled-the-premier-choice-in-wi-fi-6-technology-and-efficiency/"><u>Exploring the Benefits: Asus AX6000 (RT-AX88U) Router Unveiled - The Premier Choice in Wi-Fi 6 Technology and Efficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-chatgpt-unveil-these-6-must-play-games/"><u>Exploring The World of ChatGPT: Unveil These 6 Must-Play Games!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-your-pc-when-it-reports-a-missing-msvcr1ebf78-file-expert-tips-and-tricks/"><u>Fixing Your PC When It Reports a Missing MSVCR1ebf78 File: Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-driven-strategies-for-effortless-home-life/"><u>GPT-Driven Strategies for Effortless Home Life</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-creativity-and-intelligence-your-ultimate-guide-to-utilizing-the-openai-toolkit/"><u>Harnessing Creativity and Intelligence: Your Ultimate Guide to Utilizing the OpenAI Toolkit</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-get-snapchat-on-mac/"><u>How to Get Snapchat on Mac?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-p55t-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel P55T to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-win-customer-trust-incorporating-these-20-marketing-expressions/"><u>In 2024, Win Customer Trust  Incorporating These 20 Marketing Expressions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-chatgpt-with-ios-a-step-by-step-guide/"><u>Integrating ChatGPT with iOS: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/key-considerations-in-employing-chatgpt-for-therapy-support-systems/"><u>Key Considerations in Employing ChatGPT for Therapy Support Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/lost-connection-woes-in-terraria-master-these-6-fixes-to-get-back-on-track/"><u>Lost Connection Woes in Terraria? Master These 6 Fixes to Get Back on Track!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-common-german-expressions-curated-list-top-25/"><u>Mastering Common German Expressions - Curated List (Top 25)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-horizons-registering-for-cutting-edge-plugin-updates/"><u>New Horizons: Registering for Cutting-Edge Plugin Updates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-obs-stability-problems-a-detailed-walkthrough-for-windows-1110-users/"><u>Overcoming OBS Stability Problems: A Detailed Walkthrough for Windows 11/10 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protective-measures-hidden-stowing-of-gpt-dialogues/"><u>Protective Measures: Hidden Stowing of GPT Dialogues</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-techniques-for-changing-video-formats-on-macos-and-windows-pcs/"><u>Seamless Techniques for Changing Video Formats on macOS & Windows PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/snapchat-and-skype-an-ai-expertise-showdown/"><u>Snapchat and Skype: An AI Expertise Showdown</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/steps-for-efficiently-storing-whatsapp-audio-transcripts/"><u>Steps for Efficiently Storing WhatsApp Audio Transcripts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-appeal-of-ai-security-exploring-reasons-behind-attacks-on-chatgpt/"><u>The Appeal of AI Security: Exploring Reasons Behind Attacks on ChatGPT</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-premier-selection-of-servers-and-rack-units-for-businesses-2024-edition/"><u>The Premier Selection of Servers & Rack Units for Businesses, 2024 Edition</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-list-10-best-timecode-calculators-for-film-and-video-pros/"><u>The Ultimate List 10 Best Timecode Calculators for Film and Video Pros</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/twitters-without-smiles-linuss-leaked-knowledge-trojan-deconstruction-and-gpt-shortcomings-explored/"><u>Twitters Without Smiles, Linus’s Leaked Knowledge, Trojan Deconstruction, & GPT Shortcomings Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-troubleshooting-and-solving-non-resetting-airpods-issues/"><u>Ultimate Guide: Troubleshooting and Solving Non-Resetting AirPods Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unpacking-gptbot-revolutionizing-text-generation-vs-censorship-fears/"><u>Unpacking GPTBot: Revolutionizing Text Generation Vs. Censorship Fears</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722997063341-why-cant-i-get-payday-2-running-on-my-computer-try-these-tips/"><u>Why Can't I Get Payday 2 Running on My Computer? Try These Tips!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-every-professional-needs-these-6-reasons-to-embrace-chatgpt-today/"><u>Why Every Professional Needs These 6 Reasons to Embrace ChatGPT Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-users-download-essential-xerox-printer-software-here/"><u>Windows Users: Download Essential Xerox Printer Software Here</u></a></li>
+</ul></div>

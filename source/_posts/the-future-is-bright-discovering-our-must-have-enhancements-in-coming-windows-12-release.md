@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Bright: Discovering Our Must-Have Enhancements in Coming Windows 12 Release"
-date: 2024-08-27 16:16:39
-updated: 2024-08-29 12:46:43
+date: 2024-08-29T02:14:07.989Z
+updated: 2024-08-30T02:14:07.989Z
 tags:
   - deals
 categories:
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc3
 
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Universal Noise Cancellation Built-in
 
  Many applications now have noise cancelation built in, but the quality is widely variable. [Discord, which uses Krisp](https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/), has excellent noise cancelation. NVIDIA also offers [NVIDIA Broadcast](https://extra-skills.techidaily.com/in-2024-orchestrating-the-scene-adding-cropping-and-adjusting-music-in-canva/), which includes a noise cancellation feature. NVIDIA Broadcast allows users with an NVIDIA GPU to filter out echoes or troublesome background noise. It works really well, but it requires [an RTX GPU](https://remote-screen-capture.techidaily.com/2024-approved-mastering-mayhem-and-mystery-the-essential-gaming-list-top-10/) to run.
@@ -72,6 +76,9 @@ Andrew Heinzman / How-To Geek
 
 ![The widgets on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h16_21.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It would be nice to see Windows 12 offer more granular control over what is displayed in the Widgets menu, how the widgets themselves are displayed, and where you can place them.
 
  Personally, I’d love a little weather widget in the upper right corner of my right monitor.
@@ -84,6 +91,9 @@ Andrew Heinzman / How-To Geek
 
  We’ve been living with cluttered right-click menus for decades. A native tool would be a small but fantastic addition to Windows 12.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Favorites List on the Emoji Picker
 
 [The emoji picker](https://screen-video-capture.techidaily.com/2024-approved-top-6-minecraft-house-ideas-for-beginners/) is one of my favorite additions in the recent versions of Windows, but it is lacking one critical feature: a favorites list!
@@ -92,16 +102,25 @@ Andrew Heinzman / How-To Geek
 
 ![The Emoji picker on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h15_16.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It would be great to have the option to build a favorites tab that opens by default. It would be even better if the favorites tab let you assign a key to each favorited item for faster access, much like [how the Power User Menu works](https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/).
 
  The ability to press Win+. and then just tap a single key to enter an emdash? Yes, please.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Better Control Over the Start Menu
 
  The Windows 11 Start menu has proven to be as divisive as it is different. We don’t expect a complete reversal in Windows 12, but more control would be a very welcome change.
 
  Live tiles were a bit of a bust, but allowing users to integrate their favorite widgets into the Start Menu would be a nice start. The ability to toggle between a list display and an icon grid array would also be really nice.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Xbox App Needs a Rework
 
  The Xbox app is notoriously buggy and has been for years. Sometimes it works, sometimes, inexplicably, it doesn’t.
@@ -127,8 +146,28 @@ Andrew Heinzman / How-To Geek
 
 ![The Run feature from Windows PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h17_07.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
  We’d love to see something that combines the best of Windows Search (live results, like weather) with PowerToys' Run integrated into Windows 12.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Helpful Local AI Tools
 
  Copilot is neat, and [can be useful](https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-y77t-screen-to-pc-with-chromecast-drfone-by-drfone-android/), but we’d like to see Microsoft also lean into local AI tools and applications, too.
@@ -153,3 +192,64 @@ Andrew Heinzman / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-review-best-text-plugins-for-your-after-effects-projects/"><u>[New] A Review  Best Text Plugins For Your After Effects Projects</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-expand-your-library-prime-10-ps5-extra-drives/"><u>[New] Expand Your Library  Prime 10 PS5 Extra-Drives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-leveraging-content-marketing-for-more-views-and-subscribers/"><u>[New] In 2024, Leveraging Content Marketing for More Views and Subscribers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-t5-unboxed-the-revolution-in-action-filming/"><u>[Updated] 2024 Approved  T5 Unboxed - The Revolution in Action Filming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-invest-in-quality-top-5-handhoced-stabilizers-review/"><u>[Updated] Invest in Quality  Top 5 Handhoced Stabilizers Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revel-in-photo-excellence-with-this-guide-to-mastering-the-background-erase-tool/"><u>[Updated] Revel in Photo Excellence with This Guide to Mastering the Background Erase Tool</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-time-lapse-video-techniques-for-ipad-users-for-2024/"><u>[Updated] Time-Lapse Video Techniques for iPad Users for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-premium-internet-spots-for-glossy-3d-text-effects/"><u>2024 Approved  Premium Internet Spots for Glossy 3D Text Effects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-simplifying-the-image-blur-process-for-iphone-enthusiasts/"><u>2024 Approved  Simplifying the Image Blur Process for iPhone Enthusiasts</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nubia-z50-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nubia Z50 Ultra without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/a-stepwise-approach-to-twitter-archive-utilization/"><u>A Stepwise Approach to Twitter Archive Utilization</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-honor-play-8t-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Honor Play 8T Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-chatgpt-impersonators-strategies-for-spotting-and-handling-fraudulent-sites/"><u>Avoiding ChatGPT Impersonators: Strategies for Spotting & Handling Fraudulent Sites</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-tools-to-spot-ai-generated-text-ideal-for-teachers-and-supervisors/"><u>Best Tools to Spot AI-Generated Text: Ideal for Teachers and Supervisors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/building-a-restriction-free-gpt-experience-for-windows-users-with-freedomgpt-integration/"><u>Building a Restriction-Free GPT Experience for Windows Users with FreedomGPT Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-your-well-being-why-it-falls-short-in-providing-dependable-medical-advice-5-key-points/"><u>ChatGPT and Your Well-Being: Why It Falls Short in Providing Dependable Medical Advice (5 Key Points)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-on-your-phone-discover-why-it-may-not-be-necessary-to-install/"><u>ChatGPT on Your Phone: Discover Why It May Not Be Necessary to Install</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-outstanding-essays-using-the-ai-assistance-of-chatgpt/"><u>Crafting Outstanding Essays Using the AI Assistance of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/customize-chatgpts-text-generation-techniques-for-a-unique-writerly-voice/"><u>Customize ChatGPT's Text Generation: Techniques for a Unique Writerly Voice</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/cutting-edge-techniques-making-mac-videos-for-snapchat/"><u>Cutting-Edge Techniques  Making Mac Videos for Snapchat</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-finest-ai-languages-for-programming-without-chatgpt/"><u>Discover the Finest AI Languages for Programming without ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-the-power-of-langchain-llm-an-entry-level-handbook/"><u>Discovering the Power of LangChain LLM: An Entry-Level Handbook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-fixes-for-when-windows-cant-locate-the-msvcr80dll-file/"><u>Effective Fixes for When Windows Can’t Locate the Msvcr80.dll File</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-creative-writing-skills-through-chatgpt-explore-these-6-methods/"><u>Enhancing Creative Writing Skills Through ChatGPT: Explore These 6 Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-the-accuracy-and-dependability-of-chatgpt-for-proofreading-needs/"><u>Evaluating the Accuracy and Dependability of ChatGPT for Proofreading Needs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-commonplace-clips-to-complex-computations-ais-role-in-paperclip-optimization/"><u>From Commonplace Clips to Complex Computations: AI's Role in Paperclip Optimization</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-on-the-rise-8-key-factors-for-growing-safety-concerns/"><u>Generative AI on the Rise: 8 Key Factors for Growing Safety Concerns</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-new-driver-for-your-hp-deskjet-3755-multi-function-printer-on-windows-operating-systems-1187/"><u>Get the New Driver for Your HP DeskJet 3755 Multi-Function Printer on Windows Operating Systems (11/8/7)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-chatgpt-for-enhanced-medical-diagnostics/"><u>Harnessing ChatGPT for Enhanced Medical Diagnostics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-the-power-of-chatgpt/"><u>Harnessing the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-employers-might-react-to-chatgpt-use-and-potential-consequences/"><u>How Employers Might React to ChatGPT Use and Potential Consequences</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-hastenothalt-slowmotion-tape/"><u>In 2024, HasteNotHalt SlowMotion Tape</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-15-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 15 Pro Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-inside-look-the-power-of-recmeister-capturing-features/"><u>In 2024, Inside Look  The Power of Recmeister Capturing Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovating-the-future-of-ai-openais-revolutionary-gpt-3-update-now-live/"><u>Innovating the Future of AI: OpenAI's Revolutionary GPT-3 Update Now Live</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/move-past-comparisons-exploring-the-unique-features-of-siri-and-chatgpt/"><u>Move Past Comparisons - Exploring the Unique Features of Siri & ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-openais-world-mastering-gpt-3-use-cases/"><u>Navigating OpenAI's World: Mastering GPT-3 Use Cases</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-mastering-ai-powered-vocal-replication-two-techniques-for-authenticity/"><u>New 2024 Approved Mastering AI-Powered Vocal Replication Two Techniques for Authenticity</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-of-video-tag-editors-for-windows-and-macos/"><u>New In 2024, The Ultimate List of Video Tag Editors for Windows and macOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-fears-8-strategies-for-teachers-to-welcome-ai/"><u>Overcoming Fears: 8 Strategies for Teachers to Welcome AI</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-original-directory-display-preferences/"><u>Regaining Original Directory Display Preferences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguarding-business-conversations-on-gpt-services/"><u>Safeguarding Business Conversations on GPT Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/social-media-engagement-boosted-with-gpt-wisdom/"><u>Social Media Engagement Boosted with GPT Wisdom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-entertainment-choices-using-chatgpt/"><u>Streamline Your Entertainment Choices Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/surpassing-expectations-how-claude-elevates-beyond-chatgpts-capabilities/"><u>Surpassing Expectations: How Claude Elevates Beyond ChatGPT's Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/switching-protonvpn-email-in-browser-and-spotting-the-real-chatgpt-on-windows/"><u>Switching ProtonVPN Email in Browser & Spotting the Real ChatGPT on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-blueprint-to-publicizing-your-private-ai-discussions/"><u>The Blueprint to Publicizing Your Private AI Discussions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-chatgpt-in-routine-mindfulness-exercises/"><u>The Role of ChatGPT in Routine Mindfulness Exercises</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-seven-advantages-of-using-chatgpt-as-a-virtual-health-consultant/"><u>The Seven Advantages of Using ChatGPT as a Virtual Health Consultant</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-ai-detection-applications-helping-educators-identify-chatgpt/"><u>Top 4 AI Detection Applications: Helping Educators Identify ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-maximum-text-entry-capacity-how-to-navigate-it/"><u>Understanding ChatGPT's Maximum Text Entry Capacity: How to Navigate It</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-potential-of-chatgpt-for-optimal-health-top-strategies-inside/"><u>Unlock the Potential of ChatGPT for Optimal Health - Top Strategies Inside</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-you-might-want-to-think-twice-before-putting-private-data-in-chatgpts-hands/"><u>Why You Might Want to Think Twice Before Putting Private Data in ChatGPT's Hands</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/will-chatgpt-disrupt-how-we-use-and-think-about-search-engine-technology/"><u>Will ChatGPT Disrupt How We Use and Think About Search Engine Technology?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/world-leaders-in-tech-discussing-tomorrows-intelligence-systems/"><u>World Leaders in Tech Discussing Tomorrow's Intelligence Systems</u></a></li>
+</ul></div>

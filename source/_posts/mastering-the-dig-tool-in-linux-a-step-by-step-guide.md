@@ -1,7 +1,7 @@
 ---
 title: "Mastering the 'Dig' Tool in Linux: A Step-by-Step Guide"
-date: 2024-08-26 15:32:55
-updated: 2024-08-29 12:29:10
+date: 2024-08-29T02:12:59.600Z
+updated: 2024-08-30T02:12:59.600Z
 tags:
   - desktop
 categories:
@@ -71,6 +71,9 @@ dig howtogeek.com | less
 
 ![output from dig howtogeek.com | less in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/3-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
  Here's the full listing:
 
         `; <<>> DiG 9.11.3-1ubuntu1.11-Ubuntu <<>> howtogeek.com  
@@ -130,6 +133,9 @@ howtogeek.com. 3551 IN A 151.101.2.217
 * **flags:** No flags are in use.
 * **udp**: **4096:** The UDP packet size.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### **Question Section** 
 
  In the Question section, we see the following:
@@ -158,6 +164,9 @@ howtogeek.com. 3551 IN A 151.101.2.217`
 * **IN:** We made an Internet class query.
 * **A:** We asked for an A record from the DNS server.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### **Statistics Section** 
 
  Statistics is the final section, and it contains the following information:
@@ -204,6 +213,9 @@ dig howtogeek.com +nocomments
 
 ![dig howtogeek.com +nocomments in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/4-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  If we use the `+noall` query option on its own, as shown below, we won't get any useful output:
 
 dig howtogeek.com +noall
@@ -222,6 +234,9 @@ dig howtogeek.com +noall +answer +stats
 
 ![dig howtogeek.com +noall +answer +stats in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/7-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The `+noall +answer` combination is used often. You can add other sections to the command line as required. If you want to avoid typing `+noall +answer` on the command line every time you use `dig`, you can put them in a configuration file called ".digrc." It's located in your home directory.
 
  We type the following to create one [with echo](https://facebook.techidaily.com/cut-out-controversy-refresh-your-feed-focus/):
@@ -244,8 +259,14 @@ dig github.com
 
 ![dig ubuntu.org in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/9-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
  This `dig` configuration file will be in use for the remaining examples in this article.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  DNS Records
 
  The information returned to your `dig` requests is pulled from different types of records held on the DNS server. Unless we ask for something different, `dig` queries the A (address) record. The following are the types of records commonly used with `dig`:
@@ -264,6 +285,9 @@ dig redhat.com A
 
 ![dig redhat.com A in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/10-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  To query the mail exchange records, we use the following MX flag:
 
 dig yahoo.com MX
@@ -276,12 +300,19 @@ dig fedora.com NS
 
 ![dig fedora.com NS in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/12-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  To query the start of authority record, we type the following SOA flag:
 
 dig manjaro.com SOA
 
 ![dig manjaro.com SOA in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/13-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
  The TTL flag will show us the time to live for the data in the DNS server's cache. If we make a series of requests, we see the time to live reduce to nothing, and then jump back to its starting value.
 
  We type the following:
@@ -290,6 +321,9 @@ dig usa.gov TTL
 
 ![dig usa.gov TTL in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/14-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
  To see the text records, we type the TX flag:
 
 dig usa.gov TXT
@@ -310,6 +344,9 @@ dig @8.8.8.8 usa.gov +stats
 
 ![dig usa.gov +stats in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/15-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Using dig with Multiple Domains
 
  We can pass multiple domains to `dig` on the command line, as shown below:
@@ -340,6 +377,9 @@ dig -x 209.51.188.148
 
 ![dig -x 209.51.188.148 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/19-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Presto! The IP address resolves to gnu.org.
 
  Because a PTR is a DNS record, and we know `dig` can request specified DNS records, couldn't we just ask `dig` to retrieve the PTR for us? Yes, we can, but it does take a bit more work.
@@ -350,8 +390,14 @@ dig ptr 148.188.51.209.in-addr.arpa
 
 ![dig ptr 148.188.51.209.in-addr.arpa in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/20-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
  We get the same result; it just took a bit more effort.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Can You dig It?
 
  We all use the internet daily, and inquisitive minds have often wondered how the magic happens when we type the name of a website into a browser. With `dig`, you can explore the processes of network conjuring.
@@ -376,3 +422,59 @@ dig ptr 148.188.51.209.in-addr.arpa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-precision-speed-control-for-elite-pc-users/"><u>[New] Precision Speed Control for Elite PC Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nique-day-to-day-vlog-themes-for-2024/"><u>[New] Unique Day-to-Day Vlog Themes for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mastering-the-art-of-choosing-high-quality-hdr-cameras/"><u>[Updated] 2024 Approved  Mastering the Art of Choosing High-Quality HDR Cameras</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-onboard-recorder-use-in-huawei-mate-and-p-series-mate-10-mate-20-p20-p10/"><u>[Updated] 2024 Approved  Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-enhancing-productivity-with-efficient-nvidia-capture/"><u>[Updated] Enhancing Productivity with Efficient NVIDIA Capture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photo-twisting-with-professional-tools/"><u>[Updated] Photo Twisting with Professional Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-sprint-to-stunning-photos-in-win-11-edition/"><u>[Updated] Sprint to Stunning Photos in Win 11 Edition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-step-into-the-spotlight-learning-youtube-vlogger-etiquette/"><u>[Updated] Step Into the Spotlight  Learning YouTube Vlogger Etiquette</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-photosapp-decoded-in-depth-analysis-of-2023-features/"><u>2024 Approved  Toolwiz PhotosApp Decoded - In-Depth Analysis of 2023 Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-myth-wukong-out-of-video-memory-error-on-pc/"><u>Black Myth Wukong Out of Video Memory Error on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-ai-communication-learn-to-create-impactful-chatgpt-queries-with-these-5-tips/"><u>Boost Your AI Communication: Learn to Create Impactful ChatGPT Queries with These 5 Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-motorola-edge-40-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Motorola Edge 40 Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-health-crafting-achievable-objectives/"><u>ChatGPT & Health: Crafting Achievable Objectives</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-or-gemini-assessing-the-strengths-of-googles-newest-artificial-intelligence/"><u>ChatGPT or Gemini? Assessing the Strengths of Google's Newest Artificial Intelligence.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-missing-self-critique-clues/"><u>ChatGPT: Missing Self-Critique Clues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-gptzero-the-best-way-to-expose-automated-text-generation-online/"><u>Decoding GPTZero: The Best Way to Expose Automated Text Generation Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ending-the-comparison-a-breakdown-of-siri-and-chatgpts-core-features/"><u>Ending the Comparison: A Breakdown of Siri and ChatGPT's Core Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-learning-5-key-uses-of-chatgpt-for-students/"><u>Enhancing Learning: 5 Key Uses of ChatGPT for Students</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-academic-utility-of-viewing-the-internet-as-a-virtual-encyclopedia-without-fiscal-barriers/"><u>Exploring the Academic Utility of Viewing the Internet as a Virtual Encyclopedia without Fiscal Barriers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-techniques-behind-ai-powered-chatbot-dialogue-creation/"><u>Exploring the Techniques Behind AI-Powered Chatbot Dialogue Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fact-seeker-no-windows-gpt-client-is-not-malware/"><u>Fact Seeker: No, Windows GPT Client Is Not Malware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-words-to-works-of-art-creating-striking-visuals-with-ease-using-chatgpt/"><u>From Words to Works of Art: Creating Striking Visuals with Ease Using ChatGPT</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-12-mini-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 12 mini or iPad?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-starcraft-ii-brood-war-non-launch-problems/"><u>How to Fix Starcraft II: Brood War Non-Launch Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-harness-the-power-of-chatgpt-a-five-step-guide-for-non-account-holders/"><u>How to Harness the Power of ChatGPT - A Five-Step Guide for Non-Account Holders</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-z-fold-5-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy Z Fold 5 to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-pc-download-updated-lenovo-drivers-for-windows-11/"><u>Improve Your PC - Download Updated Lenovo Drivers for Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-easy-timekeepers-without-a-price-tag/"><u>In 2024, Expertly Easy Timekeepers Without a Price Tag</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-ultimate-path-to-a-thriving-instagram-community/"><u>In 2024, The Ultimate Path to a Thriving Instagram Community</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intuitive-conversations-mercedes-benz-vehicles-get-ai-with-chatgpt-and-voice-command/"><u>Intuitive Conversations: Mercedes-Benz Vehicles Get AI with ChatGPT and Voice Command</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-chatgpt-prompts-with-this-user-friendly-chrome-tool/"><u>Master ChatGPT Prompts with This User-Friendly Chrome Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-avoid-data-loss-and-keep-every-interaction-secure/"><u>Mastering ChatGPT: Avoid Data Loss & Keep Every Interaction Secure</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-responses-and-results-using-custom-user-archetypes-within-the-chatgpt-framework/"><u>Optimizing Responses and Results Using Custom User Archetypes Within the ChatGPT Framework</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/preventing-chatgpt-from-recording-your-dialogue-a-step-by-step-guide/"><u>Preventing ChatGPT From Recording Your Dialogue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sam-altmans-departure-from-openai-implications-for-the-future-of-chatgpt/"><u>Sam Altman's Departure From OpenAI: Implications for the Future of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/spotting-distinctions-nlp-tech-versus-ml-framework/"><u>Spotting Distinctions: NLP Tech Versus ML Framework</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stepwise-construction-of-a-web-app-powered-by-chatgpt/"><u>Stepwise Construction of a Web App Powered by ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlined-academic-success-through-gpt-assisted-notes/"><u>Streamlined Academic Success Through GPT-Assisted Notes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tailored-transformation-crafting-a-personalized-chatgpt/"><u>Tailored Transformation: Crafting a Personalized ChatGPT</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-great-screen-capture-debate-obs-studio-versus-fraps/"><u>The Great Screen Capture Debate  OBS Studio Versus Fraps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-truth-about-leveraging-ai-bots-for-windows-11-activation-codes/"><u>The Truth About Leveraging AI Bots for Windows 11 Activation Codes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-securing-a-job-on-linkedin-using-chatgpts-powerful-tools-top-10-ways/"><u>The Ultimate Guide to Securing a Job on LinkedIn Using ChatGPT's Powerful Tools (Top 10 Ways)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-3-strategies-maximizing-your-excel-experience-with-chatgpt/"><u>Top 3 Strategies: Maximizing Your Excel Experience with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-innovative-ai-book-discovery-platforms-for-personalized-reading-suggestions/"><u>Top 5 Innovative AI Book Discovery Platforms for Personalized Reading Suggestions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-9-risks-why-you-should-think-twice-before-replacing-professional-therapy-with-ai/"><u>Top 9 Risks: Why You Should Think Twice Before Replacing Professional Therapy with AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-for-mobile-mmo-enthusiasts-unveiled/"><u>Top Picks for Mobile MMO Enthusiasts Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722984077940-troubleshooting-guide-stop-dota-2-from-keeping-you-down/"><u>Troubleshooting Guide: Stop Dota 2 From Keeping You Down</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-solutions-for-non-functional-windows-spotlight-on-your-pc-running-windows/"><u>Ultimate Solutions for Non-Functional Windows Spotlight on Your PC Running Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-role-of-ai-powered-bots-in-online-communication-controls-effects-on-individual-experience/"><u>Understanding the Role of AI-Powered Bots in Online Communication Controls: Effects on Individual Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-the-power-of-ai-5-ways-chatgpt-elevates-your-bitcoin-and-altcoin-strategies/"><u>Unleash the Power of AI: 5 Ways ChatGPT Elevates Your Bitcoin and Altcoin Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-creative-potential-image-curve-magic-in-ps/"><u>Unlock Creative Potential  Image Curve Magic in PS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-top-10-webm-to-mp4-conversion-tools-you-need-to-know/"><u>Updated 2024 Approved Top 10 WebM to MP4 Conversion Tools You Need to Know</u></a></li>
+</ul></div>

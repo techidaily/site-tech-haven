@@ -1,7 +1,7 @@
 ---
 title: "Rediscovering the Classics: MSN, GameSpy, Winamp & More Memorable Tech Relics"
-date: 2024-08-26 20:17:10
-updated: 2024-08-29 11:55:52
+date: 2024-08-29T02:12:24.798Z
+updated: 2024-08-30T02:12:24.798Z
 tags:
   - desktop
 categories:
@@ -37,6 +37,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  These days you don’t need middleware like GameSpy, with matchmaking integrated into platforms like Xbox Live and Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ##  MSN, [AIM](https://my.screenname.aol.com/), [ICQ](https://www.icq.com) 
 
 **You might also remember:** iChat, Gaim (Pidgin), Jabber
@@ -47,6 +50,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  Modern equivalents include Apple’s Messages, Meta’s WhatsApp, and upstarts like Signal and Telegram.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Flash and Shockwave
 
 **You might also remember:** Microsoft Silverlight, Java Web Plugin, 3D Groove
@@ -67,6 +73,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  While many of these services no longer exist in any capacity, Napster came back to life as a music streaming service that still exists today.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [Winamp](http://www.winamp.com) 
 
 ![The official Winamp skin museum.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/winamp_skins.png) 
@@ -93,6 +102,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
 ![The mIRC IRC client running in Windows 11 can replace Discord too](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/mirc.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Internet relay chat, or IRC for short, is an internet chat protocol that first appeared in 1988\. It works using a series of servers, on which users chat within channels. It’s not dissimilar to a modern chat solution like Discord (so much so that [we gave it a nod in our Discord alternatives roundup](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-6s-without-previous-owner-by-drfone-ios/)). Unlike Discord, chat history isn’t saved to the server and is not retrievable later.
 
 [mIRC](https://www.mirc.com) was the Windows IRC client of choice for many users. Like GameSpy, IRC was an invaluable tool in the early days of online gaming, where users could hang out in channels, organize matches, advertise servers, and follow each other into games. Many server providers would offer support over IRC as it was the fastest way to get issues resolved at the time.
@@ -109,6 +121,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  Though dial-up has largely been replaced in the US, [a very small percentage of users still connect to the internet using dial-up](https://screen-mirroring-recording.techidaily.com/updated-kids-car-clubbing-capers-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Defunct Browsers: Internet Explorer, Netscape Navigator
 
 **You might also remember:** Mozilla, Internet Explorer for Mac
@@ -119,6 +134,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  By the time Chrome joined the race in 2008, Internet Explorer was falling out of favor. Though Internet Explorer 11 will officially be supported for the best part of a decade yet, the browser has effectively been abandoned in favor of [Chromium-based Microsoft Edge](https://facebook-video-recording.techidaily.com/updated-unlocking-organic-growth-your-afb-playbook/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## [eJay](https://www.ejayshop.com) 
 
  A deep cut for some, [eJay](https://www.ejayshop.com) was one of the easiest (and most limiting) ways to make music on a computer in the late 90s and early 2000s. At a time when “proper” [digital audio workstations](https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-x7-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/) like Fruity Loops and Ableton Live seemed complex with demands for expensive sound cards and powerful computers, eJay let you throw a track together in a matter of minutes.
@@ -155,3 +173,39 @@ A lot of your favorite old software has been lost to the sands of time, much of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-kids-and-newbies-the-best-10-drones-out-there/"><u>[New] Kids and Newbies  The Best 10 Drones Out There</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-turn-the-tape-counterclockwise-instagrams-reverse-play-technique-for-2024/"><u>[New] Turn the Tape Counterclockwise  Instagram's Reverse Play Technique for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humor-weaver-androids-in-chains/"><u>[Updated] Humor Weaver  Androids in Chains</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-making-avatar-creation-a-breeze-in-the-digital-realm/"><u>2024 Approved  Making Avatar Creation a Breeze in the Digital Realm</u></a></li>
+<li><a href="https://media-tips.techidaily.com/apple-tvpluss-exceptional-media-offerings-suffer-due-to-unconventional-advertising-approaches/"><u>Apple TV+'s Exceptional Media Offerings Suffer Due to Unconventional Advertising Approaches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-studies-the-five-main-ways-students-benefit-from-chatgpt-in-education/"><u>Boost Your Studies: The Five Main Ways Students Benefit From ChatGPT in Education</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-mental-healthcare-the-key-factors-you-need-to-understand-first/"><u>ChatGPT and Mental Healthcare: The Key Factors You Need to Understand First</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-for-immediate-app-termination-techniques-on-your-pc-running-windows-11/"><u>Comprehensive Tutorial for Immediate App Termination Techniques on Your PC Running Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-the-best-ai-coding-assistant-the-ultimate-face-off-of-chatgpt-versus-gemini/"><u>Deciphering the Best AI Coding Assistant: The Ultimate Face-Off of ChatGPT Versus Gemini</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/does-chatgpt-adhere-to-a-maximum-character-or-word-count-in-its-replies/"><u>Does ChatGPT Adhere to a Maximum Character or Word Count in Its Replies?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-instructions-to-launch-chatgpt-on-windows-systems/"><u>Easy Instructions to Launch ChatGPT on Windows Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-coding-with-these-6-powerful-chatgpt-extensions-for-vs-code/"><u>Elevate Your Coding with These 6 Powerful ChatGPT Extensions for VS Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-academic-studies-with-intelligent-technology-a-five-point-breakdown/"><u>Enhancing Academic Studies with Intelligent Technology: A Five-Point Breakdown</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ais-game-changing-role-in-the-evolving-job-landscape-7-key-transformations/"><u>Generative AI's Game-Changing Role in the Evolving Job Landscape: 7 Key Transformations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-honor-x9b-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor X9b Phone Screen?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a05-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A05 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-itel-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Itel Unlock Without Password</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-navigating-the-world-of-mac-screenshot-with-confidence/"><u>In 2024, Navigating the World of Mac Screenshot with Confidence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/langchain-large-language-model-101-your-first-steps-into-an-advanced-world/"><u>LangChain Large Language Model 101: Your First Steps Into an Advanced World</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-your-files-with-these-gpt-interaction-apps/"><u>Master Your Files with These GPT Interaction Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prime-collection-of-best-ai-phone-apps-android-plus-ios/"><u>Prime Collection of Best AI Phone Apps (Android + iOS)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-your-device-why-you-need-to-reconsider-installing-the-google-bard-application/"><u>Protect Your Device: Why You Need to Reconsider Installing the Google Bard Application</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-study-habits-five-key-uses-for-chatgpt-in-education/"><u>Revolutionizing Study Habits: Five Key Uses for ChatGPT in Education</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-talk-smooth-drive-mercedes-voice-tech-update/"><u>Seamless Talk, Smooth Drive: Mercedes' VOICE Tech Update</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/share-your-chatgpt-exchanges-with-ease-a-step-by-step-guide/"><u>Share Your ChatGPT Exchanges with Ease - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/side-hustle-strategies-using-chatgpt-comprehensive-diy-gaming-rig-builds-and-nostalgic-portable-consoles-reviewed/"><u>Side Hustle Strategies Using ChatGPT, Comprehensive DIY Gaming Rig Builds, and Nostalgic Portable Consoles Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamlining-monetization-strategies-on-youtube-for-2024/"><u>Streamlining Monetization Strategies on YouTube for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-chatgptplus-experience-transforming-how-we-learn-languages/"><u>The ChatGPT+ Experience: Transforming How We Learn Languages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-text-input-restrictions-bypassing-the-cap/"><u>Understanding ChatGPT's Text Input Restrictions: Bypassing the Cap</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-advantages-of-forefront-ai-over-chatgpt/"><u>Understanding the Advantages of Forefront AI Over ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-potential-with-ai-harnessing-the-power-of-chabtgpt-for-inspired-content-creation/"><u>Unleashing Potential with AI: Harnessing the Power of ChabtGPT for Inspired Content Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-chatgpt-plus-is-your-next-smart-move-9-compelling-reasons/"><u>Why ChatGPT Plus Is Your Next Smart Move: 9 Compelling Reasons</u></a></li>
+</ul></div>

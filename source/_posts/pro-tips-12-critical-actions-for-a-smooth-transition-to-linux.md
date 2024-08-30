@@ -1,7 +1,7 @@
 ---
 title: "Pro Tips: 12 Critical Actions for a Smooth Transition to Linux"
-date: 2024-08-26 10:36:37
-updated: 2024-08-29 12:23:27
+date: 2024-08-29T02:12:22.374Z
+updated: 2024-08-30T02:12:22.374Z
 tags:
   - desktop
 categories:
@@ -46,6 +46,9 @@ sudo apt upgrade
 
  This will download and install any updates of installed software and system packages. Updating your Linux system is more or less the same on different Linux versions, except, different distros may use different package managers. So if you want to update [Fedora](https://youtube-tips.techidaily.com/rofessionals-picks-best-editors-for-online-streams-for-2024/), or [Arch](https://fox-access.techidaily.com/expert-picks-11-easy-waterproof-kids-camcorders-for-vlogging/), for example, you can follow the same procedure and tweak the above command to fit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Install Media Codecs
 
 [Multimedia codecs](https://some-guidance.techidaily.com/2024-approved-strategies-for-merging-youtube-music-and-video-content-effectively/) are like tiny translators, enabling your Linux system to understand and play different types of audio and video formats. Out of the box, your Linux distribution might not have all the codecs you need because they're proprietary, and some people prefer only non-proprietary software. In other situations, you may have skipped installing them while installing Linux, or maybe you chose a minimal installation that doesn't include them. If you don't care about proprietary vs. non-proprietary software, you should install codecs so that you don't encounter errors playing certain types of media.
@@ -54,6 +57,9 @@ sudo apt upgrade
 
 ![Multimedia codecs on the Linux Mint software center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/multimedia-codecs-on-linux-mint.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For Fedora, you can grab the necessary codecs from the RPMfusion repository. On openSUSE, you can install them from the Packman repository.
 
  However, there's an easier process: downloading and installing the VLC media player on your distro. VLC contains most media codecs you'll need to enjoy smooth video playback.
@@ -82,10 +88,16 @@ sudo apt upgrade
 
  There are many command line utilities, such as apt-add-repository that allow you to [add these third-party repositories](https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-6-by-drfone-ios/) to your Linux system. Most graphical software managers also have a way to add software sources to the system. If you'd like, you can also jump into the configuration files and add repositories from there.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Enable Flatpaks
 
 ![An example of the Flathub website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/flathub-website.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
  There are so many ways to [install software on Linux](https://extra-guidance.techidaily.com/smarter-spending-on-cloud-data-services-insights-and-recommendations-for-2024/). One of them is [Flatpak](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/), and it's a great choice too. It kind of unifies the software installation system so that, no matter what distribution you're using, you can install software from the same source in the same manner.
 
  Some distributions such as Ubuntu don't have Flatpaks enabled by default. To enable Flatpaks, you'll first need to install it and add the Flathub repository with these commands:
@@ -99,6 +111,9 @@ sudo apt install flatpak
 
 flatpak install package_name
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Set Up Wine or Bottles
 
  A common reason many [Windows users avoid using Linux](https://easy-unlock-android.techidaily.com/unlock-your-realme-narzo-60-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/) is that it doesn't have native support for many Windows-only programs. Think of Microsoft Office, Adobe Creative Suite, and many other commercial software programs. If these software programs are essential to you, then probably the best way to run them on Linux is via [Wine](https://some-guidance.techidaily.com/updated-ultimate-list-best-no-cost-lut-downloads/) or [Bottles](https://facebook-video-content.techidaily.com/2024-approved-moments-replay-module/).
@@ -107,12 +122,18 @@ flatpak install package_name
 
 ![The Bottles welcome screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Remember though, Wine is not a replacement for Windows itself. You'll never get the same performance from apps running via Wine as on a native Windows computer. There are compatibility levels for individual apps. Some apps run well, some have bugs, and some are not even supported by Wine.
 
 ##  Configure the Web Browser
 
 ![Configuring Firefox on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/firefox-on-ubuntu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Most Linux distributions come with Firefox installed. I, however, like to use Brave and Chrome (you can also use [ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium).) Most browsers come with the option to import all your settings with a few clicks. This automatically installs browser extensions, fetches bookmarks, and configures security and search settings I use on other devices. Browser configuration ensures I get the same personalized browsing experience on any operating system on any device.
 
 ##  Manage Users and Groups
@@ -127,6 +148,9 @@ flatpak install package_name
 
 ![An example of Grsync, a Linux backup tool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linux-backup.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Nobody likes losing their files. Unfortunately, I've learned that the hard way. Creating system snapshots from time to time and backing up your most important data regularly ensures you don't lose your system files and other necessary files in an accident. That's why you should have a backup strategy right after installing Linux.
 
  There are many great tools to back up your Linux system. You have [rsync](https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/), [restic](https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2010-file-by-stellar-guide/), and Pika Backup, among others. For system snapshots, you can use [Timeshift](https://extra-support.techidaily.com/metaverse-mayhem-meets-friendly-fun-ranks-10-for-2024/).
@@ -137,6 +161,11 @@ flatpak install package_name
 
 ![An example of Ubuntu asking you to share your system data with the developers to improve it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ubuntu-telemetry.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
  Of course, these don't make you completely anonymous. When internet privacy is crucial to me, I use the [Tor browser](https://vimeo-videos.techidaily.com/in-2024-efficiently-generating-clear-and-concise-images-thumbnails/) and set up [VPNs](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/).
 
  As for security, you could do a lot. Some of them are creating strong passwords for every user account, full disk encryption, and following the principle of least privilege. Depending on your distro, you can also control the mandatory access controls using SELinux or [AppArmor](https://facebook-video-content.techidaily.com/updated-2024-approved-navigating-the-in-stream-ad-landscape-on-facebook/). If you're running a Linux server, make sure to secure it using [fail2ban](https://some-tips.techidaily.com/in-2024-transformative-meme-making-discovering-the-best-8-tools/) and consider setting up a firewall.
@@ -163,3 +192,56 @@ flatpak install package_name
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-transform-your-footage-effective-strategies-for-cropping-and-export-on-instagram-for-2024/"><u>[New] Transform Your Footage  Effective Strategies for Cropping & Export on Instagram for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-metaverse-comedy-crafting-memetic-gold/"><u>[Updated] Mastering Metaverse Comedy  Crafting Memetic Gold</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-free-template-pack-top-titles-for-ae-dreamers/"><u>[Updated] Premium FREE Template Pack  Top Titles for AE Dreamers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-recording-powerhouse-tactics-for-windows-10-aficionados/"><u>2024 Approved  Recording Powerhouse Tactics for Windows 10 Aficionados</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-unintended-exposures-with-chatgpts-adaptive-gpt-systems-tips-for-better-protection/"><u>Avoiding Unintended Exposures with ChatGPT's Adaptive GPT Systems: Tips for Better Protection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/behind-the-screen-the-dead-internet-theory-revealed-for-online-communication-insights/"><u>Behind the Screen: The Dead Internet Theory Revealed for Online Communication Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-no-authentic-chatgpt-app-for-windows-avoid-the-fake-ones/"><u>Beware: No Authentic ChatGPT App for Windows - Avoid the Fake Ones!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-impressive-the-4-distinct-advantages-of-using-claude-ai-instead-of-chatgpt/"><u>Beyond Impressive: The 4 Distinct Advantages of Using Claude AI Instead of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-machines-pass-the-turing-test-exploring-possibilities-and-challenges/"><u>Can Machines Pass the Turing Test? Exploring Possibilities and Challenges</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/champion-avc-player-for-seamless-viewing-for-2024/"><u>Champion AVC Player for Seamless Viewing for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-chatgpt-and-google-translate-determining-the-superior-language-tool/"><u>Comparing ChatGPT and Google Translate: Determining the Superior Language Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-giants-in-ai-chatbots-google-bard-versus-bing-chat/"><u>Comparing Giants in AI Chatbots: Google Bard Versus Bing Chat</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-engaging-presentations-using-chatgpts-powerful-tools/"><u>Crafting Engaging Presentations Using ChatGPT's Powerful Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/distinguishing-between-powerful-ai-and-basic-ai-technologies/"><u>Distinguishing Between Powerful AI and Basic AI Technologies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dive-into-the-world-of-ai-at-bing-how-to-signup/"><u>Dive Into the World of AI at Bing: How-To Signup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embark-on-the-path-to-cash-rewards-via-bug-bounties-at-openai/"><u>Embark on the Path to Cash Rewards via Bug Bounties at OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-document-workflow-with-these-10-must-have-chatgpt-pdf-tools/"><u>Enhance Your Document Workflow with These 10 Must-Have ChatGPT PDF Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-the-dangers-of-seeking-medical-insights-from-chatgpt/"><u>Evaluating the Dangers of Seeking Medical Insights From ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-instagrams-unpredictable-video-playback-for-2024/"><u>Exploring Instagram's Unpredictable Video Playback for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-creation-process-of-chatgpts-text-is-there-any-risk-of-plagiarism/"><u>Exploring the Creation Process of ChatGPT's Text: Is There Any Risk of Plagiarism?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-canon-pixma-mp562-inkjet-driver-for-pcs-running-windows-1187/"><u>Get Your Canon Pixma MP562 Inkjet Driver for PCs Running Windows 11/8/7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gptbot-overview-and-the-rationale-for-its-restriction-on-websites/"><u>GPTBot Overview & The Rationale for Its Restriction on Websites</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-a79-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo A79 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/inside-look-how-youtuber-shorts-work/"><u>Inside Look  How Youtuber Shorts Work</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inside-the-drone-an-in-depth-review-of-dji-phantom-3-pro/"><u>Inside the Drone  An In-Depth Review of DJI Phantom 3 Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-yourself-from-ai-phishing-attempts-tips-on-recognizing-suspicious-chatgpt-websites-and-action-plans/"><u>Protect Yourself From AI Phishing Attempts: Tips on Recognizing Suspicious ChatGPT Websites and Action Plans</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/recognizing-artificial-intelligence-illusions-identifying-and-understanding-ai-hallucinations/"><u>Recognizing Artificial Intelligence Illusions: Identifying & Understanding AI 'Hallucinations'</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/redefining-home-management-ai-driven-by-gpts-touch/"><u>Redefining Home Management: AI-Driven by GPT's Touch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/risks-avoid-mobile-gpt-app-downloads/"><u>Risks: Avoid Mobile GPT App Downloads</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-unresponsive-usb-slots-on-an-hp-laptop-computer/"><u>Step-by-Step Solutions for Unresponsive USB Slots on an HP Laptop Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-strategies-utilizing-my-gpt-bots-to-excel-in-board-games-image-design-and-advanced-tasks/"><u>Step-by-Step Strategies: Utilizing My GPT Bots to Excel in Board Games, Image Design, and Advanced Tasks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-accessing-plugin-support-and-web-browsing-on-chatgpt-beta-version/"><u>Step-by-Step Tutorial: Accessing Plugin Support and Web Browsing on ChatGPT Beta Version</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-art-of-balancing-human-creativity-and-ai-assistance-in-writing/"><u>The Art of Balancing Human Creativity and AI Assistance in Writing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-dangers-of-over-relying-on-ai-6-critical-points/"><u>The Hidden Dangers of Over-Relying on AI: 6 Critical Points</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-latest-on-chatgpt-is-it-running/"><u>The Latest on ChatGPT: Is It Running?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-new-frontier-of-business-with-whisper-and-gptapis/"><u>The New Frontier of Business with Whisper & GPTAPIs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-collection-of-7-key-online-utilities-to-refine-your-prompt-construction-techniques/"><u>The Ultimate Collection of 7 Key Online Utilities to Refine Your Prompt Construction Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/threatened-by-gpts-content-generation/"><u>Threatened by GPT's Content Generation?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-factors-that-make-ai-ill-suited-for-full-time-writing-roles/"><u>Top 5 Factors That Make AI Ill-Suited for Full-Time Writing Roles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-employment-7-predictions-on-how-generative-ai-shapes-our-future-work/"><u>Transforming Employment: 7 Predictions on How Generative AI Shapes Our Future Work</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-honor-90-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Honor 90</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-artificei-intelligence-a-beginners-guide/"><u>Understanding ArtificeI Intelligence: A Beginner's Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-and-the-potential-of-using-advanced-generative-ai-tech/"><u>Understanding ChatGPT & The Potential of Using Advanced Generative AI Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-turings-challenge-is-it-unbeatable/"><u>Understanding Turing's Challenge: Is It Unbeatable?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-power-of-ai-integrating-codegpt-into-your-visual-studio-workflow/"><u>Unlock the Power of AI: Integrating CodeGPT Into Your Visual Studio Workflow</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-distinctions-between-gpt-and-bert-in-natural-language-processing/"><u>Unraveling the Distinctions Between GPT and BERT in Natural Language Processing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-does-the-leadership-shake-up-at-openai-mean-for-chatgpt/"><u>What Does the Leadership Shake-Up at OpenAI Mean for ChatGPT?</u></a></li>
+</ul></div>

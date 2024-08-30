@@ -1,7 +1,7 @@
 ---
 title: "Transferring Your iCloud Images: A Simple Guide to Downloading on All Devices"
-date: 2024-08-27 10:38:57
-updated: 2024-08-29 10:33:35
+date: 2024-08-29T02:12:38.569Z
+updated: 2024-08-30T02:12:38.569Z
 tags:
   - desktop
 categories:
@@ -42,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/38deee1fec1c0bec7cba4dcb61a1033e4c5fd684f
 
  You can reverse this selection if you decide you’d rather let your devices manage free space and store everything in iCloud again.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ##  Download iCloud Photos on Your Mac
 
  Downloading iCloud Photos locally on a Mac uses the same process as it does on iPhone and iPad. The good news is that you probably have more [free space available on your Mac](https://youtube-tips.techidaily.com/ed-2024-approved-swift-techniques-mastering-effective-double-exposure/).
@@ -54,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/38deee1fec1c0bec7cba4dcb61a1033e4c5fd684f
 
 ![Enabling original media downloads in macOS Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-14-54-20.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
  Switching back to “Optimize Mac Storage” will reverse the decision, removing local media files while keeping them safe in the cloud.
 
  You can also use some of the methods listed below for Windows, Linux, a command line tool, and by requesting data from Apple directly.
@@ -68,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/38deee1fec1c0bec7cba4dcb61a1033e4c5fd684f
 
 ![Enabling iCloud Photos in iCloud for Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-11-09-01.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
  You can also turn on Shared folders and tweak a few other settings while you’re here. Be patient while things download. To reverse your decision, and delete everything locally but keep your media safe in the cloud, simply disable the “iCloud Photos” checkbox again.
 
  You’ll see a warning notifying you that local media will be removed.
@@ -76,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/38deee1fec1c0bec7cba4dcb61a1033e4c5fd684f
 
  There are other options for Windows users including using the iCloud website, a command line tool, and requesting data from Apple as noted below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  Download iCloud Photos Using iCloud.com (Works for Linux)
 
  Unsurprisingly, Apple doesn’t make an iCloud for Linux application. The easiest way for Linux users to download their iCloud Photo Library is to head to [iCloud.com](http://www.icloud.com) and log in using their Apple ID credentials. This works for most other operating systems too.
@@ -84,6 +96,9 @@ thumbnail: https://thmb.techidaily.com/38deee1fec1c0bec7cba4dcb61a1033e4c5fd684f
 
 ![Downloading photos from iCloud.com using Firefox for Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-15-01-06.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  iCloud will download your media in [ZIP file format](https://remote-screen-capture.techidaily.com/new-visual-voyage-amds-radeon-reborn-for-2024/) which you can then extract to a location of your choice. Repeat as necessary to get all of your photos downloaded. iCloud will show you how many items you have selected at a time in the top-right corner of the page, which simplifies this process a bit.
 
 ![iCloud Photos downloading in a ZIP archive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-15-01-12.png) 
@@ -112,6 +127,9 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 
 ![Downloading iCloud Photos using a mobile browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/icloud-photos.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
  Hit the ellipsis “…” icon in the bottom-right corner of the screen and choose “Download” or “More Download Options” to download the photos to your device.
 
 ##  Download iCloud Photos from Apple Directly
@@ -120,12 +138,18 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 
 ![Apple's Privacy website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-13-56-06.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the next screen, check “iCloud Photos” and anything else you’d like a copy of, then hit the blue “Continue” button at the bottom of the page. Your request will be processed by Apple and you’ll eventually receive an invitation to download your data.
 
 ![Request a copy of your iCloud Photos data from Apple.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-13-57-23.png) 
 
  You can also use the privacy website to [switch directly from iCloud to Google Photos](https://extra-support.techidaily.com/2024-approved-praise-in-pixels-the-new-marketing-trend/).
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Convenience at a Price
 
  iCloud offers peace of mind and deep, native integration with your Apple devices. For non-Apple devices, it can be a bit of a hassle. Hopefully, you can work with the solutions presented above, whether you just want a local backup or are switching cloud provider.
@@ -146,3 +170,49 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-evaluating-the-superiority-of-splitcams-recording/"><u>[Updated] 2024 Approved  Evaluating the Superiority of SplitCam's Recording</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-social-media-supremacy-amplifying-sales-via-tiktok-campaigns/"><u>[Updated] 2024 Approved  Social Media Supremacy  Amplifying Sales via TikTok Campaigns</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-deciphering-instagram-video-glitches-and-finding-silence-free-viewing/"><u>[Updated] Deciphering Instagram Video Glitches and Finding Silence-Free Viewing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-selection-of-frames-for-professional-ig-artistry/"><u>[Updated] The Ultimate Selection of Frames for Professional IG Artistry</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-video-content-battle-who-wins-with-vimeo-youtube-or-dailymotion/"><u>2024 Approved  Video Content Battle  Who Wins with Vimeo, YouTube, or DailyMotion?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-comprehensive-look-at-decelerating-youtube-video-speed-50-chars-for-2024/"><u>A Comprehensive Look at Decelerating YouTube Video Speed (50 Chars) for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/confirming-chatgpts-status-discover-five-effective-strategies/"><u>Confirming ChatGPT's Status: Discover Five Effective Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-engaging-dandd-character-images-with-chatgpt-and-dall-e-a-step-by-step-guide/"><u>Creating Engaging D&D Character Images with ChatGPT and DALL-E: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dialogue-design-dexterity-constructing-custom-ai/"><u>Dialogue Design Dexterity: Constructing Custom AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ios-version-of-chatgpt/"><u>Discover the iOS Version of ChatGPT!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diy-pc-repair-with-chatgpt-effective-strategies-for-solving-common-issues/"><u>DIY PC Repair with ChatGPT: Effective Strategies for Solving Common Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/does-engaging-with-chatgpt-enhance-its-knowledge-through-conversation/"><u>Does Engaging with ChatGPT Enhance Its Knowledge Through Conversation?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-mastering-job-interviews-with-chatgpts-ai-assistance/"><u>Effective Strategies: Mastering Job Interviews with ChatGPT's AI Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-tech-game-top-6-strategies-for-chatgpts-tool/"><u>Elevate Your Tech Game - Top 6 Strategies for ChatGPT's Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-iphone-capabilities-by-combining-siri-with-the-ai-of-chatgpt-step-by-step-tutorial/"><u>Enhancing iPhone Capabilities by Combining Siri with the AI of ChatGPT – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-ai-identification-programs-for-teaching-professionals-and-leaders/"><u>Essential AI Identification Programs for Teaching Professionals and Leaders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-safety-top-6-cybersecurity-concerns-with-openais-chatgpt/"><u>Evaluating Safety: Top 6 Cybersecurity Concerns with OpenAI's ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-artificial-intelligence-vulnerabilities-the-mechanics-of-prompt-injection-attacks/"><u>Exploring Artificial Intelligence Vulnerabilities: The Mechanics of Prompt Injection Attacks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpt-copilot-an-in-depth-look-at-its-capabilities/"><u>Exploring ChatGPT Copilot: An In-Depth Look at Its Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-benefits-of-up-to-the-minute-info-with-chatgpt-for-everyone/"><u>Exploring the Benefits of Up-to-the-Minute Info with ChatGPT for Everyone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-zero-to-hero-with-auto-gpt-a-comprehensive-step-by-step-downloading-and-installation-guide/"><u>From Zero to Hero with Auto-GPT: A Comprehensive Step-by-Step Downloading & Installation Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-s23-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy S23 for Free? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-television-problem-solving-top-strategies-for-diy-repairs/"><u>Mastering the Art of Television Problem-Solving: Top Strategies for DIY Repairs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-ai-regulatory-challenges-with-chatgpt-enhancements-in-google-news-delivery-and-top-tips-for-reliable-wireless-on-holidays/"><u>Overcoming AI Regulatory Challenges with ChatGPT, Enhancements in Google News Delivery, and Top Tips for Reliable Wireless on Holidays</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/proven-techniques-for-improving-chatgpt-the-ultimate-guide/"><u>Proven Techniques for Improving ChatGPT: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-start-guide-to-implementing-auto-gpt-with-step-by-step-instructions/"><u>Quick Start Guide to Implementing Auto-GPT with Step by Step Instructions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revamping-the-writers-toolkit-8-ai-innovations-explored/"><u>Revamping the Writer's Toolkit: 8 AI Innovations Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solution-found-why-football-manager-202n-wont-launch-and-how-to-fix-it/"><u>Solution Found: Why Football Manager 202N Won't Launch & How to Fix It</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stepwise-guide-improving-windows-10-wi-fi-via-new-atheros-drivers/"><u>Stepwise Guide: Improving Windows 10 Wi-Fi via New Atheros Drivers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/talk-translator-essential-offline-text-recognition-software/"><u>Talk Translator  Essential Offline Text Recognition Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-artisans-guide-harnessing-chatgpt-for-visual-ai/"><u>The Artisan's Guide: Harnessing ChatGPT for Visual AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-hobby-enhancement-with-chatgpts-my-bot-capabilities/"><u>The Future of Hobby Enhancement with ChatGPT's My Bot Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-selection-of-smartphone-ai-programs-for-iphone-and-android-devices-top-8-picks/"><u>The Ultimate Selection of Smartphone AI Programs for iPhone and Android Devices: Top 8 Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/thriving-amidst-automation-6-strategies-for-success-in-an-ai-enhanced-career/"><u>Thriving Amidst Automation: 6 Strategies for Success in an AI-Enhanced Career</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-essential-upgrades-needed-in-chatgpts-plugin-marketplace/"><u>Top 4 Essential Upgrades Needed in ChatGPT's Plugin Marketplace</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-secrets-of-storytelling-mastery-using-chatgpt-techniques/"><u>Unlock the Secrets of Storytelling Mastery Using ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-chat-ai-differences-on-platforms/"><u>Unveiling the Chat AI Differences on Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-can-you-achieve-with-the-chatgpt-copilot-extension-a-complete-overview/"><u>What Can You Achieve with the ChatGPT Copilot Extension? A Complete Overview</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-the-chatgpt-error-in-body-stream-issue-7-ways-you-can-fix-it/"><u>What Is the ChatGPT Error in Body Stream Issue? 7 Ways You Can Fix It</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Oppo Find X7? | Dr.fone</u></a></li>
+</ul></div>

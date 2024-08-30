@@ -1,0 +1,192 @@
+---
+title: Unleash Your Storytelling Potential - 11 Effective ChatGPT Techniques for Book Characters
+date: 2024-08-29T02:23:58.555Z
+updated: 2024-08-30T02:23:58.555Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Unleash Your Storytelling Potential - 11 Effective ChatGPT Techniques for Book Characters
+excerpt: This Article Describes Unleash Your Storytelling Potential - 11 Effective ChatGPT Techniques for Book Characters
+thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e21671842dafed2c03929e7c2.jpg
+---
+
+## Boost Your AI Skills: 7 Proven AI Prompting Techniques for Superior Results
+
+### Quick Links
+
+* [Be as Specific as Possible](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#be-as-specific-as-possible)
+* [Ask for More Information After Getting an Initial Answer](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#ask-for-more-information-after-getting-an-initial-answer)
+* [Explain What Hasn't Worked When You've Prompted in the Past](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#explain-what-hasn-39-t-worked-when-you-39-ve-prompted-in-the-past)
+* [Don't Make Your AI Multitask](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#don-39-t-make-your-ai-multitask)
+* [Tell Your AI Tool What You Don't Want in Your Answer](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#tell-your-ai-tool-what-you-don-39-t-want-in-your-answer)
+* [Upload Images or Files (if Available)](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#upload-images-or-files-if-available)
+* [Mention Where You Want to Use Your Prompt Answers](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#mention-where-you-want-to-use-your-prompt-answers)
+
+ It's easy to think that AI prompting is as simple as typing some text and hitting the Enter key, but the reality is very different. If you want accurate, useful information from an AI chatbot, crafting a prompt properly is important.
+
+ But it's not always easy. How specific should you be? What information should you include? And how do you request your data in a useful format?
+
+ A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
+
+## 1 Be as Specific as Possible
+
+ One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
+
+ For example, let's say that you want your AI tool to generate a new gym workout plan. If you simply say something like, "Please create a gym plan for five days per week," you'll get generic results. Instead, a better prompt is:
+
+> “Please create a fitness and diet plan that involves five workouts per week. I want to combine weightlifting with high-intensity interval training and have been regularly exercising for 10 years. I’m 28 years old, 6 ft, and 90 kilograms. I don’t have any allergies, but I am sensitive to rice and don’t want to drink alcohol.”
+
+ As you can see below, we've received more of a customized workout plan with the types of exercises that we wanted.
+
+![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
+
+ The more context you provide your AI tool, the better of a response you'll receive.
+
+## 2 Ask for More Information After Getting an Initial Answer
+
+ As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
+
+ This time, we've asked our AI tool to give us a three-day San Francisco itinerary for a couple's trip. Using the first tip mentioned in this guide and being more specific, we got a pretty good outline.
+
+![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+ However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
+
+![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3 Explain What Hasn't Worked When You've Prompted in the Past
+
+ As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
+
+ This tip is especially important if you want to use AI tools like DALL-E 3 to generate images. I've often noticed that first drafts sometimes don't yield what I'm looking for, and there could also be problems like defects for items like flags.
+
+ Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+## 4 Don't Make Your AI Multitask
+
+![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
+
+ Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
+
+[Avoiding common mistakes when using AI prompting tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) isn't always easy, but one of the main issues you'll encounter is trying to make the tool multitask. AI programs will often generate your results within a few minutes, but they can only do one thing at a time. If you try to ask too many things in one go, you won't get the results you want.
+
+ Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
+
+ Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
+
+## 5 Tell Your AI Tool What You Don't Want in Your Answer
+
+ Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
+
+ When designing your prompt, be very specific about what you don't want in your results. For example, if you're planning a trip, you may want to mention that you don't want to join tours or would prefer to avoid popular spots.
+
+![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
+
+ Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 6 Upload Images or Files (if Available)
+
+ Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
+
+ If you're using AI to create art, it's also a good idea to upload images that the AI tool can use as examples. Meanwhile, if you want to[use Photo AI](https://www.makeuseof.com/what-is-photo-ai/) or similar tools for pictures of yourself, uploading selfies, headshots, and other images will help you achieve what you want.
+
+[Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
+
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
+## 7 Mention Where You Want to Use Your Prompt Answers
+
+ Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
+
+ If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
+
+![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
+
+ AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-activate-or-deactivate-video-commenting-in-youtube/"><u>[New] 2024 Approved  How To Activate or Deactivate Video Commenting in YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unlocking-the-secrets-of-reversed-visual-exploration-online-facebook/"><u>[New] 2024 Approved  Unlocking the Secrets of Reversed Visual Exploration Online (Facebook)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-fb-download-made-simple-free-and-convenient-options-of-23-online/"><u>[New] FB Download Made Simple  Free & Convenient Options of '23 Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-mediocre-to-marvelous-an-exhaustive-facetune-analysis/"><u>[New] From Mediocre to Marvelous  An Exhaustive Facetune Analysis</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-high-end-audio-gear-the-top-9-mic-recorders-online-in-23/"><u>[New] In 2024, High-End Audio Gear  The Top 9 Mic Recorders Online in '23</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-sharing-vimeo-content-instagram-tips/"><u>[New] Sharing Vimeo Content  Instagram Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solved-how-to-view-hidden-files-in-windows-10windows-help/"><u>[Solved] How to View Hidden Files in Windows 10–Windows Help</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-amplify-your-video-calls-with-these-essential-10-free-tools/"><u>[Updated] 2024 Approved  Amplify Your Video Calls with These Essential 10 Free Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-directed-focus-youtubes-easy-ways-for-smoother-borders/"><u>[Updated] In 2024, Directed Focus  YouTube's Easy Ways for Smoother Borders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-outro-samples-collection-including-both-costs/"><u>[Updated] Outro Samples Collection  Including Both Costs</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-reno-8t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Reno 8T Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/combat-oculus-discomfort-10-methods/"><u>Combat Oculus Discomfort  10 Methods</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/cookiebot-driven-automation-and-personalization-for-enhanced-user-engagement/"><u>Cookiebot-Driven Automation and Personalization for Enhanced User Engagement</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/effortless-docbook-digitization-for-iphones-using-ocr-technology-try-the-power-of-finereader/"><u>Effortless Doc/Book Digitization for iPhones Using OCR Technology - Try the Power of FineReader!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/enhance-your-fb-ads-with-these-20-free-video-editor-apps-for-2024/"><u>Enhance Your Fb Ads with These 20 Free Video Editor Apps for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/epic-playground-the-top-10-alternatives-to-grand-theft-auto-v/"><u>Epic Playground  The Top 10 Alternatives to Grand Theft Auto V</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/from-setup-to-streaming-the-definitive-guide-for-live-tv-screen-sharing-on-windows/"><u>From Setup to Streaming  The Definitive Guide for Live TV Screen-Sharing on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/getting-started-with-discord-on-a-mac-system/"><u>Getting Started with Discord on a Mac System</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-redmi-note-12-proplus-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi Redmi Note 12 Pro+ 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-fix-your-pc-by-reverting-amd-graphics-drivers-on-windows/"><u>How to Fix Your PC by Reverting AMD Graphics Drivers on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-install-windows-11-on-a-pc-using-a-bootable-usb-drive-step-by-step-guide-with-images/"><u>How to Install Windows 11 on a PC Using a Bootable USB Drive - Step-by-Step Guide with Images</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-recover-from-frozen-or-halted-windows-updates-fixes-at-hand/"><u>How to Recover From Frozen or Halted Windows Updates - Fixes at Hand</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-restore-drag-and-drop-functionality-on-your-windows-machine/"><u>How To Restore Drag and Drop Functionality On Your Windows Machine</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-rotate-screen-in-windows-10-easy-guide/"><u>How to Rotate Screen in Windows 10 [Easy Guide]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-update-atheros-wifi-drivers-in-windows-11/"><u>How to Update Atheros Wifi Drivers In Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808121034-hp-drivers-for-windows-10-download-easily/"><u>HP Drivers for Windows 10. Download Easily！</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-magic-v2-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Magic V2 Phone FRP Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-kodi-how-to-setup-and-use-the-netflix-addon-effectively/"><u>Mastering Kodi: How to Setup and Use the Netflix Addon Effectively</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-printer-laptop-connections-your-comprehensive-guide-to-wireless-and-direct-cable-methods/"><u>Mastering Printer-Laptop Connections: Your Comprehensive Guide to Wireless and Direct Cable Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-online-privacy-and-save-exclusive-guide-to-scoring-49-off-expressvpn-deals/"><u>Maximize Online Privacy & Save: Exclusive Guide to Scoring 49%% Off ExpressVPN Deals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimize-your-windows-10-sound-top-methods-for-enhancing-audio-quality/"><u>Optimize Your Windows 10 Sound: Top Methods for Enhancing Audio Quality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimized-media-playback-on-ps4-say-goodbye-to-lag-issues/"><u>Optimized Media Playback on PS4 - Say Goodbye to Lag Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-your-pc-for-elder-scrolls-online-a-step-by-step-guide-to-increase-fps/"><u>Optimizing Your PC for Elder Scrolls Online: A Step-by-Step Guide to Increase FPS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/power-up-any-web-session-integrating-agentgpts-ais/"><u>Power Up Any Web Session – Integrating AgentGPT's AIs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolve-high-cpu-consumption-issues-in-windows-10-a-comprehensive-guide/"><u>Resolve High CPU Consumption Issues in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-how-to-transfer-your-chrome-bookmarks-with-ease/"><u>Simple Steps: How to Transfer Your Chrome Bookmarks with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-accessing-disk-management-on-your-windows-11-pc/"><u>Step-by-Step Guide: Accessing Disk Management on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-removing-applications-from-your-pc-using-windows-11/"><u>Step-by-Step Guide: Removing Applications From Your PC Using Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-solution-fixing-windows-cannot-be-installed-to-this-disk-error-due-to-gpt-requirements/"><u>Step-by-Step Solution: Fixing 'Windows Cannot Be Installed to This Disk' Error Due to GPT Requirements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-how-to-monitor-and-manage-cpu-heat-levels-on-windows-11-systems/"><u>Step-by-Step Tutorial: How to Monitor and Manage CPU Heat Levels on Windows 11 Systems</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-play-8t-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor Play 8T</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-explained-a-detailed-look-at-computer-tech/"><u>Tom's Hardware Explained: A Detailed Look at Computer Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshoot-and-fix-how-to-restore-your-logitech-k520-keyboards-functionality-swiftly/"><u>Troubleshoot & Fix: How to Restore Your Logitech K520 Keyboard's Functionality Swiftly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723807921534-ultimate-tutorial-to-get-and-run-kodi-on-your-xbox-one-easy-steps-inside/"><u>Ultimate Tutorial to Get and Run Kodi on Your Xbox One - Easy Steps Inside</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/use-ps4-controller-on-steam-tutorial/"><u>Use PS4 Controller on Steam [Tutorial]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-10-blocks-desktop-programs-win32-apps-points-to-windows-store/"><u>Windows 10 Blocks Desktop Programs (Win32 Apps), Points to Windows Store</u></a></li>
+</ul></div>

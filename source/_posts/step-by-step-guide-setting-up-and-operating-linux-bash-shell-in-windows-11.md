@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up & Operating Linux Bash Shell in Windows 11"
-date: 2024-08-28 11:14:36
-updated: 2024-08-29 10:29:38
+date: 2024-08-29T02:13:59.061Z
+updated: 2024-08-30T02:13:59.061Z
 tags:
   - deals
 categories:
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 
 ![Open up the Windows Features menu, scroll down until you find &quot;Windows Subsystem for Linux,&quot; then tick the box and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985001e7f37.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
  Click "Restart now" when you're prompted to restart your computer. The feature won't work until you reboot.
 
  Alternatively, you can also install it using PowerShell. [Launch PowerShell as an Administrator](https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/), then enter:
@@ -66,6 +73,9 @@ wsl --install
 
 ![PowerShell running WSL install command successfully.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/WSL-install.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After your computer restarts, open the Microsoft Store from the Start menu, and search for "Linux" in the store.
 
 ![Linux distros available on the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ms-store-linux.png) 
@@ -80,8 +90,14 @@ wsl --install
 
 ![Installing Debian through the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/installing-debian.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also install multiple Linux distributions and they'll each get their own unique shortcuts. You can even run multiple different Linux distributions at a time in different windows.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Use The Bash Shell and Install Linux Software
 
  You now have a full command-line bash shell through Ubuntu, or whichever other Linux distribution you installed.
@@ -100,6 +116,15 @@ wsl --install
 
 ![Enter a username and password for your Linux distro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985a5c26989.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
  You can launch your installed Linux environment by running the `wsl` command. If you have multiple Linux distributions installed, you can [choose the default Linux environment](https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-note-30-vip-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/) this command launches.
 
  If you have Ubuntu installed, you can also run the `ubuntu` command to install it. For openSUSE Leap 42, use `opensuse-42` . For SUSE Linux Enterprise Sever 12, use `sles-12` . These commands are listed on each Linux distribution's page on the Windows Store.
@@ -108,6 +133,9 @@ wsl --install
 
 ![Running &quot;bash&quot; in the Command Prompt will launch your default Linux environment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985b14e9795.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
  If you're experienced using a Bash shell on Linux, Mac OS X, or other platforms, you'll be right at home.
 
  On Ubuntu, you need to prefix a command with `sudo` to [run it with root permissions](https://extra-support.techidaily.com/maximize-your-listening-experience-ios-podcast-mastery-for-2024/). The "root" user on UNIX platforms has full system access, like the "Administrator" user on Windows. Your Windows file system is located at `/mnt/c` in the Bash shell environment.
@@ -142,6 +170,12 @@ wsl --install
 
 ![Installing GNU Compiler Collection with apt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985e7d80a6b.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Install the Ubuntu Font for a True Ubuntu Experience
 
  If you want a more accurate Ubuntu experience on Windows 10, you can also install the Ubuntu fonts and enable them in the terminal. You don't have to do this, as the default Windows command prompt font looks pretty good to us, but it's an option.
@@ -158,6 +192,13 @@ wsl --install
 
 ![Click &quot;Install&quot; near the top if you want to use the font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985ee273570.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ##  Use the Ubuntu Monospace Font in the Console
 
  To make the Ubuntu monospace font become an option in the console, you'll need to add a setting to [the Windows registry](https://facebook-record-videos.techidaily.com/new-economical-mic-options-for-youtube-vloggers-for-2024/).
@@ -168,6 +209,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 ![Navigate to the &quot;TrueTypeFont&quot; key.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986517b1bec.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
  Right-click in the right pane and select New > String Value. Name the new value `000` .
 
  Double-click the "000" string you just created, and then enter `Ubuntu Mono` as its value data.
@@ -190,6 +234,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 ![Enable the Ubuntu Mono font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/font-ubuntu-mono.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
  Remember: software you install in the Bash shell is restricted to the Bash shell. You can access these programs from the Command Prompt, PowerShell, or elsewhere in Windows, but only if you [run the bash -c command](https://vp-tips.techidaily.com/building-a-brand-with-captivating-haul-videos-and-edits/).
 
 <ins class="adsbygoogle"
@@ -206,3 +253,43 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-guide-to-the-top-10-historical-education-channels/"><u>[New] 2024 Approved  Guide to the Top 10 Historical Education Channels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-archive-all-your-images-flawlessly-infinite-no-charge-and-elite-paid-storage/"><u>[Updated] Archive All Your Images Flawlessly  Infinite, No-Charge & Elite Paid Storage</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-best-5-tiktok-fonts-generator-of-2023-to-gain-more-views-for-2024/"><u>[Updated] Best 5 TikTok Fonts Generator of 2023 to Gain More Views for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-teacher-friendly-screen-recording-software-for-2024/"><u>[Updated] Essential Teacher-Friendly Screen Recording Software for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-25-essential-hashtags-for-increased-instagram-engagement/"><u>[Updated] In 2024, 25 Essential Hashtags for Increased Instagram Engagement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-experts-list-of-top-vector-stock-portals/"><u>[Updated] The Expert's List of Top Vector Stock Portals</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-playbook-of-igtv-mastery-top-10-branding-techniques/"><u>[Updated] The Ultimate Playbook of IGTV Mastery  Top 10 Branding Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-the-art-of-photo-editing-workflow/"><u>2024 Approved  In-Depth  The Art of Photo Editing Workflow</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/5-star-photo-editing-software-roundup-perfect-fixes-for-windows-and-mac-systems/"><u>5-Star Photo Editing Software Roundup: Perfect Fixes for Windows and Mac Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-these-faulty-practices-to-maximize-chatgpts-potential-for-content-generation/"><u>Avoid These Faulty Practices to Maximize ChatGPT's Potential for Content Generation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-chatgpt-master-the-art-of-crafting-exquisite-cockt/"><u>Can ChatGPT Master the Art of Crafting Exquisite Cockt</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-for-career-success-discover-the-top-6-compelling-reasons/"><u>ChatGPT Mastery for Career Success: Discover the Top 6 Compelling Reasons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-7-exceptional-alternatives-to-chatgpt-enhance-your-mobile-experience/"><u>Discover 7 Exceptional Alternatives to ChatGPT: Enhance Your Mobile Experience!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-independent-professionals-mastering-chatgpt-for-work-efficiency/"><u>Empowering Independent Professionals: Mastering ChatGPT for Work Efficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-role-playing-dynamics-how-chatgpt-can-transform-your-dungeons-and-dragons-sessions/"><u>Enhancing Role-Playing Dynamics: How ChatGPT Can Transform Your Dungeons & Dragons Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-data-safety-when-using-tailored-gpt-variants-such-as-chatgpt/"><u>Ensuring Data Safety When Using Tailored GPT Variants Such as ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/examining-chatgpt-as-a-tool-for-unauthorized-code/"><u>Examining ChatGPT as a Tool for Unauthorized Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/false-chatgpt-addon-subverts-facebook-logons/"><u>False ChatGPT Addon: Subverts Facebook Logons</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-preserving-and-retrieving-your-chatgpt-interactions-at-any-time/"><u>Guide: Preserving and Retrieving Your ChatGPT Interactions at Any Time</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-s23-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy S23 FRP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-openai-losing-grip-on-chatgpts-future/"><u>Is OpenAI Losing Grip on ChatGPT's Future?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-personal-experience-a-component-of-chatgpts-continued-education-from-dialogues/"><u>Is Personal Experience a Component of ChatGPT’s Continued Education From Dialogues?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-the-way-after-altman-the-impact-of-executive-shake-up-on-chatgpts-direction/"><u>Leading the Way After Altman: The Impact of Executive Shake-Up on ChatGPT's Direction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-chatgpts-role-in-landing-a-dream-job-through-linkedin/"><u>Leveraging AI: ChatGPT's Role in Landing a Dream Job Through LinkedIn</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-claude-3-insightful-uses-for-cutting-edge-ai/"><u>Mastering Claude 3: Insightful Uses for Cutting-Edge AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-start-of-a-prompt-engineering-career-expert-recommendations-and-guidelines/"><u>Navigating the Start of a Prompt Engineering Career: Expert Recommendations and Guidelines</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prioritized-improvements-to-craft-an-ideal-gpt-plugin-marketplace/"><u>Prioritized Improvements to Craft an Ideal GPT Plugin Marketplace</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/six-keys-to-outclassing-text-generating-machines/"><u>Six Keys to Outclassing Text-Generating Machines</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-final-verdict-on-generative-ai-tools-pitting-notion-ai-against-chatgpt/"><u>The Final Verdict on Generative AI Tools: Pitting Notion AI Against ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-longevity-of-auto-gpt-in-the-era-of-gpt-4-assessing-its-independent-worth/"><u>The Longevity of Auto-GPT in the Era of GPT-4: Assessing Its Independent Worth</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-power-of-usechatgpt-copilot-extension-for-seamless-web-navigation/"><u>The Power of UseChatGPT Copilot Extension for Seamless Web Navigation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/theoretical-perspectives-on-the-analogy-of-the-internet-as-an-open-access-resource-hub/"><u>Theoretical Perspectives on the Analogy of the Internet as an Open-Access Resource Hub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-ai-interactions-discover-7-key-techniques-for-better-prompts/"><u>Transform Your AI Interactions: Discover 7 Key Techniques for Better Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unravel-the-mysteries-of-artificial-intelligence-learn-to-use-free-dall-e-3-on-bing-by-microsoft/"><u>Unravel the Mysteries of Artificial Intelligence: Learn to Use Free DALL-E 3 on Bing by Microsoft</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-nuances-an-in-depth-look-at-what-sets-gpt-apart-from-bert-in-natural-language-processing/"><u>Unraveling Nuances: An In-Depth Look at What Sets GPT Apart From BERT in Natural Language Processing</u></a></li>
+</ul></div>
