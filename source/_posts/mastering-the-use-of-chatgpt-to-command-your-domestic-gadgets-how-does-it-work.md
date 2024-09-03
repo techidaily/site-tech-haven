@@ -1,0 +1,184 @@
+---
+title: "Mastering the Use of ChatGPT to Command Your Domestic Gadgets: How Does It Work?"
+date: 2024-09-02T12:21:54.039Z
+updated: 2024-09-03T12:21:54.039Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Mastering the Use of ChatGPT to Command Your Domestic Gadgets: How Does It Work?"
+excerpt: "This Article Describes Mastering the Use of ChatGPT to Command Your Domestic Gadgets: How Does It Work?"
+thumbnail: https://thmb.techidaily.com/a270605ef2ab426a6767629ae263537bc25fdbd249dd83c4ff219886bfce5bc1.jpg
+---
+
+## AI Mastery Through Improved Prompting: Learn the 7 Best Practices and Tricks That Work
+
+### Quick Links
+
+* [Be as Specific as Possible](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#be-as-specific-as-possible)
+* [Ask for More Information After Getting an Initial Answer](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#ask-for-more-information-after-getting-an-initial-answer)
+* [Explain What Hasn't Worked When You've Prompted in the Past](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#explain-what-hasn-39-t-worked-when-you-39-ve-prompted-in-the-past)
+* [Don't Make Your AI Multitask](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#don-39-t-make-your-ai-multitask)
+* [Tell Your AI Tool What You Don't Want in Your Answer](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#tell-your-ai-tool-what-you-don-39-t-want-in-your-answer)
+* [Upload Images or Files (if Available)](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#upload-images-or-files-if-available)
+* [Mention Where You Want to Use Your Prompt Answers](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#mention-where-you-want-to-use-your-prompt-answers)
+
+ It's easy to think that AI prompting is as simple as typing some text and hitting the Enter key, but the reality is very different. If you want accurate, useful information from an AI chatbot, crafting a prompt properly is important.
+
+ But it's not always easy. How specific should you be? What information should you include? And how do you request your data in a useful format?
+
+ A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
+
+## 1 Be as Specific as Possible
+
+ One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
+
+ For example, let's say that you want your AI tool to generate a new gym workout plan. If you simply say something like, "Please create a gym plan for five days per week," you'll get generic results. Instead, a better prompt is:
+
+> “Please create a fitness and diet plan that involves five workouts per week. I want to combine weightlifting with high-intensity interval training and have been regularly exercising for 10 years. I’m 28 years old, 6 ft, and 90 kilograms. I don’t have any allergies, but I am sensitive to rice and don’t want to drink alcohol.”
+
+ As you can see below, we've received more of a customized workout plan with the types of exercises that we wanted.
+
+![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
+
+ The more context you provide your AI tool, the better of a response you'll receive.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+## 2 Ask for More Information After Getting an Initial Answer
+
+ As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
+
+ This time, we've asked our AI tool to give us a three-day San Francisco itinerary for a couple's trip. Using the first tip mentioned in this guide and being more specific, we got a pretty good outline.
+
+![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
+
+ However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
+
+![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3 Explain What Hasn't Worked When You've Prompted in the Past
+
+ As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
+
+ This tip is especially important if you want to use AI tools like DALL-E 3 to generate images. I've often noticed that first drafts sometimes don't yield what I'm looking for, and there could also be problems like defects for items like flags.
+
+ Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
+
+## 4 Don't Make Your AI Multitask
+
+![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
+
+[Avoiding common mistakes when using AI prompting tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) isn't always easy, but one of the main issues you'll encounter is trying to make the tool multitask. AI programs will often generate your results within a few minutes, but they can only do one thing at a time. If you try to ask too many things in one go, you won't get the results you want.
+
+ Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
+
+ Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
+
+## 5 Tell Your AI Tool What You Don't Want in Your Answer
+
+ Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
+
+ When designing your prompt, be very specific about what you don't want in your results. For example, if you're planning a trip, you may want to mention that you don't want to join tours or would prefer to avoid popular spots.
+
+![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
+
+ Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
+
+## 6 Upload Images or Files (if Available)
+
+ Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
+
+ If you're using AI to create art, it's also a good idea to upload images that the AI tool can use as examples. Meanwhile, if you want to[use Photo AI](https://www.makeuseof.com/what-is-photo-ai/) or similar tools for pictures of yourself, uploading selfies, headshots, and other images will help you achieve what you want.
+
+[Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 7 Mention Where You Want to Use Your Prompt Answers
+
+ Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
+
+ If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
+
+![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/fixed-age-of-empires-iv-not-downloadinginstalling-on-microsoft-store/"><u>[Fixed] Age of Empires IV Not Downloading/Installing on Microsoft Store</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-enhance-motion-capture-choose-wisely-among-gear-for-2024/"><u>[New] Enhance Motion Capture - Choose Wisely Among Gear for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ustained-engagement-determining-the-ideal-frequency-for-your-youtube-channel/"><u>[New] Sustained Engagement  Determining the Ideal Frequency for Your YouTube Channel</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-steps-to-record-and-archive-google-voice-calls-for-2024/"><u>[Updated] Essential Steps to Record and Archive Google Voice Calls for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-premium-download-assist-ff-friendly-fb-addons-for-2024/"><u>[Updated] Premium Download Assist - FF-Friendly FB Addons for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-expert-insights-into-efficient-lunapic-usage/"><u>2024 Approved  Expert Insights Into Efficient LunaPic Usage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-guide-step-by-step-process-to-perform-a-full-restart-on-your-oculus-quest-2/"><u>Complete Guide: Step-by-Step Process to Perform a Full Restart on Your Oculus Quest 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/controversial-yet-clever-unpacking-the-misunderstood-potential-of-the-ethical-ai-emblem/"><u>Controversial Yet Clever: Unpacking the Misunderstood Potential of the Ethical AI Emblem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-blockchain-changes-a-comprehensive-guide-to-hard-forks-in-cryptocurrencies/"><u>Decoding Blockchain Changes: A Comprehensive Guide to Hard Forks in Cryptocurrencies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-cardanos-vasil-transition-an-insightful-exploration-into-its-purpose-and-features/"><u>Decoding Cardano's Vasil Transition: An Insightful Exploration Into Its Purpose and Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-poap-exploring-the-evolution-of-memory-storage-within-the-web3-revolution/"><u>Decoding POAP: Exploring the Evolution of Memory Storage Within the Web3 Revolution</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/led-instructions-for-embedding-and-displaying-youtube-playlists-online-for-2024/"><u>Detailed Instructions for Embedding and Displaying YouTube Playlists Online for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-astonishing-applications-of-chatgpts-powerful-image-analysis-capabilities/"><u>Discover Astonishing Applications of ChatGPT's Powerful Image Analysis Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dispelling-fear-embracing-hope-top-7-reasons-to-get-excited-about-artifice-intelligence/"><u>Dispelling Fear, Embracing Hope: Top 7 Reasons to Get Excited About Artifice Intelligence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-dell-dell-d3100-graphics-driver-simple-steps/"><u>Download and Update DELL Dell D3100 Graphics Driver - Simple Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embrace-the-future-with-essential-ai-vocabulary-top-7-must-know-terms/"><u>Embrace the Future with Essential AI Vocabulary - Top 7 Must-Know Terms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-guide-8-situations-that-require-your-devices-to-be-at-full-battery-life/"><u>Essential Guide: 8 Situations That Require Your Devices to Be at Full Battery Life</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-ethereum-20-can-this-upgrade-resolve-key-issues-in-digital-currencies/"><u>Exploring Ethereum 2.0 – Can This Upgrade Resolve Key Issues in Digital Currencies?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-perplexity-an-in-depth-guide-on-using-this-cutting-edge-chatbot-technology/"><u>Exploring Perplexity: An In-Depth Guide on Using This Cutting-Edge Chatbot Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-causes-of-chatgpts-intermittent-availability-and-how-users-can-adapt/"><u>Exploring the Causes of ChatGPT's Intermittent Availability and How Users Can Adapt</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-insights-a-guide-to-the-latest-in-computer-hardware/"><u>Exploring Tom's Tech Insights: A Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gm-postpones-launch-of-several-planned-electric-models/"><u>GM Postpones Launch of Several Planned Electric Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-carvanas-virtual-showroom-fell-short-compared-to-local-auto-dealerships/"><u>How Carvana's Virtual Showroom Fell Short Compared to Local Auto Dealerships</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-do-martian-clouds-differ-visually-from-those-on-earth-in-terms-of-appearance-and-structure/"><u>How Do Martian Clouds Differ Visually From Those on Earth in Terms of Appearance and Structure?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-perplexity-outperforms-chatgpt-with-enhanced-dialogue-capabilities/"><u>How Perplexity Outperforms ChatGPT with Enhanced Dialogue Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-block-openais-crawlers-from-scraping-your-website/"><u>How to Block OpenAI's Crawlers From Scraping Your Website</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-x-fold-2-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo X Fold 2?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-perfect-pairings-of-sound-and-sight-on-social-platforms/"><u>In 2024, Perfect Pairings of Sound and Sight on Social Platforms</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-ai-powered-assistants-microsofts-copilot-now-in-mobile-word-powerpoint-and-excel-what-you-should-know/"><u>Introducing AI-Powered Assistants: Microsoft's Copilot Now in Mobile Word, PowerPoint & Excel - What You Should Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-the-all-new-electric-escalade-by-cadillac-an-impressive-450-mile-journey-awaits/"><u>Introducing the All-New Electric Escalade by Cadillac – An Impressive 450 Mile Journey Awaits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-possible-for-ai-chatbots-to-fall-prey-to-human-like-social-engineering-schemes/"><u>Is It Possible for AI Chatbots to Fall Prey to Human-Like Social Engineering Schemes?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/laptops-vs-smartphones-the-clear-advantage-of-folding-technology-on-pcs/"><u>Laptops Vs. Smartphones: The Clear Advantage of Folding Technology on PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/launch-of-metas-groundbreaking-cambria-virtual-reality-device-slated-for-october-release/"><u>Launch of Meta's Groundbreaking Cambria Virtual Reality Device Slated for October Release</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-no-cost-artificial-intelligence-tools-for-image-alt-text-creation/"><u>Leverage No-Cost Artificial Intelligence Tools for Image Alt Text Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-gesture-recognition-a-guide-to-leveraging-meta-quest-controller-tracking/"><u>Mastering Gesture Recognition: A Guide to Leveraging Meta Quest Controller Tracking</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-asus-rog-phone-7-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Asus ROG Phone 7 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-ios-updates-discover-9-effective-solutions/"><u>Struggling with iOS Updates? Discover 9 Effective Solutions</u></a></li>
+</ul></div>

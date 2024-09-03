@@ -1,0 +1,189 @@
+---
+title: The Allure of Free GPT-4 and Why It Doesn't Outshine These 6 Benefits of Using ChatGPT Plus
+date: 2024-09-02T12:20:24.501Z
+updated: 2024-09-03T12:20:24.501Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes The Allure of Free GPT-4 and Why It Doesn't Outshine These 6 Benefits of Using ChatGPT Plus
+excerpt: This Article Describes The Allure of Free GPT-4 and Why It Doesn't Outshine These 6 Benefits of Using ChatGPT Plus
+thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbefdaf01df729929788c56ed4e.jpeg
+---
+
+## Chatbot Duel: Assessing the Strengths of ChatGPT Against the Capabilities of Claude AI
+
+ Since its release in November 2022, ChatGPT has remained the dominant force in the AI chatbot space. Despite far-reaching efforts by several AI companies, no one has really been able to build a chatbot that truly challenges ChatGPT in overall response quality. Google’s Bard? Microsoft’s Bing AI? No, not really.
+
+ However, Claude AI, a chatbot built by AI startup Anthropic, shows qualities of a chatbot that can dethrone ChatGPT. A considerable number of users are already saying Claude is the better option. But is this the case? Let’s take both chatbots for a spin.
+
+## ChatGPT vs. Claude AI: Common-Sense and Logical Reasoning
+
+ There's an intriguing contrast when working with AI chatbots. On one hand, they can whiz through complex tasks that humans may labor over for days to solve. On the other hand, they sometimes grapple with elementary problems that require just a bit of common-sense or logical reasoning. So, we tested both ChatGPT and Claude AI to see which AI chatbot was better at common sense and logical reasoning tasks.
+
+![logical and commonsense problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/logical-and-commonsense-problem.jpg)
+
+ ChatGPT broke up the problem into bits and solved it on the first attempt. Claude AI also had a go at it and solved the problem as well, but with a different approach.
+
+![Claude AI solving a commonsense and logical reasoning problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solving-a-commonsense-and-logical-reasoning-problem.jpg)
+
+ For the first task, both chatbots were able to crack the problem. So, we moved on to a different kind of problem. We tasked both chatbots with answering a trick question.
+
+![ChatGPT Answers Trick Question-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-answers-trick-question-1.jpg)
+
+ ChatGPT was able to immediately spot the trick--you can't bury survivors because they aren't dead. Claude AI, on the other hand, seemed to understand that it was a trick question but failed to spot the most common-sense issue that you don't bury survivors.
+
+ Instead, it over-analyzed the question and came to the conclusion that there would be "no survivors to bury" because crashing from Mars to Earth would be fatal. It is not the answer we expected, but if you look at things from a different angle, there is some truth to it.
+
+![Claude AI answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-answers-trick-question.jpg)
+
+ On this task, we give it to ChatGPT, but we can't totally rule out Claude AI's approach. For our final task on this metric, we asked both chatbots how many apples would be left on an apple tree after five and 10 days respectively if we started with 10 apples and five of them got sliced while still on the tree. ChatGPT said there'd still be 10 apples left.
+
+![ChatGPT birds commonsense logic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-birds-commonsense-logic.jpg)
+
+ Claude AI, on the other hand, gave a more common-sense response by recognizing that the five sliced apples are likely to rot.
+
+![Claude AI Common sense reasoning with Apple rotting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-common-sense-reasoning-with-apple-rotting.jpg)
+
+ Claude AI clearly got this one. We tried a few more tricky problems, and both chatbots had a fair share of successes and failures in dealing with them. Considering the outcome we observed, it might be fair to say that while ChatGPT has an edge, both chatbots are not too far apart in common sense and logical reasoning abilities.
+
+## ChatGPT vs. Claude AI: Math Skills
+
+ Even if you never plan to use ChatGPT or Claude AI to solve your Algebra homework, their mathematical abilities have far-reaching implications. For AI chatbots, math is the key to understanding real-world logic, identifying flawed thinking, and admitting mistakes.
+
+ Essentially, math proficiency is a core metric of artificial intelligence. So, between ChatGPT and Claude AI, which chatbot is more proficient in math? We tasked both chatbots with solving a twisty math productivity problem. We started with Claude AI, and the chatbot cracked the problem.
+
+![Claude AI solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-maths-problem-on-productivity.jpg)
+
+ChatGPT also cracked the problem as well.
+
+![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
+
+ Moving on, we asked both chatbots to solve**8/a-1 = 20/3a-1** , a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of**\-3** at the first attempt.
+
+![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
+
+ Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
+
+![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
+
+ We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## ChatGPT vs. Claude AI: Creativity
+
+ One of Claude AI's biggest hype is its creative abilities. But can it match ChatGPT's creativity? Or, could it possibly surpass ChatGPT? To put both chatbots to the test, we tasked them with writing lyrics for a rap song that rhymes.
+
+ We chose a rhyming rap test because it is something a lot of language models struggle with. Most models will typically not get the rhyming right or get the rhyming right while the lyrics itself doesn't make sense. To make things more interesting, the rap song will be about growing cucumbers.
+
+ So, we asked both ChatGPT and Claude AI to "write a rhyming rap about growing cucumbers as a farmer and becoming a millionaire from it." ChatGPT went first, and as expected, it produced some exciting lyrics.
+
+![ChatGPT composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-composes-a-rap-lyrics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
+
+![Claude AI composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-composes-a-rap-lyrics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+ Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
+
+ After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+## ChatGPT vs. Claude AI: Coding Skills
+
+ Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
+
+ While chatbots are currently sophisticated, they are far from what they could actually become if and when they're able to write code proficiently. For AI chatbots to truly evolve into powerful AI assistants that can do more than generate text, they need to be able to write code that solves problems on demand. We've previously discussed how important coding skills are to AI chatbots in our[ChatGPT Code Interpreter explainer.](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/)
+
+ ​​​​​​That said, we put both chatbots on two coding tasks. We asked ChatGPT and Claude AI to write functional code for a to-do list app. Starting with ChatGPT, the AI chatbot was able to deliver a functional to-do list app on the first attempt. We copy-pasted and ran it on a browser, and it worked perfectly without errors. Here's the output on a browser.
+
+![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
+
+ After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
+
+![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
+
+ Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
+
+ Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
+
+ ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+## Claude AI Is a Potent Competitor on the Block
+
+ Claude AI represents a potent competition for ChatGPT--one that can compete with and potentially surpass ChatGPT someday. Given Claude is a relatively new AI model, it is enviable that it can take on ChatGPT the way it currently does. Claude AI's emergence and the quality it offers proof that the competition is heating up.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/updated-driving-view-counts-upward-on-youtube-6-proven-techniques/"><u>[Updated] Driving View Counts Upward on YouTube  6 Proven Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-bring-your-beat-to-facebook-ios-and-android-edition/"><u>[Updated] In 2024, Bring Your Beat to Facebook - iOS & Android Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-from-dull-to-dynamic-top-11-techniques-for-improved-colors/"><u>[Updated] In 2024, From Dull to Dynamic  Top 11 Techniques for Improved Colors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beginners-blueprint-downloading-and-installing-llama-2/"><u>Beginner's Blueprint: Downloading & Installing Llama 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-productivity-with-our-easy-to-use-chatgpt-extension-for-google-chrome-users/"><u>Boost Your Productivity with Our Easy-to-Use ChatGPT Extension for Google Chrome Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-and-fair-evaluation-of-airwatch-your-ultimate-guide/"><u>Comprehensive and Fair Evaluation of AirWatch - Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conversational-ai-decoded-getting-started-with-googles-chatgpt-feature/"><u>Conversational AI Decoded: Getting Started with Google’s ChatGPT Feature</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cryptos-and-chatbots-top-5-collaboration-benefits/"><u>Cryptos and Chatbots: Top 5 Collaboration Benefits</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/curating-tunes-a-comprehensive-guide-to-youtube-lists-for-2024/"><u>Curating Tunes  A Comprehensive Guide to YouTube Lists for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-authenticity-of-truthgpt-coin-unveiling-its-legitimacy/"><u>Exploring the Authenticity of TruthGPT Coin: Unveiling Its Legitimacy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-capabilities-of-googles-updated-palm-2-the-latest-in-large-scale-language-models/"><u>Exploring the Capabilities of Google's Updated PaLM 2: The Latest in Large-Scale Language Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/first-steps-into-the-world-of-prompt-engineering-career-advice-and-tips/"><u>First Steps Into the World of Prompt Engineering: Career Advice and Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-text-to-tales-gpts-six-secrets-for-unforgettable-dungeons/"><u>From Text to Tales: GPT's Six Secrets for Unforgettable Dungeons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-is-device-based-artificinas-engineered-and-used/"><u>How Is Device-Based Artificinas Engineered and Used?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-secure-is-your-information-with-chatgpt-assessing-the-privacy-risks/"><u>How Secure Is Your Information with ChatGPT: Assessing the Privacy Risks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-archive-and-retrieve-your-chatgpt-exchange-history-successfully/"><u>How to Archive and Retrieve Your ChatGPT Exchange History Successfully</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-se-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone SE to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-meme-step-by-step-for-2024/"><u>How to Make a Meme (Step by Step) for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introduce-a-cost-effective-localized-chatbot-model/"><u>Introduce a Cost-Effective Localized Chatbot Model</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastery-guide-for-diagnosing-and-rectifying-kernel32dll-disruptions-on-your-computer/"><u>Mastery Guide for Diagnosing and Rectifying Kernel32.dll Disruptions on Your Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/nosubscriptiondate-awaiting-gpts-opening-hours/"><u>NoSubscriptionDate: Awaiting GPT's Opening Hours</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/public-vs-closed-ai-collaborative-versus-privatized-worlds/"><u>Public Vs. Closed AI: Collaborative versus Privatized Worlds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-efficient-powertoys-setup-in-win11/"><u>Quick Guide: Efficient PowerToys Setup in Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-academic-writing-chatgpts-role/"><u>Revolutionizing Academic Writing: ChatGPT's Role</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguard-your-sensitive-information-the-downsides-of-trusting-it-with-chatgpt/"><u>Safeguard Your Sensitive Information: The Downsides of Trusting It with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-integration-leading-apps-for-ai-interaction-records/"><u>Seamless Integration - Leading Apps for AI Interaction Records</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilizing-windows-10-screen-behavior/"><u>Stabilizing Windows 10 Screen Behavior</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-science-behind-understanding-emotions-through-artificial-intelligence-is-it-effective/"><u>The Science Behind Understanding Emotions Through Artificial Intelligence: Is It Effective?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-written-communication-with-ai-companions/"><u>Transform Written Communication with AI Companions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unmasking-impostor-gpts-with-strategic-acknowledgments/"><u>Unmasking Impostor GPTs with Strategic Acknowledgments</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-cutting-edge-video-editing-for-free-top-mod-editors-for-2024/"><u>Updated Cutting-Edge Video Editing for Free Top MOD Editors for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/whats-behind-chatgpt-unleashing-limitless-creative-outputs/"><u>What's Behind ChatGPT? Unleashing Limitless Creative Outputs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-cracking-chatgpt-is-no-longer-an-option-unveiling-7-critical-reasons/"><u>Why Cracking ChatGPT Is No Longer an Option: Unveiling 7 Critical Reasons</u></a></li>
+</ul></div>
