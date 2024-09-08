@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-haven.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12836</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13246</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12836</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13246</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/enhancing-intelligence-beyond-measure-7-features-making-googles-bard-ai-superior-with-palm-2-integration/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png" alt="Enhancing Intelligence Beyond Measure: 7 Features Making Google&#39;s BARD AI Superior with PaLM 2 Integration" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/jobs-at-risk-predicting-ais-impact-on-careers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/9878ff62b08356ff78ffb4d4ce5fd0c27ab1ffdc4dd530f388b0fa3845feed6f.jpg" alt="Jobs at Risk: Predicting AI&#39;s Impact on Careers?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/enhancing-intelligence-beyond-measure-7-features-making-googles-bard-ai-superior-with-palm-2-integration/">
-                            Enhancing Intelligence Beyond Measure: 7 Features Making Google&#39;s BARD AI Superior with PaLM 2 Integration
+                        <a href="/jobs-at-risk-predicting-ais-impact-on-careers/">
+                            Jobs at Risk: Predicting AI&#39;s Impact on Careers?
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Enhancing Intelligence Beyond Measure: 7 Features Making Google’s BARD AI Superior with PaLM 2 Integration</p>
+                            <p>This Article Describes Jobs at Risk: Predicting AI’s Impact on Careers?</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 16 2024 11:29:31 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 16 2024 11:37:03 GMT+0800">
                 
                     2024-08-16
                 
@@ -768,7 +825,7 @@
         
     </div>
 
-    <a href="/enhancing-intelligence-beyond-measure-7-features-making-googles-bard-ai-superior-with-palm-2-integration/">Read more<span class="seo-reader-text">Enhancing Intelligence Beyond Measure: 7 Features Making Google&#39;s BARD AI Superior with PaLM 2 Integration</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/jobs-at-risk-predicting-ais-impact-on-careers/">Read more<span class="seo-reader-text">Jobs at Risk: Predicting AI&#39;s Impact on Careers?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -784,21 +841,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/embracing-open-gpt-a-step-by-step-window-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4a9b602cddaa14e95b4c74e25b7d2e53d393546d813f68c2847153dd0769193c.jpg" alt="Embracing Open GPT: A Step-by-Step Window Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/in-depth-analysis-every-aspect-of-apples-new-ai-technologies-revealed-at-the-recent-worldwide-developers-conference/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3a2be4caf338af3c874b626b.jpg" alt="In-Depth Analysis: Every Aspect of Apple&#39;s New AI Technologies Revealed at the Recent Worldwide Developers Conference" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/embracing-open-gpt-a-step-by-step-window-guide/">
-                            Embracing Open GPT: A Step-by-Step Window Guide
+                        <a href="/in-depth-analysis-every-aspect-of-apples-new-ai-technologies-revealed-at-the-recent-worldwide-developers-conference/">
+                            In-Depth Analysis: Every Aspect of Apple&#39;s New AI Technologies Revealed at the Recent Worldwide Developers Conference
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Embracing Open GPT: A Step-by-Step Window Guide</p>
+                            <p>This Article Describes In-Depth Analysis: Every Aspect of Apple’s New AI Technologies Revealed at the Recent Worldwide Developers Conference</p>
 
                         
                     </div>
@@ -806,7 +863,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 16 2024 11:29:30 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 16 2024 11:37:02 GMT+0800">
                 
                     2024-08-16
                 
@@ -859,7 +916,7 @@
         
     </div>
 
-    <a href="/embracing-open-gpt-a-step-by-step-window-guide/">Read more<span class="seo-reader-text">Embracing Open GPT: A Step-by-Step Window Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/in-depth-analysis-every-aspect-of-apples-new-ai-technologies-revealed-at-the-recent-worldwide-developers-conference/">Read more<span class="seo-reader-text">In-Depth Analysis: Every Aspect of Apple&#39;s New AI Technologies Revealed at the Recent Worldwide Developers Conference</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -875,21 +932,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/elevating-professional-ambitions-with-chatai-expertise/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb071407495f0911dc7de431c6c41.jpg" alt="Elevating Professional Ambitions with ChatAI Expertise" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ideal-framework-top-20-most-engaging-github-and-chatgpt-dialogues/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b043c7e6cc92b16fd863d9438.jpg" alt="Ideal Framework: Top 20 Most Engaging Github and ChatGPT Dialogues" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/elevating-professional-ambitions-with-chatai-expertise/">
-                            Elevating Professional Ambitions with ChatAI Expertise
+                        <a href="/ideal-framework-top-20-most-engaging-github-and-chatgpt-dialogues/">
+                            Ideal Framework: Top 20 Most Engaging Github and ChatGPT Dialogues
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Elevating Professional Ambitions with ChatAI Expertise</p>
+                            <p>This Article Describes Ideal Framework: Top 20 Most Engaging Github and ChatGPT Dialogues</p>
 
                         
                     </div>
@@ -897,7 +954,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 16 2024 11:29:29 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 16 2024 11:37:00 GMT+0800">
                 
                     2024-08-16
                 
@@ -950,7 +1007,7 @@
         
     </div>
 
-    <a href="/elevating-professional-ambitions-with-chatai-expertise/">Read more<span class="seo-reader-text">Elevating Professional Ambitions with ChatAI Expertise</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ideal-framework-top-20-most-engaging-github-and-chatgpt-dialogues/">Read more<span class="seo-reader-text">Ideal Framework: Top 20 Most Engaging Github and ChatGPT Dialogues</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -966,21 +1023,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/elevate-enterprise-efficiency-the-ultimate-8-uses-of-chatgpt/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9caf09d90581e3a94b158683bfe9026f493c02c1c7b54e4b375ff8955952a5c3.jpg" alt="Elevate Enterprise Efficiency - The Ultimate 8 Uses of ChatGPT" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-personalized-language-models-can-compromise-your-data-and-steps-to-enhance-security/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/063f04ddcc12d7ad0c40343a71ed623fbddb1ebfb8c3b581a5d414d7d362a54b.jpg" alt="How Personalized Language Models Can Compromise Your Data and Steps to Enhance Security" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/elevate-enterprise-efficiency-the-ultimate-8-uses-of-chatgpt/">
-                            Elevate Enterprise Efficiency - The Ultimate 8 Uses of ChatGPT
+                        <a href="/how-personalized-language-models-can-compromise-your-data-and-steps-to-enhance-security/">
+                            How Personalized Language Models Can Compromise Your Data and Steps to Enhance Security
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Elevate Enterprise Efficiency - The Ultimate 8 Uses of ChatGPT</p>
+                            <p>This Article Describes How Personalized Language Models Can Compromise Your Data and Steps to Enhance Security</p>
 
                         
                     </div>
@@ -988,7 +1045,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 16 2024 11:29:27 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 16 2024 11:36:59 GMT+0800">
                 
                     2024-08-16
                 
@@ -1041,7 +1098,7 @@
         
     </div>
 
-    <a href="/elevate-enterprise-efficiency-the-ultimate-8-uses-of-chatgpt/">Read more<span class="seo-reader-text">Elevate Enterprise Efficiency - The Ultimate 8 Uses of ChatGPT</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-personalized-language-models-can-compromise-your-data-and-steps-to-enhance-security/">Read more<span class="seo-reader-text">How Personalized Language Models Can Compromise Your Data and Steps to Enhance Security</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1057,21 +1114,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/efficient-fixes-for-chatgpt-and-plugin-integration-errors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd29063def94d2427e3383ad3.jpg" alt="Efficient Fixes for ChatGPT and Plugin Integration Errors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/global-outreach-for-chatgpt-sessions-techniques-for-link-sharing-success/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5ad0376d97a1f07070c0cf22e.jpg" alt="Global Outreach for ChatGPT Sessions: Techniques for Link Sharing Success" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/efficient-fixes-for-chatgpt-and-plugin-integration-errors/">
-                            Efficient Fixes for ChatGPT and Plugin Integration Errors
+                        <a href="/global-outreach-for-chatgpt-sessions-techniques-for-link-sharing-success/">
+                            Global Outreach for ChatGPT Sessions: Techniques for Link Sharing Success
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Efficient Fixes for ChatGPT and Plugin Integration Errors</p>
+                            <p>This Article Describes Global Outreach for ChatGPT Sessions: Techniques for Link Sharing Success</p>
 
                         
                     </div>
@@ -1079,7 +1136,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 16 2024 11:29:26 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 16 2024 11:36:58 GMT+0800">
                 
                     2024-08-16
                 
@@ -1132,7 +1189,7 @@
         
     </div>
 
-    <a href="/efficient-fixes-for-chatgpt-and-plugin-integration-errors/">Read more<span class="seo-reader-text">Efficient Fixes for ChatGPT and Plugin Integration Errors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/global-outreach-for-chatgpt-sessions-techniques-for-link-sharing-success/">Read more<span class="seo-reader-text">Global Outreach for ChatGPT Sessions: Techniques for Link Sharing Success</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1148,21 +1205,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/discover-the-new-era-of-search-microsofts-ai-powered-bing-transformation/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56e2485dc6f07b17bf29f5810.jpg" alt="Discover the New Era of Search: Microsoft’s AI-Powered Bing Transformation" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/from-your-insights-to-ingenious-ai-build-a-gpt-of-your-design/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214fab450eba00af5408d5f618.jpg" alt="From Your Insights to Ingenious AI: Build a GPT of Your Design" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/discover-the-new-era-of-search-microsofts-ai-powered-bing-transformation/">
-                            Discover the New Era of Search: Microsoft’s AI-Powered Bing Transformation
+                        <a href="/from-your-insights-to-ingenious-ai-build-a-gpt-of-your-design/">
+                            From Your Insights to Ingenious AI: Build a GPT of Your Design
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Discover the New Era of Search: Microsoft’s AI-Powered Bing Transformation</p>
+                            <p>This Article Describes From Your Insights to Ingenious AI: Build a GPT of Your Design</p>
 
                         
                     </div>
@@ -1170,7 +1227,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 16 2024 11:29:25 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 16 2024 11:36:57 GMT+0800">
                 
                     2024-08-16
                 
@@ -1223,7 +1280,7 @@
         
     </div>
 
-    <a href="/discover-the-new-era-of-search-microsofts-ai-powered-bing-transformation/">Read more<span class="seo-reader-text">Discover the New Era of Search: Microsoft’s AI-Powered Bing Transformation</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/from-your-insights-to-ingenious-ai-build-a-gpt-of-your-design/">Read more<span class="seo-reader-text">From Your Insights to Ingenious AI: Build a GPT of Your Design</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1239,21 +1296,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/deciphering-the-paperclip-maximization-issue-the-intersection-between-ai-goals-and-human-values/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1226fbaa741004693d1f4b8bc9bf88f0e71c8201ee5e911ba173ac8995ac7535.jpg" alt="Deciphering the Paperclip Maximization Issue: The Intersection Between AI Goals and Human Values" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/exploring-huggingchat-your-comprehensive-guide-to-the-top-open-source-ai-conversational-agent/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06fc039457c29951eca12e67ea.jpg" alt="Exploring HuggingChat: Your Comprehensive Guide to the Top Open-Source AI Conversational Agent" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/deciphering-the-paperclip-maximization-issue-the-intersection-between-ai-goals-and-human-values/">
-                            Deciphering the Paperclip Maximization Issue: The Intersection Between AI Goals and Human Values
+                        <a href="/exploring-huggingchat-your-comprehensive-guide-to-the-top-open-source-ai-conversational-agent/">
+                            Exploring HuggingChat: Your Comprehensive Guide to the Top Open-Source AI Conversational Agent
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Deciphering the Paperclip Maximization Issue: The Intersection Between AI Goals and Human Values</p>
+                            <p>This Article Describes Exploring HuggingChat: Your Comprehensive Guide to the Top Open-Source AI Conversational Agent</p>
 
                         
                     </div>
@@ -1261,7 +1318,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 16 2024 11:29:24 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 16 2024 11:36:56 GMT+0800">
                 
                     2024-08-16
                 
@@ -1314,7 +1371,7 @@
         
     </div>
 
-    <a href="/deciphering-the-paperclip-maximization-issue-the-intersection-between-ai-goals-and-human-values/">Read more<span class="seo-reader-text">Deciphering the Paperclip Maximization Issue: The Intersection Between AI Goals and Human Values</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/exploring-huggingchat-your-comprehensive-guide-to-the-top-open-source-ai-conversational-agent/">Read more<span class="seo-reader-text">Exploring HuggingChat: Your Comprehensive Guide to the Top Open-Source AI Conversational Agent</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1330,21 +1387,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/critical-alert-avoid-these-9-imitation-chatgpt-malware-tools-poised-to-steal-your-personal-data/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/29a05cd0ac7c666a10c5dac5d641535795c3a88c901275fbe3b2dae45dd93fe1.jpg" alt="Critical Alert: Avoid These 9 Imitation ChatGPT Malware Tools Poised to Steal Your Personal Data" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/evaluating-chatgpts-honesty-is-it-a-source-of-trustworthy-answers-or-fictitious-content/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg" alt="Evaluating ChatGPT’s Honesty - Is It a Source of Trustworthy Answers or Fictitious Content?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/critical-alert-avoid-these-9-imitation-chatgpt-malware-tools-poised-to-steal-your-personal-data/">
-                            Critical Alert: Avoid These 9 Imitation ChatGPT Malware Tools Poised to Steal Your Personal Data
+                        <a href="/evaluating-chatgpts-honesty-is-it-a-source-of-trustworthy-answers-or-fictitious-content/">
+                            Evaluating ChatGPT’s Honesty - Is It a Source of Trustworthy Answers or Fictitious Content?
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Critical Alert: Avoid These 9 Imitation ChatGPT Malware Tools Poised to Steal Your Personal Data</p>
+                            <p>This Article Describes Evaluating ChatGPT’s Honesty - Is It a Source of Trustworthy Answers or Fictitious Content?</p>
 
                         
                     </div>
@@ -1352,7 +1409,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 16 2024 11:29:23 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 16 2024 11:36:55 GMT+0800">
                 
                     2024-08-16
                 
@@ -1405,7 +1462,7 @@
         
     </div>
 
-    <a href="/critical-alert-avoid-these-9-imitation-chatgpt-malware-tools-poised-to-steal-your-personal-data/">Read more<span class="seo-reader-text">Critical Alert: Avoid These 9 Imitation ChatGPT Malware Tools Poised to Steal Your Personal Data</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/evaluating-chatgpts-honesty-is-it-a-source-of-trustworthy-answers-or-fictitious-content/">Read more<span class="seo-reader-text">Evaluating ChatGPT’s Honesty - Is It a Source of Trustworthy Answers or Fictitious Content?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1421,21 +1478,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/comprehensive-insights-into-apples-ai-innovations-from-the-latest-wwdc-event/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b086086a9248bc69fcf254fa.jpg" alt="Comprehensive Insights Into Apple&#39;s AI Innovations From the Latest WWDC Event" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/enhancing-your-iphone-experience-by-combining-siri-with-chatgpt-ai/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567ccf0cdebe9976885fce2e39.png" alt="Enhancing Your iPhone Experience by Combining Siri with ChatGPT AI" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/comprehensive-insights-into-apples-ai-innovations-from-the-latest-wwdc-event/">
-                            Comprehensive Insights Into Apple&#39;s AI Innovations From the Latest WWDC Event
+                        <a href="/enhancing-your-iphone-experience-by-combining-siri-with-chatgpt-ai/">
+                            Enhancing Your iPhone Experience by Combining Siri with ChatGPT AI
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Comprehensive Insights Into Apple’s AI Innovations From the Latest WWDC Event</p>
+                            <p>This Article Describes Enhancing Your iPhone Experience by Combining Siri with ChatGPT AI</p>
 
                         
                     </div>
@@ -1443,7 +1500,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 16 2024 11:29:22 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 16 2024 11:36:54 GMT+0800">
                 
                     2024-08-16
                 
@@ -1496,7 +1553,7 @@
         
     </div>
 
-    <a href="/comprehensive-insights-into-apples-ai-innovations-from-the-latest-wwdc-event/">Read more<span class="seo-reader-text">Comprehensive Insights Into Apple&#39;s AI Innovations From the Latest WWDC Event</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/enhancing-your-iphone-experience-by-combining-siri-with-chatgpt-ai/">Read more<span class="seo-reader-text">Enhancing Your iPhone Experience by Combining Siri with ChatGPT AI</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1512,21 +1569,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/chatgpt-vs-claude-ai-showdown-determining-the-superior-language-model-for-engaging-chats/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/597edf717990ca62361393de3d070cd39e4e090d77618c1c86673588d21031a3.jpeg" alt="ChatGPT Vs. Claude AI Showdown: Determining the Superior Language Model for Engaging Chats" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/discover-the-ultimate-list-of-6-ai-driven-apps-for-analyzing-and-conversing-in-pdfs-like-a-pro/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4710ca06d5c1bac3d98138fcc48df68b8cda1336ed8306337cb08733704da4ca.jpg" alt="Discover the Ultimate List of 6 AI-Driven Apps for Analyzing and Conversing in PDFs Like a Pro" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/chatgpt-vs-claude-ai-showdown-determining-the-superior-language-model-for-engaging-chats/">
-                            ChatGPT Vs. Claude AI Showdown: Determining the Superior Language Model for Engaging Chats
+                        <a href="/discover-the-ultimate-list-of-6-ai-driven-apps-for-analyzing-and-conversing-in-pdfs-like-a-pro/">
+                            Discover the Ultimate List of 6 AI-Driven Apps for Analyzing and Conversing in PDFs Like a Pro
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes ChatGPT Vs. Claude AI Showdown: Determining the Superior Language Model for Engaging Chats</p>
+                            <p>This Article Describes Discover the Ultimate List of 6 AI-Driven Apps for Analyzing and Conversing in PDFs Like a Pro</p>
 
                         
                     </div>
@@ -1534,7 +1591,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 16 2024 11:29:21 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 16 2024 11:36:53 GMT+0800">
                 
                     2024-08-16
                 
@@ -1587,7 +1644,7 @@
         
     </div>
 
-    <a href="/chatgpt-vs-claude-ai-showdown-determining-the-superior-language-model-for-engaging-chats/">Read more<span class="seo-reader-text">ChatGPT Vs. Claude AI Showdown: Determining the Superior Language Model for Engaging Chats</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/discover-the-ultimate-list-of-6-ai-driven-apps-for-analyzing-and-conversing-in-pdfs-like-a-pro/">Read more<span class="seo-reader-text">Discover the Ultimate List of 6 AI-Driven Apps for Analyzing and Conversing in PDFs Like a Pro</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1597,7 +1654,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/728/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/727/">727</a><a class="page-number" href="/page/728/">728</a><span class="page-number current">729</span><a class="page-number" href="/page/730/">730</a><a class="page-number" href="/page/731/">731</a><span class="space">&hellip;</span><a class="page-number" href="/page/1284/">1284</a><a class="extend next" rel="next" href="/page/730/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/728/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/727/">727</a><a class="page-number" href="/page/728/">728</a><span class="page-number current">729</span><a class="page-number" href="/page/730/">730</a><a class="page-number" href="/page/731/">731</a><span class="space">&hellip;</span><a class="page-number" href="/page/1325/">1325</a><a class="extend next" rel="next" href="/page/730/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-haven.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12836</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13246</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12836</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13246</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,28 +750,29 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/discover-exceptional-precision-on-your-ipad-experience-the-top-notch-quality-of-zagg-pro-stylus-2/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/53298307034_a7ecdbb368_o.jpg" alt="Discover Exceptional Precision on Your iPad - Experience the Top-Notch Quality of ZAGG Pro Stylus 2" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unleashing-creativity-in-rpgs-how-to-employ-chatgpt-and-dall-e-for-custom-dungeons-and-dragons-figures/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/15c1fa1d4700ab3e156b726be8d32ae392374f04fa76102f811d9ae276709a58.jpg" alt="Unleashing Creativity in RPGs: How to Employ ChatGPT &amp; DALL-E for Custom Dungeons &amp; Dragons Figures" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/discover-exceptional-precision-on-your-ipad-experience-the-top-notch-quality-of-zagg-pro-stylus-2/">
-                            Discover Exceptional Precision on Your iPad - Experience the Top-Notch Quality of ZAGG Pro Stylus 2
+                        <a href="/unleashing-creativity-in-rpgs-how-to-employ-chatgpt-and-dall-e-for-custom-dungeons-and-dragons-figures/">
+                            Unleashing Creativity in RPGs: How to Employ ChatGPT &amp; DALL-E for Custom Dungeons &amp; Dragons Figures
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Discover Exceptional Precision on Your iPad - Experience the Top-Notch Quality of ZAGG Pro Stylus 2Looking for a new iPad sty...
+                            <p>This Article Describes Unleashing Creativity in RPGs: How to Employ ChatGPT &amp; DALL-E for Custom Dungeons &amp; Dragons Figures</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 02:13:29 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 29 2024 02:23:14 GMT+0800">
                 
                     2024-08-29
                 
@@ -729,7 +787,17 @@
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -744,7 +812,12 @@
                     
                         <li>
                             
-                            <a href="/tags/deals/">deals</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -752,7 +825,7 @@
         
     </div>
 
-    <a href="/discover-exceptional-precision-on-your-ipad-experience-the-top-notch-quality-of-zagg-pro-stylus-2/">Read more<span class="seo-reader-text">Discover Exceptional Precision on Your iPad - Experience the Top-Notch Quality of ZAGG Pro Stylus 2</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unleashing-creativity-in-rpgs-how-to-employ-chatgpt-and-dall-e-for-custom-dungeons-and-dragons-figures/">Read more<span class="seo-reader-text">Unleashing Creativity in RPGs: How to Employ ChatGPT &amp; DALL-E for Custom Dungeons &amp; Dragons Figures</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -768,29 +841,29 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/command-line-protection-guide-easily-locking-down-windows-11-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd47e2bf72282d9f64808baa3.jpg" alt="Command Line Protection Guide: Easily Locking Down Windows 11 Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/groundbreaking-release-openai-unveils-revolutionary-gpt-4-ai/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b87872f768fed60cc168fcf66601.jpg" alt="Groundbreaking Release: OpenAI Unveils Revolutionary GPT-4 AI" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/command-line-protection-guide-easily-locking-down-windows-11-systems/">
-                            Command Line Protection Guide: Easily Locking Down Windows 11 Systems
+                        <a href="/groundbreaking-release-openai-unveils-revolutionary-gpt-4-ai/">
+                            Groundbreaking Release: OpenAI Unveils Revolutionary GPT-4 AI
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Command Line Protection Guide: Easily Locking Down Windows 11 SystemsQuick Links
-Lock Your Windows 10 PC Using Command Prompt...
+                            <p>This Article Describes Groundbreaking Release: OpenAI Unveils Revolutionary GPT-4 AI</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 02:13:28 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 29 2024 02:23:12 GMT+0800">
                 
                     2024-08-29
                 
@@ -805,7 +878,17 @@ Lock Your Windows 10 PC Using Command Prompt...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -820,7 +903,12 @@ Lock Your Windows 10 PC Using Command Prompt...
                     
                         <li>
                             
-                            <a href="/tags/deals/">deals</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -828,7 +916,7 @@ Lock Your Windows 10 PC Using Command Prompt...
         
     </div>
 
-    <a href="/command-line-protection-guide-easily-locking-down-windows-11-systems/">Read more<span class="seo-reader-text">Command Line Protection Guide: Easily Locking Down Windows 11 Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/groundbreaking-release-openai-unveils-revolutionary-gpt-4-ai/">Read more<span class="seo-reader-text">Groundbreaking Release: OpenAI Unveils Revolutionary GPT-4 AI</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -844,28 +932,29 @@ Lock Your Windows 10 PC Using Command Prompt...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/anticipating-the-launch-windows-11-2024-upgrade-coming-soon/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d483ab7dbc13cbf4ab650189.jpg" alt="Anticipating the Launch: Windows 11 2024 Upgrade Coming Soon" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unveiling-the-top-5-promising-technologies-in-ai-hardware/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/9681e2a52e53572a5b2a969e09d45c7b049caa711109cfbd8cfddd28b50dfbe3.jpg" alt="Unveiling the Top 5 Promising Technologies in AI Hardware" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/anticipating-the-launch-windows-11-2024-upgrade-coming-soon/">
-                            Anticipating the Launch: Windows 11 2024 Upgrade Coming Soon
+                        <a href="/unveiling-the-top-5-promising-technologies-in-ai-hardware/">
+                            Unveiling the Top 5 Promising Technologies in AI Hardware
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Anticipating the Launch: Windows 11 2024 Upgrade Coming SoonWindows 11 is sticking to roughly the same release schedule as Wi...
+                            <p>This Article Describes Unveiling the Top 5 Promising Technologies in AI Hardware</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 02:13:26 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 29 2024 02:23:11 GMT+0800">
                 
                     2024-08-29
                 
@@ -880,7 +969,17 @@ Lock Your Windows 10 PC Using Command Prompt...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -895,7 +994,12 @@ Lock Your Windows 10 PC Using Command Prompt...
                     
                         <li>
                             
-                            <a href="/tags/deals/">deals</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -903,7 +1007,7 @@ Lock Your Windows 10 PC Using Command Prompt...
         
     </div>
 
-    <a href="/anticipating-the-launch-windows-11-2024-upgrade-coming-soon/">Read more<span class="seo-reader-text">Anticipating the Launch: Windows 11 2024 Upgrade Coming Soon</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unveiling-the-top-5-promising-technologies-in-ai-hardware/">Read more<span class="seo-reader-text">Unveiling the Top 5 Promising Technologies in AI Hardware</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -919,29 +1023,29 @@ Lock Your Windows 10 PC Using Command Prompt...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/adjusting-how-dates-and-times-appear-in-windows-11-simple-tips-for-personalized-settings/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f4a1f3aaa3fc523cba06c6cc.jpg" alt="Adjusting How Dates &amp; Times Appear in Windows 11: Simple Tips for Personalized Settings" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/begin-your-journey-with-the-advanced-ai-powered-search-tool-bing-by-microsoft/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/18d207b3da44fd0fc8250931249da5dc2af6883d5d5015fdec648150a4e32e74.jpg" alt="Begin Your Journey with the Advanced AI-Powered Search Tool – Bing by Microsoft" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/adjusting-how-dates-and-times-appear-in-windows-11-simple-tips-for-personalized-settings/">
-                            Adjusting How Dates &amp; Times Appear in Windows 11: Simple Tips for Personalized Settings
+                        <a href="/begin-your-journey-with-the-advanced-ai-powered-search-tool-bing-by-microsoft/">
+                            Begin Your Journey with the Advanced AI-Powered Search Tool – Bing by Microsoft
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Adjusting How Dates &amp; Times Appear in Windows 11: Simple Tips for Personalized SettingsQuick Links
-How to Access the Date...
+                            <p>This Article Describes Begin Your Journey with the Advanced AI-Powered Search Tool – Bing by Microsoft</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 02:13:25 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 29 2024 02:23:09 GMT+0800">
                 
                     2024-08-29
                 
@@ -956,7 +1060,17 @@ How to Access the Date...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -971,7 +1085,12 @@ How to Access the Date...
                     
                         <li>
                             
-                            <a href="/tags/deals/">deals</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -979,7 +1098,7 @@ How to Access the Date...
         
     </div>
 
-    <a href="/adjusting-how-dates-and-times-appear-in-windows-11-simple-tips-for-personalized-settings/">Read more<span class="seo-reader-text">Adjusting How Dates &amp; Times Appear in Windows 11: Simple Tips for Personalized Settings</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/begin-your-journey-with-the-advanced-ai-powered-search-tool-bing-by-microsoft/">Read more<span class="seo-reader-text">Begin Your Journey with the Advanced AI-Powered Search Tool – Bing by Microsoft</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -995,29 +1114,29 @@ How to Access the Date...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/7i-unleashed-an-in-depth-look-at-its-stellar-gen-9-perfomance/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e39532f6eee2990ca747e49a.jpg" alt="7I Unleashed: An In-Depth Look at Its Stellar Gen 9 Perfomance" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/instantaneous-itinerary-blueprints-the-finest-selection-of-7-budget-friendly-apps/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f0746613af42a2c779a9073e228.jpg" alt="Instantaneous Itinerary Blueprints – The Finest Selection of 7 Budget-Friendly Apps" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/7i-unleashed-an-in-depth-look-at-its-stellar-gen-9-perfomance/">
-                            7I Unleashed: An In-Depth Look at Its Stellar Gen 9 Perfomance
+                        <a href="/instantaneous-itinerary-blueprints-the-finest-selection-of-7-budget-friendly-apps/">
+                            Instantaneous Itinerary Blueprints – The Finest Selection of 7 Budget-Friendly Apps
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            7I Unleashed: An In-Depth Look at Its Stellar Gen 9 PerfomanceKey Takeaways
-Legion 7i 16 Gen 9 offers a user-upgradable desig...
+                            <p>This Article Describes Instantaneous Itinerary Blueprints – The Finest Selection of 7 Budget-Friendly Apps</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 02:13:24 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 29 2024 02:23:08 GMT+0800">
                 
                     2024-08-29
                 
@@ -1032,7 +1151,17 @@ Legion 7i 16 Gen 9 offers a user-upgradable desig...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1047,7 +1176,12 @@ Legion 7i 16 Gen 9 offers a user-upgradable desig...
                     
                         <li>
                             
-                            <a href="/tags/deals/">deals</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1055,7 +1189,7 @@ Legion 7i 16 Gen 9 offers a user-upgradable desig...
         
     </div>
 
-    <a href="/7i-unleashed-an-in-depth-look-at-its-stellar-gen-9-perfomance/">Read more<span class="seo-reader-text">7I Unleashed: An In-Depth Look at Its Stellar Gen 9 Perfomance</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/instantaneous-itinerary-blueprints-the-finest-selection-of-7-budget-friendly-apps/">Read more<span class="seo-reader-text">Instantaneous Itinerary Blueprints – The Finest Selection of 7 Budget-Friendly Apps</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1071,29 +1205,29 @@ Legion 7i 16 Gen 9 offers a user-upgradable desig...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-and-correcting-javascript-issues-in-your-discord-bot-code/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52762835364_2aa1c1b032_o.jpg" alt="Troubleshooting and Correcting JavaScript Issues in Your Discord Bot Code" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/the-ultimate-techniques-for-fitness-enthusiasts-to-optimize-chatgpt-prompts/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda2b797c9a9ae1ed0b5abaff9.jpg" alt="The Ultimate Techniques for Fitness Enthusiasts to Optimize ChatGPT Prompts" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-and-correcting-javascript-issues-in-your-discord-bot-code/">
-                            Troubleshooting and Correcting JavaScript Issues in Your Discord Bot Code
+                        <a href="/the-ultimate-techniques-for-fitness-enthusiasts-to-optimize-chatgpt-prompts/">
+                            The Ultimate Techniques for Fitness Enthusiasts to Optimize ChatGPT Prompts
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Troubleshooting and Correcting JavaScript Issues in Your Discord Bot CodeKey Takeaways
-Try running Discord as an admin to fix...
+                            <p>This Article Describes The Ultimate Techniques for Fitness Enthusiasts to Optimize ChatGPT Prompts</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 02:13:22 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 29 2024 02:23:06 GMT+0800">
                 
                     2024-08-29
                 
@@ -1108,7 +1242,17 @@ Try running Discord as an admin to fix...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1123,7 +1267,12 @@ Try running Discord as an admin to fix...
                     
                         <li>
                             
-                            <a href="/tags/deals/">deals</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1131,7 +1280,7 @@ Try running Discord as an admin to fix...
         
     </div>
 
-    <a href="/troubleshooting-and-correcting-javascript-issues-in-your-discord-bot-code/">Read more<span class="seo-reader-text">Troubleshooting and Correcting JavaScript Issues in Your Discord Bot Code</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-ultimate-techniques-for-fitness-enthusiasts-to-optimize-chatgpt-prompts/">Read more<span class="seo-reader-text">The Ultimate Techniques for Fitness Enthusiasts to Optimize ChatGPT Prompts</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1147,30 +1296,29 @@ Try running Discord as an admin to fix...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-tutorial-implementing-child-safety-features-on-windows-11/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9687aa834ae00807e9d2f77ee77a3ac9fdfd8db29a944a670186797d57bfaab8.jpg" alt="Step-by-Step Tutorial: Implementing Child Safety Features on Windows 11" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/masterful-techniques-for-combining-chatgpt-and-visual-studio-code/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb84823d2a2bfe4ff558c0940.png" alt="Masterful Techniques for Combining ChatGPT and Visual Studio Code" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-tutorial-implementing-child-safety-features-on-windows-11/">
-                            Step-by-Step Tutorial: Implementing Child Safety Features on Windows 11
+                        <a href="/masterful-techniques-for-combining-chatgpt-and-visual-studio-code/">
+                            Masterful Techniques for Combining ChatGPT and Visual Studio Code
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Step-by-Step Tutorial: Implementing Child Safety Features on Windows 11Quick Links
-How to Set Up a Child Account 
-How to Link...
+                            <p>This Article Describes Masterful Techniques for Combining ChatGPT and Visual Studio Code</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 02:13:21 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 29 2024 02:23:05 GMT+0800">
                 
                     2024-08-29
                 
@@ -1185,7 +1333,17 @@ How to Link...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1200,7 +1358,12 @@ How to Link...
                     
                         <li>
                             
-                            <a href="/tags/deals/">deals</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1208,7 +1371,7 @@ How to Link...
         
     </div>
 
-    <a href="/step-by-step-tutorial-implementing-child-safety-features-on-windows-11/">Read more<span class="seo-reader-text">Step-by-Step Tutorial: Implementing Child Safety Features on Windows 11</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/masterful-techniques-for-combining-chatgpt-and-visual-studio-code/">Read more<span class="seo-reader-text">Masterful Techniques for Combining ChatGPT and Visual Studio Code</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1224,29 +1387,29 @@ How to Link...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/revitalize-your-pc-with-these-simple-steps-for-a-comprehensive-hardware-and-software-reboot-in-windows-10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-2-windows-10.jpg" alt="Revitalize Your PC with These Simple Steps for a Comprehensive Hardware and Software Reboot in Windows 10" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/the-smart-way-to-save-10-ai-plugin-upgrades-for-pdfs/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/987e27a7892f02906f099613af94ad907edd8b77287d835797fe2caec0c18f95.jpg" alt="The Smart Way to Save: 10 AI Plugin Upgrades for PDFs" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/revitalize-your-pc-with-these-simple-steps-for-a-comprehensive-hardware-and-software-reboot-in-windows-10/">
-                            Revitalize Your PC with These Simple Steps for a Comprehensive Hardware and Software Reboot in Windows 10
+                        <a href="/the-smart-way-to-save-10-ai-plugin-upgrades-for-pdfs/">
+                            The Smart Way to Save: 10 AI Plugin Upgrades for PDFs
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Revitalize Your PC with These Simple Steps for a Comprehensive Hardware and Software Reboot in Windows 10Quick Links
-How to F...
+                            <p>This Article Describes The Smart Way to Save: 10 AI Plugin Upgrades for PDFs</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 02:13:20 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 29 2024 02:23:03 GMT+0800">
                 
                     2024-08-29
                 
@@ -1261,7 +1424,17 @@ How to F...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1276,7 +1449,12 @@ How to F...
                     
                         <li>
                             
-                            <a href="/tags/deals/">deals</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1284,7 +1462,7 @@ How to F...
         
     </div>
 
-    <a href="/revitalize-your-pc-with-these-simple-steps-for-a-comprehensive-hardware-and-software-reboot-in-windows-10/">Read more<span class="seo-reader-text">Revitalize Your PC with These Simple Steps for a Comprehensive Hardware and Software Reboot in Windows 10</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-smart-way-to-save-10-ai-plugin-upgrades-for-pdfs/">Read more<span class="seo-reader-text">The Smart Way to Save: 10 AI Plugin Upgrades for PDFs</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1300,29 +1478,29 @@ How to F...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/no-internet-connection-despite-wi-fi-signal-top-10-solutions-for-windows-11-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3be6004f814f322eb7c81e59f5f3e6dc5377a1a28f18fb94887b3ff8d1dce543.jpg" alt="No Internet Connection Despite Wi-Fi Signal: Top 10 Solutions for Windows 11 Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/exploring-the-dark-side-of-language-models-on-code/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2f0511baeab6c403517618b1.jpg" alt="Exploring the Dark Side of Language Models on Code" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/no-internet-connection-despite-wi-fi-signal-top-10-solutions-for-windows-11-users/">
-                            No Internet Connection Despite Wi-Fi Signal: Top 10 Solutions for Windows 11 Users
+                        <a href="/exploring-the-dark-side-of-language-models-on-code/">
+                            Exploring the Dark Side of Language Models on Code
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            No Internet Connection Despite Wi-Fi Signal: Top 10 Solutions for Windows 11 UsersQuick Links
-Ensure the Problem Isn’t With Y...
+                            <p>This Article Describes Exploring the Dark Side of Language Models on Code</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 02:13:19 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 29 2024 02:23:02 GMT+0800">
                 
                     2024-08-29
                 
@@ -1337,7 +1515,17 @@ Ensure the Problem Isn’t With Y...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1352,7 +1540,12 @@ Ensure the Problem Isn’t With Y...
                     
                         <li>
                             
-                            <a href="/tags/deals/">deals</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1360,7 +1553,7 @@ Ensure the Problem Isn’t With Y...
         
     </div>
 
-    <a href="/no-internet-connection-despite-wi-fi-signal-top-10-solutions-for-windows-11-users/">Read more<span class="seo-reader-text">No Internet Connection Despite Wi-Fi Signal: Top 10 Solutions for Windows 11 Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/exploring-the-dark-side-of-language-models-on-code/">Read more<span class="seo-reader-text">Exploring the Dark Side of Language Models on Code</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1376,30 +1569,29 @@ Ensure the Problem Isn’t With Y...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/microsoft-announces-revolutionary-ai-driven-search-upgrade-pc-user-recall/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a3acf69c3d36fa57ad14263ad88da8c8eaf18e40a1badf8ad19a8dbcc0ab15b1.jpg" alt="Microsoft Announces Revolutionary AI-Driven Search Upgrade: PC User Recall" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-9-strategies-how-chatgpt-enhances-daily-living/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e6e9e1eedfcc3c91fa246e6a.jpg" alt="Top 9 Strategies: How ChatGPT Enhances Daily Living" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/microsoft-announces-revolutionary-ai-driven-search-upgrade-pc-user-recall/">
-                            Microsoft Announces Revolutionary AI-Driven Search Upgrade: PC User Recall
+                        <a href="/top-9-strategies-how-chatgpt-enhances-daily-living/">
+                            Top 9 Strategies: How ChatGPT Enhances Daily Living
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Microsoft Announces Revolutionary AI-Driven Search Upgrade: PC User RecallQuick Links
-What is Microsoft Recall? 
-What Does Re...
+                            <p>This Article Describes Top 9 Strategies: How ChatGPT Enhances Daily Living</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 02:13:18 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 29 2024 02:23:01 GMT+0800">
                 
                     2024-08-29
                 
@@ -1414,7 +1606,17 @@ What Does Re...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/openAI/">openAI</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/openAI/chatgpt/">chatgpt</a>&nbsp;
                         </li>
                     
                     
@@ -1429,7 +1631,12 @@ What Does Re...
                     
                         <li>
                             
-                            <a href="/tags/deals/">deals</a>&nbsp;
+                            <a href="/tags/chatgpt/">chatgpt</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/open-ai/">open-ai</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1437,7 +1644,7 @@ What Does Re...
         
     </div>
 
-    <a href="/microsoft-announces-revolutionary-ai-driven-search-upgrade-pc-user-recall/">Read more<span class="seo-reader-text">Microsoft Announces Revolutionary AI-Driven Search Upgrade: PC User Recall</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-9-strategies-how-chatgpt-enhances-daily-living/">Read more<span class="seo-reader-text">Top 9 Strategies: How ChatGPT Enhances Daily Living</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1447,7 +1654,7 @@ What Does Re...
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/132/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/131/">131</a><a class="page-number" href="/page/132/">132</a><span class="page-number current">133</span><a class="page-number" href="/page/134/">134</a><a class="page-number" href="/page/135/">135</a><span class="space">&hellip;</span><a class="page-number" href="/page/1284/">1284</a><a class="extend next" rel="next" href="/page/134/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/132/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/131/">131</a><a class="page-number" href="/page/132/">132</a><span class="page-number current">133</span><a class="page-number" href="/page/134/">134</a><a class="page-number" href="/page/135/">135</a><span class="space">&hellip;</span><a class="page-number" href="/page/1325/">1325</a><a class="extend next" rel="next" href="/page/134/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>
