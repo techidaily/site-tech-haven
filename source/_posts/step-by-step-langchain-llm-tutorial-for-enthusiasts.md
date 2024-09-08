@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step LangChain LLM Tutorial for Enthusiasts
-date: 2024-09-02T12:28:14.502Z
-updated: 2024-09-03T12:28:14.502Z
+date: 2024-09-07T00:17:06.774Z
+updated: 2024-09-08T00:17:06.774Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,24 @@ excerpt: This Article Describes Step-by-Step LangChain LLM Tutorial for Enthusia
 thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30f3dde81226f486e6ab605fb.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## IOS Enthusiasts Rejoice! Discover How to Install and Use ChatGPT Now
 
  OpenAI's ChatGPT garnered much interest when it publicly debuted in 2022, providing access to troves of information via a simple chat interface—be it travel tips or code-related logic.
 
  People have been looking for simple ways to access the tool ever since it blew up in popularity, but it's finally possible to do so, thanks to its official mobile app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Comes to iPhone (and Android)
 
  On May 18th, 2023, OpenAI introduced its own ChatGPT app for iOS via an[OpenAI blog post](https://openai.com/blog/introducing-the-chatgpt-app-for-ios) . According to the company, the release comes from a continued increase in user interest, especially from those who love to use the tool when on the move.
@@ -29,6 +41,18 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
  If iOS isn't your preferred platform, know that[ChatGPT is also available for Android devices](https://www.makeuseof.com/chatgpt-is-now-available-on-android/) , allowing you to bypass the somewhat clunky mobile browser experience.
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Download ChatGPT on Your iPhone
 
  To download ChatGPT on your iPhone, search the App Store with the keywords "ChatGPT" or "OpenAI." The name of the official app is ChatGPT, and it has a subtitle that reads "The official app by OpenAI."
@@ -37,19 +61,34 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT iOS app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-ios-app-welcome-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT responding to a query in the official app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-responding-to-a-query-in-the-official-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close
 
  You can even ask ChatGPT whether it's the official app as an extra measure to make sure you haven't accidentally downloaded one of the many[fake ChatGPT apps on the App Store](https://www.makeuseof.com/how-to-spot-fake-chatgpt-app-on-apple-app-store/) .
 
 **Download** **:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2025542/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use ChatGPT Seamlessly on Your iPhone
 
  The launch of an official ChatGPT app for mobile devices makes the service convenient to access and significantly increases the ease of use, allowing users to focus more on using ideal prompts and getting a solution to their doubts sooner. It's a welcome development, and we can't wait to see what OpenAI builds next.

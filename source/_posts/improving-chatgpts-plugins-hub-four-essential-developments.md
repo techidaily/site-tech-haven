@@ -1,0 +1,229 @@
+---
+title: "Improving ChatGPT's Plugins Hub: Four Essential Developments"
+date: 2024-09-07T00:21:00.250Z
+updated: 2024-09-08T00:21:00.251Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Improving ChatGPT's Plugins Hub: Four Essential Developments"
+excerpt: "This Article Describes Improving ChatGPT's Plugins Hub: Four Essential Developments"
+thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f17cad9fcf863c9fe9218bf46.jpg
+---
+
+## Essential Strategies for Perfecting Your ChatGPT Prompt Game – Avoid These Slip-Ups
+
+ ChatGPT prompting can be a lot of fun. It can be especially exciting when you get the chatbot to do precisely what you want. However, like learning to ride a bike, there can be a few bumps and scrapes along the way. Sometimes, getting the chatbot to provide satisfying results can be a tricky adventure.
+
+ The results you get from ChatGPT are as good as the prompts you provide. Poor prompts mean poor responses. That's why we've put together a handy guide on some mistakes to avoid when using ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Mixing Topics In a Single Chat Session
+
+ While it may not seem concerning to prompt on diverse topics within the same chat session, it's worth paying attention to. ChatGPT is highly sensitive to context. Each prompt you introduce during a chat session can greatly shape the responses you receive from subsequent prompts.
+
+ Let's say you started a chat session by asking ChatGPT, "Can we talk about the US military?" If you keep the conversation going and decide to ask the chatbot to tell you about some recent wars, there's a chance it will only highlight wars that the US military has participated in when you might have needed a broader view of all global conflicts. Why? ChatGPT uses the context of preceding conversations to process an answer for subsequent prompts.
+
+ This feature helps ChatGPT stay on topic during long conversations on any subject. However, it becomes detrimental when the chatbot brings information from a completely different topic into a new response to maintain context and stay on topic. This can be easy to spot sometimes. However, it can also be subtle and undetected, leading to misinformation.
+
+ In the example below, after having a long discussion about the US military, we asked ChatGPT to tell us about some global conflicts, and it only picked those with some form of US participation.
+
+![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. Too Many Instructions In a Single Prompt
+
+ ChatGPT is capable of handling several directives within a single prompt. Yet, there's a threshold to the number of instructions it can manage simultaneously without compromising the quality of its responses. You may have encountered online prompts containing numerous instructions that appear to function well. However, this isn't always the case, and there's a nuanced approach required to ensure optimal results.
+
+ The best way to deal with complex prompts is to break them up and use them with a chain prompting approach. This involves separating complex prompts into multiple parts, each containing fewer instructions. You can then feed each prompt to ChatGPT in simpler bits, followed by other simpler bits that refine the response from the previous prompts until you achieve your desired result.
+
+So, instead of using a prompt like:
+
+* Tell me about the history of the Eiffel Tower, including its construction materials, the budget, the design, its significance, the construction company involved, and controversies.
+
+You could use:
+
+* Tell me about the history of the Eiffel Tower.
+* Were they any major controversies surrounding the project?
+* What major construction materials were used?
+* Tell me about its design and designers
+* Explain its significance
+* Let's talk about the budget
+
+ The second set of prompts will produce much more detailed information and relevant responses.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Being Overly Specific With Your Instructions
+
+ Although it might appear beneficial to provide highly detailed prompts, this strategy isn't always optimal. Detailed instructions indeed offer ChatGPT a clear direction for generating responses. However, excessive detail can unintentionally confine ChatGPT's responses to an overly narrow context, potentially leading to less accurate responses and hallucinations.
+
+ ChatGPT tends to make up information whenever it runs short of fact. So if there's limited fact within the constraints of the instructions you provide, you'll likely get misinformation.
+
+ As a demonstration, we asked ChatGPT to limit its responses to any question we ask about Elon Musk's view on the subject. We asked ChatGPT about Mars, rockets, and Electric Vehicles, and the responses were good since Elon Musk has clearly said a lot on the topic. However, when we asked ChatGPT to tell us about Pizza (remember, the responses should only be Elon Musk's views on the topic), ChatGPT made up hilarious commentary.
+
+![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
+
+## 4\. Not Providing Context When Necessary
+
+ Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
+
+ Let's say you want to[use ChatGPT as a translation tool](https://www.makeuseof.com/how-to-translate-with-chatgpt/) . As you know, language can be very ambiguous. For example, the same sentence could mean different things depending on the context. In other words, in situations like this, context is very important. Here's an example.
+
+ Consider the Spanish phrase “Gracias por preguntar, pero estoy bastante seguro aquí.” ChatGPT translates this as, "Thanks for asking, but I'm pretty sure here." In the text this sentence was copied from, the intended meaning was: "Thanks for asking, but I'm safe here."
+
+ However, this was misinterpreted because no context was provided. After we provided context to ChatGPT by including additional information that the sentence should be interpreted from the context of someone talking about safety (which is what was discussed in the text it was copied from), ChatGPT provided the expected translation.
+
+![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
+
+## 5\. Not Using Examples
+
+ Incorporating examples is a crucial aspect of[crafting effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . While not every prompt necessitates an example, when the opportunity arises, including one can greatly enhance the specificity and accuracy of ChatGPT's responses.
+
+ Examples are especially important when generating unique content like jokes, music, or cover letters. For example, in the screenshot below, we asked ChatGPT to generate some sarcasm about musicians once we provided the musician's name. The highlight here is that we didn't provide any examples.
+
+![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
+
+ Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
+
+![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
+
+![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
+
+ With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
+
+![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+And here's another one ChatGPT made when we prompted it with Jay-Z.
+
+![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Loved the second set of jokes? Well, the moral of the story is to use examples more often.
+
+## 6\. Not Being Clear and Specific With Your Instructions
+
+ To get the best responses from ChatGPT, you'll need to be as specific and as unambiguous as possible in your instructions. Unfortunately, ambiguity opens your prompts to multiple interpretations, making it difficult for ChatGPT to provide a specific and accurate response.
+
+ "What is the meaning of life?" and "What is the best way to stay healthy?" are two examples of prompts that seem normal but are quite ambiguous. There's no definitive answer to both questions. However, ChatGPT will try to provide you with an answer that seems like hard facts. Prompts like "What is the meaning of life from a biological perspective?" or "What are some specific lifestyle changes or habits that can help improve mental health?" are good examples of specific, less ambiguous alternatives.
+
+ Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## ChatGPT Is Garbage In, Garbage Out
+
+ Just like a chef needs quality ingredients to make a delicious meal, the responses generated by ChatGPT depend greatly on the prompts we provide. Just as the choice of ingredients shapes the taste and outcome of a dish, the clarity, specificity, and context of our prompts influence the accuracy and relevance of ChatGPT's responses. By crafting well-structured prompts, you give ChatGPT the ingredients it needs to serve up insightful and engaging interactions, much like a skilled chef serving a culinary masterpiece.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-free-tools-roundup-leading-online-video-capture-tech/"><u>[Updated] In 2024, Free Tools Roundup Leading Online Video Capture Tech</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-dynamic-youtube-openers-in-imovie/"><u>[Updated] The Ultimate Guide to Dynamic YouTube Openers in iMovie</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-top-10-screen-recording-devices-for-enterprise-use/"><u>2024 Approved Top 10 Screen Recording Devices for Enterprise Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-productivity-streamline-writing-with-hix-ai-and-gpt-4/"><u>Boost Productivity: Streamline Writing with HIX AI & GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breaking-down-artifical-intelligence-for-everyday-comprehension/"><u>Breaking Down Artifical Intelligence for Everyday Comprehension</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-its-cognitive-abilities-are-they-diminishing-over-time-openai-weighs-in/"><u>ChatGPT and Its Cognitive Abilities: Are They Diminishing Over Time? OpenAI Weighs In</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-not-saving-your-talks-learn-to-fix-it-now/"><u>ChatGPT Not Saving Your Talks? Learn to Fix It Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-the-ultimate-virtual-sous-chef-for-home-cooks/"><u>ChatGPT: The Ultimate Virtual Sous-Chef for Home Cooks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-creative-outputs-a-test-of-three-chatbot-responses-on-a-single-prompt/"><u>Comparing Creative Outputs: A Test of Three Chatbot Responses on a Single Prompt</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/defining-ai-legislation-determining-key-stakeholders-in-managing-artificial-intelligence-development/"><u>Defining AI Legislation: Determining Key Stakeholders in Managing Artificial Intelligence Development</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/drive-smarter-mercedes-benz-integrates-ai-chatgpt-with-voice-command-for-enhanced-in-car-experience/"><u>Drive Smarter: Mercedes-Benz Integrates AI ChatGPT with Voice Command for Enhanced In-Car Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/engaging-with-ai-the-bing-chat-showdown-on-skype/"><u>Engaging with AI: The Bing Chat Showdown on Skype</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-your-vpn-connection-solutions-to-clientserver-side-error-800-issues/"><u>Fix Your VPN Connection: Solutions to Client/Server-Side Error 800 Issues</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/fps-game-quest-discovering-7-ultimate-titles/"><u>FPS Game Quest – Discovering 7 Ultimate Titles</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-ultimate-resource-list-open-source-imagery-sanctuary/"><u>In 2024, Ultimate Resource List Open-Source Imagery Sanctuary</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/investigating-chatgpts-writing-blind-spots-understanding-its-detection-shortcomings/"><u>Investigating ChatGPT's Writing Blind Spots: Understanding Its Detection Shortcomings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/picshot-the-key-to-hassle-free-collage-making/"><u>Picshot The Key to Hassle-Free Collage Making</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-honor-x50iplus-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Honor X50i+</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solving-chatgpt-access-issues-unveil-the-top-4-factors-leading-to-restrictions-and-remedy-them/"><u>Solving ChatGPT Access Issues: Unveil the Top 4 Factors Leading to Restrictions and Remedy Them</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-artisans-algorithm-gpt-assisted-ai-masterpieces/"><u>The Artisan's Algorithm: GPT-Assisted AI Masterpieces</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-downside-to-digital-therapy-examining-the-drawbacks-of-ai-mental-health-assistance/"><u>The Downside to Digital Therapy: Examining the Drawbacks of AI Mental Health Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-genesis-of-ai-charting-its-historic-evolution-over-time/"><u>The Genesis of AI - Charting Its Historic Evolution Over Time</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/trust-in-ai-conversations-does-chatgpt-deliver-accurate-information/"><u>Trust in AI Conversations: Does ChatGPT Deliver Accurate Information?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-backdrop-change-kit-pixelpioneers-reveal-for-2024/"><u>Ultimate Backdrop Change Kit PixelPioneer's Reveal for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/uncovering-software-flaws-with-openais-rewards-program/"><u>Uncovering Software Flaws with OpenAI's Rewards Program</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-ai-terms-29-essentials-everyone-should-know/"><u>Unraveling AI Terms: 29 Essentials Everyone Should Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-chatgpts-feature-for-tailored-guidance-a-comprehensive-guide/"><u>Unveiling ChatGPT's Feature for Tailored Guidance - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-gpts-personalized-guidance-feature-usage-exploration/"><u>Unveiling GPT's Personalized Guidance Feature: Usage Exploration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-5-primary-companies-grievances-with-gpt/"><u>Unveiling the 5 Primary Companies' Grievances with GPT</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Drive Smarter: Mercedes-Benz Integrates AI ChatGPT with Voice Command for Enhanced In-Car Experience"
-date: 2024-09-02T12:22:36.539Z
-updated: 2024-09-03T12:22:36.539Z
+date: 2024-09-07T00:17:11.095Z
+updated: 2024-09-08T00:17:11.095Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Drive Smarter: Mercedes-Benz Integrates AI Chat
 thumbnail: https://thmb.techidaily.com/dc7ffd70cb73963a6e0b0477afa34122ac2690b6da8afae499c025285139f98c.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Experience Advanced Hands-Free Driving Assistance: Mercedes-Benz's Latest ChatGPT Voice Feature
 
  Since ChatGPT was introduced, it has proven to be a valuable assistant that you can have a conversation with as you would with a human. You can access the chatbot through your browser, on your smartphone via an app, or on your computer through a terminal emulator.
@@ -21,10 +27,22 @@ thumbnail: https://thmb.techidaily.com/dc7ffd70cb73963a6e0b0477afa34122ac2690b6d
 
  What can you expect? And will other automakers follow suit? Let’s find out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Voice Control Is Now Available on Mercedes-Benz
 
 ![Mercedes me app showing ChatGPT feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/23c0224_004.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Image Credit:[Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1b56-458a-9324-20b25cc176cb)
 
 [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1b56-458a-9324-20b25cc176cb) confirmed that ChatGPT with voice control will be available to more than 900,000 of its cars running the MBUX digital cockpit and infotainment software. This AI-powered voice assistant will at first be limited to Mercedes-Benz drivers in the US who are willing to sign up for the three-month beta program. However, Mercedes-Benz says it will improve and roll out the service in other countries after the beta program concludes successfully.
@@ -35,6 +53,12 @@ thumbnail: https://thmb.techidaily.com/dc7ffd70cb73963a6e0b0477afa34122ac2690b6d
 
  Beyond that, you can use[ChatGPT plug-ins](https://www.makeuseof.com/best-chatgpt-plugins/) to order food, find the best ticket prices, write emails, or[send a messages on Slack](https://www.makeuseof.com/what-is-slack/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Other Automakers Could Follow Suit
 
  Mercedes-Benz is not the only automaker to consider integrating ChatGPT into its cars. According to[Reuters](https://www.reuters.com/business/autos-transportation/gm-explores-using-chatgpt-vehicles-2023-03-10/) , General Motors is also looking at introducing a virtual assistant powered by ChatGPT. This could be part of its strategy after[ditching Android Auto and Apple CarPlay](https://www.makeuseof.com/gm-to-drop-android-auto-apple-carplay/) .
@@ -42,7 +66,10 @@ thumbnail: https://thmb.techidaily.com/dc7ffd70cb73963a6e0b0477afa34122ac2690b6d
  It's worth noting that even without ChatGPT voice assistant integrated into your car’s infotainment system, you can still talk to ChatGPT driving if you’re connected to Apple CarPlay and Siri. This would be a good way to mimic Mercedes' native integration of the chatbot if you own a vehicle from another brand.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## ChatGPT Could Redefine Virtual Assistants in Vehicles
 
