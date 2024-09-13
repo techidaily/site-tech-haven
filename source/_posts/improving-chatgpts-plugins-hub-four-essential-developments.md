@@ -1,7 +1,7 @@
 ---
 title: "Improving ChatGPT's Plugins Hub: Four Essential Developments"
-date: 2024-09-07T00:21:00.250Z
-updated: 2024-09-08T00:21:00.251Z
+date: 2024-09-09T04:13:08.038Z
+updated: 2024-09-12T19:49:05.670Z
 tags:
   - chatgpt
   - open-ai
@@ -19,12 +19,6 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 
  The results you get from ChatGPT are as good as the prompts you provide. Poor prompts mean poor responses. That's why we've put together a handy guide on some mistakes to avoid when using ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Mixing Topics In a Single Chat Session
 
  While it may not seem concerning to prompt on diverse topics within the same chat session, it's worth paying attention to. ChatGPT is highly sensitive to context. Each prompt you introduce during a chat session can greatly shape the responses you receive from subsequent prompts.
@@ -38,23 +32,19 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Too Many Instructions In a Single Prompt
 
  ChatGPT is capable of handling several directives within a single prompt. Yet, there's a threshold to the number of instructions it can manage simultaneously without compromising the quality of its responses. You may have encountered online prompts containing numerous instructions that appear to function well. However, this isn't always the case, and there's a nuanced approach required to ensure optimal results.
@@ -77,17 +67,18 @@ You could use:
  The second set of prompts will produce much more detailed information and relevant responses.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Being Overly Specific With Your Instructions
 
  Although it might appear beneficial to provide highly detailed prompts, this strategy isn't always optimal. Detailed instructions indeed offer ChatGPT a clear direction for generating responses. However, excessive detail can unintentionally confine ChatGPT's responses to an overly narrow context, potentially leading to less accurate responses and hallucinations.
@@ -97,6 +88,19 @@ You could use:
  As a demonstration, we asked ChatGPT to limit its responses to any question we ask about Elon Musk's view on the subject. We asked ChatGPT about Mars, rockets, and Electric Vehicles, and the responses were good since Elon Musk has clearly said a lot on the topic. However, when we asked ChatGPT to tell us about Pizza (remember, the responses should only be Elon Musk's views on the topic), ChatGPT made up hilarious commentary.
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Not Providing Context When Necessary
 
@@ -110,6 +114,13 @@ You could use:
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Not Using Examples
 
  Incorporating examples is a crucial aspect of[crafting effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . While not every prompt necessitates an example, when the opportunity arises, including one can greatly enhance the specificity and accuracy of ChatGPT's responses.
@@ -122,18 +133,6 @@ You could use:
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
@@ -142,22 +141,17 @@ You could use:
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
 ## 6\. Not Being Clear and Specific With Your Instructions
@@ -169,23 +163,21 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ChatGPT Is Garbage In, Garbage Out
 
  Just like a chef needs quality ingredients to make a delicious meal, the responses generated by ChatGPT depend greatly on the prompts we provide. Just as the choice of ingredients shapes the taste and outcome of a dish, the clarity, specificity, and context of our prompts influence the accuracy and relevance of ChatGPT's responses. By crafting well-structured prompts, you give ChatGPT the ingredients it needs to serve up insightful and engaging interactions, much like a skilled chef serving a culinary masterpiece.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -196,34 +188,12 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-free-tools-roundup-leading-online-video-capture-tech/"><u>[Updated] In 2024, Free Tools Roundup Leading Online Video Capture Tech</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-dynamic-youtube-openers-in-imovie/"><u>[Updated] The Ultimate Guide to Dynamic YouTube Openers in iMovie</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-top-10-screen-recording-devices-for-enterprise-use/"><u>2024 Approved Top 10 Screen Recording Devices for Enterprise Use</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-productivity-streamline-writing-with-hix-ai-and-gpt-4/"><u>Boost Productivity: Streamline Writing with HIX AI & GPT-4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/breaking-down-artifical-intelligence-for-everyday-comprehension/"><u>Breaking Down Artifical Intelligence for Everyday Comprehension</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-its-cognitive-abilities-are-they-diminishing-over-time-openai-weighs-in/"><u>ChatGPT and Its Cognitive Abilities: Are They Diminishing Over Time? OpenAI Weighs In</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-not-saving-your-talks-learn-to-fix-it-now/"><u>ChatGPT Not Saving Your Talks? Learn to Fix It Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-the-ultimate-virtual-sous-chef-for-home-cooks/"><u>ChatGPT: The Ultimate Virtual Sous-Chef for Home Cooks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-creative-outputs-a-test-of-three-chatbot-responses-on-a-single-prompt/"><u>Comparing Creative Outputs: A Test of Three Chatbot Responses on a Single Prompt</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/defining-ai-legislation-determining-key-stakeholders-in-managing-artificial-intelligence-development/"><u>Defining AI Legislation: Determining Key Stakeholders in Managing Artificial Intelligence Development</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/drive-smarter-mercedes-benz-integrates-ai-chatgpt-with-voice-command-for-enhanced-in-car-experience/"><u>Drive Smarter: Mercedes-Benz Integrates AI ChatGPT with Voice Command for Enhanced In-Car Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/engaging-with-ai-the-bing-chat-showdown-on-skype/"><u>Engaging with AI: The Bing Chat Showdown on Skype</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-your-vpn-connection-solutions-to-clientserver-side-error-800-issues/"><u>Fix Your VPN Connection: Solutions to Client/Server-Side Error 800 Issues</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/fps-game-quest-discovering-7-ultimate-titles/"><u>FPS Game Quest – Discovering 7 Ultimate Titles</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-ultimate-resource-list-open-source-imagery-sanctuary/"><u>In 2024, Ultimate Resource List Open-Source Imagery Sanctuary</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/investigating-chatgpts-writing-blind-spots-understanding-its-detection-shortcomings/"><u>Investigating ChatGPT's Writing Blind Spots: Understanding Its Detection Shortcomings</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/picshot-the-key-to-hassle-free-collage-making/"><u>Picshot The Key to Hassle-Free Collage Making</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-honor-x50iplus-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Honor X50i+</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/solving-chatgpt-access-issues-unveil-the-top-4-factors-leading-to-restrictions-and-remedy-them/"><u>Solving ChatGPT Access Issues: Unveil the Top 4 Factors Leading to Restrictions and Remedy Them</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-artisans-algorithm-gpt-assisted-ai-masterpieces/"><u>The Artisan's Algorithm: GPT-Assisted AI Masterpieces</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-downside-to-digital-therapy-examining-the-drawbacks-of-ai-mental-health-assistance/"><u>The Downside to Digital Therapy: Examining the Drawbacks of AI Mental Health Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-genesis-of-ai-charting-its-historic-evolution-over-time/"><u>The Genesis of AI - Charting Its Historic Evolution Over Time</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/trust-in-ai-conversations-does-chatgpt-deliver-accurate-information/"><u>Trust in AI Conversations: Does ChatGPT Deliver Accurate Information?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-backdrop-change-kit-pixelpioneers-reveal-for-2024/"><u>Ultimate Backdrop Change Kit PixelPioneer's Reveal for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/uncovering-software-flaws-with-openais-rewards-program/"><u>Uncovering Software Flaws with OpenAI's Rewards Program</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-ai-terms-29-essentials-everyone-should-know/"><u>Unraveling AI Terms: 29 Essentials Everyone Should Know</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-chatgpts-feature-for-tailored-guidance-a-comprehensive-guide/"><u>Unveiling ChatGPT's Feature for Tailored Guidance - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-gpts-personalized-guidance-feature-usage-exploration/"><u>Unveiling GPT's Personalized Guidance Feature: Usage Exploration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-5-primary-companies-grievances-with-gpt/"><u>Unveiling the 5 Primary Companies' Grievances with GPT</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-heroic-duel-noir-knights-vs-aurora-guardians/"><u>[New] 2024 Approved Heroic Duel Noir Knights Vs Aurora Guardians</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-facetime-made-simple-for-android-users/"><u>2024 Approved FaceTime Made Simple for Android Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-y200-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo Y200 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/redefining-ai-interaction-groundbreaking-upgrades-to-chatgpt/"><u>Redefining AI Interaction: Groundbreaking Upgrades to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-slides-the-ultimate-list-of-7-ai-presentation-assistants/"><u>Revolutionize Your Slides: The Ultimate List of 7 AI Presentation Assistants</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-top-6-instagram-reel-enhancements/"><u>The Ultimate Guide to Top 6 Instagram Reel Enhancements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-enhancements-we-anticipate-in-gpt-5/"><u>Top 4 Enhancements We Anticipate in GPT-5</u></a></li>
 </ul></div>
+

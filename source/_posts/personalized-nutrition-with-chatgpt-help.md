@@ -1,7 +1,7 @@
 ---
 title: Personalized Nutrition with ChatGPT Help
-date: 2024-09-07T00:20:34.347Z
-updated: 2024-09-08T00:20:34.347Z
+date: 2024-09-08T06:02:32.181Z
+updated: 2024-09-12T21:38:47.329Z
 tags:
   - chatgpt
   - open-ai
@@ -13,26 +13,15 @@ excerpt: This Article Describes Personalized Nutrition with ChatGPT Help
 thumbnail: https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac44a3b64d442e286082e5edf.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unleash AI Potential with Personalized, Premium GPT Services
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Access the GPT Store](https://godlikehost.sjv.io/vnbxzv)
@@ -40,17 +29,18 @@ thumbnail: https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://getlyla.pxf.io/ek9gkg)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -65,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Access the GPT Store
 
  Access and use of the new GPT Store [requires a ChatGPT subscription](http://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Only users with ChatGPT Plus, ChatGPT Teams, or ChatGPT Enterprise accounts will be able to use the store's catalog of custom GPTs. You also need a ChatGPT subscription if you want to [create your own custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/).
@@ -75,12 +72,6 @@ thumbnail: https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac
 
  On the left sidebar of the ChatGPT interface, you should see **Explore GPTs** instead of simply **Explore**. Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
@@ -89,30 +80,47 @@ thumbnail: https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac
 2. At the top of the store page, you will see featured categories like Writing, Productivity, Programming, Research and Analysis, and DALL-E for image generation. Click on a category to view a list of the top-performing custom GPT models in that specific category.  
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
+
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
@@ -131,8 +139,6 @@ thumbnail: https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,35 +148,19 @@ thumbnail: https://thmb.techidaily.com/24b37b578836fc3f2918ab32d25a44b0c1a08b2ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-professional-screen-capture-techniques-orderly-tutorials/"><u>[New] 2024 Approved Professional Screen Capture Techniques - Orderly Tutorials</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-9-masterclass-in-live-gaming-streams-for-2024/"><u>[New] 9 Masterclass in Live Gaming Streams for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-remote-conferences-with-5-elite-recorders-for-2024/"><u>[New] Mastering Remote Conferences with 5 Elite Recorders for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-prime-venues-for-vr-entertainment/"><u>[New] Prime Venues for VR Entertainment</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-best-zoom-audio-settings-for-getting-audio-quality-in-zoom-meeting/"><u>[Updated] Best Zoom Audio Settings for Getting Audio Quality in Zoom Meeting</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-litescreen-recorder-review-and-alternatives-for-2024/"><u>[Updated] LiteScreen Recorder Review and Alternatives for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-step-by-step-guide-exploring-every-nook-and-cranny-of-stardew-valley-particularly-ginger-island/"><u>2024 Approved Step-by-Step Guide Exploring Every Nook and Cranny of Stardew Valley, Particularly Ginger Island</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-giants-googles-palm-2-and-openais-gpt-4-understanding-key-distinctions/"><u>Comparing Giants: Google's PaLM 2 and OpenAI's GPT-4 - Understanding Key Distinctions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/customize-your-own-ai-with-chatgpts-newest-feature-tailored-generative-models-now/"><u>Customize Your Own AI with ChatGPT's Newest Feature - Tailored Generative Models Now!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-windows-11-taskbar-for-key-indicators/"><u>Customizing Windows 11 Taskbar for Key Indicators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-numbers-with-ai-can-chatgpt-help-with-your-math-problems/"><u>Deciphering Numbers with AI: Can ChatGPT Help With Your Math Problems?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-complex-workings-of-gpt4all/"><u>Decoding the Complex Workings of GPT4All</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-finest-5-ai-prompt-generators-to-maximize-your-use-of-any-ai-device/"><u>Discover the Finest 5 AI Prompt Generators to Maximize Your Use of Any AI Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-presenting-skills-with-these-7-superior-ai-toolkits/"><u>Enhance Your Presenting Skills with These 7 Superior AI Toolkits</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-the-powerhouses-googles-bard-and-microsofts-bing/"><u>Evaluating the Powerhouses: Google’s Bard & Microsoft's Bing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-artificial-intelligence-understanding-its-nature-and-identifying-potential-risks/"><u>Exploring Artificial Intelligence: Understanding Its Nature & Identifying Potential Risks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-vs-bert-dissecting-modern-nlp-giants-distinctions/"><u>GPT vs BERT: Dissecting Modern NLP Giants' Distinctions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-mastering-the-art-of-youtube-viewership-6-proven-methods/"><u>In 2024, Mastering the Art of YouTube Viewership 6 Proven Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mac-mastery-how-to-effortlessly-install-and-operate-microsoft-copilot/"><u>Mac Mastery: How to Effortlessly Install and Operate Microsoft Copilot</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-ai-image-creation-with-chatgpt/"><u>Mastering the Art of AI Image Creation with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-new-code-horizons-developers-and-the-impact-of-machine-learning/"><u>Navigating New Code Horizons: Developers and the Impact of Machine Learning</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-rise-of-ai-assistants-can-chatgpt-substitute-human-labor/"><u>Navigating the Rise of AI Assistants - Can ChatGPT Substitute Human Labor?</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-resolving-your-discord-install-issues-effortlessly/"><u>Quick Fixes: Resolving Your Discord Install Issues Effortlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quintessential-6-titans-vast-ai-model-ecosystem/"><u>Quintessential 6 Titans: Vast AI Model Ecosystem</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/setting-up-codegpt-a-step-by-step-guide-for-visual-studio-code-integration/"><u>Setting Up CodeGPT: A Step-by-Step Guide for Visual Studio Code Integration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/shaping-a-safe-ai-space-openais-head-of-policy-addresses-need/"><u>Shaping a Safe AI Space - OpenAI’s Head of Policy Addresses Need</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snappy-adjustments-the-art-of-perfecting-photos-on-snapchat-for-2024/"><u>Snappy Adjustments The Art of Perfecting Photos on Snapchat for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-enigma-of-unmodifiable-ai-conversations/"><u>The Enigma of Unmodifiable AI Conversations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-mechanics-of-gpt-4-all-an-in-depth-examination-for-tech-enthusiasts/"><u>The Mechanics of GPT-4 All – An In-Depth Examination for Tech Enthusiasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-power-of-conversational-ais-understanding-the-benefits-of-using-claude/"><u>The Power of Conversational AIs: Understanding the Benefits of Using Claude</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-perfecting-the-art-of-silence-increase-in-audacity-for-2024/"><u>[Updated] Perfecting the Art of Silence Increase in Audacity for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-y100-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-play-8t-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor Play 8T Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-boundaries-7-prompts-it-struggles-with-explained/"><u>ChatGPT Boundaries: 7 Prompts It Struggles With Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-10-replacements-for-chatgpt-now/"><u>Discover the Ultimate 10 Replacements for ChatGPT Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-xiaomi-redmi-note-12-pro-4g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Xiaomi Redmi Note 12 Pro 4G to iPod | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-your-guide-to-affordable-android-recording-with-top-8-free-apps/"><u>In 2024, Your Guide to Affordable Android Recording with Top 8 Free Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intelligent-machines-unpacked-strong-and-weak-classes/"><u>Intelligent Machines Unpacked: Strong and Weak Classes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-the-crypto-market-easier-with-these-5-insights-from-chatgpt/"><u>Navigate the Crypto Market Easier With These 5 Insights From ChatGPT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-guide-bulk-deleting-images-on-your-iphone-8-plus-or-x-top-five-methods/"><u>Quick Guide: Bulk Deleting Images on Your iPhone 8, Plus or X – Top Five Methods</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/quick-easy-fun-4-steps-to-showcasing-your-favorite-gifs-on-instagram-for-2024/"><u>Quick, Easy, Fun 4 Steps to Showcasing Your Favorite GIFs on Instagram for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-windows-11-fs-data-loss-and-corruption/"><u>Solutions for Windows 11 FS Data Loss and Corruption</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-latest-on-social-media-new-twitter-hoax-introduction-of-metas-verification-feature-and-insights-into-chatgpt-4/"><u>Unveiling the Latest on Social Media: New Twitter Hoax, Introduction of Meta's Verification Feature, & Insights Into ChatGPT-4</u></a></li>
 </ul></div>
+

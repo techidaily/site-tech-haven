@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Massive Language Model Paradigms
-date: 2024-09-07T00:21:42.214Z
-updated: 2024-09-08T00:21:42.214Z
+date: 2024-09-11T21:21:01.786Z
+updated: 2024-09-12T23:52:59.452Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Navigating Through Massive Language Model Paradi
 thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb290e10876ff155bcc05b7aa87.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Assessing the Cybercrime Potential of Language Models Such as ChatGPT on Financial and Personal Devices
 
  Since its launch, ChatGPT, the OpenAI chatbot, has been used by millions of people to write text, create music, and generate code. But as more people use the AI chatbot, it’s important to consider the security risks.
@@ -26,27 +20,23 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
  Like any technology, ChatGPT can be used for nefarious reasons. Hackers, for instance, can use it to create malicious content, like writing phony email messages to get access to your PC or even your bank account.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ChatGPT Can Help Cybercriminals Hack Your PC
 
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
 
  To counter such use cases, OpenAI has implemented mechanisms to reject prompts asking ChatGPT to create malware. For instance, if you ask the chatbot to “write malware,” it won’t. Despite this, cybercriminals easily get around these content moderation barriers.
@@ -58,21 +48,23 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
  Fortunately, you can easily recognize most traditional phishing scams; grammatical errors, misspellings, and weird phrases often characterize them. But these are all mistakes that ChatGPT rarely makes, even when used to compose malicious emails for phishing scams.
@@ -86,11 +78,12 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Protect Your PC and Bank Account in the AI-Era
 
  ChatGPT is a powerful and valuable tool that can answer many questions you throw its way. But the chatbot can also be used for malicious purposes, like generating phishing messages and creating malware.
@@ -99,14 +92,11 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
  To minimize the potential dangers of AI chatbots, it’s crucial to know their potential risks and the best possible security measures to protect yourself from hackers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,46 +107,18 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-click-inducing-headline-whiz/"><u>[New] Click-Inducing Headline Whiz</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-choosing-the-right-microphone-for-mac-devices-a-compreenas/"><u>[Updated] In 2024, Choosing the Right Microphone for Mac Devices (A Compreenas)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mobile-security-focused-the-leading-10-free-video-calling-applications-for-2024/"><u>[Updated] Mobile Security-Focused The Leading 10 Free Video Calling Applications for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-oneplus-nord-3-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 OnePlus Nord 3 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-efficiency-top-7-strategies-with-chatgpt-for-a-more-productive-workday/"><u>Boosting Efficiency: Top 7 Strategies with ChatGPT for a More Productive Workday</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-ai-like-chatgpt-be-programmed-to-automate-your-home-devices/"><u>Can AI Like ChatGPT Be Programmed to Automate Your Home Devices?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-tutorial-for-engaging-with-nvidias-revolutionary-rtx-ai-chatbot-on-your-desktop/"><u>Comprehensive Tutorial for Engaging with Nvidia's Revolutionary RTX AI Chatbot on Your Desktop</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-avoiding-common-pitfalls-with-chatgpt-in-academic-settings/"><u>Effective Strategies: Avoiding Common Pitfalls with ChatGPT in Academic Settings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-skills-the-foremost-five-ai-prompt-design-courses-on-the-web/"><u>Elevate Your Skills: The Foremost Five AI-Prompt Design Courses on the Web</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminate-interruptions-in-diablo-3-play-by-fixing-persistent-game-crashes/"><u>Eliminate Interruptions in Diablo 3 Play by Fixing Persistent Game Crashes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elite-focus-handheld-premium-mobile-mounting-systems/"><u>Elite Focus Handheld Premium Mobile Mounting Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-daily-efficiency-top-6-tips-for-incorporating-chatgpt-into-household-tasks/"><u>Enhance Your Daily Efficiency: Top 6 Tips for Incorporating ChatGPT Into Household Tasks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-your-excel-skills-3-powerful-uses-of-chatgpt/"><u>Enhancing Your Excel Skills: 3 Powerful Uses of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-vocabulary-in-artificial-intelligence-top-29-keywords-explained/"><u>Essential Vocabulary in Artificial Intelligence: Top 29 Keywords Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-basics-of-transfer-learning-in-artifice-intelligence/"><u>Exploring the Basics of Transfer Learning in Artifice Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-impact-of-vector-databases-on-improving-ai-performance/"><u>Exploring the Impact of Vector Databases on Improving AI Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-rise-of-gpt-3-bot-unveiling-reasons-behind-website-restrictions/"><u>Exploring the Rise of GPT-3 Bot: Unveiling Reasons Behind Website Restrictions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-chatgpt-improve-through-interactions-with-users/"><u>How Does ChatGPT Improve Through Interactions with Users?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-poco-f5-pro-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Poco F5 Pro 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-utilize-chatgpt-in-your-kitchen-adventures-a-seven-step-guide/"><u>How to Utilize ChatGPT in Your Kitchen Adventures - A Seven-Step Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-a-step-further-in-animation-innovative-techniques-using-movie-maker/"><u>In 2024, A Step Further in Animation Innovative Techniques Using Movie Maker</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-tricks-for-recording-online-discussions-easily/"><u>In 2024, Tricks for Recording Online Discussions Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovation-in-writing-why-bots-cant-compete-yet/"><u>Innovation in Writing - Why Bots Can't Compete Yet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-strategies-to-enhance-your-video-game-plot-with-chatgpt-assistance/"><u>Innovative Strategies to Enhance Your Video Game Plot with ChatGPT Assistance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leading-free-communication-apps-beyond-skype-in-2am-2024/"><u>Leading Free Communication Apps Beyond Skype in 2Am 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maintain-privacy-how-to-block-chatgpt-from-saving-interactions/"><u>Maintain Privacy: How to Block ChatGPT From Saving Interactions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-your-online-presence-with-manycams-virtual-webcam-solutions/"><u>Master Your Online Presence with ManyCam's Virtual Webcam Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-presentation-creation-a-step-by-step-guide-using-chatgpt/"><u>Mastering Presentation Creation: A Step-by-Step Guide Using ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-running-chatgpt-on-linux-with-ease/"><u>Mastering the Art of Running ChatGPT on Linux with Ease</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-mobile-experience-integrating-bing-ai-into-your-android-keyboard/"><u>Mastering the Mobile Experience: Integrating Bing AI Into Your Android Keyboard</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-your-workouts-with-efficient-chatgpt-prompts-tips-and-tricks/"><u>Maximizing Your Workouts with Efficient ChatGPT Prompts: Tips & Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-vcompdll-file-absence-on-your-computer-a-step-by-step-guide/"><u>Resolving vcomp.dll File Absence on Your Computer: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-customer-service-integrating-chatgpt-with-whatsapp/"><u>Seamless Customer Service: Integrating ChatGPT with WhatsApp</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secure-workout-blueprints-tailored-to-your-needs/"><u>Secure Workout Blueprints Tailored to Your Needs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-revolutionary-release-of-gpt-4-opening-new-avenues-in-ai-technology/"><u>The Revolutionary Release of GPT-4: Opening New Avenues in AI Technology</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/troubleshooting-macs-youtube-problems-for-smooth-downloads-and-streaming-fix-your-errors-now/"><u>Troubleshooting Mac's YouTube Problems for Smooth Downloads and Streaming | Fix Your Errors Now!</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Samsung Galaxy A15 5G</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ai-chatbots-exploring-their-rise-in-popularity/"><u>Understanding AI Chatbots: Exploring Their Rise in Popularity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-creative-potential-with-these-8-dall-e-3-keywords/"><u>Unlocking Creative Potential with These 8 DALL-E 3 Keywords</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-microsoft-video-editor-easily-edit-videos-in-windows-1087/"><u>Updated Microsoft Video Editor Easily Edit Videos in Windows 10/8/7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-ai-chatbot-dominates-an-in-depth-look-at-chatgpt-plus-vs-perplexity/"><u>Which AI Chatbot Dominates? An In-Depth Look at ChatGPT Plus Vs. Perplexity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-trusting-chatgpt-with-your-text-summarization-might-not-be-ideal-expert-insights/"><u>Why Trusting ChatGPT with Your Text Summarization Might Not Be Ideal: Expert Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-mastering-youtubes-networking-finding-and-creating-video-co-ops/"><u>[Updated] In 2024, Mastering YouTube's Networking Finding and Creating Video Co-Ops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capture-the-moment-professional-techniques-in-hdr-portraiture/"><u>2024 Approved Capture the Moment Professional Techniques in HDR Portraiture</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-decoding-the-undisclosed-world-of-youtube-videos/"><u>2024 Approved Decoding the Undisclosed World of YouTube Videos</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-annonce-que-les-francais-sont-en-tete-du-process-mining-73-des-entreprises-utilisent-desormais-loutil-etudy-pour-une-meilleure-analyse-et-gestion-de-l16/"><u>ABBYY Annonce Que Les Français Sont en Tête Du Process Mining : 73 % Des Entreprises Utilisent Désormais L'outil Étudy Pour Une Meilleure Analyse Et Gestion De Leurs Données</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-mobile-browsing-with-bings-smart-ai-driven-search-compatible-with-android-and-iphone/"><u>Enhance Mobile Browsing with Bing’s Smart, AI-Driven Search - Compatible With Android & iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-question-of-user-data-security-in-chatgpt-interactions/"><u>Exploring the Question of User Data Security in ChatGPT Interactions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-seamlessly-update-your-webcam-software-in-windows-7/"><u>How to Seamlessly Update Your Webcam Software in Windows 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-6s-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 6s Lock Screen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-y36i-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo Y36i Is Unlocked</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-installing-the-hp-laserjet-pro-m4e-printer-driver-in-windows/"><u>Step-by-Step Guide: Installing the HP LaserJet Pro M4e Printer Driver in Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-and-correcting-the-0xc19001e1-error-in-windows-11-expert-tips/"><u>Understanding and Correcting the 0XC19001e1 Error in Windows 11: Expert Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-profit-potential-in-crypto-markets-leverage-chatgpt-for-insightful-trade-ideas-5-ways/"><u>Unlock Profit Potential in Crypto Markets: Leverage ChatGPT for Insightful Trade Ideas (5 Ways)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-10-search-problems-explore-our-step-by-step-fixes-here/"><u>Windows 10 Search Problems? Explore Our Step-by-Step Fixes Here</u></a></li>
 </ul></div>
+
