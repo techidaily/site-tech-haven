@@ -646,11 +646,11 @@
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">14403</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">14609</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -670,53 +670,153 @@
             <div class="main-content">
 
                 
-                    <div class="page-template-container">
-    
+                    $friend-link-item-height = 82px
+$friend-link-item-height-tablet = 68px
+$friend-link-item-interval = 16px
+$friend-link-item-border-radius = 9px
 
-    
-    <div class="page-template-content markdown-body">
-        
-            <!-- google ads -->
+@import '../../common/variables'
 
-    <ul class="ads">
-        
-            <li>
-                <ins class="adsbygoogle"
-                    style="display:block"
-                    data-ad-client="ca-pub-7571918770474297"
-                    data-ad-slot="8358498916"
-                    data-ad-format="auto"
-                    data-full-width-responsive="true"></ins>
-            </li>
-        
-    </ul>
+.page-template-container
+  redefine-container(
+    false,
+    0,
+    0,
+    30px,
+    30px
+  )
 
-            <p><a href="https://tech-haven.techidaily.com/">https://tech-haven.techidaily.com</a></p>
-<p>TECHIDAILY, LIMITED makes the information and products available to you on this website, subject to the following terms and conditions. By accessing this website, you agree to these terms and conditions. Techidaily reserves the right to seek all remedies in law and equity for any violation of these terms and conditions.</p>
-<p>Any rights not expressly granted herein are reserved.</p>
-<p>There are inherent dangers in the use of any Software available for downloading on the Internet, and Techidaily Software hereby admonishes you to make sure that you completely understand all of the risks before downloading any of the Software (including without limitation, the potential infection of your system by computer viruses and loss of data). You are solely responsible for adequate protection and backup of the data and equipment used in connection with any of the Software.</p>
-<p>IMAGES: All logos, splash screens, page headers, images and graphics displayed on this Site are service marks, trademarks, and&#x2F;or trade dress (collectively, “Marks”) of Techidaily or its third-party licensors.. Except as expressly permitted herein, using, copying, transmitting, displaying, modifying or distributing any Marks in any form or by any means without the express written permission of Techidaily is prohibited and may violate the copyright, trademark, privacy or other local laws.</p>
-<p>THIRD PARTY WEBSITES AND PRODUCTS: Techidaily’s websites and products may include products or services owned by third party websites. Such products or services owned by third party websites are only for your convenience. Techidaily shall not be responsible for the license restrictions and legality of any content of such products or services owned by third party websites. You might need to review and agree to applicable rules of use when using such products or services owned by third party websites. In addition, a link to third party website does not imply that Techidaily endorses the site or the products or services referenced therein.</p>
-<p>INDEMNITY: You agree to defend, indemnify and hold wondershare, its affiliates and their officers, directors, agents, and employees harmless from and against any and all claims, losses, damages, liabilities, costs, and expenses, including attorneys’ fees, arising from or related to your user content, use of the Site, or violation of any of these Terms.</p>
-<p>FEEDBACK: Any comments or materials sent to Techidaily Software, including without limitation feedback, such as questions, comments, suggestions or any related information regarding the Software, this website or any other products, programs or services of Techidaily Software (“Feedback”), shall be deemed to be non-confidential. Techidaily Software shall have no obligation of any kind with respect to such Feedback and shall be free to reproduce, use, disclose, exhibit, display, transform, create derivative works and distribute the Feedback to others without limitation and shall be free to use any ideas, concepts, know-how or techniques contained in such Feedback for any purpose whatsoever, including but not limited to developing, manufacturing and marketing products incorporating such Feedback.</p>
-<p>REPRODUCTIONS: Any authorized reproductions of any of the information contained herein must include copyright notices, trademarks or other proprietary legends of Techidaily Software, on any copy of the materials made by you. The local laws govern the license for the Software and use of this website.</p>
-<p>COPYRIGHT: Copyright in this website (including without limitation, text, graphics, logos, sounds and software) is owned and licensed by TECHIDAILY, LIMITED All materials contained on this site are protected by local and international copyright law and may not be copied, reproduced, distributed, transmitted, displayed, published adapted, or dealt with in any form or by any means or in any media without the prior written permission of TECHIDAILY, LIMITED You may not alter or remove any copyright or other notice from copies of the content.</p>
-<p>TRADEMARK: Techidaily is a trademark of TECHIDAILY, LIMITED and legally protected by law. It may only be used with the prior written permission of TECHIDAILY, LIMITED in each specific instance. The use of the Techidaily trademark for commercial purposes without the prior written permission of Techidaily will constitute trademark infringement and unfair competition in violation of the law.</p>
-<p>For any questions, please enter our Customer Service Center for help. Thank you.<br>The website is operated by TECHIDAILY GLOBAL LIMITED and WONSON GLOBAL ENTERPRISES INC which are the subsidiary of TECHIDAILY, LIMITED.<br>VBROADCAST Co, Ltd is our affiliated company, the address of VBROADCAST Co, Ltd is 1000N.West Street, Suite 1200,Wilmington, New Castle, Delaware19801</p>
-<p>WONSON GLOBAL ENTERPRISES INC<br>300 - 3665 Kingsway Vancouver, B.C. V5R-5W2 Canada<br>TECHIDAILY GLOBAL LIMITED (registration number:2794708)<br>Unit D, 16&#x2F;F, One Capital Place, 18 Luard Road, Wan Chai, Hong Kong<br>TECHIDAILY, LIMITED.<br>West of Donghuan Road, North of 1-4 Road, South of 1-3 Road, Room No.2, Floor 6, Building No.8 of East of Liuwu Building, Lhasa, China.<br>Contact Us：<br>(852)6917-3046 </p>
+  +redefine-mobile()
+    padding 1.2rem 0.2rem
+    box-shadow none
 
-        
-    </div>
-    <!-- google ads -->
+    &:hover
+      box-shadow none
 
-    <ul class="ads">
-        
-    </ul>
+  .page-template-content
+    color var(--default-text-color)
 
-    <div class="page-template-comments">
-        
-    </div>
-</div>
+    h1, h2, h3, h4, h5, h6
+      &:first-child
+        margin 6px 0 36px 0
+        border-bottom none
+        line-height 1
+
+  #shuoshuo-content
+    img:hover
+      cursor zoom-in
+
+
+  #masonry-container
+    position relative
+    display none
+    opacity 0
+    transition opacity 0.1s ease-in
+
+    .masonry-item
+      position absolute
+      box-sizing border-box
+
+      &:hover
+        img
+          box-shadow var(--redefine-box-shadow)
+
+      img
+        width 100%
+        border-radius $redefine-border-radius-medium
+        box-shadow var(--redefine-box-shadow-flat)
+        cursor zoom-in
+
+  /* Loading */
+  .loading-placeholder
+    display block
+    justify-content center
+    align-items center
+    opacity 1
+    transition opacity 0.1s ease-out
+
+  .loading
+    -webkit-animation gradient-slide 1.1s ease infinite
+    animation gradient-slide 1.1s ease infinite
+    background 0 0 / 300% 300% linear-gradient(120deg, #9c9c9c20 40%, #83838325 50%, #9c9c9c20 60%)
+
+  .flex-grid
+    display grid
+    grid-template-columns repeat(auto-fill, minmax(150px, 1fr))
+    gap 10px
+
+    @media screen and (min-width: 768px)
+      grid-template-columns repeat(auto-fill, minmax(255px, 1fr))
+
+  .card
+    border 1px solid var(--border-color)
+    border-radius $redefine-border-radius-medium
+    box-sizing border-box
+    min-height 80vh
+    padding 30px
+
+  @keyframes gradient-slide
+    0%
+      background-position 100% 50%
+
+    to
+      background-position 0% 50%
+
+  /* Images */
+  .image-container
+    position relative
+
+  .image-title
+    position absolute
+    top 5px
+    left 5px
+    color var(--default-text-color)
+    background-color var(--background-color-transparent-40)
+    padding 5px 10px
+    font-size 14px
+    opacity 0
+    backdrop-filter blur(10px)
+    -webkit-backdrop-filter blur(10px)
+    border-radius $redefine-border-radius-small
+    transition opacity 0.2s ease-out
+
+  .image-description
+    position absolute
+    bottom 11px
+    right 5px
+    color var(--default-text-color)
+    background-color var(--background-color-transparent-40)
+    padding 5px 10px
+    font-size 14px
+    opacity 0
+    max-width 80%
+    backdrop-filter blur(10px)
+    -webkit-backdrop-filter blur(10px)
+    border-radius $redefine-border-radius-small
+    transition opacity 0.2s ease-out
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
+
+  .image-container:hover .image-title, .image-container:hover .image-description
+    opacity 1
+
+  .image-container img
+    width 100%
+    height auto
+    transition box-shadow 0.3s ease-in-out
+    overflow hidden
+
+  .image-container:hover img
+    box-shadow var(--redefine-box-shadow-hover)
 
                 
 
@@ -880,8 +980,7 @@
 
 
 
-<!-- use the techidaily.com/zaraz/tools-config/tools bY cloudflare -->
-
+<!-- use google_analytics the techidaily.com/zaraz/tools-config/tools bY cloudflare -->
 
 <!-- google ads fundingchoicesmessages -->
 <script async src="https://fundingchoicesmessages.google.com/i/pub-7571918770474297?ers=1" nonce="UocHKf5GStdNoIAz-SQeJA"></script>
