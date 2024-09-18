@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Language Models: Discovering Differences Between Auto-GPT and ChatGPT"
-date: 2024-09-08T21:06:50.521Z
-updated: 2024-09-12T18:20:00.985Z
+date: 2024-09-12T22:42:58.504Z
+updated: 2024-09-17T17:47:02.144Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -66,17 +59,21 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-googles-enhanced-technique-for-flawless-speech-transcription/"><u>[New] Google's Enhanced Technique for Flawless Speech Transcription</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagrams-visual-narratives-a-guide-for-prodigies-for-2024/"><u>[Updated] Mastering Instagram's Visual Narratives A Guide for Prodigies for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-for-fresh-filmmakers-an-introduction-to-aspect-ratios-and-resolution/"><u>2024 Approved For Fresh Filmmakers An Introduction to Aspect Ratios & Resolution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-lag-fixing-deathloops-frame-drops-and-stutters-in-windows/"><u>Beat the Lag: Fixing Deathloop's Frame Drops & Stutters in Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gemini-navigates-new-frontiers-a-game-changer-for-one-million-token-economies/"><u>Gemini Navigates New Frontiers: A Game Changer for One-Million-Token Economies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-efficient-programming-10-strategies-with-vs-code/"><u>Leveraging ChatGPT for Efficient Programming: 10 Strategies with VS Code</u></a></li>
-<li><a href="https://program-issues.techidaily.com/lost-ark-optimized-ensuring-smooth-frame-rates-and-stable-gameplay-for-enthusiasts/"><u>Lost Ark Optimized - Ensuring Smooth Frame Rates and Stable Gameplay for Enthusiasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-presentations-with-smart-ai-technology/"><u>Revolutionizing Presentations with Smart AI Technology</u></a></li>
-<li><a href="https://extra-support.techidaily.com/simplify-your-story-instagram-collage-techniques-for-2024/"><u>Simplify Your Story Instagram Collage Techniques for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/smartphonedslr-camerass-optimal-gimbals-uncovered-1-10-for-2024/"><u>Smartphone/DSLR Cameras's Optimal Gimbals Uncovered #1-#10 for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-quintessential-factors-leading-to-company-wide-bans-against-chatgpt/"><u>The Quintessential Factors Leading to Company-Wide Bans Against ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-and-harnessing-chatgpt-for-language-translation/"><u>Understanding and Harnessing ChatGPT for Language Translation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-from-words-to-wax-mastering-voice-note-techniques/"><u>[New] 2024 Approved From Words to Wax Mastering Voice Note Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-keep-up-the-snapstreak-game/"><u>[New] How To Keep Up the Snapstreak Game</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-expert-advice-yt-clip-sharing-using-your-google-id/"><u>[Updated] 2024 Approved Expert Advice YT Clip Sharing Using Your Google ID</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-expert-tips-control-your-volume-with-precision-on-lumafusion/"><u>[Updated] 2024 Approved Expert Tips Control Your Volume with Precision on Lumafusion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/davinci-resolve-tutorial-how-to-isolate-and-remove-audio-tracks-from-video-files/"><u>DaVinci Resolve Tutorial: How to Isolate and Remove Audio Tracks From Video Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-jet-li-films-effortlessly-a-step-by-step-guide/"><u>Download Jet Li Films Effortlessly: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easily-create-a-transparent-gif-on-the-web-cost-free-techniques/"><u>Easily Create a Transparent GIF on the Web: Cost-Free Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-conversion-made-simple-switch-any-media-to-htc-formats-using-htc-video-converter/"><u>Easy Conversion Made Simple: Switch Any Media to HTC Formats Using HTC Video Converter</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-change-innovations-for-youtubers-and-their-videos/"><u>Voice Change Innovations for YouTubers & Their Videos</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

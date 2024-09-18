@@ -1,7 +1,7 @@
 ---
 title: "Prompt Engineering in AI: An Overview & Future Prospects"
-date: 2024-09-11T08:20:07.116Z
-updated: 2024-09-12T19:38:50.397Z
+date: 2024-09-16T17:56:13.483Z
+updated: 2024-09-17T23:34:18.788Z
 tags:
   - chatgpt
   - open-ai
@@ -20,25 +20,11 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -64,43 +50,17 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -112,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -141,16 +101,20 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-enhancing-visual-appeal-the-ultimate-guide-to-editing-instagram-videos/"><u>[Updated] In 2024, Enhancing Visual Appeal The Ultimate Guide to Editing Instagram Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-turning-tides-in-photographic-history-retrieval-on-facebook/"><u>[Updated] Turning Tides in Photographic History Retrieval on Facebook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-chatgpt-and-traditional-magazines-which-can-forecast-your-destiny-more-accurately/"><u>Comparing ChatGPT and Traditional Magazines: Which Can Forecast Your Destiny More Accurately?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-gpt-ns-capabilities-for-all-users/"><u>Demystifying GPT-N's Capabilities for All Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/digital-collaboration-redefined-with-6-chatgpt-techniques/"><u>Digital Collaboration Redefined with 6 ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-chatgpt-transformed-my-podcast-writing-process-a-personal-tale/"><u>How ChatGPT Transformed My Podcast Writing Process - A Personal Tale</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-steps-to-resolve-unusual-self-viewer-mistakes-in-chats/"><u>In 2024, Steps to Resolve Unusual Self-Viewer Mistakes in Chats</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigate-easier-with-bings-new-ai-powered-mobile-search-feature/"><u>Navigate Easier with Bing’s New AI-Powered Mobile Search Feature</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-past-alerts-and-notifications-on-ios-devices-effortlessly/"><u>Navigating Through Past Alerts and Notifications on iOS Devices Effortlessly</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-cash-flow-of-creative-content-youtubers-earnings-per-sponsored-video-in-2024/"><u>The Cash Flow of Creative Content Youtuber's Earnings per Sponsored Video, In 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-7-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-ad-101-create-stunning-and-effective-snapchat-ads/"><u>[New] Snapchat Ad 101 Create Stunning & Effective Snapchat Ads</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-direct-download-destiny-10-online-tool-reviewers-choice/"><u>[Updated] In 2024, Direct Download Destiny #10 Online Tool Reviewers' Choice</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-does-a-vtubing-career-start-and-prospective-path/"><u>[Updated] In 2024, How Does a Vtubing Career Start & Prospective Path?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027112181-pc/"><u>「PC上で外部オーディオを記録するためのステップバイステップマニュアル」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027488067-windows-10/"><u>【マルチメディア管理】Windows 10上で動画結合の詳細な手順とテクニック</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-resolution-war-gopro-hero-series-against-polaroid-cube/"><u>2024 Approved Resolution War GoPro Hero Series Against Polaroid Cube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029111857-gif/"><u>動かないGIF画像へのアクセス障害：原因分析と再生可能化手段</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027850692-windows-10/"><u>最新テクニック：Windows 10で効果的にゲームを記録する方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5pya5paw44oi44oo44op44or44gl44kj44k544og44os44kq44g444gu5asj5oplusb54sh5paz44ox44ot44kw44op44og44ks6kal44gk44gr44kl44gf44kb44gu44ks44kk44oj/"><u>最新モノラルからステレオへの変換無料プログラムを見つけるためのガイド</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhancing-youtube-viewing-experience-with-right-video-formats-for-2024/"><u>Enhancing YouTube Viewing Experience with Right Video Formats for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-architecting-authoritative-adjuncts/"><u>In 2024, Architecting Authoritative Adjuncts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/profit-potentials-in-producing-product-centric-youtube-clips/"><u>Profit Potentials in Producing Product-Centric YouTube Clips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/starting-up-key-gopro-add-ons-unveiled-for-2024/"><u>Starting Up Key GoPro Add-Ons Unveiled for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/transform-any-camera-into-a-professional-webcam-with-manycams-advanced-live-streaming-features/"><u>Transform Any Camera Into a Professional Webcam with ManyCam's Advanced Live-Streaming Features!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-on-converting-your-swf-flash-videos-into-high-quality-mp4s/"><u>Ultimate Tutorial on Converting Your SWF Flash Videos Into High-Quality MP4s</u></a></li>
 </ul></div>
 

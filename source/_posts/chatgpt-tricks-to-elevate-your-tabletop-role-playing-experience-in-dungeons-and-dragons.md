@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Tricks to Elevate Your Tabletop Role-Playing Experience in Dungeons & Dragons
-date: 2024-09-12T01:08:16.440Z
-updated: 2024-09-13T08:38:02.362Z
+date: 2024-09-11T23:23:16.984Z
+updated: 2024-09-17T18:59:42.275Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -44,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -64,30 +50,24 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -97,26 +77,6 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
 
@@ -141,18 +101,17 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unleashing-creativity-with-audacity-sound-capture-on-your-mac-for-2024/"><u>[Updated] Unleashing Creativity with Audacity Sound Capture on Your Mac for 2024</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1-freemake-video-converter-evaluation-security-cost-free-features-and-value-assessment/"><u>1. Freemake Video Converter Evaluation: Security, Cost-Free Features & Value Assessment</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unparalleled-video-intros-made-easy-with-online-tools/"><u>2024 Approved Unparalleled Video Intros Made Easy with Online Tools</u></a></li>
-<li><a href="https://article-posts.techidaily.com/breaking-ground-with-2023s-samsung-k850u-revision/"><u>Breaking Ground with 2023’S Samsung K850U Revision</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-trust-chatgpt-a-breakdown-of-six-potential-cybersecurity-hazards/"><u>Can You Trust ChatGPT? A Breakdown of Six Potential Cybersecurity Hazards</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-the-cybersecurity-of-ai-dialogues/"><u>Deciphering the Cybersecurity of AI Dialogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-ai-controls-essential-insights-into-regulation-and-responsibility/"><u>Demystifying AI Controls: Essential Insights Into Regulation and Responsibility</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-tecno-spark-10-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Tecno Spark 10 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-downloading-with-diligence-how-to-securely-save-imagesvideos-on-iphone/"><u>In 2024, Downloading with Diligence How to Securely Save Images/Videos on iPhone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-working-with-ai-as-a-prompt-engineer-legitimate-unveiling-the-critical-elements-to-consider/"><u>Is Working with AI as a Prompt Engineer Legitimate? Unveiling the Critical Elements to Consider</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/nightshade-solutions-for-securing-originality-in-the-age-of-generative-intelligence/"><u>Nightshade Solutions for Securing Originality in the Age of Generative Intelligence</u></a></li>
-<li><a href="https://win-dash.techidaily.com/updating-asus-maximus-x-hero-graphics-driver-a-step-by-step-guide/"><u>Updating ASUS Maximus X Hero Graphics Driver: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-beat-blast-updated-technology/"><u>[Updated] Beat Blast Updated Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-fresh-film-enthusiasts-primer-on-visual-quality/"><u>[Updated] The Fresh Film Enthusiast’s Primer on Visual Quality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/20248/"><u>「2024」最優秀のフリービデオダウンロードアプリケーション8選をご案内します</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apnggif/"><u>「迅速なAPNGからGIFへのアニメーション変換手順ガイド」</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-windows-movie-maker-for-animated-clips/"><u>2024 Approved Mastering Windows Movie Maker for Animated Clips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-region-code-freeing-tools-for-modern-windows-operating-systems-windows-10-and-11/"><u>Best Region Code Freeing Tools for Modern Windows Operating Systems (Windows 10 & 11)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diy-split-screen-tutorial-on-windows-movie-maker-a-comprehensive-walkthrough/"><u>DIY Split Screen Tutorial on Windows Movie Maker: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y78plus-t1-edition-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/modern-gaming-systems-old-school-appeal/"><u>Modern Gaming Systems, Old-School Appeal</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-gt-3-by-drfone-android/"><u>Three Ways to Sim Unlock Realme GT 3</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-handbrake-blockage-now/"><u>Unlock Windows HandBrake Blockage Now</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/vidfixmaster-quick-repair-made-easy/"><u>VidFixMaster: Quick Repair Made Easy</u></a></li>
 </ul></div>
 

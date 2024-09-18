@@ -1,7 +1,7 @@
 ---
 title: "Your Next Novel Awaits: Dive Into These Top 5 AI-Powered Reading Sites"
-date: 2024-09-10T16:03:00.094Z
-updated: 2024-09-13T00:08:43.021Z
+date: 2024-09-11T05:25:07.416Z
+updated: 2024-09-17T19:30:13.469Z
 tags:
   - chatgpt
   - open-ai
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tell ChatGPT Its Function and the Presentation Rules
 
@@ -59,19 +52,6 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, this is more compact and easier to look at than the default look.
 
 > 6\. The ‘Description’ must stay between 3 to 10 sentences.
@@ -85,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 > 10\. Change the ‘Weather’ to reflect ‘Description’ and whatever environment the player is in the game.
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Implement Fundamental Game Mechanics
 
@@ -160,16 +133,10 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
@@ -198,19 +165,6 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -229,16 +183,22 @@ And finally, don’t forget to actually start the game:
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -359,20 +319,21 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-unveiling-youtubes-mechanism-post-upload/"><u>[New] 2024 Approved Unveiling YouTube's Mechanism Post-Upload</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-amplify-engagement-utilizing-youtube-analytics-wisely-for-2024/"><u>[New] Amplify Engagement Utilizing YouTube Analytics Wisely for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-how-to-optimize-your-viewing-a-guide-to-high-definition-cricket-live-streaming/"><u>[Updated] 2024 Approved How to Optimize Your Viewing A Guide to High-Definition Cricket Live Streaming</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-storytelling-with-style-making-instagram-text-dance-for-2024/"><u>[Updated] Storytelling with Style Making Instagram Text Dance for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/empower-writers-leverage-these-veled-by-artificial-intelligence/"><u>Empower Writers: Leverage These Veled by Artificial Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/excel-skills-you-possess-that-no-bot-including-chatgpt-can-match/"><u>Excel Skills You Possess that No Bot, Including ChatGPT, Can Match</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-itel-a60-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Itel A60 Face Lock?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-find-x6-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Oppo Find X6 Pro</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-prime-5-minute-time-lapse-video-creator/"><u>In 2024, Prime 5-Minute Time-Lapse Video Creator</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-devices-with-tom-in-depth-hardware-analysis/"><u>Mastering Devices with Tom - In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-task-management-with-these-8-ai-powered-chrome-tools-ranked-by-efficiency/"><u>Maximize Task Management with These 8 AI-Powered Chrome Tools Ranked by Efficiency</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/safety-of-third-party-applications-for-chatgpt-what-to-know/"><u>Safety of Third-Party Applications for ChatGPT: What to Know</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-impact-of-chatgpt-on-modern-medicine-and-patient-care/"><u>The Impact of ChatGPT on Modern Medicine and Patient Care</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tricks-to-get-your-windows-computer-to-start-up-in-safe-mode/"><u>Ultimate Tricks to Get Your Windows Computer to Start Up in Safe Mode</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-to-fixing-6-common-pitfalls-in-chatgpt-interactions/"><u>Unlocking the Secrets to Fixing 6 Common Pitfalls in ChatGPT Interactions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-tips-for-writing-irresistible-podcast-intros/"><u>[New] In 2024, Tips for Writing Irresistible Podcast Intros</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optic-zenith-premier-choices-in-the-realm-of-8k/"><u>[New] Optic Zenith Premier Choices in the Realm of 8K</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-video-frame-techniques-applying-letterboxing-and-black-bars-to-fb-media/"><u>[Updated] 2024 Approved Video Frame Techniques Applying Letterboxing & Black Bars to FB Media</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-capturing-crystal-clear-photos-without-spending/"><u>[Updated] In 2024, Capturing Crystal Clear Photos Without Spending</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top5/"><u>最新動画合成ツールが入手できる！今年のおすすめフリーソフトウェアランキングTOP5</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bush-bandy-speak-learn-local-sayings-quickly/"><u>Bush Bandy Speak: Learn Local Sayings Quickly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-captioning-masterful-techniques-for-text-in-windowsmac-pics/"><u>Creative Captioning Masterful Techniques for Text in Windows/Mac Pics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/lol-library-top-picks-for-outstanding-meme-creators/"><u>LOL Library Top Picks for Outstanding Meme Creators</u></a></li>
+<li><a href="https://win-online.techidaily.com/scopri-le-piu-ottime-substitute-per-after-effects-edizione-2024-opzioni-gratuite-ed-economiche/"><u>Scopri Le Più Ottime Substitute per After Effects - Edizione 2024: Opzioni Gratuite Ed Economiche!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-battle-of-mobile-os-a-closer-look-at-android-iphone-and-symbian/"><u>The Battle of Mobile OS: A Closer Look at Android, iPhone, and Symbian</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-converting-videoclips-to-m4a-with-minimal-hustle/"><u>The Ultimate Tutorial: Converting Videoclips to M4A with Minimal Hustle</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/trustworthy-guide-for-converting-high-efficiency-video-coding-hevc-to-mp4-with-hitfilm-express-software/"><u>Trustworthy Guide for Converting High-Efficiency Video Coding (HEVC) to MP4 with Hitfilm Express Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tsmp4-handbrake/"><u>TSファイルからMP4へ: HandBrakeで素早く高画質に変換するためのガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-converting-your-videos-from-m4v-to-mp4-efficiently-using-vlc-software/"><u>Ultimate Guide: Converting Your Videos From M4V to MP4 Efficiently Using VLC Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-multi-angle-content-on-dvds-a-comprehensive-guide/"><u>Understanding Multi-Angle Content on DVDs: A Comprehensive Guide</u></a></li>
 </ul></div>
 

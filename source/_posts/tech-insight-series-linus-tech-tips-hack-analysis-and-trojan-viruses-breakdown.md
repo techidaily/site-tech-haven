@@ -1,7 +1,7 @@
 ---
 title: "Tech Insight Series: Linus Tech Tips Hack Analysis and Trojan Viruses Breakdown"
-date: 2024-09-07T21:49:41.334Z
-updated: 2024-09-12T22:29:00.714Z
+date: 2024-09-10T22:09:41.165Z
+updated: 2024-09-17T16:34:39.823Z
 tags:
   - chatgpt
   - open-ai
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
  In this week's podcast, we look at what Twitter's canceling of classic verification means, and explore how the Linus Tech Tips YouTube channel was hacked. Plus, we explain what Trojan malware is, and the biggest problems with OpenAI and ChatCPT.
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -61,16 +54,28 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sleek-editing-techniques-for-targeted-photography-softness/"><u>2024 Approved Sleek Editing Techniques for Targeted Photography Softness</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparative-analysis-distinguishing-features-of-chatgpt-and-microsofts-bing-ai/"><u>Comparative Analysis: Distinguishing Features of ChatGPT and Microsoft's Bing AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-the-cybersecurity-of-ai-dialogues/"><u>Deciphering the Cybersecurity of AI Dialogues</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-epson-perfection-v39-drivers-compatible-with-windows-7810-os/"><u>Get the Latest Epson Perfection V39 Drivers Compatible with Windows 7/8/10 OS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-11-proplus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme 11 Pro+ Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-iphone-14-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from iPhone 14 Pro iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-working-with-ai-as-a-prompt-engineer-legitimate-unveiling-the-critical-elements-to-consider/"><u>Is Working with AI as a Prompt Engineer Legitimate? Unveiling the Critical Elements to Consider</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/nightshade-solutions-for-securing-originality-in-the-age-of-generative-intelligence/"><u>Nightshade Solutions for Securing Originality in the Age of Generative Intelligence</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reviewing-the-influence-of-character-intensity-in-spider-man-miles-morales/"><u>Reviewing the Influence of Character Intensity in Spider-Man: Miles Morales</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-showdown-begins-is-llama-or-gpt-4-the-apex-of-artificial-intelligence/"><u>The Showdown Begins: Is Llama or GPT-4 the Apex of Artificial Intelligence?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-intel-z270-chipset-enhanced-performance-motherboard-for-gamers/"><u>[Free Download] Intel Z270 Chipset - Enhanced Performance Motherboard for Gamers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-insiders-guide-to-snapchat-pins/"><u>[New] In 2024, The Insider's Guide to Snapchat Pins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028729633-9tsu/"><u>「安全にダウンロード可能な9Tsu動画：ガイド」</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pushing-boundaries-the-innovations-of-magix-vpx/"><u>2024 Approved Pushing Boundaries The Innovations of Magix VPX</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-reviewing-ion-air-pro-3-capturing-life-in-high-definition/"><u>2024 Approved Reviewing ION Air Pro 3 - Capturing Life in High Definition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/3g2/"><u>3G2ファイルをスムーズに再生する技術と、プレイバックが難しい場合の解決方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dvdgoogle/"><u>DVDファイルをGoogleドライブへアップロードする手順</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-tips-for-viewing-avi-videos-on-ios-devices/"><u>Effortless Tips for Viewing AVI Videos on iOS Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevate-your-fb-ads-to-new-heights-with-these-top-20-free-editors/"><u>Elevate Your Fb Ads to New Heights with These Top 20 Free Editors</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-xr21-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia XR21 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-14-pro-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 14 Pro SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-premium-online-audio-solutions-guide/"><u>In 2024, Premium Online Audio Solutions Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-s18e-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo S18e Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030290187-windows-pc/"><u>Windows PCで動画品質を上げるための解像度低減手順４通り</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/wonderfox-the-ultimate-dvd-and-hd-video-ripper-and-converter-toolkit-for-hassle-free-media-management/"><u>WonderFox: The Ultimate DVD & HD Video Ripper and Converter Toolkit for Hassle-Free Media Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030663443-gif/"><u>おすすめのアプリで効果的な写真からGIFへの変換方法</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

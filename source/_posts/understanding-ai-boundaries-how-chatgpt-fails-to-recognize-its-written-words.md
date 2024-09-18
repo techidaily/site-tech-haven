@@ -1,7 +1,7 @@
 ---
 title: "Understanding AI Boundaries: How ChatGPT Fails to Recognize Its Written Words"
-date: 2024-09-06T22:50:59.662Z
-updated: 2024-09-13T03:54:01.944Z
+date: 2024-09-12T02:06:26.541Z
+updated: 2024-09-17T18:42:53.015Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -45,19 +38,6 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
 ![Screenshot of ChatGPT Declaring No Limits](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-declaring-no-limits.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, asking ChatGPT about itself isn't a good idea since it isn't typically objective about its abilities or has limited information. So, we ran some tests to determine the length limits of ChatGPT responses. We asked the chatbot to write a 5000-word article on the history of the FIFA World Cup. ChatGPT's assessment of itself differed from the results we found.
 
 ![Asking ChatGPT to write 5000 words article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-to-write-5000-words-article.jpg)
@@ -70,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
  Part of the answer as to why this happens lies in something called the token system.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What Is the Token System ChatGPT Uses?
 
  When you ask ChatGPT a question, the length of the replies it can provide depends on a token system. Rather than a simple word count to determine the length of both queries and answers, ChatGPT uses this system. Notice something? The length of both "queries and answers" is taken into consideration. The token system breaks down each input and output into a series of tokens to classify the request and response size.
@@ -84,19 +57,6 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
  While word count does play a part in this, it isn't the whole story. For instance, the example below was entered into[OpenAI's Tokenizer tool](https://platform.openai.com/tokenizer) .
 
 ![Screenshot of ChatGPT Tokenizer tool test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-tokenizer-tool-test.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The sentence "How many words have I typed" and answer "6" were "tokenized" to a value of nine tokens. This is consistent with OpenAI's "rule of thumb" that one token is equivalent to around three-quarters of a word.
 
@@ -123,33 +83,28 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 ![Screenshot of ChatGPT being prompted to continue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-being-prompted-to-continue.jpg)
 2. **Break your question into smaller sections:** For instance, we asked it several times to write an essay on the impact of AI on society. One option here is to ask it to bullet-point some topics for an essay on AI, then use the supplied bullet points as individual prompts.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Screenshot of ChatGPT response to AI Bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-ai-bullet-points.jpg)
 3. **Use the Regenerate option:** While this might throw up the same error, with nothing to lose, it is always worth a shot.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. **Specify an upper limit to your word count in your prompt:** The image below illustrates how this can be used to manipulate the maximum word count in an answer.  
 ![Screenshot of using a word limit for ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-using-a-word-limit-for-chatgpt-response.jpg)
 5. **Start a new conversation** : starting a new conversation gives you a clean slate to work with. Remember, ChatGPT considers past prompts and responses in a conversation. Starting a new chat gives you unused context to work with.
 
- These tips will help you to get more complete answers from ChatGPT and work around the unofficial limit in the length of its responses.
-
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ These tips will help you to get more complete answers from ChatGPT and work around the unofficial limit in the length of its responses.
 
 ## ChatGPT: Quality Over Quantity
 
@@ -170,20 +125,15 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-leading-edge-group-chat-apps-on-android-5plus-users/"><u>[New] In 2024, Leading Edge Group Chat Apps on Android (5+ Users)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unlocking-viewership-growth-on-twitch-top-4-strategies/"><u>[New] Unlocking Viewership Growth on Twitch Top 4 Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-chatgpt-improve-through-interaction-with-users/"><u>Can ChatGPT Improve Through Interaction with Users?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/countdown-to-love-top-10-timing-tools-for-your-big-day/"><u>Countdown to Love Top 10 Timing Tools for Your Big Day</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-auto-gpt-stand-out-against-the-renowned-chatgpt/"><u>How Does Auto-GPT Stand Out Against the Renowned ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-embracing-ai-can-revolutionize-education-exploring-8-key-benefits-for-teachers/"><u>How Embracing AI Can Revolutionize Education: Exploring 8 Key Benefits for Teachers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-is-ai-revolutionizing-the-medical-field-with-tools-like-chatgpt/"><u>How Is AI Revolutionizing the Medical Field with Tools Like ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-activate-and-benefit-from-the-cutting-edge-nvidia-rtx-ai-chatbot-on-personal-computers/"><u>How to Activate and Benefit From the Cutting-Edge Nvidia RTX AI Chatbot on Personal Computers</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-core-principles-youtubes-social-contract/"><u>In 2024, Core Principles YouTube's Social Contract</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722958973344-no-more-drivers-headaches-successfully-installing-asus-ac56-network-card-on-various-windows-versions/"><u>No More Drivers Headaches: Successfully Installing ASUS AC56 Network Card on Various Windows Versions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/removing-unwanted-reflections-and-red-eye-from-pet-portraits/"><u>Removing Unwanted Reflections and Red-Eye From Pet Portraits</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/setting-up-and-using-chatgpt-from-ubuntus-terminal-with-shell-integration-techniques/"><u>Setting Up and Using ChatGPT From Ubuntu's Terminal with Shell Integration Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/simplify-your-work-the-best-5-mac-snipper-applications/"><u>Simplify Your Work The Best 5 Mac Snipper Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-mystery-uncovered-deciphering-the-secrets-of-virtual-conversations/"><u>The Mystery Uncovered: Deciphering the Secrets of Virtual Conversations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-step-by-step-guide-removing-photo-backdrops/"><u>[New] Step-by-Step Guide Removing Photo Backdrops</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gif202n4/"><u>高画質GIF制作ツール「202n4最新モデル」推奨リストあります</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mov-h264/"><u>快適なMOVファイル変換 - H264形式へのガイド付き手順</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/enablingdisabling-pip-on-youtube-for-ios-devices-step-by-step-guide-for-2024/"><u>Enabling/Disabling PIP on YouTube for iOS Devices Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-reliable-and-trusted-is-winx-dvd-ripper-amongst-the-community/"><u>How Reliable and Trusted Is WinX DVD Ripper Amongst the Community?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/humor-hierarchy-ranking-10-memes-in-order-of-delight/"><u>Humor Hierarchy Ranking #10 Memes in Order of Delight</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-x100-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo X100 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/latest-parker-movie-edition-now-available-on-dvd/"><u>Latest Parker Movie Edition Now Available on DVD</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-directdraw-woes-a-users-survival-manual-for-win11/"><u>Navigating DirectDraw Woes: A User's Survival Manual for Win11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-13-effortless-revenue-strategies-for-newbies-on-reddit/"><u>Top 13 Effortless Revenue Strategies for Newbies on Reddit</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Digital Dilemmas: Navigating Through 3 Chatbot Security Risks"
-date: 2024-09-10T22:46:43.512Z
-updated: 2024-09-13T08:39:38.293Z
+date: 2024-09-14T21:32:24.366Z
+updated: 2024-09-17T20:24:06.769Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT: Security Threats and Issues
 
  The technology underpinning ChatGPT and other chatbots may be similar, but ChatGPT is in a category of its own. This is great news if you intend to use it as a kind of personal assistant, but worrying if you consider that threat actors also use it.
@@ -41,36 +34,15 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  This just underscores how important it is to[limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) , which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is ChatGPT a Threat to Your Privacy?
 
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/) , but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
 
  Billions of words were scraped from the internet to create ChatGPT's vast database. This database is in a continual state of expansion, since ChatGPT stores whatever users share. The US-based non-profit[Common Sense](https://privacy.commonsense.org/evaluation/ChatGPT) gave ChatGPT a privacy evaluation score of 61 percent, noting that the chatbot collects Personally Identifiable Information (PII), and other sensitive data. Most of this data is stored, or shared with certain third-parties.
 
  In any case, you should be careful when using ChatGPT, especially[if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt) , or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Addressing the Security Risks Associated With ChatGPT
 
@@ -81,16 +53,16 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Raising Awareness Is Key
@@ -114,13 +86,20 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-pros-choice-the-best-screen-recorders-for-editing/"><u>[New] Pro's Choice The Best Screen Recorders for Editing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-understanding-limits-to-instagram-videography/"><u>[New] Understanding Limits to Instagram Videography</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-powered-strategies-for-compelling-proposal-drafts/"><u>ChatGPT-Powered Strategies for Compelling Proposal Drafts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-capabilities-of-emotional-ai-in-recognizing-and-responding-to-feelings/"><u>Exploring the Capabilities of Emotional AI in Recognizing and Responding to Feelings</u></a></li>
-<li><a href="https://win11.techidaily.com/first-timers-guide-to-navigating-windows-tools/"><u>First Timer's Guide to Navigating Windows Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-the-art-of-background-music-for-video-unboxing/"><u>In 2024, Ultimate Guide The Art of Background Music for Video Unboxing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/scrutinizing-6-overrated-chatgpt-extensions/"><u>Scrutinizing 6 Overrated ChatGPT Extensions</u></a></li>
-<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-in-windows-10-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager in Windows 10</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-your-roadmap-to-earning-on-tiktok-discover-these-top-8-approaches/"><u>[New] In 2024, Your Roadmap to Earning on TikTok Discover These Top 8 Approaches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-windows-11-essential-steps-for-audio-recording-for-2024/"><u>[New] Windows 11 Essential Steps for Audio Recording for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-simple-techniques-for-effortless-undersea-vids/"><u>2024 Approved Unveiling Simple Techniques for Effortless Undersea Vids</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-vhs-vibes-made-easy-a-final-cut-pro-tutorial/"><u>2024 Approved VHS Vibes Made Easy A Final Cut Pro Tutorial</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/av1-triumph-surpassing-vp9-performance/"><u>AV1 Triumph Surpassing VP9 Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bringing-back-your-deleted-snapchat-tips-for-reactivation/"><u>Bringing Back Your Deleted Snapchat - Tips for Reactivation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-wma-to-aac-conversion-tools-for-windows-users-your-ultimate-guide/"><u>Free WMA to AAC Conversion Tools for Windows Users: Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-easily-switch-from-ogg-to-m4r-format-top-4-free-tools-and-websites/"><u>How To Easily Switch From OGG to M4R Format - Top 4 Free Tools & Websites</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hp-pc/"><u>HP PC向け動画編集ガイド</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipadavchd/"><u>IPadへのAVCHDビデオインポート手順：互換性最大化ガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/itunesflacmp3/"><u>ITunes上で再生可能なようにFLACファイルをMP3に最適化する手引き</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-stream-recorder-software-compared-best-picks-for-pcs-and-macs-plus-online-alternatives/"><u>Leading Stream Recorder Software Compared: Best Picks for PCs and Macs + Online Alternatives</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-10-methods-for-converting-your-dvd-files-into-mp4-format-on-pc-and-macos/"><u>Top 10 Methods for Converting Your DVD Files Into MP4 Format on PC and MacOS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-face-recognition-top-5-solutions-when-your-iphones-face-id-fails/"><u>Troubleshooting Face Recognition: Top 5 Solutions When Your iPhone's Face ID Fails</u></a></li>
 </ul></div>
 

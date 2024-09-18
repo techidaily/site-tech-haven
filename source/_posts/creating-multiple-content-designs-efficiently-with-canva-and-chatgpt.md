@@ -1,7 +1,7 @@
 ---
 title: Creating Multiple Content Designs Efficiently with Canva & ChatGPT
-date: 2024-09-10T20:13:52.227Z
-updated: 2024-09-13T04:39:20.824Z
+date: 2024-09-12T20:23:47.015Z
+updated: 2024-09-17T19:23:29.831Z
 tags:
   - chatgpt
   - open-ai
@@ -50,27 +50,7 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 
 ![Screenshot of a ChatGPT response to asking questions about meditation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-asking-questions-about-meditation.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, you must exercise caution when interacting with ChatGPT about such issues. When I asked about depression and meditation, the first line of the ChatGPT answer was, “I'm not a mental health professional, but I can provide some general information about the potential benefits of meditation for mental health.” Here’s[how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/) .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Use ChatGPT to Help Identify Your Intentions for the Meditation Session
 
@@ -87,13 +67,6 @@ Try to frame your intentions positively, with statements such as:
 
  It can be helpful to write down any useful suggestions you receive for future reference.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Start Your Meditation Session Using ChatGPT
 
  Now that you have defined your intentions, direct ChatGPT to prompt your meditation session in a way that reflects your needs. Use prompts like:
@@ -103,13 +76,6 @@ Try to frame your intentions positively, with statements such as:
 * I'm feeling overwhelmed. Can you give me some meditation techniques?
 
 ![Screenshot of a ChatGPT response to meditation session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-session.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Because ChatGPT is a text-based service, it won’t lead you through a session as you would expect from a[meditation app like Insight Timer](https://www.makeuseof.com/deep-dive-into-insight-timer-meditation-app/) , the[meditation and mindfulness app Calm](https://www.makeuseof.com/meditating-calm-app-improve-mindfulness/) , or even a teacher. Instead, you’ll receive a list of ideas to work with, and you can consider which approaches might work best for you.
 
@@ -122,22 +88,22 @@ Try to frame your intentions positively, with statements such as:
 ![Screenshot of a ChatGPT response refining answers about meditation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-refining-answers-about-meditation.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Apply the ChatGPT Advice in Your Meditation Session
 
  Practice some of the suggestions, using everything you have learned from your interactions with ChatGPT.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Conclude Your Meditation Session With Breathing Exercises
 
@@ -148,10 +114,10 @@ Try to frame your intentions positively, with statements such as:
 ![Screenshot of a ChatGPT response to breathing exercise question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-breathing-exercise-question.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Set Future Goals Using ChatGPT for Guidance
@@ -167,10 +133,16 @@ Try to frame your intentions positively, with statements such as:
 ![Screenshot of a ChatGPT response to setting meditation goals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-setting-meditation-goals.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, you can combine these answers with advice from other sources, such as our list of[meditation apps to help you pause for a mindful moment on the go](https://www.makeuseof.com/meditation-apps-mindful-moment-on-go/) .
@@ -196,20 +168,14 @@ Try to frame your intentions positively, with statements such as:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-onestepcams-evaluation-are-we-overlooking-gems-for-2024/"><u>[New] OneStepCams Evaluation Are We Overlooking Gems for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-vibrant-visibility-30plus-biographical-concepts-for-increased-viewers-on-the-filmora-tiktok-platform/"><u>[New] Vibrant Visibility 30+ Biographical Concepts for Increased Viewers on the Filmora TikTok Platform</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitterscape-archive-the-ultimate-compiler-and-preserver-of-tweets-in-frames/"><u>[Updated] In 2024, Twitterscape Archive The Ultimate Compiler & Preserver of Tweets in Frames</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/10-cool-features-that-make-you-love-filmora-video-editor-for-2024/"><u>10 Cool Features That Make You Love Filmora Video Editor for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-4k-video-editors-expert-reviews-and-comparisons-for-2024/"><u>Best 4K Video Editors Expert Reviews and Comparisons for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-artificamatic-intelligence-like-chatgpt-guide-you-towards-a-more-nourishing-diet/"><u>Can Artificamatic Intelligence, Like ChatGPT, Guide You Towards a More Nourishing Diet?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-artificial-intelligence-truly-humor-us-like-chatgpts-comedic-skills/"><u>Can Artificial Intelligence Truly Humor Us Like ChatGPT's Comedic Skills?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/empower-your-vision-with-chatgpts-artificial-intelligence-skills/"><u>Empower Your Vision with ChatGPT's Artificial Intelligence Skills</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-bsod-troubleshooting-attempt-to-write-to-read-only-memory-issue/"><u>Fixing BSOD: Troubleshooting 'Attempt to Write to Read-Only Memory' Issue</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-expert-moves-for-sharing-youtube-and-twitter-on-whatsapp-platform/"><u>In 2024, Expert Moves for Sharing YouTube and Twitter on WhatsApp Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/paperclip-paradox-and-its-significance-in-ai-development/"><u>Paperclip Paradox and Its Significance in AI Development</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-15-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 15 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/persuasive-proposal-strategies-unveiled-enhance-your-skills-with-chatgpt-assistance/"><u>Persuasive Proposal Strategies Unveiled: Enhance Your Skills With ChatGPT Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-on-setting-up-and-running-codegpt-in-vscode/"><u>Ultimate Tutorial on Setting Up and Running CodeGPT in VSCode</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-chatgpt-a-user-friendly-approach-to-linux-installation/"><u>Unlocking the Power of ChatGPT: A User-Friendly Approach to Linux Installation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capture-and-share-live-to-the-max-with-4-pro-tips-on-fb-for-2024/"><u>[New] Capture and Share Live to The Max with 4 Pro Tips on FB for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-embed-a-custom-music-player-onto-your-tumblr-page-a-detailed-tutorial/"><u>How To Embed a Custom Music Player Onto Your Tumblr Page - A Detailed Tutorial</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-elevate-your-videography-mastering-the-dimensions/"><u>In 2024, Elevate Your Videography Mastering the Dimensions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/itunes-pc/"><u>ITunes PC用曲の追加方法とトラブルシューティング</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/lol/"><u>LoLリプレイを安全に保管するコツと、保存失敗時の迅速対策</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/restoring-sound-linkage-in-obs-broadcasts-for-2024/"><u>Restoring Sound Linkage in OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tech-tips-for-smoothing-out-your-minecraft-pc-playtime-latest-fixes/"><u>Tech Tips for Smoothing Out Your Minecraft PC Playtime - Latest Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-causes-behind-invalid-directory-names-in-web-hosting/"><u>Troubleshooting: The Causes Behind Invalid Directory Names in Web Hosting</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/winxdvd-official-site-top-rated-dvd-ripper-and-video-transcoding-tool/"><u>WinXDVD Official Site - Top Rated DVD Ripper & Video Transcoding Tool</u></a></li>
 </ul></div>
 

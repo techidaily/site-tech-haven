@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Now Available on iPhones and iPads – Learn How to Access It Today!
-date: 2024-09-11T08:07:45.920Z
-updated: 2024-09-13T02:46:31.189Z
+date: 2024-09-16T17:38:27.171Z
+updated: 2024-09-17T23:39:49.732Z
 tags:
   - chatgpt
   - open-ai
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -54,13 +47,6 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -70,19 +56,6 @@ Close
  You begin as the Oregon Trail does: choosing your character and buying supplies, then heading out into the wilderness. Most of your input to the game is choosing between the numbered options, such as where to head next, whether to buy more supplies, explore a new area, hunt for supplies, talk to the locals, look at the map, and so on.
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
@@ -101,10 +74,10 @@ Close
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
@@ -118,16 +91,10 @@ Close
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
@@ -141,13 +108,6 @@ Close
  The custom GPT Cookie Clicker is decidedly different. You're still building up a cookie empire in a similar style, but because ChatGPT doesn't run automated commands and cannot keep the numbers ticking over like the original game, it requires more input.
 
  Still, if you're into idle games and want to try something different, it could be worth a try.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
@@ -178,18 +138,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-elevate-your-camera-skills-mastering-macbook-webcams/"><u>[Updated] 2024 Approved Elevate Your Camera Skills Mastering MacBook Webcams</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-create-impact-with-intro-excellence-best-free-services-reviewed/"><u>[Updated] Create Impact with Intro Excellence Best Free Services Reviewed</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-recommended-frame-rates-for-professional-slow-motion-videos/"><u>[Updated] In 2024, Recommended Frame Rates for Professional Slow-Motion Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-lowdown-on-io-image-recording-software-for-2024/"><u>[Updated] The Complete Lowdown on IO Image Recording Software for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-tiktok-watermark-removers-online/"><u>Best TikTok Watermark Removers Online</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/content-creation-revolutionized-by-chatgpt-explore-the-9-most-impactful-features-for-writers/"><u>Content Creation Revolutionized by ChatGPT - Explore the 9 Most Impactful Features for Writers</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-lava-agni-2-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Lava Agni 2 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-f5-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco F5 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-likes-tips-for-successful-tiktok-unboxings/"><u>In 2024, Mastering Likes Tips for Successful TikTok Unboxings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-openais-grip-on-chatgpt-starting-to-slip-away/"><u>Is OpenAI's Grip on ChatGPT Starting to Slip Away?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-level-ai-solutions-10-unique-gpt-variants-surpassing-chatgpts-functionality/"><u>Next-Level AI Solutions: 10 Unique GPT Variants Surpassing ChatGPT's Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-usb-functionality-on-your-pc-with-windows-1011/"><u>Step-by-Step Guide: Restoring USB Functionality on Your PC with Windows 10/11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-ai-tasks-beginning-with-auto-gpt/"><u>Streamline AI Tasks: Beginning with Auto-GPT</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-liberating-laughter-through-limitations-funniest-facebook-detainment-tales/"><u>2024 Approved Liberating Laughter Through Limitations Funniest Facebook Detainment Tales</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-steelseries-arctis-headphones-mic-working-again-practical-solutions/"><u>Get Your SteelSeries Arctis Headphones Mic Working Again: Practical Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-vivo-y17s-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Vivo Y17s</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pc-4/"><u>PC 系統音再生手順トップ4: 効果的な記録方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pcgrubl/"><u>PC版GRUBL画面のクリアな録画テクニック</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-solutions-for-accessing-and-extracting-contents-from-a-iso-file/"><u>Simple Solutions for Accessing and Extracting Contents From a .ISO File</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-to-convert-images-into-videos-using-your-computer/"><u>Simple Steps to Convert Images Into Videos Using Your Computer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-xbox-gamepad-drivers-for-windows-7-8-and-10/"><u>Troubleshooting and Fixing Xbox Gamepad Drivers for Windows 7, 8 & 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-potential-essential-upgrades-and-supplemental-gear-for-drones-for-2024/"><u>Unleashing Potential Essential Upgrades & Supplemental Gear for Drones for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-kinemasters-secrets-to-smooth-transitions/"><u>Unlock Kinemaster's Secrets to Smooth Transitions</u></a></li>
 </ul></div>
 

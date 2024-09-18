@@ -1,7 +1,7 @@
 ---
 title: "Mastering Dev Workflows: Combining ChatGPT & VS Code Best Practices"
-date: 2024-09-11T21:39:46.740Z
-updated: 2024-09-13T03:21:13.369Z
+date: 2024-09-12T02:47:39.935Z
+updated: 2024-09-17T20:32:35.113Z
 tags:
   - chatgpt
   - open-ai
@@ -24,35 +24,9 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. What's the Best Place to Start?
 
 ![ChatGPT Plus best way to learn a language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-best-way-to-learn-a-language-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Naturally, we started by asking ChatGPT about the best place to start and how it can help. ChatGPT recommends that you set clear goals, learn vocabulary in context, listen to and mimic native speakers, and take notes. All of this is solid advice.
 
@@ -60,29 +34,9 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 
  It's important to keep in mind that you pick a language that's relatively easy to learn. English speakers find learning languages such as Mandarin, Russian, and Japanese hard. While ChatGPT can write in all languages, you're better off getting a tutor if you want to nail the pronunciation and overall fluency for the more complex languages.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Building Your Vocabulary
 
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
 
@@ -106,39 +60,19 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Personalized Tests
 
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
@@ -152,6 +86,13 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
@@ -159,6 +100,13 @@ Here's how you can create your own personalized tests:
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. How Does It Compare to Other Alternatives?
 
@@ -187,18 +135,20 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-exclusive-choice-of-cost-free-chat-apps-plus-desktop-viewing-for-2024/"><u>[New] Exclusive Choice of Cost-Free Chat Apps + Desktop Viewing for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-visuals-best-practices-for-impactful-ig-video-loops/"><u>[New] In 2024, Elevate Visuals Best Practices for Impactful IG Video Loops</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-increase-conversions-with-these-top-marketing-phrases/"><u>[New] Increase Conversions with These Top Marketing Phrases</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-mastering-gopro-selection-a-comparative-review-for-2024/"><u>[Updated] Mastering Gopro Selection A Comparative Review for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-evaluating-whether-claude-is-the-superior-alternative-to-chatgpt/"><u>Chatbot Face-Off: Evaluating Whether Claude Is the Superior Alternative to ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-at-your-fingertips-android-app-now/"><u>ChatGPT at Your Fingertips - Android App Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-driver-compatible-with-windows-7/"><u>Download AMD Radeon Driver: Compatible with Windows 7</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-striking-the-right-chord-in-your-podcast-summary/"><u>In 2024, Striking the Right Chord in Your Podcast Summary</u></a></li>
-<li><a href="https://win-dash.techidaily.com/overcome-crashing-woes-starting-division-2-smoothly-with-new-strategies-2024-insights/"><u>Overcome Crashing Woes: Starting Division 2 Smoothly with New Strategies (2024 Insights)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pythonic-approaches-for-gpt-3-engagement/"><u>Pythonic Approaches for GPT-3 Engagement</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reliable-health-insights-how-to-validate-info-with-chatgpt-and-artificial-intelligence/"><u>Reliable Health Insights: How to Validate Info with ChatGPT & Artific#ial Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-art-of-conversing-with-chatgpt/"><u>The Art of Conversing with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-openais-custom-gpt-store-a-step-by-step-access-and-use-manual/"><u>Unlocking the Power of OpenAI's Custom GPT Store: A Step-by-Step Access and Use Manual</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-navigating-the-transition-from-tiktok-to-twitter-sharing-for-2024/"><u>[New] Navigating the Transition From TikTok to Twitter Sharing for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-leading-online-repositories-for-text-effect-graphics/"><u>[Updated] Leading Online Repositories for Text Effect Graphics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-gear-tips-gopro-edition/"><u>2024 Approved Professional Gear Tips GoPro Edition</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/dzsave/"><u>Epubor DzSave</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17-pro-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo S17 Pro Phone Without Password?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-guide-accelerate-your-pcs-startup-on-windows-11-with-simple-fixes/"><u>Quick Guide: Accelerate Your PC's Startup on Windows 11 with Simple Fixes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/seamless-video-transfer-from-youtube-to-instagram-for-2024/"><u>Seamless Video Transfer From YouTube to Instagram for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-for-a-seamless-vhs-to-dvd-transfer-using-premium-conversion-tools/"><u>Step-by-Step Instructions for a Seamless VHS to DVD Transfer Using Premium Conversion Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-snipping-and-editing-footage-using-vlc-software/"><u>Step-by-Step Tutorial: Snipping and Editing Footage Using VLC Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-watching-usb-files-via-vu-smarttv-system/"><u>Step-by-Step Tutorial: Watching USB Files via VU SmartTV System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-top-7-alternatives-to-sharex-for-cross-platform-compatibility/"><u>The Ultimate List of Top 7 Alternatives to ShareX for Cross-Platform Compatibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-easy-split-screen-video-editing-tools-for-quick-and-effortless-split-screen-creation/"><u>Top 5 Easy Split Screen Video Editing Tools for Quick and Effortless Split-Screen Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-picks-the-ultimate-apps-for-downloading-and-sharing-your-festive-holiday-videography/"><u>Top Picks: The Ultimate Apps for Downloading and Sharing Your Festive Holiday Videography</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nubia-red-magic-8s-proplus-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nubia Red Magic 8S Pro+ Device</u></a></li>
 </ul></div>
 

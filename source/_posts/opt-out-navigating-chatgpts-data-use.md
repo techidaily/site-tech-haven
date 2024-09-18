@@ -1,7 +1,7 @@
 ---
 title: "Opt-Out: Navigating ChatGPT's Data Use"
-date: 2024-09-09T08:47:42.544Z
-updated: 2024-09-13T07:12:24.924Z
+date: 2024-09-17T06:08:03.167Z
+updated: 2024-09-18T00:51:06.073Z
 tags:
   - chatgpt
   - open-ai
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/a8a2eae7840110809ce01981ae6ddd7381e7680b0
 
 ![ChatGPT Prompt perfect plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-perfect-plugin-in-action.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Link Reader
 
  Another useful ChatGPT plugin is the aptly named Link Reader plugin. Although its primary function is reading the content of the links you provide, when paired with other ChatGPT plugins, there's a lot you can do with it. From summarizing the content of web pages to fact-checking news, the possibilities are endless.
@@ -48,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/a8a2eae7840110809ce01981ae6ddd7381e7680b0
  In the example below, we paired the Link Reader plugin with ChatGPT's inbuilt browsing feature to fact-check a news article.
 
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. InstaCart
 
@@ -66,19 +52,6 @@ thumbnail: https://thmb.techidaily.com/a8a2eae7840110809ce01981ae6ddd7381e7680b0
 
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
@@ -86,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/a8a2eae7840110809ce01981ae6ddd7381e7680b0
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Wolfram
 
@@ -108,19 +74,6 @@ thumbnail: https://thmb.techidaily.com/a8a2eae7840110809ce01981ae6ddd7381e7680b0
 
 ![fact-checking with ChatGPT and Wolfram Alpha](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fact-checking-with-chatgpt-and-wolfram-alpha.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wolfram was able to run the generated information against its database to check for accuracy.
 
 ## 5\. ChatWithPDF
@@ -135,13 +88,6 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
 
 ![GPT-4 visual input abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/gpt-4-visual-input-abilities.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Turns out another important use case is making sense of technical documents like this.
 
 ## 6\. Video Insights
@@ -154,13 +100,6 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 
 ![VideoInsights Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/videoinsights-plugin-in-action.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Yes, it was a spot-on description of the video if you're wondering.
 
 ## 7\. SceneXplain
@@ -171,9 +110,23 @@ Yes, it was a spot-on description of the video if you're wondering.
 
 ![SceneXplain plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scenexplain-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To use the plugin, use a prompt like:
 
 Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg> or list all the objects you see in this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. There's An AI For That
 
@@ -184,23 +137,17 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. What to Watch
@@ -210,10 +157,16 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
  If your prompting skills aren't particularly strong, you'll find it useful. However, if you know your way around ChatGPT prompts, you might be better off using your own ChatGPT prompts, in which case we recommend checking out our comprehensive[guide on using ChatGPT to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Embrace ChatGPT Plugins
@@ -235,20 +188,18 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-adding-captions-and-text-a-guide-for-photo-titles-in-microsoft-photos/"><u>[New] Adding Captions and Text A Guide for Photo Titles in Microsoft Photos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-exclusive-list-of-8-leading-android-group-calling-apps-for-2024/"><u>[New] Exclusive List of 8 Leading Android Group Calling Apps for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-surge-strategy-using-youtube-outros-for-rapid-expansion/"><u>[New] In 2024, Channel Surge Strategy Using YouTube Outros for Rapid Expansion</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-cutting-edge-techniques-for-channel-management-on-yt-hub-for-2024/"><u>[Updated] Cutting-Edge Techniques for Channel Management on YT Hub for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bored-tunneling/"><u>Bored Tunneling</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-time-lapses-with-final-cut-pro-a-beginners-guide/"><u>Create Stunning Time Lapses with Final Cut Pro A Beginners Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/days-gone-multiplayer-release-pc-version-now-available/"><u>Days Gone Multiplayer Release - PC Version Now Available</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/explore-new-releases-and-updates-from-macxdvd-discover-insights-in-dvd-authoring-innovations/"><u>Explore New Releases & Updates From MacXDVD: Discover Insights in DVD Authoring Innovations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-role-of-chatbot-intelligence-in-shaping-future-content-strategies/"><u>Exploring the Role of Chatbot Intelligence in Shaping Future Content Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-innovation-for-simplifying-hr-workflows/"><u>GPT Innovation for Simplifying HR Workflows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-tecno-spark-20c-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Tecno Spark 20C Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/installing-and-integrating-codegpt-with-your-vscode-workspace-a-comprehensive-tutorial/"><u>Installing & Integrating CodeGPT with Your VSCode Workspace – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-essence-of-chatgpt-forging-ai-driven-innovation-pathways/"><u>The Essence of ChatGPT: Forging AI-Driven Innovation Pathways</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/trust-issues-chatgpts-shortcom-written-by-assistant/"><u>Trust Issues: ChatGPT's Shortcom Written by Assistant</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/your-pathway-to-a-successful-llama-2-installation-on-your-device/"><u>Your Pathway to a Successful Llama 2 Installation on Your Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-no-cost-audio-treasure-trove-for-video-endings/"><u>[Updated] No-Cost Audio Treasure Trove for Video Endings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-easy-conversion-steps-transforming-your-m4a-files-into-mp3-using-windows-media-player/"><u>1. Easy Conversion Steps: Transforming Your M4A Files Into MP3 Using Windows Media Player</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-simple-techniques-to-stream-iso-files-on-your-android-device/"><u>1. Simple Techniques to Stream ISO Files on Your Android Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-spirits-a-list-of-10-motivating-films/"><u>Elevate Spirits A List of 10 Motivating Films</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-repairing-problems-when-tiktok-isnt-working-properly/"><u>Expert Advice on Repairing Problems When TikTok Isn’t Working Properly.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028099213-line/"><u>LINEでのビデオ送信 - 映像品質・容量に影響なし</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/live-video-logging-on-mac-free/"><u>Live Video Logging on Mac, Free</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-from-beginner-to-pro-the-best-vlog-video-editing-software-for-every-level/"><u>New In 2024, From Beginner to Pro The Best Vlog Video Editing Software for Every Level</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028539544-premiere-pro/"><u>Premiere Proにおける音声のみ再生時のビデオ表示不良への解決策</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-8-innovative-glasses-for-entering-metaverse-worlds/"><u>Top 8 Innovative Glasses for Entering Metaverse Worlds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028521147-youtube/"><u>YouTubeからパフォーマンスに影響のない音楽の安全なダウンロード手段</u></a></li>
 </ul></div>
 

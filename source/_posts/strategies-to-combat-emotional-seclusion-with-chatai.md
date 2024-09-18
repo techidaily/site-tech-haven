@@ -1,7 +1,7 @@
 ---
 title: Strategies to Combat Emotional Seclusion with ChatAI
-date: 2024-09-07T20:30:24.468Z
-updated: 2024-09-12T17:08:19.662Z
+date: 2024-09-12T18:50:06.247Z
+updated: 2024-09-17T19:34:40.843Z
 tags:
   - chatgpt
   - open-ai
@@ -29,19 +29,6 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
 * [How to Filter and Favorite AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-filter-and-favorite-aiprm-prompts)
 * [How to Create AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-create-aiprm-prompts)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Crafting effective prompts for ChatGPT is crucial for quality responses. AIPRM offers a vast library of expert prompts.
@@ -64,20 +51,14 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
 
 ![AIPRM for ChatGPT plans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-pricing-plan.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Install the AIPRM for ChatGPT Chrome Extension
 
@@ -89,19 +70,6 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
 4. This should automatically direct you to your ChatGPT homepage, where you will see a terms & conditions popup for the AIPRM extension. Tick the checkbox to agree and click**Confirm.**  
 ![AIPRM terms and conditions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-terms-conditions-chatgpt.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You should now see the AIPRM dashboard on your ChatGPT page.
 
 ## How to Use the AIPRM for ChatGPT Chrome Extension
@@ -111,10 +79,10 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can see, there are several tabs in the AIPRM dashboard, including:
@@ -128,13 +96,6 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
 ![The AIPRM for ChatGPT dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-chatgpt-dashboard.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can start using AIPRM prompts by clicking the**Public** tab and scrolling through the list of available prompts. For instance, you can select the**Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
 
 ## How to Filter and Favorite AIPRM Prompts
@@ -146,19 +107,6 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
 
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Create AIPRM Prompts
 
@@ -173,10 +121,10 @@ To create a custom AIPRM prompt:
 ![AIPRM screenshot showing how to create a template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/create-aiprm-prompt-template.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For instance, "Write a Facebook post with emojis and a call to action about**\[PROMPT\]** ." Make sure to add the prompt variable**\[PROMPT\]** in your template, as it will be replaced by what you type whenever you use this prompt. In this example, the prompt variable**\[PROMPT\]** will be the topic for the Facebook post. You can also provide one or more examples of what you want the output to look like.
@@ -188,6 +136,13 @@ To create a custom AIPRM prompt:
  Lastly, select the**Topic** ,**Activity** ,**Who can see this?** and**Made for** (the ChatGPT model). Write your**Author Name** and**Author URL** . Click**Save Prompt** to finalize the creation of your prompt.
 
 ![AIPRM for ChatGPT prompt template creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-prompt-template-creation.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once your prompt is saved, you can find it under the**Own** tab.
 
@@ -210,16 +165,15 @@ To create a custom AIPRM prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-attracting-watchers-discover-the-top-6-video-types/"><u>[New] Attracting Watchers Discover the Top 6 Video Types</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unlock-the-power-of-fb-conversation-capture-tools/"><u>[New] Unlock the Power of FB Conversation Capture Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-how-to-make-a-youtube-subscribe-link-easy/"><u>2024 Approved How to Make a YouTube Subscribe Link - Easy!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722192450282-chatgpt-bodystream-error-here-are-seven-ways-to-fix-it/"><u>ChatGPT Bodystream Error? Here Are Seven Ways to Fix It!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-analyzing-the-potential-threats-to-user-privacy/"><u>ChatGPT: Analyzing the Potential Threats to User Privacy</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-refund-a-game-on-steam-and-get-your-money-back/"><u>How to Refund a Game on Steam and Get Your Money Back</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-begin-with-no-cost-video-intro-tools/"><u>In 2024, Begin with No-Cost Video Intro Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-culinary-skills-with-these-7-handy-chatgpt-tricks-for-home-chefs/"><u>Revolutionize Your Culinary Skills with These 7 Handy ChatGPT Tricks for Home Chefs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/safety-of-third-party-integrations-for-ai-model-chatgpt-what-you-need-to-know/"><u>Safety of Third-Party Integrations for AI Model ChatGPT: What You Need To Know</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-deathloop-performance-stutters-on-windows-pc/"><u>Solving Deathloop Performance Stutters on Windows PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-selection-5-outstanding-virtual-workshops-for-becoming-an-expert-in-ai-query-creation/"><u>The Ultimate Selection: 5 Outstanding Virtual Workshops for Becoming an Expert in AI Query Creation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premier-racing-experience-series-top-5/"><u>[New] 2024 Approved Premier Racing Experience Series (Top 5)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-replay-xiaomi-11s-best-moments-with-crystal-clarity/"><u>[New] Replay Xiaomi 11'S Best Moments with Crystal Clarity</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-video-posts-on-tiktok-your-guide-for-mac-and-pc-users-for-2024/"><u>[Updated] Mastering Video Posts on TikTok Your Guide for MAC & PC Users for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-spark-20c-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Spark 20C to iPhone | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-90-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor 90 FRP Locks</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unleash-your-inner-edgy-with-easy-tiktok-updates/"><u>In 2024, Unleash Your Inner Edgy with Easy TikTok Updates</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-free-holiday-contests-and-prizes-exclusive-2020-christmas-gift-wins/"><u>Top Free Holiday Contests & Prizes: Exclusive 2020 Christmas Gift Wins!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-issues-with-your-non-responsive-laptop-trackpad/"><u>Troubleshooting Guide: Fixing Issues with Your Non-Responsive Laptop Trackpad</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-how-to-transform-your-dvd-collection-into-premium-mpeg2-format-videos/"><u>Ultimate Guide: How To Transform Your DVD Collection Into Premium MPEG2 Format Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-picks-5-premier-youtube-video-splitters-and-cutters-available-online/"><u>Ultimate Picks: 5 Premier YouTube Video Splitters and Cutters Available Online</u></a></li>
 </ul></div>
 

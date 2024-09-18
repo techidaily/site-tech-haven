@@ -1,7 +1,7 @@
 ---
 title: Innovate with Unique ChatAI
-date: 2024-09-12T01:40:34.859Z
-updated: 2024-09-12T20:54:17.025Z
+date: 2024-09-12T01:56:20.308Z
+updated: 2024-09-18T04:43:27.480Z
 tags:
   - chatgpt
   - open-ai
@@ -24,19 +24,6 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will There Be a GPT-5?
 
 ![ChatGPT logo on dark green background ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
@@ -51,23 +38,9 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 
 Here's a video of Altman's discussion below:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
 
@@ -83,23 +56,9 @@ So, a 2024 release date for GPT-5? Is that possible?
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4.
 
@@ -108,16 +67,10 @@ So, a 2024 release date for GPT-5? Is that possible?
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
@@ -141,13 +94,21 @@ So, a 2024 release date for GPT-5? Is that possible?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-boost-your-brand-accrue-1k-ig-friendsmonthly-for-2024/"><u>[New] Boost Your Brand Accrue 1K IG Friends/Monthly for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-ingenious-tactics-to-elevate-customer-feedback-visual-content/"><u>2024 Approved Ingenious Tactics to Elevate Customer Feedback Visual Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-top-large-language-model-llm-bard-chatgpt-or-offline-alpaca-a-comparative-review/"><u>Choosing the Top Large Language Model (LLM): Bard, ChatGPT, or Offline Alpaca - A Comparative Review</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-m34-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy M34 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/interactive-adventures-await-utilizing-chabt-to-create-unique-text-based-roleplaying-games/"><u>Interactive Adventures Await: Utilizing ChabT to Create Unique Text-Based Roleplaying Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-your-site-construction-with-these-4-chatgpt-powered-solutions/"><u>Streamline Your Site Construction with These 4 ChatGPT-Powered Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-lameencdll-issues-in-audacitys-mp3-encoding/"><u>Troubleshooting lame_enc.dll Issues in Audacity's MP3 Encoding</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-reaction-video-maker-top-picks-for-iphone-and-android/"><u>Updated In 2024, Reaction Video Maker Top Picks for iPhone and Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-elite-fighters-unleashed-selecting-superior-street-fighter-clones/"><u>[New] Elite Fighters Unleashed Selecting Superior Street Fighter Clones</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-asmr-app-selection-guide-for-phones/"><u>[Updated] 2024 Approved ASMR App Selection Guide for Phones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-prime-focus-systems-ultimate-4k-dslr-rig-guide/"><u>[Updated] In 2024, Prime Focus Systems Ultimate 4K DSLR Rig Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-share-and-celebrate-with-instagram-videos/"><u>2024 Approved Share & Celebrate with Instagram Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adobe-premiere-pro-and-elements/"><u>静止画から動画への変換: Adobe Premiere Pro & Elementsで効果的な作り方</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726030186802-meta/"><u>音楽･動画のMETAデータ収集･検証･改良ツールガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/aac/"><u>AAC音声ファイルの高品質維持中編集技術</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/audio-free-video-capture-tips-for-your-computer-or-mobile-device/"><u>Audio-Free Video Capture Tips for Your Computer or Mobile Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-13-substitutes-for-kisscartoon-discover-where-to-watch-your-beloved-animations/"><u>Best 13 Substitutes for KissCartoon: Discover Where to Watch Your Beloved Animations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-free-tools-choosing-the-ideal-online-video-compression-software/"><u>Best Free Tools: Choosing the Ideal Online Video Compression Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-gopro-editing-tools-top-10-picks-for-windows-and-macos-users/"><u>Best GoPro Editing Tools: Top 10 Picks for Windows & macOS Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-video-resizing-tools-of-2023-ultimate-guide-to-adjusting-video-quality-on-your-computer-and-web/"><u>Best Video Resizing Tools of 2023: Ultimate Guide to Adjusting Video Quality on Your Computer & Web</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/compatible-formatting-options/"><u>Compatible Formatting Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-which-is-superior-bing-chat-or-gpt-3-for-freelancers/"><u>Expert Advice: Which Is Superior, Bing Chat or GPT-3 for Freelancers?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-htc-u23-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your HTC U23 Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/max-drives-alerts-on-win11-how-to-solve/"><u>Max Drives Alerts on Win11 - How to Solve</u></a></li>
 </ul></div>
 

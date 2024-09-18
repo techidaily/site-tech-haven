@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Generating AI-Powered Graphics with ChatGPT
-date: 2024-09-07T01:36:32.188Z
-updated: 2024-09-13T01:02:59.474Z
+date: 2024-09-11T02:14:36.346Z
+updated: 2024-09-18T05:32:55.599Z
 tags:
   - chatgpt
   - open-ai
@@ -20,25 +20,11 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Access the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-access-the-gpt-store)
 * [How to Find the Best Custom GPTs in the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-find-the-best-custom-gpts-in-the-gpt-store)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#is-it-worth-upgrading-to-chatgpt-plus-to-use-custom-gpts)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -49,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
  OpenAI has finally unveiled its highly anticipated GPT Store, offering users a selection of ChatGPT community-created custom GPTs featuring specialized chatbots ranging from writing and design to programming and productivity. The launch marks OpenAI's latest move to capitalize on the runaway popularity of its AI creation ChatGPT, which took the world by storm after its launch in November 2022.
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Access the GPT Store
 
@@ -68,10 +47,10 @@ How do you know when you've been granted access?
  On the left sidebar of the ChatGPT interface, you should see**Explore GPTs** instead of simply**Explore** . Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Find the Best Custom GPTs in the GPT Store
@@ -83,33 +62,20 @@ How do you know when you've been granted access?
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click**Keep in sidebar** . This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
@@ -134,17 +100,17 @@ How do you know when you've been granted access?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-guide-to-instagram-video-backup-with-computer-or-laptop/"><u>[Updated] Guide to Instagram Video Backup with Computer or Laptop</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-advanced-tips-for-minecraft-gaming-streams/"><u>2024 Approved Advanced Tips for Minecraft Gaming Streams</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creating-personalized-chatbot-solutions-using-your-dataset-a-step-by-step-guide/"><u>Creating Personalized Chatbot Solutions Using Your Dataset: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cutting-edge-tutorial-inshot-on-desktop-video-creation/"><u>Cutting-Edge Tutorial Inshot on Desktop Video Creation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-mobile-browsing-with-bings-smart-ai-driven-search-compatible-with-android-and-iphone/"><u>Enhance Mobile Browsing with Bing’s Smart, AI-Driven Search - Compatible With Android & iPhone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-question-of-user-data-security-in-chatgpt-interactions/"><u>Exploring the Question of User Data Security in ChatGPT Interactions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-12-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 12</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-users-guide-to-avoiding-unwanted-sms-communications/"><u>IPhone Users' Guide to Avoiding Unwanted SMS Communications</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reliability-and-convenience-in-one-unit-kensn-portable-air-pump-assessment/"><u>Reliability and Convenience in One Unit: Kensn Portable Air Pump Assessment</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-installing-the-hp-laserjet-pro-m4e-printer-driver-in-windows/"><u>Step-by-Step Guide: Installing the HP LaserJet Pro M4e Printer Driver in Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-review-why-the-dji-air-2s-stands-above-all-drones/"><u>Top Review: Why the DJI Air ^2S Stands Above All Drones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-code-companion-reigns-supreme-github-copilot-or-chaturbate-the-ultimate-developer-guide/"><u>Which Code Companion Reigns Supreme? GitHub Copilot or Chaturbate – The Ultimate Developer Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhance-your-reel-with-rhythms-instagrams-music-guide-for-2024/"><u>[New] Enhance Your Reel with Rhythms Instagram's Music Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-pros-pathway-to-professional-video-conferencing-with-slack-and-filmora-for-2024/"><u>[New] The Pro's Pathway to Professional Video Conferencing with Slack & Filmora for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-s17e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo S17e Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-data-management-top-4-ai-export-apps/"><u>Revolutionize Your Data Management - Top 4 AI Export Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-battle-of-silicon-titans-intel-i7-258v-versus-amd-phoenix-processor-dominates-new-bapco-benchmarks/"><u>The Battle of Silicon Titans: Intel I7-258V Versus AMD 'Phoenix' Processor Dominates New BAPCO Benchmarks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-steps-to-repair-loom-on-pc-and-in-google-chrome-browser/"><u>Troubleshooting Steps to Repair Loom on PC and in Google Chrome Browser</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tunein/"><u>TuneInでお聴きたいラジオ番組をストリーミングしてダウンロード可能か？</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-most-effective-mts-video-converter-of-202nce-compatible-with-win10-and-win11/"><u>Ultimate Guide to the Most Effective MTS Video Converter of 202Nce | Compatible with Win10 and Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-top-5-streaming-services-for-various-viewing-experiences/"><u>Ultimate Guide to Top 5 Streaming Services for Various Viewing Experiences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultra-quick-vid-saver-seamlessly-score-clips-from-hundreds-of-web-portals-at-once/"><u>Ultra-Quick Vid Saver: Seamlessly Score Clips From Hundreds of Web Portals at Once</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-pathway-for-iphone-speech-capture-and-documentation-for-2024/"><u>Updated The Ultimate Pathway for iPhone Speech Capture and Documentation for 2024</u></a></li>
 </ul></div>
 

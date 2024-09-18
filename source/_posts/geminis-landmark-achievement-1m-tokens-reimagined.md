@@ -1,7 +1,7 @@
 ---
 title: "Gemini's Landmark Achievement: $1M Tokens Reimagined"
-date: 2024-09-12T07:04:52.017Z
-updated: 2024-09-12T20:46:45.612Z
+date: 2024-09-12T22:59:43.179Z
+updated: 2024-09-18T03:28:14.875Z
 tags:
   - chatgpt
   - open-ai
@@ -20,19 +20,6 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -72,21 +59,27 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/urging-views-selecting-best-hashtags-for-yt/"><u>[New] Surging Views Selecting Best Hashtags for YT</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-easy-guide-to-enhancing-images-via-iphone-cropping/"><u>[New] The Easy Guide to Enhancing Images via iPhone Cropping</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-cam-cover-selection-made-simple-with-our-10-picks/"><u>[Updated] 2024 Approved Cam Cover Selection Made Simple with Our 10 Picks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pairing-powerhouses-easy-steps-to-join-obs-zoom/"><u>[Updated] 2024 Approved Pairing Powerhouses Easy Steps to Join OBS, Zoom</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-elevate-snapchat-snaps-with-customizable-user-voices/"><u>[Updated] Elevate Snapchat Snaps with Customizable User Voices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-effortless-guide-to-going-live-on-instagram/"><u>[Updated] In 2024, Effortless Guide to Going Live on Instagram</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-basics-unearthing-valuable-ignored-capabilities-of-chatgpt-for-professionals/"><u>Beyond Basics: Unearthing Valuable, Ignored Capabilities of ChatGPT for Professionals</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-crypto-investment-understanding-the-5-key-constraints-you-should-know-about/"><u>ChatGPT and Crypto Investment: Understanding the 5 Key Constraints You Should Know About</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-literary-sidekick-9-innovative-ways-to-compose-engaging-novels/"><u>ChatGPT as Your Literary Sidekick: 9 Innovative Ways to Compose Engaging Novels</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-enhancement-instilling-your-unique-literary-voice/"><u>ChatGPT Enhancement: Instilling Your Unique Literary Voice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-insights-four-pathways-to-better-time-management/"><u>ChatGPT Insights: Four Pathways to Better Time Management</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-lightning-fast-internet-with-the-netgear-nighthawk-ac3200-a-complete-review-for-families-seeking-speed-and-safety/"><u>Experience Lightning-Fast Internet with the Netgear Nighthawk AC3200 - A Complete Review for Families Seeking Speed and Safety</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-gpt-3-into-your-python-projects-a-comprehensive-guide/"><u>Integrating GPT-3 Into Your Python Projects: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-rectify-error-during-win-oculus-application-setup/"><u>Steps to Rectify Error During Win-Oculus Application Setup</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-key-contrast-in-ai-technology-exploring-strong-ai-versus-weak-ai/"><u>The Key Contrast in AI Technology: Exploring Strong AI Versus Weak AI</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-2023s-leading-pc-vr-headsets-revealed/"><u>[Updated] In 2024, 2023'S Leading PC VR Headsets Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-dive-into-the-world-of-superior-no-cost-webm-viewers/"><u>[Updated] In 2024, Dive Into the World of Superior No-Cost WebM Viewers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-tech-the-most-reliable-webcams-for-podcasters/"><u>2024 Approved Advanced Tech The Most Reliable Webcams for Podcasters</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/andpcwindows-11-4/"><u>最新スマートフォン&PCで、Windows 11機能を活用したビデオ撮影ガイド - ベストメソッド4選</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/affordable-video-splittermerger-simplify-your-videography-with-free-tools/"><u>Affordable Video Splitter/Merger - Simplify Your Videography with Free Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/color-your-world-with-the-singing-machine-sml385btbk-a-hassle-free-plug-and-play-karaoke-adventure/"><u>Color Your World with the Singing Machine SML385BTBK - A Hassle-Free Plug and Play Karaoke Adventure!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-guide-to-video-rotation-mastering-the-technique-with-vlc/"><u>Complete Guide to Video Rotation: Mastering the Technique with VLC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-kodi-tutorial-mastering-all-features-and-functions-lesson-2/"><u>Comprehensive Kodi Tutorial: Mastering All Features & Functions - Lesson 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dvd-macmacbook-proairimac/"><u>DVDビデオ再生・視聴ガイド - Mac/MacBook Pro/AirおよびiMac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-the-power-of-pixels-expert-advice-on-youtube-thumbnail-sizing/"><u>In 2024, Unlock the Power of Pixels Expert Advice on YouTube Thumbnail Sizing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/superior-gopro-film-production-options/"><u>Superior GoPro Film Production Options</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unveiling-the-mystery-writing-hooks-for-vlogger-scripts-for-2024/"><u>Unveiling the Mystery Writing Hooks for Vlogger Scripts for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-rtx-ablishing-a-safe-environment-in-which-individuals-can-express-their-emotions-and-offering-coping-strategies-to-manage-intense-feelings-const281/"><u>Update Your RTX Ablishing a Safe Environment in Which Individuals Can Express Their Emotions, and Offering Coping Strategies to Manage Intense Feelings Constructively without Resorting to Self-Harm.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avi12windowsmac/"><u>オススメの最高の無料AVI再生ソフトウェア12本、WindowsとMac用</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

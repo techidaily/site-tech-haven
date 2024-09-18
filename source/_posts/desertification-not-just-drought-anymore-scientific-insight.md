@@ -1,7 +1,7 @@
 ---
 title: "Desertification Not Just Drought Anymore: Scientific Insight"
-date: 2024-09-08T07:59:08.612Z
-updated: 2024-09-13T01:34:33.349Z
+date: 2024-09-16T23:30:47.351Z
+updated: 2024-09-17T23:47:46.836Z
 tags:
   - chatgpt
   - open-ai
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 * [Trip Planner AI](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#trip-planner-ai)
 * [Vacay Chatbot](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#vacay-chatbot)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Layla, Wonderplan, and PLAN by ixigo are AI travel planning apps with customizable itineraries.
@@ -46,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
  You can tell a travel agent your preferred dates, the place you want to visit, and your budget, and expect a full itinerary of what to do there based on your preferences. But can AI do the same job?
 
  These free travel planning apps use AI and machine-learning tools like ChatGPT to prepare an itinerary for you in a few seconds, and we took them for a spin.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1.[Layla](https://justasklayla.com/)
 
@@ -70,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 
 ![wonderplan website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/wonderplan-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wonderplan is a wonderful AI tool for planning your trip. To create your itinerary, Wonderplan first asks you to enter your destination country and city, your budget, the number of days you'll be staying, and your interests.
 
  It then creates a travel plan within a few minutes, displaying various places to visit, their descriptions, and the time usually spent at each location. Although Wonderplan doesn't show the trip map, it does provide a link to Google Maps for each place.
@@ -77,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
  It also displays different types of accommodation available (like Airbnb, hotel, or hostel) and their respective costs. Similarly, there are details about transportation, food, and activities. This way, you can estimate the potential cost of your trip.
 
  In addition to your itinerary, Wonderplan also shows essential information about the country you're visiting. These include the currency conversion rate, electricity plug type, languages spoken, weather, and popular conveyances.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3.[PLAN by ixigo](https://www.ixigo.com/plan)
 
@@ -112,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 **Download:** iplan.ai for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2021804/https://play.google.com/store/apps/details?id=ai.iplan.app) |[iOS](https://apps.apple.com/app/iplan-ai-travel-planner/id1611716564) (Free, Paid)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5.[Curiosio](https://curiosio.com/)
@@ -130,22 +116,15 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 
  The itinerary includes a map of your route and a day-wise breakdown of where you'll be going and what you'll be seeing. Each point of interest is clickable to find more information about it. There are easy ways to share your itinerary with co-travelers, print it out, or even export it to Google Maps. Curiosio is one of the[best road trip planners for your next adventure](https://www.makeuseof.com/tag/road-trip-planners/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6.[Trip Planner AI](https://tripplanner.ai/)
 
 ![trip planner ai screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/trip-planner-ai-screenshot.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Trip Planner AI plans a perfect trip to your dream destination. Begin creating your itinerary by entering the city you wish to visit and traveling dates. You can add multiple destinations here.
@@ -157,10 +136,10 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
  Finally, Trip Planner AI generates a detailed itinerary, a map, and basic information about the city you're visiting. For each destination, it provides the details of the place, expected traveling time, and cost. Though it provides a complete plan for your trip, you can manually add or remove activities from your itinerary. You can also invite your friends to edit the itinerary and download it as a PDF.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7.[Vacay Chatbot](https://www.usevacay.com/chatbot)
@@ -192,21 +171,17 @@ thumbnail: https://thmb.techidaily.com/36933db6d941c003b496fa9d41f25952922b64b71
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-creating-a-seamless-visual-experience-in-meetings/"><u>[New] Creating a Seamless Visual Experience in Meetings</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/battle-of-the-brains-which-is-superior-chatgpt-or-bing-chat/"><u>Battle of the Brains: Which Is Superior, ChatGPT or Bing Chat?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/best-bargains-comparing-cloud-storage-prices-for-2024/"><u>Best Bargains Comparing Cloud Storage Prices for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-productivity-with-these-8-innovative-ai-powered-chrome-tools/"><u>Boost Your Productivity with These 8 Innovative AI-Powered Chrome Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-legal-woes-google-news-feed-revised-and-get-the-best-mobile-internet-on-vacation/"><u>ChatGPT Legal Woes, Google News Feed Revised, and Get the Best Mobile Internet on Vacation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-communication-with-bots-leveraging-chatgpts-api-explained/"><u>Effortless Communication with Bots: Leveraging ChatGPT's API Explained</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-zero-5g-2023-turbo-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Zero 5G 2023 Turbo to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y200e-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/integrating-voices-into-videos-effectively/"><u>Integrating Voices Into Videos Effectively</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/keywords-that-catapult-hashtag-hacks-in-gameplay-videos/"><u>Keywords that Catapult Hashtag Hacks in Gameplay Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-virtual-conferences-the-role-of-chatgpt-in-teams/"><u>Mastering Virtual Conferences: The Role of ChatGPT in Teams</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/microsoft-infuses-bing-with-advanced-ai/"><u>Microsoft Infuses Bing With Advanced AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-claude-2-comprehensive-guide-to-its-functions/"><u>Navigating the World of Claude 2: Comprehensive Guide to Its Functions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-paperclip-challenge-and-the-revolution-of-artificial-intelligence/"><u>The Paperclip Challenge and the Revolution of Artificial Intelligence</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleash-the-power-of-zoom-with-these-tips/"><u>Unleash the Power of Zoom with These Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-create-a-new-twitter-account-for-2024/"><u>[New] How to Create a New Twitter Account for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-the-lens-focus-techniques-for-storify-success-for-2024/"><u>[New] Mastering the Lens Focus Techniques for Storify Success for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-can-you-receive-a-monthly-check-from-youtube/"><u>[Updated] 2024 Approved Can You Receive a Monthly Check From YouTube?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44cm44kq44oz44op44kk44oz44ky44o844og44ks6yyy55s744gz44kl44gf44kb44gu6auy5ocn6io944oe44o844or44go5a6f6le15oml5rov44cn/"><u>「オンラインゲームを録画するための高性能ツールと実践手法」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024-top5/"><u>2024年の流行! ベストビデオ効果ツールTOP5を紹介します</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-best-tools-to-convert-videos-tofrom-asf-format-compare-and-choose/"><u>7 Best Tools to Convert Videos To/From ASF Format – Compare & Choose</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/back-up-and-rip-the-ultimate-johnny-depp-movie-the-lone-ranger-dvd-tutorial/"><u>Back Up & Rip the Ultimate Johnny Depp Movie - The Lone Ranger DVD Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/building-a-comprehensive-kodi-dvd-collection-how-to-play-and-convert-your-dvds-into-digital-format/"><u>Building a Comprehensive Kodi DVD Collection: How to Play & Convert Your DVDs Into Digital Format</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-elite-tech-enhancement-with-top-srt-tweaks/"><u>In 2024, Elite Tech Enhancement with Top SRT Tweaks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reveling-in-the-highs-of-nature-with-garmins-ultra-30/"><u>In 2024, Reveling in the Highs of Nature with Garmin's Ultra 30</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-meme-making-tools-discover-your-favorites-for-2024/"><u>Top Meme-Making Tools Discover Your Favorites for 2024</u></a></li>
 </ul></div>
 

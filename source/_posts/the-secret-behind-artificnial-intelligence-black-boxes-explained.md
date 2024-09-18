@@ -1,7 +1,7 @@
 ---
 title: The Secret Behind Artificnial Intelligence Black Boxes Explained
-date: 2024-09-06T17:48:45.639Z
-updated: 2024-09-12T18:05:46.177Z
+date: 2024-09-15T18:13:14.191Z
+updated: 2024-09-18T02:11:35.795Z
 tags:
   - chatgpt
   - open-ai
@@ -24,23 +24,9 @@ thumbnail: https://thmb.techidaily.com/a424e98c842dd6ab44b332abf2c95ae69e65b8caf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. What's the Best Place to Start?
 
 ![ChatGPT Plus best way to learn a language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-best-way-to-learn-a-language-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Naturally, we started by asking ChatGPT about the best place to start and how it can help. ChatGPT recommends that you set clear goals, learn vocabulary in context, listen to and mimic native speakers, and take notes. All of this is solid advice.
 
@@ -64,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/a424e98c842dd6ab44b332abf2c95ae69e65b8caf
 
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
 
  ChatGPT understood our prompt immediately and gave us a sentence in French. We then responded to that sentence, and the conversation kept going from there. Throughout this conversation, it critiqued our conversational skills and provided small suggestions.
@@ -78,21 +57,22 @@ thumbnail: https://thmb.techidaily.com/a424e98c842dd6ab44b332abf2c95ae69e65b8caf
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Learn Grammar and Syntax
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
@@ -113,13 +93,6 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
@@ -129,10 +102,10 @@ Here's how you can create your own personalized tests:
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. How Does It Compare to Other Alternatives?
@@ -142,13 +115,6 @@ Here's how you can create your own personalized tests:
  You also get detailed explanations, examples, and cultural insights about the language and the people who speak it. Language apps can do this to some extent, but ChatGPT Plus is more versatile and flexible.
 
  ChatGPT Plus may not provide you with the speaking or listening capabilities to help with pronunciation that other[language-learning apps](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) have, but it acts as your teacher that understands context and your progress. These two items help expedite your journey of learning a new language—something no other app can really do.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is the Perfect Partner for Learning a New Language
 
@@ -169,18 +135,18 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-a-guide-to-the-finest-apps-for-instagram-reel-creation-for-2024/"><u>[New] A Guide to the Finest Apps for Instagram Reel Creation for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-optimize-iphoneandroid-video-quality-in-online-platforms-for-2024/"><u>[New] Optimize iPhone/Android Video Quality in Online Platforms for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-lags-expert-fixes-for-a-smoother-naraka-gaming-experience/"><u>Beat the Lags: Expert Fixes for a Smoother Naraka Gaming Experience</u></a></li>
-<li><a href="https://driver-download.techidaily.com/corsair-h80i-v2-liquid-cpu-cooler-installation-drivers-download/"><u>Corsair H80i V2 Liquid CPU Cooler Installation Drivers - Download</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-the-possibilities-how-nvidia-is-revolutionizing-ai-with-customizable-foundations/"><u>Discovering the Possibilities: How NVIDIA Is Revolutionizing AI with Customizable Foundations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-ways-to-reduce-anxiety-with-the-help-of-chatgpt/"><u>Effective Ways to Reduce Anxiety with the Help of ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/embarking-on-an-exciting-path-a-guide-to-starting-as-a-prompt-engineer/"><u>Embarking on an Exciting Path: A Guide to Starting as a Prompt Engineer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ideal-enhancements-boosting-chatgpt-and-vs-code-synergy/"><u>Ideal Enhancements: Boosting ChatGPT & VS Code Synergy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovate-your-hobbies-from-board-gaming-to-digital-art-with-my-bots/"><u>Innovate Your Hobbies: From Board Gaming to Digital Art with My Bots</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-black-ops-cold-war-issue-how-to-overcome-the-critical-error-code-c0000005/"><u>Resolving Black Ops Cold War Issue: How to Overcome the Critical Error Code C0000005</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-artificial-intelligence-unveiling-the-mechanics-of-a-prompt-injection-attack/"><u>Understanding Artificial Intelligence: Unveiling the Mechanics of a Prompt Injection Attack</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-power-of-live-view-in-google-maps-step-by-step-tutorial/"><u>Unlock the Power of Live View in Google Maps – Step-by-Step Tutorial</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ecoding-youtubes-algorithm-behind-prominent-comments/"><u>[New] Decoding YouTube's Algorithm Behind Prominent Comments</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quintessential-quiet-gaming-on-the-go/"><u>[New] Quintessential Quiet Gaming on the Go</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-sensation-strategies-for-marketers-and-influencers/"><u>[Updated] Fb Sensation Strategies for Marketers and Influencers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unveiling-the-secrets-of-showmores-screen-capture-software/"><u>[Updated] Unveiling the Secrets of ShowMore’s Screen Capture Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-temporal-twist-mastering-video-flipping-in-snapchat/"><u>In 2024, Temporal Twist Mastering Video Flipping in Snapchat</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-methods-capturing-screenshots-and-recording-your-screen-on-windows-pc/"><u>Top 5 Methods: Capturing Screenshots & Recording Your Screen on Windows PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-methods-for-converting-aiff-audio-files-into-mp3-format-on-your-pc/"><u>Top Methods for Converting AIFF Audio Files Into MP3 Format on Your PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-ranking-complimentary-avi-to-mp4-video-transcoder-the-ultimate-free-factory/"><u>Top-Ranking Complimentary AVI to MP4 Video Transcoder: The Ultimate Free Factory</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-iphone-footage-on-windows-easy-editing-techniques-revealed/"><u>Transform Your iPhone Footage on Windows: Easy Editing Techniques Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-reducing-video-file-size-vob-compression-techniques/"><u>Ultimate Guide to Reducing Video File Size - VOB Compression Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-vbr-and-cbr-determining-your-ideal-approach-to-video-transcoding/"><u>Understanding VBR and CBR: Determining Your Ideal Approach to Video Transcoding</u></a></li>
 </ul></div>
 

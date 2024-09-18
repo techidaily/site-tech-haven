@@ -1,7 +1,7 @@
 ---
 title: "Understanding Artificeal Intelligence: An Insight Into Its Risks"
-date: 2024-09-07T21:39:31.719Z
-updated: 2024-09-12T16:15:25.677Z
+date: 2024-09-11T04:08:38.386Z
+updated: 2024-09-17T17:04:19.760Z
 tags:
   - chatgpt
   - open-ai
@@ -23,19 +23,6 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is the Turing Test Outdated?
 
@@ -63,23 +50,9 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
@@ -90,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
@@ -110,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
  For instance, if ChatGPT-4 is the interrogator, you could enroll Google Bard and another human as participants. If the AI model can correctly identify the human participant based on the answers, it has passed the test.
@@ -117,45 +91,19 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -178,16 +126,19 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-choosing-the-best-cameras-and-lenses-for-vloggers/"><u>[New] 2024 Approved Choosing the Best Cameras & Lenses for Vloggers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-gamers-tools-premium-gear-lists-on-youtube/"><u>[New] Top Gamers' Tools Premium Gear Lists on YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-syncing-your-live-obs-content-with-fb-network-for-2024/"><u>[Updated] Syncing Your Live OBS Content with FB Network for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-detailed-survey-gecatas-game-capture-utility/"><u>2024 Approved Detailed Survey Gecata's Game Capture Utility</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-selection-of-innovative-vr-cycling-games/"><u>2024 Approved Prime Selection of Innovative VR Cycling Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-11-techniques-for-perfecting-color-in-post-production/"><u>2024 Approved Top 11 Techniques for Perfecting Color in Post-Production</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoiding-errors-essential-gpt-chat-tips/"><u>Avoiding Errors: Essential GPT Chat Tips</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y17s-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y17s online without jailbreak</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/openai-vouches-for-continued-brilliance-of-gpt/"><u>OpenAI Vouches for Continued Brilliance of GPT</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-motorola-moto-g34-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Motorola Moto G34 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-profit-potential-in-crypto-markets-leverage-chatgpt-for-insightful-trade-ideas-5-ways/"><u>Unlock Profit Potential in Crypto Markets: Leverage ChatGPT for Insightful Trade Ideas (5 Ways)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-overcoming-the-hurdle-of-non-uploading-facebook-story-videos-for-2024/"><u>[New] Overcoming the Hurdle of Non-Uploading Facebook Story Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-your-music-masterpiece-awaits-step-by-step-to-youtube-playlist-perfection-webmobile/"><u>[Updated] 2024 Approved Your Music Masterpiece Awaits Step-by-Step to YouTube Playlist Perfection (Web/Mobile)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-most-effective-alternatives-to-microsoft-office-find-your-perfect-fit/"><u>2024'S Most Effective Alternatives to Microsoft Office – Find Your Perfect Fit</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-moto-g34-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Motorola Moto G34 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-guide-to-converting-your-dvds-into-mkv-format-on-windows-11-or-10/"><u>Simple Guide to Converting Your DVDs Into MKV Format on Windows 11 or 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/terminate-chatgpt-connection-now/"><u>Terminate ChatGPT Connection Now!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-perfect-blend-of-mobility-and-professionality/"><u>The Perfect Blend of Mobility & Professionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-free-myspace-video-converters-with-mp4-and-mp3-downloads/"><u>Top 4 Free MySpace Video Converters with MP4 & MP3 Downloads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-dvd-ripper-applications-of-2024-to-transform-dvr-videos-into-avi-on-windows-systems/"><u>Top 5 DVD Ripper Applications of 2024 to Transform DVR Videos Into AVI on Windows Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-online-platforms-for-free-downloads-of-popular-bollywood-tracks/"><u>Top 5 Online Platforms for Free Downloads of Popular Bollywood Tracks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-webm-video-converter-tool-effortlessly-switch-between-formats/"><u>Top Rated WebM Video Converter Tool - Effortlessly Switch Between Formats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-kodis-videots-playback-errors-and-transforming-ts-media-into-compatible-formats/"><u>Troubleshooting Kodi's Video_TS Playback Errors and Transforming TS Media Into Compatible Formats</u></a></li>
 </ul></div>
 

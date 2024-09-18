@@ -1,7 +1,7 @@
 ---
 title: Mastering CV Creation with ChatGPT
-date: 2024-09-08T21:38:13.319Z
-updated: 2024-09-13T01:19:48.214Z
+date: 2024-09-15T20:19:55.331Z
+updated: 2024-09-17T21:48:50.133Z
 tags:
   - chatgpt
   - open-ai
@@ -22,13 +22,6 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. How to Get Basic Recipes and Tips on ChatGPT
 
  For the most part, ChatGPT handles basic recipe and cooking questions well. Prompts like “what's a healthy recipe for salmon?” or “how do I make a salad that tastes good?” provide fine responses for starter recipes.
@@ -41,44 +34,17 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  Healthier cooking options are just a simple prompt away. If you're already a fan of the[best healthy eating apps](https://www.makeuseof.com/best-healthy-eating-apps/) , such as Mealime, then ChatGPT can offer similar recipes and advice. Because you can keep asking ChatGPT to refine its answers or omit any ingredients, however, it's a more interactive option than standard recipe collections.
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Refine Your Prompts for Personalized ChatGPT Recipe Selections
 
  More specific prompts like “design a healthy breakfast with adequate protein and vegetables” or “what's a healthy, vegetarian dinner with spices like turmeric and red pepper?” also provide appropriate recipes. Get as specific as you like with the prompts.
 
 ![ChatGPT healthy breakfast options part 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-breakfast-options-part-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don't feel like visiting the grocery store? Note the ingredients you already have on hand and the app can (usually) find an appropriate recipe.
 
 ![ChatGPT dinner ideas with what you have on hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dinner-ideas-with-what-you-have-on-hand.jpg)
 
  It can also streamline your grocery shopping process. Prompt it to "please provide a healthy grocery shopping list" or "create a shopping list for a week's worth of lunch salads with plenty of protein." This option is perfect for those days when you don't have the brainpower to think about cooking.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Get ChatGPT to Teach You Cooking Skills in a Variety of Ways
 
@@ -91,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  In other words, use your prompts to find recipes that suit your needs and interests. Tailor them to your family's nutritional needs, or try out different types of cuisine from around the world.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does ChatGPT Provide Useful Nutritional Information?
@@ -110,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  It also offers the caveat that nutritional science is still evolving and recommends consulting with a registered dietitian or healthcare professional for more personalized information. If you want some additional resources, then check out the[best websites to learn more about healthy eating](https://www.makeuseof.com/best-websites-learn-healthy-eating/) , including Nutritionfacts.org and Open Food Facts.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Boost Your Healthy Cooking Skills With ChatGPT
@@ -135,19 +101,12 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-extract-youtube-media-directly/"><u>[New] 2024 Approved How to Extract YouTube Media Directly</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-beginners-tutorial-adobe-capture-screen-sharing-techniques/"><u>2024 Approved Beginner's Tutorial Adobe Capture Screen Sharing Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatxt-powered-content-development-techniques/"><u>ChaTxt-Powered Content Development Techniques</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/elevate-your-sound-experience-raising-system-volume-settings-on-windows-10-devices/"><u>Elevate Your Sound Experience: Raising System Volume Settings on Windows 10 Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-ghost-runner-crash-issue-in-windows-11-troubleshooting-guide/"><u>Fixing the 'Ghost Runner' Crash Issue in Windows 11 - Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-can-you-utilize-chatgpt-to-automate-your-domestic-iot-gadgets/"><u>How Can You Utilize ChatGPT to Automate Your Domestic IoT Gadgets?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-a59-5g-by-drfone-android/"><u>How to Bypass FRP from Oppo A59 5G?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-11-pro-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 11 Pro With 7 Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-taking-stock-of-magix-project-management-app/"><u>In 2024, Taking Stock of MAGIX Project Management App</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/master-techniques-to-dodge-edgenuity-videos-swiftly-for-2024/"><u>Master Techniques to Dodge Edgenuity Videos Swiftly for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-the-install-a-step-by-step-guide-to-setting-up-auto-gpt/"><u>Master the Install: A Step-by-Step Guide to Setting up Auto-GPT</u></a></li>
-<li><a href="https://fox-that.techidaily.com/recognizing-the-top-9-signs-your-iphone-has-suffered-liquid-damage/"><u>Recognizing the Top 9 Signs Your iPhone Has Suffered Liquid Damage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-showdown-begins-is-llama-or-gpt-4-the-apex-of-artificial-intelligence/"><u>The Showdown Begins: Is Llama or GPT-4 the Apex of Artificial Intelligence?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-are-the-bounds-of-chatgpt-in-terms-of-message-length-and-content-volume/"><u>What Are the Bounds of ChatGPT in Terms of Message Length and Content Volume?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-discover-the-most-reliable-royalty-free-audio-libraries/"><u>[New] In 2024, Discover the Most Reliable Royalty-Free Audio Libraries</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-ensuring-effective-integration-with-apples-platform/"><u>[Updated] 2024 Approved Ensuring Effective Integration with Apple's Platform</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-effortlessly-mastering-tiktok-on-macs-and-pcs/"><u>[Updated] In 2024, Effortlessly Mastering TikTok on Macs & PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iuewoewnmoobquajiplusmghjrjg5hjgr3jgrpjg7pjgihjgrnjg57jg5vjgavjgyrjgytjgabli5xnllvjgyvjgonpn7pjgplmtojjgznmlrnms5ui/"><u>簡単な手順:パソコン、スマホにおいて動画から音を消す方法</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-edit-and-upload-mkv-movies-on-apple-devices-as-m4v-user-friendly-techniques/"><u>How to Edit and Upload MKV Movies on Apple Devices as M4V - User-Friendly Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-xumo-recording-a-guide-to-three-effective-techniques/"><u>Mastering XUMO Recording: A Guide to Three Effective Techniques</u></a></li>
 </ul></div>
 

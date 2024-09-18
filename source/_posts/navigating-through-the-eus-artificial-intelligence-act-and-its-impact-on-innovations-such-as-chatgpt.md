@@ -1,7 +1,7 @@
 ---
 title: Navigating Through the EU's Artificial Intelligence Act and Its Impact on Innovations Such as ChatGPT
-date: 2024-09-09T06:53:52.253Z
-updated: 2024-09-13T04:05:42.505Z
+date: 2024-09-11T19:56:49.570Z
+updated: 2024-09-18T03:54:19.352Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ChatGPT sign-ups are currently closed due to a surge in usage after OpenAI's recent Dev Day event, causing strain on their servers.
@@ -37,13 +30,6 @@ Want to sign up to ChatGPT? Well, you're too late.
 
  OpenAI CEO Sam Altman has officially revealed that sign-ups for the leading generative AI tool are closed—at least, they are for now. However, with no specific time frame set for when ChatGPT sign-ups will resume, it's anyone's guess as to how long potential new users will have to wait.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Are ChatGPT Sign-Ups Closed?
 
  ChatGPT has experienced an enormous surge in usage since OpenAI's ChatGPT Dev Day on November 6, 2023.
@@ -51,13 +37,6 @@ Want to sign up to ChatGPT? Well, you're too late.
  OpenAI used its Dev Day to reveal the latest round of updates to ChatGPT,[including GPT-4 Turbo](https://www.makeuseof.com/chatgpts-latest-update-explained/) , an upgraded LLM, and its[new custom GPTs option](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) . Both have proved instant hits with existing users, and with social media feeds chocked full of exciting ChatGPT content, more people than ever want a piece of the AI pie.
 
  The sudden uptick in users exploring the new tools and people jumping to use ChatGPT placed considerable strain on OpenAI's servers—leading the company to close its subscriptions until the situation is under control.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When Will ChatGPT Subscriptions Open Again?
 
@@ -70,16 +49,16 @@ Want to sign up to ChatGPT? Well, you're too late.
  If you want to be first in the queue when ChatGPT subscriptions resume, head to the[ChatGPT Sign-Up page](https://chat.openai.com/auth/login?ref=upstract.com) , enter your details and await an email.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is a Victim of Its Own Success
@@ -103,16 +82,17 @@ Still, it certainly won't be long until it changes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-how-to-pick-a-preferred-screen-recorder-app/"><u>[New] 2024 Approved How to Pick a Preferred Screen Recorder App</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2003-file-by-stellar-guide/"><u>4 Ways to extract data from corrupt Excel 2003 file</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-top-large-language-model-llm-bard-chatgpt-or-offline-alpaca-a-comparative-review/"><u>Choosing the Top Large Language Model (LLM): Bard, ChatGPT, or Offline Alpaca - A Comparative Review</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/interactive-adventures-await-utilizing-chabt-to-create-unique-text-based-roleplaying-games/"><u>Interactive Adventures Await: Utilizing ChabT to Create Unique Text-Based Roleplaying Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/investigating-response-caps-is-there-a-length-limit-for-chatgpt-answers/"><u>Investigating Response Caps: Is There a Length Limit for ChatGPT Answers?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimizing-conversations-with-chatgpts-wolfram-integration/"><u>Optimizing Conversations with ChatGPT's Wolfram Integration</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-roar-overcoming-no-audio-in-your-wow-adventures/"><u>Reviving the Roar! Overcoming No-Audio in Your WOW Adventures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/skip-the-wait-for-chatgpt-desktop-seamlessly-transition-to-this-reliable-and-free-open-source-alternative/"><u>Skip the WAIT for ChatGPT Desktop: Seamlessly Transition to This Reliable and Free Open Source Alternative!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-zoom-sound-tweaks-boosting-clarity-and-fidelity/"><u>[New] 2024 Approved Top Zoom Sound Tweaks Boosting Clarity and Fidelity</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-infinix-smart-8-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Infinix Smart 8? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-creative-catalyst-for-poetic-works/"><u>ChatGPT as Your Creative Catalyst for Poetic Works</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-lockout-here-are-four-common-reasons-and-how-to-regain-entry/"><u>ChatGPT Lockout? Here Are Four Common Reasons & How to Regain Entry</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-tecno-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Tecno Through Google Earth?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-uses-of-chatgpt-to-revolutionize-your-approach-to-asteroid-3d-printing/"><u>Innovative Uses of ChatGPT to Revolutionize Your Approach to Asteroid 3D Printing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-here-are-top-5-free-watermark-software-to-help-you-add-watermark-to-your-files-try-any-of-these-easy-to-use-software-to-add-watermark-to-v/"><u>New 2024 Approved Here Are Top 5 Free Watermark Software to Help You Add Watermark to Your Files. Try Any of These Easy to Use Software to Add Watermark to Video Files for Free</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713953297744-new-a-countdown-effect-is-widely-used-in-gaming-and-report-videos-so-how-to-create-your-own-countdown-video-this-article-will-tell-you-some-ideas-about-cont/"><u>New A Countdown Effect Is Widely Used in Gaming and Report Videos. So How to Create Your Own Countdown Video? This Article Will Tell You some Ideas About Contdown Video Editing for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/snap-your-way-up-quick-instagram-collage-ideas-for-2024/"><u>Snap Your Way Up Quick Instagram Collage Ideas for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-process-how-to-distribute-access-to-your-chatgpt-discussions/"><u>Step-by-Step Process: How to Distribute Access to Your ChatGPT Discussions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-techniques-for-thorough-iphone-data-wipe-complete-and-safe/"><u>Top 3 Techniques for Thorough iPhone Data Wipe: Complete & Safe</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-motorola-moto-g14-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola Moto G14 Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
 

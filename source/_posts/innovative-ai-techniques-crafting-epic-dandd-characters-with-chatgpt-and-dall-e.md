@@ -1,7 +1,7 @@
 ---
 title: "Innovative AI Techniques: Crafting Epic D&D Characters with ChatGPT and DALL-E"
-date: 2024-09-09T00:23:17.852Z
-updated: 2024-09-13T08:12:38.449Z
+date: 2024-09-17T05:28:39.050Z
+updated: 2024-09-18T01:49:06.338Z
 tags:
   - chatgpt
   - open-ai
@@ -60,23 +60,9 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
 ![ChatGPT running plan question screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-running-plan-question-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
 
 ![ChatGPT 10K running plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-10k-running-plan-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  I responded to the questions in order, and it provided a multi-week plan. The plan is actually pretty solid, even taking potential injuries into account, but it didn't get into more granular details like pacing.
 
@@ -86,39 +72,19 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
 ![ChatGPT Boston qualifier prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-boston-qualifier-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, there is some level of self-awareness with ChatGPT's advice on this topic (if you can say such a thing about AI technology). For instance, if you ask it to create a running plan that will help you qualify for the Boston Marathon, then it directs you to find an online plan that already addresses this ambition. It's a huge, years-long goal, even for many talented runners, and the app rightly doesn't attempt to offer a pat response.
 
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Strength Training Plans From ChatGPT
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Likewise, ChatGPT’s general strength training plan is also pretty dependable, calling for bodyweight exercises like squats and push-ups as well as dumbbell rows. It’s similar to what you might find from[top strength-training apps](https://www.makeuseof.com/best-weightlifting-apps/) .
@@ -127,22 +93,16 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
 ![ChatGPT deadlifts prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-deadlifts-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In this example, I received detailed instructions on the correct way to do deadlifts. It offered helpful pointers about your stance, grip, and even breathing techniques in order to make the most of this particular exercise.
 
  If you ever need to double-check the way to perform a certain exercise, or simply try out a new series of strength workouts, then ChatGPT is a helpful resource. The simple, straightforward responses and training plans offer a lot of information for beginner and more experienced athletes looking to increase their strength. Just be sure to verify the information with reputable sources before you take ChatGPT's advice.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## It's Possible to Use ChatGPT to Help With Your Fitness Goals
 
@@ -163,13 +123,20 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-inverted-illusion-guide-transforming-visual-content-through-angled-spins/"><u>[Updated] In 2024, The Inverted Illusion Guide Transforming Visual Content Through Angled Spins</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-versatile-tips-for-avoiding-vr-motion-sickness/"><u>[Updated] Versatile Tips for Avoiding VR Motion Sickness</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/boost-your-gameplay-ultimate-guide-to-eliminate-fallout-eb-lags/"><u>Boost Your Gameplay - Ultimate Guide to Eliminate Fallout Eb Lags</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-top-large-language-model-llm-bard-chatgpt-or-offline-alpaca-a-comparative-review/"><u>Choosing the Top Large Language Model (LLM): Bard, ChatGPT, or Offline Alpaca - A Comparative Review</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-y100a-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y100A Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/interactive-adventures-await-utilizing-chabt-to-create-unique-text-based-roleplaying-games/"><u>Interactive Adventures Await: Utilizing ChabT to Create Unique Text-Based Roleplaying Games</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/must-haves-buying-a-refurbished-laptop-guide/"><u>Must Haves: Buying a Refurbished Laptop Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/skip-the-wait-for-chatgpt-desktop-seamlessly-transition-to-this-reliable-and-free-open-source-alternative/"><u>Skip the WAIT for ChatGPT Desktop: Seamlessly Transition to This Reliable and Free Open Source Alternative!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-app-review-with-az-screenshotter/"><u>[New] 2024 Approved Ultimate App Review with AZ Screenshotter</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-superior-5-android-screenshot-and-video-tools-reviewed-for-2024/"><u>[New] Superior 5 Android Screenshot and Video Tools Reviewed for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-xbox-extra-storage-options-best-5-ranked-list-for-2024/"><u>[New] Xbox Extra Storage Options Best 5 Ranked List for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iuoajoamhpluswqjeobleocjoobnpluss6uuejqeobrumfspluswjsoakuea2idrli5xnllvnt6jpm4bjgafkvbjgyjjgovmnidmlrdjg4bjgqjg4vjg4pjgqjgi0i/"><u>「指名された人物の音声抹消:動画編集で使える最新テクニック」</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-comprehensive-guide-to-rl-streaming-setup/"><u>2024 Approved Comprehensive Guide to RL Streaming Setup</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-heif-encoders-top-4-picks-for-optimal-image-quality-and-performance/"><u>Best Heif Encoders: Top 4 Picks for Optimal Image Quality & Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-5-email-security-solutions-to-protect-your-privacy/"><u>Discover the Leading 5 Email Security Solutions to Protect Your Privacy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/freemake/"><u>Freemakeを利用してダウンロード失敗する原因と対処法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hassle-free-tutorial-on-transposing-vttsrt-subtitles-for-seamless-editing/"><u>Hassle-Free Tutorial on Transposing VTT/SRT Subtitles for Seamless Editing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-incorporate-soundtracks-into-your-videos-using-vlc-media-player/"><u>How to Incorporate Soundtracks Into Your Videos Using VLC Media Player</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-photo-purity-with-picart/"><u>In 2024, Master the Art of Photo Purity with PicArt</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-androidyoutube-music/"><u>IPhone / Androidで使用するためのYouTube Musicからの最適な着信メロディ選び方</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone/"><u>IPhoneで動画から高品質音声への変換テクニック</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-most-massive-lifting-machines-in-the-sky-for-2024/"><u>The Most Massive Lifting Machines in the Sky for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-exploring-the-best-audio-blending-software-top-picks-free-of-charge-in-2024/"><u>Updated Exploring the Best Audio Blending Software - Top Picks , Free of Charge, In 2024</u></a></li>
 </ul></div>
 

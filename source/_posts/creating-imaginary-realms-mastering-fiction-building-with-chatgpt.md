@@ -1,7 +1,7 @@
 ---
 title: "Creating Imaginary Realms: Mastering Fiction Building with ChatGPT"
-date: 2024-09-07T20:26:53.126Z
-updated: 2024-09-13T02:58:48.104Z
+date: 2024-09-17T04:04:29.704Z
+updated: 2024-09-18T04:33:24.575Z
 tags:
   - chatgpt
   - open-ai
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
 
 ![Rytr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rytr.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re a beginner fiction writer or looking for a new story AI generator on a budget, this one is for you.[Rytr](https://rytr.me/) doesn’t come with many bells and whistles, but it gets the job done.
 
  It lets you pick from numerous tones, such as**awestruck** or**critical** , and can provide up to three variants. There are several use cases to help optimize the text, but for the fiction writer, the best one is the**Story Plot** .
@@ -56,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
  Besides this app, you should consider using[several creative writing apps](https://www.makeuseof.com/reasons-to-use-creative-writing-apps/) to improve your content quality.
 
 **Cost:** Free for 10,000 characters per month. $9 per month for 100,000 characters and $29 per month for unlimited use.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. ShortlyAI
 
@@ -78,22 +64,15 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
 
 **Cost:** $79 per month for unlimited use. However, if you want to try it out, you can sign up without a credit card—and you get four clicks a day.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. DeepStory
 
 ![DeepStoryAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deepstoryai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The next on the list,[DeepStory](https://deepstory.ai/) , is a specialized AI script generator. Not only will it help you get unstuck if you’re experiencing writer's block, but it also generates content in precise script form. This can be extremely useful if you are starting out in this field and still struggling with the structure.
@@ -101,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
  You can start your own script from scratch, where the AI helps you add in dialogs, actions, character notes, and more. But the even better option for beginners is to use one of its samples. They have anything, from Lord of the Rings to Kill Bill and the Exorcist. It is an amazing educational tool.
 
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. NovelAI
 
@@ -124,10 +96,16 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Leave the Writer’s Block Behind With These AI Story Generators
@@ -151,20 +129,19 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-amazonprimes-winning-tweets-of-the-year-2023-for-2024/"><u>[New] AmazonPrime's Winning Tweets of the Year 2023 for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rom-flat-to-fantastic-animated-text-transformations-for-2024/"><u>[New] From Flat to Fantastic Animated Text Transformations for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-snap-tastic-facebooks-fleeting-media/"><u>[Updated] 2024 Approved Snap-Tastic Facebook's Fleeting Media</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-amazons-premier-titles-social-media-sensation-winners/"><u>[Updated] Amazon’s Premier Titles Social Media Sensation Winners</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-can-claude-ai-outperform-chatgpt/"><u>Chatbot Face-Off: Can Claude AI Outperform ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-best-dall-e-3-photo-ideas-8-innovative-prompt-examples/"><u>Discover the Best DALL-E 3 Photo Ideas: 8 Innovative Prompt Examples</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-poco-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Poco</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-criteria-for-selecting-a-superior-artificial-intelligence-chatbot-solution/"><u>Essential Criteria for Selecting a Superior Artificial Intelligence Chatbot Solution</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/interlingual-exploration-turkey-and-korea/"><u>Interlingual Exploration: Turkey & Korea</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-journey-from-gpt-1-to-gpt-4-unveiling-the-differences-in-openais-latest-models/"><u>The Journey From GPT-1 to GPT-4: Unveiling the Differences in OpenAI’s Latest Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-seven-pitfalls-why-generative-ai-may-not-suit-your-messenger-application/"><u>The Seven Pitfalls: Why Generative AI May Not Suit Your Messenger Application</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/tiktok-malfunctions-resetting-or-repairing-in-2024/"><u>TikTok Malfunctions Resetting or Repairing, In 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-7-thrilling-additions-to-googleebard-ai-revealed-at-io-conference-2023/"><u>Unveiling 7 Thrilling Additions to Google'eBard AI Revealed at I/O Conference 2023</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-chatgpt-may-not-be-the-best-tool-for-condensing-your-written-content/"><u>Why ChatGPT May Not Be the Best Tool for Condensing Your Written Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-cultivating-productive-collaboration-a-pathway-to-effective-collab-videos/"><u>[New] 2024 Approved Cultivating Productive Collaboration A Pathway to Effective Collab Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-next-gen-key-smartwatch-opens-your-mac-for-2024/"><u>[New] Next-Gen Key Smartwatch Opens Your Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-charting-a-course-through-youtubes-maker-domain/"><u>[Updated] 2024 Approved Charting a Course Through YouTube's Maker Domain</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44cm57ch5y2y44gr5a2m44g244kr44od44oi5yuv55s757eo6zugic0g44ox44ot44gm6yg444kt44gg44oz44k544oi44k944ov44oi44km44kn44ki44oq44k544oi44cn/"><u>「簡単に学ぶカット動画編集 - プロが選んだベストソフトウェアリスト」</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unparalleled-pc-sound-control/"><u>2024 Approved Unparalleled PC Sound Control</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-easy-methods-to-spin-mov-files-between-pc-and-mac-a-comprehensive-guide/"><u>5 Easy Methods to Spin Mov Files Between PC & Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5zcm5pmc44gr5l2v5pys44gu5yuv55s744ks5asj5oplusb5yplusv6io944gq44k144o844ot44k544gm44gc44kk44gplus44gz44gl77yf/"><u>同時に何本の動画を変換可能なサービスがありますか？</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adobe-premiere-prodvd-vobmp4/"><u>Adobe Premiere Proで効率的な方法：DVD VOBファイルの取り込みとMP4への変換</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/av1/"><u>AV1形式に変換してビデオをエンコードする詳細ガイド</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-samsung-m2070-driver-download-guide-quick-easy-and-effective-solution/"><u>Effortless Samsung M2070 Driver Download Guide - Quick, Easy & Effective Solution</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhancing-social-reach-youtube-videos-on-facebook-sites/"><u>Enhancing Social Reach YouTube Videos on Facebook Sites</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/re-the-best-8-mirrorless-cameras-for-youtube-vloggers-for-2024/"><u>Explore the Best 8 Mirrorless Cameras for YouTube Vloggers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/logiciels-de-conversion-dvdvideo-premium-la-solution-ultime-avec-digiarty-software/"><u>Logiciels De Conversion DVD/Vidéo Premium: La Solution Ultime Avec Digiarty Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44ox44ot44gr5a2m44g277ya44os44of44oo44gm5a6m55kn44gq5yuv55s75pku44kk5pa5ic0g44k544og44od44ox44oq44kk44k544og44od44ox44oe44ol44ol44ki44or/"><u>プロに学ぶ：レミノが完璧な動画撮り方 - ステップバイステップマニュアル</u></a></li>
 </ul></div>
 

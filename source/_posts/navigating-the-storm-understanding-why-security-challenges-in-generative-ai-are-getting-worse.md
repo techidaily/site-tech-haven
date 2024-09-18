@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Storm: Understanding Why Security Challenges in Generative AI Are Getting Worse"
-date: 2024-09-08T06:39:40.331Z
-updated: 2024-09-13T06:40:59.322Z
+date: 2024-09-16T22:49:10.726Z
+updated: 2024-09-18T05:05:43.727Z
 tags:
   - chatgpt
   - open-ai
@@ -22,25 +22,11 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Lack of Real-Time Data
 
  The cryptocurrency market is always changing. A coin can be worth $10 on Monday and then $5 on Tuesday. Because of this, real-time data is crucial in crypto trading, be it prices, trends, or predictions. Using outdated information can result in poor investments and a loss of funds, so it's important to be on top of things.
 
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. AI Hallucinations and Potential Biases
 
@@ -60,23 +46,9 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
 
@@ -91,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
@@ -106,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lacks Insights Into Macroeconomic Factors
@@ -143,16 +115,18 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-seamless-sound-recording-experience-with-audacity-mac-edition-for-2024/"><u>[New] Seamless Sound Recording Experience with Audacity, Mac Edition for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-synthesize-stellar-titles-using-ai-insights/"><u>[Updated] Synthesize Stellar Titles Using AI Insights</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-essential-mac-tips-for-creating-perfect-snaps/"><u>2024 Approved The Essential Mac Tips for Creating Perfect Snaps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/educators-guide-to-4-vital-ai-checkpoints-in-chatgpt/"><u>Educator's Guide to 4 Vital AI-Checkpoints in ChatGPT</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-affordability-and-features-in-depth-review-of-the-beanteechnologys-bitwatch-s1-plus-wearable/"><u>Exploring Affordability and Features: In-Depth Review of the Beanteechnology's Bitwatch S1 Plus Wearable</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-managing-chatgpt-dialogues-with-organized-folders/"><u>Step-by-Step Tutorial on Managing ChatGPT Dialogues with Organized Folders</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategies-for-designing-balanced-meal-schemes-via-chatgpt-assistance/"><u>Strategies for Designing Balanced Meal Schemes via ChatGPT Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-missing-self-editing-feature-in-gpt/"><u>The Missing Self-Editing Feature in GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-the-inception-of-ai-how-and-when-did-machine-learning-begin/"><u>Unraveling the Inception of AI: How and When Did Machine Learning Begin?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-movie-maker-videos-on-vimeo/"><u>[Updated] 2024 Approved The Ultimate Checklist for Movie Maker Videos on Vimeo</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-extensive-investigation-into-gecatas-recorder-tech/"><u>[Updated] In 2024, Extensive Investigation Into Gecata's Recorder Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/2-effortless-and-cost-effective-techniques-to-refine-your-screen-recordings-learn-how/"><u>2. 'Effortless and Cost-Effective Techniques to Refine Your Screen Recordings - Learn How!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-free-audio-enhancers-for-windows-11-top-7-choices/"><u>Best FREE Audio Enhancers for Windows 11: Top 7 Choices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-wealth-through-video-content-revenue/"><u>Building Wealth Through Video Content Revenue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-video-file-converter-suite-seamless-editing-from-mpeg-to-various-formats-made-easy/"><u>Complete Video File Converter Suite: Seamless Editing From MPEG to Various Formats Made Easy.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-steps-to-transforming-m3u8-streams-into-mp4-format-with-vlc-media-player/"><u>Comprehensive Steps to Transforming M3U8 Streams Into MP4 Format with VLC Media Player</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-sumind-bt7-problem-what-is-the-result-of-dividing-4-by-frac23/"><u>Comprehensive Sumind BT7 # Problem: What Is the Result of Dividing 4 by $ Frac{2}{3}$?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-repair-and-restore-excel-file-by-stellar-guide/"><u>How Do I Repair and Restore Excel File?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-level-techniques-for-attaching-srt-to-mp4-clips-for-2024/"><u>Master Level Techniques for Attaching SRT to MP4 Clips for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-gen-gaming-perfection-detailed-review-of-the-240hz-qd-oled-philips-evonia-display/"><u>Next-Gen Gaming Perfection: Detailed Review of the 240Hz QD-OLED Philips Evonia Display</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030225956-powerdirector/"><u>PowerDirector 使い方: 高品質な音声を抽出するビデオ編集術</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44or44k944kz44oz44gn44oe44kk44kt44oj44k544ot44oh44kq44ks6kiy6yyy44gx44gm44gk44gp5pa55rov44cq6kaw6ig06icf44gr5b2556ul44gk44cr/"><u>パソコンでツイキャスビデオを記録しておく方法【視聴者に役立つ】</u></a></li>
 </ul></div>
 

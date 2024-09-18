@@ -1,7 +1,7 @@
 ---
 title: "The Battle for Best AI Chatbot: Can Perplexity Outshine ChatGPT Plus in Conversational Intelligence?"
-date: 2024-09-07T03:07:34.230Z
-updated: 2024-09-13T08:46:04.521Z
+date: 2024-09-17T01:56:33.795Z
+updated: 2024-09-18T04:00:52.341Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -66,18 +59,23 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capture-create-curate-mobiles-in-action-for-youtube-thumbnails/"><u>[New] In 2024, Capture, Create, Curate Mobiles in Action for YouTube Thumbnails</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-desktopmobile-techniques-for-sound-rate-manipulation-in-youtube/"><u>[Updated] 2024 Approved Desktop/Mobile Techniques for Sound Rate Manipulation in YouTube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-shifting-from-spotify-playlists-to-customized-youtube-music-catalogs/"><u>[Updated] In 2024, Shifting From Spotify Playlists to Customized YouTube Music Catalogs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/backup-basics-cloning-without-external-help/"><u>Backup Basics: Cloning Without External Help</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminate-jumpy-tunes-overcoming-bluetooth-interruptions-in-windows-11-environments/"><u>Eliminate Jumpy Tunes: Overcoming Bluetooth Interruptions in Windows 11 Environments</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-guide-transform-avchd-videos-into-mp4-format-with-these-5-tips-for-windows-11-users/"><u>Free Guide: Transform AVCHD Videos Into MP4 Format with These 5 Tips for Windows 11 Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovating-self-sufficiency-how-gpt-cuts-edge-will-revolutionize-do-it-yourself-activities/"><u>Innovating Self-Sufficiency: How GPT-Cuts Edge Will Revolutionize Do-It-Yourself Activities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-going-premium-with-chatgpt-plus-worth-it/"><u>Is Going Premium with ChatGPT Plus Worth It ?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-live-concert-streamers-for-2024/"><u>Premier Live Concert Streamers for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-bitcoin-and-altcoins-trading-with-these-n-chatgpt-insights/"><u>Revolutionize Your Bitcoin and Altcoins Trading with These N ChatGPT Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-pitfalls-in-harnessing-chatgpt-for-your-content-strategy/"><u>Top 4 Pitfalls in Harnessing ChatGPT for Your Content Strategy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-toms-hardware-digest/"><u>Unveiling Gadgets with Tom's Hardware Digest</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-artifice-inteligence-excels-chatgpt-or-gemini-for-programming/"><u>Which Artifice Inteligence Excels - ChatGPT or Gemini for Programming?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-foundations-of-video-editing-in-the-gaming-world/"><u>[New] Foundations of Video Editing in the Gaming World</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-pathways-to-acquiring-facebooks-distinguished-verification/"><u>[New] In 2024, Pathways to Acquiring Facebook's Distinguished Verification</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-loop-video-liftoff-engaging-audiences-on-ig/"><u>[Updated] In 2024, Loop Video Liftoff Engaging Audiences on IG</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/m4-a-web-4/"><u>最高の無料 M4-A 統合ソフトウェアとWebサイト 上位4選択: 専門家がお薦め!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-comprehensive-tutorial-setting-up-wake-on-lan-for-windows-11-systems/"><u>A Comprehensive Tutorial: Setting Up Wake-on-LAN for Windows 11 Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-csgo-no-login-error-with-these-5-proven-fixes/"><u>Beat the CSGO No Login Error with These 5 Proven Fixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/jpegmovwindows-11/"><u>JPEG形式へMOV動画を変換するためのWindows 11ガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mmfmp3/"><u>MMFファイルからMP3への完全な変換ガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/most-effective-hd-dvd-ripper-tools-for-windows-11-expert-picks-2024/"><u>Most Effective HD DVD Ripper Tools for Windows 11 - Expert Picks 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prores-video-format-compatible-download-and-installation-for-windows-10-and-11/"><u>ProRes Video Format: Compatible Download and Installation for Windows 10 & 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solutions-to-correctly-install-hcmon-device-drivers-after-failure/"><u>Solutions to Correctly Install HCMON Device Drivers After Failure</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

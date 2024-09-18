@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Exposed: A Call to Action"
-date: 2024-09-09T23:17:58.191Z
-updated: 2024-09-13T05:28:53.744Z
+date: 2024-09-16T23:45:08.847Z
+updated: 2024-09-18T04:43:55.192Z
 tags:
   - chatgpt
   - open-ai
@@ -36,19 +36,6 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -57,22 +44,15 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. chatgpt-go.online
@@ -83,20 +63,13 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. ChatGPT1
@@ -106,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
@@ -122,19 +102,6 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -163,20 +130,21 @@ thumbnail: https://thmb.techidaily.com/e59e0cf4120a7fd0bdb3cfb3525237678186517f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-a-narrative-template-for-online-educational-videos/"><u>[New] In 2024, Crafting a Narrative Template for Online Educational Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-leaders-shaping-immersive-digital-experiences/"><u>[Updated] 2024 Approved Leaders Shaping Immersive Digital Experiences</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-beginning-your-instagram-live-journey/"><u>[Updated] Beginning Your Instagram Live Journey</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/10-innovative-screencasting-solutions-for-modern-teachers-for-2024/"><u>10 Innovative Screencasting Solutions for Modern Teachers for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-canva-expertise-10-sneak-peek-tips-for-photo-editors/"><u>2024 Approved Canva Expertise 10 Sneak Peek Tips for Photo Editors</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-realme-gt-neo-5-se-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Realme GT Neo 5 SE without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-v27-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo V27</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-errors-to-prevent-in-your-journey-through-generative-ai-technology/"><u>Essential Errors to Prevent in Your Journey Through Generative AI Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hack-turn-dall-e-webp-photos-into-standard-jpegpng/"><u>Hack: Turn DALL-E WebP Photos Into Standard JPEG/PNG</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leading-edge-breakthroughs-the-best-new-ai-processor-tech/"><u>Leading-Edge Breakthroughs: The Best New AI Processor Tech</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revamp-your-health-routine-with-chatgpts-best-practices/"><u>Revamp Your Health Routine with ChatGPT's Best Practices</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-acurite-pro-model-01036m-weather-station-evaluated-hassle-free-configuration-and-solid-design/"><u>The AcuRite Pro Model 01036M Weather Station Evaluated: Hassle-Free Configuration & Solid Design</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-advanced-nlp-capabilities-using-gpt-3-with-python-efficiently/"><u>Unlocking Advanced NLP Capabilities: Using GPT-3 with Python Efficiently</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-potential-using-chatgpt-in-study/"><u>Unlocking Potential: Using ChatGPT in Study</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-similarities-and-contrasts-an-in-depth-look-into-gpt-and-bert/"><u>Unveiling Similarities and Contrasts: An In-Depth Look Into GPT and BERT</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-looking-to-access-the-whole-spectrum-of-shared-media-by-contacts/"><u>[New] Looking to Access the Whole Spectrum of Shared Media by Contacts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-photographic-soundtracking-online/"><u>2024 Approved Photographic Soundtracking Online</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-s24-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy S24?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-join-the-journey-to-a-calmer-mind-games/"><u>In 2024, Join the Journey to a Calmer Mind (Games)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-realme-gt-5-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Realme GT 5 Android SIM Unlock APK</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/investigating-changes-over-time-in-windows-movie-maker-for-2024/"><u>Investigating Changes Over Time in Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/rotating-videos-with-windows-movie-maker-a-comprehensive-guide-and-alternatives-explored/"><u>Rotating Videos with Windows Movie Maker: A Comprehensive Guide and Alternatives Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/samsung-tv-now-supports-avi-file-type-after-fix/"><u>Samsung TV Now Supports Avi File Type After Fix</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-mastering-video-cropping-techniques-in-openshot-editor/"><u>Simple Steps: Mastering Video Cropping Techniques in OpenShot Editor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/speedy-vob-to-mkv-converter-tips-effortless-changeover-techniques-unveiled/"><u>Speedy VOB-to-MKV Converter Tips: Effortless Changeover Techniques Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-fast-m2ts-file-format-transformation/"><u>Step-by-Step Tutorial on Fast M2TS File Format Transformation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-performing-screen-capture-tools-for-smooth-pubg-streams-on-windows-10-and-11/"><u>Top Performing Screen Capture Tools for Smooth PUBG Streams on Windows 10 and 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-guide-how-to-fix-error-code-0xc00d6d60-on-your-pc-running-windows-1011/"><u>Troubleshooting Guide: How to Fix Error Code 0Xc00d6d60 on Your PC Running Windows 10/11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-weather-app-companions-guide/"><u>Win Weather App Companions Guide</u></a></li>
 </ul></div>
 

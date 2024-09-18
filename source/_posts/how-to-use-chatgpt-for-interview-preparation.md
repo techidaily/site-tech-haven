@@ -1,7 +1,7 @@
 ---
 title: How to Use ChatGPT for Interview Preparation
-date: 2024-09-06T22:33:28.221Z
-updated: 2024-09-13T00:38:11.575Z
+date: 2024-09-14T20:41:20.209Z
+updated: 2024-09-18T05:08:29.417Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Create a Presentation From Scratch With ChatGPT
 
  Before diving into creating a presentation with ChatGPT, let's go over the steps involved. We'll use a combination of two AI tools to make this presentation.
@@ -42,19 +35,6 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
  Of course, like most other[AI presentation tools](https://www.makeuseof.com/tools-use-ai-to-make-presentation/) , the free version of SlidesAI has limitations. You can only create three presentations per month, and the text for each presentation is limited to 2500 characters. You can purchase a paid plan to extend these limits.
 
  Once you've generated the presentation, all that is left is to make some final changes and export the presentation to any format you like. If you want to create a PowerPoint slideshow with AI, you can follow these same steps and then export the slideshow to PowerPoint.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Generate the Presentation Text With ChatGPT
 
@@ -68,44 +48,17 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
 ![A sample conversation with ChatGPT to generate text for a presentation.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-presentation-text.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you have provided the information, ChatGPT will generate the presentation text for you. You can edit and refine the text to meet your needs and preferences. It's best to remove the structural phrases, such as the slide numbers and the image descriptions. Keep only the main text.
 
  If you'll be using the free version of SlidesAI, it's important to note that there are limits on the number of characters and slides. Specifically, the free version has a limit of 2500 characters and can generate no more than ten slides. You can adjust your prompt or edit the ChatGPT output if you need to work within these limits.
 
  If you want to make the whole process even easier and don't feel like editing the AI-generated text yourself, you can use yet another[AI writing tool](https://www.makeuseof.com/ai-writing-tools/) to edit ChatGPT's output.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Install SlidesAI for Google Slides
 
  After generating the text for your presentation, the next step is to install[SlidesAI for Google Slides](https://workspace.google.com/marketplace/app/slidesaiio%5Fcreate%5Fslides%5Fwith%5Fai/904276957168) . You can do this through the Google Slides add-ons store.
 
 ![SlidesAI on the Google Webstore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-store.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Go to Google Slides.
 2. Create a blank presentation.
@@ -116,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Compile the Presentation With SlidesAI
 
  With SlidesAI installed, you can now begin creating your presentation. You can do this in the same blank presentation you made in the previous step. SlidesAI will automatically add new slides and fill them with appropriate content.
@@ -124,6 +84,20 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 2. Go to SlidesAI and then click**Generate Slides** .  
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under**Enter text** .  
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
@@ -144,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
 ![The Magic Write tool in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-magic-write.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There's a chance that SlidesAI adds irrelevant images to some slides. In that case, you can replace the image with SlideAI's Magic Write tool. This feature considers the slide's content and suggests relevant stock photos.
 
 1. Go to the**Extensions** menu.
@@ -162,20 +129,14 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
 ![Downloading a Google Slides presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-download.jpg)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to**File > Download** and then select**Microsoft PowerPoint** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Create Efficient Presentations in Minutes
 
@@ -200,17 +161,18 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-ultimate-booktok-list-must-read-masterpieces/"><u>[Updated] In 2024, The Ultimate BookTok List Must-Read Masterpieces</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-swiftly-adjust-video-speeds-a-users-guide-to-youtube-features-for-2024/"><u>[Updated] Swiftly Adjust Video Speeds A User's Guide to YouTube Features for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-unlocking-video-potential-the-art-of-youtube-live-360-streaming/"><u>2024 Approved Unlocking Video Potential The Art of YouTube Live 360 Streaming</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gemini-navigates-new-frontiers-a-game-changer-for-one-million-token-economies/"><u>Gemini Navigates New Frontiers: A Game Changer for One-Million-Token Economies</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro iOS? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/navigating-googles-augmented-reality-adornments/"><u>Navigating Google's Augmented Reality Adornments</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-presentations-with-smart-ai-technology/"><u>Revolutionizing Presentations with Smart AI Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-test-chatgpt-vs-innovative-ai-claude/"><u>The Ultimate Test: ChatGPT Vs. Innovative AI Claude</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-effects-of-automated-chatbot-monitoring-systems-powered-by-ai-on-personal-online-exchange/"><u>Unveiling the Effects of Automated Chatbot Monitoring Systems Powered by AI on Personal Online Exchange</u></a></li>
-<li><a href="https://facebook.techidaily.com/unwrapping-the-facebook-reimbursement-procedure/"><u>Unwrapping the Facebook Reimbursement Procedure</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-conveniently-connect-friends-across-os-platforms-using-skype-chats/"><u>[New] 2024 Approved Conveniently Connect Friends Across OS Platforms Using Skype Chats</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-remedy-screen-disruptions-during-live-streams/"><u>[New] In 2024, Remedy Screen Disruptions During Live Streams</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-video-dimensions-on-the-yt-platform/"><u>[Updated] The Ultimate Guide to Video Dimensions on the YT Platform</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-yi-drone-in-4k-a-filmmakers-dream/"><u>[Updated] Yi Drone in 4K A Filmmaker’s Dream</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-synthesizing-a-look-at-magix-creative-suite/"><u>2024 Approved Synthesizing a Look at MAGIX Creative Suite</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-pc-from-continuous-crashing-issues-resolved/"><u>How To Stop Your PC From Continuous Crashing Issues - Resolved</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-solutions-for-troubleshooting-microsoft-sound-recorder-issues/"><u>Top 7 Solutions for Troubleshooting Microsoft Sound Recorder Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-free-video-editing-tools-best-open-source-options/"><u>Top-Rated Free Video Editing Tools: Best Open Source Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/trouble-free-mp4-viewing-on-your-chromebook-discover-three-effective-methods/"><u>Trouble-Free MP4 Viewing on Your Chromebook: Discover Three Effective Methods!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-file-size-reducer-expert-guide-to-downscaling-videos-from-large-to-small-megabytes/"><u>Ultimate File Size Reducer: Expert Guide to Downscaling Videos From Large to Small Megabytes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Historical Insights: Pinpointing When Artificial Neural Networks Came to Be"
-date: 2024-09-11T17:27:10.018Z
-updated: 2024-09-13T02:08:39.071Z
+date: 2024-09-16T16:36:58.180Z
+updated: 2024-09-17T16:45:23.559Z
 tags:
   - chatgpt
   - open-ai
@@ -24,23 +24,9 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Learn What AI Is and How AI-Powered Tools Work
 
 ![A computer screen displaying ChatGPT's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-generative-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It helps to start with understanding[what AI is, the dangers it poses](http://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) , and how it can help you. Understanding the basics of AI and how it works will help you know its strengths and limitations, as well as how to use it to thrive in your workplace.
 
@@ -49,19 +35,6 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
  Although AI systems have been used in various industries, such as finance, healthcare, marketing, and sales for quite some time, their use is increasing exponentially due to technological advancements and the release of AI-powered tools like ChatGPT.
 
  ChatGPT is a large language model developed by OpenAI that relies on vast amounts of training data to generate natural-sounding text. This AI chatbot is used for tasks such as content creation, programming, and translation, to name a few. In fact, this tool is so good that[people wonder if generative AI will take over their jobs](https://www.makeuseof.com/can-chatgpt-replace-me/) .
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Know the Difference Between Artificial Intelligence and Human Intelligence
 
@@ -77,16 +50,16 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 ![Close-up image of hand writing "be creative"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/future-proof-skills-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As good as generative AI tools like ChatGPT are, they have limitations, and AI is still far from replicating the unique skills, insights, and creativity that humans possess. As such, it is vital to invest in future-proofing skills that AI can't replicate to survive and thrive in the AI-dominated workplace.
 
  Some of these AI-proof skills include empathy, creativity, problem-solving abilities, adaptability, resilience, communication, and collaboration skills. Investing in these skills will empower you to bring unique insights and solutions. Additionally, as AI solutions continuously improve, you can use your creativity to find innovative ways to use the technologies in your workplace.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Learn How to Work With AI Tools
 
@@ -96,27 +69,20 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  There are several[prompting techniques you can use to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) , including writing grammatically correct prompts with enough context and details. In addition, you can also assign it a role to get more relevant and tailored answers.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Build a Robust Professional Network
 
 ![A group of people sitting at a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/professional-networking-event.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Building strong connections with people who share similar interests and goals can be a great way to solidify your career prospects. As AI technologies continuously evolve and become inevitable in the workplace, staying updated on the latest trends, tools, and technologies can help you remain relevant. Building a solid professional network is one of the best ways to achieve this.
 
  There are several[ways creatives can network professionally](https://www.makeuseof.com/creative-professional-networking-ways/) , including attending in-person and virtual networking events, joining online forums and communities, attending conferences and meetups, or[building a professional network on LinkedIn](https://www.makeuseof.com/ways-to-build-professional-network-linkedin/) . Undoubtedly, some of these connections will prove invaluable in helping you thrive in your workplace.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Become a Lifelong Learner to Keep Up With Upcoming Tech
 
@@ -143,16 +109,20 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-grasp-the-art-of-steadiness-in-photography-for-2024/"><u>[Updated] Grasp the Art of Steadiness in Photography for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-crypto-investment-understanding-the-5-key-constraints-you-should-know-about/"><u>ChatGPT and Crypto Investment: Understanding the 5 Key Constraints You Should Know About</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-literary-sidekick-9-innovative-ways-to-compose-engaging-novels/"><u>ChatGPT as Your Literary Sidekick: 9 Innovative Ways to Compose Engaging Novels</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-insights-four-pathways-to-better-time-management/"><u>ChatGPT Insights: Four Pathways to Better Time Management</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-edge-40-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-securing-sims-legacy-proven-strategies-for-documenting-virtual-escapades/"><u>In 2024, Securing Sims' Legacy Proven Strategies for Documenting Virtual Escapades</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oneplus-ace-3-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock OnePlus Ace 3 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-avi-editor-for-windows-8-easily-edit-avi-files-on-pc-2023-update-for-2024/"><u>New AVI Editor for Windows 8 Easily Edit AVI Files on PC-2023 Update for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-g2-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-behind-meta-ai-comprehensive-insights/"><u>Unveiling the Secrets Behind Meta AI: Comprehensive Insights</u></a></li>
-<li><a href="https://facebook.techidaily.com/whatsapps-deferral-of-may-15-deadline-on-policy-update/"><u>WhatsApp's Deferral of May 15 Deadline on Policy Update</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-extending-your-content-a-detailed-youtube-video-upload-manual/"><u>[New] 2024 Approved Extending Your Content A Detailed YouTube Video Upload Manual</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-avatar-makeover-building-your-cartoon-personality/"><u>[New] Avatar Makeover Building Your Cartoon Personality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-5-windows-11-gaming-capture-techniques/"><u>[New] Top 5 Windows 11 Gaming Capture Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-dance-directives-finding-ideal-dj-templates/"><u>[Updated] Dance Directives Finding Ideal DJ Templates</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/announcing-paul-nizov-as-the-new-ciso-at-abbyy-leadership-transition-in-cybersecurity/"><u>Announcing Paul Nizov as the New CISO at ABBYY: Leadership Transition in Cybersecurity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dvd-imgburn/"><u>DVD コピーとコピーガード解除のための ImgBurn:使いやすさと強力代替ツールをご提案</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-to-rotating-videos-with-vlc-media-player/"><u>Easy Guide to Rotating Videos with VLC Media Player</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-methods-to-adapt-your-videos-for-seamless-viewing-on-apples-mobile-gadgets-ipod-ipad-and-iphone/"><u>Easy Methods to Adapt Your Videos for Seamless Viewing on Apple's Mobile Gadgets: IPod, iPad, and iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-to-free-conversion-transforming-flv-videos-into-avi-format/"><u>Easy Steps to Free Conversion: Transforming FLV Videos Into AVI Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-guide-converting-dvds-to-mp4-format-for-universal-playback-compatibility/"><u>Effortless Guide: Converting DVDs to MP4 Format for Universal Playback Compatibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-viewing-experience-with-customized-video-resolution-settings-for-perfect-playback-everywhere/"><u>Enhance Your Viewing Experience with Customized Video Resolution Settings for Perfect Playback Everywhere</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-toolset-flawless-video-enhancements-macwindows/"><u>Expert Toolset: Flawless Video Enhancements (Mac/Windows)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-a-top-notch-linkedin-image/"><u>In 2024, Crafting a Top-Notch LinkedIn Image</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-payload-pilots-drone-superlatives/"><u>In 2024, Pinnacle Payload Pilots Drone Superlatives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-pivot-to-claude-transforming-businesses-with-innovative-ai/"><u>Why Pivot to Claude: Transforming Businesses with Innovative AI</u></a></li>
 </ul></div>
 

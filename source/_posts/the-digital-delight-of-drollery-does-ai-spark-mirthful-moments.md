@@ -1,7 +1,7 @@
 ---
 title: "The Digital Delight of Drollery: Does AI Spark Mirthful Moments?"
-date: 2024-09-11T00:09:20.757Z
-updated: 2024-09-13T06:54:21.512Z
+date: 2024-09-14T16:44:13.658Z
+updated: 2024-09-18T00:58:23.852Z
 tags:
   - chatgpt
   - open-ai
@@ -24,23 +24,9 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1.[Solve the Murders](https://solvethemurders.com/) (Web): Chat With AI Suspects to Solve a Murder Mystery
 
 ![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -50,29 +36,9 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
 
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2.[Gron](https://www.gron.games/game) (Web): Retro RPG Game to Find Clues and Chat With Suspects
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -81,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
  You play as Detective Samuel O'Connor, called to investigate the suspicious death of Elias Harrington, one of the wealthiest men in San Francisco. You'll need to move around in the game using the arrow keys and interact with characters or objects using the Spacebar. The game gives you no indication that a character or object is important, so it's all about using your detective skills.
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3.[Mystery-o-Matic](https://mystery-o-matic.com/) (Web): New Murder Mystery Generated Daily Randomly
 
@@ -101,16 +60,16 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4.[Murdle](https://murdle.com/) (Web): Daily Murder Mystery Logic Puzzles
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -119,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
  Murdle follows a similar system to Mystery-o-Matic, giving you three or four suspects, three or four locations, and three or four murder weapons every day. The mysteries get more difficult with each day, with Monday being the easiest and Sunday requiring the skills of Sherlock Holmes.
 
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Create Your Own ChatGPT Murder Mystery
 
@@ -141,17 +107,13 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-effortless-transfer-facebook-videos-from-pcmac/"><u>[New] 2024 Approved Effortless Transfer Facebook Videos From PC/Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-solve-youtube-video-distorted-issue/"><u>[New] How to Solve YouTube Video Distorted Issue</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-efficiently-expanding-on-stardews-ginger-isle/"><u>[Updated] 2024 Approved Efficiently Expanding on Stardew's Ginger Isle</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-overcoming-screen-blackouts-in-recording-tools-for-2024/"><u>[Updated] Overcoming Screen Blackouts in Recording Tools for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-virtual-realms-confrontation-the-google-vs-samsung-rivalry/"><u>[Updated] Virtual Realms Confrontation The Google Vs. Samsung Rivalry</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-asrock-z790i-lightning-wi-fi-mini-pcie-card-a-game-changer-for-small-form-factor-pcs/"><u>Evaluating the ASRock Z790I Lightning Wi-Fi Mini PCIe Card: A Game Changer for Small Form Factor PCs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-resolve-iphone-issues-with-chatgpt-top-9-strategies-for-smooth-functionality/"><u>How to Resolve iPhone Issues with ChatGPT – Top 9 Strategies for Smooth Functionality</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-on-iphone-a-comprehensive-list-of-9-remedies-for-app-malfunctions/"><u>Mastering ChatGPT on iPhone - A Comprehensive List of 9 Remedies for App Malfunctions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/openais-hold-on-chatgpt-weakens/"><u>OpenAI's Hold on ChatGPT Weakens?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/synthesizing-stories-and-verses-a-guide-with-chatgpt/"><u>Synthesizing Stories and Verses: A Guide with ChatGPT</u></a></li>
-<li><a href="https://win-dash.techidaily.com/tp-link-network-card-driver-update-compatible-with-win11-8-7-secure-the-latest-version-now/"><u>TP-Link Network Card Driver Update | Compatible with Win11, 8, 7 - Secure the Latest Version Now!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-building-brand-buzz-the-power-of-instagram-story-quizzes-for-2024/"><u>[New] Building Brand Buzz The Power of Instagram Story Quizzes for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-gamers-paradise-leading-5-hdmi-21-monitors-for-ps5-for-2024/"><u>[Updated] Gamers' Paradise Leading 5 HDMI 2.1 Monitors for PS5 for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-starting-with-green-magic-an-in-depth-guide-to-the-filmmakers-color-technique/"><u>In 2024, Starting with Green Magic An In-Depth Guide to the Filmmaker’s Color Technique</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-fixes-accelerate-your-video-uploads-to-facebook-with-these-expert-hacks/"><u>Quick Fixes: Accelerate Your Video Uploads to Facebook with These Expert Hacks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-conversion-from-iso-to-mkv-without-compromising-quality/"><u>Seamless Conversion From ISO to MKV without Compromising Quality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-and-speedy-techniques-for-transferring-your-dvd-content-onto-a-pc/"><u>Secure & Speedy Techniques for Transferring Your DVD Content Onto a PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unpacking-twitter-video-sharing-the-whatsapp-connection-for-2024/"><u>Unpacking Twitter Video Sharing The WhatsApp Connection for 2024</u></a></li>
 </ul></div>
 

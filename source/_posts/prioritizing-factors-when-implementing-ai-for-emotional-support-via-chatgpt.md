@@ -1,7 +1,7 @@
 ---
 title: Prioritizing Factors when Implementing AI for Emotional Support via ChatGPT
-date: 2024-09-09T02:52:26.140Z
-updated: 2024-09-12T18:21:23.595Z
+date: 2024-09-17T04:03:35.489Z
+updated: 2024-09-17T16:36:04.591Z
 tags:
   - chatgpt
   - open-ai
@@ -24,23 +24,9 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is the Turing Test Outdated?
 
 ![man questions robot turing test example feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/man-questions-robot-turing-test-example-feature.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vector/robot-scientist-facing-turing-test-artificial-1651840888)
 
@@ -64,16 +50,16 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
@@ -88,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
@@ -99,16 +85,10 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
@@ -117,23 +97,9 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
@@ -160,18 +126,17 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-powerdirector-app-review-2024/"><u>[Updated] Step-by-Step PowerDirector App Review 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-legal-woes-google-news-feed-revised-and-get-the-best-mobile-internet-on-vacation/"><u>ChatGPT Legal Woes, Google News Feed Revised, and Get the Best Mobile Internet on Vacation</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-updated-asus-bt500-driver-for-ultimate-bluetooth-compatibility-on-w11w10w8-platforms/"><u>Download Updated Asus BT500 Driver for Ultimate Bluetooth Compatibility on W11/W10/W8 Platforms</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effective-strategies-for-long-term-backup-preservation-why-opting-for-an-internal-storage-approach-with-time-machine-and-mac-computers-works-best/"><u>Effective Strategies for Long-Term Backup Preservation: Why Opting for an Internal Storage Approach with Time Machine and Mac Computers Works Best</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ensuring-discretion-chatterbots-privacy-concerns/"><u>Ensuring Discretion: Chatterbots' Privacy Concerns</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-implement-gpt-technology-on-your-ubuntu-system-through-command-line-interface-cli/"><u>How to Implement GPT Technology on Your Ubuntu System Through Command-Line Interface (CLI)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-split-screen-in-windows-10/"><u>How to Split Screen in Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-6-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 6 without Security Questions?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-x-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone X to TV/Laptop? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-xr-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone XR? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-prime-phone-video-and-image-capturing-best-apps-for-iphones-and-android/"><u>In 2024, Prime Phone Video & Image Capturing Best Apps for iPhones and Android</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-xiaomi-redmi-note-12r-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Xiaomi Redmi Note 12R Phones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-ai-to-elevate-your-social-media-strategy-with-chatgpt/"><u>Leveraging AI to Elevate Your Social Media Strategy with ChatGPT</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-a-guide-to-effective-hashtag-integration-on-facebook-platforms-for-2024/"><u>[Updated] A Guide to Effective Hashtag Integration on Facebook Platforms for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-the-spectrum-in-hands-on-recognition-technology/"><u>[Updated] Navigating the Spectrum in Hands-On Recognition Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44cm44gk5zwp44ge5zci44kp44gb44ox44ot44k744k544gu5qac6kab44go5oml6acg44cn/"><u>「お問い合わせプロセスの概要と手順」</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-nokia-xr21-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Nokia XR21 PC | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030369652-aiff/"><u>AIFFファイルからワブフォーマットへシームレスに変換するための全カテゴリツールと手順</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chucklecanvas-draw-hilarious-social-media-art-for-2024/"><u>ChuckleCanvas Draw Hilarious Social Media Art for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028969122-dvd/"><u>DVD のバックアップや書き換え方法：リッピングから防御まで</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-13-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 13 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-adobe-memefixer-a-humorous-journey/"><u>In 2024, Adobe Memefixer A Humorous Journey</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-facebook-streaming-on-roku-devices/"><u>Navigating Facebook Streaming on Roku Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-discovering-your-bookmarked-instagram-reels-easily/"><u>Step-by-Step Guide: Discovering Your Bookmarked Instagram Reels Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-non-responsive-keyboard-backlight-on-pc-and-apple-devices/"><u>Troubleshooting Steps for Non-Responsive Keyboard Backlight on PC & Apple Devices</u></a></li>
 </ul></div>
 

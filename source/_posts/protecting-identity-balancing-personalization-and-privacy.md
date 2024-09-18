@@ -1,7 +1,7 @@
 ---
 title: "Protecting Identity: Balancing Personalization and Privacy"
-date: 2024-09-09T20:28:54.236Z
-updated: 2024-09-13T00:13:02.788Z
+date: 2024-09-12T19:48:36.013Z
+updated: 2024-09-18T05:05:48.077Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 
 * [What Is ChatGPT's GPT Mentions Feature?](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#what-is-chatgpt-39-s-gpt-mentions-feature)
 * [How to Use the GPT Mentions Feature](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#how-to-use-the-gpt-mentions-feature)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -57,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 So, how can you use this?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the GPT Mentions Feature
@@ -75,27 +68,20 @@ So, how can you use this?
 
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, you're chatting with Canva until you click "X" on the**Talking to Canva** tab that will appear above the chat text box.
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
 
@@ -108,22 +94,15 @@ So, how can you use this?
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now, we have hotels, flights, and trails for our trip all in one chat!
 
@@ -144,21 +123,17 @@ Now, we have hotels, flights, and trails for our trip all in one chat!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-hurdlehop-pausevidsnapshot/"><u>[New] 2024 Approved HurdleHop PauseVidSnapshot</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-joining-the-twitter-community-from-scratch-for-2024/"><u>[Updated] Joining the Twitter Community From Scratch for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/beat-the-odds-with-a-graphics-tablet-in-gaming/"><u>Beat the Odds with a Graphics Tablet in Gaming</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/embrace-ai-convenience-setup-a-free-and-locally-run-chatbot-with-gpt4all-technology-for-windows-enthusiasts/"><u>Embrace AI Convenience: Setup a Free and Locally Run Chatbot with GPT4All Technology for Windows Enthusiasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-ai-vocabulary-mastering-the-top-29-keywords-in-artifice-intelligence/"><u>Essential AI Vocabulary: Mastering the Top 29 Keywords in Artifice Intelligence</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/examining-the-sharpness-of-panasonic-hc-wxf991/"><u>Examining the Sharpness of Panasonic HC-WXF991</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-stuck-loading-screens-for-mgs5-cold-war-players-struggle-with-pc-and-console-crashes/"><u>Fixing Stuck Loading Screens for MGS5: Cold War Players Struggle with PC & Console Crashes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-7-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone 7 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/lg-bp350-evaluation-size-resolution-and-connectivity-for-2024/"><u>LG BP350 Evaluation - Size, Resolution, and Connectivity for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-productivity-gains-combining-onlyoffice-docspace-capabilities-with-chatgpt-ai-assistance/"><u>Maximize Productivity Gains: Combining OnlyOffice Docspace Capabilities with ChatGPT AI Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-around-chatgpts-limits-can-you-push-past-the-threshold/"><u>Navigating Around ChatGPT's Limits: Can You Push Past The Threshold?</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-oppo-a2-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Oppo A2 on Mac</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/swiftly-sidestep-common-chatgpt-login-blockades/"><u>Swiftly Sidestep Common ChatGPT Login Blockades</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-data-management-how-gpt-boosts-productivity-in-google-sheets-and-docs/"><u>Transform Your Data Management: How GPT Boosts Productivity in Google Sheets and Docs</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-13-ultra-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi 13 Ultra? Here is How | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-consider-chatgpt-for-your-next-health-inquiry/"><u>Why Consider ChatGPT for Your Next Health Inquiry?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-fcp-freebies/"><u>[Updated] The Ultimate Guide to FCP Freebies</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-top-youtuber-earnings-worldwide/"><u>[Updated] Top Youtuber Earnings Worldwide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-your-path-to-a-unique-auditory-experience-customizing-ringtone-and-sound-on-android/"><u>2024 Approved Your Path to a Unique Auditory Experience Customizing Ringtone & Sound on Android</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-fixes-for-a-vizio-tvs-lost-wi-fi-signal/"><u>DIY Fixes for a Vizio TV's Lost Wi-Fi Signal</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-privacy-with-personalized-language-models-how-to-defend-against-potential-data-leaks/"><u>Ensuring Privacy with Personalized Language Models: How to Defend Against Potential Data Leaks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-hd-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Infinix Smart 8 HD PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-counterfeit-chatgpt-mobile-applications-in-the-ios-marketplace/"><u>Identifying Counterfeit ChatGPT Mobile Applications in the iOS Marketplace</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-honor-90-gt-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor 90 GT Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-progopro-series-camera-comparison/"><u>In 2024, ProGoPro Series Camera Comparison</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastery-in-media-manipulation-ttml-and-xml-for-superior-srt-outputs-for-2024/"><u>Mastery in Media Manipulation TTML & XML for Superior SRT Outputs for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/operational-hiccup-bcm20702a0-driver-missing/"><u>Operational Hiccup: BCM20702A0 Driver Missing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/picking-the-perfect-partner-which-is-better-claude-or-chatgpt-for-daily-interactions/"><u>Picking the Perfect Partner: Which Is Better, Claude or ChatGPT for Daily Interactions?</u></a></li>
 </ul></div>
 

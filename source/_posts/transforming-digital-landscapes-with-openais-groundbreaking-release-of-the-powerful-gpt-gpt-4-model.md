@@ -1,7 +1,7 @@
 ---
 title: Transforming Digital Landscapes with OpenAI's Groundbreaking Release of the Powerful GPT-GPT-4 Model
-date: 2024-09-09T01:00:18.359Z
-updated: 2024-09-12T22:55:31.495Z
+date: 2024-09-15T18:47:42.408Z
+updated: 2024-09-17T23:54:13.821Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -52,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 
 ![Four AI-generated images of cats wearing a hat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/four-ai-generated-images-of-cats-wearing-a-hat.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  DALL-E 3 promises to be a step up from its previous versions with improved accuracy, better photorealism capabilities, and more creative images. We've noticed a step up in quality as well, even when our prompts contain very few details.
 
  But the most notable change about DALL-E 3 is that it has been integrated into ChatGPT, OpenAI's powerful AI chatbot. It opens up a whole new way of interacting with the image generator and gives you a fresh way of creating prompts.
@@ -73,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 
 ![DALL-E 2 image of NYC and plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-image-of-nyc-and-plants.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When we asked if it could add animals to that image it just generated, it couldn't. Instead, it generated new images of just animals.
 
 ![DALL-E 2 prompt for animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-prompt-for-animals.jpg)
@@ -88,50 +67,30 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 
 ![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
 
 ![DALL-E 3 iamge of New York City overgrown with plants and animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-iamge-of-new-york-city-overgrown-with-plants-and-animals.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
 
 ![DALL-E 3 image of a city overun with animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-overun-with-animals.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
 
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Limitations of DALL-E 3 and Bing
@@ -145,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
  Another change to DALL-E 3 is the increase in moderation and safety measures that some people might consider a limitation, such as "removing public figure names" from the prompt, as mentioned in the[DALL-E 3 research paper](https://cdn.openai.com/papers/DALL%5FE%5F3%5FSystem%5FCard.pdf) .
 
  But this will be a welcome addition for artists who don't want their images to train DALL-E in the first place. Adding to this, you can now fill in the[OpenAI opt-out form](https://share.hsforms.com/1%5FOuT5tfFSpic89PqN6r1CQ4sk30) to make sure your image doesn't go into the training pool.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Don't Wait to Try DALL-E 3; Access It Now With Bing
 
@@ -165,20 +131,19 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-mastering-the-science-of-verbal-recording/"><u>[New] Mastering the Science of Verbal Recording</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unraveling-monetization-strategies-in-the-realm-of-video-shorts/"><u>[New] Unraveling Monetization Strategies in the Realm of Video Shorts</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-echoes-of-harmony-in-a-social-sphere/"><u>[Updated] Echoes of Harmony in a Social Sphere</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unveiling-top-8-crowd-favorites-in-ae-templates/"><u>[Updated] In 2024, Unveiling Top 8 Crowd Favorites in AE Templates</u></a></li>
-<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-innovation-inside-the-workings-of-top-gpt-4-integrated-applications/"><u>Decoding Innovation: Inside the Workings of Top GPT-4 Integrated Applications</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/evaluating-the-gameplay-experience-on-a-samsung-cf591-monitor-review/"><u>Evaluating the Gameplay Experience on a Samsung CF591 Monitor Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-advantages-of-forefront-ai-over-chatgpt/"><u>Exploring the Advantages of Forefront AI over ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-nuances-of-ai-in-financial-strategy-planning/"><u>Navigating the Nuances of AI in Financial Strategy Planning</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/preventing-mistakes-mastering-gpt-powered-conversations/"><u>Preventing Mistakes: Mastering GPT-Powered Conversations</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-fast-track-to-faster-download-speeds-on-steams-origin-platform-2024-insights/"><u>The Fast Track to Faster Download Speeds on Steam's Origin Platform - 2024 Insights</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-s23-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy S23 FRP</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-the-best-ai-gpt-showdown-with-microsoft-and-google-bard/"><u>Unleashing the Best AI: GPT Showdown with Microsoft and Google Bard</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-chatgpt-top-5-methods-to-engage-without-openai-membership/"><u>Unlocking the Potential of ChatGPT: Top 5 Methods to Engage without OpenAI Membership</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-the-mystery-scriptwriting-for-documentaries-for-2024/"><u>Unveiling the Mystery Scriptwriting for Documentaries for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-ranker-top-15-free-online-photo-enhancement-tools/"><u>[New] The Ultimate Ranker Top 15 Free Online Photo Enhancement Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-decoding-instagrams-legal-framework-for-musicians/"><u>[Updated] Decoding Instagram's Legal Framework for Musicians</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-editmaster-app/"><u>2024 Approved EditMaster App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-7-cutting-edge-alternatives-to-openais-chatgpt-for-enhanced-mobile-experience/"><u>Discover 7 Cutting-Edge Alternatives to OpenAI’s ChatGPT for Enhanced Mobile Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-eliminating-unwanted-noise-from-bass-speakers/"><u>Expert Advice on Eliminating Unwanted Noise From Bass Speakers</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-motorola-razr-40-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Motorola Razr 40 Quickly | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-wirecast-for-facebook-live-broadcasts/"><u>Mastering Wirecast for Facebook Live Broadcasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-for-kids-five-child-friendly-practices/"><u>Navigating ChatGPT for Kids: Five Child-Friendly Practices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/opt-out-navigating-chatgpts-data-use/"><u>Opt-Out: Navigating ChatGPT's Data Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/programming-power-play-github-copilot-vs-chatgpt-showdown/"><u>Programming Power Play: GitHub Copilot Vs. ChatGPT Showdown</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smooth-operations-new-printing-toolkit-for-windows-7-dell/"><u>Smooth Operations: New Printing Toolkit for Windows 7 Dell</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-roadmap-to-safe-innovation-defining-and-implementing-ai-supervision-standards/"><u>The Roadmap to Safe Innovation: Defining and Implementing AI Supervision Standards</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-exploring-the-mechanics-of-shared-links/"><u>Understanding ChatGPT: Exploring the Mechanics of Shared Links</u></a></li>
 </ul></div>
 

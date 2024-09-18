@@ -1,7 +1,7 @@
 ---
 title: "Customizing ChatGPT for Specific Needs: An Innovative Approach"
-date: 2024-09-11T22:02:27.328Z
-updated: 2024-09-12T17:30:22.089Z
+date: 2024-09-14T23:06:22.325Z
+updated: 2024-09-17T16:06:24.083Z
 tags:
   - chatgpt
   - open-ai
@@ -26,25 +26,11 @@ thumbnail: https://thmb.techidaily.com/22abb9cfe31c7f2c3c7286f2617faed6b91923b5c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the GPT for Sheets and Docs Extension
 
  Although OpenAI does not have a ChatGPT extension for spreadsheet apps, you can still enjoy GPT technology within Google Sheets using third-party applications that interface with OpenAI's GPT API. One such third-party application is the "GPT for Sheets and Docs" extension. It is not a standalone app but a Google Sheets extension that makes it possible to use[ChatGPT-like prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) wrapped in functions within your spreadsheets.
 
  No, it doesn't require any programming knowledge to set up. The process isn't too technical—it is relatively easy to complete. All you'll need to get started is to grab an OpenAI API key and add the "GPT for Sheets and Docs" extension to your Google Sheets account. But how do you get an OpenAI API key?
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Add the GPT for Sheets and Docs Extension to Google Sheets
 
@@ -57,33 +43,12 @@ To add the GPT for Sheets and Docs extension to your Google Sheets:
 ![Google Workspace Marketplace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/google-workspace-marketplace.jpg)
 4. Click on the first extension, as seen in the screenshot above. On the next page, click on**Install** and then**Continue.**  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Installing GPT for Sheets and Docs on Google Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/installing-gpt-for-sheets-and-docs-on-google-sheets.jpg)
 5. Select the Google account associated with your Google Sheets account and then tap**Allow** on the permission prompt to grant the extension access it needs to modify your spreadsheets.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. After the installation, click**Next** and tap**Done** on the post-installation screen to complete the installation process.
 
  With that done, the extension will be added to your Google Sheets account. However, to use GPT-powered functions and formulas within Google Sheets, you'll need an OpenAI API key to activate the extension within Google Sheets.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Create an OpenAI API Key
 
@@ -105,20 +70,27 @@ To add the GPT for Sheets and Docs extension to your Google Sheets:
 ![saving API key to GPT for Sheets and Docs extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/saving-api-key-to-gpt-for-sheets-and-docs-extension.jpg)
 4. Tap on the**Save API key** to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With those steps completed, you're almost done with the setup process. The last step is to activate the GPT for Sheets and Docs extension. To do this, navigate to **Extensions > GPT for Sheets and Docs > Enable GPT functions** ​​​​​​.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Can You Do With GPT-Powered Google Sheets?
 
  Are you done setting up the Google Sheets extension? What exciting things can you do with GPT-powered Google Sheets?
 
 Well, the possibilities are endless.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Generate Text
 
@@ -136,13 +108,6 @@ Well, the possibilities are endless.
 
 ![multi-cell response in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/multi-cell-response-in-gpt-for-sheets.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Translate Text
 
  With the GPT for Sheets and Docs extension, you can use[ChatGPT translation prompts](https://www.makeuseof.com/how-to-translate-with-chatgpt/) within Google Sheets. You can achieve this using the**GPT\_TRANSLATE** function or wrapping a typical ChatGPT translation prompt around the base GPT function. This could be in the form of**\=GPT(" translate 'Bonjour' to English ")** or **GPT\_TRANSLATE(\[text\_to\_translate\], \[target\_language\], \[source\_language\])** .
@@ -150,10 +115,10 @@ Well, the possibilities are endless.
 ![translating with GPT on Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/translating-with-gpt-on-sheets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Summarize Text
@@ -168,20 +133,6 @@ Well, the possibilities are endless.
 
 ![GPT_CLASSIFY in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_classify-in-gpt-for-sheets.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Generate Data Tables
 
  Spreadsheets and tables go together like peas and carrots. The**\=GPT\_TABLE** function makes it incredibly easy to create tables in Google Sheets. Think of any data table you need, and just ask the function to create it--that's it. So, say, you need a table of some of the best Korean TV shows, their theme, and IMDB rating. This is a dataset that would be time-consuming to put together.
@@ -189,6 +140,19 @@ Well, the possibilities are endless.
  However,**\=GPT\_TABLE** can produce the table in 3 seconds. You'd have to do something like**\=GPT\_TABLE** ( **"20 of the best Korean TV shows, their IMDB rating and three words to describe their theme")** . We ran the function, and here's what we got.
 
 ![GPT_TABLE function in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_table-function-in-gpt-for-sheets.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Copy Text Formatting
 
@@ -201,10 +165,16 @@ Well, the possibilities are endless.
 ![Data Extraction using GPT functions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/data-extraction-using-gpt-functions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Boost Your Productivity With ChatGPT Prompts in Google Sheets
@@ -228,20 +198,16 @@ Well, the possibilities are endless.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-achieving-virality-youtube-promotion-no-cost-involved/"><u>[New] In 2024, Achieving Virality YouTube Promotion No Cost Involved</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sightsphere-scrutiny-summary/"><u>[New] SightSphere Scrutiny Summary</u></a></li>
-<li><a href="https://games-able.techidaily.com/comparative-study-fe-vs-aib-graphics-card-models/"><u>Comparative Study: FE Vs. AIB Graphics Card Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-top-performers-gemini-advance-and-chatgpt-plus-who-wins/"><u>Comparing Top Performers: Gemini Advance and ChatGPT Plus – Who Wins?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-ai-transfer-learning-insights-and-functionality/"><u>Decoding AI Transfer Learning – Insights & Functionality</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-narzo-n55-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme Narzo N55 Device SIM</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-writing-with-advanced-tech-discover-hix-ai-powered-by-gpt-narrative/"><u>Effortless Writing with Advanced Tech: Discover HIX AI, Powered by GPT-Narrative</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-embracing-ai-can-revolutionize-education-exploring-8-key-benefits-for-teachers/"><u>How Embracing AI Can Revolutionize Education: Exploring 8 Key Benefits for Teachers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-write-compelling-podcast-narratives-and-examples-at-no-cost/"><u>In 2024, How to Write Compelling Podcast Narratives & Examples at No Cost</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-chatgpts-service-integration-troubles/"><u>Navigating Through ChatGPT's Service Integration Troubles</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/smart-assistants-showdown-distinguishing-the-amazon-echo-dot-from-apples-homepod-mini/"><u>Smart Assistants Showdown: Distinguishing the Amazon Echo Dot From Apple's HomePod Mini</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-understanding-chatgpts-top-limitations-revealed-by-a-tech-guru/"><u>The Ultimate Guide to Understanding ChatGPT's Top Limitations Revealed by a Tech Guru</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-decline-top-7-explanations-why-chatgpt-jailbreak-attempts-fail/"><u>Understanding the Decline: Top 7 Explanations Why ChatGPT Jailbreak Attempts Fail</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-expedite-your-content-with-smart-title-tools/"><u>[Updated] 2024 Approved Expedite Your Content With Smart Title Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-navigating-through-facebooks-recent-content-policy-shifts/"><u>[Updated] In 2024, Navigating Through Facebook's Recent Content Policy Shifts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-prime-vr-options-enhancing-drone-operations/"><u>[Updated] Prime VR Options Enhancing Drone Operations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-visual-storytelling-excellence-top-five-camera-techniques-2024/"><u>[Updated] Visual Storytelling Excellence Top Five Camera Techniques - 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027117180-2024/"><u>2024年に注目!:スマートフォン向け動画圧縮ソフトウェアのベストをご紹介します</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-download-and-install-logitech-mx-master-for-optimal-performance/"><u>Easy Steps to Download & Install Logitech MX Master for Optimal Performance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-acid-pro-in-focus-investigating-replacements-and-comparisons/"><u>In 2024, ACID Pro in Focus Investigating Replacements and Comparisons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-free-video-conversion-services-how-to-change-your-files-without-costs/"><u>Ultimate Guide to Free Video Conversion Services – How to Change Your Files without Costs!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/wmv-mp4vlc/"><u>WMV, MP4をプレイバックするために必要なVLCメディアプレーヤーの設定チェック</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/youtube-live-streaming-and-video-upload-encoder-recommendations/"><u>YouTube Live Streaming & Video Upload Encoder Recommendations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726026386632-3/"><u>あなたのウェブ動画にぴったりの分割ツールベスト3選！</u></a></li>
 </ul></div>
 

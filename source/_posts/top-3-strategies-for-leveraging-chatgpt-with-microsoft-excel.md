@@ -1,7 +1,7 @@
 ---
 title: Top 3 Strategies for Leveraging ChatGPT with Microsoft Excel
-date: 2024-09-12T04:51:48.740Z
-updated: 2024-09-12T22:14:45.550Z
+date: 2024-09-11T21:11:57.597Z
+updated: 2024-09-18T06:02:53.373Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -38,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -54,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -68,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -87,10 +59,16 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -116,17 +94,17 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-original-pfp-concepts-to-make-your-tiktok-presence-unforgettable/"><u>[New] 2024 Approved Original PFP Concepts to Make Your TikTok Presence Unforgettable</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-vivacut-mastery-in-depth-2024-editor-analysis-and-tips/"><u>[New] VivaCut Mastery In-Depth 2024 Editor Analysis and Tips</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-reducing-vids-a-guide-to-instagram-length-control-mac/"><u>[Updated] In 2024, Reducing Vids A Guide to Instagram Length Control, Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-pacera-free-audio-liberation-handbook/"><u>[Updated] The Complete Pacera Free Audio Liberation Handbook</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Fingerprint Lock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-trust-chatgpt-a-breakdown-of-six-potential-cybersecurity-hazards/"><u>Can You Trust ChatGPT? A Breakdown of Six Potential Cybersecurity Hazards</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-instructions-for-activating-or-deactivating-the-virtual-keyboard-in-windows-11/"><u>Complete Instructions for Activating or Deactivating the Virtual Keyboard in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-ai-controls-essential-insights-into-regulation-and-responsibility/"><u>Demystifying AI Controls: Essential Insights Into Regulation and Responsibility</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/directly-posting-twitvideos-on-whatsapp/"><u>Directly Posting TwitVideos on WhatsApp</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-iphone-13-mini-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 13 mini Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/nightshade-solutions-for-securing-originality-in-the-age-of-generative-intelligence/"><u>Nightshade Solutions for Securing Originality in the Age of Generative Intelligence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-11dvd-shrink/"><u>Windows 11におけるDVD Shrink利用ガイド: 日本語版ダウンロードと使用手順</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fearless-filming-mastering-your-first-10-clips/"><u>[New] 2024 Approved Fearless Filming Mastering Your First 10 Clips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-composition-and-tints-mastering-color-usage/"><u>[New] Composition and Tints Mastering Color Usage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-art-of-extended-frame-videos-on-iphone-for-2024/"><u>[New] The Art of Extended Frame Videos on iPhone for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-jumpstart-your-projects-using-xps-film-editor-for-2024/"><u>[Updated] Jumpstart Your Projects Using XP's Film Editor for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-realizing-unnoticeable-connections-in-snapcircle/"><u>[Updated] Realizing Unnoticeable Connections in SnapCircle</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-m34-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-yet-powerful-software-for-seamless-screen-capture/"><u>Simple Yet Powerful Software for Seamless Screen Capture</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplified-guide-3-simple-methods-for-extracting-text-from-videos/"><u>Simplified Guide: 3 Simple Methods for Extracting Text From Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solving-obs-frame-skipping-issues-easy-guide/"><u>Solving OBS Frame Skipping Issues: Easy Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-converting-your-dvds-into-video-files-and-sharing-on-vimeo/"><u>Step-by-Step Guide: Converting Your DVDs Into Video Files & Sharing on Vimeo</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-preserving-sound-integrity-while-changing-aif-format-to-wav/"><u>Step-by-Step Guide: Preserving Sound Integrity While Changing AIF Format to WAV</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima/"><u>The Way of the Warrior Game Lineup Mirroring Ghost of Tsushima</u></a></li>
 </ul></div>
 

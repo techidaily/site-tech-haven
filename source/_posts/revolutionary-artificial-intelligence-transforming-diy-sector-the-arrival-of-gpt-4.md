@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Artificial Intelligence Transforming DIY Sector: The Arrival of GPT-4"
-date: 2024-09-11T05:29:52.963Z
-updated: 2024-09-13T02:39:14.430Z
+date: 2024-09-16T02:13:31.793Z
+updated: 2024-09-18T01:12:49.920Z
 tags:
   - chatgpt
   - open-ai
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. What's the Best Place to Start?
 
@@ -53,23 +46,9 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
  The result shows that GPT-4 has a better understanding of context in comparison to its predecessor. This is just one of the many[differences between GPT 3.5 and GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Practice Conversational Skills
 
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
 
@@ -77,22 +56,16 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Learn Grammar and Syntax
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
@@ -101,19 +74,6 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 ## 5\. Personalized Tests
 
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
 
@@ -126,26 +86,26 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. How Does It Compare to Other Alternatives?
@@ -175,14 +135,21 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-best-practices-in-photo-captioning-tools-for-2024/"><u>[Updated] Best Practices in Photo Captioning Tools for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/concealed-chorus-capturers-6-discreet-audio-recorders-for-devices/"><u>Concealed Chorus Capturers 6 Discreet Audio Recorders for Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/days-gone-multiplayer-release-pc-version-now-available/"><u>Days Gone Multiplayer Release - PC Version Now Available</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-c33-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a18-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A18 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721268076276-secure-your-quick-fix-for-perfected-photographs-now/"><u>Secure Your Quick Fix for Perfected Photographs Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-essence-of-chatgpt-forging-ai-driven-innovation-pathways/"><u>The Essence of ChatGPT: Forging AI-Driven Innovation Pathways</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-folklore-merging-human-art-with-machine-learning/"><u>The Future of Folklore: Merging Human Art with Machine Learning</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/your-pathway-to-a-successful-llama-2-installation-on-your-device/"><u>Your Pathway to a Successful Llama 2 Installation on Your Device</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-skyrocket-your-streams-earnings-universal-strategies-for-success/"><u>[New] 2024 Approved Skyrocket Your Stream's Earnings Universal Strategies for Success</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimize-media-consumption-with-picture-in-progress-screen-chrome/"><u>[New] Optimize Media Consumption with Picture In Progress Screen Chrome</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2021-file-stellar-by-stellar-guide/"><u>4 Ways to extract data from corrupt Excel 2021 file | Stellar</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-guide-best-screencasting-apps-at-no-cost/"><u>Essential Guide Best Screencasting Apps at No Cost</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-deactivate-safety-alerts-on-your-iphone-device/"><u>Guide to Deactivate Safety Alerts on Your iPhone Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-magic-6-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Honor Magic 6 Pro Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/innovative-rhythms-with-the-magix-groove-master-suite/"><u>Innovative Rhythms with the Magix Groove Master Suite</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-playback-of-ogg-media-compatible-windows-versions-including-11-10-8-and-7-explained/"><u>Mastering the Playback of OGG Media: Compatible Windows Versions Including 11, 10, 8, and 7 Explained!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mp4-to-flv-conversion-guide-step-by-step-instructions/"><u>MP4 to FLV Conversion Guide - Step-by-Step Instructions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-create-stunning-mac-slideshows-a-beginners-guide-to-ezvid-for-2024/"><u>New Create Stunning Mac Slideshows A Beginners Guide to Ezvid for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/p90x3-dvd-iphone6/"><u>P90X3 DVDフォームロジック コレクション - iPhone6へ安全な書き戻し方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/paymentconfirmedbutunregisteredaccount/"><u>PaymentConfirmedButUnregisteredAccount – 解決策と注意事項</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pc-dvdwindowsmac/"><u>PCへ移行! DVD画像を簡単に取り込み方「Windows・Macオペレーティングシステム用」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mp4-mts3/"><u>スマホとパソコンでも使える無料MP4変換器 - MTSファイル対応のベスト3・・・今すぐ始めよう!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pc6/"><u>プログラマブルPCゲーム録画ソフト選び：6組をおすすめします！高解像度、対応機能付き</u></a></li>
 </ul></div>
 

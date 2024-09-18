@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Integrating CodeGPT Into Your Visual Studio Code"
-date: 2024-09-10T06:34:45.875Z
-updated: 2024-09-13T00:54:28.470Z
+date: 2024-09-13T19:40:21.340Z
+updated: 2024-09-18T00:54:02.939Z
 tags:
   - chatgpt
   - open-ai
@@ -32,23 +32,9 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
  Before its public launch, the prospect of GPT-4 generated huge excitement in the AI community due to its touted capabilities and potential applications in various fields. Now, GPT-4 is here, but how can you access it?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Access GPT-4 on ChatGPT
 
 ![chatgpt openai logos smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-openai-logos-smartphone-feature.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-photo/stuttgart-germany-12292022-mobile-phone-website-2245793859)
 
@@ -69,29 +55,22 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 ![ChatGPT plus comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-comparison.jpg)
 4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Once your payment has been confirmed, you should now have access to the OpenAI GPT-4 model alongside the older GPT-3.5 default and GPT-3.5 legacy models.
 6. Choose the GPT-4 model from the drop-down on your ChatGPT chat interface, select the mode you want, and start using GPT-4 with ChatGPT.  
 ![screenshot of ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-code-interpreter.jpg)
 
  One way to be sure you're using the GPT-4 model instead of the older models is to check the color of the OpenAI logo that precedes ChatGPT's responses. GPT-3.5 model responses are preceded with a green-white logo, while GPT-4 responses are preceded with a black-white logo.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the Difference Between GPT-3.5 and GPT-4?
 
  GPT-4 stands out from previous versions in two major ways: it demonstrates considerably enhanced capabilities, yet it imposes an unpopular, restrictive message quota.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Performance Improvement
 
@@ -100,13 +79,6 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  Also, writing entire blocks of functional code took several iterations to get right with GPT-3.5\. With GPT-4, you could write entire apps with single prompts, and you'd sometimes not need to debug any piece of it to get it working. Just copy, paste, and run.
 
  GPT-4 is a multimodal AI model with a significantly larger context window, able to process both text and image inputs. Its full capabilities were demoed during the official GPT-4 announcement event but have not been pushed to the public, likely due to a shortage of computer chips needed to back the massive amount of compute power required for such features.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Usage Cap
 
@@ -123,10 +95,10 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  Bing Chat aside, whether GPT-4 will ever be available for ChatGPT free tier users is unclear. GPT-4 is already several months post-release, and there is no indication that OpenAI will make GPT-4 generally available as a free offering. However, since OpenAI is already making the GPT-4 model available to third-party developers, you can use GPT-4 in a limited capacity through third-party apps powered by GPT-4.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-4: Is It Worth the Hype?
@@ -150,20 +122,16 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-an-in-depth-look-at-basic-and-simplified-hdr-photography-for-2024/"><u>[New] An In-Depth Look at Basic and Simplified HDR Photography for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-choreograph-cheeky-comics-via-giphy/"><u>[New] In 2024, Choreograph Cheeky Comics via Giphy</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-expert-tips-best-10-ae-text-setups/"><u>2024 Approved Expert Tips Best 10 AE Text Setups</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-forge-memes-that-captivate-audiences/"><u>2024 Approved How to Forge Memes that Captivate Audiences</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-legalities-unpacked/"><u>ChatGPT Legalities Unpacked</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-personal-training-8-innovative-plugin-solutions-for-well-being/"><u>Elevate Personal Training: 8 Innovative Plugin Solutions for Well-Being</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-integrate-chatgpt-with-whatsapp-for-customer-support/"><u>How to Integrate ChatGPT With WhatsApp for Customer Support</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-11-pro-max-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 11 Pro Max in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-overview-of-google-voice-calling-features-and-performance/"><u>In-Depth Overview of Google Voice Calling Features and Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-chatgpt-with-your-ubuntu-command-line-a-step-by-step-guide/"><u>Integrating ChatGPT with Your Ubuntu Command Line: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/jet-set-without-spending-selecting-7-gratis-ai-travel-assistants/"><u>Jet Set Without Spending - Selecting 7 Gratis AI Travel Assistants</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/peak-psd-opacity-adjustments/"><u>Peak PSD Opacity Adjustments</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-speedy-recovery-of-deleted-imessages-from-an-iphone/"><u>Step-by-Step Instructions for Speedy Recovery of Deleted iMessages From an iPhone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-the-potential-8-pre-configured-gpts-awaiting-use/"><u>Unlock the Potential: 8 Pre-Configured GPTs Awaiting Use</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-starting-a-youtube-channel-the-ultimate-blueprint/"><u>[New] 2024 Approved Starting a YouTube Channel The Ultimate Blueprint</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-history-button-navigating-old-facebook-stories-for-2024/"><u>[New] The History Button Navigating Old Facebook Stories for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-effortless-image-and-video-integration-microsoft-teams-snap-camera/"><u>[Updated] In 2024, Effortless Image and Video Integration Microsoft Teams Snap Camera</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/enhance-your-photography-skills-with-the-top-5-android-editors-for-2024/"><u>Enhance Your Photography Skills with the Top 5 Android Editors for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-windows-11-search-problems-a-step-by-step-guide-for-seamless-browsing/"><u>Fixing Windows 11 Search Problems: A Step-by-Step Guide for Seamless Browsing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/improving-your-spotify-experience-by-protecting-recommendations-from-playlist-influence/"><u>Improving Your Spotify Experience by Protecting Recommendations From Playlist Influence</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-15-pro-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 15 Pro Max How to Bypass?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-openwizard-integration-with-kodi-top-tips-for-flawless-operation-efficient-backups-and-streamlined-maintenance/"><u>Mastering OpenWizard Integration with Kodi: Top Tips for Flawless Operation, Efficient Backups & Streamlined Maintenance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-video-compression-essential-techniques-and-methods-explained/"><u>Mastering Video Compression: Essential Techniques and Methods Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mikupaintpc/"><u>MikuPaintアプリ、PCとスマホで画面を記録する詳しいガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/movavi-video-editor-plus-walkthrough-effortlessly-converting-mpegx-files-into-mp4/"><u>Movavi Video Editor Plus Walkthrough: Effortlessly Converting MPEGX Files Into MP4</u></a></li>
 </ul></div>
 

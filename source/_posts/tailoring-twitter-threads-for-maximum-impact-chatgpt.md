@@ -1,7 +1,7 @@
 ---
 title: Tailoring Twitter Threads for Maximum Impact (ChatGPT)
-date: 2024-09-08T23:55:36.474Z
-updated: 2024-09-12T16:43:55.495Z
+date: 2024-09-11T23:45:40.588Z
+updated: 2024-09-18T01:07:59.149Z
 tags:
   - chatgpt
   - open-ai
@@ -48,22 +48,15 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. pay.chatgptftw.com
@@ -72,33 +65,20 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
@@ -107,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
@@ -122,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -157,16 +130,16 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-bargain-4k-camera-deals/"><u>[New] Best Bargain 4K Camera Deals</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-duel-masters-switch-edition-the-best-of-ten/"><u>[Updated] Duel Masters Switch Edition - The Best of Ten</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-guide-to-structuring-youtube-content-with-separate-chapters/"><u>[Updated] Guide to Structuring YouTube Content with Separate Chapters</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unleashing-the-power-of-tales-complimentary-apps-galore/"><u>[Updated] In 2024, Unleashing the Power of Tales Complimentary Apps Galore</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-how-to-record-webcam-and-screen-simultaneously/"><u>2024 Approved How to Record Webcam and Screen Simultaneously</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-artificamatic-intelligence-like-chatgpt-guide-you-towards-a-more-nourishing-diet/"><u>Can Artificamatic Intelligence, Like ChatGPT, Guide You Towards a More Nourishing Diet?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-artificial-intelligence-truly-humor-us-like-chatgpts-comedic-skills/"><u>Can Artificial Intelligence Truly Humor Us Like ChatGPT's Comedic Skills?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/empower-your-vision-with-chatgpts-artificial-intelligence-skills/"><u>Empower Your Vision with ChatGPT's Artificial Intelligence Skills</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-psd-overhaul-techniques-for-2024/"><u>Expert PSD Overhaul Techniques for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/paperclip-paradox-and-its-significance-in-ai-development/"><u>Paperclip Paradox and Its Significance in AI Development</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/persuasive-proposal-strategies-unveiled-enhance-your-skills-with-chatgpt-assistance/"><u>Persuasive Proposal Strategies Unveiled: Enhance Your Skills With ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-how-to-liberate-your-music-two-cost-free-techniques-for-bypassing-drm-on-m4p-files/"><u>1. How to Liberate Your Music: Two Cost-Free Techniques for Bypassing DRM on M4P Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-professional-ipod-video-transcoder-effortless-conversion-of-videos-for-all-ipod-models-including-ipod-touch-and-ipod-nano-series/"><u>1. Professional IPod Video Transcoder: Effortless Conversion of Videos for All iPod Models Including iPod Touch and iPod Nano Series</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-untapped-potential-to-augment-your-youtube-audience/"><u>2024 Approved Unveiling Untapped Potential to Augment Your Youtube Audience</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-14-plus-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 14 Plus Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fix-100-disk-usage-in-windows-10/"><u>How to Fix 100% Disk Usage in Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/probing-deep-into-inshots-editing-capabilities/"><u>Probing Deep Into InShot's Editing Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-instructions-for-prolonged-iphone-shots/"><u>The Ultimate Instructions for Prolonged iPhone Shots</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-premier-livestream-services-unveiled/"><u>Top 10 Premier Livestream Services Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-methods-for-converting-wav-files-to-wma-format-using-batch-processing-in-windows/"><u>Top Methods for Converting WAV Files to WMA Format Using Batch Processing in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-two-tricks-for-converting-oma-audio-to-free-mp3-without-hitches/"><u>Top Two Tricks for Converting OMA Audio to Free MP3 Without Hitches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-transform-your-videos-effortlessly-using-video-converter-factorys-no-cost-features/"><u>Ultimate Tutorial: Transform Your Videos Effortlessly Using Video Converter Factory's No-Cost Features</u></a></li>
 </ul></div>
 

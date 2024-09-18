@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Earnings with ChatGPT Side Jobs: Expert Guidance on Custom PC Assembly & Vintage Handheld Devices"
-date: 2024-09-08T09:20:00.158Z
-updated: 2024-09-12T22:29:37.527Z
+date: 2024-09-10T21:55:35.175Z
+updated: 2024-09-18T05:39:09.165Z
 tags:
   - chatgpt
   - open-ai
@@ -24,23 +24,9 @@ thumbnail: https://thmb.techidaily.com/e4beac8fff1e6ed1138983bf5a17ed77a249b1784
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT Can Help Cybercriminals Hack Your PC
 
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
 
@@ -52,29 +38,9 @@ thumbnail: https://thmb.techidaily.com/e4beac8fff1e6ed1138983bf5a17ed77a249b1784
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -87,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/e4beac8fff1e6ed1138983bf5a17ed77a249b1784
  For phishing, it’s mostly about volume. ChatGPT can help boost phishing campaigns as it can quickly pump out huge amounts of natural-sounding texts that are tailored to specific audiences.
 
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
 
@@ -118,19 +77,28 @@ thumbnail: https://thmb.techidaily.com/e4beac8fff1e6ed1138983bf5a17ed77a249b1784
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-use/"><u>[New] SNS HDR Pro Review Is It Worth Using and What Other HDR Software to Use?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-from-analog-archives-to-digital-epics-creating-videos-from-older-photographs/"><u>[Updated] 2024 Approved From Analog Archives to Digital Epics Creating Videos From Older Photographs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-thrift-in-tech-streaming-free-seminars-on-youtube/"><u>[Updated] 2024 Approved Thrift in Tech Streaming FREE Seminars on YouTube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-boost-your-snaps-techniques-for-enhanced-snapchat-zoom/"><u>2024 Approved Boost Your Snaps Techniques for Enhanced Snapchat Zoom</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-cost-effective-visual-integration-in-writing/"><u>2024 Approved Mastering Cost-Effective Visual Integration in Writing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/asus-proart-pa-329q-professional-4k-monitor-review-for-2024/"><u>Asus ProArt PA 329Q Professional 4K Monitor Review for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-right-llm-expert-a-comprehensive-guide-to-benefits-and-considerations/"><u>Choosing the Right LLM Expert: A Comprehensive Guide to Benefits & Considerations</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-s23-fe-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy S23 FE FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-5-bot-therapy-tools-for-mental-health-support/"><u>Innovative 5 Bot Therapy Tools for Mental Health Support</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigate-through-numbers-7-leading-ai-assistants-for-effective-math-problem-resolution/"><u>Navigate Through Numbers: 7 Leading AI Assistants for Effective Math Problem Resolution</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reimagining-the-job-landscape-with-ai-unveiling-7-key-changes-powered-by-generative-technologies/"><u>Reimagining the Job Landscape with AI: Unveiling 7 Key Changes Powered by Generative Technologies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/rethinking-the-cost-of-enhanced-ai-driven-creativity/"><u>Rethinking the Cost of Enhanced AI-Driven Creativity</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007888488-simple-fixes-for-persistent-outriders-game-crashes-get-back-in-action/"><u>Simple Fixes for Persistent Outriders Game Crashes - Get Back in Action!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-how-you-interact-with-text-top-angpliant-applications-using-chatgpt-for-deep-dive-analysis-of-your-pdfs/"><u>Transform How You Interact With Text: Top Angpliant Applications Using ChatGPT for Deep Dive Analysis of Your PDFs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-amd-gpu-revival-suite/"><u>[New] AMD GPU Revival Suite</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-history-on-your-flip-watching-old-fb-stories-for-2024/"><u>[Updated] History on Your Flip Watching Old FB Stories for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-roguelikes-roots-and-their-rebirth-as-roguiles/"><u>2024 Approved Roguelikes' Roots & Their Rebirth as Roguiles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/movgif/"><u>無料のソフトでMOVからGIFへ簡単変換方法</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/demystifying-the-advanced-features-in-vlc/"><u>Demystifying the Advanced Features in VLC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-hp-deskjet-printer-windows-10-driver-issues/"><u>Fix HP Deskjet Printer Windows 10 Driver Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-lava-blaze-pro-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Lava Blaze Pro 5G.</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-presentations-choosing-the-ideal-video-format-for-microsoft-powerpoint/"><u>Optimizing Presentations: Choosing the Ideal Video Format for Microsoft PowerPoint</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-video-compression-on-youtube-achieving-high-quality-streams-and-minimal-file-sizes/"><u>Optimizing Video Compression on YouTube: Achieving High-Quality Streams and Minimal File Sizes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pcurlmp4/"><u>PCでのURLからMP4へのシンプルな高解像度ビデオ変換手順</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-simple-methods-for-transforming-qt-video-format-into-high-quality-mp4/"><u>Quick & Simple Methods for Transforming QT Video Format Into High-Quality MP4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/speedy-uploads-mastered-unveiling-5-effortless-techniques-for-accelerating-your-youtube-video-publishing/"><u>Speedy Uploads Mastered: Unveiling 5 Effortless Techniques for Accelerating Your YouTube Video Publishing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-transforming-dvd-content-into-mp4-format-for-windows-users/"><u>Step-by-Step Guide: Transforming DVD Content Into MP4 Format for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-pick-reliable-solar-lantern-your-ideal-companion-for-camping-trips-and-unexpected-blackouts/"><u>Top Pick: Reliable Solar Lantern - Your Ideal Companion for Camping Trips and Unexpected Blackouts</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

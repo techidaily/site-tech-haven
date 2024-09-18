@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets: The Full Scope of Apple's AI Announcement at WWDC '24"
-date: 2024-09-06T20:37:35.185Z
-updated: 2024-09-13T04:00:49.828Z
+date: 2024-09-13T21:45:16.336Z
+updated: 2024-09-18T03:31:00.516Z
 tags:
   - chatgpt
   - open-ai
@@ -22,23 +22,9 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT and Smart Technology
 
 ![image of white google smart speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/white-smart-speaker.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Many of us associate ChatGPT with its chatbot interface that's used to get facts,[write resumes](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , translate text, and even tell jokes. ChatGPT can be applied in so many ways, but what about smart technology? Can ChatGPT work with your smartphone, smart speaker, and similar devices?
 
@@ -64,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
  In the above video, you'll see Josh being asked to open blinds, give the local weather forecast, and even provide sleep advice. Josh also answered more complex questions, like which museums in California feature Andy Warhol. While this is still a work in progress, there's a lot of potential for ChatGPT to show off its skills within smart homes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Using ChatGPT to Create a Smart Home Integration
 
  You can also[use ChatGPT to write code](https://www.makeuseof.com/best-vs-code-chatgpt-extensions/) for a smart home integration.
@@ -81,29 +60,22 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 ![chatgpt chat response featuring code example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-smart-code-0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see above, ChatGPT provided an example of integration code you can use with Home Assistant, as well as steps on how to get it working for you. You'll need to install the "python-openai" library, which first requires you to access your own ChatGPT API key.
 
  Below the code template are additional steps on how to personalize it to fit your preferences. This includes adding your API key and your ChatGPT assistant model ID.
 
 ![chatgpt smart home integration instructions in chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-smart-code-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With the Home Assistant tool, you can integrate ChatGPT into Google Nest. If you want to integrate into Alexa, ChatGPT offers instructions using the Alexa Skills Kit and AWS Lambda. To integrate into Cortana, ChatGPT can help you use code via the Bot Framework. Evidently, there are a lot of different smart home assistants that can function with ChatGPT's capabilities.
 
  However, you'll need some understanding of software code if you want to personalize ChatGPT's provided code templates quite a lot (e.g. if you want it to work with multiple smart assistants simultaneously).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using ChatGPT In Your Smart Home
 
@@ -116,16 +88,16 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
  But ChatGPT-enabled smart assistants may one day be widespread, allowing you to carry out all sorts of tasks using this nifty AI tool.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT May One Day Control Your Smart Home
@@ -149,12 +121,15 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-discover-tiktoks-leading-7-emoji-charms/"><u>[New] 2024 Approved Discover TikTok's Leading 7 Emoji Charms</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-crafting-captivating-facebook-biographies-a-comprehensive-guide/"><u>[Updated] In 2024, Crafting Captivating Facebook Biographies - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dev-life-altered-by-artificial-intelligence/"><u>Dev Life Altered by Artificial Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-can-you-tell-if-chatgpt-is-currently-unavailable-discover-5-methods/"><u>How Can You Tell if ChatGPT Is Currently Unavailable? Discover 5 Methods</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-10-sci-fi-vr-adventures-unveiling-distant-realities/"><u>In 2024, 10 Sci-Fi VR Adventures Unveiling Distant Realities</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-on-chip-machine-learning-insights-into-its-mechanics-and-applications/"><u>Navigating On-Chip Machine Learning: Insights Into Its Mechanics and Applications</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-hues-the-ultimate-guide-to-color-enhancement-11-steps/"><u>[New] Ideal Hues The Ultimate Guide to Color Enhancement (11 Steps)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-talent-passes-for-independent-film-viewing/"><u>2024 Approved Talent Passes for Independent Film Viewing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-photoshop-scratch-space-full-issue-quickly-and-easily/"><u>Fixing the 'Photoshop Scratch Space Full' Issue Quickly and Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-9-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nubia Red Magic 9 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-note-30-vip-racing-edition-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Note 30 VIP Racing Edition to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-biz-vault-services-for-data-for-2024/"><u>Prime Biz Vault Services for Data for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-for-bulk-transformation-of-wmv-videos-to-movies-the-mov-conversion-tutorial/"><u>Simple Steps for Bulk Transformation of WMV Videos to Movies - The MOV Conversion Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-to-reduce-your-videos-bitrate/"><u>Simple Steps to Reduce Your Video's Bitrate</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-opening-and-watching-mkv-videos-on-windows-7/"><u>Step-by-Step Guide: Opening and Watching MKV Videos on Windows 7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-recording-audio-with-background-music-in-windows/"><u>Step-by-Step Guide: Recording Audio with Background Music in Windows</u></a></li>
 </ul></div>
 
