@@ -1,7 +1,7 @@
 ---
 title: "Digital Dilemmas: Navigating Through 3 Chatbot Security Risks"
-date: 2024-09-14T21:32:24.366Z
-updated: 2024-09-17T20:24:06.769Z
+date: 2024-09-20T03:12:53.019Z
+updated: 2024-09-22T22:23:18.099Z
 tags:
   - chatgpt
   - open-ai
@@ -53,16 +53,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Raising Awareness Is Key
@@ -86,20 +80,21 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-your-roadmap-to-earning-on-tiktok-discover-these-top-8-approaches/"><u>[New] In 2024, Your Roadmap to Earning on TikTok Discover These Top 8 Approaches</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-windows-11-essential-steps-for-audio-recording-for-2024/"><u>[New] Windows 11 Essential Steps for Audio Recording for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-simple-techniques-for-effortless-undersea-vids/"><u>2024 Approved Unveiling Simple Techniques for Effortless Undersea Vids</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/2024-approved-vhs-vibes-made-easy-a-final-cut-pro-tutorial/"><u>2024 Approved VHS Vibes Made Easy A Final Cut Pro Tutorial</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/av1-triumph-surpassing-vp9-performance/"><u>AV1 Triumph Surpassing VP9 Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bringing-back-your-deleted-snapchat-tips-for-reactivation/"><u>Bringing Back Your Deleted Snapchat - Tips for Reactivation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/free-wma-to-aac-conversion-tools-for-windows-users-your-ultimate-guide/"><u>Free WMA to AAC Conversion Tools for Windows Users: Your Ultimate Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-easily-switch-from-ogg-to-m4r-format-top-4-free-tools-and-websites/"><u>How To Easily Switch From OGG to M4R Format - Top 4 Free Tools & Websites</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/hp-pc/"><u>HP PC向け動画編集ガイド</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ipadavchd/"><u>IPadへのAVCHDビデオインポート手順：互換性最大化ガイド</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/itunesflacmp3/"><u>ITunes上で再生可能なようにFLACファイルをMP3に最適化する手引き</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leading-stream-recorder-software-compared-best-picks-for-pcs-and-macs-plus-online-alternatives/"><u>Leading Stream Recorder Software Compared: Best Picks for PCs and Macs + Online Alternatives</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-10-methods-for-converting-your-dvd-files-into-mp4-format-on-pc-and-macos/"><u>Top 10 Methods for Converting Your DVD Files Into MP4 Format on PC and MacOS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-face-recognition-top-5-solutions-when-your-iphones-face-id-fails/"><u>Troubleshooting Face Recognition: Top 5 Solutions When Your iPhone's Face ID Fails</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-masterclass-in-brief-lapses-top-5-for-2024/"><u>[New] Masterclass in Brief Lapses #Top 5 for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-infinix-hot-40i-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Infinix Hot 40i FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-visual-excellence-with-the-best-4k-monitors-on-the-market-for-2024/"><u>Achieving Visual Excellence with the Best 4K Monitors on the Market for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/audio-free-video-capture-tips-for-your-computer-or-mobile-device/"><u>Audio-Free Video Capture Tips for Your Computer or Mobile Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-13-substitutes-for-kisscartoon-discover-where-to-watch-your-beloved-animations/"><u>Best 13 Substitutes for KissCartoon: Discover Where to Watch Your Beloved Animations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-free-tools-choosing-the-ideal-online-video-compression-software/"><u>Best Free Tools: Choosing the Ideal Online Video Compression Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-gopro-editing-tools-top-10-picks-for-windows-and-macos-users/"><u>Best GoPro Editing Tools: Top 10 Picks for Windows & macOS Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-video-resizing-tools-of-2023-ultimate-guide-to-adjusting-video-quality-on-your-computer-and-web/"><u>Best Video Resizing Tools of 2023: Ultimate Guide to Adjusting Video Quality on Your Computer & Web</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/blu-raydvd-rip-comparison-handbrake-or-makemkv-which-tool-wins-for-efficient-backup/"><u>Blu-Ray/DVD Rip Comparison - HandBrake or MakeMKV, Which Tool Wins for Efficient Backup?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-selection-of-4k-films-top-7-legitimate-torrent-sources-for-stunning-video-quality/"><u>Discover the Ultimate Selection of 4K Films: Top 7 Legitimate Torrent Sources for Stunning Video Quality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-honor-x8b-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Honor X8b Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-epson-gt-s50-printing-software-on-your-pc-running-windows-781nt/"><u>Install Epson GT-S50 Printing Software on Your PC Running Windows 7/8/1nT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-virality-essential-techniques-for-dominating-tiktok/"><u>Mastering Virality: Essential Techniques for Dominating TikTok</u></a></li>
+<li><a href="https://tools.techidaily.com/movavi/effects-store/"><u>Movavi Effects Store</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/peer-to-peer-fb-video-grabber/"><u>Peer-to-Peer FB Video Grabber</u></a></li>
 </ul></div>
 

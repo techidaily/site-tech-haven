@@ -1,7 +1,7 @@
 ---
 title: "The Rise in Popularity of AI Chatbots: An In-Depth Look at What Makes Them Special"
-date: 2024-09-14T21:40:28.141Z
-updated: 2024-09-17T16:10:58.944Z
+date: 2024-09-19T18:37:37.654Z
+updated: 2024-09-22T21:04:02.077Z
 tags:
   - chatgpt
   - open-ai
@@ -95,16 +95,10 @@ ChatGPT also cracked the problem as well.
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Coding Skills
@@ -117,18 +111,18 @@ ChatGPT also cracked the problem as well.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
@@ -155,19 +149,16 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-boosting-revenue-through-effective-facebook-video-marketing-for-2024/"><u>[New] Boosting Revenue Through Effective Facebook Video Marketing for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-cloaked-content-exploration-reading-instagram-stories-without-sharing-your-identity-for-2024/"><u>[New] Cloaked Content Exploration Reading Instagram Stories without Sharing Your Identity for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-power-of-personal-branding-in-making-money-on-snapchat/"><u>[New] The Power of Personal Branding in Making Money on Snapchat</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-max-360-vs-hero-11-discovering-the-gopro-video-champion/"><u>[Updated] 2024 Approved Max 360 Vs. Hero 11 - Discovering the GoPro Video Champion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028252690-windows/"><u>「Windowsフォト」ビデオ編集：動画トリミングのステップバイステップ方法</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028082321-youtube/"><u>「サーフェス上でYoutube動画を見ることができず再生しにくい時の解決策」</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726027777570-mp4/"><u>効果的なMP4ファイルの最適化手法 - 重量軽減ガイド</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/brightening-videos-android-tips/"><u>Brightening Videos Android Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726027348705-edge/"><u>Edgeスピーチトゥレコーディング手順: オフィスアシスタント向け</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevating-online-presence-how-to-flawlessly-transmit-upside-down-videos-on-youtube/"><u>Elevating Online Presence How to Flawlessly Transmit Upside-Down Videos on Youtube</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-itel-a70-frp-bypass-by-drfone-android/"><u>In 2024, About Itel A70 FRP Bypass</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/interactive-showcase-master-your-space-with-a-dell-display-elite-anc-earpiece-and-supersharp-web-cam/"><u>Interactive Showcase: Master Your Space with a Dell Display, Elite ANC Earpiece, and SuperSharp Web Cam</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726030316738-powerdirector/"><u>PowerDirector ビデオエクスポート手順と問題解決ガイド</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726030538268-wonderfox/"><u>WonderFoxアフィリエイト成功のための究極ガイド</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-from-ordinary-to-extraordinary-transform-your-facebook-profile-with-these-tips/"><u>[New] From Ordinary to Extraordinary Transform Your Facebook Profile with These Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-finding-top-8-free-reliable-srt-translator-picks-online/"><u>[Updated] 2024 Approved Finding Top 8 Free, Reliable SRT Translator Picks Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-expertise-in-editing-how-to-add-descriptive-texts-to-videos/"><u>[Updated] In 2024, Expertise in Editing How to Add Descriptive Texts to Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-the-latest-free-mov-codec-for-windows-10-installation-guide/"><u>Download the Latest Free Mov Codec for Windows 10 - Installation Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/downloadable-tutorial-convert-your-3gp-audio-to-premium-m4a-at-no-cost/"><u>Downloadable Tutorial: Convert Your 3GP Audio to Premium M4A at No Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-to-converting-trp-files-into-popular-formats-like-mp4-avi-mkv/"><u>Easy Guide to Converting TRP Files Into Popular Formats Like MP4, AVI, MKV</u></a></li>
+<li><a href="https://games-able.techidaily.com/geforce-nows-latest-pass-does-it-justify-excitement/"><u>GeForce Now's Latest Pass: Does It Justify Excitement?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-itel-a60s-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Itel A60s</u></a></li>
+<li><a href="https://driver-install.techidaily.com/preventing-issues-during-windows-drivers-deployment/"><u>Preventing Issues During Windows Drivers Deployment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-rainbow-six-siege-lag-for-better-gaming-experience/"><u>Troubleshooting Rainbow Six Siege Lag for Better Gaming Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-do-if-you-encounter-a-shelldll-not-present-error-message/"><u>What To Do If You Encounter a 'Shell.dll Not Present' Error Message</u></a></li>
 </ul></div>
 

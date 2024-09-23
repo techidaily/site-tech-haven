@@ -1,7 +1,7 @@
 ---
 title: "Recognizing Artificial Intelligence Illusions: Identifying AI Hallucinations"
-date: 2024-09-14T02:44:20.470Z
-updated: 2024-09-17T21:08:39.399Z
+date: 2024-09-17T17:00:55.683Z
+updated: 2024-09-22T22:26:43.183Z
 tags:
   - chatgpt
   - open-ai
@@ -49,11 +49,25 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
 
 So, how can you use this?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
 
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
@@ -61,27 +75,26 @@ So, how can you use this?
 
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, you're chatting with Canva until you click "X" on the**Talking to Canva** tab that will appear above the chat text box.
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
 
@@ -96,13 +109,6 @@ So, how can you use this?
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now, we have hotels, flights, and trails for our trip all in one chat!
 
@@ -123,18 +129,15 @@ Now, we have hotels, flights, and trails for our trip all in one chat!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-top-30-innovative-anime-concepts-for-viral-video-creators/"><u>[New] 2024 Approved Top 30 Innovative Anime Concepts for Viral Video Creators</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-understanding-and-implementing-audio-ebb-in-premiere-pro/"><u>[New] Understanding and Implementing Audio Ebb in Premiere Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlock-your-editing-potential-the-ultimate-guide-to-background-erasure-in-ps/"><u>[New] Unlock Your Editing Potential The Ultimate Guide to Background Erasure in PS</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-step-by-step-guide-for-updating-and-changing-social-video-covers/"><u>[Updated] 2024 Approved Step-by-Step Guide for Updating and Changing Social Video Covers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-snap-edit-and-share-with-ease-your-4-step-blueprint-for-instagram-gifs/"><u>2024 Approved Snap, Edit, and Share with Ease Your 4-Step Blueprint for Instagram GIFs</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-free-convert-videos-to-youtube-a-simple-guide-for-upload-and-sharing/"><u>How To Free Convert Videos To YouTube: A Simple Guide For Upload And Sharing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-locate-a-specific-youtube-ad-saving-techniques-revealed/"><u>How to Locate a Specific YouTube Ad: Saving Techniques Revealed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-optimizing-latency-for-real-time-obs-viewing/"><u>In 2024, Optimizing Latency for Real-Time OBS Viewing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/m4apcm/"><u>M4Aファイルの解説：アナログ、PCMへの変換手順</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-ios-media-playback-compatible-apps-and-tricks-for-streamlining-your-m4a-file-experience/"><u>Mastering iOS Media Playback: Compatible Apps and Tricks for Streamlining Your M4A File Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mpeg/"><u>MPEGフォーマット動画から高品質音声抽出テクニック</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/reviewing-the-impression-of-high-dynamic-range-on-aurora-tv/"><u>Reviewing the Impression of High Dynamic Range on Aurora TV</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-filming-in-circle-iphone-techniques-for-facebook-integration/"><u>[New] Filming in Circle IPhone Techniques for Facebook Integration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-forging-a-future-in-artistic-expression-and-commerce/"><u>[New] Forging a Future in Artistic Expression and Commerce</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-value-of-stability-in-photoshop-shake-reduction/"><u>[Updated] Unraveling the Value of Stability in Photoshop Shake Reduction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028729633-9tsu/"><u>「安全にダウンロード可能な9Tsu動画：ガイド」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/3g2/"><u>3G2ファイルをスムーズに再生する技術と、プレイバックが難しい場合の解決方法</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/direct-links-sending-fb-videos-via-whatsapp-for-2024/"><u>Direct Links Sending FB Videos via WhatsApp for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-faster-than-ever-revolutionary-methods-to-speed-up-fb-videos/"><u>In 2024, Faster Than Ever Revolutionary Methods to Speed Up FB Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-users-heres-how-to-fix-safari-image-load-failures-9-methods/"><u>IPhone Users! Here's How to Fix Safari Image Load Failures (9 Methods)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030290187-windows-pc/"><u>Windows PCで動画品質を上げるための解像度低減手順４通り</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030663443-gif/"><u>おすすめのアプリで効果的な写真からGIFへの変換方法</u></a></li>
 </ul></div>
 

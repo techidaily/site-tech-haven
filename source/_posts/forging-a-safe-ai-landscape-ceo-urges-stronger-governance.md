@@ -1,7 +1,7 @@
 ---
 title: "Forging a Safe AI Landscape: CEO Urges Stronger Governance"
-date: 2024-09-16T16:23:43.391Z
-updated: 2024-09-17T20:27:08.700Z
+date: 2024-09-20T16:37:59.736Z
+updated: 2024-09-22T23:39:24.435Z
 tags:
   - chatgpt
   - open-ai
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -92,20 +92,20 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-essential-recording-gear-for-environmentalists/"><u>[New] Essential Recording Gear for Environmentalists</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-rhythmripper-screen-recordings-review/"><u>[Updated] 2024 Approved RhythmRipper Screen Recordings Review</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-list-of-instagram-grid-making-software/"><u>2024 Approved The Ultimate List of Instagram Grid Making Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-honor-x8b-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Honor X8b Through Google Earth?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-uniting-zoom-and-skype-techniques-to-maximize-video-call-quality/"><u>In 2024, Uniting Zoom and Skype Techniques to Maximize Video Call Quality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-tips-for-streaming-high-efficiency-video-coding-hevc-content-on-hdtvs/"><u>Troubleshooting Tips for Streaming High-Efficiency Video Coding (HEVC) Content on HDTVs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-bin-editor-quickly-switch-bin-files-to-mp4-and-avi-formats-for-flawless-viewing-across-devices/"><u>Ultimate BIN Editor: Quickly Switch BIN Files to MP4 and AVI Formats for Flawless Viewing Across Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-nubia-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nubia FRP Bypass</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-video-downsampling-six-strategies-for-efficiently-shrinking-massive-videos/"><u>Ultimate Guide to Video Downsampling: Six Strategies for Efficiently Shrinking Massive Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-converting-your-dvds-into-mp4-format-using-vlc-media-player-on-windows/"><u>Ultimate Guide: Converting Your DVDs Into MP4 Format Using VLC Media Player on Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-enhancing-720p-videos-by-mastering-bitrate-selection/"><u>Ultimate Guide: Enhancing 720P Videos by Mastering Bitrate Selection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-on-converting-your-flv-media-to-the-portable-3gp-file-type/"><u>Ultimate Tutorial on Converting Your FLV Media to the Portable 3GP File Type</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows4/"><u>Windows環境におけるビデオカラーコレクション手順：4つの有効なテクニック</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-the-power-of-hashtags-on-instagram-now/"><u>[New] Mastering the Power of #Hashtags on Instagram Now</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-phones-speed-up-sound-essential-app-listing-for-2024/"><u>[Updated] Phones’ Speed Up Sound Essential App Listing for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweet-to-facebook-video-sharing-a-2023-perspective/"><u>[Updated] Tweet-to-Facebook Video Sharing A 2023 Perspective</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-5-instagram-strategies-for-aspiring-influencers-real-success-stories/"><u>2024 Approved Top 5 Instagram Strategies for Aspiring Influencers Real Success Stories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-avi-to-mp4-try-premium-features-of-avi-video-converter-with-trialpay/"><u>Download AVI to MP4: Try Premium Features of AVI Video Converter with TrialPay</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-popular-chinese-movies-from-these-secure-websites-without-hesitation/"><u>Download Popular Chinese Movies From These Secure Websites Without Hesitation!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dsd-dff-and-dsf-flac/"><u>DSD フォーマット (.dff & .dsf) を最適な音質のために FLAC 形式に変換する方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-methods-for-converting-mp4-files-to-jpeg-pictures-in-windows-operating-systems-1011/"><u>Easy Methods for Converting MP4 Files to JPEG Pictures in Windows Operating Systems (10/11)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-tutorial-how-to-integrate-and-use-the-skynet-plugin-with-kodi-streaming-platform/"><u>Easy Tutorial: How to Integrate and Use the SkyNet Plugin with Kodi Streaming Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-walkthrough-crafting-your-first-cd-with-windows-10-features/"><u>Easy Walkthrough: Crafting Your First CD with Windows 10 Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-mkv-viewing-in-vlc-tips-for-overcoming-the-mkv-file-not-supported-problem/"><u>Effortless MKV Viewing in VLC: Tips for Overcoming the ‘MKV File Not Supported’ Problem</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-daily-productivity-top-9-uses-of-chatgpt/"><u>Enhance Daily Productivity: Top 9 Uses of ChatGPT</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-realme-narzo-n55-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Realme Narzo N55 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
 </ul></div>
 

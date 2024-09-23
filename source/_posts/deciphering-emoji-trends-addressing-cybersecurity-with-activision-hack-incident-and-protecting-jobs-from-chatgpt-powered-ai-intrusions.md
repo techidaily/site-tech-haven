@@ -1,7 +1,7 @@
 ---
 title: Deciphering Emoji Trends, Addressing Cybersecurity with Activision Hack Incident, and Protecting Jobs From ChatGPT-Powered AI Intrusions
-date: 2024-09-16T19:46:47.459Z
-updated: 2024-09-17T16:34:57.190Z
+date: 2024-09-19T19:16:46.535Z
+updated: 2024-09-22T22:07:08.789Z
 tags:
   - chatgpt
   - open-ai
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
  You can adjust each prompyour chosen languageosing, and ChatGPT will do the rest.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Declare the Type of Text
@@ -77,6 +77,19 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
 * Translate \[text to translate\] to \[target language\]. The text to be translated is a \[military report | medical document | drug prescription\]
 
  The prompts above or similar ones help ChatGPT use relevant or industry-specific context when generating a translation. Although ChatGPT sometimes recognizes the right niche words to use for translation, you'll have to explicitly prompt it to do so using type declaration in some cases.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Use Style Transfer
 
@@ -97,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
  You might have to tweak and adjust the style you want, but the possibilities are effectively endless.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Account for Regional Differences
@@ -114,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
 ![ChatGPT translation accounting for regional differences in meaning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-translation-accounting-for-regional-differences-in-meaning.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We repeated the translation prompt but added hints about the speaker's origin and possible intent. ChatGPT changed the translation to "我要去踢橄榄球 (Wǒ yào qù tī gǎnlǎnqiú)," this time using "gǎnlǎnqiú" which is the Chinese term for American football and better reflects the potential intent of the speaker.
@@ -134,10 +147,10 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
  Translation summaries are great when you're trying to communicate but don't necessarily have time to get deep into learning the language immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Use a Fine-Tuned Instance of ChatGPT
@@ -153,13 +166,6 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
  You can also make ChatGPT translations more accurate by providing several large texts and their verified translations. You can then prompt ChatGPT to deduce the right translation of words and phrases from the provided samples and apply it when translating text involving a similar language pair. While you can use significantly longer texts to fine-tune ChatGPT translations, below is a short illustration of how it works using a short paragraph.
 
 ![Providing a parralel corpus of text for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/providing-a-parralel-corpus-of-text-for-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We achieved improved translation with every prompt without taking any further steps.
 
@@ -208,20 +214,20 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-advanced-methods-for-recording-in-adobe-presenter/"><u>[New] Advanced Methods for Recording in Adobe Presenter</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-exploring-hues-from-textbooks-to-canvas-for-2024/"><u>[New] Exploring Hues From Textbooks to Canvas for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-enhancing-your-social-presence-facebook-bios-101/"><u>[Updated] In 2024, Enhancing Your Social Presence Facebook Bios 101</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tial-elements-for-implementing-channel-banners-in-games/"><u>Essential Elements for Implementing Channel Banners in Games</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-a78-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo A78</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-on-creating-a-gif-from-your-favorite-youtube-video/"><u>Step-by-Step Guide on Creating a GIF From Your Favorite YouTube Video</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-adding-strikes-allsportz-recap-addons-to-your-kodi-matrix/"><u>Step-by-Step Guide: Adding Strike's AllSportz Recap Addons to Your Kodi Matrix</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-transferring-camcorder-footage-onto-a-dvd/"><u>Step-by-Step Guide: Transferring Camcorder Footage Onto a DVD</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-transforming-rmvb-file-type-into-high-quality-mp4-videos/"><u>Step-by-Step Guide: Transforming RMVB File Type Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-viewing-dvds-on-dell-laptops-using-windows-1011/"><u>Step-by-Step Tutorial for Viewing DVDs on Dell Laptops Using Windows 10/11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-three-step-guide-to-converting-video-clips-into-pictures/"><u>The Three-Step Guide to Converting Video Clips Into Pictures</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-computer-component-guide/"><u>Tom's Tech Reviews: Comprehensive Computer Component Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-recommended-wav-playback-software-options-for-windows-11-users/"><u>Top 6 Recommended WAV Playback Software Options for Windows 11 Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unpacking-the-wirecast-experience-and-its-rivals-for-2024/"><u>Unpacking the WireCast Experience & Its Rivals for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-drone-purchasing-made-easy-a-step-by-step-buyers-guide-for-2024/"><u>[New] Drone Purchasing Made Easy A Step-by-Step Buyer’s Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-innovative-ideas-for-snapad-success-in-business/"><u>[New] Innovative Ideas for SnapAd Success in Business</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-accurate-age-reporting-tips-for-perfecting-your-tiktok-profile/"><u>[Updated] 2024 Approved Accurate Age Reporting Tips for Perfecting Your TikTok Profile</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gopro4/"><u>「大幅にデータ容量を節約するGoProビデオ圧縮テクニック4つの解決策」</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-funimate-pro-activation-guide-for-android-users/"><u>2024 Approved Funimate Pro Activation Guide for Android Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplify-your-youtube-audience-three-livestream-strategies/"><u>Amplify Your YouTube Audience Three Livestream Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/designing-unique-instagram-post-cover-texts-for-2024/"><u>Designing Unique Instagram Post Cover Texts for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-audio-division-discover-the-best-software-for-cutting-mp3-files/"><u>Effortless Audio Division: Discover the Best Software for Cutting MP3 Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-transformation-switching-from-opus-to-wma-in-no-time/"><u>Effortless Transformation: Switching From Opus to WMA in No Time!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exclusive-limited-offer-grab-the-powerful-wonderfox-dvd-ripper-pro-at-unbeatable-prices/"><u>Exclusive Limited Offer: Grab the Powerful WonderFox DVD Ripper Pro at Unbeatable Prices!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-guide-simple-steps-for-switching-from-mp4-to-professional-aiff-audio-files/"><u>Free Guide: Simple Steps for Switching From MP4 to Professional AIFF Audio Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-mastering-the-basics-of-free-ipod-video-converter-factory-software/"><u>Guide: Mastering the Basics of Free iPod Video Converter Factory Software</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-90-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor 90 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-social-space-for-group-interaction-a-comparative-study/"><u>Navigating Social Space for Group Interaction: A Comparative Study</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/video-setup-made-simple-your-step-by-step-logitech-guide/"><u>Video Setup Made Simple Your Step-by-Step Logitech Guide</u></a></li>
 </ul></div>
 

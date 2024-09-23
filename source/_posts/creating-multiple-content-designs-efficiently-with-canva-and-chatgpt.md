@@ -1,7 +1,7 @@
 ---
 title: Creating Multiple Content Designs Efficiently with Canva & ChatGPT
-date: 2024-09-12T20:23:47.015Z
-updated: 2024-09-17T19:23:29.831Z
+date: 2024-09-19T17:33:24.298Z
+updated: 2024-09-23T00:40:22.862Z
 tags:
   - chatgpt
   - open-ai
@@ -67,6 +67,13 @@ Try to frame your intentions positively, with statements such as:
 
  It can be helpful to write down any useful suggestions you receive for future reference.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Start Your Meditation Session Using ChatGPT
 
  Now that you have defined your intentions, direct ChatGPT to prompt your meditation session in a way that reflects your needs. Use prompts like:
@@ -88,22 +95,22 @@ Try to frame your intentions positively, with statements such as:
 ![Screenshot of a ChatGPT response refining answers about meditation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-refining-answers-about-meditation.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Apply the ChatGPT Advice in Your Meditation Session
 
  Practice some of the suggestions, using everything you have learned from your interactions with ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Conclude Your Meditation Session With Breathing Exercises
 
@@ -112,13 +119,6 @@ Try to frame your intentions positively, with statements such as:
  Breathe deeply and take a few moments to return to your ordinary state. You could journal your responses to help you next time.
 
 ![Screenshot of a ChatGPT response to breathing exercise question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-breathing-exercise-question.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Set Future Goals Using ChatGPT for Guidance
 
@@ -133,16 +133,16 @@ Try to frame your intentions positively, with statements such as:
 ![Screenshot of a ChatGPT response to setting meditation goals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-setting-meditation-goals.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, you can combine these answers with advice from other sources, such as our list of[meditation apps to help you pause for a mindful moment on the go](https://www.makeuseof.com/meditation-apps-mindful-moment-on-go/) .
@@ -168,14 +168,19 @@ Try to frame your intentions positively, with statements such as:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-capture-and-share-live-to-the-max-with-4-pro-tips-on-fb-for-2024/"><u>[New] Capture and Share Live to The Max with 4 Pro Tips on FB for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-embed-a-custom-music-player-onto-your-tumblr-page-a-detailed-tutorial/"><u>How To Embed a Custom Music Player Onto Your Tumblr Page - A Detailed Tutorial</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-elevate-your-videography-mastering-the-dimensions/"><u>In 2024, Elevate Your Videography Mastering the Dimensions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/itunes-pc/"><u>ITunes PC用曲の追加方法とトラブルシューティング</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/lol/"><u>LoLリプレイを安全に保管するコツと、保存失敗時の迅速対策</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/restoring-sound-linkage-in-obs-broadcasts-for-2024/"><u>Restoring Sound Linkage in OBS Broadcasts for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tech-tips-for-smoothing-out-your-minecraft-pc-playtime-latest-fixes/"><u>Tech Tips for Smoothing Out Your Minecraft PC Playtime - Latest Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-causes-behind-invalid-directory-names-in-web-hosting/"><u>Troubleshooting: The Causes Behind Invalid Directory Names in Web Hosting</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/winxdvd-official-site-top-rated-dvd-ripper-and-video-transcoding-tool/"><u>WinXDVD Official Site - Top Rated DVD Ripper & Video Transcoding Tool</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elite-adventurers-playground-top-10-games-revealed/"><u>[New] Elite Adventurers' Playground – Top 10 Games Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-lens-selection-tips-for-vloggers-and-editors/"><u>[New] Ultimate Lens Selection Tips for Vloggers & Editors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-comedy-kings-and-queens-whos-tops/"><u>[Updated] 2024 Approved Comedy Kings and Queens Who's Tops?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-optimize-youtube-creations-a-guide-to-high-quality-visuals/"><u>[Updated] 2024 Approved Optimize YouTube Creations A Guide to High-Quality Visuals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-your-ultimate-compilation-budget-friendly-streamers-for-phones/"><u>2024 Approved Your Ultimate Compilation Budget-Friendly Streamers for Phones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-audio-file-exchange-upload-your-m4a-and-download-as-ogg-without-cost/"><u>Effortless Audio File Exchange - Upload Your M4A and Download as Ogg without Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-audio-file-transformation-convert-your-m4a-files-to-flv-without-costs-using-our-web-service/"><u>Effortless Audio File Transformation - Convert Your M4A Files to FLV Without Costs Using Our Web Service</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gratis-3gpp-inpakket-naar-wmv-online-verwerken-met-movavi-vrijetijd-bestemmen/"><u>Gratis 3GPP-Inpakket Naar WMV Online Verwerken Met Movavi - Vrijetijd Bestemmen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gratis-konvertieren-von-voc-dateien-mit-online-tool-movavi/"><u>Gratis Konvertieren Von VOC-Dateien Mit Online Tool - Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gratis-met-movavi-online-vervang-nef-images-naar-jpg-format/"><u>Gratis: Met Movavi Online Vervang NEF-Images Naar JPG-Format</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highlights-the-5-most-advanced-low-speed-recorders-for-2024/"><u>Highlights The 5 Most Advanced Low-Speed Recorders for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-nokia-150-2023-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Nokia 150 (2023)</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/qual-o-melhor-entre-7-zip-winrar-e-winzip-para-compactacao-e-descompactacao/"><u>Qual O Melhor Entre 7-Zip, WinRAR E WinZip Para Compactação E Descompactação?</u></a></li>
 </ul></div>
 

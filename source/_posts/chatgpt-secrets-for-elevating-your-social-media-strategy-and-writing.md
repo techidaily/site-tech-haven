@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Secrets for Elevating Your Social Media Strategy and Writing
-date: 2024-09-13T03:56:33.406Z
-updated: 2024-09-18T03:59:05.414Z
+date: 2024-09-21T00:55:52.343Z
+updated: 2024-09-23T02:04:07.577Z
 tags:
   - chatgpt
   - open-ai
@@ -67,13 +67,6 @@ You could use:
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -87,17 +80,10 @@ You could use:
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
@@ -112,9 +98,23 @@ You could use:
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
@@ -125,10 +125,10 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
@@ -160,18 +160,16 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-creating-immersive-iphone-360-reels-for-social-media/"><u>[New] 2024 Approved Creating Immersive iPhone 360 Reels for Social Media</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-a-youtube-future-scaling-up-or-staying-independent-for-2024/"><u>[Updated] Crafting a YouTube Future Scaling Up or Staying Independent for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/from-boredom-to-laughter-your-kinemaster-guide/"><u>From Boredom to Laughter Your KineMaster Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oneplus-11r-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From OnePlus 11R To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-optimizing-obs-for-otofb-mastery-guide/"><u>In 2024, Optimizing OBS for OToFB Mastery Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-6s-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 6s Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-the-science-of-verbal-recording-for-2024/"><u>Mastering the Science of Verbal Recording for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-lost-ark-play-overcoming-fps-decrease-for-a-seamless-adventure/"><u>Optimizing Lost Ark Play - Overcoming FPS Decrease for a Seamless Adventure</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-the-4gb-barrier-effective-strategies-to-expand-your-fat32-storage/"><u>Overcoming the 4GB Barrier: Effective Strategies to Expand Your FAT32 Storage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/preserving-top-quality-avchd-footage-during-transfer-to-premiere-pro-a-step-by-step-guide/"><u>Preserving Top-Quality AVCHD Footage During Transfer to Premiere Pro: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/resolving-handbrake-audio-desynchronization-a-step-by-step-guide/"><u>Resolving HandBrake Audio Desynchronization: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-conversion-transform-your-videos-into-high-quality-mp3s-in-minutes/"><u>Seamless Conversion: Transform Your Videos Into High-Quality MP3s in Minutes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-mavnox-build-addon-in-kodi-version-19-matrix/"><u>Step-by-Step Guide: Setting up MavNox Build Addon in Kodi Version 19 (Matrix)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclass-zooids-introduction-guide/"><u>[New] Masterclass Zooids Introduction Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-halloween-special-win-a-wonderfox-gift-pack-with-our-exclusive-youtube-and-nokia-video-transcoding-tools/"><u>1. Halloween Special: Win a WonderFox Gift Pack with Our Exclusive YouTube and Nokia Video Transcoding Tools!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-humorous-haven-gratuitous-meme-makers/"><u>2024 Approved Humorous Haven Gratuitous Meme Makers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-spotify-listening-swiftly-but-safely/"><u>2024 Approved Streamlining Spotify Listening - Swiftly but Safely</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028402050-dvd/"><u>市販DVDが動き出さない? ストレスなしでこの簡単対策を学べ</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/11microphone/"><u>最新ウィンドウズ 11でMicrophone録音手順詳細解説</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028303274-iphoneandroid/"><u>IPhone/Androidでカスタム着信メロディ設定: 従来の楽曲から自分だけの音源まで変更する完全ガイド</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/real-time-speech-processing-and-action-at-no-charge/"><u>Real-Time Speech Processing & Action at No Charge</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mlining-video-production-merging-youtube-editing-and-imovies-best-practices/"><u>Streamlining Video Production Merging YouTube Editing & iMovie's Best Practices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/youtube-bgm-bgid/"><u>YouTube BGM検出ツール: 効率的な動画BGミュージックID取得方法</u></a></li>
 </ul></div>
 

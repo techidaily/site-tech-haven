@@ -1,7 +1,7 @@
 ---
 title: The Limits of Turing Test in Today's AI Lands Market
-date: 2024-09-15T02:29:31.797Z
-updated: 2024-09-18T00:43:14.918Z
+date: 2024-09-21T19:36:17.169Z
+updated: 2024-09-23T01:00:49.606Z
 tags:
   - chatgpt
   - open-ai
@@ -94,13 +94,6 @@ ChatGPT also cracked the problem as well.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Claude AI: Coding Skills
 
  Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
@@ -111,24 +104,31 @@ ChatGPT also cracked the problem as well.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -149,18 +149,16 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-inshot-unveiled-assessing-its-edge-over-other-editors/"><u>[New] In 2024, InShot Unveiled Assessing Its Edge Over Other Editors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-in-action-a-screen-recorders-journey/"><u>[Updated] Capturing in Action A Screen Recorder's Journey</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-navigating-the-full-spectrum-of-storage-in-the-adobe-cloud-ecosystem/"><u>[Updated] Step by Step Navigating the Full Spectrum of Storage in the Adobe Cloud Ecosystem</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-comprehensive-hardware-guides-with-toms-hardware/"><u>Explore Comprehensive Hardware Guides with Tom's Hardware</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-your-listening-experience-ios-podcast-mastery/"><u>In 2024, Maximize Your Listening Experience IOS Podcast Mastery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/msda80dll-file-essentials-to-retain-or-not-to-retain/"><u>MSDA80DLL File Essentials: To Retain or Not to Retain?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-high-performance-pc-builds-the-toms-hardware-perspective/"><u>Navigating High-Performance PC Builds - The Tom's Hardware Perspective</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-bcm20702a0-driver-setup-for-windows-users/"><u>Step-by-Step BCM20702A0 Driver Setup for Windows Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-install-kodis-latest-update-leia-189-on-amazon-fire-tv-stick/"><u>Step-by-Step Tutorial: Install Kodi's Latest Update (Leia 18.9) on Amazon Fire TV Stick</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-1011dvdmp46/"><u>Windows 10/11用DVDからMP4への上質な変換手順：6つの方法</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-1011swf-swf/"><u>Windows 10/11用のSWFファイルプレーヤー導入方法 - SWF形式動画閲覧ガイド</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windowsmacwavmp3/"><u>Windows/Macで簡単にWAVファイルをMP3にリマスター - デジタル音楽変換ガイド</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windowsgif/"><u>Windows標準アプリケーションを使ってGIFファイルを手軽に作成する方法</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-renewal-of-photo-viewing-capabilities-in-windows-10-guide/"><u>[New] In 2024, Renewal of Photo Viewing Capabilities in Windows 10 - Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-eliminating-robotic-ratings-to-grow-views-for-2024/"><u>[Updated] Eliminating Robotic Ratings to Grow Views for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-10-best-action-cameras-for-diving-or-snorkelling/"><u>[Updated] Top 10 Best Action Cameras For Diving Or Snorkelling</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-high-def-capture-top-10-web-based-apps/"><u>2024 Approved High-Def Capture Top 10 Web-Based Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acer-xfa240-user-guide-prioritizing-performance-and-usability/"><u>Acer XFA240 User Guide: Prioritizing Performance and Usability</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpt-and-its-transformative-applications-in-the-world-of-advanced-generative-ai/"><u>Exploring ChatGPT & Its Transformative Applications in the World of Advanced Generative AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-counterfeit-chatgpt-mobile-applications-in-the-ios-marketplace/"><u>Identifying Counterfeit ChatGPT Mobile Applications in the iOS Marketplace</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-tecno-phantom-v-fold-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Tecno Phantom V Fold to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-top-10-best-meme-templates/"><u>In 2024, Top 10 Best Meme Templates</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/picking-the-perfect-partner-which-is-better-claude-or-chatgpt-for-daily-interactions/"><u>Picking the Perfect Partner: Which Is Better, Claude or ChatGPT for Daily Interactions?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/take-your-chatgpt-skills-further-unleashing-power-through-5-lesser-known-attributes/"><u>Take Your ChatGPT Skills Further: Unleashing Power Through 5 Lesser-Known Attributes</u></a></li>
 </ul></div>
 

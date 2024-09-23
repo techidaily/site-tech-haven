@@ -1,7 +1,7 @@
 ---
 title: "The Quest for the Unbeatable Test: New Age of Intelligence"
-date: 2024-09-13T03:50:58.311Z
-updated: 2024-09-17T19:45:26.639Z
+date: 2024-09-15T18:07:24.630Z
+updated: 2024-09-22T21:05:33.729Z
 tags:
   - chatgpt
   - open-ai
@@ -63,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
  When any new AI model is launched, it is tested against OpenAI's GPT AI models, which are generally accepted as the state-of-the-art model other models should be held up against. So, using Bard and ChatGPT, we tested Gemini's ability in math, creative writing, code generation, and accurately processing image inputs.
@@ -72,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
  Bard went first. We repeated the question twice, all coming back with wrong answers. We did get the answer on the third attempt, but that doesn't count.
 
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
@@ -92,6 +92,13 @@ Here's the source screenshot.
 
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
@@ -101,32 +108,25 @@ Here's the source screenshot.
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
@@ -152,21 +152,15 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-complete-manual-of-adding-captions-on-vimeo/"><u>[New] In 2024, The Complete Manual of Adding Captions on Vimeo</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-video-directors-ultimate-companion-powerdirector-full-review/"><u>[New] In 2024, Video Directors' Ultimate Companion - PowerDirector Full Review</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-10-screen-recorders-for-mac/"><u>[Updated] 2024 Approved Best 10 Screen Recorders for Mac</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-optimize-viewing-the-finest-html5-video-solutions/"><u>[Updated] 2024 Approved Optimize Viewing The Finest HTML5 Video Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-apples-finest-free-apps-to-perfect-your-selfies/"><u>[Updated] Apple's Finest FREE Apps to Perfect Your Selfies</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-instagram-live-via-obs-technology/"><u>[Updated] In 2024, Instagram Live via OBS Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-palette-primer-compreenasive-guide-to-coloring/"><u>[Updated] The Palette Primer Compreenasive Guide to Coloring</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-twist-tactics-achieving-angles-that-stand-out-on-social-media-for-2024/"><u>[Updated] Twist Tactics Achieving Angles That Stand Out on Social Media for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimizing-seamless-video-streaming-top-solutions-beyond-smoothvideo-project/"><u>Optimizing Seamless Video Streaming: Top Solutions Beyond SmoothVideo Project</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pandora-tv/"><u>Pandora TVの映像をクリアな解像度でダウンロードする方法</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-and-simple-guide-how-to-transcode-avchd-files-into-mkv-format/"><u>Quick & Simple Guide: How to Transcode AVCHD Files Into MKV Format</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-transition-converting-ac3-files-into-mp3-format/"><u>Seamless Transition: Converting AC3 Files Into MP3 Format</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/share-your-favorite-trick-convert-and-upload-videos-from-iphoneipad-to-youtube-with-our-top-rated-app/"><u>Share Your Favorite Trick - Convert and Upload Videos From iPhone/iPad to YouTube with Our Top-Rated App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sonic-evaluator-uncover-authentic-audio-integrity-for-superior-sound-experience/"><u>Sonic Evaluator - Uncover Authentic Audio Integrity for Superior Sound Experience</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-14-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 14 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/powerdirector-youtube/"><u>レフトクリップからPowerdirectorロゴを簡単に取り除く手順 - YouTube動画編集のヒント</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-imagescope-critique-platform/"><u>[New] In 2024, ImageScope Critique Platform</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-the-undisclosed-terrain-of-youtube-archives/"><u>[New] In 2024, Navigating the Undisclosed Terrain of YouTube Archives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-endless-video-recording-program/"><u>2024 Approved Endless Video Recording Program</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-find-x7-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo Find X7 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978066376-get-the-latest-lenovo-thinkpad-drivers-for-optimal-performance-guaranteed-secure/"><u>Get the Latest Lenovo ThinkPad Drivers for Optimal Performance – Guaranteed Secure</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-conversational-ai-discover-6-innovative-ways-to-use-chatgpts-code-interpretation-skills/"><u>Harnessing Conversational AI: Discover 6 Innovative Ways to Use ChatGPT's Code Interpretation Skills</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-prevent-time-limited-window-locks/"><u>How to Prevent Time-Limited Window Locks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-linkedin-posts-with-chatgpt-techniques/"><u>Optimizing LinkedIn Posts with ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-plan-for-chatgpt-plug-in-success/"><u>The Ultimate Plan for ChatGPT Plug-In Success</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-15-plus-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 15 Plus</u></a></li>
 </ul></div>
 

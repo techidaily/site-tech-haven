@@ -1,7 +1,7 @@
 ---
 title: "Innovative AI Techniques: Crafting Epic D&D Characters with ChatGPT and DALL-E"
-date: 2024-09-17T05:28:39.050Z
-updated: 2024-09-18T01:49:06.338Z
+date: 2024-09-20T17:00:45.673Z
+updated: 2024-09-23T00:21:07.327Z
 tags:
   - chatgpt
   - open-ai
@@ -76,16 +76,16 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Strength Training Plans From ChatGPT
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Likewise, ChatGPT’s general strength training plan is also pretty dependable, calling for bodyweight exercises like squats and push-ups as well as dumbbell rows. It’s similar to what you might find from[top strength-training apps](https://www.makeuseof.com/best-weightlifting-apps/) .
 
@@ -93,16 +93,16 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
 ![ChatGPT deadlifts prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-deadlifts-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this example, I received detailed instructions on the correct way to do deadlifts. It offered helpful pointers about your stance, grip, and even breathing techniques in order to make the most of this particular exercise.
 
  If you ever need to double-check the way to perform a certain exercise, or simply try out a new series of strength workouts, then ChatGPT is a helpful resource. The simple, straightforward responses and training plans offer a lot of information for beginner and more experienced athletes looking to increase their strength. Just be sure to verify the information with reputable sources before you take ChatGPT's advice.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## It's Possible to Use ChatGPT to Help With Your Fitness Goals
 
@@ -123,20 +123,14 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-app-review-with-az-screenshotter/"><u>[New] 2024 Approved Ultimate App Review with AZ Screenshotter</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-superior-5-android-screenshot-and-video-tools-reviewed-for-2024/"><u>[New] Superior 5 Android Screenshot and Video Tools Reviewed for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-xbox-extra-storage-options-best-5-ranked-list-for-2024/"><u>[New] Xbox Extra Storage Options Best 5 Ranked List for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iuoajoamhpluswqjeobleocjoobnpluss6uuejqeobrumfspluswjsoakuea2idrli5xnllvnt6jpm4bjgafkvbjgyjjgovmnidmlrdjg4bjgqjg4vjg4pjgqjgi0i/"><u>「指名された人物の音声抹消:動画編集で使える最新テクニック」</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-comprehensive-guide-to-rl-streaming-setup/"><u>2024 Approved Comprehensive Guide to RL Streaming Setup</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-heif-encoders-top-4-picks-for-optimal-image-quality-and-performance/"><u>Best Heif Encoders: Top 4 Picks for Optimal Image Quality & Performance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-leading-5-email-security-solutions-to-protect-your-privacy/"><u>Discover the Leading 5 Email Security Solutions to Protect Your Privacy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/freemake/"><u>Freemakeを利用してダウンロード失敗する原因と対処法</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/hassle-free-tutorial-on-transposing-vttsrt-subtitles-for-seamless-editing/"><u>Hassle-Free Tutorial on Transposing VTT/SRT Subtitles for Seamless Editing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-incorporate-soundtracks-into-your-videos-using-vlc-media-player/"><u>How to Incorporate Soundtracks Into Your Videos Using VLC Media Player</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-photo-purity-with-picart/"><u>In 2024, Master the Art of Photo Purity with PicArt</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone-androidyoutube-music/"><u>IPhone / Androidで使用するためのYouTube Musicからの最適な着信メロディ選び方</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone/"><u>IPhoneで動画から高品質音声への変換テクニック</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-most-massive-lifting-machines-in-the-sky-for-2024/"><u>The Most Massive Lifting Machines in the Sky for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-exploring-the-best-audio-blending-software-top-picks-free-of-charge-in-2024/"><u>Updated Exploring the Best Audio Blending Software - Top Picks , Free of Charge, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-insights-on-engaging-top-tier-visual-storytellers/"><u>[Updated] Insights on Engaging Top-Tier Visual Storytellers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-perfect-photos-on-iphone-illumination-secrets/"><u>[Updated] Perfect Photos on IPhone Illumination Secrets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-the-12-step-youtube-seo-guide-for-beginners-who-want-more-views/"><u>[Updated] The 12-Step YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971714850-effortless-setup-with-behringers-professional-usb-audio-driver-start-here/"><u>Effortless Setup with Behringer's Professional USB Audio Driver - Start Here!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-vivo-y27s-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo Y27s Face Lock?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mp4-to-flv-conversion-guide-step-by-step-instructions/"><u>MP4 to FLV Conversion Guide - Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/p90x3-dvd-iphone6/"><u>P90X3 DVDフォームロジック コレクション - iPhone6へ安全な書き戻し方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mp4-mts3/"><u>スマホとパソコンでも使える無料MP4変換器 - MTSファイル対応のベスト3・・・今すぐ始めよう!</u></a></li>
 </ul></div>
 

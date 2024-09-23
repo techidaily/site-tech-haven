@@ -1,7 +1,7 @@
 ---
 title: Tailoring Twitter Threads for Maximum Impact (ChatGPT)
-date: 2024-09-11T23:45:40.588Z
-updated: 2024-09-18T01:07:59.149Z
+date: 2024-09-16T00:18:34.618Z
+updated: 2024-09-22T18:59:04.274Z
 tags:
   - chatgpt
   - open-ai
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. pay.chatgptftw.com
@@ -70,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. AI Photo
@@ -86,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Trojan-PSW.Win64.Fobo
 
  Kaspersky researchers discovered that cybercriminals were using a fake ChatGPT desktop client for Windows to distribute a stealer Trojan. The Trojan, dubbed Trojan-PSW.Win64.Fobo, if installed on the user’s computer, can steal account details stored in various browsers, including Chrome, Edge, Firefox, and Brave.
@@ -102,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -130,16 +130,13 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/1-how-to-liberate-your-music-two-cost-free-techniques-for-bypassing-drm-on-m4p-files/"><u>1. How to Liberate Your Music: Two Cost-Free Techniques for Bypassing DRM on M4P Files</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-professional-ipod-video-transcoder-effortless-conversion-of-videos-for-all-ipod-models-including-ipod-touch-and-ipod-nano-series/"><u>1. Professional IPod Video Transcoder: Effortless Conversion of Videos for All iPod Models Including iPod Touch and iPod Nano Series</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-untapped-potential-to-augment-your-youtube-audience/"><u>2024 Approved Unveiling Untapped Potential to Augment Your Youtube Audience</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-14-plus-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 14 Plus Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-fix-100-disk-usage-in-windows-10/"><u>How to Fix 100% Disk Usage in Windows 10</u></a></li>
-<li><a href="https://extra-information.techidaily.com/probing-deep-into-inshots-editing-capabilities/"><u>Probing Deep Into InShot's Editing Capabilities</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-instructions-for-prolonged-iphone-shots/"><u>The Ultimate Instructions for Prolonged iPhone Shots</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-10-premier-livestream-services-unveiled/"><u>Top 10 Premier Livestream Services Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-methods-for-converting-wav-files-to-wma-format-using-batch-processing-in-windows/"><u>Top Methods for Converting WAV Files to WMA Format Using Batch Processing in Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-two-tricks-for-converting-oma-audio-to-free-mp3-without-hitches/"><u>Top Two Tricks for Converting OMA Audio to Free MP3 Without Hitches</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-transform-your-videos-effortlessly-using-video-converter-factorys-no-cost-features/"><u>Ultimate Tutorial: Transform Your Videos Effortlessly Using Video Converter Factory's No-Cost Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-everything-about-facebook/"><u>[New] In 2024, Everything About Facebook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-10-superior-video-text-enhancements/"><u>2024 Approved 10 Superior Video Text Enhancements</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-no-more-hassle-record-games-like-pros/"><u>2024 Approved No More Hassle Record Games Like Pros</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013514968-diagnosing-and-repairing-minecraft-launchers-0x80amoor-windows-1110-users-heres-how/"><u>Diagnosing and Repairing Minecraft Launcher's 0X80amoor: Windows 11/10 Users, Here's How!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-masterfully-transfer-movies-and-videos-onto-your-ipod-a-comprehensive-list-of-the-top-8-tools/"><u>How to Masterfully Transfer Movies and Videos Onto Your iPod: A Comprehensive List of the Top 8 Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-successfully-add-mkv-content-to-your-hitfilm-projects-a-comprehensive-tutorial/"><u>How to Successfully Add MKV Content to Your Hitfilm Projects: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-transform-dav-media-files-into-avi-and-mp4-with-the-leading-software/"><u>How to Transform DAV Media Files Into AVI & MP4 with the Leading Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-iphone-tips-change-image-dimensions-proficiently/"><u>In 2024, Expert iPhone Tips Change Image Dimensions Proficiently</u></a></li>
 </ul></div>
 

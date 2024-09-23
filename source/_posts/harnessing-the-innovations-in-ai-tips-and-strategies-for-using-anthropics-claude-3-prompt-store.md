@@ -1,7 +1,7 @@
 ---
 title: "Harnessing the Innovations in AI: Tips and Strategies for Using Anthropic's Claude 3 Prompt Store"
-date: 2024-09-17T04:23:03.831Z
-updated: 2024-09-18T04:38:04.718Z
+date: 2024-09-17T00:46:13.415Z
+updated: 2024-09-22T21:31:25.138Z
 tags:
   - chatgpt
   - open-ai
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
@@ -92,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
@@ -106,14 +106,14 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
- Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
 ## 6 Upload Images or Files (if Available)
 
@@ -148,17 +148,18 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/rowess-in-phrasing-best-tags-for-gamer-videos-for-2024/"><u>[New] Prowess in Phrasing Best Tags for Gamer Videos for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/abematv/"><u>AbemaTVコンテンツを効率よく記録・保存するためのガイド</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-free-and-premium-mts-video-converters-in-2er-2024-ideal-picks-for-windows-11-enthusiasts/"><u>Best Free & Premium MTS Video Converters in 2Er 2024: Ideal Picks for Windows 11 Enthusiasts</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/breakthrough-earbuds-best-of-the-year-2024/"><u>Breakthrough Earbuds - Best of the Year 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/buy-factorypro-the-ultimate-ipad-video-editor-safe-and-free-return-policy/"><u>Buy FactoryPro: The Ultimate iPad Video Editor - Safe and Free Return Policy</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-6-plus-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 6 Plus</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/how-to-achieve-lightning-fast-periscope-transmission/"><u>How to Achieve Lightning-Fast Periscope Transmission</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-how-to-record-video-on-google-hangouts/"><u>In 2024, How to Record Video on Google Hangouts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/quality-movie-maker-turn-everyday-video-clips-into-high-quality/"><u>Quality Movie Maker Turn Everyday Video Clips Into High Quality</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-video-animation-tools-and-techniques-for-efficient-gif-making-for-2024/"><u>YouTube Video Animation Tools and Techniques for Efficient Gif Making for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/44gp44gg44ke44gj44gm44k744kk44og44o844ow5yuv55s744ks5a6j5ywo44gr44oa44km44oz44ot44o844oj44gz44kl44gl77yf/"><u>どうやってセイムーブ動画を安全にダウンロードするか？</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-8-most-advanced-open-video-call-systems-for-the-workplace-for-2024/"><u>[New] The 8 Most Advanced Open Video Call Systems for the Workplace for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-basics-to-brilliance-a-comprehensive-guide-to-polarr/"><u>[Updated] From Basics to Brilliance A Comprehensive Guide to Polarr</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-securing-a-stable-stream-of-earnings-on-youtube/"><u>2024 Approved Securing a Stable Stream of Earnings on YouTube</u></a></li>
+<li><a href="https://network-issues.techidaily.com/efficient-methods-refreshing-intel-drivers-on-windows-7-pcs/"><u>Efficient Methods: Refreshing Intel Drivers on Windows 7 PCs</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-peeking-behind-the-curtain-of-virtual-reality-pros-and-cons/"><u>In 2024, Peeking Behind the Curtain of Virtual Reality Pros & Cons</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-top-10-most-watched-music-videos-on-fb/"><u>In 2024, Top 10 Most Watched Music Videos on FB</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/most-effective-hd-dvd-ripper-tools-for-windows-11-expert-picks-2024/"><u>Most Effective HD DVD Ripper Tools for Windows 11 - Expert Picks 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prores-video-format-compatible-download-and-installation-for-windows-10-and-11/"><u>ProRes Video Format: Compatible Download and Installation for Windows 10 & 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-tips-to-switch-input-languages-within-the-kodi-media-center/"><u>Quick Tips to Switch Input Languages Within the Kodi Media Center</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-fix-for-your-footage-discover-the-ultimate-fast-compression-softwares-for-gopro-videos/"><u>Quick-Fix for Your Footage: Discover the Ultimate Fast-Compression Softwares for GoPro Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-issues-with-non-playing-instagram-footage-a-step-by-step-guide/"><u>Resolving Issues with Non-Playing Instagram Footage: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reviving-gpus-effortlessly-using-ddu/"><u>Reviving GPUs Effortlessly Using DDU</u></a></li>
 </ul></div>
 

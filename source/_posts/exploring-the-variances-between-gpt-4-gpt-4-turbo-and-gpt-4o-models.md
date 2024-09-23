@@ -1,7 +1,7 @@
 ---
 title: Exploring the Variances Between GPT- 4, GPT-4 Turbo & GPT-4o Models
-date: 2024-09-17T02:11:20.760Z
-updated: 2024-09-17T23:17:43.734Z
+date: 2024-09-21T20:31:41.080Z
+updated: 2024-09-22T18:35:22.857Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can[identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
@@ -61,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
@@ -84,10 +84,16 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. AI Classification Framework
@@ -95,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
@@ -126,20 +132,13 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-reviving-the-gone-retrieving-former-reddit-discussions/"><u>[New] Reviving the Gone Retrieving Former Reddit Discussions</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-ultimate-conversational-ais-on-discord/"><u>[Updated] In 2024, Ultimate Conversational AIs on Discord</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-20245/"><u>1. 『2024』最新リリース！日本語設定可能な人気無料動画編集ツール5つをご紹介</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-simple-guide-seamlessly-transforming-avi-videos-into-ios-device-compatible-formats/"><u>1. Simple Guide: Seamlessly Transforming AVI Videos Into iOS Device Compatible Formats</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/a-user-friendly-guide-to-leveraging-windows-10-and-zoom-for-2024/"><u>A User-Friendly Guide to Leveraging Windows 10 and Zoom for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-nubia-red-magic-9-proplus-lock-screen-password-by-drfone-android/"><u>How to Reset your Nubia Red Magic 9 Pro+ Lock Screen Password</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/rtl8188cu-chipset-drivers-download-and-installation-guide-for-windows-11-and-windows-7/"><u>RTL8188CU Chipset Drivers: Download & Installation Guide for Windows 11 and Windows 7</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-complete-2024-roller-champions-crossplayers-handbook-tips-and-tricks/"><u>The Complete 2024 Roller Champions Crossplayer's Handbook: Tips and Tricks</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-ranking-smartwatches-to-buy-a-comprehensive-guide/"><u>Top-Ranking Smartwatches to Buy : A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-choosing-superior-fitness-dvds-for-efficient-slimming-and-health-maintenance/"><u>Ultimate Guide to Choosing Superior Fitness DVDs for Efficient Slimming and Health Maintenance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-for-integrating-the-nemesis-aio-extension-into-kodi-version-20-and-19-systems/"><u>Ultimate Tutorial for Integrating the Nemesis AIO Extension Into Kodi Version 20 and 19 Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-your-inner-beauty-get-started-with-easy-diy-makeup-lessons-from-the-web/"><u>Unleash Your Inner Beauty: Get Started with Easy DIY Makeup Lessons From the Web!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-10mp3wavempe/"><u>Windows 10専用の無料MP3変換ツールとして人気のwavempeがある</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-10mp3/"><u>Windows 10スタンダードエディションのメディアプレイヤーを使ったMP3ファイル編集手順</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-subscriber-sequence-strategizing-success-on-youtube/"><u>2024 Approved The Subscriber Sequence Strategizing Success on YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-updated-hp-officejet-4655-printing-drivers-fresh-installation-packs/"><u>Get Updated HP OfficeJet 4655 Printing Drivers - Fresh Installation Packs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagrams-essential-edits-the-definitive-list-of-apps/"><u>In 2024, Instagram's Essential Edits The Definitive List of Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-simple-guide-how-to-transcode-avchd-files-into-mkv-format/"><u>Quick & Simple Guide: How to Transcode AVCHD Files Into MKV Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-transition-converting-ac3-files-into-mp3-format/"><u>Seamless Transition: Converting AC3 Files Into MP3 Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/share-your-favorite-trick-convert-and-upload-videos-from-iphoneipad-to-youtube-with-our-top-rated-app/"><u>Share Your Favorite Trick - Convert and Upload Videos From iPhone/iPad to YouTube with Our Top-Rated App</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-guide-converting-youtube-videos-to-high-quality-mp3-files-using-4k-youtube-to-mp3-or-other-reliable-tools/"><u>Step-by-Step Guide: Converting YouTube Videos to High-Quality MP3 Files Using 4K YouTube to MP3 or Other Reliable Tools</u></a></li>
 </ul></div>
 

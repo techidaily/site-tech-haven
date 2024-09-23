@@ -1,7 +1,7 @@
 ---
 title: "The Roadmap to Safe Innovation: Defining and Implementing AI Supervision Standards"
-date: 2024-09-12T05:21:54.379Z
-updated: 2024-09-17T22:41:03.339Z
+date: 2024-09-15T20:02:32.915Z
+updated: 2024-09-22T21:19:22.962Z
 tags:
   - chatgpt
   - open-ai
@@ -57,11 +57,25 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Google Gemini AI
 
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to[bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
@@ -77,19 +91,6 @@ We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
 
  We tried another attempt at making it interpret an image while testing its problem-solving and coding ability. We gave Bard, running Gemini Pro, a screenshot and asked it to interpret and write HTML and CSS code to replicate the screenshot.
@@ -98,27 +99,27 @@ Here's the source screenshot.
 
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
@@ -129,13 +130,6 @@ Here's the source screenshot.
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
 
@@ -158,16 +152,19 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-high-end-vector-sites-ranked-1-to-10/"><u>[New] High-End Vector Sites Ranked 1 to 10</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-epic-virtual-realms-finest-10-budget-friendly-mmorpgs/"><u>[New] In 2024, Epic Virtual Realms Finest 10 Budget-Friendly MMORPGs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-for-mac-gif-capturing-expert-reviews-for-2024/"><u>[Updated] Top 10 for Mac GIF Capturing Expert Reviews for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726029196831-powerpoint/"><u>「ビデオの切り取りに失敗した場合、PowerPointでの別解決法」</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-how-to-disable-auto-recommended-podcast-features-in-spotify/"><u>2024 Approved How to Disable Auto-Recommended Podcast Features in Spotify</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726029812803-mtsm2ts/"><u>転送不要：シンプルな手順でMTS/M2TSファイルからオーディオを取り出せます</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oneplus-12r-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost OnePlus 12R for Free? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-discover-and-collect-free-instagram-filters-through-search/"><u>In 2024, Discover & Collect Free Instagram Filters Through Search</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726029005733-iphone/"><u>IPhoneで動画のオーディオ設定を変更 - ノイズレス視聴テクニック</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726029058147-mkv/"><u>MKVビデオの音が出ない件: 原因分析と解決策</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/who-are-tiktoks-10-most-popular-game-creators-in-2024/"><u>Who Are TikTok’s 10 Most Popular Game Creators, In 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-stepwise-guide-to-leveraging-picture-in-picture-feature-on-microsoft-edge-for-2024/"><u>[New] Stepwise Guide to Leveraging Picture-in-Picture Feature on Microsoft Edge for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030138039-youtube/"><u>無料で楽しむためのYoutube動画ダウンロードテクニック</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/alternatives-to-adobe-premiere-pro-for-multi-monitor-editing-efficiency/"><u>Alternatives to Adobe Premiere Pro for Multi-Monitor Editing Efficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-trust-4k-video-downloader-for-hd-content-conversion/"><u>Can You Trust 4K Video Downloader for HD Content Conversion?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/convert-itunes-media-to-high-quality-mp4-files-a-step-by-step-guide/"><u>Convert iTunes Media to High-Quality MP4 Files: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cprmwindows11-2024/"><u>CPRM解除フリーソフトを使って、Windows11で最適化された音楽体験 - 2024年のオススメ</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-and-enable-hevc-video-codec-at-no-cost-on-windows-1nce/"><u>Download and Enable HEVC Video Codec at No Cost on Windows 1Nce</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/effortless-bulk-transformation-from-flac-to-wav-format-for-windows-users/"><u>Effortless Bulk Transformation From FLAC to WAV Format for Windows Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-sound-strategies-tailoring-your-microphone-to-align-with-your-youtube-channel/"><u>In 2024, Sound Strategies Tailoring Your Microphone to Align With Your YouTube Channel</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sony-afeela-car-breaking-down-latest-rumors-on-release-date-and-pricing/"><u>Sony Afeela Car - Breaking Down Latest Rumors on Release Date & Pricing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-youtube-comeback-kid-jake-pauls-story-for-2024/"><u>The YouTube Comeback Kid Jake Paul’s Story for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-over-chrome-plugin-loading-problems-on-windows-10-a-comprehensive-guide/"><u>Winning Over Chrome Plugin Loading Problems on Windows 10 - A Comprehensive Guide</u></a></li>
 </ul></div>
 

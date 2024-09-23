@@ -1,7 +1,7 @@
 ---
 title: "Historical Insights: Pinpointing When Artificial Neural Networks Came to Be"
-date: 2024-09-16T16:36:58.180Z
-updated: 2024-09-17T16:45:23.559Z
+date: 2024-09-20T00:29:49.825Z
+updated: 2024-09-23T01:18:12.931Z
 tags:
   - chatgpt
   - open-ai
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  Some of these AI-proof skills include empathy, creativity, problem-solving abilities, adaptability, resilience, communication, and collaboration skills. Investing in these skills will empower you to bring unique insights and solutions. Additionally, as AI solutions continuously improve, you can use your creativity to find innovative ways to use the technologies in your workplace.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Learn How to Work With AI Tools
 
  Although many people believe that[artificial intelligence can't replace humans in the workplace](https://www.makeuseof.com/reasons-artificial-intelligence-cant-replace-humans/) , others believe that digitally literate workers who use AI-powered tools may gain a competitive edge over those who don't. That said, you can become an asset in the AI-dominated workplace by learning how to use generative AI tools.
@@ -70,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
  There are several[prompting techniques you can use to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) , including writing grammatically correct prompts with enough context and details. In addition, you can also assign it a role to get more relevant and tailored answers.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Build a Robust Professional Network
@@ -89,6 +82,19 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
  As mentioned above, adaptability and flexibility are vital skills in an AI-dominated workplace. That's because there's a growing consensus that artificial intelligence is moving too fast—so fast that tech innovators like[Elon Musk want to pause AI development](https://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) . This means you will need to swiftly learn new skills to remain competitive in this AI-dominated workplace.
 
  One of the best ways to achieve this is by becoming a lifelong learner and continuously upskilling and reskilling yourself. This includes anything from staying on top of AI news to attending conferences and workshops or taking courses to learn about the latest tools.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Future-Proof Your Career in the AI-Dominated Workplace
 
@@ -109,20 +115,19 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-extending-your-content-a-detailed-youtube-video-upload-manual/"><u>[New] 2024 Approved Extending Your Content A Detailed YouTube Video Upload Manual</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-avatar-makeover-building-your-cartoon-personality/"><u>[New] Avatar Makeover Building Your Cartoon Personality</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-top-5-windows-11-gaming-capture-techniques/"><u>[New] Top 5 Windows 11 Gaming Capture Techniques</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-dance-directives-finding-ideal-dj-templates/"><u>[Updated] Dance Directives Finding Ideal DJ Templates</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/announcing-paul-nizov-as-the-new-ciso-at-abbyy-leadership-transition-in-cybersecurity/"><u>Announcing Paul Nizov as the New CISO at ABBYY: Leadership Transition in Cybersecurity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dvd-imgburn/"><u>DVD コピーとコピーガード解除のための ImgBurn:使いやすさと強力代替ツールをご提案</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-guide-to-rotating-videos-with-vlc-media-player/"><u>Easy Guide to Rotating Videos with VLC Media Player</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-methods-to-adapt-your-videos-for-seamless-viewing-on-apples-mobile-gadgets-ipod-ipad-and-iphone/"><u>Easy Methods to Adapt Your Videos for Seamless Viewing on Apple's Mobile Gadgets: IPod, iPad, and iPhone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-steps-to-free-conversion-transforming-flv-videos-into-avi-format/"><u>Easy Steps to Free Conversion: Transforming FLV Videos Into AVI Format</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-guide-converting-dvds-to-mp4-format-for-universal-playback-compatibility/"><u>Effortless Guide: Converting DVDs to MP4 Format for Universal Playback Compatibility</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-viewing-experience-with-customized-video-resolution-settings-for-perfect-playback-everywhere/"><u>Enhance Your Viewing Experience with Customized Video Resolution Settings for Perfect Playback Everywhere</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-toolset-flawless-video-enhancements-macwindows/"><u>Expert Toolset: Flawless Video Enhancements (Mac/Windows)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-a-top-notch-linkedin-image/"><u>In 2024, Crafting a Top-Notch LinkedIn Image</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-payload-pilots-drone-superlatives/"><u>In 2024, Pinnacle Payload Pilots Drone Superlatives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-pivot-to-claude-transforming-businesses-with-innovative-ai/"><u>Why Pivot to Claude: Transforming Businesses with Innovative AI</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-ultimate-selection-of-8-stealth-downloads/"><u>[New] In 2024, Ultimate Selection of 8 Stealth Downloads</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-perfecting-live-video-capture-with-logitech-webcam-technology/"><u>[New] Perfecting Live Video Capture with Logitech Webcam Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/disney/"><u>「無料のため、簡単にDisney映画を配信場所と方法がわかる」</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-church-live-streaming-services-uncovered/"><u>2024 Approved Best Church Live Streaming Services Uncovered</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/converting-amr-files-to-mp3-a-comprehensive-guide-for-all-devices/"><u>Converting AMR Files to MP3: A Comprehensive Guide for All Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cracking-the-code-on-xbox-one-disk-errors-a-comprehensive-troubleshooting-guide-for-2-update/"><u>Cracking the Code on Xbox One Disk Errors - A Comprehensive Troubleshooting Guide for 2# Update</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-how-to-enjoy-your-dvd-collection-on-an-lg-smart-tv-without-using-a-separate-dvd-player/"><u>Easy Guide: How to Enjoy Your DVD Collection on an LG Smart TV Without Using a Separate DVD Player</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-tricks-on-making-your-videos-ready-for-itunes-streaming-and-downloads/"><u>Easy Tricks on Making Your Videos Ready for iTunes Streaming & Downloads</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-lava-yuva-2-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Lava Yuva 2 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-use-video-titles-and-youtube-tags/"><u>In 2024, How to Use Video Titles and YouTube Tags?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-13-pro-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 13 Pro Properly | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-livestream-titans-clash-facebook-live-and-youtube-vs-twitter-spaces/"><u>In 2024, Livestream Titans Clash Facebook LIVE & YouTube Vs. Twitter Spaces</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-troubleshooting-guide-solving-logitech-g933-microphone-issues/"><u>Simple Troubleshooting Guide: Solving Logitech G933 Microphone Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-spectrum-of-virtuality-from-meta-to-omniverse-explored-for-2024/"><u>The Spectrum of Virtuality From Meta to Omniverse Explored for 2024</u></a></li>
 </ul></div>
 

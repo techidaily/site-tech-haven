@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Add & Employ ChatGPT Modules on Any Device
-date: 2024-09-11T00:01:26.467Z
-updated: 2024-09-17T18:59:52.673Z
+date: 2024-09-15T17:24:13.254Z
+updated: 2024-09-22T19:22:33.065Z
 tags:
   - chatgpt
   - open-ai
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/b855ebe51b5189358ef7af65d06591503136d0471
  I tried a few other basic coding tasks, and in all instances, ChatGPT's solution was clearly the better option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Debugging and Error Detection
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/b855ebe51b5189358ef7af65d06591503136d0471
 ![PHP code with logical error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/php-code-with-logical-error.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The code in this screenshot runs and even produces the right result in many cases. However, it has several logic errors that are not immediately apparent; can you spot them? I asked Gemini for help and, unfortunately, the chatbot couldn't pick out the logical error in the code:
@@ -95,13 +95,6 @@ Gemini also rewrote the code to fix the error:
 ![ChatGPT rewrites code to fix logical error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-rewrites-code-to-fix-logical-error.png)
 
  After trying a few other bug-hunting and fixing tasks, ChatGPT was clearly better at the job. Gemini wasn't totally a lost cause, though. It was able to fix a lot of syntax errors I threw at it, but it struggled with complex errors, especially logical errors.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Context Awareness
 
@@ -131,6 +124,13 @@ And here is the result from ChatGPT:
 
 ![ChatGPT attempts to create a function to count words in a text segment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-attempts-to-create-a-function-to-count-words-in-a-text-segment.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At first, both approaches look pretty solid. Gemini's approach even looks concise. However, ChatGPT's code takes a more robust and accurate approach to counting word occurrences in a text. It considers word boundaries and case sensitivity, handling punctuation properly, and giving more reliable results. Once again, ChatGPT is superior.
 
  ChatGPT's approach splits the input text into words in a way that can handle all non-word characters like punctuation marks, and special characters as word separators. Meanwhile, Gemini only considers whitespace as a separator. This approach may fail if the text contains punctuation marks or other non-word characters within words, or if the words are not separated by whitespace characters.
@@ -143,25 +143,31 @@ And here is the result from ChatGPT:
 
 ![ChatGPT agrees with Gemini's assessement of its abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-agrees-with-gemini-s-assessement-of-its-abilities.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, while this seems quite normal, there's an interesting twist here. Throughout most of last year, Gemini (then Bard) always confidently asserted it could produce better code, was more efficient, and made fewer mistakes. Here is a screenshot from one of my tests in November 2023:
 
 ![Google Bard boast of being better than ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-boost-of-being-better-than-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 It seems that Gemini is now a little more self-aware and modest!
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Programming Features
 
@@ -192,20 +198,19 @@ It seems that Gemini is now a little more self-aware and modest!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-camera-selection-for-amateurs/"><u>[New] Camera Selection for Amateurs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-high-definition-ready-enabling-av1-on-youtube/"><u>[New] High Definition Ready Enabling AV1 on YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-platform-power-play-obs-versus-twitch-studio/"><u>[Updated] 2024 Approved Platform Power Play OBS Versus Twitch Studio</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-elevate-your-views-degrees-of-rotation-on-youtube-a-2023-guide-for-2024/"><u>[Updated] Elevate Your Views Degrees of Rotation on YouTube - A 2023 Guide for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-connectivity-woes-modern-solutions-to-high-ping-issues-in-chivalry-2-updated-advice/"><u>Conquer Connectivity Woes: Modern Solutions to High Ping Issues in Chivalry 2 - Updated Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/custom-write-with-ai-shaping-chatgpts-output-to-mirror-your-own-literary-style/"><u>Custom Write with AI: Shaping ChatGPT's Output to Mirror Your Own Literary Style</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-claudes-superiority-four-distinct-benefits-compared-to-chatgpt/"><u>Exploring Claude's Superiority: Four Distinct Benefits Compared to ChatGPT</u></a></li>
-<li><a href="https://driver-download.techidaily.com/freshly-released-updated-fingerprint-driver-software-for-windows-users-download-here/"><u>Freshly Released: Updated Fingerprint Driver Software for Windows Users – Download Here</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-make-your-linkedin-profile-professional-for-2024/"><u>How To Make Your LinkedIn Profile Professional for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-for-interview-preparation/"><u>How to Use ChatGPT for Interview Preparation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovate-with-unique-chatai/"><u>Innovate with Unique ChatAI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/precision-in-ai-interactions-how-six-specific-prompting-styles-diminish-misunderstandings/"><u>Precision in AI Interactions: How Six Specific Prompting Styles Diminish Misunderstandings</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-page-fault-in-non-paged-area-issues-on-windows-11/"><u>Resolving 'Page Fault in Non-Paged Area' Issues on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-universal-connectivity-mastering-access-to-chatgpt-through-chatgpt-everywheres-features/"><u>Unleash Universal Connectivity: Mastering Access to ChatGPT Through ChatGPT Everywhere's Features</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/zoom-brilliance-a-blueprint-for-immaculate-edges-for-2024/"><u>Zoom Brilliance A Blueprint for Immaculate Edges for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-all-encompassing-virtual-horizon-review/"><u>[Updated] In 2024, All-Encompassing Virtual Horizon Review</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-exclusive-a-step-by-step-process-to-finding-hidden-discords/"><u>[Updated] In 2024, Exclusive A Step-by-Step Process to Finding Hidden Discords</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-honor-x50iplus-frp-bypass-by-drfone-android/"><u>About Honor X50i+ FRP Bypass</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-video-format-converter-from-dvd-to-avi-on-pc-optimized-for-windows-10-and-11-in-2e24/"><u>Best Video Format Converter From DVD to AVI on PC: Optimized for Windows 10 and 11 in 2E24</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro To Android? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-back-to-standard-contrast-on-windows/"><u>Turn Back to Standard Contrast on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/turning-twisting-footage-with-ease-a-comprehensive-guide-to-using-handbrakes-video-rotate-feature/"><u>Turning, Twisting Footage with Ease: A Comprehensive Guide to Using Handbrake's Video Rotate Feature</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-kodi-handbook-your-in-depth-learning-resource-for-enhanced-streaming-module-b/"><u>Ultimate Kodi Handbook: Your In-Depth Learning Resource for Enhanced Streaming - Module B</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-on-extracting-audio-from-video-file-format-vvf-techniques-and-tools/"><u>Ultimate Tutorial on Extracting Audio From Video File Format (.vvf): Techniques and Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-your-dvds-potential-mastering-the-usa-region-unlock-process/"><u>Unlock Your DVD's Potential: Mastering the USA Region Unlock Process</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-exploring-the-leading-online-video-communication-apps-beyond-omegle-top-picks-for-2024/"><u>Updated Exploring the Leading Online Video Communication Apps Beyond Omegle Top Picks for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voice-recording-techniques-capturing-your-speech-during-google-slides-presentations/"><u>Voice Recording Techniques: Capturing Your Speech During Google Slides Presentations</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-11iso-3/"><u>Windows 11におけるISOファイル実行方法: 効果的な3つのテクニックとその使用例</u></a></li>
 </ul></div>
 

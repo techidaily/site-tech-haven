@@ -1,7 +1,7 @@
 ---
 title: "Creating Imaginary Realms: Mastering Fiction Building with ChatGPT"
-date: 2024-09-17T04:04:29.704Z
-updated: 2024-09-18T04:33:24.575Z
+date: 2024-09-17T02:17:07.575Z
+updated: 2024-09-22T16:28:35.017Z
 tags:
   - chatgpt
   - open-ai
@@ -64,16 +64,22 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
 
 **Cost:** $79 per month for unlimited use. However, if you want to try it out, you can sign up without a credit card—and you get four clicks a day.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. DeepStory
 
 ![DeepStoryAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deepstoryai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The next on the list,[DeepStory](https://deepstory.ai/) , is a specialized AI script generator. Not only will it help you get unstuck if you’re experiencing writer's block, but it also generates content in precise script form. This can be extremely useful if you are starting out in this field and still struggling with the structure.
 
@@ -85,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
 
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [NovelAI](https://novelai.net/) is one of the most complex AI story writers on the list. But it’s also one of the most exciting ones. The basic new story AI generator works somewhat similarly to the others. You start writing the first few words or sentences of the story, and let the AI continue.
 
  However, the configuration options are endless. First, there is something called**Config Preset** . This determines the way the story is being told. There are presets better for poems; one focused on story development or coherence.
@@ -94,19 +107,6 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
  But the most fun part of this software is the**Adventure Text Module** . With this feature, writing becomes almost like a game. Instead of just writing a prompt, you can instruct the software that the prompt is either**Do, Say, or Story** . It feels like a “build your own adventure” book, where everything is written in real-time.
 
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Leave the Writer’s Block Behind With These AI Story Generators
 
@@ -129,19 +129,17 @@ thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-cultivating-productive-collaboration-a-pathway-to-effective-collab-videos/"><u>[New] 2024 Approved Cultivating Productive Collaboration A Pathway to Effective Collab Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-next-gen-key-smartwatch-opens-your-mac-for-2024/"><u>[New] Next-Gen Key Smartwatch Opens Your Mac for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-charting-a-course-through-youtubes-maker-domain/"><u>[Updated] 2024 Approved Charting a Course Through YouTube's Maker Domain</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/44cm57ch5y2y44gr5a2m44g244kr44od44oi5yuv55s757eo6zugic0g44ox44ot44gm6yg444kt44gg44oz44k544oi44k944ov44oi44km44kn44ki44oq44k544oi44cn/"><u>「簡単に学ぶカット動画編集 - プロが選んだベストソフトウェアリスト」</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unparalleled-pc-sound-control/"><u>2024 Approved Unparalleled PC Sound Control</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-easy-methods-to-spin-mov-files-between-pc-and-mac-a-comprehensive-guide/"><u>5 Easy Methods to Spin Mov Files Between PC & Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5zcm5pmc44gr5l2v5pys44gu5yuv55s744ks5asj5oplusb5yplusv6io944gq44k144o844ot44k544gm44gc44kk44gplus44gz44gl77yf/"><u>同時に何本の動画を変換可能なサービスがありますか？</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/adobe-premiere-prodvd-vobmp4/"><u>Adobe Premiere Proで効率的な方法：DVD VOBファイルの取り込みとMP4への変換</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/av1/"><u>AV1形式に変換してビデオをエンコードする詳細ガイド</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-samsung-m2070-driver-download-guide-quick-easy-and-effective-solution/"><u>Effortless Samsung M2070 Driver Download Guide - Quick, Easy & Effective Solution</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/enhancing-social-reach-youtube-videos-on-facebook-sites/"><u>Enhancing Social Reach YouTube Videos on Facebook Sites</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/re-the-best-8-mirrorless-cameras-for-youtube-vloggers-for-2024/"><u>Explore the Best 8 Mirrorless Cameras for YouTube Vloggers for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/logiciels-de-conversion-dvdvideo-premium-la-solution-ultime-avec-digiarty-software/"><u>Logiciels De Conversion DVD/Vidéo Premium: La Solution Ultime Avec Digiarty Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/44ox44ot44gr5a2m44g277ya44os44of44oo44gm5a6m55kn44gq5yuv55s75pku44kk5pa5ic0g44k544og44od44ox44oq44kk44k544og44od44ox44oe44ol44ol44ki44or/"><u>プロに学ぶ：レミノが完璧な動画撮り方 - ステップバイステップマニュアル</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-enhance-ig-visuals-with-our-top-10-grid-making-tools-selection/"><u>[New] 2024 Approved Enhance IG Visuals with Our Top 10 Grid Making Tools Selection</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-speech-recording-top-apps-for-your-ipad/"><u>[Updated] 2024 Approved Mastering Speech Recording Top Apps for Your iPad</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unleash-creativity-with-ease-mastering-the-art-of-photo-text-editing-for-2024/"><u>[Updated] Unleash Creativity with Ease Mastering the Art of Photo Text Editing for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-to-recording-live-tv-and-streams-on-your-computer/"><u>Easy Guide to Recording Live TV & Streams on Your Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-methods-for-converting-your-youtube-videos-into-high-quality-flac-files/"><u>Easy Methods for Converting Your YouTube Videos Into High-Quality FLAC Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-conversion-of-mlp-recordings-to-multiple-audio-types-mp3-wav-and-more/"><u>Effortless Conversion of MLP Recordings to Multiple Audio Types: MP3, WAV & More!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-broadcasts-using-manycams-cutting-edge-virtual-camera-solutions/"><u>Enhance Your Broadcasts Using ManyCam's Cutting-Edge Virtual Camera Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fix-video-editor-extension-issues-on-windows-a-step-by-step-guide-for-windows-1011-users/"><u>Fix Video Editor Extension Issues on Windows - A Step-by-Step Guide for Windows 10/11 Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-realme-10t-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Realme 10T 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/inclusive-dynamic-movement-examination-for-2024/"><u>Inclusive Dynamic Movement Examination for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-rtx-1080-driver-downloads-compatible-with-windows-10-quick-guide/"><u>Latest Nvidia GeForce RTX 1080 Driver Downloads Compatible with Windows 10 - Quick Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-repairing-damaged-system-files-on-windows-11/"><u>Step-by-Step Solutions: Repairing Damaged System Files on Windows 11</u></a></li>
 </ul></div>
 

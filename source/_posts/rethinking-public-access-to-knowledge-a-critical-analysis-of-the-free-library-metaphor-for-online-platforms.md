@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Public Access to Knowledge: A Critical Analysis of the 'Free Library' Metaphor for Online Platforms"
-date: 2024-09-13T23:38:17.487Z
-updated: 2024-09-17T21:09:36.795Z
+date: 2024-09-21T02:19:53.977Z
+updated: 2024-09-22T21:40:25.809Z
 tags:
   - chatgpt
   - open-ai
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
@@ -78,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
@@ -95,15 +88,22 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -126,17 +126,17 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/crafting-perfection-with-precision-a-thorough-review-of-the-xp-pen-artist-16-pro-drawing-pad/"><u>Crafting Perfection with Precision: A Thorough Review of the XP-Pen Artist 16 Pro Drawing Pad</u></a></li>
-<li><a href="https://win-dash.techidaily.com/find-and-implement-the-best-steelseries-controller-experience-with-windows-driver-update/"><u>Find and Implement the Best SteelSeries Controller Experience with Windows Driver Update</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/master-your-online-presence-using-manycam-professional-web-cam-alternative-and-recording-tool/"><u>Master Your Online Presence Using ManyCam - Professional Web Cam Alternative and Recording Tool</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcoming-the-challenges-of-intel-hd-graphics-630-on-windows-a-step-by-step-solution/"><u>Overcoming the Challenges of Intel HD Graphics 630 on Windows: A Step-by-Step Solution</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-resolving-plex-video-file-replay-challenges/"><u>Step-by-Step Guide to Resolving Plex Video File Replay Challenges</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-converting-sd-videos-to-high-definition-flawlessly/"><u>Step-by-Step Guide: Converting SD Videos to High Definition Flawlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-capturing-live-action-from-espnplus-across-computers-and-smartphones/"><u>Step-by-Step Tutorial for Capturing Live Action From ESPN+ Across Computers and Smartphones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-converting-prproj-videos-to-mp4-format-in-adobe-premiere-pro/"><u>Step-by-Step Tutorial for Converting PRPROJ Videos to MP4 Format in Adobe Premiere Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-building-your-own-youtube-downloader-for-ipods-and-iphones-at-no-charge/"><u>Step-by-Step Tutorial on Building Your Own YouTube Downloader for iPods and iPhones at No Charge</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-should-you-choose-vn-video-editor-pro-for-your-video-editing-needs/"><u>Updated 2024 Approved Should You Choose VN Video Editor Pro for Your Video Editing Needs?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/whatsapp-web-for-laptops-setting-up-remote-video-calls-step-by-step/"><u>WhatsApp Web for Laptops Setting Up Remote Video Calls Step by Step</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-dynamic-titles-for-adobe-after-effects/"><u>[New] Dynamic Titles for Adobe After Effects</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-essential-fixes-for-disconnected-fb-live-feeds-for-2024/"><u>[Updated] Essential Fixes for Disconnected FB Live Feeds for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/instagram-gif/"><u>「Instagram 映像を GIF形式で簡単に保存するコツ」</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-elevate-ig-stories-with-seamless-audio-integration/"><u>2024 Approved Elevate IG Stories With Seamless Audio Integration</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/essential-techniques-for-vimeo-video-submission-from-mmc/"><u>Essential Techniques for Vimeo Video Submission From MMC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-your-free-audio-sampling-tool-convert-mp3-bitrate-instantly/"><u>Get Your Free Audio Sampling Tool: Convert Mp3 Bitrate Instantly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-get-your-favorite-vk-songs-without-paying-three-trustworthy-free-download-options/"><u>How to Get Your Favorite VK Songs Without Paying: Three Trustworthy Free Download Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-successfully-stream-wmv-files-on-your-chrome-os-device/"><u>How to Successfully Stream WMV Files on Your Chrome OS Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/m4amp3wavmp44/"><u>M4AをMP3/WAV/MP4に自由に変換！優秀なソフトウェアリスト上位4選</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ranking-the-best-mac-recording-alternatives-to-bandicam-for-2024/"><u>Ranking the Best Mac Recording Alternatives to Bandicam for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Google Pixel 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Routine: How ChatGPT Elevates Your Lifestyle"
-date: 2024-09-14T04:30:54.114Z
-updated: 2024-09-18T02:41:50.818Z
+date: 2024-09-16T18:40:50.144Z
+updated: 2024-09-22T20:12:06.104Z
 tags:
   - chatgpt
   - open-ai
@@ -67,6 +67,13 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  Label**A1** with “QUOTES” or the type of content that’s there, like “SONGS,” “PASSAGES,” or “TESTIMONIALS.” In**B1** —and any further columns—label it with the content type, ensuring the label is different. We’re going to use “ATTRIBUTION,” but you could use “CREDIT,” “CUSTOMER,” “ARTIST,” or whatever suits your content.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Save Your Sheet as a CSV File
 
 ![Google Sheets saving options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/saveas-csv.jpg)
@@ -81,13 +88,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Create a Design options in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-design-canva.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Head to[Canva](https://www.canva.com) and choose a size for your bulk designs. Whether you’re using a pre-made template, or designing from a blank page, make sure your design isn’t overcrowded and that there will be enough space for your text.
 
  If you’ve already[made and published Canva templates](https://www.makeuseof.com/canva-how-to-create-publish-templates/) , choose one of those, or if you’re designing from scratch, you could[use Canva’s Brand Kit feature](https://www.makeuseof.com/canva-how-to-use-brand-kit-feature/) to incorporate your branding into your design. Both of those features require a Canva Pro subscription or the free trial.
@@ -100,13 +100,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Canva design with placeholder text.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placeholder-text-canva.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select the**Text** tool and write placeholders for your labels. Place them where your text will go on the design. Remember to give yourself space to accommodate different lengths of content.
 
  Choose a font for quoted text and another for the attribution text. Set a general font size and color, but you may need to change these after the designs are generated.
@@ -117,39 +110,40 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Bulk Create app in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-app-canva.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select**Apps** on Canva’s left-hand menu and type “Bulk Create” in the search bar. Select the**Bulk Create** app.
 
 ![Canva Bulk Create options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-csv.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select**Upload CSV** and find your saved CSV file to open. Canva will identify your two sections of content and separate them, in this case, into a section of Quote content and another of Attribution content.
 
 ![Canva CSV input.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/curly-brackets.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select your Quotes placeholder text, then right-click >**Connect Data** \>**\[QUOTES\]** . This inputs your data into Canva, shown by your label now written in curly brackets. Do this again for your second set of content, and any others you’re adding. Select**Continue** .
 
 ![Canva's Bulk Create checkboxes.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apply-data-canva-bulk-create.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select**Generate Pages** . Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Review and Edit Your Designs
 
@@ -161,6 +155,13 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  At this point you can also add emphasis to individual words with extra colors, bold or italics, or change the font for certain words or phrases. This isn’t possible to do with Bulk Create.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Save Your Bulk-Created Designs
 
 ![Canva save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-save-options.jpg)
@@ -168,13 +169,6 @@ It’s a very simple process, and you’ll want to do it again and again.
  If you’re happy with how everything looks, it’s time to save your designs. Go to**Share** \>**Download** and choose the best format for your designs. PNG is what we recommend for the best quality, but some social media applications might not accept PNGs, or perhaps another format works better for your designs.
 
 ![Bulk designs on Mac Finder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-designs-on-mac.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.
 
@@ -197,21 +191,19 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/xtract-translate-and-save-youtube-subtitles-for-free/"><u>[New] Extract, Translate & Save YouTube Subtitles for FREE</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-transformative-colors-in-video-editing-workflows-for-2024/"><u>[New] Transformative Colors in Video Editing Workflows for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-step-by-step-guide-to-record-online-video-calls/"><u>[Updated] 2024 Approved Step-by-Step Guide to Record Online Video Calls</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instagram-mastery-easy-steps-to-great-collages/"><u>2024 Approved Instagram Mastery Easy Steps to Great Collages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-steps-to-enhancing-your-kodi-experience-with-custom-addons/"><u>Easy Steps to Enhancing Your Kodi Experience with Custom Addons</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-methods-for-converting-3gp-files-into-high-quality-mp3-audio/"><u>Effective Methods for Converting 3GP Files Into High-Quality MP3 Audio</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-ways-to-enjoy-mkv-files-on-your-xbox-one-a-step-by-step-guide/"><u>Effortless Ways to Enjoy MKV Files on Your Xbox One: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/find-the-ultimate-replacement-for-dvd-decrypter-on-windows-11-top-picks-for-safe-and-efficient-media-conversion/"><u>Find the Ultimate Replacement for DVD Decrypter on Windows 11 – Top Picks for Safe and Efficient Media Conversion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fix-the-windows-media-player-plays-sound-no-video-problem-with-these-easy-fixes/"><u>Fix the 'Windows Media Player Plays Sound, No Video' Problem with These Easy Fixes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-safely-copy-content-from-hd-dvds-and-blu-ray-discs/"><u>How to Safely Copy Content From HD DVDs and Blu-Ray Discs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-uniting-your-network-with-cross-platform-skype-chat-groups-a-how-to-guide/"><u>In 2024, Uniting Your Network with Cross-Platform Skype Chat Groups A How-To Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/itunesdvd/"><u>ITunesで簡単な手順でDVD動画のインポートガイド</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-while-playing-it-takes-two-heres-how-to-fix-your-pc-audio-issue/"><u>No Sound While Playing 'It Takes Two'? Here's How to Fix Your PC Audio Issue</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-5-tiktok-voice-generators-you-should-try/"><u>Updated 2024 Approved Top 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earning-insights-average-adsense-earning-for-every-1000-youtube-views/"><u>[New] In 2024, Earning Insights Average AdSense Earning for Every 1,000 YouTube Views</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-storytellers-supreme-curated-yt-channels/"><u>[Updated] Storytellers Supreme Curated YT Channels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-collection-top-6-apps-to-capture-on-mac/"><u>[Updated] The Ultimate Collection Top 6 Apps to Capture on Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-world-languages-find-the-top-14-video-translators-for-effortless-conversion/"><u>[Updated] Unlock World Languages Find the Top 14 Video Translators for Effortless Conversion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-obs-or-wirecast-deciding-on-the-best-streamer-tool/"><u>2024 Approved OBS or Wirecast? Deciding on the Best Streamer Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-online-converter-change-audio-units-from-au-to-wav-with-movavi/"><u>Free Online Converter: Change Audio Units From AU to WAV with Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-quality-collage-maker-resources-online-top-picks-and-templates/"><u>Free, Quality Collage Maker Resources Online: Top Picks & Templates</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/furdozo-szovetje-szegedultso-202/"><u>Fürdőző Szövetje Szegedültsó 202</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gratis-conversione-nef-immagini-web-scopri-il-programma-di-convertitore-on-line-di-movavi/"><u>Gratis Conversione Nef Immagini Web: Scopri Il Programma Di Convertitore On-Line Di Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gratis-online-mp3-to-mpeg-konvertor-professioneel-en-gemakkelijk-met-movavi/"><u>Gratis Online MP3-to-MPEG Konvertor: Professioneel en Gemakkelijk Met Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/photonest-frame-prox-top-quality-questionable-value/"><u>PhotoNest Frame ProX: Top Quality, Questionable Value</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-for-updating-your-amd-graphics-driver-with-minimal-hassle/"><u>Simple Steps for Updating Your AMD Graphics Driver with Minimal Hassle</u></a></li>
 </ul></div>
 

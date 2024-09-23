@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Storm: Understanding Why Security Challenges in Generative AI Are Getting Worse"
-date: 2024-09-16T22:49:10.726Z
-updated: 2024-09-18T05:05:43.727Z
+date: 2024-09-16T16:58:25.109Z
+updated: 2024-09-22T21:05:04.803Z
 tags:
   - chatgpt
   - open-ai
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
@@ -76,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
  ChatGPT can be friendly and[even make jokes](https://www.makeuseof.com/can-ai-make-us-laugh/) , but this is all based on the data it has been trained with. You could certainly call it a smart program, as it is highly advanced by today's standards, but it is not an all-knowing entity.
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
@@ -95,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
  Once supply exceeds demand, prices drop. Now, the coin you bought is only worth $70\. The next day, it may be worth less, and this is all because of a traditional market issue.
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Revolutionary but Far From Perfect
 
@@ -115,18 +115,18 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-movie-maker-videos-on-vimeo/"><u>[Updated] 2024 Approved The Ultimate Checklist for Movie Maker Videos on Vimeo</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-extensive-investigation-into-gecatas-recorder-tech/"><u>[Updated] In 2024, Extensive Investigation Into Gecata's Recorder Tech</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/2-effortless-and-cost-effective-techniques-to-refine-your-screen-recordings-learn-how/"><u>2. 'Effortless and Cost-Effective Techniques to Refine Your Screen Recordings - Learn How!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-free-audio-enhancers-for-windows-11-top-7-choices/"><u>Best FREE Audio Enhancers for Windows 11: Top 7 Choices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-wealth-through-video-content-revenue/"><u>Building Wealth Through Video Content Revenue</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/complete-video-file-converter-suite-seamless-editing-from-mpeg-to-various-formats-made-easy/"><u>Complete Video File Converter Suite: Seamless Editing From MPEG to Various Formats Made Easy.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-steps-to-transforming-m3u8-streams-into-mp4-format-with-vlc-media-player/"><u>Comprehensive Steps to Transforming M3U8 Streams Into MP4 Format with VLC Media Player</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-sumind-bt7-problem-what-is-the-result-of-dividing-4-by-frac23/"><u>Comprehensive Sumind BT7 # Problem: What Is the Result of Dividing 4 by $ Frac{2}{3}$?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-repair-and-restore-excel-file-by-stellar-guide/"><u>How Do I Repair and Restore Excel File?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-level-techniques-for-attaching-srt-to-mp4-clips-for-2024/"><u>Master Level Techniques for Attaching SRT to MP4 Clips for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/next-gen-gaming-perfection-detailed-review-of-the-240hz-qd-oled-philips-evonia-display/"><u>Next-Gen Gaming Perfection: Detailed Review of the 240Hz QD-OLED Philips Evonia Display</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726030225956-powerdirector/"><u>PowerDirector 使い方: 高品質な音声を抽出するビデオ編集術</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/44or44k944kz44oz44gn44oe44kk44kt44oj44k544ot44oh44kq44ks6kiy6yyy44gx44gm44gk44gp5pa55rov44cq6kaw6ig06icf44gr5b2556ul44gk44cr/"><u>パソコンでツイキャスビデオを記録しておく方法【視聴者に役立つ】</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715860183123-2024-approved-the-ultimate-guide-to-setting-up-a-group-conversation-that-caters-to-all-systems-in-skype/"><u>2024 Approved The Ultimate Guide to Setting up a Group Conversation that Caters to All Systems in Skype.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-advanced-voice-customization-in-free-perfect-for-valorant-players/"><u>2024 Approved Unlock Advanced Voice Customization in Free - Perfect for Valorant Players</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-samsung-galaxy-a71-5g-an-affordable-contender-against-premium-phones/"><u>Comprehensive Analysis of the Samsung Galaxy A71 5G: An Affordable Contender Against Premium Phones</u></a></li>
+<li><a href="https://solve-news.techidaily.com/conversion-gratuite-de-fichier-rmvb-vers-mpeg-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichier RMVB Vers MPEG en Ligne Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-personalized-language-powerhouses-at-openais-store/"><u>Discover Personalized Language Powerhouses at OpenAI's Store</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-free-convert-videos-to-youtube-a-simple-guide-for-upload-and-sharing/"><u>How To Free Convert Videos To YouTube: A Simple Guide For Upload And Sharing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-locate-a-specific-youtube-ad-saving-techniques-revealed/"><u>How to Locate a Specific YouTube Ad: Saving Techniques Revealed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/m4apcm/"><u>M4Aファイルの解説：アナログ、PCMへの変換手順</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-ios-media-playback-compatible-apps-and-tricks-for-streamlining-your-m4a-file-experience/"><u>Mastering iOS Media Playback: Compatible Apps and Tricks for Streamlining Your M4A File Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mpeg/"><u>MPEGフォーマット動画から高品質音声抽出テクニック</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolve-your-editing-softwares-limitations-in-windows-11-a-guide-to-essential-plugins-and-extensions/"><u>Resolve Your Editing Software's Limitations in Windows 11 - A Guide to Essential Plugins and Extensions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-initial-stages-of-joining-youtube-as-a-chanel-owner-for-2024/"><u>The Initial Stages of Joining YouTube as a Chanel Owner for 2024</u></a></li>
 </ul></div>
 

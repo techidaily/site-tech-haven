@@ -1,7 +1,7 @@
 ---
 title: "In Pursuit of Knowledge: Why Do Sites Restrict the Use of GPTBot?"
-date: 2024-09-15T16:18:27.427Z
-updated: 2024-09-17T20:41:49.004Z
+date: 2024-09-18T20:38:50.540Z
+updated: 2024-09-23T00:28:38.202Z
 tags:
   - chatgpt
   - open-ai
@@ -94,6 +94,13 @@ ChatGPT also cracked the problem as well.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude AI: Coding Skills
 
  Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
@@ -104,31 +111,24 @@ ChatGPT also cracked the problem as well.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -149,18 +149,20 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-exploring-snapchats-top-stories/"><u>[New] Exploring Snapchat's Top Stories</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-composers-path-to-infusing-music-in-online-videos-fb/"><u>2024 Approved The Composer's Path to Infusing Music in Online Videos (FB)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-uncomplicated-routines-to-streamline-your-online-sessions-pcmac-os/"><u>2024 Approved Uncomplicated Routines to Streamline Your Online Sessions - PC/Mac OS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/clarity-on-the-conversation-frontier-dispelling-9-artificial-intelligence-chatbot-misbeliefs/"><u>Clarity on the Conversation Frontier: Dispelling 9 Artificial Intelligence Chatbot Misbeliefs</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficient-use-of-time-and-cash-on-your-xbox-console/"><u>Efficient Use of Time & Cash on Your Xbox Console</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-user-experience-with-upgraded-mouse-drivers/"><u>Enhance User Experience with Upgraded Mouse Drivers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nubia-red-magic-8s-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nubia Red Magic 8S Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-g2-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo G2 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-downloads-quick-and-easy-techniques-for-snagging-videos-from-peekvids/"><u>Master Downloads: Quick & Easy Techniques for Snagging Videos From PeekVids</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-recording-your-gwent-battles-for-both-pc-and-smartphone-enthusiasts/"><u>Mastering the Art of Recording Your Gwent Battles for Both PC and Smartphone Enthusiasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering/"><u>Mastering.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mp4-swf/"><u>MP4への変換ができません - SWFファイルを保存するための対策</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722990087201-troubleshooting-black-ops-cold-war-e887a0005-glitch-solutions-inside/"><u>Troubleshooting BLACK OPS COLD WAR E887A0005 Glitch – Solutions Inside!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-stepwise-journey-becoming-a-pro-with-audacity-for-recording/"><u>[New] 2024 Approved Stepwise Journey Becoming a Pro with Audacity for Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-capturing-moments-top-webcams-for-pcs-in-windows/"><u>[Updated] In 2024, Capturing Moments Top Webcams for PCs in Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-captivate-and-convert-creating-high-roi-animated-ads-on-facebook/"><u>2024 Approved Captivate and Convert Creating High-ROI Animated Ads on Facebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-ai-and-chatgpt-revolutionize-the-journey-to-your-perfect-career-position/"><u>How AI and ChatGPT Revolutionize the Journey to Your Perfect Career Position</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-intelligent-systems-are-redefining-game-creation-and-consumption/"><u>How Intelligent Systems Are Redefining Game Creation and Consumption</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-fatal-error-1603-and-complete-software-installation-successfully/"><u>How to Resolve 'Fatal Error 1603' & Complete Software Installation Successfully</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-motorola-moto-g-5g-2023-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Motorola Moto G 5G (2023)? Try These Fixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-interaction-by-dodging-these-critical-writing-errors/"><u>Mastering ChatGPT Interaction by Dodging These Critical Writing Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-gameplay-proven-techniques-to-eliminate-stuttering-in-minecraft-on-pc/"><u>Mastering Smooth Gameplay: Proven Techniques to Eliminate Stuttering in Minecraft on PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/precision-and-quality-in-screen-recording-discovering-showmores-benefits/"><u>Precision and Quality in Screen Recording - Discovering ShowMore's Benefits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-content-creation-boost-productivity-using-hix-ai-and-gpt-4/"><u>Streamline Content Creation: Boost Productivity Using HIX AI & GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-limits-of-turing-test-in-todays-ai-lands-market/"><u>The Limits of Turing Test in Today's AI Lands Market</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-secret-behind-artificnial-intelligence-black-boxes-explained/"><u>The Secret Behind Artificnial Intelligence Black Boxes Explained</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-spark-20c-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Spark 20C password or pattern lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-a-more-successful-dating-experience-through-chatgpt-technology/"><u>Unlocking a More Successful Dating Experience Through ChatGPT Technology</u></a></li>
 </ul></div>
 

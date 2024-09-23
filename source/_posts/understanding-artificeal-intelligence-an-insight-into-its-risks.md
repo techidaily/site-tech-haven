@@ -1,7 +1,7 @@
 ---
 title: "Understanding Artificeal Intelligence: An Insight Into Its Risks"
-date: 2024-09-11T04:08:38.386Z
-updated: 2024-09-17T17:04:19.760Z
+date: 2024-09-18T01:41:52.967Z
+updated: 2024-09-22T21:18:27.693Z
 tags:
   - chatgpt
   - open-ai
@@ -58,16 +58,16 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can[identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
@@ -77,33 +77,33 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
  For instance, if ChatGPT-4 is the interrogator, you could enroll Google Bard and another human as participants. If the AI model can correctly identify the human participant based on the answers, it has passed the test.
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -126,19 +126,14 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-overcoming-the-hurdle-of-non-uploading-facebook-story-videos-for-2024/"><u>[New] Overcoming the Hurdle of Non-Uploading Facebook Story Videos for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-your-music-masterpiece-awaits-step-by-step-to-youtube-playlist-perfection-webmobile/"><u>[Updated] 2024 Approved Your Music Masterpiece Awaits Step-by-Step to YouTube Playlist Perfection (Web/Mobile)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024s-most-effective-alternatives-to-microsoft-office-find-your-perfect-fit/"><u>2024'S Most Effective Alternatives to Microsoft Office – Find Your Perfect Fit</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Itel P55T? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-moto-g34-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Motorola Moto G34 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simple-guide-to-converting-your-dvds-into-mkv-format-on-windows-11-or-10/"><u>Simple Guide to Converting Your DVDs Into MKV Format on Windows 11 or 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/terminate-chatgpt-connection-now/"><u>Terminate ChatGPT Connection Now!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-perfect-blend-of-mobility-and-professionality/"><u>The Perfect Blend of Mobility & Professionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-free-myspace-video-converters-with-mp4-and-mp3-downloads/"><u>Top 4 Free MySpace Video Converters with MP4 & MP3 Downloads</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-dvd-ripper-applications-of-2024-to-transform-dvr-videos-into-avi-on-windows-systems/"><u>Top 5 DVD Ripper Applications of 2024 to Transform DVR Videos Into AVI on Windows Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-online-platforms-for-free-downloads-of-popular-bollywood-tracks/"><u>Top 5 Online Platforms for Free Downloads of Popular Bollywood Tracks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-webm-video-converter-tool-effortlessly-switch-between-formats/"><u>Top Rated WebM Video Converter Tool - Effortlessly Switch Between Formats</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-kodis-videots-playback-errors-and-transforming-ts-media-into-compatible-formats/"><u>Troubleshooting Kodi's Video_TS Playback Errors and Transforming TS Media Into Compatible Formats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-effortless-video-capture-using-screencastify-app/"><u>[New] Effortless Video Capture Using Screencastify App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-techniques-for-iphone-sideways-shots/"><u>[New] Innovative Techniques for iPhone Sideways Shots</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-clip-perfection-achieved-through-blended-methodologies/"><u>[Updated] 2024 Approved Clip Perfection Achieved Through Blended Methodologies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-easy-tutorial-uploading-youtube-shorts-video-via-computer-and-phone/"><u>[Updated] Easy Tutorial Uploading YouTube Shorts Video via Computer & Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726026783851-5/"><u>「動画編集者からも認められる、正方形化がスムーズな5つのアプリ選び」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027044303-wav/"><u>音源変換入門：WAVファイルにするステップバイステップガイド-新人向け-</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-new-rtx-2080-graphics-card-drivers-ideal-for-windows-10-7-and-8-systems/"><u>Install New RTX 2080 Graphics Card Drivers - Ideal for Windows 10, 7 & 8 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-picks-5-premier-youtube-video-splitters-and-cutters-available-online/"><u>Ultimate Picks: 5 Premier YouTube Video Splitters and Cutters Available Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027767003-xmedia-recode/"><u>ビデオからオーディオを取り出す手順と、XMedia Recodeによる別の解決策</u></a></li>
 </ul></div>
 

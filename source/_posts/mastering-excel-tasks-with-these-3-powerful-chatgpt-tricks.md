@@ -1,7 +1,7 @@
 ---
 title: Mastering Excel Tasks with These 3 Powerful ChatGPT Tricks
-date: 2024-09-13T23:21:46.458Z
-updated: 2024-09-17T16:16:57.835Z
+date: 2024-09-20T16:03:49.479Z
+updated: 2024-09-22T20:04:47.266Z
 tags:
   - chatgpt
   - open-ai
@@ -52,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
  For your fitness goals, ChatGPT can assist you in creating a meal plan that supports your objectives. You can ask for meal recommendations that are rich in protein, carbohydrates, and healthy fats. ChatGPT can also guide you on how to develop healthy eating habits if you have an eating disorder.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Create a Shopping List
 
 ![Create shopping list with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-shopping-list-with-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you struggle with remembering all the ingredients needed for a recipe, ChatGPT can help you create a detailed shopping list.[You can then use Instacart for same-day grocery shopping](https://www.makeuseof.com/sir-how-is-instacart-for-same-day-grocery-shopping/) , or any other grocery delivery services available in your area.
 
@@ -73,18 +73,18 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
 ![New flavor combo ideas by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-flavor-combo-ideas-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finding new flavor combinations is arguably the most difficult process involved with cooking. Even if a certain combination is good, you won't really know if it works for you or not. ChatGPT can make this process a bit easier.
 
  Besides simply asking ChatGPT for flavor combinations with chicken, you can get specific and say you don't do well with spices. You can also ask for information on specific seasonings, herbs, or spices.
 
  It can also help you combine ingredients in innovative ways to create unique dishes. For example, you can ask the chatbot for flavor combinations that pair well with coconut milk, and it will then give you relevant recommendations along with some recipes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Recipe Scaling
 
@@ -92,16 +92,16 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
  Fortunately, you can use ChatGPT to help you rescale the recipe accurately. Share the recipe with ChatGPT and it will calculate the right quantities of each ingredient needed for your desired serving size. This way you'll retain the delicious flavor while making sure that everyone gets an adequate portion size.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Create a Menu for Special Occasions
 
 ![Special Occasian Recipe](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/special-ocassian-recipe.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Creating menus for planning an intimate dinner party, a festive gathering, or a celebratory event is not easy. You have to consider what type of food the people will like and how much time you have to prepare the dishes. While you're on your own with the cooking process, ChatGPT can help you with the menu.
 
@@ -130,20 +130,21 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-flash-facts-how-videos-captivate-twitters-audience/"><u>[New] In 2024, Flash Facts How Videos Captivate Twitter's Audience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comparative-study-samsung-vs-traditional-photo-tools/"><u>[Updated] Comparative Study Samsung vs Traditional Photo Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-join-the-fun-best-gratuitous-meme-tools-available/"><u>[Updated] Join the Fun Best Gratuitous Meme Tools Available</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-boosting-video-audio-levels-a-step-by-step-guide-for-pc-and-mac-users/"><u>1. Boosting Video Audio Levels: A Step-by-Step Guide for PC & Mac Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-step-by-step-guide-adding-subtitles-to-your-dvd-movies/"><u>1. Step-by-Step Guide: Adding Subtitles to Your DVD Movies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pixelperfect-toolkit-guidebook/"><u>2024 Approved PixelPerfect Toolkit Guidebook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726027224374-youtube/"><u>不透明なYouTube再生中に映像をよりクリアにする対策</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-how-to-get-steam-games-running-again-in-windows-11/"><u>Fix: How to Get Steam Games Running Again in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratis-omzettingen-ogm-in-mpeg-online-dit-doet-movavi/"><u>Gratis Omzettingen OGM in MPEG Online - Dit Doet Movavi</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-art-into-nfts-top-7-tools-explored/"><u>In 2024, Revolutionizing Art Into NFTs - Top 7 Tools Explored</u></a></li>
-<li><a href="https://program-issues.techidaily.com/latest-strategies-for-seamless-biomutant-gameplay-on-pcs-avoid-crashes-and-glitches/"><u>Latest Strategies for Seamless Biomutant Gameplay on PCs - Avoid Crashes and Glitches</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-enhancing-your-dvd-viewing-on-widescreen-displays/"><u>Ultimate Guide to Enhancing Your DVD Viewing on Widescreen Displays</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/vlc-player/"><u>VLC Playerで簡単に再生リストを構築するための手順</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/wonderfox-accessing-the-missing-pages-a-guide-to-finding-your-way/"><u>WonderFox - Accessing the Missing Pages: A Guide to Finding Your Way</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-freedom-from-popups-discover-the-top-7-android-adblock-apps/"><u>[New] Freedom From Popups? Discover the Top 7 Android AdBlock Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-shared-laughter-to-your-storage-twitters-gif-guide/"><u>[New] From Shared Laughter to Your Storage Twitter's GIF Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-creative-builders-top-easy-homes-in-minecraft/"><u>[Updated] In 2024, Creative Builders Top Easy Homes in Minecraft</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlocking-asmrs-wellness-boost-for-you/"><u>[Updated] In 2024, Unlocking ASMR's Wellness Boost for You</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/a-step-by-step-guide-to-reactivate-grayed-out-icloud-settings-in-ios/"><u>A Step-by-Step Guide to Reactivate Grayed-Out iCloud Settings in iOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-to-enhancing-your-kodi-experience-with-custom-addons/"><u>Easy Steps to Enhancing Your Kodi Experience with Custom Addons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-methods-for-converting-3gp-files-into-high-quality-mp3-audio/"><u>Effective Methods for Converting 3GP Files Into High-Quality MP3 Audio</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-ways-to-enjoy-mkv-files-on-your-xbox-one-a-step-by-step-guide/"><u>Effortless Ways to Enjoy MKV Files on Your Xbox One: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-online-spots-4-skype-ringtones/"><u>Essential Online Spots 4 Skype Ringtones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/find-the-ultimate-replacement-for-dvd-decrypter-on-windows-11-top-picks-for-safe-and-efficient-media-conversion/"><u>Find the Ultimate Replacement for DVD Decrypter on Windows 11 – Top Picks for Safe and Efficient Media Conversion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fix-the-windows-media-player-plays-sound-no-video-problem-with-these-easy-fixes/"><u>Fix the 'Windows Media Player Plays Sound, No Video' Problem with These Easy Fixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-safely-copy-content-from-hd-dvds-and-blu-ray-discs/"><u>How to Safely Copy Content From HD DVDs and Blu-Ray Discs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-samsung-galaxy-s24plus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Samsung Galaxy S24+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/itunesdvd/"><u>ITunesで簡単な手順でDVD動画のインポートガイド</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/taking-cloud-gaming-centerstage-how-microsoft-and-samsung-could-be-game-changers/"><u>Taking Cloud Gaming Centerstage: How Microsoft & Samsung Could Be Game Changers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Secret Behind Artificnial Intelligence Black Boxes Explained
-date: 2024-09-15T18:13:14.191Z
-updated: 2024-09-18T02:11:35.795Z
+date: 2024-09-16T20:08:34.863Z
+updated: 2024-09-22T23:30:44.686Z
 tags:
   - chatgpt
   - open-ai
@@ -56,27 +56,20 @@ thumbnail: https://thmb.techidaily.com/a424e98c842dd6ab44b332abf2c95ae69e65b8caf
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Learn Grammar and Syntax
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Personalized Tests
 
@@ -102,10 +95,10 @@ Here's how you can create your own personalized tests:
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. How Does It Compare to Other Alternatives?
@@ -115,6 +108,13 @@ Here's how you can create your own personalized tests:
  You also get detailed explanations, examples, and cultural insights about the language and the people who speak it. Language apps can do this to some extent, but ChatGPT Plus is more versatile and flexible.
 
  ChatGPT Plus may not provide you with the speaking or listening capabilities to help with pronunciation that other[language-learning apps](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) have, but it acts as your teacher that understands context and your progress. These two items help expedite your journey of learning a new language—something no other app can really do.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is the Perfect Partner for Learning a New Language
 
@@ -135,18 +135,18 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ecoding-youtubes-algorithm-behind-prominent-comments/"><u>[New] Decoding YouTube's Algorithm Behind Prominent Comments</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-quintessential-quiet-gaming-on-the-go/"><u>[New] Quintessential Quiet Gaming on the Go</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-fb-sensation-strategies-for-marketers-and-influencers/"><u>[Updated] Fb Sensation Strategies for Marketers and Influencers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unveiling-the-secrets-of-showmores-screen-capture-software/"><u>[Updated] Unveiling the Secrets of ShowMore’s Screen Capture Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-temporal-twist-mastering-video-flipping-in-snapchat/"><u>In 2024, Temporal Twist Mastering Video Flipping in Snapchat</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-methods-capturing-screenshots-and-recording-your-screen-on-windows-pc/"><u>Top 5 Methods: Capturing Screenshots & Recording Your Screen on Windows PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-methods-for-converting-aiff-audio-files-into-mp3-format-on-your-pc/"><u>Top Methods for Converting AIFF Audio Files Into MP3 Format on Your PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-ranking-complimentary-avi-to-mp4-video-transcoder-the-ultimate-free-factory/"><u>Top-Ranking Complimentary AVI to MP4 Video Transcoder: The Ultimate Free Factory</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-iphone-footage-on-windows-easy-editing-techniques-revealed/"><u>Transform Your iPhone Footage on Windows: Easy Editing Techniques Revealed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-reducing-video-file-size-vob-compression-techniques/"><u>Ultimate Guide to Reducing Video File Size - VOB Compression Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-vbr-and-cbr-determining-your-ideal-approach-to-video-transcoding/"><u>Understanding VBR and CBR: Determining Your Ideal Approach to Video Transcoding</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-uncompromised-zoom-audio-two-key-techniques-revealed-for-2024/"><u>[Updated] Uncompromised Zoom Audio Two Key Techniques Revealed for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dare-to-innovate-with-claude-3-the-top-4-reasons-to-switch-up/"><u>Dare to Innovate with Claude 3: The Top 4 Reasons to Switch Up</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-tips-for-freelancers-mastering-chatgpt-for-content-creation-success/"><u>Essential Tips for Freelancers: Mastering ChatGPT for Content Creation Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/historical-insights-pinpointing-when-artificial-neural-networks-came-to-be/"><u>Historical Insights: Pinpointing When Artificial Neural Networks Came to Be</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-itel-p40-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Itel P40 for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-analytics-6-essential-uses-of-chatgpt-for-data-professionals/"><u>Mastering Analytics: 6 Essential Uses of ChatGPT for Data Professionals</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Max Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-vivo-x90s-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Vivo X90S has been deleted.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-integrating-codegpt-into-your-visual-studio-code/"><u>Step-by-Step Guide: Integrating CodeGPT Into Your Visual Studio Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-ai-powered-note-taking-tools-for-superior-notetaking-performance/"><u>Top 6 AI-Powered Note Taking Tools for Superior Notetaking Performance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-gaming-headset-picks/"><u>Top-Ranking Gaming Headset Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-data-analysis-with-chatgpt-uncover-these-six-insightsful-techniques/"><u>Transforming Data Analysis with ChatGPT: Uncover These Six Insightsful Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unblock-videos-from-twitter-in-chrome/"><u>Unblock Videos From Twitter in Chrome</u></a></li>
 </ul></div>
 

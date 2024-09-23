@@ -1,7 +1,7 @@
 ---
 title: How Accurate Is ChatGPT in Delivering Health-Related Guidance?
-date: 2024-09-15T05:47:25.914Z
-updated: 2024-09-17T20:29:58.667Z
+date: 2024-09-15T20:03:38.595Z
+updated: 2024-09-23T03:19:32.149Z
 tags:
   - chatgpt
   - open-ai
@@ -94,13 +94,6 @@ ChatGPT also cracked the problem as well.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Claude AI: Coding Skills
 
  Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
@@ -111,6 +104,13 @@ ChatGPT also cracked the problem as well.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
@@ -118,10 +118,10 @@ ChatGPT also cracked the problem as well.
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
@@ -149,17 +149,19 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-understanding-ffpm-in-firefox-today/"><u>[Updated] Understanding FFPM in Firefox Today</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-fixes-for-installation-warnings-validating-drivers-on-your-pc/"><u>Comprehensive Fixes for Installation Warnings: Validating Drivers on Your PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/data-security-with-chatgpt-features/"><u>Data Security with ChatGPT Features</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/decoding-the-characters-of-nihongo-writing-system/"><u>Decoding the Characters of Nihongo Writing System</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-motorola-moto-g73-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Motorola Moto G73 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-integrative-design-embedding-youtube-in-slides/"><u>In 2024, Integrative Design Embedding YouTube in Slides</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-ai-constructing-a-web-app-with-chatgpt/"><u>Integrating AI: Constructing a Web App with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-tips-editing-dall-e-3-generated-images-from-webp-to-classic-jpg-and-png/"><u>Quick Tips: Editing DALL-E 3 Generated Images From WebP to Classic JPG and PNG</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-logitech-mouse-battery/"><u>Reviving Your Logitech Mouse Battery</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/starcraft-2-no-more-crashes-ultimate-solutions-for-a-smooth-gaming-experience-on-desktops/"><u>StarCraft 2 No More Crashes: Ultimate Solutions for a Smooth Gaming Experience on Desktops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-process-transforming-multiple-wav-recordings-into-aac-on-your-pc/"><u>Step-by-Step Process: Transforming Multiple WAV Recordings Into AAC on Your PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-ai-advancements-for-enterprise-leaders/"><u>The Ultimate List of AI Advancements for Enterprise Leaders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-snicker-station-event-oriented-joke-repository/"><u>[New] Snicker Station Event-Oriented Joke Repository</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-amazon-original-elite-social-favorites-and-watch-count-hits/"><u>[Updated] Amazon Original Elite Social Favorites and Watch Count Hits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44cm44kq44oz44op44kk44oz44of44o844og44kj44oz44kw6yyy55s744ov44kh44kk44or5yih44kk5yplusw44kk5oml6acg44ks44kk44oj44cn/"><u>「オンラインミーティング録画ファイル切り取り手順ガイド」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/2016-exclusive-wonderfox-and-8-brand-easter-promo-win-529-in-prizes-march-21-31/"><u>2016 Exclusive Wonderfox & 8 Brand Easter Promo: Win $529 in Prizes, March 21-31!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029386322-gif/"><u>GIFを作る方法 - 簡単なステップガイド</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-play-8t-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor Play 8T</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Phone FRP Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-nokia-g22-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Nokia G22 and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030026989-mp4windows-10/"><u>MP4ファイルをスライスするためのWindows 10の効果的なテクニック</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/rapid-refit-youtube-on-mac-perfect-scaling/"><u>Rapid Refit Youtube on Mac Perfect Scaling</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stop-unexpected-shutdowns-on-windows-systems-identify-and-fix-the-most-common-issues-in-8-easy-steps/"><u>Stop Unexpected Shutdowns on Windows Systems: Identify and Fix the Most Common Issues in 8 Easy Steps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/uncover-the-future-leading-innovations-in-vr-handwear-for-2024/"><u>Uncover the Future Leading Innovations in VR Handwear for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027780419-windows-10mp3/"><u>Windows 10で音楽を最適化する：MP3ファイルの処理方法 - 結合・トリミングテクニック</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028460514-wlmpmp4avimov/"><u>WLMPからMP4/AVI/MOVへの効率的変換手順とテクニック</u></a></li>
 </ul></div>
 

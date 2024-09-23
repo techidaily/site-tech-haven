@@ -1,7 +1,7 @@
 ---
 title: "Navigating AI with Ease: 5 Strategies to Utilize ChatGPT Openly"
-date: 2024-09-15T02:55:04.041Z
-updated: 2024-09-17T19:33:14.732Z
+date: 2024-09-18T18:19:15.071Z
+updated: 2024-09-22T20:51:07.257Z
 tags:
   - chatgpt
   - open-ai
@@ -94,6 +94,13 @@ ChatGPT also cracked the problem as well.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude AI: Coding Skills
 
  Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
@@ -110,13 +117,6 @@ ChatGPT also cracked the problem as well.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
@@ -124,10 +124,16 @@ ChatGPT also cracked the problem as well.
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
@@ -149,18 +155,21 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-maximizing-marketing-the-best-highlight-techniques-for-brands/"><u>[New] 2024 Approved Maximizing Marketing The Best Highlight Techniques for Brands</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-innovative-uses-of-b-roll-beyond-traditional-applications/"><u>[Updated] 2024 Approved Innovative Uses of B-Roll Beyond Traditional Applications</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-8-free-4k-video-player-software-for-windows-pcandmac/"><u>[Updated] Best 8 Free 4K Video Player Software for Windows PC&Mac</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/44cm44kq44oz44op44kk44oz44gn5yuv55s744ke6zplusz5aow44ks44kt44oj44ox44ob44oj44gz44kl44gf44kb44gu5yq55p6c55qe44gq44og44kv44ol44od44kv44cn/"><u>「オンラインで動画や音声をキャプチャするための効果的なテクニック」</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726029305320-4k/"><u>4Kビデオ品質向上テクニック：高解像度映像ダウンサイジング</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726029334637-wmvmpeg/"><u>最新の画質変換ソフトウェアでWMVをMPEGに簡単！高性能お勧めコンバータ</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-c50-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Poco C50</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-co-creating-video-marketing-with-brand-participants/"><u>In 2024, Co-Creating Video Marketing with Brand Participants</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-skills-style-success-your-roadmap-in-the-creative-industry/"><u>In 2024, Skills, Style, Success Your Roadmap in the Creative Industry</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028106062-movwav/"><u>MOV動画から直接WAVオーディオ抽出方法【変換ガイド】</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028396986-tiktok/"><u>TikTokビデオに最適なアスペクト比と制作手法</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-12-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 12 Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028061863-dvd/"><u>クラウド上にDVDファイルを安全に保管する効果的な方法</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-capturing-sounds-audacity-tutorial-for-mac-users/"><u>[New] 2024 Approved Capturing Sounds Audacity Tutorial for Mac Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-bridging-the-gap-tweeting-plus-tumblr-video-uploads/"><u>[New] In 2024, Bridging the Gap Tweeting + Tumblr Video Uploads</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/treaming-service-showdown-facebook-vs-youtube-vs-twitvision-for-2024/"><u>[New] Streaming Service Showdown Facebook Vs. YouTube Vs. TwitVision for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-flixfortress-over-a-hundred-channels-of-fortitude/"><u>[Updated] FlixFortress Over a Hundred Channels of Fortitude</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-global-streaming-giants-face-off-facebook-live-youtube-live-periscope/"><u>[Updated] Global Streaming Giants' Face-Off Facebook Live, YouTube Live, Periscope</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-walkthrough-to-downloading-and-updating-intel-hd-graphics-5500s-software/"><u>Comprehensive Walkthrough to Downloading & Updating Intel HD Graphics 5500'S Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-optimizing-pc-performance-for-call-of-duty-warzone/"><u>Resolved: Optimizing PC Performance for Call of Duty Warzone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-masterclass-on-free-gif-downloading-and-video-merging-techniques/"><u>Step-by-Step Masterclass on Free GIF Downloading and Video Merging Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-converting-your-edit-into-mp4-with-final-cut-pro/"><u>Step-by-Step Tutorial on Converting Your Edit Into MP4 with Final Cut Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-sending-large-video-files-via-email-with-ease-using-three-effective-approaches/"><u>Step-by-Step Tutorial: Sending Large Video Files via Email with Ease Using Three Effective Approaches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surface-pen-malfunctions-heres-how-to-restore-its-functionality/"><u>Surface Pen Malfunctions? Here's How to Restore Its Functionality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-video-twist-guide-from-portrait-to-panoramic-on-instagram-for-2024/"><u>The Ultimate Video Twist Guide From Portrait to Panoramic on Instagram for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-14-fantastic-free-mobile-applications-for-streaming-anime-on-ios-and-android-devices/"><u>Top 14 Fantastic Free Mobile Applications for Streaming Anime on iOS & Android Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-dependable-and-secure-pc-webcam-capturing-applications-for-windows-users/"><u>Top 4 Dependable and Secure PC Webcam Capturing Applications for Windows Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-solutions-for-troubleshooting-microsoft-sound-recorder-issues/"><u>Top 7 Solutions for Troubleshooting Microsoft Sound Recorder Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-free-video-editing-tools-best-open-source-options/"><u>Top-Rated Free Video Editing Tools: Best Open Source Options</u></a></li>
 </ul></div>
 

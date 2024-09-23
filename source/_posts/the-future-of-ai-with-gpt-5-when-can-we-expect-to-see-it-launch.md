@@ -1,7 +1,7 @@
 ---
 title: "The Future of AI with GPT-5: When Can We Expect to See It Launch?"
-date: 2024-09-13T23:03:03.745Z
-updated: 2024-09-17T16:27:17.703Z
+date: 2024-09-18T16:42:52.818Z
+updated: 2024-09-22T19:42:10.525Z
 tags:
   - chatgpt
   - open-ai
@@ -94,13 +94,6 @@ ChatGPT also cracked the problem as well.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Claude AI: Coding Skills
 
  Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
@@ -111,24 +104,37 @@ ChatGPT also cracked the problem as well.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -149,18 +155,17 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-asmr-the-ultimate-list-of-mics/"><u>[New] Mastering ASMR - The Ultimate List of Mics</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-ultimate-tutorial-mastering-twitter-video-responses/"><u>[Updated] 2024 Approved Ultimate Tutorial Mastering Twitter Video Responses</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-from-capturing-to-sharing-mastery-of-aiseesoft-recorder-features-for-2024/"><u>[Updated] From Capturing to Sharing Mastery of Aiseesoft Recorder Features for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/comprehensive-logitech-4k-cam-review-for-ultimate-video-quality-for-2024/"><u>Comprehensive Logitech 4K Cam Review for Ultimate Video Quality for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-8-free-online-video-editors-for-youtube/"><u>In 2024, 8 Free Online Video Editors for YouTube</u></a></li>
-<li><a href="https://android-location.techidaily.com/mastering-pc-builds-and-upgrades-insights-from-toms-hardware-wisdom/"><u>Mastering PC Builds and Upgrades: Insights From Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-substitutes-for-arconai-tv-down-in-providing-continuous-live-streaming-and-kodi-compatible-entertainment/"><u>Top Substitutes for ArconAI TV Down in Providing Continuous Live Streaming & Kodi-Compatible Entertainment</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-techniques-for-seamless-mp4-to-hevc-transformation-while-preserving-video-excellence/"><u>Top Techniques for Seamless MP4 to HEVC Transformation While Preserving Video Excellence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshoot-dvdfab-hd-decrypter-issues-with-effective-solutions/"><u>Troubleshoot DVDFab HD Decrypter Issues with Effective Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-h264-format-problems-for-smooth-video-streaming-in-windows-10/"><u>Troubleshooting H.264 Format Problems for Smooth Video Streaming in Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/two-effective-strategies-to-block-intrusive-ads-during-video-streaming/"><u>Two Effective Strategies to Block Intrusive Ads During Video Streaming</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-flawless-recording-techniques-for-grand-theft-auto-v-gaming-sessions/"><u>Ultimate Guide: Flawless Recording Techniques for Grand Theft Auto V Gaming Sessions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-experience-the-future-top-4k-video-demos-you-wont-want-to-miss/"><u>Updated 2024 Approved Experience the Future Top 4K Video Demos You Wont Want to Miss</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-gelato-gaze-guide-thorough-analysis-and-detailed-instructions-on-ice-cream-monitoring/"><u>[New] Gelato Gaze Guide Thorough Analysis & Detailed Instructions on Ice Cream Monitoring</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-method-to-identify-recent-instagram-unfollows/"><u>[Updated] Method to Identify Recent Instagram Unfollows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-drone-friendly-vr-experiences/"><u>2024 Approved Top 5 Drone-Friendly VR Experiences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/f4v-to-mov-movavi/"><u>網上不需支付的 F4V to MOV 格式改變工具 - 利用 Movavi 頂尖效能</u></a></li>
+<li><a href="https://win-able.techidaily.com/civilization-6-wont-start-complete-guide-for-windows-11-users/"><u>Civilization 6 Won't Start? Complete Guide for Windows 11 Users</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/discover-the-leading-substitutes-for-openais-dall-e-your-guide-to-the-7-best-alternatives-available-today/"><u>Discover the Leading Substitutes for OpenAI's DALL-E: Your Guide to the 7 Best Alternatives Available Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/excellent-methods-for-high-quality-mkv-to-mp4-file-conversion/"><u>Excellent Methods for High-Quality MKV to MP4 File Conversion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/facile-conversion-de-fichier-raf-en-png-gratuit-tutomovavi/"><u>Facile Conversion De Fichier RAF en PNG Gratuit - TutoMovavi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/leverage-hashtags-for-top-ranked-fb-pages-for-2024/"><u>Leverage Hashtags for Top-Ranked FB Pages for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-version-1607-update-failure-during-setup/"><u>Resolving Windows 10 Version 1_607 Update Failure During Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-lenovo-screen-ignoring-inputs/"><u>Solved: Lenovo Screen Ignoring Inputs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-common-queries-and-interactive-feedback-in-faq-sections/"><u>Understanding Common Queries & Interactive Feedback in FAQ Sections</u></a></li>
 </ul></div>
 

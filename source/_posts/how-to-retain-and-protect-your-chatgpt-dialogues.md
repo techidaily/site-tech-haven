@@ -1,7 +1,7 @@
 ---
 title: How to Retain and Protect Your ChatGPT Dialogues
-date: 2024-09-16T23:10:36.189Z
-updated: 2024-09-17T16:30:20.289Z
+date: 2024-09-18T02:50:00.140Z
+updated: 2024-09-22T18:29:43.642Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,16 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
  It is uncertain how much data they're actually collecting and what they plan to do with it in the long term. The best you can do is ensure the service you're subscribing to has good privacy policies and you're not sharing personal data or private information with any generative AI chatbot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Contextual Understanding
@@ -63,16 +69,16 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 
 ![Laptop screen showing computer codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/laptop-screen-showing-computer-codes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Most AI chatbots are trained on a limited knowledge base. They have information cutoffs, meaning they can't access information released beyond a certain date. This is a well-known issue with ChatGPT, which is trained on data up to September 2021.
 
  Access to the internet is an obvious fix to this problem. Microsoft's[Bing is now powered by AI](https://www.makeuseof.com/more-likely-to-use-bing-now-powered-by-ai/) , meaning Bing AI Chat also has access to the web and can access relevant and updated information without any limits.[ChatGPT Plus also has this feature in the form of plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) , but you'll have to upgrade from the free version if you want to use them.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Language Model
 
@@ -81,10 +87,16 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
  Currently, most AI chatbots appear to use GPT-3 or GPT-4.[While GPT-3 is quite capable, GPT-4 is much better](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained) . The latter is better at understanding longer prompts, has better contextual understanding, and is trained on a larger dataset.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Multilingual Support
@@ -122,20 +134,12 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-seamlessly-post-vimeo-to-instagram-for-2024/"><u>[New] Seamlessly Post Vimeo to Instagram for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-sony-bdp-s6500-review/"><u>[New] Sony BDP-S6500 Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-deciding-the-right-direction-fb-video-posts/"><u>[Updated] 2024 Approved Deciding the Right Direction FB Video Posts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-powerful-insights-unlocking-full-potential-with-mobizen-screen-recording/"><u>[Updated] Powerful Insights Unlocking Full Potential with Mobizen Screen Recording</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-perfect-your-igtv-presentations-with-top-video-editors/"><u>2024 Approved Perfect Your IGTV Presentations with Top Video Editors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-review-10-most-effective-methods-for-live-cricket-streaming-for-2024/"><u>A Review 10 Most Effective Methods for Live Cricket Streaming for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-sites-with-free-mp3-audiobooks/"><u>Discover the Ultimate List of Sites with Free MP3 Audiobooks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/downloading-ultra-hd-60fps-videos-from-youtube/"><u>Downloading Ultra HD 60Fps Videos From YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dsdpcm/"><u>DSDからPCMに切り替える時、なぜ音質が失われるのかとその解決策</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-tutorial-on-reducing-file-size-by-changing-your-24-bit-wavs-to-efficient-16-bit-audio/"><u>Easy Tutorial on Reducing File Size by Changing Your 24-Bit WAVs to Efficient 16-Bit Audio</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-editing-youtube-videos-pre-upload-cuts-post-upload-adjustments-and-download-modifications/"><u>Effective Strategies for Editing YouTube Videos: Pre-Upload Cuts, Post-Upload Adjustments & Download Modifications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-rip-and-backup-of-despicable-me-2-on-dvd-for-pc-and-mobile-viewing-do-it-your-way/"><u>Effortless Rip-and-Backup of 'Despicable Me 2' On DVD for PC and Mobile Viewing - Do It Your Way!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortlessly-transform-your-aiff-files-into-ogg-format-at-no-cost/"><u>Effortlessly Transform Your AIFF Files Into Ogg Format at No Cost</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-m14-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy M14 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://some-tips.techidaily.com/windows-11-essentials-executing-a-pristine-system-reboot/"><u>Windows 11 Essentials: Executing a Pristine System Reboot</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-dull-to-dynamic-top-11-techniques-for-improved-colors/"><u>[Updated] From Dull to Dynamic Top 11 Techniques for Improved Colors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-horizon-capture-setup-vr/"><u>[Updated] Horizon Capture Setup VR</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-top-picks-most-retweeted-and-binge-watched-series/"><u>[Updated] In 2024, Twitters' Top Picks Most Retweeted & Binge-Watched Series</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2023s-ultimate-toolwiz-photo-suite-analysis/"><u>2023'S Ultimate Toolwiz Photo Suite Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adobe-premiere-pro-and-elements/"><u>静止画から動画への変換: Adobe Premiere Pro & Elementsで効果的な作り方</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/aac/"><u>AAC音声ファイルの高品質維持中編集技術</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028433279-tiktok/"><u>パーミッションなしの状態で、TikTokビデオの保存方法詳細解説</u></a></li>
 </ul></div>
 

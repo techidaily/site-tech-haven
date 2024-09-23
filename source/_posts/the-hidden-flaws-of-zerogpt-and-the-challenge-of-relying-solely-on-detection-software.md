@@ -1,7 +1,7 @@
 ---
 title: The Hidden Flaws of ZeroGPT and the Challenge of Relying Solely on Detection Software
-date: 2024-09-11T04:45:35.275Z
-updated: 2024-09-18T01:48:31.476Z
+date: 2024-09-19T23:32:10.343Z
+updated: 2024-09-22T19:54:52.926Z
 tags:
   - chatgpt
   - open-ai
@@ -51,10 +51,16 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
  But there are risks to consider here, and the AI system in use would have to be very thoroughly trained on how to spot possible red flags. Still, simply using this as an initial assessment could prove highly beneficial, both to doctors and patients.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Developing New Support Techniques With AI
@@ -66,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
  On top of this, AI has been proven to detect the presence of mental illnesses with a relatively high rate of accuracy. In a[2019 psychiatry report by IBM and the University of California](https://escholarship.org/content/qt9gx593b0/qt9gx593b0%5FnoSplash%5Fd814b6b41c76cb874050695d2bf30ced.pdf) , it was stated that, when testing AI in mental illness detection, accuracy ranged from 62 to 92 percent (depending on the AI system and training data used). While the lower ends of this range aren't too impressive, continued development may allow AI systems to reach a consistently high accuracy rate when detecting mental illnesses.
 
  Though this all seems very promising, there are also[dangers associated with using AI](https://www.makeuseof.com/is-ai-dangerous-5-immediate-risks-of-artificial-intelligence/) in the mental health field and other ways that AI can worsen mental health in general.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Can AI Worsen Mental Health?
 
@@ -85,27 +98,20 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 
 ![hands reaching out to each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hands-reaching-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  At the moment, humans are seen as much more effective at conducting therapy than machines, and this may always be the case. This is why the application of AI in the mental health field should be regulated and monitored very carefully so that patients are still receiving the best care possible.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### AI Giving Faulty Advice or Solutions
 
  While AI is capable of some amazing things, it is also vulnerable to errors. This is a big concern when AI is being entrusted with people's mental health. Misjudging someone's state of mind, offering ineffective treatment, or misinterpreting important data could be catastrophic for the patient, so there are major considerations that need to be made here.
 
  There are plenty of things that can go wrong while using AI, particularly as it is in its early stages. System malfunctions, software bugs, and improper training can all lead to issues, with malicious attacks also posing a possible risk.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI's Future in Mental Health Must Be Watched Carefully
 
@@ -126,16 +132,21 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-full-disclosure-ricoh-theta-s-inside-and-out-for-2024/"><u>[New] Full Disclosure Ricoh Theta S Inside & Out for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-5-innovative-approaches-to-choosing-a-dynamic-podcast-name/"><u>[Updated] 5 Innovative Approaches to Choosing a Dynamic Podcast Name</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-snug-winter-atmospheres-for-engaging-online-content/"><u>[Updated] In 2024, Crafting Snug Winter Atmospheres for Engaging Online Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/diverse-iptv-platforms-integration/"><u>Diverse IPTV Platforms Integration</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experts-rate-lihan-lhfm1039-the-ultimate-guide-to-using-a-wireless-bluetooth-fm-transmitter-in-cars/"><u>Experts Rate LIHAN LHFM1039: The Ultimate Guide to Using a Wireless Bluetooth FM Transmitter in Cars</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-converting-and-adding-mkv-videos-into-your-imovie-projects/"><u>Step-by-Step Guide: Converting and Adding MKV Videos Into Your iMovie Projects</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-the-cloud-9-addon-in-kodi-matrix-and-leia-versions/"><u>Step-by-Step Guide: Setting Up the Cloud 9 Addon in Kodi (Matrix & Leia Versions)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-installing-and-activating-elementum-addon-on-nexus-matrix-and-kodi-devices/"><u>Step-by-Step Tutorial for Installing and Activating Elementum Addon on Nexus, Matrix & Kodi Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-transforming-wma-files-into-high-quality-m4a-format-on-pc-without-costs/"><u>Step-by-Step Tutorial: Transforming WMA Files Into High-Quality M4A Format on PC Without Costs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-12-free-and-reliable-anime-extensions-for-kodi-v20v19-install-without-a-sub/"><u>Top 12 Free & Reliable Anime Extensions for Kodi V20/V19: Install Without a Sub</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-itel-p55-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Itel P55 5G</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-budget-friendly-sponsorship-blueprint-for-youtube-enthusiasts/"><u>[New] Budget-Friendly Sponsorship Blueprint for YouTube Enthusiasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-hdr-creation-in-photoshop-workflows/"><u>[Updated] Advanced HDR Creation in Photoshop Workflows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-live-video-quest-evaluating-the-strengths-of-obs-and-twitch-studio/"><u>[Updated] In 2024, Live Video Quest Evaluating the Strengths of OBS and Twitch Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-20-dynamic-anime-openers-songs/"><u>[Updated] Top 20 Dynamic Anime Openers' Songs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pcx-gif-movavi/"><u>無限制網路直接過渡 PCX為 GIF - 使用 Movavi 編輯器</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/avoidance-tactics-no-more-recommended-podcasts-on-spotify-for-2024/"><u>Avoidance Tactics No More Recommended Podcasts on Spotify for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-lava-storm-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Lava Storm 5G Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-generative-ai-key-concepts-distilled/"><u>Inside Generative AI: Key Concepts Distilled</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-giants-of-social-engagement-facebook-twitter-instagram-and-youtube/"><u>Mastering the Giants of Social Engagement: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/taking-your-aerial-game-to-new-heights-with-dji-spark-reviewed/"><u>Taking Your Aerial Game to New Heights with DJI Spark Reviewed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/techniques-for-achieving-perfect-video-segmentation-a-comprehensive-tutorial/"><u>Techniques for Achieving Perfect Video Segmentation: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-11-premier-game-capture-programs-a-comprehensive-selection/"><u>Top 11 Premier Game Capture Programs: A Comprehensive Selection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-13-screen-capture-tools-compatible-with-all-devices-by-movavi/"><u>Top 13 Screen Capture Tools Compatible with All Devices by Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transfert-gratuit-de-fichiers-wav-a-mp3-avec-movavi-convertissez-sans-depenser/"><u>Transfert Gratuit De Fichiers WAV À MP3 Avec Movavi - Convertissez Sans Dépenser</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-audio-units-quickly-and-free-on-the-web-discover-top-file-format-changers/"><u>Transform Your Audio Units Quickly & Free on the Web: Discover Top File Format Changers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transformer-facilement-un-fichier-m4v-en-webm-gratuite-ligne-de-telechargement-rapide-avec-movavi/"><u>Transformer Facilement Un Fichier M4V en WEBM Gratuite - Ligne De Téléchargement Rapide Avec Movavi</u></a></li>
 </ul></div>
 

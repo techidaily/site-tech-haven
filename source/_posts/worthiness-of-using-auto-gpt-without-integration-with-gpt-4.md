@@ -1,7 +1,7 @@
 ---
 title: Worthiness of Using Auto-GPT without Integration with GPT-4
-date: 2024-09-10T22:09:08.897Z
-updated: 2024-09-17T19:50:41.535Z
+date: 2024-09-16T00:47:36.613Z
+updated: 2024-09-22T18:34:44.092Z
 tags:
   - chatgpt
   - open-ai
@@ -56,10 +56,10 @@ How do you know when you've been granted access?
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
@@ -69,14 +69,14 @@ How do you know when you've been granted access?
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click**Keep in sidebar** . This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
- However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
@@ -101,19 +101,18 @@ How do you know when you've been granted access?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/blending-gmail-with-outlook-on-windows-comprehensive-guide/"><u>Blending Gmail with Outlook on Windows: Comprehensive Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/bridging-audio-artistry-in-visual-formats/"><u>Bridging Audio Artistry in Visual Formats</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-trust-chatgpt-with-personal-information-a-privacy-analysis/"><u>Can You Trust ChatGPT with Personal Information? A Privacy Analysis</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/capturing-desktop-image-on-windows-editions-for-2024/"><u>Capturing Desktop Image on Windows Editions for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comedy-codex-from-ai-unlocking-algorithmic-giggles/"><u>Comedy Codex From AI: Unlocking Algorithmic Giggles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparison-between-google-palm-2-and-openais-gpt-n-understanding-their-distinctive-features/"><u>Comparison Between Google PaLM 2 and OpenAI's GPT-N: Understanding Their Distinctive Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/etiquette-for-conversing-with-virtual-helpers/"><u>Etiquette for Conversing with Virtual Helpers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/expert-tips-for-high-quality-zoom-podcast-sessions-for-2024/"><u>Expert Tips for High-Quality Zoom Podcast Sessions for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-zero-5g-2023-turbo-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Zero 5G 2023 Turbo Face Lock?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-the-potential-of-bing-ai-chat-within-android-keyboard-configurations/"><u>Harnessing the Potential of Bing AI Chat Within Android Keyboard Configurations</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-phasmophobia-game-hanging-on-90-load/"><u>How to Fix Phasmophobia Game Hanging on 90% Load</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-x7-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X7 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-openais-shap-e-and-its-functionalities-for-model-interpretability/"><u>Understanding OpenAI’s Shap-E and Its Functionalities for Model Interpretability</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-from-chaos-to-clarity-mastering-xiaomis-screen-recording/"><u>[Updated] 2024 Approved From Chaos to Clarity Mastering Xiaomi's Screen Recording</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-revolutionizing-color-with-the-precision-of-4k-blade-cameras-for-2024/"><u>[Updated] Revolutionizing Color with the Precision of 4K Blade Cameras for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-electrical-upgrades/"><u>2024 Approved Electrical Upgrades</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/critical-insights-into-8-issues-faced-with-openais-chatgpt/"><u>Critical Insights Into 8 Issues Faced With OpenAI's ChatGPT</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortless-cleanup-with-stellar-file-eraser-5-pro-customized-scheduling-on-macos/"><u>Effortless Cleanup with Stellar File Eraser 5 Pro: Customized Scheduling on macOS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719353940627-resolve-icloud-install-issues-on-windows-quickly/"><u>Resolve iCloud Install Issues on Windows Quickly!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-snipping-and-editing-footage-using-vlc-software/"><u>Step-by-Step Tutorial: Snipping and Editing Footage Using VLC Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-watching-usb-files-via-vu-smarttv-system/"><u>Step-by-Step Tutorial: Watching USB Files via VU SmartTV System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-top-7-alternatives-to-sharex-for-cross-platform-compatibility/"><u>The Ultimate List of Top 7 Alternatives to ShareX for Cross-Platform Compatibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-easy-split-screen-video-editing-tools-for-quick-and-effortless-split-screen-creation/"><u>Top 5 Easy Split Screen Video Editing Tools for Quick and Effortless Split-Screen Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-picks-the-ultimate-apps-for-downloading-and-sharing-your-festive-holiday-videography/"><u>Top Picks: The Ultimate Apps for Downloading and Sharing Your Festive Holiday Videography</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-substitutes-for-arconai-tv-down-in-providing-continuous-live-streaming-and-kodi-compatible-entertainment/"><u>Top Substitutes for ArconAI TV Down in Providing Continuous Live Streaming & Kodi-Compatible Entertainment</u></a></li>
 </ul></div>
 

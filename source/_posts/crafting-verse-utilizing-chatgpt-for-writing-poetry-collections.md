@@ -1,7 +1,7 @@
 ---
 title: "Crafting Verse: Utilizing ChatGPT for Writing Poetry Collections"
-date: 2024-09-12T04:47:20.888Z
-updated: 2024-09-18T04:47:05.189Z
+date: 2024-09-18T23:49:26.897Z
+updated: 2024-09-22T19:36:13.555Z
 tags:
   - chatgpt
   - open-ai
@@ -76,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Strength Training Plans From ChatGPT
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
@@ -94,15 +87,22 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 ![ChatGPT deadlifts prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-deadlifts-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In this example, I received detailed instructions on the correct way to do deadlifts. It offered helpful pointers about your stance, grip, and even breathing techniques in order to make the most of this particular exercise.
 
  If you ever need to double-check the way to perform a certain exercise, or simply try out a new series of strength workouts, then ChatGPT is a helpful resource. The simple, straightforward responses and training plans offer a lot of information for beginner and more experienced athletes looking to increase their strength. Just be sure to verify the information with reputable sources before you take ChatGPT's advice.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## It's Possible to Use ChatGPT to Help With Your Fitness Goals
 
@@ -123,19 +123,18 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-digging-through-youtube-conversations-for-2024/"><u>[New] Digging Through YouTube Conversations for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/complete-step-by-step-tutorial-on-handbrakes-av1-encoding/"><u>Complete Step-by-Step Tutorial on HandBrake's AV1 Encoding</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-step-by-step-dvd-ripping-instructions-for-windows-and-mac-users/"><u>Comprehensive Guide: Step-By-Step DVD Ripping Instructions for Windows & Mac Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-step-by-step-tutorial-converting-dvds-into-iso-files-using-windows-11/"><u>Comprehensive Step-by-Step Tutorial: Converting DVDs Into ISO Files Using Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/converting-your-media-library-the-ultimate-guide-to-making-any-video-work-with-apple-tv/"><u>Converting Your Media Library: The Ultimate Guide to Making Any Video Work with Apple TV</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-part-files-a-comprehensive-guide-on-opening-and-converting-processes/"><u>Demystifying PART Files: A Comprehensive Guide on Opening & Converting Processes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/effortless-audio-collection-from-your-imac/"><u>Effortless Audio Collection From Your iMac</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-new-frontiers-in-contactless-interface-designs/"><u>Exploring New Frontiers in Contactless Interface Designs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/harmony-hub-tech-evolution/"><u>Harmony Hub Tech Evolution</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-silencing-soundscape-guiding-you-to-audio-deletion-in-mov-files-for-both-operating-systems/"><u>New Silencing Soundscape Guiding You to Audio Deletion in MOV Files for Both Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silence-broken-ultimate-solution-for-battlefield-4-sound-issues/"><u>Silence Broken: Ultimate Solution for Battlefield ^️4 Sound Issues</u></a></li>
-<li><a href="https://video-capture.techidaily.com/streamline-your-media-a-fast-track-from-mp4-to-webm-conversion/"><u>Streamline Your Media: A Fast Track From MP4 to WebM Conversion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-live-stream-gopro-to-facebook-and-periscope/"><u>[Updated] How to Live Stream Gopro to Facebook and Periscope?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-update-to-your-epson-wf-3520-compatible-windows-drivers-download/"><u>Easy Update to Your Epson WF-3520: Compatible Windows Drivers Download</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-x-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the Apple iPhone X Without Previous Owner?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-x90s-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo X90S Phones</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-through-pages-a-detailed-overview-of-apple-books-app/"><u>Navigating Through Pages: A Detailed Overview of Apple Books App</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-guide-capturing-screenshots-and-videos-on-an-asus-computer/"><u>Simple Guide: Capturing Screenshots and Videos on an ASUS Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/soundcloud/"><u>SoundCloud ミュージックファイルダウンロードトラブルに悩む方へ、解決策をご紹介</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-cropping-videos-into-a-perfect-square-in-windows-11/"><u>Step-by-Step Guide: Cropping Videos Into a Perfect Square in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-streaming-films-from-your-usb-onto-mi-tv/"><u>Step-by-Step Guide: Streaming Films From Your USB Onto Mi TV</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-art-of-melody-recognition-easily-identifying-songs-through-hum-sing-or-whistle/"><u>The Art of Melody Recognition: Easily Identifying Songs Through Hum, Sing or Whistle</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-battle-of-mobile-os-a-closer-look-at-android-iphone-and-symbian/"><u>The Battle of Mobile OS: A Closer Look at Android, iPhone, and Symbian</u></a></li>
+<li><a href="https://facebook.techidaily.com/whatsapp-halts-enforcement-of-upcoming-privacy-update/"><u>WhatsApp Halts Enforcement of Upcoming Privacy Update</u></a></li>
 </ul></div>
 

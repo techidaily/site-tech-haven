@@ -1,7 +1,7 @@
 ---
 title: "Demystifying AI Classifications: Strong AI versus Weak AI - An In-Depth Comparison"
-date: 2024-09-17T02:39:47.249Z
-updated: 2024-09-17T16:17:39.380Z
+date: 2024-09-16T23:57:54.091Z
+updated: 2024-09-22T19:36:16.629Z
 tags:
   - chatgpt
   - open-ai
@@ -45,6 +45,19 @@ thumbnail: https://thmb.techidaily.com/eca414d17b25e8f8a64d96408c677f9d5871694de
 
  In addition to the extensive library of community prompts, you can also use AIPRM for ChatGPT to create and save AI prompts for future use. This feature is especially useful if you have specific needs or frequently work on similar topics. It means you won't need to spend time crafting a new prompt for the same task each time you use ChatGPT.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is the AIPRM Chrome Extension Free?
 
  Yes, the AIPRM Chrome extension for ChatGPT is free to use and also offers several premium plans, from the**AIPRM Plus** plan, which costs $10 per month, to the**AIPRM Titan** plan, which costs up to $999 per month. AIPRM works well with ChatGPT's free and paid versions, making it a valuable tool for any user.
@@ -52,26 +65,19 @@ thumbnail: https://thmb.techidaily.com/eca414d17b25e8f8a64d96408c677f9d5871694de
 ![AIPRM for ChatGPT plans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-pricing-plan.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Install the AIPRM for ChatGPT Chrome Extension
 
@@ -85,18 +91,18 @@ thumbnail: https://thmb.techidaily.com/eca414d17b25e8f8a64d96408c677f9d5871694de
 
 You should now see the AIPRM dashboard on your ChatGPT page.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the AIPRM for ChatGPT Chrome Extension
 
  To get started, go to your ChatGPT account. You should see the AIPRM dashboard on your homepage. Click the**thumbs-up or down** icon on the green popup that appears to dismiss it. You can now use the extension directly from your ChatGPT account.
 
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, there are several tabs in the AIPRM dashboard, including:
 
@@ -111,6 +117,13 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
  You can start using AIPRM prompts by clicking the**Public** tab and scrolling through the list of available prompts. For instance, you can select the**Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Filter and Favorite AIPRM Prompts
 
  Considering the extensive selection of prompts, finding the right one for your needs may be challenging or time-consuming. To make it easier to find a specific prompt, you can filter the prompts by topic, activity, popularity, or ChatGPT version.
@@ -120,13 +133,6 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
 
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Create AIPRM Prompts
 
@@ -171,15 +177,16 @@ To create a custom AIPRM prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-leveraging-likes-and-comments-enhancing-engagement-on-instagram-stories/"><u>[New] In 2024, Leveraging Likes and Comments Enhancing Engagement on Instagram Stories</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-total-gaze-coverage-camera-analysis/"><u>[New] Total Gaze Coverage Camera Analysis</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-a-visual-journey-in-filmmaking-insights-from-filmora-expertise/"><u>[Updated] In 2024, A Visual Journey in Filmmaking Insights From Filmora Expertise</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-inside-look-top-10-screenshot-tools-on-macos-platform/"><u>[Updated] Inside Look Top 10 Screenshot Tools on macOS Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-system-specifications-understanding-what-your-pc-needs/"><u>Essential System Specifications: Understanding What Your PC Needs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/free-methods-converting-mkv-files-into-a-playable-dvd-format/"><u>Free Methods: Converting MKV Files Into a Playable DVD Format</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/full-disclosure-gecata-gameplay-tracker-reviewed-for-2024/"><u>Full Disclosure Gecata Gameplay Tracker Reviewed for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-creating-a-cost-free-youtube-to-ipodiphone-video-conversion-tool-using-automated-software/"><u>Guide: Creating a Cost-Free YouTube to iPod/iPhone Video Conversion Tool Using Automated Software</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-14-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on 14</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-blade-e-flite-mcn2-rtf-helicopter-unveiled-a-game-changer-for-rc-enthusiasts/"><u>The Blade E-Flite mCn2 RTF Helicopter Unveiled - A Game-Changer for RC Enthusiasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rganizing-your-youtube-content-with-ease/"><u>[New] Organizing Your YouTube Content with Ease</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unravel-the-mystery-of-reversed-videos-on-snapchat-for-2024/"><u>[New] Unravel the Mystery of Reversed Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/fixing-airdrop-issues-solutions-for-macos-big-sur-and-ios-17/"><u>Fixing AirDrop Issues: Solutions for macOS Big Sur & iOS 17</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hot-picks-best-free-screen-recorders-for-windows-users/"><u>Hot Picks Best Free Screen Recorders For Windows Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-embed-a-custom-music-player-onto-your-tumblr-page-a-detailed-tutorial/"><u>How To Embed a Custom Music Player Onto Your Tumblr Page - A Detailed Tutorial</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-cameras-that-complement-best-hats-for-capturing-motorcycle-adventures/"><u>In 2024, Cameras That Complement Best Hats for Capturing Motorcycle Adventures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/itunes-pc/"><u>ITunes PC用曲の追加方法とトラブルシューティング</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/lol/"><u>LoLリプレイを安全に保管するコツと、保存失敗時の迅速対策</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/er-convert-kits-transforming-youtube-vids-into-text/"><u>Premier Convert Kits Transforming YouTube Vids Into Text</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-dependable-methods-for-adding-subtitles-to-avi-files/"><u>Quick & Dependable Methods for Adding Subtitles to AVI Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-guide-decreasing-video-file-size-by-adjusting-bitrate/"><u>Quick Guide: Decreasing Video File Size by Adjusting Bitrate</u></a></li>
 </ul></div>
 

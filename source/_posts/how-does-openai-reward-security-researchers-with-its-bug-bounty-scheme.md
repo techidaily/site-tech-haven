@@ -1,7 +1,7 @@
 ---
 title: How Does OpenAI Reward Security Researchers with Its Bug Bounty Scheme?
-date: 2024-09-13T17:02:18.300Z
-updated: 2024-09-17T18:37:34.038Z
+date: 2024-09-17T20:05:39.609Z
+updated: 2024-09-22T22:41:40.069Z
 tags:
   - chatgpt
   - open-ai
@@ -75,10 +75,10 @@ Here, you must fill in the following information:
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
@@ -90,16 +90,10 @@ Here, you must fill in the following information:
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
@@ -123,16 +117,15 @@ Here, you must fill in the following information:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-dominate-digital-dialogue-the-top-10-masterful-igtv-practices-for-branding-success/"><u>[New] Dominate Digital Dialogue The Top 10 Masterful IGTV Practices for Branding Success</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-preserving-sims-4-moments-effective-strategies-for-recording-playthroughs-for-2024/"><u>[New] Preserving Sims 4 Moments Effective Strategies for Recording Playthroughs for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-resolving-live-stream-pause-issues-on-fb/"><u>[Updated] Resolving Live Stream Pause Issues on FB</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-securely-logging-live-radio-over-the-web-an-instructional-guide/"><u>[Updated] Securely Logging Live Radio Over the Web An Instructional Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-setup-the-finest-4k-dslr-shoulder-rigs-reviewed/"><u>2024 Approved Prime Setup The Finest 4K DSLR Shoulder Rigs Reviewed</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comfortable-cumuluspro-standing-desk-pad-evaluation-your-ideal-support-while-working/"><u>Comfortable CumulusPRO Standing Desk Pad Evaluation: Your Ideal Support While Working</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-3-free-techniques-to-downloading-your-brightcove-content/"><u>Top 3 FREE Techniques to Downloading Your Brightcove Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-flac-to-mp3wav-converter-choose-the-perfect-audio-format-solution/"><u>Top-Rated FLAC to MP3/WAV Converter: Choose the Perfect Audio Format Solution</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-adding-and-playing-videos-within-google-slide-decks/"><u>Ultimate Tutorial: Adding and Playing Videos Within Google Slide Decks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-gifv-the-ultimate-guide-to-converting-gifv-files-into-classic-gif-format/"><u>Understanding GIFV - The Ultimate Guide to Converting GIFV Files Into Classic GIF Format</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-your-editing-skills-with-mpeg-video-converter-factory-pro-essential-tips-and-tricks/"><u>Unleash Your Editing Skills with MPEG Video Converter Factory Pro: Essential Tips & Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-social-media-synergy-linking-instagram-with-tiktok/"><u>[New] Social Media Synergy Linking Instagram with TikTok</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-creators-guide-to-youtube-monetization-via-mobile/"><u>[New] The Creator's Guide to YouTube Monetization via Mobile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-ranked-costless-pixel-perfection-aid/"><u>[New] Top-Ranked Costless Pixel Perfection Aid</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-pro-tips-for-effective-use-of-supplemental-film-sequences-b-roll/"><u>[Updated] 2024 Approved Pro Tips for Effective Use of Supplemental Film Sequences (B-Roll)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-cyber-city-scenes-video-game-list-like-gta-v/"><u>[Updated] In 2024, Cyber City Scenes Video Game List Like GTA V</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-honor-magic-v2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Honor Magic V2 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-gionee-f3-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Gionee F3 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transformer-gratuitement-un-fichier-tiff-en-format-bmp-sur-ligne-movavi/"><u>Transformer Gratuitement Un Fichier TIFF en Format BMP Sur Ligne - Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/vob-mp4-online/"><u>VOB를 MP4로 제공하는 무료 Online 툴킷 - 모바이비</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/wmvwav-movavi/"><u>WMVからWAVへの簡単な無料オンライン音声ファイル変換 - Movavi</u></a></li>
 </ul></div>
 

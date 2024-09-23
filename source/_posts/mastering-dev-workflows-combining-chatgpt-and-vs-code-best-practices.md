@@ -1,7 +1,7 @@
 ---
 title: "Mastering Dev Workflows: Combining ChatGPT & VS Code Best Practices"
-date: 2024-09-12T02:47:39.935Z
-updated: 2024-09-17T20:32:35.113Z
+date: 2024-09-17T19:55:19.410Z
+updated: 2024-09-22T16:37:37.416Z
 tags:
   - chatgpt
   - open-ai
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Learn Grammar and Syntax
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
@@ -64,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Personalized Tests
 
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
 
@@ -87,10 +94,10 @@ Here's how you can create your own personalized tests:
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Cultural Learning
@@ -100,13 +107,6 @@ Here's how you can create your own personalized tests:
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. How Does It Compare to Other Alternatives?
 
@@ -135,20 +135,18 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-navigating-the-transition-from-tiktok-to-twitter-sharing-for-2024/"><u>[New] Navigating the Transition From TikTok to Twitter Sharing for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-leading-online-repositories-for-text-effect-graphics/"><u>[Updated] Leading Online Repositories for Text Effect Graphics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-gear-tips-gopro-edition/"><u>2024 Approved Professional Gear Tips GoPro Edition</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/dzsave/"><u>Epubor DzSave</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17-pro-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo S17 Pro Phone Without Password?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quick-guide-accelerate-your-pcs-startup-on-windows-11-with-simple-fixes/"><u>Quick Guide: Accelerate Your PC's Startup on Windows 11 with Simple Fixes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/seamless-video-transfer-from-youtube-to-instagram-for-2024/"><u>Seamless Video Transfer From YouTube to Instagram for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-for-a-seamless-vhs-to-dvd-transfer-using-premium-conversion-tools/"><u>Step-by-Step Instructions for a Seamless VHS to DVD Transfer Using Premium Conversion Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-snipping-and-editing-footage-using-vlc-software/"><u>Step-by-Step Tutorial: Snipping and Editing Footage Using VLC Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-watching-usb-files-via-vu-smarttv-system/"><u>Step-by-Step Tutorial: Watching USB Files via VU SmartTV System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-top-7-alternatives-to-sharex-for-cross-platform-compatibility/"><u>The Ultimate List of Top 7 Alternatives to ShareX for Cross-Platform Compatibility</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-easy-split-screen-video-editing-tools-for-quick-and-effortless-split-screen-creation/"><u>Top 5 Easy Split Screen Video Editing Tools for Quick and Effortless Split-Screen Creation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-picks-the-ultimate-apps-for-downloading-and-sharing-your-festive-holiday-videography/"><u>Top Picks: The Ultimate Apps for Downloading and Sharing Your Festive Holiday Videography</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nubia-red-magic-8s-proplus-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nubia Red Magic 8S Pro+ Device</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-peak-post-times-on-instagram/"><u>[New] 2024 Approved The Ultimate Guide to Peak Post Times on Instagram</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hythmic-roadmap-your-guide-to-music-submission-for-2024/"><u>[New] Rhythmic Roadmap Your Guide to Music Submission for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-syma-x8c-feature-analysis-for-2024/"><u>[New] Syma X8C Feature Analysis for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/convertissez-gratuitement-un-fichier-bmp-en-format-gif-avec-movavi/"><u>Convertissez Gratuitement Un Fichier BMP en Format GIF Avec Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creer-des-images-png-a-partir-de-fichiers-raw-pour-free-tutoriel-facile-dutilisation-de-movavi/"><u>Créer Des Images PNG À Partir De Fichiers RAW Pour Free - Tutoriel Facile D'utilisation De Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crie-seu-slide-show-com-audio-e-animacoes-personalizadas-para-windows-e-mac/"><u>Crie Seu Slide Show Com Áudio E Animações Personalizadas Para Windows E MAC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/descargar-e-importar-archivos-dts-libremente-a-la-web-con-convertidor-de-archivos-gratuito-de-movavi/"><u>Descargar E Importar Archivos DTS Libremente a La Web Con Convertidor De Archivos Gratuito De Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-mp3-conversion-tool-available-at-no-cost-convert-any-audio-file-via-movemagiccom/"><u>Easy MP3 Conversion Tool Available at No Cost: Convert Any Audio File via MoveMagic.com</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/editar-con-excelencia-en-movavi-suero-gratuito-de-edicion-de-videos-comprueba-como-funciona-ahora/"><u>Editar Con Excelencia en Movavi: Suero Gratuito De Edición De Vídeos - Comprueba Cómo Funciona Ahora!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo Phone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-premium-apps-for-capturing-crystal-clear-android-screenshots/"><u>In 2024, Premium Apps for Capturing Crystal Clear Android Screenshots</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-steps-to-overcome-common-usb-driver-errors-on-your-lenovo-computer/"><u>Simple Steps to Overcome Common USB Driver Errors on Your Lenovo Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-chrome-browser-vocal-transformers-revealed-for-enthusiast-users/"><u>Top Chrome Browser Vocal Transformers Revealed for Enthusiast Users</u></a></li>
 </ul></div>
 

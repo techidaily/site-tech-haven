@@ -1,7 +1,7 @@
 ---
 title: "Protecting Identity: Balancing Personalization and Privacy"
-date: 2024-09-12T19:48:36.013Z
-updated: 2024-09-18T05:05:48.077Z
+date: 2024-09-17T23:47:26.700Z
+updated: 2024-09-23T02:32:36.289Z
 tags:
   - chatgpt
   - open-ai
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 So, how can you use this?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the GPT Mentions Feature
@@ -67,13 +67,6 @@ So, how can you use this?
  Let's say you wanted to gather some key data and then create an infographic to introduce what you've found. To find the data, you start a chat with the Consensus GPT. Once Consensus gives you the relevant information, you mention Canva in your chat, and click on the Canva GPT option.
 
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, you're chatting with Canva until you click "X" on the**Talking to Canva** tab that will appear above the chat text box.
 
@@ -94,15 +87,22 @@ So, how can you use this?
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now, we have hotels, flights, and trails for our trip all in one chat!
 
@@ -123,17 +123,20 @@ Now, we have hotels, flights, and trails for our trip all in one chat!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-fcp-freebies/"><u>[Updated] The Ultimate Guide to FCP Freebies</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-top-youtuber-earnings-worldwide/"><u>[Updated] Top Youtuber Earnings Worldwide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-your-path-to-a-unique-auditory-experience-customizing-ringtone-and-sound-on-android/"><u>2024 Approved Your Path to a Unique Auditory Experience Customizing Ringtone & Sound on Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-fixes-for-a-vizio-tvs-lost-wi-fi-signal/"><u>DIY Fixes for a Vizio TV's Lost Wi-Fi Signal</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ensuring-privacy-with-personalized-language-models-how-to-defend-against-potential-data-leaks/"><u>Ensuring Privacy with Personalized Language Models: How to Defend Against Potential Data Leaks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-hd-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Infinix Smart 8 HD PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/identifying-counterfeit-chatgpt-mobile-applications-in-the-ios-marketplace/"><u>Identifying Counterfeit ChatGPT Mobile Applications in the iOS Marketplace</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-honor-90-gt-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor 90 GT Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-progopro-series-camera-comparison/"><u>In 2024, ProGoPro Series Camera Comparison</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastery-in-media-manipulation-ttml-and-xml-for-superior-srt-outputs-for-2024/"><u>Mastery in Media Manipulation TTML & XML for Superior SRT Outputs for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/operational-hiccup-bcm20702a0-driver-missing/"><u>Operational Hiccup: BCM20702A0 Driver Missing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/picking-the-perfect-partner-which-is-better-claude-or-chatgpt-for-daily-interactions/"><u>Picking the Perfect Partner: Which Is Better, Claude or ChatGPT for Daily Interactions?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/royal-match-exploring-its-multi-level-gameplay-dynamics/"><u>'Royal Match': Exploring Its Multi-Level Gameplay Dynamics</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-snapseed-basics-your-first-steps-in-enhancing-images/"><u>[Updated] In 2024, Snapseed Basics Your First Steps in Enhancing Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-live-broadcast-essentials-for-macos-users-on-mixer/"><u>[Updated] Live Broadcast Essentials for macOS Users on Mixer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/hevch265h264/"><u>無料でプレミアム！HEVCもしくはH.265ファイルを優れた品質のH.264に変換方法</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-x50-gt-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X50 GT without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-optimization-how-we-overcame-slow-motion-gameplay-woes/"><u>Outriders Optimization - How We Overcame Slow Motion Gameplay Woes</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-upsetting-effect-of-ios-145-on-facebook-ads/"><u>The Upsetting Effect of iOS 14.5 on Facebook Ads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/tips-for-downloading-instagram-media-on-ios-devices/"><u>Tips for Downloading Instagram Media on iOS Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-methods-for-capturing-screen-and-sound-seamlessly-on-windows-10/"><u>Top Methods for Capturing Screen & Sound Seamlessly on Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-pick-ultimate-guide-to-the-finest-pc-windows-software-for-converting-dvds-to-mkv/"><u>Top Pick: Ultimate Guide to the Finest PC Windows Software for Converting DVDs to MKV</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-4k-video-editor-programs-a-comprehensive-guide/"><u>Top Rated 4K Video Editor Programs: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-3gp-footage-into-engaging-animated-gifs-with-easy-tutorials/"><u>Transforming 3GP Footage Into Engaging Animated GIFs with Easy Tutorials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-tips-for-streaming-high-efficiency-video-coding-hevc-content-on-hdtvs/"><u>Troubleshooting Tips for Streaming High-Efficiency Video Coding (HEVC) Content on HDTVs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-bin-editor-quickly-switch-bin-files-to-mp4-and-avi-formats-for-flawless-viewing-across-devices/"><u>Ultimate BIN Editor: Quickly Switch BIN Files to MP4 and AVI Formats for Flawless Viewing Across Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-converting-your-dvds-into-mp4-format-using-vlc-media-player-on-windows/"><u>Ultimate Guide: Converting Your DVDs Into MP4 Format Using VLC Media Player on Windows</u></a></li>
 </ul></div>
 

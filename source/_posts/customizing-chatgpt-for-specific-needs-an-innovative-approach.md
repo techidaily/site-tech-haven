@@ -1,7 +1,7 @@
 ---
 title: "Customizing ChatGPT for Specific Needs: An Innovative Approach"
-date: 2024-09-14T23:06:22.325Z
-updated: 2024-09-17T16:06:24.083Z
+date: 2024-09-18T23:08:48.938Z
+updated: 2024-09-23T01:03:31.805Z
 tags:
   - chatgpt
   - open-ai
@@ -72,13 +72,6 @@ To add the GPT for Sheets and Docs extension to your Google Sheets:
 
  With those steps completed, you're almost done with the setup process. The last step is to activate the GPT for Sheets and Docs extension. To do this, navigate to **Extensions > GPT for Sheets and Docs > Enable GPT functions** ​​​​​​.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Can You Do With GPT-Powered Google Sheets?
 
  Are you done setting up the Google Sheets extension? What exciting things can you do with GPT-powered Google Sheets?
@@ -86,10 +79,16 @@ To add the GPT for Sheets and Docs extension to your Google Sheets:
 Well, the possibilities are endless.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Generate Text
@@ -108,6 +107,13 @@ Well, the possibilities are endless.
 
 ![multi-cell response in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/multi-cell-response-in-gpt-for-sheets.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Translate Text
 
  With the GPT for Sheets and Docs extension, you can use[ChatGPT translation prompts](https://www.makeuseof.com/how-to-translate-with-chatgpt/) within Google Sheets. You can achieve this using the**GPT\_TRANSLATE** function or wrapping a typical ChatGPT translation prompt around the base GPT function. This could be in the form of**\=GPT(" translate 'Bonjour' to English ")** or **GPT\_TRANSLATE(\[text\_to\_translate\], \[target\_language\], \[source\_language\])** .
@@ -115,10 +121,23 @@ Well, the possibilities are endless.
 ![translating with GPT on Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/translating-with-gpt-on-sheets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Summarize Text
@@ -141,41 +160,22 @@ Well, the possibilities are endless.
 
 ![GPT_TABLE function in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_table-function-in-gpt-for-sheets.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Copy Text Formatting
 
  When working on a spreadsheet, some formatting is a bit too loosely defined or arbitrary for Google Sheets to replicate. For cases like this, the**\=GPT\_FILL** can be a lifesaver. To use the function, demonstrate a few examples of what you need to be done and invoke the**\=GPT\_FILL** to copy the formatting. Below is a video that demonstrates how to use the function.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Extract Data
 
  If you are working with a lot of mixed-up data or text, you can extract certain data types into assigned cells using the**\=GPT\_EXTRACT** function. For instance, you could paste a CSV file in cell B23 and use**\=GPT\_EXTRACT(B48, C48)** to extract email addresses from the CSV text to the current cell. In the function, the C48 references a cell that contains the data type to extract, in this case, email addresses.
 
 ![Data Extraction using GPT functions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/data-extraction-using-gpt-functions.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Boost Your Productivity With ChatGPT Prompts in Google Sheets
 
@@ -198,16 +198,20 @@ Well, the possibilities are endless.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-expedite-your-content-with-smart-title-tools/"><u>[Updated] 2024 Approved Expedite Your Content With Smart Title Tools</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-navigating-through-facebooks-recent-content-policy-shifts/"><u>[Updated] In 2024, Navigating Through Facebook's Recent Content Policy Shifts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-prime-vr-options-enhancing-drone-operations/"><u>[Updated] Prime VR Options Enhancing Drone Operations</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-visual-storytelling-excellence-top-five-camera-techniques-2024/"><u>[Updated] Visual Storytelling Excellence Top Five Camera Techniques - 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726027117180-2024/"><u>2024年に注目!:スマートフォン向け動画圧縮ソフトウェアのベストをご紹介します</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-steps-to-download-and-install-logitech-mx-master-for-optimal-performance/"><u>Easy Steps to Download & Install Logitech MX Master for Optimal Performance</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-acid-pro-in-focus-investigating-replacements-and-comparisons/"><u>In 2024, ACID Pro in Focus Investigating Replacements and Comparisons</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-free-video-conversion-services-how-to-change-your-files-without-costs/"><u>Ultimate Guide to Free Video Conversion Services – How to Change Your Files without Costs!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/wmv-mp4vlc/"><u>WMV, MP4をプレイバックするために必要なVLCメディアプレーヤーの設定チェック</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/youtube-live-streaming-and-video-upload-encoder-recommendations/"><u>YouTube Live Streaming & Video Upload Encoder Recommendations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726026386632-3/"><u>あなたのウェブ動画にぴったりの分割ツールベスト3選！</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-lightning-share-youtube-playlist-hacks/"><u>[New] In 2024, Lightning Share YouTube Playlist Hacks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-go-global-with-gifs-converting-vimeo-video-to-animation/"><u>[Updated] Go Global with GIFs Converting Vimeo Video to Animation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-premier-live-chat-platforms-for-virtual-gatherings/"><u>[Updated] In 2024, Premier Live-Chat Platforms for Virtual Gatherings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quantum-hdr-explained-the-ultimate-resource/"><u>[Updated] Quantum HDR Explained The Ultimate Resource</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/extensive-investigation-the-future-of-panorama-cams-with-samsung/"><u>Extensive Investigation The Future of Panorama Cams with Samsung</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-online-conversion-transforming-ogm-files-into-mpeg-format-with-ease/"><u>Free Online Conversion: Transforming OGM Files Into MPEG Format with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gratis-konverteren-van-jp2-naar-png-professioneel-webtoon-voor-online-imagineering-movavi/"><u>Gratis Konverteren Van JP2 Naar PNG: Professioneel Webtoon Voor Online-Imagineering - Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gratis-omzetten-van-wma-naar-mpeg-online-movavi/"><u>Gratis Omzetten Van WMA Naar MPEG Online - Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gratuit-konverteren-van-flv-bestandjes-in-zeelijn-beste-online-tools/"><u>Gratuit Konverteren Van FLV-Bestandjes in Zeelijn: Beste Online Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gratuito-online-converter-de-amostras-em-avi-com-o-movavi-facil-e-eficiente/"><u>Gratuito Online: Converter De Amostras Em AVI Com O Movavi - Fácil E Eficiente</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hoogtemetaaliseerd-mkv-omzettingen-in-mp4-online-konverter-alternatieve-werktuigen-voor-movavi/"><u>Hoogtemetaaliseerd MKV-Omzettingen in MP4 Online Konverter - Alternatieve Werktuigen Voor Movavi</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-how-to-quickly-fix-audio-importing-issues-in-adobe-premiere-pro/"><u>Updated In 2024, How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/zooming-into-performance-how-amds-ryzen-5-9600x-and-ryzen-7-9700x-redefine-gaming-excellence-in-the-age-of-zen-5/"><u>Zooming Into Performance: How AMD's Ryzen 5 9600X and Ryzen 7 9700X Redefine Gaming Excellence in the Age of Zen 5</u></a></li>
 </ul></div>
 

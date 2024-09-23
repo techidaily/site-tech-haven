@@ -1,7 +1,7 @@
 ---
 title: "Optimize Document Analysis: 4 Approaches with ChatGPT"
-date: 2024-09-14T03:16:14.066Z
-updated: 2024-09-17T19:01:47.529Z
+date: 2024-09-20T21:26:54.664Z
+updated: 2024-09-23T00:32:04.427Z
 tags:
   - chatgpt
   - open-ai
@@ -70,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/3f596754b304b70bbb49c94051d7f942eb048636f
 
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. YouTube Summary With ChatGPT
 
  YouTube creators have the option to add a transcript of their full video or not. As a user, you have no control over this. Many times, all you want is a transcript to quickly browse through what the video is going to say so that you can know if it's worth your time.
@@ -86,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/3f596754b304b70bbb49c94051d7f942eb048636f
  Click any timestamp to be taken to that moment in the video. If you're already midway through the video, you can jump to the current time in the transcript. And you can copy-paste the transcript anywhere.
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
@@ -111,15 +111,22 @@ thumbnail: https://thmb.techidaily.com/3f596754b304b70bbb49c94051d7f942eb048636f
 
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -129,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/3f596754b304b70bbb49c94051d7f942eb048636f
  While the tool summarizes the information in a neat manner, it ends the answers with a quick mention of the best, legitimate sources. And while there's still a possibility of fault here (you'd still need to rely on the sources that Perplexity provides), we believe it's much better than going in blind with the usual, source-less responses you'd otherwise gotten from ChatGPT.
 
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Awesome, But Be Realistic…
 
@@ -158,16 +158,17 @@ thumbnail: https://thmb.techidaily.com/3f596754b304b70bbb49c94051d7f942eb048636f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-innovative-tips-for-audio-addition-to-powerpoint-decks/"><u>[New] 2024 Approved Innovative Tips for Audio Addition to PowerPoint Decks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-speech-to-text-googles-perfect-translation-technique/"><u>[New] Mastering Speech-to-Text Google's Perfect Translation Technique</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-5-ways-to-download-facebook-story-on-desktop-and-mobile/"><u>[Updated] 2024 Approved 5 Ways to Download Facebook Story on Desktop and Mobile</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-fixes-for-disabled-obs-fullscreen-mode/"><u>[Updated] Fixes for Disabled OBS Fullscreen Mode</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flawless-photo-management-on-iphone-size-adjustment-basics/"><u>[Updated] Flawless Photo Management on iPhone Size Adjustment Basics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tsmp3/"><u>新しいユーザーも楽に使える、TSファイルをMP3に変換する完全解説</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/discover-the-ideal-screencasting-software-for-teachers/"><u>Discover the Ideal Screencasting Software for Teachers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-platforms-for-free-downloads-of-hilarious-comedy-content/"><u>Top Platforms for Free Downloads of Hilarious Comedy Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-on-using-vlc-media-player-to-save-precise-moments-in-time-solo-and-grouped-shots-explained/"><u>Ultimate Guide on Using VLC Media Player to Save Precise Moments in Time: Solo & Grouped Shots Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-compressing-and-enhancing-audio-transforming-ape-into-high-quality-compact-mp3-files/"><u>Ultimate Guide: Compressing and Enhancing Audio – Transforming APE Into High-Quality, Compact MP3 Files</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/wiidvd/"><u>WiiでDVDを視聴するための究極ガイド：知られざる使い方</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-free-top-6-best-apps-to-remove-objects-from-photo-on-iphone/"><u>[New] 2024 Approved FREE Top 6 Best Apps to Remove Objects From Photo on iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-sound-selection-top-5-noise-canceling-earbuds/"><u>[Updated] In 2024, Gamers’ Sound Selection Top 5 Noise-Canceling Earbuds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-secure-re-entry-resuming-fb-usage-post-hack/"><u>[Updated] Secure Re-Entry Resuming Fb Usage Post Hack</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/could-googles-project-astra-mark-a-turning-point-in-the-evolution-of-smart-glasses-just-like-the-iphone/"><u>Could Google's Project Astra Mark a Turning Point in the Evolution of Smart Glasses, Just Like the iPhone?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-methods-converting-mkv-files-into-a-playable-dvd-format/"><u>Free Methods: Converting MKV Files Into a Playable DVD Format</u></a></li>
+<li><a href="https://fox-http.techidaily.com/gently-lower-sound-amplitude-tutorial-for-2024/"><u>Gently Lower Sound Amplitude Tutorial for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-creating-a-cost-free-youtube-to-ipodiphone-video-conversion-tool-using-automated-software/"><u>Guide: Creating a Cost-Free YouTube to iPod/iPhone Video Conversion Tool Using Automated Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-smart-8-plus-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Smart 8 Plus Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techidaily.com/is-your-pcs-windows-update-taking-forever-heres-why-and-how-to-improve-it/"><u>Is Your PC's Windows Update Taking Forever? Here's Why and How to Improve It!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-imdb-watchlists-in-kodi-the-ultimate-configuration-manual/"><u>Mastering IMDB Watchlists in Kodi: The Ultimate Configuration Manual</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-simple-guide-how-to-add-subtitles-only-rips-from-your-dvds/"><u>Quick & Simple Guide: How To Add Subtitles-Only Rips From Your DVDs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-free-conversion-of-mkv-files-into-divx-format/"><u>Simple Steps: Free Conversion of MKV Files Into DivX Format</u></a></li>
 </ul></div>
 

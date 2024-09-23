@@ -1,7 +1,7 @@
 ---
 title: Transforming Digital Landscapes with OpenAI's Groundbreaking Release of the Powerful GPT-GPT-4 Model
-date: 2024-09-15T18:47:42.408Z
-updated: 2024-09-17T23:54:13.821Z
+date: 2024-09-16T17:41:18.328Z
+updated: 2024-09-23T01:33:10.748Z
 tags:
   - chatgpt
   - open-ai
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 
  But the most notable change about DALL-E 3 is that it has been integrated into ChatGPT, OpenAI's powerful AI chatbot. It opens up a whole new way of interacting with the image generator and gives you a fresh way of creating prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Craft a Good DALLE-3 Prompt Using Bing
 
  DALL-E 3 is much easier to use thanks to its integration with GPT-4, the large language model that powers ChatGPT and Microsoft Bing.
@@ -59,9 +66,23 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 
 ![DALL-E 2 image of NYC and plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-image-of-nyc-and-plants.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When we asked if it could add animals to that image it just generated, it couldn't. Instead, it generated new images of just animals.
 
 ![DALL-E 2 prompt for animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-prompt-for-animals.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Compare that with DALL-E 3 in Bing. The image it generated is quite good, considering our prompt barely contained any specific details.
 
@@ -79,20 +100,6 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Limitations of DALL-E 3 and Bing
 
  With no subscription fees or waitlist, you're probably wondering what the catch is.
@@ -104,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
  Another change to DALL-E 3 is the increase in moderation and safety measures that some people might consider a limitation, such as "removing public figure names" from the prompt, as mentioned in the[DALL-E 3 research paper](https://cdn.openai.com/papers/DALL%5FE%5F3%5FSystem%5FCard.pdf) .
 
  But this will be a welcome addition for artists who don't want their images to train DALL-E in the first place. Adding to this, you can now fill in the[OpenAI opt-out form](https://share.hsforms.com/1%5FOuT5tfFSpic89PqN6r1CQ4sk30) to make sure your image doesn't go into the training pool.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Don't Wait to Try DALL-E 3; Access It Now With Bing
 
@@ -131,19 +131,18 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-ranker-top-15-free-online-photo-enhancement-tools/"><u>[New] The Ultimate Ranker Top 15 Free Online Photo Enhancement Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-decoding-instagrams-legal-framework-for-musicians/"><u>[Updated] Decoding Instagram's Legal Framework for Musicians</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-editmaster-app/"><u>2024 Approved EditMaster App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-7-cutting-edge-alternatives-to-openais-chatgpt-for-enhanced-mobile-experience/"><u>Discover 7 Cutting-Edge Alternatives to OpenAI’s ChatGPT for Enhanced Mobile Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-on-eliminating-unwanted-noise-from-bass-speakers/"><u>Expert Advice on Eliminating Unwanted Noise From Bass Speakers</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-motorola-razr-40-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Motorola Razr 40 Quickly | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/mastering-wirecast-for-facebook-live-broadcasts/"><u>Mastering Wirecast for Facebook Live Broadcasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-for-kids-five-child-friendly-practices/"><u>Navigating ChatGPT for Kids: Five Child-Friendly Practices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/opt-out-navigating-chatgpts-data-use/"><u>Opt-Out: Navigating ChatGPT's Data Use</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/programming-power-play-github-copilot-vs-chatgpt-showdown/"><u>Programming Power Play: GitHub Copilot Vs. ChatGPT Showdown</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/smooth-operations-new-printing-toolkit-for-windows-7-dell/"><u>Smooth Operations: New Printing Toolkit for Windows 7 Dell</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-roadmap-to-safe-innovation-defining-and-implementing-ai-supervision-standards/"><u>The Roadmap to Safe Innovation: Defining and Implementing AI Supervision Standards</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-exploring-the-mechanics-of-shared-links/"><u>Understanding ChatGPT: Exploring the Mechanics of Shared Links</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-fabulous-review-and-diverse-options/"><u>[New] 2024 Approved Fabulous Review & Diverse Options</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-playbook-achieving-peak-video-editing-on-youtube-studio/"><u>[Updated] The Essential Playbook Achieving Peak Video Editing on YouTube Studio</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/2-effortless-and-cost-effective-techniques-to-refine-your-screen-recordings-learn-how/"><u>2. 'Effortless and Cost-Effective Techniques to Refine Your Screen Recordings - Learn How!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-clearer-view-deeper-insight-zoom-techniques-in-videoleap/"><u>2024 Approved Clearer View, Deeper Insight Zoom Techniques in Videoleap</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-free-audio-enhancers-for-windows-11-top-7-choices/"><u>Best FREE Audio Enhancers for Windows 11: Top 7 Choices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-video-file-converter-suite-seamless-editing-from-mpeg-to-various-formats-made-easy/"><u>Complete Video File Converter Suite: Seamless Editing From MPEG to Various Formats Made Easy.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-steps-to-transforming-m3u8-streams-into-mp4-format-with-vlc-media-player/"><u>Comprehensive Steps to Transforming M3U8 Streams Into MP4 Format with VLC Media Player</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/create-backups-of-your-dvds-using-mud-software-a-step-by-step-guide/"><u>Create Backups of Your DVDs Using Mud Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-vivo-y78t-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Vivo Y78t?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-top-25-anime-visionaries-on-tiktok-changing-content-norms/"><u>In 2024, Top 25 Anime Visionaries on TikTok Changing Content Norms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/reviving-obs-sound-capture-steps/"><u>Reviving OBS Sound Capture Steps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44or44k944kz44oz44gn44oe44kk44kt44oj44k544ot44oh44kq44ks6kiy6yyy44gx44gm44gk44gp5pa55rov44cq6kaw6ig06icf44gr5b2556ul44gk44cr/"><u>パソコンでツイキャスビデオを記録しておく方法【視聴者に役立つ】</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exciting Update: Directly Speak With ChatGPT"
-date: 2024-09-15T01:48:22.977Z
-updated: 2024-09-18T02:56:08.922Z
+date: 2024-09-21T19:11:20.755Z
+updated: 2024-09-22T22:03:19.708Z
 tags:
   - chatgpt
   - open-ai
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  In addition to the extensive library of community prompts, you can also use AIPRM for ChatGPT to create and save AI prompts for future use. This feature is especially useful if you have specific needs or frequently work on similar topics. It means you won't need to spend time crafting a new prompt for the same task each time you use ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is the AIPRM Chrome Extension Free?
@@ -62,21 +62,7 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 ![AIPRM for ChatGPT plans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-pricing-plan.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Install the AIPRM for ChatGPT Chrome Extension
 
@@ -87,6 +73,19 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 3. A pop-up will appear, asking you to confirm if you want to add the extension. Click **Add extension** to install it.
 4. This should automatically direct you to your ChatGPT homepage, where you will see a terms & conditions popup for the AIPRM extension. Tick the checkbox to agree and click **Confirm.**  
 ![AIPRM terms and conditions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-terms-conditions-chatgpt.jpeg)
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You should now see the AIPRM dashboard on your ChatGPT page.
 
@@ -109,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  You can start using AIPRM prompts by clicking the **Public** tab and scrolling through the list of available prompts. For instance, you can select the **Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Filter and Favorite AIPRM Prompts
 
  Considering the extensive selection of prompts, finding the right one for your needs may be challenging or time-consuming. To make it easier to find a specific prompt, you can filter the prompts by topic, activity, popularity, or ChatGPT version.
@@ -118,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
 
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the **Star** icon next to the prompt to add it to your **Favorites** tab. Next, go to the **Favorites** tab to view and access all your saved prompts.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Create AIPRM Prompts
 
@@ -140,13 +153,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  Lastly, select the **Topic**, **Activity**, **Who can see this?** and **Made for** (the ChatGPT model). Write your **Author Name** and **Author URL**. Click **Save Prompt** to finalize the creation of your prompt.
 
 ![AIPRM for ChatGPT prompt template creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-prompt-template-creation.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once your prompt is saved, you can find it under the **Own** tab.
 
@@ -171,18 +177,18 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-innovations-enhancers-that-excite/"><u>[Updated] In 2024, Instagram Innovations Enhancers that Excite</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-latest-tricks-for-ios-screenshots-and-recording-for-2024/"><u>[Updated] Latest Tricks for iOS Screenshots & Recording for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/converting-youtube-journeys-into-animated-expressions-a-comprehensive-guide-for-mobiledesktop-users-for-2024/"><u>Converting YouTube Journeys Into Animated Expressions A Comprehensive Guide for Mobile/Desktop Users for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-captivating-carousel-concept-for-ig/"><u>In 2024, Captivating Carousel Concept for IG</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-ai-censorship-in-chatbots-effects-on-you/"><u>Navigating AI Censorship in Chatbots – Effects on You</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/personalizing-client-workouts-using-chatgpt-insights-for-gym-trainers/"><u>Personalizing Client Workouts Using ChatGPT: Insights for Gym Trainers</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-fixing-windows-updates-error-xcode-0x80246007/"><u>Solutions for Fixing Windows Updates Error – XCode 0X80246007</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-the-top-rated-dvd-to-avi-converters-of-2024-on-windows-11/"><u>The Ultimate Guide to the Top-Rated DVD to AVI Converters of 2024 on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-free-4k-players-compatible-with-windows-11-get-them-now/"><u>Top 10 Free 4K Players Compatible with Windows 11 - Get Them Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-free-xvid-conversion-tools-your-comprehensive-guide-for-windows-mac-and-web-based-options/"><u>Top 5 Free Xvid Conversion Tools: Your Comprehensive Guide for Windows, Mac, and Web-Based Options</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-free-streaming-sites-for-your-favorite-animated-shows/"><u>Top 7 FREE Streaming Sites for Your Favorite Animated Shows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-dvd-to-mp4-transformation-tool-for-windows-10-and-11-your-guide-to-the-ultimate-choice/"><u>Top Rated DVD to MP4 Transformation Tool for Windows 10 and 11: Your Guide to the Ultimate Choice</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-10-premier-travel-blogs-to-watch-online/"><u>[Updated] 10 Premier Travel Blogs to Watch Online</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-top-12-free-youtube-thumbnail-makers-filmora/"><u>[Updated] In 2024, Top 12 Free YouTube Thumbnail Makers - Filmora</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-safe-and-respectful-strategies-for-growing-on-tiktok/"><u>2024 Approved Safe and Respectful Strategies for Growing on TikTok</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5lia5bqm44gr6ksh5pww44gu6zplusz5qw944oi44op44od44kv44ks5lplusd5a2y44gz44kl5pa55rov5pwz44gi44gm44gp44gg44gv44ge/"><u>一度に複数の音楽トラックを保存する方法教えてください</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/android-pc/"><u>Android専用着信メロディ作成 : 動画/音楽を活用したPC編集手順</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-chromebook-video-editing-software-top-5-picks-with-free-and-premium-options/"><u>Best Chromebook Video Editing Software: Top 5 Picks with Free & Premium Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030488971-clipchamp/"><u>Clipchampによる動画統合手順の解説</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-distorted-audio-output-from-youtube-on-a-windows-10-machine/"><u>How to Fix Distorted Audio Output From YouTube on a Windows 10 Machine</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-itel-a60s-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Itel A60s to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-blend-media-items-for-enhanced-youtube-organization/"><u>In 2024, Blend Media Items for Enhanced YouTube Organization</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-geforce-rtx-770-driver-downloads-compatible-with-windows-pcs/"><u>Latest GeForce RTX 770 Driver Downloads Compatible with Windows PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030518262-nhk/"><u>NHKオンデマンド番組の自動録画・ダウンロードガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use ChatGPT for Interview Preparation
-date: 2024-09-14T20:41:20.209Z
-updated: 2024-09-18T05:08:29.417Z
+date: 2024-09-16T01:05:45.620Z
+updated: 2024-09-22T19:46:22.573Z
 tags:
   - chatgpt
   - open-ai
@@ -70,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Compile the Presentation With SlidesAI
@@ -85,21 +85,16 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under**Enter text** .  
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
 6. Check**Replace Existing Slides** .
 7. Go to the**Themes** tab and select a style.  
@@ -129,14 +124,20 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
 ![Downloading a Google Slides presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-download.jpg)
 
- If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to**File > Download** and then select**Microsoft PowerPoint** .
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to**File > Download** and then select**Microsoft PowerPoint** .
 
 ## Create Efficient Presentations in Minutes
 
@@ -161,18 +162,16 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-conveniently-connect-friends-across-os-platforms-using-skype-chats/"><u>[New] 2024 Approved Conveniently Connect Friends Across OS Platforms Using Skype Chats</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-remedy-screen-disruptions-during-live-streams/"><u>[New] In 2024, Remedy Screen Disruptions During Live Streams</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-video-dimensions-on-the-yt-platform/"><u>[Updated] The Ultimate Guide to Video Dimensions on the YT Platform</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-yi-drone-in-4k-a-filmmakers-dream/"><u>[Updated] Yi Drone in 4K A Filmmaker’s Dream</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-synthesizing-a-look-at-magix-creative-suite/"><u>2024 Approved Synthesizing a Look at MAGIX Creative Suite</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-your-pc-from-continuous-crashing-issues-resolved/"><u>How To Stop Your PC From Continuous Crashing Issues - Resolved</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-solutions-for-troubleshooting-microsoft-sound-recorder-issues/"><u>Top 7 Solutions for Troubleshooting Microsoft Sound Recorder Issues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-free-video-editing-tools-best-open-source-options/"><u>Top-Rated Free Video Editing Tools: Best Open Source Options</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/trouble-free-mp4-viewing-on-your-chromebook-discover-three-effective-methods/"><u>Trouble-Free MP4 Viewing on Your Chromebook: Discover Three Effective Methods!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-file-size-reducer-expert-guide-to-downscaling-videos-from-large-to-small-megabytes/"><u>Ultimate File Size Reducer: Expert Guide to Downscaling Videos From Large to Small Megabytes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-endless-creativity-free-youtube-art-resources/"><u>[New] 2024 Approved Endless Creativity FREE YouTube Art Resources</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discover-the-full-spectrum-of-yis-action-photography/"><u>[New] Discover the Full Spectrum of Yi's Action Photography</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-avoid-these-8-steps-that-newcomers-often-miss-on-youtube/"><u>[New] In 2024, Avoid These 8 Steps that Newcomers Often Miss on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-join-the-giggle-roll-and-tearful-talks-on-instagram-memes-for-2024/"><u>[New] Join the Giggle-Roll and Tearful Talks on Instagram Memes for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-streamlining-your-youtube-music-journey/"><u>[Updated] 2024 Approved Streamlining Your YouTube Music Journey</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-screenshots-iphoneipad-video-recordings-explained-for-2024/"><u>[Updated] The Art of Screenshots IPhone/iPad Video Recordings Explained for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-productivity-with-chatgpt-9-business-ideas-to-try/"><u>Boost Productivity with ChatGPT: 9 Business Ideas to Try</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oneplus-phone-by-drfone-android/"><u>How to Reset a Locked OnePlus Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-v30t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme V30T to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-relaxation-techniques-through-conversations-with-chatgpt/"><u>Mastering Relaxation Techniques Through Conversations with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-quest-for-the-unbeatable-test-new-age-of-intelligence/"><u>The Quest for the Unbeatable Test: New Age of Intelligence</u></a></li>
 </ul></div>
 

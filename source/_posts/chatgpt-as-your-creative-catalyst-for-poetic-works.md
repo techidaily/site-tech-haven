@@ -1,7 +1,7 @@
 ---
 title: ChatGPT as Your Creative Catalyst for Poetic Works
-date: 2024-09-15T04:37:29.749Z
-updated: 2024-09-18T05:43:51.055Z
+date: 2024-09-21T20:25:33.832Z
+updated: 2024-09-22T18:30:27.543Z
 tags:
   - chatgpt
   - open-ai
@@ -52,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/8a38e69f6bb6d23740b2b061d8fc927f2b1d57e63
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -72,16 +72,10 @@ thumbnail: https://thmb.techidaily.com/8a38e69f6bb6d23740b2b061d8fc927f2b1d57e63
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -107,19 +101,18 @@ thumbnail: https://thmb.techidaily.com/8a38e69f6bb6d23740b2b061d8fc927f2b1d57e63
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-unraveling-the-mysteries-of-stardew-valley-with-an-insiders-look-at-its-most-hidden-gem-ginger-isle-for-2024/"><u>[New] Unraveling the Mysteries of Stardew Valley with an Insider's Look at Its Most Hidden Gem – Ginger Isle for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-digital-resurrection-breathing-life-into-old-vhs-images-for-2024/"><u>[Updated] Digital Resurrection Breathing Life Into Old VHS Images for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-unlocking-your-dvd-collection-a-step-by-step-guide-to-removing-regional-restrictions/"><u>1. Unlocking Your DVD Collection: A Step-by-Step Guide to Removing Regional Restrictions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-bring-out-the-splendor-in-your-iphone-reflections/"><u>2024 Approved Bring Out the Splendor in Your iPhone Reflections</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/achieve-harmony-import-audio-to-your-inshot-clips/"><u>Achieve Harmony Import Audio to Your InShot Clips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-spark-20-pro-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Spark 20 Pro</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/essential-srt-knowledge-for-all-levels/"><u>Essential SRT Knowledge for All Levels</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028250256-fod/"><u>FOD動画効果的にスクリーン録画技術</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-t2x-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo T2x 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-poco-x6-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Poco X6 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-infinix-smart-8-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Infinix Smart 8 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-step-by-step-powerpoint-screen-capture-course/"><u>Ultimate Step-by-Step PowerPoint Screen Capture Course</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/upgrading-your-fire-tv-stick-with-the-official-kodi-leia-189-guide/"><u>Upgrading Your Fire TV Stick with the Official Kodi Leia 18.9 Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028309922-wav/"><u>WAVオーディオファイルにおける最新の非劣化圧縮技術 - 検索エンジン向上</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-actionable-techniques-for-efficient-media-conversion-chains/"><u>[New] Actionable Techniques for Efficient Media Conversion Chains</u></a></li>
+<li><a href="https://extra-support.techidaily.com/best-handheld-battery-resurrection-tools-2024/"><u>Best Handheld Battery Resurrection Tools 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/does-interacting-with-chatgpt-pose-any-cybersecurity-dangers/"><u>Does Interacting with ChatGPT Pose Any Cybersecurity Dangers?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-honor-90-screen-sharing-drfone-by-drfone-android/"><u>How To Do Honor 90 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-status-bts-rating-tight-wallet-slightly-off-track/"><u>Inside Status BT's Rating: Tight Wallet, Slightly Off Track</u></a></li>
+<li><a href="https://extra-information.techidaily.com/monetizing-media-earnings-analysis-for-pewdiepie/"><u>Monetizing Media Earnings Analysis for PewDiePie</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/online-gratuite-rw2-ficheets-naar-png-bewerken-moviva/"><u>Online Gratuite RW2-Ficheets Naar PNG Bewerken - MoviVa</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/online-livre-converter-tod-arquivos-para-avi-com-o-moveavi-sem-gasto-algum/"><u>Online Livre: Converter TOD Arquivos Para Avi Com O MoveAVI, Sem Gasto Algum!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/online-mp2-naar-mp4-konvertor-bereikbaarheid-geavanceerde-functies-movavi-gratis/"><u>Online MP2 Naar MP4 Konvertor Bereikbaarheid Geavanceerde Functies - Movavi Gratis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/premium-movavi-software-easy-video-editing-and-conversion/"><u>Premium Movavi Software - Easy Video Editing & Conversion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sedis-doma-a-chces-nahradit-schuzi-bez-povoleni-pokus-se-zoom-na-movavi-navrhovaci-prukladky/"><u>Sedíš Doma a Chceš Nahradit Schůzi Bez Povolení? Pokus Se Zoom Na Movavi - Návrhovací Průkladky</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ogg-ogv-movavi/"><u>オンラインで簡単! Ogg, Ogvファイルを無料変換 - Movavi</u></a></li>
 </ul></div>
 

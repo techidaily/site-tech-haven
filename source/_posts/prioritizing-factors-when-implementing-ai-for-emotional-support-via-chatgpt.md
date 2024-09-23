@@ -1,7 +1,7 @@
 ---
 title: Prioritizing Factors when Implementing AI for Emotional Support via ChatGPT
-date: 2024-09-17T04:03:35.489Z
-updated: 2024-09-17T16:36:04.591Z
+date: 2024-09-22T02:20:35.709Z
+updated: 2024-09-22T17:55:25.232Z
 tags:
   - chatgpt
   - open-ai
@@ -50,16 +50,16 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
@@ -74,22 +74,15 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
 
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
@@ -100,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
@@ -126,17 +126,18 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-a-guide-to-effective-hashtag-integration-on-facebook-platforms-for-2024/"><u>[Updated] A Guide to Effective Hashtag Integration on Facebook Platforms for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-navigating-the-spectrum-in-hands-on-recognition-technology/"><u>[Updated] Navigating the Spectrum in Hands-On Recognition Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/44cm44gk5zwp44ge5zci44kp44gb44ox44ot44k744k544gu5qac6kab44go5oml6acg44cn/"><u>「お問い合わせプロセスの概要と手順」</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-nokia-xr21-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Nokia XR21 PC | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726030369652-aiff/"><u>AIFFファイルからワブフォーマットへシームレスに変換するための全カテゴリツールと手順</u></a></li>
-<li><a href="https://extra-information.techidaily.com/chucklecanvas-draw-hilarious-social-media-art-for-2024/"><u>ChuckleCanvas Draw Hilarious Social Media Art for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028969122-dvd/"><u>DVD のバックアップや書き換え方法：リッピングから防御まで</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-13-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 13 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-adobe-memefixer-a-humorous-journey/"><u>In 2024, Adobe Memefixer A Humorous Journey</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/navigating-facebook-streaming-on-roku-devices/"><u>Navigating Facebook Streaming on Roku Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-discovering-your-bookmarked-instagram-reels-easily/"><u>Step-by-Step Guide: Discovering Your Bookmarked Instagram Reels Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-non-responsive-keyboard-backlight-on-pc-and-apple-devices/"><u>Troubleshooting Steps for Non-Responsive Keyboard Backlight on PC & Apple Devices</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-ultimate-list-10-mac-apps-for-tiktok-video-magic/"><u>[New] Ultimate List 10 Mac Apps for TikTok Video Magic</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-heavy-lift-uavs-for-global-industrial-use-for-2024/"><u>[Updated] Top Heavy-Lift UAVs for Global Industrial Use for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-boosting-photo-editing-skills-essential-pixlr-techniques/"><u>2024 Approved Boosting Photo Editing Skills Essential Pixlr Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/androidioswindows/"><u>最佳無限語音到文字翻譯器：釋放Android、iOS及Windows上的潛力！</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bereikbare-leseinspanningen-met-movavi-leerportaal-nutte-gidsen-en-tips/"><u>Bereikbare Leseinspanningen Met Movavi-Leerportaal: Nutte Gidsen en Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cambiar-tus-archivos-f4v-a-mp4-sin-costo-alguno-con-conversion-online-de-movavi/"><u>Cambiar Tus Archivos F4V a MP4 Sin Costo Alguno Con Conversión Online De Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/capture-your-screens-like-a-pro-with-kop-nu-the-leading-screen-recorder/"><u>Capture Your Screens Like a Pro with Köp Nu – The Leading Screen Recorder</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conversion-facile-et-gratuite-des-fichiers-3gp-a-wma-avec-loutil-en-ligne-de-movavi/"><u>Conversion Facile Et Gratuite Des Fichiers 3GP À WMA Avec L'outil en Ligne De Movavi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-nokia-c22-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nokia C22 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-screenplays-reviewed/"><u>In 2024, Pinnacle Screenplays Reviewed</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-tecno-phantom-v-fold-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Tecno Phantom V Fold Black and White | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstall-success-fixing-clipchamp-on-windows-11/"><u>Reinstall Success: Fixing ClipChamp on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-potential-of-your-apple-tv-with-vlc-how-to-play-various-formats/"><u>Unlock the Potential of Your Apple TV with VLC - How to Play Various Formats</u></a></li>
 </ul></div>
 
