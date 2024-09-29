@@ -152,46 +152,4 @@ with open('output.csv', 'w', newline='') as output_file:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-finest-8-platforms-for-sharing-3d-text-psd-files/"><u>[New] 2024 Approved  The Finest 8 Platforms for Sharing 3D Text PSD Files</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-symphony-of-stories-music-tips-for-social-media-gems/"><u>[New] 2024 Approved  The Symphony of Stories  Music Tips for Social Media Gems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-blueprint-of-film-narrative/"><u>[New] The Blueprint of Film Narrative</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-splitcam-reviewed-topping-in-video-recording-technology-for-2024/"><u>[Updated] SplitCam Reviewed  Topping in Video Recording Technology for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-your-social-media-engagement-writing-top-notch-posts-with-chatgpt/"><u>Boosting Your Social Media Engagement: Writing Top-Notch Posts with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/breaking-down-chatgpt-the-game-changer-in-creative-tech/"><u>Breaking Down ChatGPT: The Game-Changer in Creative Tech</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-oneplus-ace-2-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on OnePlus Ace 2 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/canva-and-chatgpt-integration-for-high-volume-design-outputs/"><u>Canva and ChatGPT Integration for High-Volume Design Outputs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chat-with-gpt-3-through-a-secure-vpn-how-feasible-is-it/"><u>Chat with GPT-3 Through a Secure VPN - How Feasible Is It?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-how-chatgpt-stacks-up-against-bings-virtual-assistant-in-10-key-aspects/"><u>Chatbot Face-Off: How ChatGPT Stacks Up Against Bing’s Virtual Assistant in 10 Key Aspects</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-insight-into-chatgpt-and-its-multifaceted-uses-with-advanced-generative-ai-techniques/"><u>Comprehensive Insight Into ChatGPT and Its Multifaceted Uses with Advanced Generative AI Techniques</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-insights-on-the-robust-performance-of-beatit-bt-d11-boost-box-evaluation/"><u>Expert Insights on the Robust Performance of Beatit BT-D11 Boost Box Evaluation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-codegpt-an-innovative-tool-for-writing-source-code/"><u>Exploring CodeGPT: An Innovative Tool for Writing Source Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-googles-artificer-agents-inside-the-work-of-project-gemini/"><u>Exploring Google's Artificer Agents: Inside the Work of Project Gemini</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fostering-connection-chatgpts-role-in-mitigating-loneliness/"><u>Fostering Connection: ChatGPT's Role in Mitigating Loneliness</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/from-cartography-to-smart-data-the-surprising-link-between-map-books-and-advancing-process-intelligence-exploring-with-abbyy/"><u>From Cartography to Smart Data: The Surprising Link Between Map Books and Advancing Process Intelligence | Exploring with ABBYY</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/game-development-transformed-by-ai-driven-innovations/"><u>Game Development Transformed by AI-Driven Innovations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-the-turing-test-determine-ai-intelligence-and-can-machines-triumph-over-humans/"><u>How Does the Turing Test Determine AI Intelligence, and Can Machines Triumph Over Humans?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-13-pro-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone 13 Pro If Youve Tried Everything</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-join-openais-bug-bounty-challenge-everything-you-need-to-know/"><u>How to Join OpenAI's Bug Bounty Challenge – Everything You Need to Know</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-14-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from 14 Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-for-writing-difficult-emails-at-work/"><u>How to Use ChatGPT for Writing Difficult Emails at Work</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-ensuring-long-term-youtube-success-with-creative-commons-mainteninas/"><u>In 2024, Ensuring Long-Term YouTube Success with Creative Commons Mainteninas</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-powerful-stanley-j5c09-corded-circular-saw/"><u>In-Depth Analysis of the Powerful Stanley J5C09 Corded Circular Saw</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leverage-ai-assistance-from-chatgpt-for-achieving-professional-job-goals-successfully/"><u>Leverage AI Assistance From ChatGPT for Achieving Professional Job Goals Successfully</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leverage-ai-to-excel-in-languages-how-can-chatgpt-plus-facilitate-your-progress/"><u>Leverage AI to Excel in Languages: How Can ChatGPT Plus Facilitate Your Progress?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leverage-chatgpt-to-enhance-your-linkedin-profile-for-job-success-essential-techniques-you-need-to-know/"><u>Leverage ChatGPT to Enhance Your LinkedIn Profile for Job Success: Essential Techniques You Need to Know</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-building-and-maintaining-daily-mindfulness-practices/"><u>Leveraging ChatGPT for Building and Maintaining Daily Mindfulness Practices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-gpt-mentions-a-guide-to-highlighting-your-personalized-gpts-during-chatgpt-interactions/"><u>Leveraging GPT Mentions: A Guide to Highlighting Your Personalized GPTs During ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-flight-basic-vs-premium-copilot-systems/"><u>Mastering Flight: Basic Vs. Premium Copilot Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimal-diets-with-chatgpt-guidance/"><u>Optimal Diets with ChatGPT Guidance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/proposing-six-economical-substitutes-for-openais-sora/"><u>Proposing Six Economical Substitutes for OpenAI's Sora</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-development-with-chatgpt-6-must-try-coding-techniques/"><u>Revolutionizing Development with ChatGPT: 6 Must-Try Coding Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-ai-journeys-the-free-power-of-copilot-and-turbo/"><u>Seamless AI Journeys: The Free Power of Copilot and Turbo</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sky-pilot-review-basic-vs-enhanced-versions/"><u>Sky Pilot Review: Basic Vs. Enhanced Versions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-your-day-with-these-9-chatgpt-strategies/"><u>Streamline Your Day with These 9 ChatGPT Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-risks-and-limitations-of-using-generative-ai-within-instant-messaging-applications/"><u>The Risks and Limitations of Using Generative AI Within Instant Messaging Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-tools-like-chatgpt-for-auto-coding-solutions/"><u>Top 7 Tools Like ChatGPT For Auto-Coding Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-and-saving-time-10-ai-enhanced-pdfs/"><u>Unleashing Creativity & Saving Time: 10 AI-Enhanced PDFs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-ai-weak-points-the-art-and-science-of-prompt-injection-attacks/"><u>Unveiling AI Weak Points: The Art and Science of Prompt Injection Attacks</u></a></li>
-</ul></div>
+
