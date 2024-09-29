@@ -1,7 +1,7 @@
 ---
 title: Innovate with Unique ChatAI
-date: 2024-09-17T23:27:29.694Z
-updated: 2024-09-23T00:32:41.938Z
+date: 2024-09-27T17:07:42.430Z
+updated: 2024-09-29T03:44:27.157Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 
 Here's a video of Altman's discussion below:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
@@ -56,9 +63,29 @@ So, a 2024 release date for GPT-5? Is that possible?
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4.
 
@@ -67,10 +94,10 @@ So, a 2024 release date for GPT-5? Is that possible?
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
@@ -92,5 +119,22 @@ So, a 2024 release date for GPT-5? Is that possible?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-ultimate-list-of-low-cost-desktop-encoder-software/"><u>[New] 2024 Approved Ultimate List of Low-Cost Desktop Encoder Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-stills-to-movement-mastery-with-polaroids-latest-tech/"><u>2024 Approved From Stills to Movement Mastery with Polaroid's Latest Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-symbolize-your-brand-exclusive-access-to-free-customizable-logos/"><u>2024 Approved Symbolize Your Brand Exclusive Access to Free, Customizable Logos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-apples-blocked-payment-gateway-a-list-of-6-troubleshooting-steps/"><u>Bypassing Apple's Blocked Payment Gateway: A List of 6 Troubleshooting Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/clear-android-cache-efficiently-in-simple-steps/"><u>Clear Android Cache Efficiently in Simple Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-it-expert-tips-for-escaping-stuck-windows-setup-phase/"><u>Fixed It! Expert Tips for Escaping Stuck Windows Setup Phase</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722103968703-should-you-level-up-to-copilot-pro-from-regular-copilot-heres-why/"><u>Should You Level Up to Copilot Pro From Regular Copilot? Here's Why.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/showmores-edge-a-closer-look-at-exceptional-screen-recording-for-2024/"><u>ShowMore's Edge A Closer Look at Exceptional Screen Recording for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-windows-with-wintoys-your-quick-reference-manual/"><u>Simplifying Windows With WinToys: Your Quick Reference Manual</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-exploring-the-capabilities-of-its-tailored-directive-function/"><u>Understanding ChatGPT: Exploring the Capabilities of Its Tailored Directive Function</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-vs-code-potential-with-codegpt/"><u>Unlocking VS Code Potential with CodeGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-mysteries-of-artificial-intelligence-made-easy/"><u>Unraveling the Mysteries of Artificial Intelligence Made Easy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-8-smartphone-ai-applications-for-ios-and-android-devotees/"><u>Unveiling the Top 8 Smartphone AI Applications for iOS & Android Devotees</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-are-the-real-benefits-of-jailbreaking-gpt/"><u>What Are the Real Benefits of Jailbreaking GPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-ai-wins-the-crowd-analyzing-and-ranking-chatgpt-versus-bing-chat-capabilities/"><u>Which AI Wins the Crowd? Analyzing and Ranking ChatGPT Versus Bing Chat Capabilities</u></a></li>
+</ul></div>
 

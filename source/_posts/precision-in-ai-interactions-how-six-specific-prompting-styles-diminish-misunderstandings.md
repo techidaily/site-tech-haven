@@ -1,7 +1,7 @@
 ---
 title: "Precision in AI Interactions: How Six Specific Prompting Styles Diminish Misunderstandings"
-date: 2024-09-20T02:45:47.579Z
-updated: 2024-09-22T18:00:15.904Z
+date: 2024-09-26T01:52:40.810Z
+updated: 2024-09-28T23:00:59.859Z
 tags:
   - chatgpt
   - open-ai
@@ -48,19 +48,39 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
@@ -69,16 +89,16 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
 
@@ -105,5 +125,26 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/aximizing-hit-rates-with-youtubes-best-thumbnail-strategies/"><u>[New] Maximizing Hit Rates with YouTube's Best Thumbnail Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-invisible-enthusiast-of-facebook-episodes/"><u>[Updated] In 2024, Invisible Enthusiast of Facebook Episodes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-alternatives-to-windows-traditional-video-editing/"><u>2024 Approved Alternatives to WIndows' Traditional Video Editing</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortless-access-starting-up-your-pc-with-windows-11s-advanced-tools/"><u>Effortless Access: Starting Up Your PC with Windows 11'S Advanced Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-research-through-smart-technology/"><u>Empowering Research Through Smart Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enable-voice-recognition-for-chatgpt-on-android-a-step-by-step-tutorial-using-voicegpt/"><u>Enable Voice Recognition for ChatGPT on Android: A Step-by-Step Tutorial Using VoiceGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fraudulent-llm-extension-jeopardizes-pinterest-user-access/"><u>Fraudulent LLM Extension Jeopardizes Pinterest User Access</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-swindles-to-stamps-the-twitsignature-transition/"><u>From Swindles to Stamps: The TwitSignature Transition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-ready-to-play-here-are-chatgpts-top-6-entertaining-gaming-selections/"><u>Get Ready to Play! Here Are ChatGPT's Top 6 Entertaining Gaming Selections</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-can-chatgpt-revolutionize-the-medical-industry/"><u>How Can ChatGPT Revolutionize the Medical Industry?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/idea-ignition-mindmappings-and-generative-gpt-3/"><u>Idea Ignition: Mindmappings & Generative GPT-3</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gentle-volume-reduction-methods-in-ableton-live/"><u>In 2024, Gentle Volume Reduction Methods in Ableton Live</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-transform-photos-and-videos-with-these-androidiphone-montage-apps/"><u>In 2024, Transform Photos & Videos with These Android/iPhone Montage Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-your-dev-space-explore-the-top-6-chatbot-enhancements-tailored-for-visual-studio-code/"><u>Master Your Dev Space: Explore the Top 6 Chatbot Enhancements Tailored for Visual Studio Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-ai-art-leveraging-dall-e-with-gpt-4-for-stunning-image-creation/"><u>Mastering AI Art: Leveraging DALL-E with GPT-4 for Stunning Image Creation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/preventing-and-resolving-corruption-in-mov-files-on-mac/"><u>Preventing and Resolving Corruption in MOV Files on Mac</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-amazonbasics-shredder-a-look-at-its-12-sheets-and-cutting-edge-safety-features/"><u>Top AmazonBasics Shredder: A Look at Its 12 Sheets and Cutting-Edge Safety Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/windows-11-gamers-guide-to-stunning-game-recordings/"><u>Windows 11 Gamers' Guide to Stunning Game Recordings</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Historical Insights: Pinpointing When Artificial Neural Networks Came to Be"
-date: 2024-09-20T00:29:49.825Z
-updated: 2024-09-23T01:18:12.931Z
+date: 2024-09-22T18:21:40.945Z
+updated: 2024-09-29T02:10:52.277Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  ChatGPT is a large language model developed by OpenAI that relies on vast amounts of training data to generate natural-sounding text. This AI chatbot is used for tasks such as content creation, programming, and translation, to name a few. In fact, this tool is so good that[people wonder if generative AI will take over their jobs](https://www.makeuseof.com/can-chatgpt-replace-me/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Know the Difference Between Artificial Intelligence and Human Intelligence
 
  Having gained a basic understanding of what AI is and how it works, knowing how it compares to human intelligence will help you appreciate their limitations, discover how they can complement each other, and how you can use both to achieve your work goals.
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  Some of these AI-proof skills include empathy, creativity, problem-solving abilities, adaptability, resilience, communication, and collaboration skills. Investing in these skills will empower you to bring unique insights and solutions. Additionally, as AI solutions continuously improve, you can use your creativity to find innovative ways to use the technologies in your workplace.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Learn How to Work With AI Tools
 
  Although many people believe that[artificial intelligence can't replace humans in the workplace](https://www.makeuseof.com/reasons-artificial-intelligence-cant-replace-humans/) , others believe that digitally literate workers who use AI-powered tools may gain a competitive edge over those who don't. That said, you can become an asset in the AI-dominated workplace by learning how to use generative AI tools.
@@ -63,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
  There are several[prompting techniques you can use to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) , including writing grammatically correct prompts with enough context and details. In addition, you can also assign it a role to get more relevant and tailored answers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Build a Robust Professional Network
@@ -77,24 +91,18 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  There are several[ways creatives can network professionally](https://www.makeuseof.com/creative-professional-networking-ways/) , including attending in-person and virtual networking events, joining online forums and communities, attending conferences and meetups, or[building a professional network on LinkedIn](https://www.makeuseof.com/ways-to-build-professional-network-linkedin/) . Undoubtedly, some of these connections will prove invaluable in helping you thrive in your workplace.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Become a Lifelong Learner to Keep Up With Upcoming Tech
 
  As mentioned above, adaptability and flexibility are vital skills in an AI-dominated workplace. That's because there's a growing consensus that artificial intelligence is moving too fast—so fast that tech innovators like[Elon Musk want to pause AI development](https://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) . This means you will need to swiftly learn new skills to remain competitive in this AI-dominated workplace.
 
  One of the best ways to achieve this is by becoming a lifelong learner and continuously upskilling and reskilling yourself. This includes anything from staying on top of AI news to attending conferences and workshops or taking courses to learn about the latest tools.
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Future-Proof Your Career in the AI-Dominated Workplace
 
@@ -113,5 +121,20 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-of-youtube-trailers-using-filmora-tools/"><u>[New] The Art of YouTube Trailers Using Filmora Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieving-synergy-integrating-linktree-into-your-tiktok-profile/"><u>[Updated] Achieving Synergy Integrating Linktree Into Your TikTok Profile</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimizing-group-chats-with-google-meets-filtering-options-for-2024/"><u>[Updated] Optimizing Group Chats with Google Meet's Filtering Options for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/creative-video-editing-with-movavi-provideo-studio/"><u>Creative Video Editing with Movavi ProVideo Studio</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/flacaac4/"><u>FLACからAACへの高性能な変換無料ツールを勧めるトップ4選</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-ai-systems-emulate-human-talking-patterns/"><u>How AI Systems Emulate Human Talking Patterns</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-do-ai-prompt-injection-attacks-operate-a-thorough-analysis/"><u>How Do AI Prompt Injection Attacks Operate? A Thorough Analysis</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/how-to-fix-mp4-compatibility-problems-on-your-samsung-smart-tv-screen/"><u>How To Fix MP4 Compatibility Problems on Your Samsung Smart TV Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-tecno-spark-go-2023-to-mac-drfone-by-drfone-android/"><u>How to Mirror Tecno Spark Go (2023) to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-publicize-your-conversations-with-chatgpt-for-wider-discussion/"><u>How To Publicize Your Conversations With ChatGPT for Wider Discussion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-and-avoiding-dangerous-clone-extensions-fake-chatgpt-on-chrome-leaks-account-info/"><u>Identifying & Avoiding Dangerous Clone Extensions: Fake ChatGPT on Chrome Leaks Account Info</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-yourself-to-ai-bing-search-registration-process/"><u>Introducing Yourself to AI Bing Search: Registration Process</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-courtesy-a-must-when-interacting-with-ai-assistants-like-chatgpt-alexa-or-siri/"><u>Is Courtesy a Must When Interacting with AI Assistants Like ChatGPT, Alexa, or Siri?</u></a></li>
+</ul></div>
 

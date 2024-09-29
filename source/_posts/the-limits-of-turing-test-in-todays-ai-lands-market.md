@@ -1,7 +1,7 @@
 ---
 title: The Limits of Turing Test in Today's AI Lands Market
-date: 2024-09-21T19:36:17.169Z
-updated: 2024-09-23T01:00:49.606Z
+date: 2024-09-26T04:13:07.637Z
+updated: 2024-09-29T02:57:54.494Z
 tags:
   - chatgpt
   - open-ai
@@ -66,6 +66,13 @@ ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moving on, we asked both chatbots to solve**8/a-1 = 20/3a-1** , a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of**\-3** at the first attempt.
 
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
@@ -105,10 +112,10 @@ ChatGPT also cracked the problem as well.
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
@@ -118,10 +125,10 @@ ChatGPT also cracked the problem as well.
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
@@ -129,6 +136,13 @@ ChatGPT also cracked the problem as well.
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -147,5 +161,22 @@ ChatGPT also cracked the problem as well.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-streamline-your-projects-expert-techniques-for-mac-dvd-creation/"><u>[New] Streamline Your Projects Expert Techniques for Mac DVD Creation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716068900856-updated-in-2024-how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way/"><u>[Updated] In 2024, How to Minimize Stress in iPad Screen Recordings? Here's a Way!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-edge-vr-game-development-technology-2023-edition/"><u>[Updated] Leading Edge VR Game Development Technology, 2023 Edition</u></a></li>
+<li><a href="https://facebook.techidaily.com/dissecting-the-meanings-behind-facebooks-latest-page-label-modifications/"><u>Dissecting the Meanings Behind Facebook's Latest Page Label Modifications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fine-tuning-ai-texts-writing-that-resonates-with-you/"><u>Fine-Tuning AI Texts: Writing That Resonates With You</u></a></li>
+<li><a href="https://article-files.techidaily.com/full-facetune-review-the-pathway-to-picture-perfection/"><u>Full Facetune Review The Pathway to Picture Perfection</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-epson-gt-s50-ready-windows-drivers-downloads-for-win-7810-users/"><u>Get Your Epson GT-S50 Ready: Windows Drivers Downloads for Win 7/8/10 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpts-impact-on-legal-aid-explored/"><u>GPT's Impact on Legal Aid Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-ai-image-creation-with-dall-e-3-at-zero-cost-using-bing-platform/"><u>Harness the Power of AI Image Creation with DALL-E 3 at Zero Cost Using Bing Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-free-with-gpt-4-and-copilot/"><u>Harness the Power of Free with GPT-4 & Copilot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-transforms-health-consultations-understand-the-7-key-advantages/"><u>How ChatGPT Transforms Health Consultations - Understand The 7 Key Advantages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-is-generative-ai-transforming-into-a-key-player-for-distributing-fake-news/"><u>How Is Generative AI Transforming Into a Key Player for Distributing Fake News?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-advanced-strategies-for-precise-vr-gameplay-recording/"><u>In 2024, Advanced Strategies for Precise VR Gameplay Recording</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovate-your-images-the-step-by-step-process-with-chatgpts-ai-capabilities/"><u>Innovate Your Images: The Step-by-Step Process with ChatGPT's AI Capabilities</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-top-10-ai-talking-avatars-revolutionizing-communication-for-2024/"><u>New Top 10 AI-Talking Avatars Revolutionizing Communication for 2024</u></a></li>
+</ul></div>
 
