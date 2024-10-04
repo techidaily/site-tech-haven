@@ -1,7 +1,7 @@
 ---
 title: Why AI-Based Plagiarism Tools Fail - The Hidden Consequences
-date: 2024-09-28T02:07:37.604Z
-updated: 2024-09-29T01:35:56.131Z
+date: 2024-09-28T16:24:01.699Z
+updated: 2024-10-04T16:15:22.969Z
 tags:
   - chatgpt
   - open-ai
@@ -58,21 +58,28 @@ thumbnail: https://thmb.techidaily.com/c95c5b89385ea5c16d5bf29142574c7f6fa915aba
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 Create Your Own Custom GPT
 
@@ -84,29 +91,9 @@ thumbnail: https://thmb.techidaily.com/c95c5b89385ea5c16d5bf29142574c7f6fa915aba
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
  We are uncertain how this will translate to Free users' access to the GPT store, seeing as many custom GPTs rely on DALL-E. But it's very likely going to be completely unavailable until you pay.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App
 
@@ -119,15 +106,22 @@ thumbnail: https://thmb.techidaily.com/c95c5b89385ea5c16d5bf29142574c7f6fa915aba
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.
 
@@ -152,19 +146,20 @@ thumbnail: https://thmb.techidaily.com/c95c5b89385ea5c16d5bf29142574c7f6fa915aba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-simplifying-video-production-with-captivate-for-2024/"><u>[Updated] Simplifying Video Production with Captivate for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-beginners-guide-to-pioneering-minecraft-recordings-on-mac-for-2024/"><u>[Updated] The Beginner's Guide to Pioneering Minecraft Recordings on Mac for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/best-performers-top-10-innovative-4k-mirrorless-models-for-2024/"><u>Best Performers Top 10 Innovative 4K Mirrorless Models for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/broadcasting-brevity-news-outro-tips/"><u>Broadcasting Brevity News Outro Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparative-insights-googles-palm-2-and-openais-gpt-4/"><u>Comparative Insights: Google's PaLM 2 & OpenAI's GPT-4</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-blocking-unwanted-websites-like-youtube-on-your-apple-ipad/"><u>Guide to Blocking Unwanted Websites Like YouTube on Your Apple iPad</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-building-a-brand-on-instagram-establishing-a-business-entity/"><u>In 2024, Building a Brand on Instagram Establishing a Business Entity</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-7-top-mac-vids/"><u>In 2024, Ultimate Guide to 7 Top Mac Vids</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/keeping-your-tiktok-age-up-to-date-a-quick-guide-for-2024/"><u>Keeping Your TikTok Age Up-to-Date A Quick Guide for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-tools-for-sharing-and-exporting-your-conversations-with-chatgpt/"><u>Top Tools for Sharing & Exporting Your Conversations with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/turbocharged-ai-how-copilot-makes-it-accessible-and-powerful/"><u>Turbocharged AI: How Copilot Makes It Accessible and Powerful</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-full-potential-crafting-personalized-ai-models-using-chatgpts-latest-update/"><u>Unlock Full Potential: Crafting Personalized AI Models Using ChatGPT's Latest Update</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unmasking-your-digital-echoes-a-deep-dive-into-the-dead-internet-theory/"><u>Unmasking Your Digital Echoes: A Deep Dive Into the Dead Internet Theory</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-how-paperclip-maximizer-theory-impacts-progress-in-artificial-intelligence/"><u>Unraveling How Paperclip Maximizer Theory Impacts Progress in Artificial Intelligence</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-constructing-unique-instagram-story-panels/"><u>[New] 2024 Approved Constructing Unique Instagram Story Panels</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-brief-but-bold-short-videos-on-fb-for-2024/"><u>[Updated] Brief but Bold Short Videos on FB for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oppo-reno-10-pro-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo Reno 10 Pro 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/gain-on-ig-unveiling-high-payoff-content-strategies/"><u>Gain on IG Unveiling High-Payoff Content Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-motorola-moto-g04-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Motorola Moto G04</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-itel-a60-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Itel A60</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-x-fold-2-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo X Fold 2</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-nubia-z50s-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Nubia Z50S Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/localized-learning-mechanics-understanding-device-level-ai/"><u>Localized Learning Mechanics: Understanding Device-Level AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/palm-2-by-google-vs-gpt-4-from-openai-analyzing-the-differences-in-artificial-intelligence/"><u>PaLM 2 by Google Vs. GPT-4 From OpenAI: Analyzing the Differences in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/probing-the-use-of-language-models-in-hacking/"><u>Probing the Use of Language Models in Hacking</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/professional-tips-on-utilizing-chatgpt-for-efficient-notetaking/"><u>Professional Tips on Utilizing ChatGPT for Efficient Notetaking</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/professional-grade-file-destroyer-for-windows-users-setting-up-a-convenient-auto-schedule/"><u>Professional-Grade File Destroyer for Windows Users - Setting Up a Convenient Auto-Schedule!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-interactions-today-with-top-9-chatgpt-tool-enhancements/"><u>Revolutionize Your Interactions Today with Top 9 ChatGPT Tool Enhancements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/scrutinizing-expenses-on-top-tier-ai-service-provisioning/"><u>Scrutinizing Expenses on Top-Tier AI Service Provisioning</u></a></li>
 </ul></div>
 

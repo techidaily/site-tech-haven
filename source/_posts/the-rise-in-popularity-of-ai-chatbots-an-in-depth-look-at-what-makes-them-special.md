@@ -1,7 +1,7 @@
 ---
 title: "The Rise in Popularity of AI Chatbots: An In-Depth Look at What Makes Them Special"
-date: 2024-09-25T03:30:55.238Z
-updated: 2024-09-29T00:07:54.014Z
+date: 2024-10-03T16:14:26.724Z
+updated: 2024-10-04T16:31:04.162Z
 tags:
   - chatgpt
   - open-ai
@@ -67,15 +67,22 @@ ChatGPT also cracked the problem as well.
 ![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Moving on, we asked both chatbots to solve**8/a-1 = 20/3a-1** , a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of**\-3** at the first attempt.
 
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
 
@@ -94,10 +101,10 @@ ChatGPT also cracked the problem as well.
 ![ChatGPT composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-composes-a-rap-lyrics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
@@ -107,13 +114,6 @@ ChatGPT also cracked the problem as well.
  Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Coding Skills
 
@@ -131,18 +131,18 @@ ChatGPT also cracked the problem as well.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -163,17 +163,20 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-foster-conversations-via-thoughtful-instagram-quiz-style-lives/"><u>[New] 2024 Approved Foster Conversations via Thoughtful Instagram Quiz-Style Lives</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-dive-into-the-deep-end-of-facebook-meme-culture/"><u>[Updated] In 2024, Dive Into The Deep End of Facebook Meme Culture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-download-install-and-utilize-obs-effectively-on-a-macpc/"><u>[Updated] In 2024, Download, Install, and Utilize OBS Effectively on a MacPC</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-perfect-ending-for-youtubers-best-practices-and-pro-files/"><u>[Updated] In 2024, Perfect Ending for YouTubers Best Practices and Pro Files</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-vdsc-vidmaster-tale-a-comprehensive-evaluation/"><u>[Updated] VDSC VidMaster Tale A Comprehensive Evaluation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/innovating-with-technology-advanced-gopro-4k-editing-techniques-for-2024/"><u>Innovating with Technology Advanced GoPro 4K Editing Techniques for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-successful-destiny-2-installation-on-pc/"><u>Troubleshooting Tips for Successful Destiny 2 Installation on PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-why-stricter-policies-are-necessary-the-perspective-of-openais-chief-executor/"><u>Understanding Why Stricter Policies Are Necessary: The Perspective of OpenAI's Chief Executor</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-ai-potential-for-professional-gain-the-comprehensive-guide-to-using-chatgpt-as-a-work-companion/"><u>Unleash AI Potential for Professional Gain: The Comprehensive Guide to Using ChatGPT as a Work Companion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-potential-in-the-office-combine-onlyoffices-docspace-features-with-chatgpt-for-better-results/"><u>Unlocking Potential in the Office: Combine ONLYOFFICE's DocSpace Features With ChatGPT for Better Results</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-to-professional-cover-letters-through-chatgpt-assistance/"><u>Unlocking the Secrets to Professional Cover Letters Through ChatGPT Assistance</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-top-free-3d-animation-apps-for-mobile/"><u>Updated Unleash Your Creativity Top Free 3D Animation Apps for Mobile</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-lights-spectrum-in-focus-pro-hdr-creation-tips-for-ps/"><u>[New] Light's Spectrum in Focus Pro HDR Creation Tips for PS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-streaming-to-mp3-a-compreenas-guide-for-2024/"><u>[New] Vimeo Streaming to MP3 - A Compreenas Guide for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-symphony-of-selection-assembling-your-best-music-choices-on-youtube/"><u>[Updated] 2024 Approved A Symphony of Selection Assembling Your Best Music Choices on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/cutting-edge-screen-capturing-with-the-latest-camstudio-release-for-2024/"><u>Cutting-Edge Screen Capturing with the Latest CamStudio Release for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/easy-recording-tips-for-your-hp-laptops-camera/"><u>Easy Recording Tips for Your HP Laptop's Camera</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-geforce-game-ready-driver-update-for-windows-pcs/"><u>Latest NVIDIA GeForce Game Ready Driver Update for Windows PCs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ating-to-success-boosting-viewership-and-subs-on-youtube-for-2024/"><u>Navigating to Success Boosting Viewership and Subs on Youtube for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-lava-blaze-2-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Lava Blaze 2 on Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-effective-ai-prompt-techniques-guaranteed-to-enhance-your-results/"><u>Top 7 Effective AI Prompt Techniques Guaranteed to Enhance Your Results</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-how-you-search-bings-ai-ready-for-mobile-devices/"><u>Transform How You Search: Bing’s AI Ready for Mobile Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-challenge-of-artificial-intelligences-objectives/"><u>Understanding the Challenge of Artificial Intelligence's Objectives</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-the-ultimate-gm-top-strategies-to-utilize-chatgpt-in-dandd/"><u>Unleashing the Ultimate GM: Top Strategies to Utilize ChatGPT in D&D</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-chatgpts-closed-enrollment-period-and-anticipated-openings/"><u>Unraveling ChatGPT's Closed Enrollment Period and Anticipated Openings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-gpt-4all-understanding-its-functionality/"><u>Unveiling GPT-4All: Understanding Its Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-mystery-understanding-who-lives-and-dies-in-cyberspace/"><u>Unveiling the Mystery: Understanding Who Lives and Dies in Cyberspace</u></a></li>
 </ul></div>
 

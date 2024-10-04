@@ -1,7 +1,7 @@
 ---
 title: "The Digital Delight of Drollery: Does AI Spark Mirthful Moments?"
-date: 2024-09-28T00:46:49.645Z
-updated: 2024-09-28T21:21:12.268Z
+date: 2024-10-01T16:31:24.918Z
+updated: 2024-10-04T16:09:56.689Z
 tags:
   - chatgpt
   - open-ai
@@ -37,15 +37,28 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2.[Gron](https://www.gron.games/game) (Web): Retro RPG Game to Find Clues and Chat With Suspects
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -55,22 +68,15 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3.[Mystery-o-Matic](https://mystery-o-matic.com/) (Web): New Murder Mystery Generated Daily Randomly
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -86,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -121,24 +127,21 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-celebrating-the-premier-25-ones-to-watch-on-insta/"><u>[New] 2024 Approved Celebrating the Premier 25 Ones to Watch on Insta</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-premier-artist-blending-images-and-harmony/"><u>[New] 2024 Approved Premier Artist Blending Images & Harmony</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-symbiotic-relationship-between-cities-and-ecology/"><u>[New] 2024 Approved The Symbiotic Relationship Between Cities and Ecology</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-action-replay-compare-gopros-hero5-black-and-session-for-2024/"><u>[New] Action Replay Compare GoPro's Hero5 Black & Session for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unleash-ps2-gaming-on-ios-the-best-emulators/"><u>[New] In 2024, Unleash PS2 Gaming on iOS The Best Emulators</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-transform-your-phone-with-funimate-the-ultimate-apk-guide/"><u>[Updated] 2024 Approved Transform Your Phone with Funimate - The Ultimate APK Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-complete-users-manual-on-durecorder/"><u>2024 Approved The Complete User’s Manual on DuRecorder</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-depend-on-ai-tools-such-as-chatgpt-to-regulate-your-connected-home-environment/"><u>Can You Depend on AI Tools Such as ChatGPT to Regulate Your Connected Home Environment?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-conversations-unveiled-discover-the-possibilities-of-ai-communication/"><u>ChatGPT Conversations Unveiled: Discover the Possibilities of AI Communication</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-unlocks-wearable-potential-with-six-pioneering-capabilities/"><u>ChatGPT Unlocks Wearable Potential with Six Pioneering Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deconstructing-nlp-giants-deep-dive-into-gpt-vs-bert/"><u>Deconstructing NLP Giants: Deep Dive Into GPT Vs. BERT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-new-ways-to-use-chatgpt-essential-tools-and-functions-you-havent-tried-yet/"><u>Discover New Ways to Use ChatGPT: Essential Tools and Functions You Haven't Tried Yet!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-best-conversational-starters-for-chatgpt-in-github-collections/"><u>Discover the Best Conversational Starters for ChatGPT in GitHub Collections</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/does-chatbot-technology-improve-patient-care-outcomes/"><u>Does Chatbot Technology Improve Patient Care Outcomes?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-argumentation-skills-with-gpt-assisted-proposals/"><u>Elevate Your Argumentation Skills with GPT-Assisted Proposals</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-decision-why-italy-enforced-an-instant-prohibition-of-chatgpt/"><u>Exploring the Decision: Why Italy Enforced an Instant Prohibition of ChatGPT</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-economics-of-youtube-marketing-strategies/"><u>In 2024, The Economics of YouTube Marketing Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrate-bing-ai-into-your-android-phone-tips-and-tricks-for-seamless-communication/"><u>Integrate Bing AI Into Your Android Phone: Tips & Tricks for Seamless Communication</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/transform-your-instagram-strategy-with-precision-metrics-monitoring-tools-for-2024/"><u>Transform Your Instagram Strategy with Precision Metrics Monitoring Tools for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/jeys-path-to-prosperity-monetizing-his-online-presence-for-2024/"><u>[New] Ajey's Path to Prosperity Monetizing His Online Presence for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elevating-your-podcast-game-mastering-video-and-audio-techniques-on-zoom/"><u>[New] Elevating Your Podcast Game Mastering Video and Audio Techniques on Zoom</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-film-to-instagram-editing-tall-videos-on-fcpx-for-2024/"><u>[New] From Film to Instagram Editing Tall Videos on FCPX for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unveiled-the-premier-places-to-obtain-snapchat-audio/"><u>[New] Unveiled The Premier Places to Obtain Snapchat Audio</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-how-ai-black-boxes-function-in-machine-learning-models/"><u>Demystifying How AI Black Boxes Function in Machine Learning Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-how-gpt-4-enhances-these-7-revolutionary-mobileweb-apps-for-unmatched-performance/"><u>Discover How GPT-4 Enhances These 7 Revolutionary Mobile/Web Apps for Unmatched Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficiently-manage-pdfs-using-these-10-chatgpt-compatible-plugins/"><u>Efficiently Manage PDFs Using These 10 ChatGPT-Compatible Plugins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-reading-experience-top-5-ai-infused-literary-apps/"><u>Elevate Your Reading Experience - Top 5 AI-Infused Literary Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-dos-and-donts-prevent-these-6-chatgpt-prompt-blunders/"><u>Essential Dos and Don'ts: Prevent These 6 ChatGPT Prompt Blunders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/etiquette-essentials-when-speaking-to-alexa-or-similar-tech/"><u>Etiquette Essentials When Speaking to Alexa or Similar Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-emotion-sensing-algorithms-can-ai-genuinely-comprehend-human-feelings/"><u>Exploring Emotion-Sensing Algorithms: Can AI Genuinely Comprehend Human Feelings?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/guidelines-for-optimal-youtube-video-brightness-for-2024/"><u>Guidelines for Optimal YouTube Video Brightness for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-moto-g14-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Motorola Moto G14 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-getting-rid-of-the-dark-pixels-rainbow-six-siege-for-pc-users/"><u>Troubleshooting Tips: Getting Rid of the Dark Pixels – Rainbow Six Siege for PC Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/video-partition-prowess-ultimate-recorder-ranking-for-2024/"><u>Video Partition Prowess Ultimate Recorder Ranking for 2024</u></a></li>
 </ul></div>
 

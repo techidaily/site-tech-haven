@@ -1,7 +1,7 @@
 ---
 title: Tailoring Twitter Threads for Maximum Impact (ChatGPT)
-date: 2024-09-24T06:36:07.883Z
-updated: 2024-09-29T01:15:40.922Z
+date: 2024-10-02T16:22:41.648Z
+updated: 2024-10-04T16:10:09.611Z
 tags:
   - chatgpt
   - open-ai
@@ -36,19 +36,6 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -61,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
@@ -69,25 +63,18 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. AI Photo
 
@@ -98,6 +85,19 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -110,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
@@ -143,24 +143,19 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-expert-5-virtual-screenshots-tech-for-2024/"><u>[New] Expert 5 Virtual Screenshots Tech for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-harnessing-the-power-of-animated-graphics/"><u>[New] Harnessing the Power of Animated Graphics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-select-top-6-slideshow-creation-software-for-x-models/"><u>[New] Select Top 6 Slideshow Creation Software for X Models</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-recording-real-time-action-in-overwatch/"><u>[Updated] In 2024, Recording Real-Time Action in Overwatch</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-top-sites-for-buying-google-pixel-tunes/"><u>[Updated] In 2024, Top Sites for Buying Google Pixel Tunes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-debate-what-sets-neo-qled-and-oled-tvs-apart/"><u>Decoding the Debate: What Sets Neo QLED and OLED TVs Apart?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722199959265-discover-how-siri-differs-from-chatgpt-no-more-misleading-comparisons/"><u>Discover How Siri Differs From ChatGPT – No More Misleading Comparisons</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/precision-workflow-tackling-backdrops-in-affinity-photo-to-perfection/"><u>Precision Workflow Tackling Backdrops in Affinity Photo to Perfection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-checklist-for-verifying-wellness-tips-from-ai/"><u>The Ultimate Checklist for Verifying Wellness Tips From AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-strategies-using-chatgpt-for-boosting-your-linkedin-employment-odds/"><u>Top 10 Strategies Using ChatGPT for Boosting Your LinkedIn Employment Odds</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-strategies-for-crafting-high-quality-gpt-3-prompts-ensuring-optimal-responses/"><u>Top 5 Strategies for Crafting High-Quality GPT-3 Prompts Ensuring Optimal Responses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-guide-5-steps-to-reset-windows-defender-status/"><u>Troubleshooting Guide: 5 Steps to Reset Windows Defender Status</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-chatgpt-crypto-discussion-prompts-for-enthusiasts/"><u>Ultimate Guide: ChatGPT Crypto Discussion Prompts for Enthusiasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-turing-test-is-superintelligent-ai-on-the-horizon/"><u>Understanding the Turing Test – Is Superintelligent AI on the Horizon?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-your-creativity-building-a-free-gpt-based-chatbot-on-windows-with-freedomgpt/"><u>Unleashing Your Creativity: Building a Free GPT-Based Chatbot on Windows with FreedomGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-how-do-attackers-use-prompts-to-compromise-ai/"><u>Unveiling the Secrets: How Do Attackers Use Prompts to Compromise AI?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/whats-behind-ai-benchmarking-progressive-alternatives-to-turing/"><u>What's Behind AI Benchmarking: Progressive Alternatives to Turing?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frame-freezing-banishing-blurry-bites/"><u>[New] Frame Freezing Banishing Blurry Bites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freesoundextractor-pro-an-in-depth-2024-analysis/"><u>[New] FreeSoundExtractor Pro An In-Depth 2024 Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-guide-to-the-best-ai-tools-for-file-conversation/"><u>A Guide to the Best AI Tools for File Conversation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-chatbots-transforming-content-creation-insightful-overview-in-8-points/"><u>AI Chatbots Transforming Content Creation: Insightful Overview in 8 Points</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-warframe-patch-failures-step-by-step-solution-guide/"><u>Dealing with Warframe Patch Failures: Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-x50iplus-lock-screen-password-by-drfone-android/"><u>How To Change Honor X50i+ Lock Screen Password?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-cut-to-perfection-premier-android-editing-software/"><u>In 2024, Cut to Perfection Premier Android Editing Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sound-of-funny-ringtones-recommended-websites/"><u>In 2024, Sound of Funny Ringtones' Recommended Websites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mitigating-fictitious-ai-responses-with-corrected-prompts/"><u>Mitigating Fictitious AI Responses with Corrected Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722109029220-twitters-emoji-free-linuss-unmasking-insights-trojans-explored-and-chatgpt-flaws-highlighted/"><u>Twitters Emoji-Free, Linus's Unmasking Insights, Trojans Explored, & ChatGPT Flaws Highlighted.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unmasking-ai-influence-identifying-generated-texts/"><u>Unmasking AI Influence: Identifying Generated Texts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-sets-chatgpt-enterprise-apart-discover-offerings-and-advantages/"><u>What Sets ChatGPT Enterprise Apart? Discover Offerings & Advantages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/your-complete-guide-to-chatgpt/"><u>Your Complete Guide to ChatGPT</u></a></li>
 </ul></div>
 

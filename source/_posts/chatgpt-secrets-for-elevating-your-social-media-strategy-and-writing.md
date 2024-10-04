@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Secrets for Elevating Your Social Media Strategy and Writing
-date: 2024-09-21T23:56:08.388Z
-updated: 2024-09-29T05:53:55.867Z
+date: 2024-09-30T16:17:52.754Z
+updated: 2024-10-04T16:20:59.543Z
 tags:
   - chatgpt
   - open-ai
@@ -67,6 +67,20 @@ You could use:
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -80,10 +94,10 @@ You could use:
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
@@ -103,35 +117,21 @@ You could use:
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Not Being Clear and Specific With Your Instructions
 
@@ -142,16 +142,10 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
@@ -173,24 +167,16 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-synergy-of-slack-and-filmora-for-effective-scheduling-for-2024/"><u>[New] The Synergy of Slack and Filmora for Effective Scheduling for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-closing-in-on-the-essence-of-cinematic-action/"><u>[Updated] Closing in on the Essence of Cinematic Action</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-precision-audio-picks-top-10-video-to-mp3-convertors/"><u>[Updated] In 2024, Precision Audio Picks Top 10 Video-to-Mp3 Convertors</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-master-the-art-of-live-content-utilizing-wirecast-for-fb/"><u>2024 Approved Master the Art of Live Content Utilizing Wirecast for FB</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/8-innovative-neural-network-solutions-for-the-modern-user/"><u>8 Innovative Neural Network Solutions for the Modern User</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/academic-success-with-chatgpt-from-research-to-final-drafts/"><u>Academic Success with ChatGPT: From Research to Final Drafts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-for-daily-use-determining-the-top-contender-between-claude-and-chatgpt/"><u>AI for Daily Use: Determining the Top Contender Between Claude and ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-mastery-secrets-7-power-up-tips-and-tricks-for-winning-prompting-skills/"><u>AI Mastery Secrets: 7 Power-Up Tips and Tricks for Winning Prompting Skills</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-mastery-through-improved-prompting-learn-the-7-best-practices-and-tricks-that-work/"><u>AI Mastery Through Improved Prompting: Learn the 7 Best Practices and Tricks That Work</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-intuition-nine-catalysts-for-fantasy-blur/"><u>Artificial Intuition: Nine Catalysts for Fantasy Blur</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-still-use-chatgpt-discover-five-methods-to-verify-its-functionality/"><u>Can You Still Use ChatGPT? Discover Five Methods to Verify Its Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-for-devices-the-ultimate-guide-to-use/"><u>ChatGPT for Devices: The Ultimate Guide to Use</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722089811112-from-good-to-exceptional-unveiling-the-9-reasons-why-you-need-chatgpt-plus-today/"><u>From Good to Exceptional: Unveiling the 9 Reasons Why You Need ChatGPT Plus Today</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-hide-hashtags-on-instagram-for-2024/"><u>How to Hide Hashtags on Instagram for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevate-your-videography-with-top-seo-gadgets/"><u>In 2024, Elevate Your Videography with Top SEO Gadgets</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-a24-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy A24 Phone Pattern Lock</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/step-by-step-techniques-for-recording-team-conversations/"><u>Step-by-Step Techniques for Recording Team Conversations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-gpt4all-and-how-does-it-work/"><u>What Is GPT4All and How Does It Work?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-add-a-professional-touch-youtube-video-image-crafting/"><u>[New] Add a Professional Touch YouTube Video Image Crafting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-behind-the-headset-todays-vr-tomorrows-trials/"><u>[New] Behind the Headset Today's VR, Tomorrow's Trials</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-pursuit-of-ultra-clarity-the-4k-z32x-reviewed/"><u>[New] The Pursuit of Ultra Clarity The 4K Z32X Reviewed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-discover-the-best-tools-and-tips-to-accurately-tag-your-videos-for-2024/"><u>[Updated] Discover the Best Tools & Tips to Accurately Tag Your Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-a-comprehensive-guide-to-smoothly-flip-movies-in-vlc/"><u>2024 Approved A Comprehensive Guide to Smoothly Flip Movies in VLC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-diet-with-gpt-powered-planning/"><u>Transform Your Diet with GPT-Powered Planning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-email-difficulties-into-ease-employing-chatgpt-for-improved-workplace-communication/"><u>Transforming Email Difficulties Into Ease: Employing ChatGPT for Improved Workplace Communication</u></a></li>
+<li><a href="https://some-skills.techidaily.com/turbocharge-fb-video-speed-selective-extensions-and-apps-guidebook-for-2024/"><u>Turbocharge FB Video Speed Selective Extensions & Apps Guidebook for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-math-potential-the-best-7-ai-tools-to-tackle-problems/"><u>Unleash Your Math Potential: The Best 7 AI Tools to Tackle Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-privacy-in-digital-dialogues-enjoy-secure-chats-with-duckduckgos-ai-technology-powered-by-chatgpt/"><u>Unlock Privacy in Digital Dialogues: Enjoy Secure Chats with DuckDuckGo’s AI Technology, Powered by ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-power-of-ai-with-these-proven-prompting-hacks-7-must-know-tactics/"><u>Unlock the Power of AI with These Proven Prompting Hacks (7 Must-Know Tactics)</u></a></li>
 </ul></div>
 

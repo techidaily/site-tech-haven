@@ -1,7 +1,7 @@
 ---
 title: "Forging a Safe AI Landscape: CEO Urges Stronger Governance"
-date: 2024-09-28T03:32:59.244Z
-updated: 2024-09-29T06:52:55.790Z
+date: 2024-09-30T16:10:05.957Z
+updated: 2024-10-04T16:04:53.841Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -106,14 +106,22 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-universe-explorer-top-ranking-of-best-free-mmorpg-games/"><u>[New] In 2024, Universe Explorer Top Ranking of Best Free MMORPG Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/20-best-non-copyrighted-pubg-montage-thumbnail/"><u>20 Best Non Copyrighted PUBG Montage Thumbnail</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo A1 5G? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone X</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-document-insights-with-these-veiled-it-can-still-be-identified-through-a-combination-of-clues-within-the-story-such-as-location-details-or-character-43/"><u>Master Document Insights with These Veiled, It Can Still Be Identified Through a Combination of Clues Within the Story (Such as Location Details or Character Actions).</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-the-art-of-writing-compelling-cvs-with-gpt-3/"><u>Master the Art of Writing Compelling CVs with GPT-3</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-mention-triggers-for-detecting-deceptive-chatgpts/"><u>Mastering Mention Triggers for Detecting Deceptive ChatGPTs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-your-data-insights-6-key-applications-of-chatgpt-for-analytics-professionals/"><u>Maximize Your Data Insights: 6 Key Applications of ChatGPT for Analytics Professionals</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-playbook-for-procuring-partners-on-youtube/"><u>The Ultimate Playbook for Procuring Partners on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-full-spectrum-analysis-macos-and-screenflow-v4/"><u>[Updated] Full Spectrum Analysis MacOS and ScreenFlow V4</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfectly-sync-apple-music-to-your-videos/"><u>[Updated] Perfectly Sync Apple Music to Your Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unifying-visual-experience-in-iphone-recording/"><u>[Updated] Unifying Visual Experience in iPhone Recording</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-ideal-retiree-cellphone-deals-our-top-picks/"><u>Discover the Ideal Retiree Cellphone Deals – Our Top Picks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-transform-vob-files-into-mpeg-format-with-movavi/"><u>Free Online Converter: Transform VOB Files Into MPEG Format with Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-realme-narzo-n53-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Realme Narzo N53</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expertly-curated-animated-type-library/"><u>In 2024, Expertly Curated Animated Type Library</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-integration-how-to-effectively-utilize-chatgpt-and-wolfram-language-in-3-ways/"><u>Innovative Integration: How to Effectively Utilize ChatGPT and Wolfram Language in 3 Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/just-start-chatting-chatgpt-ready/"><u>Just Start Chatting - ChatGPT Ready!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-intel-wireless-network-drivers-download-for-windows-pcs/"><u>Latest Intel Wireless Network Drivers Download for Windows PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-ai-writing-with-chatgpt-discover-9-key-benefits-for-authors/"><u>Leverage AI Writing with ChatGPT - Discover 9 Key Benefits for Authors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-for-success-how-chatgpt-can-transform-your-proposal-writing-strategy/"><u>Leveraging AI for Success: How ChatGPT Can Transform Your Proposal Writing Strategy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/masterful-resumes-made-easy-with-ai-assistance-from-chatgpt/"><u>Masterful Resumes Made Easy with AI Assistance From ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-job-interviews-a-step-by-step-guide-with-chatgpt/"><u>Mastering Job Interviews: A Step-by-Step Guide with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-mindfulness-using-chatgpt-to-establish-regular-meditation-sessions/"><u>Mastering Mindfulness: Using ChatGPT to Establish Regular Meditation Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-reduced-ai-fallacies-six-ingenious-prompt-tactics-revealed/"><u>Mastering the Art of Reduced AI Fallacies: Six Ingenious Prompt Tactics Revealed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-comprehensive-manual-for-effective-morphvox-voice-changes/"><u>The Comprehensive Manual for Effective MorphVOX Voice Changes</u></a></li>
 </ul></div>
 

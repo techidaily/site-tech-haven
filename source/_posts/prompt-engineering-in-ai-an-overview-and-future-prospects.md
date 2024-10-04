@@ -1,7 +1,7 @@
 ---
 title: "Prompt Engineering in AI: An Overview & Future Prospects"
-date: 2024-09-24T07:23:57.449Z
-updated: 2024-09-28T18:44:56.369Z
+date: 2024-09-29T16:20:27.254Z
+updated: 2024-10-04T16:25:32.604Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -46,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
@@ -65,13 +58,20 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
@@ -86,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -115,15 +115,20 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fading-techniques-for-aural-balance/"><u>2024 Approved Fading Techniques for Aural Balance</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-transitions-the-art-of-editing-with-garagebands-power-tools/"><u>2024 Approved Seamless Transitions The Art of Editing with GarageBand's Power Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-tailoring-mac-videos-to-fit-snapchat-dimensions/"><u>2024 Approved Tailoring Mac Videos to Fit Snapchat Dimensions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-camon-20-lock-screen-pattern-pin-or-password-heres-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Camon 20 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://win-dash.techidaily.com/logitech-k350-pairing-software-free-installation-files-for-seamless-setup/"><u>Logitech K350 Pairing Software – Free Installation Files for Seamless Setup</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-into-the-future-mastering-ai-with-free-dall-e-3-and-bing/"><u>Step Into the Future: Mastering AI with Free DALL-E 3 & Bing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/surpassing-chatgpt-10-new-language-enigmas/"><u>Surpassing ChatGPT: 10 New Language Enigmas</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-basics-of-ai-explained-in-laymans-terms/"><u>The Basics of AI Explained in Layman's Terms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-evolution-and-operation-of-colossal-ai-models/"><u>The Evolution & Operation of Colossal AI Models</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-tier-gaming-setup-with-modular-keyboard-akkos-mod007b/"><u>Top-Tier Gaming Setup with Modular Keyboard - Akko's MOD007B</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ion-air-pro-3-breakdown-review-of-the-latest-action-cam/"><u>[New] ION Air Pro 3 Breakdown - Review of the Latest Action Cam</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-leading-8-linux-editors-for-media-professionals/"><u>[New] Leading 8 Linux Editors for Media Professionals</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-adding-descriptive-titlestexts-via-microsoft-photos-win-11/"><u>2024 Approved Adding Descriptive Titles/Texts via Microsoft Photos Win 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discover-the-top-mobile-photo-tools-for-your-iphoneandroid-device/"><u>2024 Approved Discover the Top Mobile Photo Tools for Your iPhone/Android Device</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-transforming-instagram-vids-into-a-backup-solution-via-computers-and-macs/"><u>2024 Approved Transforming Instagram Vids Into a Backup Solution via Computers & Macs</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-customer-engagement-with-open-chatgpt-and-whisper-apis-what-enterprsises-need-to-know/"><u>Elevating Customer Engagement with Open ChatGPT & Whisper APIs - What Enterprsises Need To Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-information-on-openai-your-ultimate-resource/"><u>Essential Information on OpenAI: Your Ultimate Resource</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evolution-of-intelligence-openais-gpt-story/"><u>Evolution of Intelligence: OpenAI's GPT Story</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-theory-to-practice-seven-practical-ways-chatgpt-is-being-utilized-today/"><u>From Theory to Practice: Seven Practical Ways ChatGPT Is Being Utilized Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-3-alerts-staying-ahead-with-its-operating-status/"><u>GPT-3 Alerts: Staying Ahead with Its Operating Status</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-ais-latest-marvels-how-gpt-4-stacks-up-against-its-cousins-turbo-and-phi/"><u>Inside AI's Latest Marvels: How GPT-4 Stacks Up Against Its Cousins Turbo and Phi</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-top-rated-8-android-tools-for-team-video-calls/"><u>The Top-Rated 8 Android Tools for Team Video Calls</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-x6-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco X6 Pro Device</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unveiling-the-new-era-of-screen-capture-with-apeaksoft/"><u>Unveiling the New Era of Screen Capture with Apeaksoft</u></a></li>
 </ul></div>
 

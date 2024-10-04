@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Storm: Understanding Why Security Challenges in Generative AI Are Getting Worse"
-date: 2024-09-27T07:06:54.174Z
-updated: 2024-09-29T07:08:52.638Z
+date: 2024-10-01T16:02:55.544Z
+updated: 2024-10-04T16:11:35.141Z
 tags:
   - chatgpt
   - open-ai
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The huge success of ChatGPT, as well as the release of[similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/) , has brought the concern of hallucination into the limelight.
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
@@ -73,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Relies Heavily on Historical Data
@@ -91,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
  The crypto market is tied to the traditional market in ways you'd never expect. If something big goes wrong in the traditional financial industry, chances are the ripples will be felt by the crypto industry. After all, people use traditional money to buy crypto, so it's natural for the two markets to interlink.
@@ -104,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Revolutionary but Far From Perfect
@@ -129,21 +129,24 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ce-the-art-of-online-fame-trending-on-youtube/"><u>[New] Ace the Art of Online Fame Trending on YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-guide-capturing-your-desktop-using-ezvide-software/"><u>[New] In 2024, Guide Capturing Your Desktop, Using EZvide Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-spectacular-4k-tvs-nine-picks-for-exceptional-color-fidelity/"><u>[New] In 2024, Spectacular 4K TVs Nine Picks for Exceptional Color Fidelity</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-pros-technique-for-consolidated-photo-and-video-upload-to-ig/"><u>[Updated] 2024 Approved The Pro's Technique for Consolidated Photo and Video Upload to IG</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-gamified-views-selecting-the-best-webcams-for-players/"><u>2024 Approved Mastering Gamified Views Selecting the Best Webcams for Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/create-a-custom-action-to-create-custom-actions-visit-httpsdevelopersgooglecomassistantsdkdocsweb-discovery-and-click-on-web-discovery-follow-the-instructio544/"><u>Create a Custom Action: To Create Custom Actions, Visit https://developers.google.com/assistant/sdk/docs/web-discovery and Click on Web Discovery. Follow the Instructions Provided by Web Disco to Generate an App Engine URL for Your Action.</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-maximizing-youtube-profits-strategies-for-revenue-growth/"><u>In 2024, Maximizing YouTube Profits Strategies for Revenue Growth</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mastering-iphone-x-animoji-your-comprehensive-users-manual-for-2024/"><u>Mastering iPhone X Animoji Your Comprehensive User's Manual for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sustainable-editing-incorporating-ai-without-compromising-integrity/"><u>Sustainable Editing: Incorporating AI without Compromising Integrity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/synchronized-synergy-selecting-the-best-ai-tools-for-dynamic-prompts/"><u>Synchronized Synergy: Selecting the Best AI Tools for Dynamic Prompts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-art-of-verse-integrating-chatgpt-in-book-writing/"><u>The Art of Verse: Integrating ChatGPT in Book Writing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-dark-side-of-ai-evaluating-the-threat-of-cyber-attacks-using-tools-like-chatgpt-on-bankingpersonal-computers/"><u>The Dark Side of AI: Evaluating the Threat of Cyber Attacks Using Tools Like ChatGPT on Banking/Personal Computers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-evolution-of-ai-at-google-introducing-the-revolutionary-palm-2-llm/"><u>The Evolution of AI at Google: Introducing the Revolutionary PaLM 2 LLM</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-is-here-anticipating-key-improvements-in-gpt-5-technology/"><u>The Future Is Here: Anticipating Key Improvements in GPT-5 Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-paperclip-maximizing-conundrum-explained-in-relation-to-ai-systems/"><u>The Paperclip Maximizing Conundrum Explained in Relation to AI Systems</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-biggest-fifa-visuals-youtube-insights-graphed/"><u>[New] Biggest FIFA Visuals YouTube Insights Graphed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-screentosave-mobilepc-video-recording-for-2024/"><u>[New] ScreenToSave Mobile/PC Video Recording for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-art-of-design-selecting-ideal-dimensions-for-yt-branding-for-2024/"><u>[Updated] Mastering the Art of Design Selecting Ideal Dimensions for YT Branding for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-avi-player-the-perfect-match-for-pcmobile/"><u>[Updated] Ultimate AVi Player The Perfect Match for PC/Mobile</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-s18e-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/converting-srt-into-sub-quick-effective-ways-for-2024/"><u>Converting SRT Into SUB Quick, Effective Ways for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-network-access-error-for-google-chrome-in-windows-settings/"><u>Fix Network Access Error for Google Chrome in Windows Settings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harness-the-magic-of-photography-and-video-with-pixiz/"><u>Harness the Magic of Photography and Video with Pixiz</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-motorola-moto-g24-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Motorola Moto G24 Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-s24-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy S24 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-for-leveraging-chatgpt-on-google-sheets-using-gpt-tools/"><u>Step-by-Step Instructions for Leveraging ChatGPT on Google Sheets Using GPT Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-4-key-advantages-of-integrating-chatgpt-into-your-website-design-strategy/"><u>The 4 Key Advantages of Integrating ChatGPT Into Your Website Design Strategy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-hazards-of-ai-based-therapy-and-psychological-support-systems/"><u>The Hidden Hazards of AI-Based Therapy and Psychological Support Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-interacting-with-chatgpt-talk-like-never-before/"><u>The Ultimate Guide to Interacting with ChatGPT: Talk Like Never Before</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-strategy-for-operating-chatgpt-in-various-languages/"><u>The Ultimate Strategy for Operating ChatGPT in Various Languages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-your-way-through-chatgpt-sign-in-issues/"><u>Troubleshooting Your Way Through ChatGPT Sign-In Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-predictive-artificnient-intelligence-an-in-depth-guide/"><u>Understanding Predictive Artificnient Intelligence: An In-Depth Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-shutdown-insights-into-new-chatgpt-subscription-pauses-and-future-plans/"><u>Understanding the Shutdown: Insights Into New ChatGPT Subscription Pauses & Future Plans</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-ai-excellence-five-essential-tips-for-creating-powerful-chatgpt-prompts/"><u>Unlocking AI Excellence: Five Essential Tips for Creating Powerful ChatGPT Prompts</u></a></li>
 </ul></div>
 

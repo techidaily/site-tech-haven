@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Generating AI-Powered Graphics with ChatGPT
-date: 2024-09-26T02:28:13.347Z
-updated: 2024-09-28T16:57:38.184Z
+date: 2024-09-28T16:32:58.354Z
+updated: 2024-10-04T16:05:41.290Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#is-it-worth-upgrading-to-chatgpt-plus-to-use-custom-gpts)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
  OpenAI has finally unveiled its highly anticipated GPT Store, offering users a selection of ChatGPT community-created custom GPTs featuring specialized chatbots ranging from writing and design to programming and productivity. The launch marks OpenAI's latest move to capitalize on the runaway popularity of its AI creation ChatGPT, which took the world by storm after its launch in November 2022.
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Access the GPT Store
 
@@ -70,10 +63,10 @@ How do you know when you've been granted access?
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
@@ -83,13 +76,26 @@ How do you know when you've been granted access?
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click**Keep in sidebar** . This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
@@ -115,24 +121,20 @@ How do you know when you've been granted access?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unlocking-the-secrets-to-parallel-playback-prowess/"><u>[Updated] 2024 Approved Unlocking the Secrets to Parallel Playback Prowess</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-quick-guide-to-capturing-and-storing-twitter-animated-content/"><u>2024 Approved The Quick Guide to Capturing and Storing Twitter Animated Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-viral-visionaries-most-favored-instagram-filters/"><u>2024 Approved Viral Visionaries Most Favored Instagram Filters</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-6-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-7-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 7 Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-infinix-note-30-vip-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Infinix Note 30 VIP For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-x-fold-2-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo X Fold 2 Screen | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/infusing-impact-best-practices-for-podcast-graphics/"><u>Infusing Impact Best Practices for Podcast Graphics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-to-script-dynamic-and-viral-youtube-content/"><u>Leveraging ChatGPT to Script Dynamic and Viral YouTube Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/living-your-best-life-with-insights-from-chatgpt-expertise/"><u>Living Your Best Life with Insights From ChatGPT Expertise</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-bing-ai-chat-feature-an-android-users-guide/"><u>Mastering the Bing AI Chat Feature: An Android User's Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-your-education-leveraging-chatgpts-power-through-these-5-methods-for-students/"><u>Mastering Your Education: Leveraging ChatGPT's Power Through These 5 Methods for Students</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/microsofts-strategic-move-to-acquire-blizzard-and-advances-in-ai-for-artistic-expression-explore-with-us-podcast/"><u>Microsoft's Strategic Move to Acquire Blizzard & Advances in AI for Artistic Expression - Explore with Us [Podcast]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimize-tasks-effortlessly-5-key-tactics-for-chatgpt-and-wolfram-alpha-users/"><u>Optimize Tasks Effortlessly: 5 Key Tactics for ChatGPT & Wolfram Alpha Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-installation-for-nvidia-hardware-supported/"><u>Seamless Installation for Nvidia Hardware Supported</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamlessly-updating-your-mice-drivers-in-pc-os/"><u>Seamlessly Updating Your Mice Drivers in PC OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/securing-personal-chats-from-chatgpt-saving-mechanisms-essential-advice/"><u>Securing Personal Chats From ChatGPT Saving Mechanisms: Essential Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamlining-your-dialogue-flow-the-role-of-folders-in-chatgpt-conversations/"><u>Streamlining Your Dialogue Flow: The Role of Folders in ChatGPT Conversations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-advantages-of-claude-3-over-gpt-3-top-4-facts/"><u>The Advantages of Claude 3 Over GPT-3 - Top 4 Facts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-a-personalized-approach-developing-an-individualistic-tiktok-keyword/"><u>2024 Approved A Personalized Approach Developing an Individualistic TikTok Keyword</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/download-premium-adult-content-from-sexix-in-high-quality-videos-mp4-mov-with-simple-app/"><u>Download Premium Adult Content From Sexix in High-Quality Videos (MP4, MOV) with Simple App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-y100a-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo Y100A to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-xiaomi-redmi-note-12t-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Xiaomi Redmi Note 12T Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leadership-change-at-openai-as-ceo-sam-altman-resigns-consequences-for-chatgpt/"><u>Leadership Change at OpenAI as CEO Sam Altman Resigns - Consequences for ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-across-mobile-platforms-tips-for-android-and-ios-users/"><u>Mastering ChatGPT Across Mobile Platforms - Tips for Android & iOS Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-presentation-creation-with-chatgpt-a-step-by-step-guide/"><u>Mastering Presentation Creation with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/meet-the-new-vocal-version-of-chatgpt-by-openai-engaging-with-prompts-and-commands-audibly/"><u>Meet the New Vocal Version of ChatGPT by OpenAI – Engaging with Prompts and Commands Audibly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/minimizing-gan-blunders-expert-tips/"><u>Minimizing GAN Blunders: Expert Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-gen-chatbots-paving-the-way-forward/"><u>Next-Gen Chatbots: Paving the Way Forward</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-your-digital-fortresses-could-cybercriminals-exploit-chatgpt-for-attacks/"><u>Protecting Your Digital Fortresses: Could Cybercriminals Exploit ChatGPT for Attacks?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/registration-hacks-accessing-services-on-chatgpt-and-telegram/"><u>Registration Hacks: Accessing Services on ChatGPT & Telegram</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-most-effective-and-ergonomic-keyboard-wraps-of-2024-revealed/"><u>The Most Effective and Ergonomic Keyboard Wraps of 2024 Revealed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-guide-to-frame-rates-for-video-recorders/"><u>The Ultimate Guide to Frame Rates for Video Recorders</u></a></li>
 </ul></div>
 

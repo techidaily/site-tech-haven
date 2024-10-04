@@ -1,7 +1,7 @@
 ---
 title: How Does OpenAI Reward Security Researchers with Its Bug Bounty Scheme?
-date: 2024-09-24T16:37:14.711Z
-updated: 2024-09-28T18:56:54.803Z
+date: 2024-10-01T16:06:36.734Z
+updated: 2024-10-04T16:01:07.589Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/cdf09465082716a317b2f16f4ef99338eb56d0b86
  This[bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and[AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . You may report these to[OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
@@ -61,15 +61,22 @@ The maximum reward you can earn is $20,000.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Here, you must fill in the following information:
@@ -87,10 +94,10 @@ Here, you must fill in the following information:
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
@@ -102,13 +109,6 @@ Here, you must fill in the following information:
  These include server-side injection, server security misconfiguration,[cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage,[cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
 
@@ -131,16 +131,20 @@ Here, you must fill in the following information:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-no-ads-content-creators-playbook-a-guide-to-monetizing-videos/"><u>[New] The No-Ads Content Creator’s Playbook A Guide to Monetizing Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-cross-platform-video-uploading-twittertumblr-for-2024/"><u>[Updated] Cross-Platform Video Uploading Twitter/Tumblr for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/enhance-your-websites-personalization-powered-by-cookiebot-solutions/"><u>Enhance Your Website's Personalization Powered by Cookiebot Solutions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comparative-study-dji-quadcopter-standard-edition/"><u>In 2024, Comparative Study DJI Quadcopter Standard Edition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/insights-from-top-10-international-tech-innovators-on-artificial-intelligence/"><u>Insights From Top 10 International Tech Innovators on Artificial Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-your-job-on-the-line-assessing-the-impact-of-generative-ai-on-various-industries/"><u>Is Your Job on the Line? Assessing the Impact of Generative AI on Various Industries.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210124096-laptop-keyboard-malfunction-heres-what-you-can-do-to-fix-it/"><u>Laptop Keyboard Malfunction? Here's What You Can Do To Fix It!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/llamacow-vs-gpt-4-showdown-determining-the-superior-ai/"><u>Llamacow Vs. GPT-4 Showdown: Determining the Superior AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-restoration-the-key-four-issues/"><u>Mastering ChatGPT Restoration: The Key Four Issues</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-tactics-exclusive-free-voice-change-tool-for-valorant-gamers-for-2024/"><u>Transform Your Tactics Exclusive Free Voice Change Tool for Valorant Gamers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ring-of-elysium-stability-tweaks-how-to-eliminate-disruptive-crashes-once-and-for-all/"><u>'Ring of Elysium' Stability Tweaks: How to Eliminate Disruptive Crashes Once and For All</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-list-of-quick-pace-audio-apps/"><u>[Updated] Ultimate List of Quick-Pace Audio Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-role-in-streamlining-your-web-design-process-discover-4-ways-it-helps/"><u>ChatGPT's Role in Streamlining Your Web Design Process: Discover 4 Ways It Helps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-canon-printer-software-compatible-with-windows-11-8-and-7/"><u>Download Canon Printer Software: Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-various-templates-and-styles-the-ultimate-guide-to-theme-pages/"><u>Exploring Various Templates and Styles: The Ultimate Guide to Theme Pages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/high-precision-review-of-fugeteks-durable-ft-568-stick-transform-your-selfies/"><u>High Precision Review of Fugetek's Durable FT-568 Stick - Transform Your Selfies</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-being-a-prompt-engineer-a-viable-job-top-9-considerations/"><u>Is Being a Prompt Engineer a Viable Job? Top 9 Considerations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-conversations-just-add-chatgpt-and-android/"><u>Mastering Conversations - Just Add ChatGPT & Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-convenience-using-these-9-chatgpt-tricks/"><u>Maximize Convenience Using These 9 ChatGPT Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/misconceptions-how-ai-misses-the-financial-markets-nuances/"><u>Misconceptions: How AI Misses the Financial Markets' Nuances</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-no-nos-4-key-mistakes-when-using-chatgpt-for-your-articles/"><u>Navigating the No-Nos: 4 Key Mistakes When Using ChatGPT for Your Articles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-ai-prompt-engineering-careers-stability-opportunities-and-what-to-expect/"><u>Navigating Through AI Prompt Engineering Careers: Stability, Opportunities, and What to Expect</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/side-hustles-in-the-era-of-gpt-like-tools-can-you-really-profit-from-them/"><u>Side Hustles in the Era of GPT-Like Tools: Can You Really Profit From Them?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-no-audio-output-device-installed-issue-on-windows-10-and-11/"><u>Troubleshooting Guide: Resolving 'No Audio Output Device Installed' Issue on Windows 10 & 11</u></a></li>
 </ul></div>
 

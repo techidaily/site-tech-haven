@@ -1,7 +1,7 @@
 ---
 title: The Secret Behind Artificnial Intelligence Black Boxes Explained
-date: 2024-09-25T19:54:40.825Z
-updated: 2024-09-29T03:54:54.304Z
+date: 2024-10-02T16:27:07.223Z
+updated: 2024-10-04T16:31:02.758Z
 tags:
   - chatgpt
   - open-ai
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/a424e98c842dd6ab44b332abf2c95ae69e65b8caf
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
@@ -67,27 +67,20 @@ thumbnail: https://thmb.techidaily.com/a424e98c842dd6ab44b332abf2c95ae69e65b8caf
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Personalized Tests
 
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
 
@@ -100,16 +93,16 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
@@ -122,6 +115,13 @@ Here's how you can create your own personalized tests:
  You also get detailed explanations, examples, and cultural insights about the language and the people who speak it. Language apps can do this to some extent, but ChatGPT Plus is more versatile and flexible.
 
  ChatGPT Plus may not provide you with the speaking or listening capabilities to help with pronunciation that other[language-learning apps](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) have, but it acts as your teacher that understands context and your progress. These two items help expedite your journey of learning a new language—something no other app can really do.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is the Perfect Partner for Learning a New Language
 
@@ -142,15 +142,21 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-spotlight-on-top-8-sites-where-3d-meets-lustrous-text/"><u>[Updated] 2024 Approved Spotlight on Top 8 Sites Where 3D Meets Lustrous Text</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-best-chatgpt-extensions-for-vs-code/"><u>6 Best ChatGPT Extensions for VS Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-fixes-for-overcoming-chatgpt-authentication-and-access-hurdles/"><u>Easy Fixes for Overcoming ChatGPT Authentication and Access Hurdles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-data-management-for-chatgpt-conversations-our-picks/"><u>Effortless Data Management for ChatGPT Conversations: Our Picks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-best-online-learning-paths-for-artificebial-intelligence-prompt-creation/"><u>Explore the Best Online Learning Paths for Artificebial Intelligence Prompt Creation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-dawn-of-artificial-intelligence/"><u>Exploring the Dawn of Artificial Intelligence</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme C53? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-profiling-excellence-a-guide-to-refined-youtube-summaries/"><u>In 2024, Profiling Excellence A Guide to Refined YouTube Summaries</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-s23-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy S23 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-unexpected-system-call-issues-on-windows/"><u>Tackling Unexpected System Call Issues on Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-how-to-fix-no-video-on-sony-a6400-camera/"><u>[New] In 2024, How to Fix No Video On Sony A6400 Camera</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-simplifying-the-process-of-creating-time-lapses-with-gopro/"><u>[New] In 2024, Simplifying the Process of Creating Time Lapses with GoPro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-windows-11-auto-hdr-how-to-turn-on-windows-11-auto-hdr/"><u>[Updated] Windows 11 Auto HDR How to Turn on Windows 11 Auto HDR</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-security-navigating-potential-threats/"><u>Chatbot Security: Navigating Potential Threats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-performance-is-it-improving-or-declining-insights-from-openai/"><u>ChatGPT's Performance: Is It Improving or Declining? Insights From OpenAI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-on-repairing-startup-problems-in-mozilla-thunderbird/"><u>Comprehensive Guide on Repairing Startup Problems in Mozilla Thunderbird</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-overview-of-openai-api-and-its-applications/"><u>Comprehensive Overview of OpenAI API & Its Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-imaginary-realms-a-guide-to-utilizing-chatgpt-in-storytelling/"><u>Crafting Imaginary Realms: A Guide to Utilizing ChatGPT in Storytelling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/debunking-prevailing-myths-in-the-world-of-artificial-intelligence-based-chatbots/"><u>Debunking Prevailing Myths in the World of Artificial Intelligence-Based Chatbots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decode-the-power-of-openai-practical-uses-explored/"><u>Decode the Power of OpenAI: Practical Uses Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-secret-discovering-the-essence-of-elon-musks-truthgpt-endeavor/"><u>Decoding the Secret: Discovering the Essence of Elon Musk's TruthGPT Endeavor!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dxgkrnlsys-and-windows-blue-screen-error-fix/"><u>dxgkrnl.sys and Windows Blue Screen Error Fix</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y100a-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y100A to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-10-and-11-lengthening-your-pin/"><u>Mastering Windows 10 & 11: Lengthening Your Pin</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-vivo-y100-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Vivo Y100 5G</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-tips-update-and-repair-your-logitech-f710-driver-on-various-windows-versions/"><u>Troubleshooting Tips: Update and Repair Your Logitech F710 Driver on Various Windows Versions</u></a></li>
 </ul></div>
 

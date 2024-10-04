@@ -1,7 +1,7 @@
 ---
 title: "Protecting Identity: Balancing Personalization and Privacy"
-date: 2024-09-28T04:20:12.916Z
-updated: 2024-09-28T22:30:54.380Z
+date: 2024-09-28T16:17:44.953Z
+updated: 2024-10-04T16:29:07.244Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 
 * [What Is ChatGPT's GPT Mentions Feature?](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#what-is-chatgpt-39-s-gpt-mentions-feature)
 * [How to Use the GPT Mentions Feature](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#how-to-use-the-gpt-mentions-feature)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -56,18 +49,18 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 
 So, how can you use this?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
 
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
@@ -76,10 +69,10 @@ So, how can you use this?
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, you're chatting with Canva until you click "X" on the**Talking to Canva** tab that will appear above the chat text box.
@@ -87,15 +80,22 @@ So, how can you use this?
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
 
@@ -130,18 +130,21 @@ Now, we have hotels, flights, and trails for our trip all in one chat!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/tepwise-discovery-of-covert-youtube-archives/"><u>[New] Stepwise Discovery of Covert YouTube Archives</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-leverage-audience-engagement-through-strategic-posting/"><u>[Updated] Leverage Audience Engagement Through Strategic Posting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/could-ai-from-microsoft-outsmart-survival-challenges-in-wild-spaces/"><u>Could AI From Microsoft Outsmart Survival Challenges in Wild Spaces?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciding-what-to-watch-next-let-chatgpt-guide-you/"><u>Deciding What to Watch Next? Let ChatGPT Guide You</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-7-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-ai-journey-with-these-essential-techniques-for-anchors-new-claude-3-prompt-interface/"><u>Enhance Your AI Journey with These Essential Techniques for Anchor's New Claude 3 Prompt Interface</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-ai-literacy-four-strategies-to-teach-chatgpt-pdf-reading-skills/"><u>Enhancing AI Literacy: Four Strategies to Teach ChatGPT PDF Reading Skills</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-lava-yuva-2-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Lava Yuva 2 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-timeless-1980s-filters-and-techniques-in-editing/"><u>In 2024, Timeless 1980S Filters & Techniques in Editing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-asrocks-z79-1-lightning-wi-fi-features-review-a-surprising-blend-of-miniaturization-and-power/"><u>The Ultimate Guide to ASRock's Z79 1 Lightning Wi-Fi Features Review: A Surprising Blend of Miniaturization and Power</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-review-of-tp-links-deco-p9-mesh-wifi-adapter-for-effortless-setup/"><u>The Ultimate Review of TP-Link's Deco P9 Mesh WiFi Adapter for Effortless Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-fixing-persistent-palworld-pc-app-issues/"><u>Troubleshooting Steps for Fixing Persistent Palworld PC App Issues</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-10-face-blurring-tools-for-photos-and-videos-free-and-easy-to-use/"><u>Updated In 2024, Top 10 Face Blurring Tools for Photos and Videos (Free & Easy to Use)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-highest-quality-screen-time-movie-hits-list/"><u>[New] 2024 Approved Highest-Quality Screen Time Movie Hits List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-sound-symphony-music-within-whatsapp-statuses/"><u>[New] In 2024, Sound Symphony Music Within WhatsApp Statuses</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-seamless-methodology-for-going-live-with-podcasts/"><u>[New] Seamless Methodology for Going Live with Podcasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-swiftly-render-and-upload-videos-tips-for-speedy-youtube-submissions/"><u>[New] Swiftly Render & Upload Videos Tips for Speedy YouTube Submissions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unleashing-photography-potential-with-lightroom-hdrs/"><u>[New] Unleashing Photography Potential with Lightroom HDRs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-trendsetters-guide-selecting-best-tools-to-craft-instagram-videos/"><u>[Updated] In 2024, Trendsetters’ Guide Selecting Best Tools to Craft Instagram Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cant-access-chatgpt-discover-the-five-checkpoints-for-its-status/"><u>Can't Access ChatGPT? Discover the Five Checkpoints for Its Status</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-student-tool-uncovering-5-effective-ways-to-utilize-it-at-school/"><u>ChatGPT as a Student Tool: Uncovering 5 Effective Ways to Utilize It at School</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-the-ultimate-study-tool-for-note-taking-pros/"><u>ChatGPT: The Ultimate Study Tool for Note Taking Pros</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-the-workings-of-predictive-ai-systems/"><u>Deciphering the Workings of Predictive AI Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-ai-dominance-gemini-extreme-vs-gptplusplus/"><u>Decoding AI Dominance: Gemini Extreme Vs. GPT++</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-ai-types-a-guide-to-distinguishing-between-public-private-and-personal-variants/"><u>Decoding AI Types: A Guide to Distinguishing Between Public, Private & Personal Variants</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-emotion-detection-by-ai-systems-the-potential-and-limitations-in-deciphering-human-emotions/"><u>Decoding Emotion Detection by AI Systems: The Potential and Limitations in Deciphering Human Emotions</u></a></li>
+<li><a href="https://article-files.techidaily.com/discovering-new-ways-beyond-magix-acid-pro/"><u>Discovering New Ways Beyond Magix ACID Pro</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/facile-a-utiliser-logiciel-de-correction-dimages-pour-amateurs/"><u>Facile À Utiliser: Logiciel De Correction D'Images Pour Amateurs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-artificial-intelligence-the-key-distinctions-between-strong-and-weak-ai/"><u>Understanding Artificial Intelligence: The Key Distinctions Between Strong and Weak AI</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring ChatGPT & Its Transformative Applications in the World of Advanced Generative AI
-date: 2024-09-27T06:06:31.127Z
-updated: 2024-09-29T06:05:48.590Z
+date: 2024-09-28T16:11:30.611Z
+updated: 2024-10-04T16:15:43.726Z
 tags:
   - chatgpt
   - open-ai
@@ -56,19 +56,6 @@ thumbnail: https://thmb.techidaily.com/f98fdaf89e4bdea6c294906b1ec441a8350731ced
 
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create and Edit Videos
 
  Just like images, ChatGPT's Code Interpreter can also perform manipulation tasks on videos. You can perform simple tasks like extracting metadata from video files or grabbing the frame from a particular timestamp. You can also:
@@ -89,14 +76,14 @@ thumbnail: https://thmb.techidaily.com/f98fdaf89e4bdea6c294906b1ec441a8350731ced
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Create and Modify Audio Files
 
@@ -111,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/f98fdaf89e4bdea6c294906b1ec441a8350731ced
 * Overlay an audio file with another audio
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Read, Edit and Create Documents
@@ -128,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/f98fdaf89e4bdea6c294906b1ec441a8350731ced
  Or, read the data from a Word file and then extract specific data meeting a certain criterion to create a spreadsheet file. You can also create graphs, charts and other data visualization elements from documents.
 
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Write and Analyze Code
 
@@ -143,18 +137,18 @@ thumbnail: https://thmb.techidaily.com/f98fdaf89e4bdea6c294906b1ec441a8350731ced
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
 
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
 
@@ -177,22 +171,24 @@ thumbnail: https://thmb.techidaily.com/f98fdaf89e4bdea6c294906b1ec441a8350731ced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-quick-time-cameo-evaluation-for-2024/"><u>[New] Quick-Time Cameo Evaluation for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2023-compendium-of-techniques-to-archive-your-online-interactions-for-2024/"><u>[Updated] 2023 Compendium of Techniques to Archive Your Online Interactions for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-mastering-twitter-videos-in-ultra-hd-for-2024/"><u>[Updated] Mastering Twitter Videos in Ultra HD for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/accessing-large-language-models-llms-via-quoras-poe-a-beginners-guide/"><u>Accessing Large Language Models (LLMs) via Quora's Poe - A Beginner’s Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-joke-makers-and-tech-timeline-from-portable-pcs-to-virtual-private-networks/"><u>AI Joke-Makers and Tech Timeline: From Portable PCs to Virtual Private Networks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoiding-chatgpt-on-macos-insights-into-app-store-alternatives-and-better-options-for-developers/"><u>Avoiding ChatGPT on macOS – Insights Into App Store Alternatives and Better Options for Developers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-your-bot-be-compromised-exploring-the-dangers-of-neural-network-reconstruction/"><u>Can Your Bot Be Compromised? Exploring the Dangers of Neural Network Reconstruction</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-conversational-techniques-and-human-simulation/"><u>Chatbot Conversational Techniques and Human Simulation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-which-is-more-proficient-at-coding-chatgpt-or-gemini/"><u>Chatbot Face-Off: Which Is More Proficient at Coding, ChatGPT or Gemini?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-your-well-being-9-integrative-strategies/"><u>ChatGPT & Your Well-Being: 9 Integrative Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-rise-may-test-se-integrity/"><u>ChatGPT's Rise May Test SE Integrity</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/direct-entry-into-your-channel-simplifying-the-follow-button-creation-for-2024/"><u>Direct Entry Into Your Channel Simplifying the Follow Button Creation for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/embrace-easeful-evenings-pioneering-asmr-practitioners/"><u>Embrace Easeful Evenings Pioneering ASMR Practitioners</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-14-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 14 without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pioneering-computer-tech-insights-toms-authoritative-hardware-resource/"><u>Pioneering Computer Tech Insights: Tom's Authoritative Hardware Resource</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721975423848-the-hidden-drawbacks-of-relying-on-ai-chatbots-for-content-creation-discover-the-top-8-reasons-to-be-cautious/"><u>The Hidden Drawbacks of Relying on AI Chatbots for Content Creation - Discover the Top 8 Reasons to Be Cautious</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/warzone-error-5573-heres-how-you-can-resolve-it-for-playstation-xbox-and-pc-gaming/"><u>Warzone Error 5573? Here's How You Can Resolve It for PlayStation, Xbox & PC Gaming</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-dissecting-reversed-photo-searches-in-the-virtual-cosmos-fb/"><u>[New] Dissecting Reversed Photo Searches in the Virtual Cosmos (FB)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-five-to-fiveteen-tactics-against-oculus-discomfort/"><u>[New] Five to Fiveteen Tactics Against Oculus Discomfort</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-closer-look-the-8-major-problems-in-chatgpt/"><u>A Closer Look: The 8 Major Problems in ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721767594808-access-chatgpt-anywhere-the-new-mobile-app-is-here/"><u>Access ChatGPT Anywhere: The New Mobile App Is Here!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advance-prompt-formulation-skills-using-7-key-web-tools/"><u>Advance Prompt Formulation Skills Using 7 Key Web Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-innovations-unveiled-microsoft-takes-over-blizzard-deep-dive-into-creative-tech-podcast/"><u>AI Innovations Unveiled: Microsoft Takes Over Blizzard, Deep Dive Into Creative Tech [Podcast]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-meets-mobile-step-by-step-guide-to-optimizing-microsoft-bing-app-on-android-phones/"><u>AI Meets Mobile: Step-by-Step Guide to Optimizing Microsoft Bing App on Android Phones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-driven-script-my-podcast-adventure/"><u>AI-Driven Script: My Podcast Adventure</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/audioascend-rising-over-dacast-for-2024/"><u>AudioAscend Rising Over DaCast for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/background-on-blockchain-technology/"><u>Background on Blockchain Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721753789238-bypassing-phone-numbers-for-secure-login-on-messaging-services-your-ultimate-guide/"><u>Bypassing Phone Numbers for Secure Login on Messaging Services - Your Ultimate Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-y36-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y36 Phone that is Locked?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-how-frequent-uploads-can-skyro-cookie-sales-on-your-youtube-channel/"><u>In 2024, How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-camon-30-pro-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Camon 30 Pro 5G Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722138475909-not-only-patience-find-out-about-a-superb-open-source-chatbot-replacement-today/"><u>Not Only Patience: Find Out About a Superb Open-Source Chatbot Replacement Today</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-galaxy-s24plus-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Galaxy S24+ unlock screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unsticking-your-dvdbdcd-rom-effective-ways-to-restore-functionality/"><u>Unsticking Your DVD/BD/CD ROM: Effective Ways to Restore Functionality</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/unveiling-microsofts-controversial-strategy-another-reason-for-user-discontent-analysis-by-zdnet/"><u>Unveiling Microsoft’s Controversial Strategy: Another Reason for User Discontent? - Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/using-chatgpt-over-vpn-does-it-enhance-privacy-and-access/"><u>Using ChatGPT Over VPN – Does It Enhance Privacy And Access?</u></a></li>
 </ul></div>
 

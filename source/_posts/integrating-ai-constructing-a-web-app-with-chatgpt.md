@@ -1,7 +1,7 @@
 ---
 title: "Integrating AI: Constructing a Web App with ChatGPT"
-date: 2024-09-23T16:11:28.936Z
-updated: 2024-09-28T21:13:19.743Z
+date: 2024-10-03T16:13:29.522Z
+updated: 2024-10-04T16:01:37.525Z
 tags:
   - chatgpt
   - open-ai
@@ -42,13 +42,6 @@ Close
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Send ChatGPT Prompts With Your Voice
 
  Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
@@ -62,35 +55,48 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
-![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
@@ -112,17 +118,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-becoming-a-social-media-storyteller-on-facebook/"><u>[Updated] Becoming a Social Media Storyteller on Facebook</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-guide-to-successfully-post-movies-made-with-wmm-onto-vimeo/"><u>2024 Approved Guide to Successfully Post Movies Made with WMM Onto Vimeo</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-job-market-edge-by-learning-how-to-use-chatgpt-heres-why-it-matters/"><u>Boost Your Job Market Edge by Learning How to Use ChatGPT – Here’s Why It Matters</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-now-on-your-iphone-and-ipad-discover-how/"><u>ChatGPT Now on Your iPhone and iPad - Discover How!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-stories-with-ai-discover-6-methods-using-chatgpt/"><u>Crafting Stories with AI: Discover 6 Methods Using ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creators-vs-corporations-the-reason-behind-sarah-silverman-and-colleagues-legal-challenge-to-ai-giants-openai-and-meta/"><u>Creators Vs. Corporations: The Reason Behind Sarah Silverman and Colleagues' Legal Challenge to AI Giants OpenAI & Meta</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-the-difference-an-expert-guide-to-understanding-gpt-vs-bert-in-natural-language-processing/"><u>Deciphering the Difference: An Expert Guide to Understanding GPT vs BERT in Natural Language Processing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-y27-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo Y27 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-simplified-methods-to-validate-your-youtube-status/"><u>In 2024, Simplified Methods to Validate Your YouTube Status</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/instant-snapback-tips/"><u>Instant Snapback Tips</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-hp-wireless-network-adapter-drivers-for-windows-systems/"><u>Latest HP Wireless Network Adapter Drivers for Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-word-2023-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign Word 2023 documents online</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-leading-screenshot-and-record-tools-for-firefox/"><u>[New] 2024 Approved Leading Screenshot & Record Tools for Firefox</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-screen-recorder-showdown-apoyser-vs-emerging-alternatives-review-for-2024/"><u>[New] Screen Recorder Showdown Apoyser Vs Emerging Alternatives Review for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1726220170619-3g2mp4-movavi/"><u>「オンラインでの3G2ファイルMP4変換 - Movavi無料サービス」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-exams-easily-with-gpt-powered-notetaking/"><u>Ace Exams Easily with GPT-Powered Notetaking</u></a></li>
+<li><a href="https://win-dash.techidaily.com/addressing-the-lack-of-built-in-printer-and-scan-software-for-microsofts-latest-windows-version/"><u>Addressing the Lack of Built-In Printer and Scan Software for Microsoft's Latest Window's Version</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advantages-of-using-chatgpt-desktop-application-over-its-web-counterpart/"><u>Advantages of Using ChatGPT Desktop Application Over Its Web Counterpart</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-determining-who-rules-the-roost-in-software-scripting-chatgpt-vs-gemini/"><u>AI Showdown: Determining Who Rules the Roost in Software Scripting – ChatGPT Vs. Gemini</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-overcome-common-crash-issues-in-gears-5/"><u>Expert Tips to Overcome Common Crash Issues in Gears 5</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/full-page-screen-capture-how-to-capture-screenshots-of-a-full-page-in-2024/"><u>Full Page Screen Capture How to Capture Screenshots of a Full Page, In 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/safe-purchase-high-quality-tiktok-followers-for-2024/"><u>Safe Purchase High-Quality TikTok Followers for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/total-horizon-capture-versus-focused-dimensionality/"><u>Total Horizon Capture Versus Focused Dimensionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722183982159-unlock-the-full-potential-of-your-smartphone-with-bing-ai-search/"><u>Unlock the Full Potential of Your Smartphone: With Bing AI Search</u></a></li>
 </ul></div>
 

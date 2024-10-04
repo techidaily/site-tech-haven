@@ -1,7 +1,7 @@
 ---
 title: Understanding OpenAI’s Shap-E and Its Functionalities for Model Interpretability
-date: 2024-09-24T18:33:55.483Z
-updated: 2024-09-29T08:34:46.041Z
+date: 2024-10-02T16:21:15.220Z
+updated: 2024-10-04T16:28:47.583Z
 tags:
   - chatgpt
   - open-ai
@@ -38,38 +38,24 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
 
 ![Screenshot of ChatGPT Declaring No Limits](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-declaring-no-limits.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Of course, asking ChatGPT about itself isn't a good idea since it isn't typically objective about its abilities or has limited information. So, we ran some tests to determine the length limits of ChatGPT responses. We asked the chatbot to write a 5000-word article on the history of the FIFA World Cup. ChatGPT's assessment of itself differed from the results we found.
 
 ![Asking ChatGPT to write 5000 words article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-to-write-5000-words-article.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT is a powerful tool. But maybe 5,000 words was asking a bit too much, so I asked for 2,500 words instead.
 
 ![Asking ChatGPT to write 2500 words article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-to-write-2500-words-article.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT still said it wasn't able to fulfill the request. We worked down to 1,000 words before the chatbot produced the article. But there was another problem: no matter how many times we tried, ChatGPT couldn't produce 1,000 words on the subject. But why? What's limiting the chatbot's ability to produce longer replies?
 
  Part of the answer as to why this happens lies in something called the token system.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What Is the Token System ChatGPT Uses?
 
@@ -96,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
 
  To stress, this is not a fixed rule—we generated outputs that exceeded this by almost two hundred words. However, this can be considered a safe upper limit to achieve complete answers.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Get Longer Responses From ChatGPT
 
  Once you understand that there is a "hidden limit" to ChatGPT's responses, there are some simple ways to help you get more complete responses.
@@ -104,14 +97,21 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
 ![Screenshot of ChatGPT being prompted to continue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-being-prompted-to-continue.jpg)
 2. **Break your question into smaller sections:** For instance, we asked it several times to write an essay on the impact of AI on society. One option here is to ask it to bullet-point some topics for an essay on AI, then use the supplied bullet points as individual prompts.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot of ChatGPT response to AI Bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-ai-bullet-points.jpg)
 3. **Use the Regenerate option:** While this might throw up the same error, with nothing to lose, it is always worth a shot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Specify an upper limit to your word count in your prompt:** The image below illustrates how this can be used to manipulate the maximum word count in an answer.  
@@ -139,22 +139,18 @@ thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-perfecting-gameplay-with-steam-switch-pro-controller/"><u>[New] In 2024, Perfecting Gameplay with Steam Switch Pro Controller</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-pioneer-the-future-of-youtube-content-with-tubebuddy/"><u>[Updated] Pioneer the Future of YouTube Content with TubeBuddy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-beginners-approach-activating-two-factor-auth-in-gmail-easily/"><u>A Beginner’s Approach: Activating Two-Factor Auth in Gmail Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/achieve-more-chromes-top-8-productivity-enhancers-powered-by-ai/"><u>Achieve More: Chrome's Top 8 Productivity Enhancers Powered by AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-rankings-revealed-gpt-vs-microsofts-innovations-and-bard/"><u>AI Rankings Revealed: GPT Vs. Microsoft's Innovations and Bard</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722139505512-entertainment-meets-intelligence-top-6-games-you-can-enjoy-on-chatgpt/"><u>Entertainment Meets Intelligence – Top 6 Games You Can Enjoy on ChatGPT!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-6-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 6 in the Best Ways</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-6-plus-how-to-unlock-a-disabled-iphone-6-plus-by-drfone-ios/"><u>In 2024, Disabled iPhone 6 Plus How to Unlock a Disabled iPhone 6 Plus?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-film-fragments-the-ultimate-editors-collection/"><u>In 2024, Film Fragments The Ultimate Editor's Collection</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-for-identifying-your-steam-user-number/"><u>Strategies for Identifying Your Steam User Number</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transform-your-movies-fast-discover-the-best-7-free-tools-for-turning-mkv-into-mp4-on-a-mac-in-just-seconds/"><u>Transform Your Movies Fast! Discover the Best 7 FREE Tools for Turning MKV Into MP4 on a Mac – In Just Seconds.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-solutions-discover-the-top-4-causes-behind-chatgpt-account-lockouts-and-their-remedies/"><u>Unlocking Solutions: Discover the Top 4 Causes Behind ChatGPT Account Lockouts and Their Remedies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-misconceptions-the-case-for-questioning-artificial-intelligence-reliability/"><u>Unveiling Misconceptions: The Case for Questioning Artificial Intelligence Reliability</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/virtual-mixologist-prowess-can-chatgpt-whip-up-a-perfect-cocktail/"><u>Virtual Mixologist Prowess: Can ChatGPT Whip Up a Perfect Cocktail?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-artificial-intelligence-bots-arent-the-right-tool-for-legitimate-windows-11-key-production/"><u>Why Artificial Intelligence Bots Aren't the Right Tool for Legitimate Windows 11 Key Production</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/will-chatgpt-be-able-to-formulate-effective-and-secure-custom-workouts-perfect-for-your-fitness-goals/"><u>Will ChatGPT Be Able To Formulate Effective And Secure Custom Workouts Perfect For Your Fitness Goals?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-pinnacle-of-brainy-content-general-knowledge-top-11/"><u>2024 Approved Pinnacle of Brainy Content General Knowledge Top 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-xiaomi-redmi-note-12-pro-4g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Xiaomi Redmi Note 12 Pro 4G? Try These Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-assessing-acid-pro-top-alternative-software/"><u>In 2024, Assessing ACID Pro Top Alternative Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-writing-discover-9-uses-for-chatgpt-when-penning-novels/"><u>Master the Art of Writing: Discover 9 Uses for ChatGPT When Penning Novels</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-deceptive-language-models-spotting-bogus-chatgpt-on-apple-devices/"><u>Navigating Deceptive Language Models: Spotting Bogus 'ChatGPT' On Apple Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-most-downloaded-and-loved-iphone-apps-a-comprehensive-review/"><u>New In 2024, The Most Downloaded and Loved iPhone Apps A Comprehensive Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-your-data-unveiling-critical-security-risks-in-chatbot-interactions/"><u>Protect Your Data: Unveiling Critical Security Risks in Chatbot Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reestablishing-lost-communications-with-chatgpt/"><u>Reestablishing Lost Communications with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/shielding-self-opt-out-guide-for-gpt-users/"><u>Shielding Self: Opt-Out Guide for GPT Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/speak-up-and-take-charge-of-chatgpt-learn-these-five-key-vocal-techniques/"><u>Speak Up and Take Charge of ChatGPT: Learn These Five Key Vocal Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/switching-proton-vpn-login-details-steps-and-security-tips/"><u>Switching Proton VPN Login Details: Steps & Security Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-potential-with-messenger-kids-inbuilt-sleep-mode/"><u>Unlocking Potential with Messenger Kids' Inbuilt Sleep Mode</u></a></li>
 </ul></div>
 

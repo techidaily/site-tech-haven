@@ -1,7 +1,7 @@
 ---
 title: "Digital Dilemmas: Navigating Through 3 Chatbot Security Risks"
-date: 2024-09-25T20:29:46.289Z
-updated: 2024-09-28T18:30:39.567Z
+date: 2024-10-03T16:34:07.327Z
+updated: 2024-10-04T16:10:12.607Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,16 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  This just underscores how important it is to[limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) , which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is ChatGPT a Threat to Your Privacy?
@@ -46,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/) , but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
@@ -59,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  In any case, you should be careful when using ChatGPT, especially[if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt) , or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Addressing the Security Risks Associated With ChatGPT
@@ -74,16 +80,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Raising Awareness Is Key
@@ -107,20 +107,17 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streamlined-mac-imagery-unveiling-the-top-5-quick-and-effective-methods/"><u>[New] 2024 Approved Streamlined Mac Imagery Unveiling the Top 5 Quick & Effective Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-invert-colors-in-digital-photos/"><u>[New] How to Invert Colors in Digital Photos?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-learn-the-art-of-adding-borders-on-insta-videos-for-2024/"><u>[New] Learn the Art of Adding Borders on Insta Videos for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-driving-sales-not-just-views-monetizing-your-social-media-videos/"><u>[Updated] 2024 Approved Driving Sales, Not Just Views Monetizing Your Social Media Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-crafting-engaging-vlog-dialogues-a-step-by-step-guide/"><u>[Updated] Crafting Engaging Vlog Dialogues A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-accurate-is-chatgpts-health-related-guidance/"><u>How Accurate Is ChatGPT's Health-Related Guidance?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-openais-shap-e-enhance-machine-learning-interpretation/"><u>How Does OpenAI's Shap-E Enhance Machine Learning Interpretation?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-the-notion-of-a-paperclip-maximizer-influence-modern-artificial-intelligence/"><u>How Does the Notion of a Paperclip Maximizer Influence Modern Artificial Intelligence?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-generate-images-with-microsoft-bing-and-dall-e-3-at-no-cost/"><u>How to Generate Images with Microsoft Bing and DALL-E 3 at No Cost</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-seamless-integration-and-usage-of-chatgpt-plug-ins-for-enhanced-functionality/"><u>How To: Seamless Integration & Usage of ChatGPT Plug-Ins For Enhanced Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-the-enigma-deciphering-the-role-and-operation-of-ai-black-boxes-in-ai-systems/"><u>Inside the Enigma: Deciphering the Role and Operation of 'AI Black Boxes' In AI Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-chatgpt-with-smart-home-technology-feasibility-and-benefits/"><u>Integrating ChatGPT with Smart Home Technology: Feasibility and Benefits</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-fidelity-of-fc6-ui/"><u>Perfecting Visual Fidelity of FC6 UI</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y200s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo Y200s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-the-secrets-of-perfect-aspect-ratios/"><u>Unlocking the Secrets of Perfect Aspect Ratios</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-strategies-for-effective-content-promotion-on-youtube/"><u>[New] 2024 Approved Strategies for Effective Content Promotion on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-encompassing-views-vs-enhanced-visual-depth-for-2024/"><u>[New] Encompassing Views vs Enhanced Visual Depth for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-viral-visualization-top-story-filter-guide/"><u>[New] Viral Visualization Top Story Filter Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-detailed-instruction-set-converting-any-gif-to-a-perfect-sticker-in-social-media-apps/"><u>[Updated] 2024 Approved Detailed Instruction Set Converting Any GIF to a Perfect Sticker in Social Media Apps</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/automated-consent-management-with-the-power-of-cookiebot/"><u>Automated Consent Management with the Power of Cookiebot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beat-the-rununk13-problem-on-hulu-with-this-expert-guide/"><u>Beat the RunUnk13 Problem on Hulu with This Expert Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-top-ai-conversationalist-chatgpt-microsofts-bing-and-googles-bard-compared/"><u>Choosing the Top AI Conversationalist: ChatGPT, Microsoft's Bing, and Google's Bard Compared</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-mastering-langchains-large-language-models-llm/"><u>Step-by-Step Guide to Mastering LangChain's Large Language Models (LLM)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tech-innovation-unveiled-transfer-learning-in-artificial-intelligence/"><u>Tech Innovation Unveiled: Transfer Learning in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-6-critical-considerations-for-leveraging-chatgpt-for-emotional-health-management/"><u>The 6 Critical Considerations for Leveraging ChatGPT for Emotional Health Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-complete-how-to-on-transforming-note-taking-skills-using-chatgpt/"><u>The Complete How-To on Transforming Note-Taking Skills Using ChatGPT</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-email-duel-evaluating-pros-and-cons-of-outlookcom-versus-gmail/"><u>The Email Duel: Evaluating Pros & Cons of Outlook.com Versus Gmail</u></a></li>
 </ul></div>
 

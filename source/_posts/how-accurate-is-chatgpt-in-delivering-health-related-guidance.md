@@ -1,7 +1,7 @@
 ---
 title: How Accurate Is ChatGPT in Delivering Health-Related Guidance?
-date: 2024-09-25T02:46:32.782Z
-updated: 2024-09-29T04:06:45.127Z
+date: 2024-09-30T16:03:21.725Z
+updated: 2024-10-04T16:31:47.307Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
 
  Claude AI clearly got this one. We tried a few more tricky problems, and both chatbots had a fair share of successes and failures in dealing with them. Considering the outcome we observed, it might be fair to say that while ChatGPT has an edge, both chatbots are not too far apart in common sense and logical reasoning abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude AI: Math Skills
 
  Even if you never plan to use ChatGPT or Claude AI to solve your Algebra homework, their mathematical abilities have far-reaching implications. For AI chatbots, math is the key to understanding real-world logic, identifying flawed thinking, and admitting mistakes.
@@ -61,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/52f669a15e335bb29d06275250544e9470586ee07
  Essentially, math proficiency is a core metric of artificial intelligence. So, between ChatGPT and Claude AI, which chatbot is more proficient in math? We tasked both chatbots with solving a twisty math productivity problem. We started with Claude AI, and the chatbot cracked the problem.
 
 ![Claude AI solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-maths-problem-on-productivity.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ChatGPT also cracked the problem as well.
 
@@ -82,10 +82,10 @@ ChatGPT also cracked the problem as well.
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
@@ -100,20 +100,27 @@ ChatGPT also cracked the problem as well.
 
 ![ChatGPT composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-composes-a-rap-lyrics.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
 
 ![Claude AI composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-composes-a-rap-lyrics.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Coding Skills
 
@@ -124,13 +131,6 @@ ChatGPT also cracked the problem as well.
  ​​​​​​That said, we put both chatbots on two coding tasks. We asked ChatGPT and Claude AI to write functional code for a to-do list app. Starting with ChatGPT, the AI chatbot was able to deliver a functional to-do list app on the first attempt. We copy-pasted and ran it on a browser, and it worked perfectly without errors. Here's the output on a browser.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
@@ -163,20 +163,15 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-swift-success-stories-leveraging-instagram-likes-and-videos/"><u>[New] 2024 Approved Swift Success Stories Leveraging Instagram Likes and Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-choosing-the-best-portable-microphones-for-macos-users/"><u>[New] In 2024, Choosing the Best Portable Microphones for MacOS Users</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-joint-filmmaking-and-gaining-followers-quickly/"><u>2024 Approved Joint Filmmaking & Gaining Followers Quickly</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-beatfinder-tools-tune-in-to-online-freshness/"><u>In 2024, Beatfinder Tools Tune in to Online Freshness</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-in-the-ring-with-video-recording-who-will-triumph-obs-or-bandicam/"><u>In 2024, In the Ring with Video Recording Who Will Triumph, OBS or Bandicam?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-integrated-activity-evaluation-guide/"><u>In 2024, Integrated Activity Evaluation Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigate-through-the-best-artifice-intelligence-prompt-marketplaces-on-earth/"><u>Navigate Through the Best Artifice Intelligence Prompt Marketplaces on Earth</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-gpt-3-five-strategies-for-leveraging-chatgpt-without-registration/"><u>Navigating the World of GPT-3: Five Strategies for Leveraging ChatGPT Without Registration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/politeness-protocols-should-you-treat-ai-companions-such-as-chatgpt-alexa-and-siri-with-respect/"><u>Politeness Protocols: Should You Treat AI Companions Such as ChatGPT, Alexa and Siri with Respect?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/precision-in-copywriting-beyond-ais-reach/"><u>Precision in Copywriting Beyond AI’s Reach</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/precision-tools-enhancing-chatgpt-on-a-macos-device/"><u>Precision Tools: Enhancing ChatGPT on a macOS Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/prevent-bot-data-exposure-with-caution/"><u>Prevent Bot Data Exposure with Caution</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/real-time-insights-for-all-via-chatgpt/"><u>Real-Time Insights for All via ChatGPT</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-igtv-to-fb-exposure-guide-5-top-methods-for-2024/"><u>[New] IGTV to FB Exposure Guide (5 Top Methods) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audiovisual-appeal-essential-tips-for-podcast-logos/"><u>[Updated] Audiovisual Appeal Essential Tips for Podcast Logos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-enhance-your-digital-gallery-mastering-online-crop-functions-for-2024/"><u>[Updated] Enhance Your Digital Gallery Mastering Online Crop Functions for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-critical-review-of-the-new-gen-google-nest-hub-highlighting-its-strengths-and-missing-camera-feature/"><u>A Critical Review of The New-Gen Google Nest Hub: Highlighting Its Strengths and Missing Camera Feature</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-performance-is-it-declining-or-not-according-to-openai/"><u>ChatGPT Performance: Is It Declining or Not According To OpenAI?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/data-exposure-threats-from-custom-ai-systems-how-to-stay-protected-with-chatgpt/"><u>Data Exposure Threats From Custom AI Systems - How to Stay Protected with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-how-to-excel-in-ai-prompt-development-through-our-selection-of-top-5-online-education-platforms/"><u>Discover How to Excel in AI Prompt Development Through Our Selection of Top 5 Online Education Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-ai-game-with-these-7-tips/"><u>Elevate Your AI Game with These 7 Tips</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-funny-meme-on-macbook/"><u>How to Make a Funny Meme on MacBook</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1726030260051-windows/"><u>Windows上ショートビデオ連結テクニック</u></a></li>
 </ul></div>
 

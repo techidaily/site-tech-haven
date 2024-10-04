@@ -1,7 +1,7 @@
 ---
 title: Mastering ChatGPT Interaction by Dodging These Critical Writing Errors
-date: 2024-09-28T01:12:26.170Z
-updated: 2024-09-29T01:06:52.058Z
+date: 2024-09-30T16:09:46.727Z
+updated: 2024-10-04T16:10:40.542Z
 tags:
   - chatgpt
   - open-ai
@@ -38,23 +38,9 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -66,13 +52,20 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -87,10 +80,10 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -100,6 +93,13 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -141,20 +141,21 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-name-genius-brainstorming-like-a-pro/"><u>[New] 2024 Approved Channel Name Genius Brainstorming Like a Pro</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-secrets-to-procuring-gratis-picture-frame-media/"><u>[Updated] In 2024, Secrets to Procuring Gratis Picture Frame Media</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-perfect-your-channel-imagery-youtube-thumbnail-dos-and-donts/"><u>[Updated] Perfect Your Channel Imagery YouTube Thumbnail Do's & Don'ts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/7-common-flubs-when-harnessing-ml-power/"><u>7 Common Flubs When Harnessing ML Power</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-accuracy-unleashed-minimize-hallucination-with-these-6-powerful-prompting-tactics/"><u>AI Accuracy Unleashed: Minimize Hallucination with These 6 Powerful Prompting Tactics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-chatbot-limitations-in-generating-genuine-product-keys-for-windows-11-what-you-need-to-know/"><u>AI Chatbot Limitations in Generating Genuine Product Keys for Windows 11: What You Need to Know</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-assisted-zen-overcoming-stress/"><u>AI-Assisted Zen: Overcoming Stress</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-redirection-solution-ensuring-sound-outputs-to-headphones-instead-of-bluetooth-or-wired-speakers/"><u>Audio Redirection Solution: Ensuring Sound Outputs to Headphones Instead of Bluetooth or Wired Speakers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-handle-when-your-iphone-displays-phone-numbers-rather-than-contact-names/"><u>How to Handle When Your iPhone Displays Phone Numbers Rather Than Contact Names</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722183115477-immediate-integration-how-to-harness-gpt-4-with-chatgpt-right-now/"><u>Immediate Integration: How to Harness GPT-4 with ChatGPT Right Now</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-photo-and-video-collage-software-top-picks-for-online-creators/"><u>New Photo and Video Collage Software Top Picks for Online Creators</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-best-13-true-crime-audio-shows/"><u>The Ultimate List: Best 13 True Crime Audio Shows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-snapchats-my-ai-is-a-revolutionary-tool-not-just-a-trendy-toy-reasons-1-6/"><u>Why Snapchat's My AI Is a Revolutionary Tool, Not Just a Trendy Toy (Reasons #1-6)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-you-need-to-make-the-switch-explore-the-top-9-benefits-of-choosing-chatgpt-plus-today/"><u>Why You Need to Make the Switch: Explore the Top 9 Benefits of Choosing ChatGPT Plus Today</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-directors-guide-mastering-character-driven-narratives/"><u>[New] 2024 Approved Directors' Guide Mastering Character-Driven Narratives</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-skybound-creativity-essential-editing-skills-for-drone-films-for-2024/"><u>[New] Skybound Creativity Essential Editing Skills for Drone Films for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-turbo-charge-your-playlist-exposure-youtube-style/"><u>2024 Approved Turbo-Charge Your Playlist Exposure, YouTube Style</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descubre-el-tratodo-sobre-la-conversion-de-archivos-video-wmv-usando-ram-en-linea-gratis-la-solucion-de-movavi/"><u>Descubre El Tratodo Sobre La Conversión De Archivos Vídeo WMV Usando RAM en Línea Gratis: La Solución De Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-14-plus-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone 14 Plus Without Apple ID Password?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone X</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-subtitles-in-media-ultimate-list-of-on-line-aid-sources/"><u>Perfecting Subtitles in Media Ultimate List of On-Line Aid Sources</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/synergizing-storytelling-with-ai-transforming-dandd-through-chatgpt-and-dall-e/"><u>Synergizing Storytelling with AI: Transforming D&D Through ChatGPT & DALL-E</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-artificers-pitfall-spotting-pretend-projections-by-algorithms/"><u>The Artificer's Pitfall: Spotting Pretend Projections by Algorithms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-essentials-of-chatgpt-enterprise-its-capabilities-contributions-and-distinguishing-factors/"><u>The Essentials of ChatGPT Enterprise: Its Capabilities, Contributions & Distinguishing Factors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-is-at-risk-predicting-how-generative-ai-threats-intensify-over-time/"><u>The Future Is at Risk: Predicting How Generative AI Threats Intensify Over Time</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-risks-of-using-a-chatgpt-mobile-application-why-it-might-not-be-worth-your-time/"><u>The Risks of Using a ChatGPT Mobile Application: Why It Might Not Be Worth Your Time</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unclogging-windows-overwhelmed-chatgpt/"><u>Unclogging Windows' Overwhelmed ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-the-startup-error-code-0xc000007b-for-smooth-running-applications/"><u>Understanding And Repairing The Startup Error Code 0xC000007b For Smooth Running Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-limitations-why-chatgpt-may-not-be-ideal-for-summarizing-texts/"><u>Understanding the Limitations: Why ChatGPT May Not Be Ideal for Summarizing Texts</u></a></li>
 </ul></div>
 

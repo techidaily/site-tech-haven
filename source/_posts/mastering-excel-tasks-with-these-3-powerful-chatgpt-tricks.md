@@ -1,7 +1,7 @@
 ---
 title: Mastering Excel Tasks with These 3 Powerful ChatGPT Tricks
-date: 2024-09-28T05:28:47.641Z
-updated: 2024-09-28T17:04:45.182Z
+date: 2024-09-28T16:24:57.429Z
+updated: 2024-10-04T16:16:45.438Z
 tags:
   - chatgpt
   - open-ai
@@ -34,16 +34,16 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
  What's better is that you can also ask the chatbot for alternative dishes that are easier to make if you don't have all the ingredients on hand.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Learn New Cooking Techniques
 
 ![Learn new cooking techniques with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/learn-new-cooking-techniques-with-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Even your favorite dishes can get a bit boring if you cook them the same way every time. You can use ChatGPT to come up with new cooking, baking, and grilling techniques to change up your dishes sporadically. For example, you can ask for different ways to grill meat or ways to season a salmon for maximum flavor.
 
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
 ![ChatGPT meal plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-meal-plan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you are very conscious about the food you eat, ChatGPT can help you understand your dietary requirements. By analyzing this, the[AI chatbot can create healthy meal plans](https://www.makeuseof.com/create-healthy-meal-plan-using-chatgpt/) and recipes that align with your dietary preferences. This personalized approach ensures that you get the nutrients you need while still enjoying the foods you love.
 
  For your fitness goals, ChatGPT can assist you in creating a meal plan that supports your objectives. You can ask for meal recommendations that are rich in protein, carbohydrates, and healthy fats. ChatGPT can also guide you on how to develop healthy eating habits if you have an eating disorder.
@@ -70,21 +63,47 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
 ![Create shopping list with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-shopping-list-with-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you struggle with remembering all the ingredients needed for a recipe, ChatGPT can help you create a detailed shopping list.[You can then use Instacart for same-day grocery shopping](https://www.makeuseof.com/sir-how-is-instacart-for-same-day-grocery-shopping/) , or any other grocery delivery services available in your area.
 
  This entire process is even better if you have a ChatGPT Plus subscription.[You can install and use plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) with the premium service to order ingredients within ChatGPT. For example, once ChatGPT generates a recipe for you, use the InstaCart plugin to order the ingredients and get them delivered to you on the same day.
 
  Even if you opt for writing the items down on a pad, the AI-powered chatbot can still make writing a shopping list much easier.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Find New Flavor Combinations
 
 ![New flavor combo ideas by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-flavor-combo-ideas-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Finding new flavor combinations is arguably the most difficult process involved with cooking. Even if a certain combination is good, you won't really know if it works for you or not. ChatGPT can make this process a bit easier.
@@ -109,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
  If you don't feel like cooking, you could just ask ChatGPT for the best restaurants or catering services to order from for the gathering.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Level Up Your Cooking Skills With ChatGPT
 
  ChatGPT's versatility proves that it's much more than an AI text generator. It's an intelligent assistant that can help with research, coding, and even cooking. OpenAI continues to improve the chatbot by adding new features and regularly updating the interface. A year or two ago, using AI in the kitchen would have been a foreign concept, yet here we are.
@@ -137,16 +149,15 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-crafting-compelling-online-presence-incorporating-wirecast-into-fb-streams/"><u>[New] Crafting Compelling Online Presence Incorporating Wirecast Into FB Streams</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-fraud-busters-efficient-and-economical-methods-for-2024/"><u>[New] Instagram Fraud Busters Efficient & Economical Methods for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-pc-virtual-reality-hits-top-10-for-2024/"><u>[New] PC Virtual Reality Hits Top 10 for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-infinite-snaps-ensuring-a-lasting-snapchat-connection/"><u>[Updated] 2024 Approved Infinite Snaps Ensuring a Lasting Snapchat Connection</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-nvidia-geforce-gtx-980-ti-graphics-card-drivers-now/"><u>Download NVIDIA GeForce GTX 980 Ti Graphics Card Drivers Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-new-world-of-chatgpt-with-ios/"><u>Explore the New World of ChatGPT with iOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-gemini-inside-googles-latest-artificve-intelligence-endeavor/"><u>Exploring Gemini: Inside Google's Latest Artificve Intelligence Endeavor</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-natural-and-artificenas-interfaces/"><u>Exploring Natural and Artificenas Interfaces</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-key-differences-between-advanced-ai-systems-and-basic-ai-models/"><u>Exploring the Key Differences Between Advanced AI Systems and Basic AI Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exposing-the-risks-of-fraudgpt-how-to-fortify-digital-spaces/"><u>Exposing the Risks of FraudGPT: How to Fortify Digital Spaces</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-bold-transitions-a-beginners-guide-to-fades/"><u>In 2024, Bold Transitions A Beginner's Guide to Fades</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-beginners-blueprint-for-financial-gain-in-periscope/"><u>[New] Beginner's Blueprint for Financial Gain in Periscope</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-seamless-transition-of-video-files-to-facebook-for-pcandroid/"><u>[Updated] Seamless Transition of Video Files to Facebook for PC/Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-under-the-surface-sound-savers-top-6-stealthy-recorders-iosandroid-for-2024/"><u>[Updated] Under-the-Surface Sound Savers Top 6 Stealthy Recorders (iOS/Android) for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cyber-shifts-and-sways-prognosticating-top-7-trends/"><u>Cyber Shifts and Sways: Prognosticating Top 7 Trends</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-on-your-preferred-ai-companion-evaluating-chatgpt-against-microsoft-bings-creation-and-google-bard/"><u>Deciding on Your Preferred AI Companion - Evaluating ChatGPT Against Microsoft Bing's Creation & Google Bard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-conversations-unveiling-the-process-of-chatgpt/"><u>Decoding Conversations: Unveiling the Process of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-mystery-of-grok-ai-with-musks-insight-into-purpose-and-expenses/"><u>Decoding the Mystery of Grok AI with Musk's Insight Into Purpose & Expenses</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-nokia-c300-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Nokia C300 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Realme GT 3 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Begin Using the Enhanced AI Version of Bing with Easy Registration Steps
-date: 2024-09-24T22:21:40.971Z
-updated: 2024-09-28T22:08:43.480Z
+date: 2024-10-03T16:09:45.323Z
+updated: 2024-10-04T16:20:55.921Z
 tags:
   - chatgpt
   - open-ai
@@ -57,18 +57,18 @@ thumbnail: https://thmb.techidaily.com/a4224fc73a6465f58bae54c290236f5e5e4311745
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Google Gemini AI
 
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to[bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
@@ -80,21 +80,22 @@ thumbnail: https://thmb.techidaily.com/a4224fc73a6465f58bae54c290236f5e5e4311745
 
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
@@ -104,13 +105,6 @@ We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 Here's the source screenshot.
 
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
@@ -125,16 +119,10 @@ Here's the source screenshot.
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
@@ -144,10 +132,10 @@ Here's the source screenshot.
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
@@ -171,24 +159,17 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-amplify-your-music-experience-with-youtubes-playlist-guide/"><u>[New] In 2024, Amplify Your Music Experience with YouTube's Playlist Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-microscopic-views-on-ms-teams-chat/"><u>[New] Mastering Microscopic Views on MS Teams Chat</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-recording-titans-duel/"><u>[New] Recording Titans Duel</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-slide-swivel-and-shift-a-step-by-step-manual-to-flipping-images-on-instagram-sites-for-2024/"><u>[New] Slide, Swivel and Shift A Step-by-Step Manual to Flipping Images on Instagram Sites for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-solving-shorts-thumbnail-absence-on-youtube/"><u>[New] Solving Shorts Thumbnail Absence on YouTube</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-step-into-the-arena-joining-lives-on-tiktok-for-2024/"><u>[New] Step Into the Arena Joining Lives on TikTok for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-leading-emulators-top-5-for-playing-ps3-games-on-pc/"><u>[Updated] In 2024, Leading Emulators Top 5 for Playing PS3 Games on PC</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/detailgetreue-datenerfassung-im-medizinischen-sektor-durch-abbyy-problemlosungen-und-kundenbewertungen/"><u>Detailgetreue Datenerfassung Im Medizinischen Sektor Durch ABBYY - Problemlösungen Und Kundenbewertungen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-articles-and-blog-posts-discover-9-key-advantages-of-chatgpt-for-writers/"><u>Elevate Your Articles & Blog Posts: Discover 9 Key Advantages of ChatGPT for Writers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/excel-excellence-achievable-through-chatgpt-partnership/"><u>Excel Excellence Achievable Through ChatGPT Partnership</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/future-of-security-insights-into-tomorrows-cyber-threat-landscape/"><u>Future of Security: Insights Into Tomorrow's Cyber Threat Landscape</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gptzero-guide-detecting-synthetic-text-with-ease/"><u>GPTZero Guide: Detecting Synthetic Text with Ease</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-chatgpts-capabilities-for-poetic-expression/"><u>Harnessing ChatGPT's Capabilities for Poetic Expression</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-palm-2-elevates-googles-bard-ai-discover-7-key-upgrades/"><u>How PaLM 2 Elevates Google's Bard AI - Discover 7 Key Upgrades!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-generating-funny-images-through-adobe/"><u>In 2024, Generating Funny Images Through Adobe</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-truthgpts-launch-a-deep-dive-into-police-involvement-at-mullvad-vpn-top-rated-no-cost-pc-gaming-experiences-and-comprehensive-guide-to-mechanical-key40/"><u>Inside TruthGPT's Launch: A Deep Dive Into Police Involvement at Mullvad VPN, Top Rated No-Cost PC Gaming Experiences & Comprehensive Guide to Mechanical Keyboard Usage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/launching-your-pathway-into-the-world-of-prompt-engineering/"><u>Launching Your Pathway Into the World of Prompt Engineering</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-your-tasks-top-7-chatgpt-techniques-for-peak-output/"><u>Master Your Tasks: Top 7 ChatGPT Techniques for Peak Output</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-remedies-to-prevent-your-csgo-from-suddenly-shutting-down/"><u>Quick Remedies to Prevent Your CSGO From Suddenly Shutting Down</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-extract-youtube-trailers-and-more-for-2024/"><u>[New] How to Extract YouTube Trailers & More for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-reimagining-team-call-backdrops-beforeafter-chats/"><u>[New] In 2024, Reimagining Team Call Backdrops Before/After Chats</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-core-concepts-in-moving-graphic-artistry/"><u>2024 Approved Core Concepts in Moving Graphic Artistry</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-perfecting-tiktok-videos-efficient-techniques-for-numerical-edits/"><u>2024 Approved Perfecting TikTok Videos Efficient Techniques for Numerical Edits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-data-sharing-by-opting-out-of-chatgpt/"><u>Avoid Data Sharing by Opting Out of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/begin-the-conversation-chatgpt-awaits/"><u>Begin the Conversation: ChatGPT Awaits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-free-ai-language-models-that-match-or-exceed-the-capabilities-of-microsofts-phi-era/"><u>Best Free AI Language Models That Match or Exceed the Capabilities of Microsoft's Phi Era</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chaos-to-calm-9-chatgpt-strategies-for-simplified-living/"><u>Chaos to Calm: 9 ChatGPT Strategies for Simplified Living</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-accessing-trendsetting-background-images-for-tiktok/"><u>In 2024, Accessing Trendsetting Background Images for TikTok</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-streamline-your-craft-expert-tutorials-in-youtube-studio-editor/"><u>In 2024, Streamline Your Craft Expert Tutorials in YouTube Studio Editor</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mcb-template-pack-download-now/"><u>MCB Template Pack Download Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unleashing-potential-in-windows-10-with-lenovo/"><u>Unleashing Potential in Windows 10 with Lenovo</u></a></li>
 </ul></div>
 

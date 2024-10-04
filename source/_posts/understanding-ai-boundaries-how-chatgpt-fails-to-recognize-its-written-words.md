@@ -1,7 +1,7 @@
 ---
 title: "Understanding AI Boundaries: How ChatGPT Fails to Recognize Its Written Words"
-date: 2024-09-24T21:43:19.268Z
-updated: 2024-09-28T16:24:22.821Z
+date: 2024-09-30T16:29:29.316Z
+updated: 2024-10-04T16:12:08.083Z
 tags:
   - chatgpt
   - open-ai
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
  However, as we uncover here, it isn't that straightforward. There are hidden limits to the length of a ChatGPT response, but there are also some nifty and simple workarounds to help you get longer answers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does ChatGPT Determine the Length of a Response?
@@ -53,16 +53,16 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
 ![Asking ChatGPT to write 2500 words article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-to-write-2500-words-article.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT still said it wasn't able to fulfill the request. We worked down to 1,000 words before the chatbot produced the article. But there was another problem: no matter how many times we tried, ChatGPT couldn't produce 1,000 words on the subject. But why? What's limiting the chatbot's ability to produce longer replies?
 
  Part of the answer as to why this happens lies in something called the token system.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What Is the Token System ChatGPT Uses?
 
@@ -80,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
  The base GPT 3.5 4k model is supposed to restrict user questions and replies to 4,097 tokens. Similarly, the GPT-4 8k model is supposed to deliver 8,192 tokens. By OpenAI's reckoning, this equates to about 3,000 words for the GPT-3.5 and around 5,000 to 6,000 words for the GPT-4 8k tokens. But wait a minute. With an approximate 3,000 to 6,000 words capacity on either model, why wasn't ChatGPT able to deliver a 2,500-word or even 1,500-word article when we requested? Why are ChatGPT responses much less than their advertised token count or context length?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Are ChatGPT's Responses Limited?
 
  While token length looks straightforward and good in theory, there's more to how AI models consider these limits. There are two notable considerations.
@@ -95,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 2. **System Demand** :[ChatGPT has quickly become one of the fastest-growing apps of all time](https://www.makeuseof.com/how-chatgpt-became-fastest-growing-app/) . This has generated a huge demand for ChatGPT. To ensure everyone gets a piece of the action, 8k tokens might not always be 8k. Remember, the more tokens to process, the more demand on the system. To lessen the average demand from each user, responses are curtailed to far below the stated limits.
 
  To stress, this is not a fixed rule—we generated outputs that exceeded this by almost two hundred words. However, this can be considered a safe upper limit to achieve complete answers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Get Longer Responses From ChatGPT
 
@@ -107,16 +107,16 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 ![Screenshot of ChatGPT response to AI Bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-ai-bullet-points.jpg)
 3. **Use the Regenerate option:** While this might throw up the same error, with nothing to lose, it is always worth a shot.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. **Specify an upper limit to your word count in your prompt:** The image below illustrates how this can be used to manipulate the maximum word count in an answer.  
 ![Screenshot of using a word limit for ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-using-a-word-limit-for-chatgpt-response.jpg)
 5. **Start a new conversation** : starting a new conversation gives you a clean slate to work with. Remember, ChatGPT considers past prompts and responses in a conversation. Starting a new chat gives you unused context to work with.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  These tips will help you to get more complete answers from ChatGPT and work around the unofficial limit in the length of its responses.
 
@@ -139,24 +139,14 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-secrets-of-snapping-finding-missing-private-images-for-2024/"><u>[New] Secrets of Snapping Finding Missing Private Images for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-basics-of-aspect-ratio-compliance-on-twitter/"><u>[New] The Basics of Aspect Ratio Compliance on Twitter</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-prime-picks-top-tweets-for-must-see-original-series/"><u>[Updated] 2024 Approved Prime Picks Top Tweets for Must-See Original Series</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-listenleaders-pursuing-better-podcasts/"><u>2024 Approved ListenLeaders Pursuing Better Podcasts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/aviutlwmv/"><u>AviUtlを使用してWMV形式出力する簡単なガイド - 必要なプラグインなし</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-location-not-available-problem-in-ios-essential-tips-for-iphone-owners/"><u>Fixing 'Location Not Available' Problem in iOS - Essential Tips for iPhone Owners</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-g24-power-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola G24 Power Phone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-dji-spark-review-best-mini-drone-for-taking-selfie/"><u>In 2024, DJI Spark Review Best Mini Drone for Taking Selfie</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y100frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y100FRP Lock</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-steam-troubleshooting-and-repairing-damaged-game-disks-with-ease/"><u>Mastering Steam: Troubleshooting and Repairing Damaged Game Disks with Ease</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-text-files-with-ais-chatgpt-pairings/"><u>Transform Your Text Files with AI's ChatGPT Pairings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/triple-use-cases-for-chatgpts-integration-with-wolframalpha/"><u>Triple Use Cases for ChatGPT's Integration with WolframAlpha</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-the-7-leading-chatbot-plugins-for-visual-studio-code-enthusiasts/"><u>Ultimate Guide: The 7 Leading Chatbot Plugins for Visual Studio Code Enthusiasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-imagination-how-to-use-free-dall-e-3-via-bing/"><u>Unlock Imagination: How to Use Free DALL-E 3 via Bing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-employment-success-the-six-advantages-of-knowledgeable-chatgpt-use/"><u>Unlocking Employment Success: The Six Advantages of Knowledgeable ChatGPT Use</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-powerful-chatgpt-mobile-experience-for-ios-users/"><u>Unveiling the Powerful ChatGPT Mobile Experience for iOS Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/voice-activated-chatbot-mastery-on-your-phone-implementing-voicegpt-on-android/"><u>Voice-Activated Chatbot Mastery on Your Phone: Implementing VoiceGPT on Android</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-is-chatgpt-discover-the-world-of-generative-ai-possibilities/"><u>What Is ChatGPT? Discover the World of Generative AI Possibilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-not-rely-on-ai-for-chat-7-key-objections/"><u>Why Not Rely on AI for Chat? #7 Key Objections</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-leveraging-your-roku-setup-for-exclusive-fb-live-content/"><u>2024 Approved Leveraging Your Roku Setup for Exclusive FB Live Content</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-s24plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy S24+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-live-streaming-services-ranked-your-in-depth-comparison/"><u>In 2024, Best Live Streaming Services Ranked Your In-Depth Comparison</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-fixes-essential-tips-to-survive-win11/"><u>In 2024, Quick Fixes Essential Tips to Survive Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-quest-for-artifice-intelligence-success-deciphering-the-turing-test/"><u>The Quest for Artifice Intelligence Success: Deciphering the Turing Test</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-chatgpt-in-advancing-cognitive-behavioral-therapy-techniques/"><u>The Role of ChatGPT in Advancing Cognitive Behavioral Therapy Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-urgent-need-for-tighter-ai-oversight-insights-from-the-head-of-openai/"><u>The Urgent Need for Tighter AI Oversight: Insights From the Head of OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-common-errors-in-crafting-chatgpt-prompts-steer-clear/"><u>Top 6 Common Errors in Crafting ChatGPT Prompts: Steer Clear</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trouble-with-your-skype-try-our-10-strategies-for-seamless-connectivity/"><u>Trouble with Your Skype? Try Our 10 Strategies for Seamless Connectivity</u></a></li>
 </ul></div>
 

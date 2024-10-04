@@ -1,7 +1,7 @@
 ---
 title: "Understanding ChatGPT: Exploring the Mechanics of Shared Links"
-date: 2024-09-27T18:59:23.294Z
-updated: 2024-09-28T18:54:08.832Z
+date: 2024-10-01T16:29:32.553Z
+updated: 2024-10-04T16:30:48.186Z
 tags:
   - chatgpt
   - open-ai
@@ -56,36 +56,35 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can ChatGPT Solve Geometry and Trigonometry Problems?
 
  Seeing as ChatGPT was able to solve arithmetic and algebra problems without error, the challenge proceeded with a few problems in geometry and trigonometry. Despite being faced with a few topics in trig—including the Pythagorean theorem, inscribed angles, and the directrix of a parabola—GPT-4 solved all problems accurately.
 
 ![asking chatgpt to solve for the hypotenuse of a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![asking chatgpt to solve for an angle given a three sided shape inscribed within a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![chatgpt makes a mistake in the inscribed angle problem after being asked for an explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![chatgpt solves for the equation of a parabola given the focus and vertex](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-4.jpg)
 
@@ -101,34 +100,20 @@ Close
 
 ![chatgpt solves for x given a cosine equation where 16 times the cosine of 12 times x plus eight equals negative eight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt solves for the amplitude of a waveform given the minimum value and midpoint of an equation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![chatgpt solves for the cosine and sine of the interior angle of a right triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-3.jpg)
 
 ![chatgpt gives an incorrect definition of sine after user insists that it is incorrect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can ChatGPT Solve Calculus Problems?
 
@@ -144,9 +129,30 @@ Close
 
 ![chatgpt solves for the value of the derivative of an inverse function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt offers a correct answer for the derivative of an inverse of a function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt gives an incorrect answer after being told its original correct answer was erroneous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -186,24 +192,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-best-of-the-best-10-acclaimed-online-vimeo-downloaders/"><u>[Updated] 2024 Approved Best of the Best 10 Acclaimed Online Vimeo Downloaders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-speedy-fixes-for-slow-mo-videos-in-a-flash/"><u>[Updated] Speedy Fixes for Slow-Mo Videos in a Flash</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-journey-to-high-definition-mastering-sdr-to-hdr-conversion/"><u>2024 Approved Journey to High Definition Mastering SDR to HDR Conversion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-mirthful-selfies-step-by-step-for-the-cartoon-face-lens/"><u>2024 Approved Mastering Mirthful Selfies Step-by-Step for the Cartoon Face Lens</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-role-in-redefining-human-experience/"><u>AI's Role in Redefining Human Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoid-misleading-ais-by-implementing-our-proven-6-step-prompt-optimization-guide/"><u>Avoid Misleading AIs by Implementing Our Proven 6-Step Prompt Optimization Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bard-vs-chatgpt-googles-new-ai-showdown-announced/"><u>Bard Vs. ChatGPT: Google's New AI Showdown Announced</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beware-of-top-5-common-chatgpt-frauds/"><u>Beware of Top 5 Common ChatGPT Frauds</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/breathing-life-into-banished-dialogues/"><u>Breathing Life Into Banished Dialogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-machine-intelligence-surpass-horoscopes-in-unveiling-your-destiny-with-chatgpt/"><u>Can Machine Intelligence Surpass Horoscopes in Unveiling Your Destiny with ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-utilizing-chatgpt-lead-to-job-termination-a-study-on-10-potential-occasions/"><u>Can Utilizing ChatGPT Lead to Job Termination? A Study on 10 Potential Occasions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/challenging-the-notion-of-declining-ai-intelligence-in-chatgpt-perspectives-from-openai/"><u>Challenging the Notion of Declining AI Intelligence in ChatGPT – Perspectives From OpenAI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-ios-edge-explained-6-key-differences/"><u>ChatGPT's iOS Edge Explained: 6 Key Differences</u></a></li>
-<li><a href="https://win11.techidaily.com/continuous-edge-background-on-windows-11-tips/"><u>Continuous Edge Background on Windows 11 - Tips</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/cut-costs-improve-videos-learn-free-vimeo-editing-for-2024/"><u>Cut Costs, Improve Videos Learn Free Vimeo Editing for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725287644874-dvdpc/"><u>DVD儲存技巧：探索三大有效方法將光碟資料遷移至PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/feature-a-podcast-in-one-quick-snap/"><u>Feature a Podcast in One Quick Snap</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-realme-c67-4g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Realme C67 4G Phone Screen?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/voyage-for-valuables-5-prime-map-expeditions/"><u>Voyage for Valuables 5 Prime Map Expeditions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-data-driven-decision-making-in-your-youtube-shorts-strategy-for-2024/"><u>[Updated] Data-Driven Decision Making in Your YouTube Shorts Strategy for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-exhilarating-circuit-trials-selecting-the-top-5-titles/"><u>[Updated] In 2024, Exhilarating Circuit Trials Selecting the Top 5 Titles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/academic-integrity-beyond-auto-generated-texts/"><u>Academic Integrity Beyond Auto-Generated Texts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adapting-to-success-top-six-tactics-for-the-automation-era-jobscape/"><u>Adapting to Success: Top Six Tactics for the Automation Era Jobscape</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/aesthetic-adjustments-iphones-pro-image-cropping-apps-for-2024/"><u>Aesthetic Adjustments IPhone's Pro Image Cropping Apps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-next-phase-brings-heightened-security-threats/"><u>AI's Next Phase Brings Heightened Security Threats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-perfection-our-curated-list-of-best-tools-for-prompts/"><u>Artificial Intelligence Perfection: Our Curated List of Best Tools for Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beating-isolation-harnessing-chatgpts-power/"><u>Beating Isolation: Harnessing ChatGPT's Power</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-daily-output-top-7-methods-chatgpt-improves-job-efficiency/"><u>Boosting Daily Output: Top 7 Methods ChatGPT Improves Job Efficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-user-confidentiality-understanding-potential-risks/"><u>ChatGPT and User Confidentiality: Understanding Potential Risks</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-razr-40-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Razr 40 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-oneclickpodcaststream-effortlessly-livestream-your-podcast-content/"><u>In 2024, OneClickPodcastStream Effortlessly Livestream Your Podcast Content</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-v27e-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo V27e Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rejuvenating-hdmi-interface-windows-guide/"><u>Rejuvenating HDMI Interface: Windows Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/swift-profile-management-across-multiple-facebook-ids/"><u>Swift Profile Management Across Multiple Facebook IDs</u></a></li>
 </ul></div>
 

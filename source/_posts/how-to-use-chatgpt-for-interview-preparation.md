@@ -1,7 +1,7 @@
 ---
 title: How to Use ChatGPT for Interview Preparation
-date: 2024-09-26T21:11:36.650Z
-updated: 2024-09-29T06:40:59.815Z
+date: 2024-10-01T16:12:14.697Z
+updated: 2024-10-04T16:03:14.438Z
 tags:
   - chatgpt
   - open-ai
@@ -48,17 +48,38 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
 ![A sample conversation with ChatGPT to generate text for a presentation.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-presentation-text.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have provided the information, ChatGPT will generate the presentation text for you. You can edit and refine the text to meet your needs and preferences. It's best to remove the structural phrases, such as the slide numbers and the image descriptions. Keep only the main text.
 
  If you'll be using the free version of SlidesAI, it's important to note that there are limits on the number of characters and slides. Specifically, the free version has a limit of 2500 characters and can generate no more than ten slides. You can adjust your prompt or edit the ChatGPT output if you need to work within these limits.
 
  If you want to make the whole process even easier and don't feel like editing the AI-generated text yourself, you can use yet another[AI writing tool](https://www.makeuseof.com/ai-writing-tools/) to edit ChatGPT's output.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Install SlidesAI for Google Slides
 
  After generating the text for your presentation, the next step is to install[SlidesAI for Google Slides](https://workspace.google.com/marketplace/app/slidesaiio%5Fcreate%5Fslides%5Fwith%5Fai/904276957168) . You can do this through the Google Slides add-ons store.
 
 ![SlidesAI on the Google Webstore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-store.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Go to Google Slides.
 2. Create a blank presentation.
@@ -78,15 +99,15 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under**Enter text** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
 6. Check**Replace Existing Slides** .
@@ -95,44 +116,23 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 8. When all is set, go back to the**Text** tab and click**Create Slides** .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
 
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Add the Finishing Touches and Export the Presentation
 
  Now you can customize the slides and add the finishing touches. Remember that AI is still prone to making mistakes, so proofread your presentation to ensure there aren't any blunders. If the main content looks good, you can then start making visual improvements like[adding animations to your slides](https://www.makeuseof.com/add-animation-google-slides/) .
 
 ![The Magic Write tool in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-magic-write.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There's a chance that SlidesAI adds irrelevant images to some slides. In that case, you can replace the image with SlideAI's Magic Write tool. This feature considers the slide's content and suggests relevant stock photos.
 
@@ -170,16 +170,16 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-strategies-efficiently-saving-rocket-league-matches/"><u>[New] In 2024, Top Strategies Efficiently Saving Rocket League Matches</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-correct-x3daudiodll-disappeared-or-undetected-errors/"><u>Effective Strategies to Correct 'x3daudio.dll' Disappeared or Undetected Errors</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-redmi-13c-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-samsung-galaxy-a15-4g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Samsung Galaxy A15 4G Phone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/latest-tricks-for-ios-screenshots-and-recording-for-2024/"><u>Latest Tricks for iOS Screenshots & Recording for 2024</u></a></li>
-<li><a href="https://discover-help.techidaily.com/live-streaming-mastery-with-manycam-ultimate-virtual-camera-solution/"><u>Live Streaming Mastery with ManyCam: Ultimate Virtual Camera Solution</u></a></li>
-<li><a href="https://games-able.techidaily.com/loophole-busted-no-more-unjust-refunds/"><u>Loophole Busted: No More Unjust Refunds</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-yourself-from-5-common-chatgpt-deception-techniques/"><u>Protect Yourself From 5 Common ChatGPT Deception Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simplify-your-chat-experience-learn-how-to-implement-folder-management-in-chatgpt-conversations/"><u>Simplify Your Chat Experience: Learn How to Implement Folder Management in ChatGPT Conversations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamlining-document-digitization-how-chatgpt-reads-pdfs/"><u>Streamlining Document Digitization: How ChatGPT Reads PDFs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-impact-of-conversational-agents-like-chatgpt-on-modern-medicine/"><u>The Impact of Conversational Agents Like ChatGPT on Modern Medicine</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-from-concept-to-completion-building-effective-facebook-covers/"><u>[Updated] 2024 Approved From Concept to Completion Building Effective Facebook Covers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-calculating-best-podcast-debut-days/"><u>[Updated] Calculating Best Podcast Debut Days</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-psyche-up-with-customized-console-voices/"><u>[Updated] Psyche Up with Customized Console Voices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-lava-storm-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Lava Storm 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-photoscape-program-the-ultimate-freeware-solution-for-imagery-enhancement/"><u>In-Depth Analysis of the PhotoScape Program: The Ultimate Freeware Solution for Imagery Enhancement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intelligent-interplay-discovering-3-effective-uses-of-chatgpt-and-wolframalpha/"><u>Intelligent Interplay: Discovering 3 Effective Uses of ChatGPT & WolframAlpha</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/job-security-alert-navigating-the-dangers-of-chatgpt-in-your-employment/"><u>Job Security Alert: Navigating the Dangers of ChatGPT in Your Employment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/journey-through-time-identifying-the-dawn-of-machine-intelligence/"><u>Journey Through Time: Identifying the Dawn of Machine Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/masterclass-on-building-personalized-chatbots-using-gpt-technology/"><u>Masterclass on Building Personalized Chatbots Using GPT Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-employment-opportunities-discover-how-chatgpt-can-aid-in-your-job-hunt/"><u>Maximize Employment Opportunities: Discover How ChatGPT Can Aid in Your Job Hunt</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-v30-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo V30 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

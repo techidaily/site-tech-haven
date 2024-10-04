@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Secrets of Making Big Bucks: Top 8 Side Gigs Using ChatGPT"
-date: 2024-09-26T20:52:32.418Z
-updated: 2024-09-29T00:03:44.500Z
+date: 2024-09-27T16:25:37.316Z
+updated: 2024-10-04T16:20:19.387Z
 tags:
   - chatgpt
   - open-ai
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 ChatGPT Memory and Temporary Chat
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
@@ -82,10 +82,16 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Temporary Chat
@@ -93,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
 
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 
@@ -119,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.
 
 <ins class="adsbygoogle"
@@ -136,22 +142,22 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-charting-your-course-from-creator-to-major-label-for-2024/"><u>[New] Charting Your Course From Creator to Major Label for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-comparing-360-immersion-to-vr-experience-for-2024/"><u>[New] Comparing 360° Immersion to VR Experience for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-quick-fire-methods-to-record-and-save-your-virtual-gatherings-windows-and-mac/"><u>[Updated] Quick-Fire Methods to Record and Save Your Virtual Gatherings (Windows & Mac)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-a-beginner-friendly-introduction-to-io-screen-recorder/"><u>2024 Approved A Beginner-Friendly Introduction to IO Screen Recorder</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-secure-continuous-streaming-in-obs/"><u>2024 Approved How To Secure Continuous Streaming In OBS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-slug-lines-for-effective-storytelling/"><u>2024 Approved Mastering Slug Lines for Effective Storytelling</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-maximizing-engagement-essential-strategies-for-facebook-video-promotion/"><u>2024 Approved Maximizing Engagement Essential Strategies for Facebook Video Promotion</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-guide-managing-netflix-video-rate/"><u>2024 Approved Quick Guide Managing Netflix Video Rate</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/6-reasons-for-vigilance-when-dealing-with-automated-systems/"><u>6 Reasons for Vigilance when Dealing with Automated Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/access-your-chatgpt-app-on-the-go-master-the-chatgpt-everywhere-feature-for-worldwide-use/"><u>Access Your ChatGPT App on the Go: Master the ChatGPT Everywhere Feature for Worldwide Use</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/adapting-careers-in-an-ai-driven-world/"><u>Adapting Careers in an AI-Driven World</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-face-off-who-reigns-supreme-in-the-world-of-coding-chatgpt-or-gemini/"><u>AI Face-Off: Who Reigns Supreme in the World of Coding - ChatGPT or Gemini?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-showdown-comparing-chatgpt-and-gemini-in-code-mastery/"><u>AI Showdown: Comparing ChatGPT and Gemini in Code Mastery</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-double-edged-sword-enhancing-cybercrime-tactics/"><u>AI's Double-Edged Sword: Enhancing Cybercrime Tactics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/are-there-any-potential-risks-associated-with-using-chatgpt/"><u>Are There Any Potential Risks Associated With Using ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-intelligences-impact-on-distinguishing-fact-from-fiction-top-8-examples/"><u>Artificial Intelligence's Impact on Distinguishing Fact From Fiction: Top 8 Examples</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-insta-ode-selecting-song-lyrics-and-beats-for-vids/"><u>[New] 2024 Approved The Insta-Ode Selecting Song Lyrics and Beats for Vids</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-expand-your-library-prime-10-ps5-extra-drives/"><u>[New] In 2024, Expand Your Library Prime 10 PS5 Extra-Drives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-the-most-reliable-mac-recorders-for-2024/"><u>[New] The Ultimate Guide to the Most Reliable Mac Recorders for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-simplifying-video-production-with-captivate/"><u>[Updated] 2024 Approved Simplifying Video Production with Captivate</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-iphones-quick-focus-adjustment/"><u>2024 Approved Master iPhone's Quick Focus Adjustment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snapshot-scribbles-10-top-writing-aids-for-image-capture-iosandroid/"><u>2024 Approved Snapshot Scribbles 10 Top Writing Aids for Image Capture (iOS/Android)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-beginners-blueprint-using-chatgpt-for-effective-daily-mindfulness-practice/"><u>A Beginner’s Blueprint: Using ChatGPT for Effective Daily Mindfulness Practice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-guide-to-designing-health-focused-meal-strategies-through-chatgpt-assistance/"><u>A Guide to Designing Health-Focused Meal Strategies Through ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-and-self-awareneress-understanding-why-chatgpt-cant-recognize-its-own-writings/"><u>AI and Self-Awareneress: Understanding Why ChatGPT Can't Recognize Its Own Writings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/an-in-depth-look-at-truthgpt-coin-is-it-legitimate/"><u>An In-Depth Look at TruthGPT Coin - Is It Legitimate?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-v27-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo V27 Pro?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-6-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Magic 6 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-17-essential-tools-for-enhancing-website-metadata/"><u>Top 17 Essential Tools for Enhancing Website Metadata</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-ready-to-go-gpt-models-for-instant-deployment/"><u>Top 8 Ready-to-Go GPT Models for Instant Deployment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-commerce-the-top-8-benefits-of-integrating-chatgpt-into-your-company/"><u>Transforming Commerce: The Top 8 Benefits of Integrating ChatGPT Into Your Company</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-claude-pro-a-comparison-with-microsofts-chatgpt-plus/"><u>Understanding Claude Pro: A Comparison with Microsoft's ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-expertise-for-personalized-car-customization-tips/"><u>Utilizing ChatGPT Expertise for Personalized Car Customization Tips</u></a></li>
 </ul></div>
 
