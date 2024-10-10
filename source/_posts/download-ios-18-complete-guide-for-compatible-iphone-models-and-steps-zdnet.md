@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: Complete Guide for Compatible iPhone Models & Steps - ZDNet"
-date: 2024-09-30T16:03:03.666Z
-updated: 2024-10-04T16:26:29.368Z
+date: 2024-10-04T19:52:02.373Z
+updated: 2024-10-09T16:04:12.749Z
 tags:
   - apple
 categories:
@@ -32,20 +32,33 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -60,22 +73,15 @@ After installing the latest iOS update, your iPhone will restart.
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -102,13 +108,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -124,6 +123,19 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,17 +181,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-ultimate-song-guide-for-newbies/"><u>[New] In 2024, The Ultimate Song Guide for Newbies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-rival-tools-that-outclass-sharex/"><u>[Updated] In 2024, Rival Tools that Outclass ShareX</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/analyzing-the-high-end-gopro-hero9-black/"><u>Analyzing the High-End GoPro HERO9 Black</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/getting-started-free-videography-templates-for-2024/"><u>Getting Started Free Videography Templates for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-amd-vega-cu-drivers-on-windows-easy-steps/"><u>How to Get the Latest AMD Vega Cu Drivers on Windows - Easy Steps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-8-online-locations-for-3d-text-psd-downloads/"><u>In 2024, Best 8 Online Locations for 3D Text PSD Downloads</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 15 Pro?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-converting-mp4-videos-into-xvid-format/"><u>Step-by-Step Guide: Converting MP4 Videos Into Xvid Format</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tale-of-two-ais-notion-ai-vs-chatgpt-which-prevails/"><u>Tale of Two AIs: Notion AI Vs. ChatGPT - Which Prevails?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-six-premier-tools-to-transform-your-visual-studio-code-with-chatgpt-integration/"><u>The Six Premier Tools to Transform Your Visual Studio Code with ChatGPT Integration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-risks-can-employees-face-termination-for-utilizing-chatgpt/"><u>Understanding the Risks: Can Employees Face Termination for Utilizing ChatGPT?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-a-path-to-monthly-earnings-from-youtube-for-2024/"><u>[Updated] Charting a Path to Monthly Earnings From YouTube for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/demystifying-gimps-capabilities-an-exhaustive-analysis-of-this-multiplatform-free-graphical-editor/"><u>Demystifying GIMP's Capabilities: An Exhaustive Analysis of This Multiplatform, Free Graphical Editor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-classroom-visuals-cutting-edge-video-edits-for-teachers/"><u>In 2024, Classroom Visuals Cutting Edge Video Edits for Teachers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-zte-blade-a73-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do ZTE Blade A73 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-mg2800-series-drivers-for-windows-operating-systems-get-them-here/"><u>Latest Canon MG2800 Series Drivers for Windows Operating Systems - Get Them Here!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/save-on-soccer-spectacles-live-tape-trim-for-free/"><u>Save on Soccer Spectacles - Live, Tape, Trim for Free</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/solve-your-dts-audio-problems-in-windows-media-player-three-effective-methods/"><u>Solve Your DTS Audio Problems in Windows Media Player: Three Effective Methods</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/strategies-for-effective-youtube-playlist-distribution/"><u>Strategies for Effective YouTube Playlist Distribution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sustainable-editing-incorporating-ai-without-compromising-integrity/"><u>Sustainable Editing: Incorporating AI without Compromising Integrity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/synchronized-synergy-selecting-the-best-ai-tools-for-dynamic-prompts/"><u>Synchronized Synergy: Selecting the Best AI Tools for Dynamic Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-art-of-verse-integrating-chatgpt-in-book-writing/"><u>The Art of Verse: Integrating ChatGPT in Book Writing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-dark-side-of-ai-evaluating-the-threat-of-cyber-attacks-using-tools-like-chatgpt-on-bankingpersonal-computers/"><u>The Dark Side of AI: Evaluating the Threat of Cyber Attacks Using Tools Like ChatGPT on Banking/Personal Computers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-evolution-of-ai-at-google-introducing-the-revolutionary-palm-2-llm/"><u>The Evolution of AI at Google: Introducing the Revolutionary PaLM 2 LLM</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/what-to-do-when-your-nvidia-isnt-plugged-in-essential-repair-techniques/"><u>What To Do When Your Nvidia Isn't Plugged In? Essential Repair Techniques</u></a></li>
 </ul></div>
 

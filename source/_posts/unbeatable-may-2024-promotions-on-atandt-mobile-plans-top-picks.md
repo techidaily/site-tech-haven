@@ -1,7 +1,7 @@
 ---
 title: Unbeatable May 2024 Promotions on AT&T Mobile Plans Top Picks
-date: 2024-09-28T16:37:23.256Z
-updated: 2024-10-04T16:07:52.535Z
+date: 2024-10-03T22:50:22.524Z
+updated: 2024-10-09T16:24:50.998Z
 tags:
   - apple
 categories:
@@ -116,13 +116,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -138,10 +131,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Accessory and service deals
@@ -154,6 +147,19 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these AT&T phone deals?
 
 When we made our selection for the best AT&T deals, we wanted to include options based on the following criteria: 
@@ -163,13 +169,6 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Variety:** We require a diverse range of products to be available, suiting different users and their needs.
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does AT&T offer deals for existing customers?
 
@@ -183,16 +182,23 @@ In general, there is no difference in how much money you save whether you shop o
 
 ZDNET experts split out the latest and greatest deals for you below.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Best deals by category**
@@ -244,18 +250,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-a-beginners-guide-to-vimeo-caption-addition/"><u>[New] 2024 Approved A Beginner's Guide to Vimeo Caption Addition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortlessly-post-videos-on-youtube-with-our-expert-guide/"><u>[New] 2024 Approved Effortlessly Post Videos on YouTube with Our Expert Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-videography-tips-optimal-sizes-and-formats/"><u>[Updated] Instagram Videography Tips Optimal Sizes & Formats</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-10-ios-auditory-options/"><u>[Updated] Top 10 iOS Auditory Options</u></a></li>
-<li><a href="https://video-capture.techidaily.com/iphonemkv/"><u>最新技術: IPhone上でMKVファイルの視聴手順２種</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-a-sense-of-anticipation-3-steps-to-add-a-countdown-timer-in-fcpx-for-2024/"><u>Create a Sense of Anticipation 3 Steps to Add a Countdown Timer in FCPX for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-6-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 6 Plus and iPad</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808145286-simple-trick-change-your-web-browsers-homepage-to-google-asap/"><u>Simple Trick: Change Your Web Browser’s Homepage to Google ASAP</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-and-fixing-asus-laptop-touchpad-issues-in-windows-11-and-10/"><u>Troubleshooting and Fixing ASUS Laptop Touchpad Issues in Windows 11 & 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-and-correcting-the-update-issue-error-0x80ebuilding-a-successful-seo-title-is-all-about-understanding-your-target-audiences-search-intent-inco5/"><u>Understanding and Correcting the Update Issue (Error 0X80ebuilding a Successful SEO Title Is All About Understanding Your Target Audience's Search Intent, Incorporating Relevant Keywords Naturally, and Providing a Clear Value Proposition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/untangle-the-windows-11-setup-knot-a-comprehensive-guide-to-fixing-error-code-80240020/"><u>Untangle the Windows 11 Setup Knot: A Comprehensive Guide to Fixing Error Code 80240020</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-10-creators-updates-kb4103429-and-kb4013418/"><u>Windows 10 Creators Updates: KB4103429 and KB4013418</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-logic-pro-techniques-for-fading-out-sounds-for-2024/"><u>[New] Logic Pro Techniques for Fading Out Sounds for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-calculating-20mb-video-length-in-secs/"><u>[Updated] 2024 Approved Calculating 20MB Video Length in Secs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-android-photography-excellence-tips-and-tools/"><u>[Updated] Android Photography Excellence Tips and Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mac-tips-capturing-class-notes-efficiently/"><u>[Updated] In 2024, Mac Tips Capturing Class Notes Efficiently</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-reviewcast-analysis/"><u>2024 Approved ReviewCast Analysis</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-a24-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy A24?</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-compatibility-issues-launching-the-thaumaturge-software-successfully-on-desktops/"><u>Overcoming Compatibility Issues: Launching the Thaumaturge Software Successfully on Desktops</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/sion-in-perspective-mastery-of-youtube-video-degrees-for-2024/"><u>Precision in Perspective Mastery of Youtube Video Degrees for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/by-step-customizing-your-youtube-channel-url-for-2024/"><u>Step-by-Step Customizing Your YouTube Channel URL for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-comprehensive-beginners-manual-for-implementing-the-chatgpt-api/"><u>The Comprehensive Beginner's Manual for Implementing the ChatGPT API</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-distinct-features-of-auto-gpt-an-in-depth-look-compared-to-chatgpt/"><u>The Distinct Features of Auto-GPT: An In-Depth Look Compared to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-influence-of-gpt-conversations-on-productivity-boosting/"><u>The Influence of GPT Conversations on Productivity Boosting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-secrets-behind-virtual-personas-a-deep-dive-into-the-dead-internet-theory-of-online-communication/"><u>The Secrets Behind Virtual Personas: A Deep Dive Into the 'Dead Internet Theory' Of Online Communication</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-six-dos-and-donts-of-constructing-effective-chatgpt-prompts/"><u>The Six Do's and Don'ts of Constructing Effective ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-translation-titan-gpts-role-in-natural-language-understanding/"><u>The Translation Titan: GPT's Role in Natural Language Understanding</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-maximum-tokens-possibility-of-going-beyond/"><u>Understanding ChatGPT's Maximum Tokens: Possibility of Going Beyond</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-claude-nv-powerful-applications-and-operations/"><u>Understanding Claude Nv: Powerful Applications and Operations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-potential-communicating-with-chatgpt-revealed/"><u>Unlock the Potential: Communicating with ChatGPT Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-successful-updates/"><u>Unlocking Windows 11 Successful Updates</u></a></li>
 </ul></div>
 

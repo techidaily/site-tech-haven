@@ -1,7 +1,7 @@
 ---
 title: "Unlock New Safety Communications on Your iPhone: Discover the Essential iOS 18 Update Beyond AI"
-date: 2024-09-29T16:30:10.602Z
-updated: 2024-10-04T16:28:25.507Z
+date: 2024-10-02T22:03:05.823Z
+updated: 2024-10-09T22:54:31.068Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -52,16 +52,16 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -76,13 +76,6 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -92,10 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -103,6 +96,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,21 +140,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/est-youtube-video-ideas-to-spark-inspiration-for-2024/"><u>[New] Best YouTube Video Ideas to Spark Inspiration for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-effortless-iphone-screen-recording-techniques-unveiled/"><u>[New] In 2024, Effortless iPhone Screen Recording Techniques Unveiled</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-inventive-story-naming-mastering-over-120-ways-for-snapchat-exclusivity/"><u>[Updated] In 2024, Inventive Story Naming Mastering Over 120 Ways for Snapchat Exclusivity</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-slow-motion-capture-with-phantom-lens/"><u>2024 Approved Perfecting Slow-Motion Capture with Phantom Lens</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-ergonomic-and-durable-x-chair-x4-executive-office-seat/"><u>Comprehensive Review of the Ergonomic and Durable X-Chair X4 Executive Office Seat</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-in-computing-a-review-by-tom-hardware-experts/"><u>Exploring the Latest in Computing: A Review by Tom Hardware Experts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/flv-video-editor-for-windows-8-a-comprehensive-review/"><u>FLV Video Editor for Windows 8 A Comprehensive Review</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-google-pixel-7a-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Google Pixel 7a to New Android? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/music-mastery-essentials-high-quality-dj-video-samples-for-2024/"><u>Music Mastery Essentials High-Quality DJ Video Samples for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-how-to-completebly-delete-epubor-software-from-a-mac-computer/"><u>Ultimate Tutorial: How to Completebly Delete Epubor Software From a Mac Computer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-secrets-behind-enigmatic-drm-methods/"><u>Understanding the Secrets Behind Enigmatic DRM Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-content-a-comprehensive-tutorial-on-bypassing-drm-in-google-play-stored-titles/"><u>Unlocking Content: A Comprehensive Tutorial on Bypassing DRM in Google Play Stored Titles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-digital-restrictions-guide-to-bypass-prc-on-your-kindle-app-for-android/"><u>Unlocking Digital Restrictions: Guide to Bypass PRC on Your Kindle App for Android</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-full-potential-of-ebooks-a-guide-on-eliminating-drm-restrictions-in-bandn-nook-readers/"><u>Unlocking the Full Potential of eBooks: A Guide on Eliminating DRM Restrictions in B&N NOOK Readers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-the-differences-between-kindle-fire-models-a-comprehensive-guide/"><u>Unraveling the Differences Between Kindle Fire Models: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-6-critical-issues-affecting-your-kindle-fire-experience/"><u>Unveiling the Top 6 Critical Issues Affecting Your Kindle Fire Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-audiovisual-elevation-leading-high-definition-hdmi-21-displays/"><u>[New] 2024 Approved Audiovisual Elevation Leading High-Definition (HDMI 2.1) Displays</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-laptop-specific-tips-to-maximize-your-screenrec/"><u>[New] In 2024, Laptop-Specific Tips to Maximize Your ScreenRec</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-simplified-methods-for-saving-screen-share-talks/"><u>[New] Simplified Methods for Saving Screen-Share Talks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-glimpse-into-the-future-my-positive-encounter-with-apple-vision-pros-early-release-insights-for-tech-enthusiasts-zdnet/"><u>A Glimpse Into the Future: My Positive Encounter with Apple Vision Pro's Early Release - Insights for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/anticipate-the-future-top-3-groundbreaking-iphone-16-innovations-that-will-revolutionize-your-experience/"><u>Anticipate the Future: Top 3 Groundbreaking iPhone 16 Innovations That Will Revolutionize Your Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-poco-c50-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Poco C50 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comparatie-intre-trecut-si-prezent-strategii-de-concuramant-seo-pentru-oportunitati-de-publicitate-vidrealizat/"><u>Comparație Între Trecut Și Prezent: Strategii De Concurământ SEO Pentru Oportunități De Publicitate Vidrealizat</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-infinix-hot-30i-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Infinix Hot 30i</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-why-im-now-a-believer-in-the-apple-watch-10-thanks-to-its-top-3-innovations-tech-analysis-by-zdnet/"><u>Discover Why I'm Now a Believer in the Apple Watch 10 Thanks to Its Top 3 Innovations | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ier-makers-of-harmonized-audio-visual-experiences/"><u>Frontier Makers of Harmonized Audio-Visual Experiences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/future-proofing-your-wrist-in-depth-comparison-between-the-apple-watch-ultra-and-series-8-to-find-your-ideal-match-zdnet/"><u>Future-Proofing Your Wrist: In-Depth Comparison Between The Apple Watch Ultra & Series 8 to Find Your Ideal Match | ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipad-pro-comparison-navigating-features-of-latest-flagship-tablets-from-apple-a-buyers-decision-maker-guide-gadgetpundit/"><u>IPad Pro Comparison: Navigating Features of Latest Flagship Tablets From Apple - A Buyer's Decision-Maker Guide | GadgetPundit</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/meet-the-ultimate-workout-buddy-how-apples-airpods-pro-3-track-your-heart-rate-for-optimal-training-results/"><u>Meet the Ultimate Workout Buddy: How Apple's AirPods Pro 3 Track Your Heart Rate for Optimal Training Results</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/perfect-snapchat-video-maximizing-mac-capabilities-for-2024/"><u>Perfect Snapchat Video Maximizing Mac Capabilities for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-artists-companion-a-curated-list-of-8-premier-iphone-drawing-tools/"><u>The Artist's Companion A Curated List of 8 Premier iPhone Drawing Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tidy-up-your-email-effortlessly-a-one-trick-solution-to-organize-without-overcomplicating-insights-from-zdnet/"><u>Tidy Up Your Email Effortlessly: A One-Trick Solution to Organize Without Overcomplicating - Insights From ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-indispensable-ios-16-features-with-easy-usage-guide-insights-from-zdnet/"><u>Top 5 Indispensable iOS 16 Features with Easy Usage Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ate-guide-to-youtube-thumbnail-creation-on-mac-for-2024/"><u>Ultimate Guide to YouTube Thumbnail Creation on Mac for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-portability-and-versatility-the-surprisingly-powerful-8-in-1-adapter-that-defies-its-cost-a-closer-look/"><u>Unleash Portability & Versatility: The Surprisingly Powerful 8-in-1 Adapter That Defies Its Cost - A Closer Look</u></a></li>
 </ul></div>
 

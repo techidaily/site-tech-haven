@@ -1,7 +1,7 @@
 ---
 title: Top 5 Indispensable iOS 16 Features with Easy Usage Guide - Insights From ZDNet
-date: 2024-09-30T16:18:37.042Z
-updated: 2024-10-04T16:31:55.763Z
+date: 2024-10-08T20:57:13.842Z
+updated: 2024-10-09T22:23:59.685Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 ## How to send and receive iMessages on Windows
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Microsoft Phone Link
@@ -63,18 +63,18 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -86,24 +86,31 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -145,37 +152,24 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,19 +207,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-pro-mic-tech-scoring-the-top-9-mic-recorder-brands/"><u>[New] Pro Mic Tech Scoring the Top 9 Mic Recorder Brands</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-download-part-of-a-youtube-videos-in-2024/"><u>[Updated] How to Download Part of a YouTube Videos, In 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-craft-a-unique-channel-look-for-free/"><u>[Updated] In 2024, Craft a Unique Channel Look for Free</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-turbocharging-your-journey-10-must-have-srt-converters/"><u>2024 Approved Turbocharging Your Journey 10 Must-Have SRT Converters</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unhindered-routine-changing-video-direction-with-vlc/"><u>2024 Approved Unhindered Routine Changing Video Direction with VLC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/breaking-down-chatgpt-the-game-changer-in-creative-tech/"><u>Breaking Down ChatGPT: The Game-Changer in Creative Tech</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-on-resolving-the-v22h2-windows-upgrade-not-installed-error/"><u>Expert Tips on Resolving the V22H2 Windows Upgrade Not Installed Error</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-codegpt-an-innovative-tool-for-writing-source-code/"><u>Exploring CodeGPT: An Innovative Tool for Writing Source Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-join-openais-bug-bounty-challenge-everything-you-need-to-know/"><u>How to Join OpenAI's Bug Bounty Challenge – Everything You Need to Know</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-for-writing-difficult-emails-at-work/"><u>How to Use ChatGPT for Writing Difficult Emails at Work</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-s17-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo S17</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-owning-your-sound-instagrams-ip-framework/"><u>In 2024, Owning Your Sound Instagram's IP Framework</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-gpt-mentions-a-guide-to-highlighting-your-personalized-gpts-during-chatgpt-interactions/"><u>Leveraging GPT Mentions: A Guide to Highlighting Your Personalized GPTs During ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-tools-like-chatgpt-for-auto-coding-solutions/"><u>Top 7 Tools Like ChatGPT For Auto-Coding Solutions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-living-large-with-youtube-premium-the-inside-story/"><u>[New] In 2024, Living Large with YouTube Premium The Inside Story</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-10-online-tools-to-retrieve-youtube-graphics/"><u>[Updated] 10 Online Tools to Retrieve YouTube Graphics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/capture-every-detail-on-mac-free-in-2024/"><u>Capture Every Detail on Mac - Free, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-hidden-gaming-power-of-this-samsung-projector-save-200-on-labor-day-deal-zdnet/"><u>Discover the Hidden Gaming Power of This Samsung Projector - Save $200 on Labor Day Deal | ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unknown-usb-device-errors-with-ease-detailed-solutions/"><u>How to Fix Unknown USB Device Errors with Ease - Detailed Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastery-of-image-warping-made-simple-for-2024/"><u>Mastery of Image Warping Made Simple for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-safety-of-openais-chatbot-insight-into-6-cybersecurity-threats/"><u>Navigating the Safety of OpenAI's Chatbot: Insight Into 6 Cybersecurity Threats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-conversion-transform-your-videos-into-high-quality-mp3s-in-minutes/"><u>Seamless Conversion: Transform Your Videos Into High-Quality MP3s in Minutes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-infinix-hot-40-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Infinix Hot 40 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-converting-avi-movie-files-into-divx-codecs-for-multiple-devices/"><u>Step-by-Step Guide to Converting AVI Movie Files Into DivX Codecs for Multiple Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-converting-individual-screen-captures-into-a-unified-recording/"><u>Step-by-Step Guide to Converting Individual Screen Captures Into a Unified Recording</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-mavnox-build-addon-in-kodi-version-19-matrix/"><u>Step-by-Step Guide: Setting up MavNox Build Addon in Kodi Version 19 (Matrix)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-samsung-galaxy-note-3-debut-schedule-capabilities-and-cost-breakdown/"><u>The Samsung Galaxy Note 3 Debut: Schedule, Capabilities & Cost Breakdown</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-the-top-rated-dvd-to-avi-converters-of-2024-on-windows-11/"><u>The Ultimate Guide to the Top-Rated DVD to AVI Converters of 2024 on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-10-free-4k-players-compatible-with-windows-11-get-them-now/"><u>Top 10 Free 4K Players Compatible with Windows 11 - Get Them Now!</u></a></li>
 </ul></div>
 

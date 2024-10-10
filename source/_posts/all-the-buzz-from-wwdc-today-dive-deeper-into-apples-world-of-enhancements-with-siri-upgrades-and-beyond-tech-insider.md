@@ -1,7 +1,7 @@
 ---
 title: "All the Buzz From WWDC Today: Dive Deeper Into Apple’s World of Enhancements with Siri Upgrades and Beyond | Tech Insider"
-date: 2024-10-01T16:23:05.165Z
-updated: 2024-10-04T16:06:54.689Z
+date: 2024-10-07T22:58:07.040Z
+updated: 2024-10-10T00:11:51.602Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +83,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,24 +131,20 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-endless-creativity-free-youtube-art-resources/"><u>[New] 2024 Approved Endless Creativity FREE YouTube Art Resources</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-realistic-quantum-leaps-a-vfx-perspective/"><u>[New] 2024 Approved Realistic Quantum Leaps A VFX Perspective</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-explore-the-world-of-video-calls-hangouts-for-android-for-2024/"><u>[New] Explore the World of Video Calls Hangouts for Android for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-inexpensive-high-quality-cameras-for-2024/"><u>[Updated] Inexpensive High-Quality Cameras for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/brainchild-of-bard-googles-answer-to-the-ai-world-leaders/"><u>Brainchild of Bard: Google's Answer to the AI World Leaders</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-co-author-crafting-winning-cover-letters-for-any-industry/"><u>ChatGPT as Your Co-Author: Crafting Winning Cover Letters for Any Industry</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/do-user-exchanges-lead-to-bettered-chatgpt-written-output/"><u>Do User Exchanges Lead to Bettered ChatGPT’ Written Output?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-rise-of-gptbot-and-its-impact-on-site-accessibility/"><u>Exploring the Rise of GPTBot & Its Impact on Site Accessibility</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/hearing-artificsic-intelligence-how-openais-chatgpt-now-answers-verbal-prompts/"><u>Hearing Artificsic Intelligence: How OpenAI's ChatGPT Now Answers Verbal Prompts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-realme-narzo-60-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Realme Narzo 60 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-new-norms-the-role-of-artificial-intelligence-in-evolving-website-search-engine-rankings/"><u>Navigating New Norms: The Role of Artificial Intelligence in Evolving Website Search Engine Rankings</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-start-guide-to-install-brother-dcp-l2540dw-printer-on-your-windows-device-secure-driver-downloads-included/"><u>Quick Start Guide to Install Brother DCP-L2540DW Printer on Your Windows Device - Secure Driver Downloads Included</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/samsung-galaxy-s2-ultra-assessment-the-best-pick-in-the-world-of-android-devices/"><u>Samsung Galaxy S2 Ultra Assessment: The Best Pick in the World of Android Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-fitness-training-integrating-chatgpt-into-personalized-workout-plan-creation/"><u>The Future of Fitness Training: Integrating ChatGPT Into Personalized Workout Plan Creation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-insiders-guide-to-harnessing-openai-capabilities/"><u>The Insider’s Guide to Harnessing OpenAI Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-top-30-innovative-point-of-sale-systems-excluding-gpt/"><u>The Top 30 Innovative Point-of-Sale Systems, Excluding GPT</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unlocking-a-new-sound-profile-free-guide-to-free-fire-voice-changes/"><u>Unlocking a New Sound Profile Free Guide to Free Fire Voice Changes</u></a></li>
+<li><a href="https://win-great.techidaily.com/accelerate-your-pc-how-this-secret-windows-11-feature-rapidly-terminates-frozen-programs-revealed-by-zdnet/"><u>Accelerate Your PC: How This Secret Windows 11 Feature Rapidly Terminates Frozen Programs, Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-how-to-safely-rip-burn-and-duplicate-your-digital-media-files/"><u>Comprehensive Guide: How to Safely Rip, Burn, and Duplicate Your Digital Media Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/convert-and-save-your-vimeo-videos-as-mp4-files-a-step-by-step-guide/"><u>Convert and Save Your Vimeo Videos as MP4 Files – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-free-windows-11-sound-equalizers-ranking-the-top-7-picks/"><u>Discover the Ultimate List of Free Windows 11 Sound Equalizers - Ranking the Top 7 Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/divxmkv-and2/"><u>DivXへの高画質MKV変換 - スピーディ&シンプルな手順2種</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-your-favorite-tracks-with-mp3goo-a-guide-to-free-mp3-song-retrievals/"><u>Download Your Favorite Tracks with MP3GOO – A Guide to Free MP3 Song Retrievals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easily-watch-flv-format-in-windows-10-with-these-simple-tricks/"><u>Easily Watch Flv Format in Windows 10 with These Simple Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficient-tips-for-resolving-vlc-media-players-inability-to-play-dvds-on-windows-11-systems/"><u>Efficient Tips for Resolving VLC Media Player's Inability to Play DVDs on Windows 11 Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-audio-driver-update-for-your-hp-devices-free-and-fast-download-options/"><u>Effortless Audio Driver Update for Your HP Devices - Free and Fast Download Options!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/flapping-flamenco-finch-for-2024/"><u>Flapping Flamenco Finch for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/legal-and-ethical-methods-boosting-your-tiktok-profile-for-2024/"><u>Legal and Ethical Methods Boosting Your TikTok Profile for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mobile-phone-networks-demystified-an-insight-into-service-providers/"><u>Mobile Phone Networks Demystified: An Insight Into Service Providers</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-must-read-learn-from-deepfake-scandals-and-protect-your-stream/"><u>New In 2024, Must-Read Learn From Deepfake Scandals & Protect Your Stream</u></a></li>
+<li><a href="https://win11.techidaily.com/peering-into-the-future-of-windows-with-ai-integration/"><u>Peering Into the Future of Windows with AI Integration</u></a></li>
 </ul></div>
 

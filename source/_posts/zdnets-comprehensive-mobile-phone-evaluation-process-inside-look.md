@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Comprehensive Mobile Phone Evaluation Process: Inside Look"
-date: 2024-09-30T16:10:09.396Z
-updated: 2024-10-04T16:08:43.779Z
+date: 2024-10-07T22:43:48.628Z
+updated: 2024-10-09T21:14:52.897Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -76,13 +69,6 @@ When you open the kickstand, you'll find a small door in the bottom left corner 
 You don't have to use a physical SIM card thanks to the Pro 8's support for an eSIM, but since I often switch between the Pro X and iPad Pro, I already had a dedicated SIM card with a data-only plan tied to it. 
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -134,10 +120,10 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -149,13 +135,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -169,6 +148,13 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -181,7 +167,21 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -220,20 +220,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-cognitive-conclave-selective-general-knowledge-channels/"><u>[New] Cognitive Conclave Selective General Knowledge Channels</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/eciphering-youtubes-cc-policy-for-video-makers/"><u>[New] Deciphering YouTube's CC Policy for Video Makers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-your-overwatch-saga-effortlessly/"><u>[Updated] Capture Your Overwatch Saga Effortlessly</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-guide-to-the-8-truly-effective-youtube-marketing-methods/"><u>[Updated] In 2024, A Guide to the 8 Truly Effective Youtube Marketing Methods</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-instantaneous-darkness-creation-for-2024/"><u>[Updated] Instantaneous Darkness Creation for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-untold-elements-of-instagram-story-engagement-for-2024/"><u>[Updated] The Untold Elements of Instagram Story Engagement for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/natis-gig-economy-ajays-youtube-wealth-stream/"><u>Carminati's Gig Economy AJay's YouTube Wealth Stream</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-hugging-face-functions-and-implementations-explained/"><u>Decoding Hugging Face: Functions and Implementations Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-installation-modernize-your-system-with-the-latest-acer-bluetooth-driver-software/"><u>Effortless Installation: Modernize Your System with the Latest Acer Bluetooth Driver Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-leading-edge-top-5-advances-in-artifice-intelligence-hardware/"><u>Exploring the Leading Edge: Top 5 Advances in Artifice Intelligence Hardware</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-ai-with-hugging-face-understanding-its-purpose-and-applications/"><u>Exploring the World of AI with Hugging Face: Understanding Its Purpose & Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fine-tuning-ai-assistance-in-fitness-regimes-smart-chatgpt-prompt-crafting-methods/"><u>Fine-Tuning AI Assistance in Fitness Regimes: Smart ChatGPT Prompt Crafting Methods</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-amazing-way-to-unlock-your-mac-with-apple-watch/"><u>In 2024, Amazing Way to Unlock Your Mac with Apple Watch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionize-your-windows-11-routine/"><u>Revolutionize Your Windows 11 Routine</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-routine-in-9-ways-thanks-to-chatgpt-assistance/"><u>Transform Your Routine in 9 Ways Thanks to ChatGPT Assistance</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expert-insights-on-saving-smartphone-moments/"><u>[Updated] Expert Insights on Saving Smartphone Moments</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apples-newest-release-should-you-switch-from-your-iphone-13-pro-to-the-iphone-15-pro-insights-and-analysis/"><u>Apple's Newest Release: Should You Switch From Your iPhone 13 Pro to the iPhone 15 Pro? Insights and Analysis</u></a></li>
+<li><a href="https://solve-help.techidaily.com/best-methods-for-reducing-the-size-of-your-mkv-files-without-cost/"><u>Best Methods for Reducing the Size of Your MKV Files Without Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-sideload-non-apple-approved-apps-safely-on-iphone-xs-without-jailbreak-expert-analysis-by-zdnet/"><u>Can You Sideload Non-Apple Approved Apps Safely on iPhone XS without Jailbreak? - Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/celebrate-with-bargains-score-apples-top-deal-on-airpods-save-40-now-according-to-zdnet/"><u>Celebrate with Bargains! Score Apple's Top Deal on AirPods - Save $40 Now, According to ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-latest-epson-xp-440-driver-download-and-update-tutorials-for-seamless-printing/"><u>Effortless Installation: Latest Epson XP-440 Driver Download & Update Tutorials for Seamless Printing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-strategies-for-enhancing-complexity-on-your-apple-watch-tips-from-zdnet/"><u>Effortless Strategies for Enhancing Complexity on Your Apple Watch - Tips From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hdrs-edge-pushing-video-production-to-new-heights-for-2024/"><u>HDR's Edge Pushing Video Production to New Heights for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-lava-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Lava</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nubia-red-magic-8s-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nubia Red Magic 8S Pro?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oneplus-11-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent OnePlus 11 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pixel-vs-apple-the-ultimate-showdown-between-the-google-pixel-watch-and-apple-watch-series-9-determining-the-best-investment-for-tech-enthusiasts/"><u>Pixel Vs. Apple: The Ultimate Showdown Between the Google Pixel Watch and Apple Watch Series 9 - Determining the Best Investment for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-iphone-16-innovations-you-need-on-the-latest-apple-standard-release-insights-from-zdnet/"><u>Top 4 iPhone 16 Innovations You Need on the Latest Apple Standard Release: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-picks-the-ultimate-list-of-2024s-leading-mac-models-featured/"><u>Top Picks: The Ultimate List of 2024'S Leading Mac Models - Featured</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unbeatable-may-2024-promotions-on-atandt-mobile-plans-top-picks/"><u>Unbeatable May 2024 Promotions on AT&T Mobile Plans Top Picks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unleash-creativity-in-instagram-with-looping-tricks-for-2024/"><u>Unleash Creativity in Instagram with Looping Tricks for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-secrets-to-pristine-bg-removal-techniques-in-figma/"><u>Unveiling Secrets to Pristine BG Removal Techniques in Figma</u></a></li>
 </ul></div>
 

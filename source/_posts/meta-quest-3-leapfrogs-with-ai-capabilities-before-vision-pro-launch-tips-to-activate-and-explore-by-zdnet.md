@@ -1,7 +1,7 @@
 ---
 title: Meta Quest 3 Leapfrogs with AI Capabilities Before Vision Pro Launch - Tips to Activate and Explore by ZDNet
-date: 2024-10-02T16:28:19.265Z
-updated: 2024-10-04T16:00:20.205Z
+date: 2024-10-08T23:47:26.248Z
+updated: 2024-10-09T21:24:46.126Z
 tags:
   - apple
 categories:
@@ -81,10 +81,10 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,24 +121,16 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-earnings-on-youtube-shorts-essentials-and-prospective-income/"><u>[New] Maximizing Earnings on YouTube Shorts Essentials & Prospective Income</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-seamless-integration-of-switch-pro-into-steam-games/"><u>[Updated] 2024 Approved Seamless Integration of Switch Pro Into Steam Games</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-valheim-seeds-selection-and-cultivation-mastery-guide-for-2024/"><u>[Updated] Valheim Seeds Selection & Cultivation Mastery Guide for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-synopsis-of-vllo-consumer-voices/"><u>2024 Approved Synopsis of VLLO Consumer Voices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-zoom-into-clarity-a-comprehensive-checklist-for-youtube-broadcasts/"><u>2024 Approved Zoom Into Clarity A Comprehensive Checklist for YouTube Broadcasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparative-insights-how-is-natural-language-processing-different-from-machine-learning/"><u>Comparative Insights: How Is Natural Language Processing Different From Machine Learning?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/erasing-your-presence-on-chatgpt-a-comprehensive-tutorial/"><u>Erasing Your Presence on ChatGPT – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-googles-revolutionary-palm-2-transform-natural-language-processing/"><u>How Does Google's Revolutionary PaLM 2 Transform Natural Language Processing?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-13-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 13?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-craft-perfect-presentations-with-these-7-best-ai-apps/"><u>How to Craft Perfect Presentations with These 7 Best AI Apps</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-15-plus-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone 15 Plus</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-lava-yuva-3-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Lava Yuva 3 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-your-craft-with-8-top-ai-writing-tools/"><u>Master Your Craft with 8 Top AI Writing Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/narrative-nuance-and-conflict-creation-with-gpts-9-strategies/"><u>Narrative Nuance and Conflict Creation with GPT's 9 Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/police-strike-down-vpns-upholding-cyber-law/"><u>Police Strike Down VPNs, Upholding Cyber Law</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-document-creation-process-with-chatgpt-and-microsoft-word-collaboration/"><u>Revolutionize Your Document Creation Process with ChatGPT and Microsoft Word Collaboration</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece/"><u>The Secret Sauce for a Viral TikTok Unboxer Masterpiece</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-ntfs-error-on-your-windows-11-pc/"><u>Troubleshooting and Repairing NTFS Error on Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-ai-reigns-supreme-comparing-chatgpt-and-google-bard/"><u>Which AI Reigns Supreme? Comparing ChatGPT and Google Bard</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-efficient-workflow-with-firefoxs-picture-in-picture-for-2024/"><u>[New] Efficient Workflow with Firefox’s Picture-in-Picture for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-real-time-voice-to-action-no-price-tag-for-2024/"><u>[New] Real-Time Voice to Action, No Price Tag for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-screen-recording-with-nvidia-for-2024/"><u>[New] Streamlining Screen Recording with NVIDIA for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unlock-the-potential-of-dslr-with-facebook-live-compatible-pcsmacs/"><u>[Updated] 2024 Approved Unlock the Potential of DSLR with Facebook LIVE, Compatible PCs/Macs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-eco-savvy-movie-capture-tools-usage-methods/"><u>Best Eco-Savvy Movie Capture Tools Usage Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprimere-mp4-comment-minimiser-lespace-tout-en-conservant-une-excellente-qualite-visuelle/"><u>Comprimere MP4 : Comment Minimiser L'espace Tout en Conservant Une Excellente Qualité Visuelle</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-vivo-v27e-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Vivo V27e.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/end-of-an-era-apples-finewoven-range-phased-out-for-exclusive-beats-case-offerings-tech-news-on-zdnet/"><u>End of an Era: Apple's FineWoven Range Phased Out for Exclusive Beats Case Offerings | Tech News on ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-homes-with-ai-exploring-apples-next-gen-robotic-companions/"><u>Revolutionizing Homes with AI: Exploring Apple's Next-Gen Robotic Companions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-smart-choice-avoid-investing-in-the-iphone-16-if-you-value-cutting-edge-apple-tech-insights-from-zdnet/"><u>The Smart Choice: Avoid Investing in the iPhone 16 if You Value Cutting-Edge Apple Tech - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/three-essential-steps-apple-needs-to-take-for-successful-vision-pro-launch-insights-from-zdnet/"><u>Three Essential Steps Apple Needs to Take for Successful Vision Pro Launch: Insights From ZDNet</u></a></li>
 </ul></div>
 

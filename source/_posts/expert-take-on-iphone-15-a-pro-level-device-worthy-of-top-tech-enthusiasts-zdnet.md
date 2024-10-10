@@ -1,7 +1,7 @@
 ---
 title: "Expert Take on iPhone 15: A Pro-Level Device Worthy of Top Tech Enthusiasts | ZDNet"
-date: 2024-09-30T16:31:50.753Z
-updated: 2024-10-04T16:18:51.126Z
+date: 2024-10-05T18:01:48.501Z
+updated: 2024-10-09T18:13:56.329Z
 tags:
   - apple
 categories:
@@ -45,13 +45,6 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | iPhone 15    | iPhone 15 Plus                                    |                                                   |
@@ -72,6 +65,19 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -128,16 +134,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -155,10 +155,10 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -174,10 +174,10 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -218,24 +218,19 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-audio-animation-for-dynamic-snapchat-films/"><u>[New] Audio Animation for Dynamic Snapchat Films</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-creator-studio-unleashing-the-power-of-your-channel/"><u>[New] YouTube Creator Studio Unleashing the Power of Your Channel</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-freely-accessible-cutting-edge-video-editor-tools/"><u>2024 Approved Freely Accessible Cutting Edge Video Editor Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/custom-gpt-boosts-elevating-chatgpts-interaction-quality/"><u>Custom GPT Boosts: Elevating ChatGPT's Interaction Quality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/defending-your-website-from-automated-scrapers-methods-to-block-ai-bots/"><u>Defending Your Website From Automated Scrapers: Methods to Block AI Bots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/directing-your-viewing-path-with-ai-helpers/"><u>Directing Your Viewing Path with AI Helpers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/dive-into-the-world-of-youtube-on-facebook-video-content-for-2024/"><u>Dive Into the World of YouTube on Facebook Video Content for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diving-deeper-distinguishing-the-unique-capabilities-of-siri-from-chatgpt/"><u>Diving Deeper: Distinguishing the Unique Capabilities of Siri From ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/does-chatgpt-refine-its-responses-by-engaging-in-talks-with-users/"><u>Does ChatGPT Refine Its Responses by Engaging in Talks with Users?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-mechanics-of-generative-ai-in-search-top-companies-leveraging-this-technology/"><u>Exploring the Mechanics of Generative AI in Search: Top Companies Leveraging This Technology</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-not-receiving-texts-from-android-heres-how-to-fix-it/"><u>IPhone Not Receiving Texts From Android? Here’s How to Fix It</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/los-reproductores-de-video-mas-populares-y-efectivos-para-su-pc-top-12/"><u>Los Reproductores De Video Más Populares Y Efectivos Para Su PC: Top 12</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maintaining-confidentiality-with-adaptive-chatgpts/"><u>Maintaining Confidentiality with Adaptive ChatGPTs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-output-the-synergy-of-onlyoffice-docspace-and-chatgpt-in-boosting-work-performance/"><u>Maximize Output: The Synergy of ONLYOFFICE DocSpace and ChatGPT in Boosting Work Performance</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-slow-mo-or-hyper-speed-top-gif-speed-editors-compared/"><u>New Slow Mo or Hyper-Speed Top GIF Speed Editors Compared</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/openai-reveals-tool-against-unauthorized-gpt-outputs/"><u>OpenAI Reveals Tool Against Unauthorized GPT Outputs</u></a></li>
-<li><a href="https://facebook.techidaily.com/protect-yourself-from-these-14-notorious-facebook-swindles/"><u>Protect Yourself From These 14 Notorious Facebook Swindles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-found-overcome-the-challenge-of-forcing-a-shutdown-in-windows-11-systems/"><u>Solution Found! Overcome the Challenge of Forcing a Shutdown in Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-comparisons/"><u>Tom's Tech Insights: In-Depth Reviews and Comparisons</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-reflection-photography-tips-for-iphone-for-2024/"><u>[Updated] Reflection Photography Tips for iPhone for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/all-purpose-camera-champion-fz80s-tale/"><u>All-Purpose Camera Champion - FZ80's Tale</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/embrace-wellness-on-the-go-discover-how-the-fitbit-versa-3s-integrated-gps-and-array-of-health-apps-can-provide-continuous-motivation-for-your-active-lifest113/"><u>Embrace Wellness On-the-Go: Discover How the Fitbit Versa 3'S Integrated GPS and Array of Health Apps Can Provide Continuous Motivation for Your Active Lifestyle</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s18-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S18 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovate-your-images-the-step-by-step-process-with-chatgpts-ai-capabilities/"><u>Innovate Your Images: The Step-by-Step Process with ChatGPT's AI Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-chatgpt-with-siri-a-step-by-step-guide-for-iphone-users/"><u>Integrating ChatGPT with Siri: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/international-choice-spotlight-apples-app/"><u>International Choice Spotlight: Apple's App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-chatgpt-a-source-of-unwavering-honesty/"><u>Is ChatGPT a Source of Unwavering Honesty?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/launching-into-personalization-how-to-navigate-and-utilize-openais-new-gpt-store/"><u>Launching Into Personalization: How to Navigate and Utilize OpenAI's New GPT Store</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-4-techniques-for-reading-pdfs/"><u>Mastering ChatGPT: 4 Techniques for Reading PDFs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-gpt-3-conversations-5-critical-chat-prompt-faux-pas-to-sidestep/"><u>Mastering GPT-3 Conversations: 5 Critical Chat Prompt Faux Pas to Sidestep</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-web-based-vertical-video-editors-for-social-media/"><u>New Top-Rated Web-Based Vertical Video Editors for Social Media</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ais-black-box-insight-into-its-functionality/"><u>Understanding AI's Black Box: Insight Into Its Functionality</u></a></li>
 </ul></div>
 

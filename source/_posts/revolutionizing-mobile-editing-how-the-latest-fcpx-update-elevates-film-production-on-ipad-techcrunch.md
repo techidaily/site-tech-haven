@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Mobile Editing: How the Latest FCPx Update Elevates Film Production on iPad | TechCrunch"
-date: 2024-10-03T16:23:24.222Z
-updated: 2024-10-04T16:41:04.646Z
+date: 2024-10-02T23:37:06.337Z
+updated: 2024-10-09T16:38:15.508Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pause your rings
@@ -59,13 +59,6 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 
 Apple
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
 The Smart Stack, introduced in WatchOS 10, is improving slightly with some new widgets.
@@ -76,18 +69,18 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 
 Apple
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. The Photos face, powered by machine learning
 
 The Photos face is one of the most popular faces on the Apple Watch, given its high level of customization. And it's getting a facelift (pun intended) with WatchOS 11.
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double Tap now works with any app
 
@@ -102,10 +95,10 @@ Jason Hiner/ZDNET
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
@@ -117,6 +110,19 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
 
@@ -160,20 +166,16 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-premium-tools-for-6-undetectable-viewings-for-2024/"><u>[New] Premium Tools for 6 Undetectable Viewings for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-browser-screen-capturing-software-for-2024/"><u>[New] The Ultimate Guide to Browser Screen Capturing Software for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-vivo-v29e-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo V29e Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-packaging-as-a-marketing-tool/"><u>In 2024, Packaging as a Marketing Tool</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/play-fallout-3-seamlessly-on-windows-11-tips-and-tricks-inside/"><u>Play Fallout 3 Seamlessly on Windows 11 – Tips & Tricks Inside</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-guide-altering-your-skype-security-key-seamlessly/"><u>Quick Guide: Altering Your Skype Security Key Seamlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-guide-how-to-save-your-devices-driver-files-prior-to-reinstalling-any-version-of-windows/"><u>Quick Guide: How to Save Your Device's Driver Files Prior to Reinstalling Any Version of Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-tips-mastering-the-art-of-screenshots-on-asus-laptops-and-notebooks/"><u>Quick Tips: Mastering the Art of Screenshots on ASUS Laptops and Notebooks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-tutorial-navigating-to-the-control-panel-on-your-windows-11-computer/"><u>Quick Tutorial: Navigating to the Control Panel on Your Windows 11 Computer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolution-troubleshooting-back-4-blood-issues-on-windows-11-10-and-7/"><u>Resolution: Troubleshooting Back 4 Blood Issues on Windows 11, 10 & 7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-method-for-opening-advanced-startup-options-on-your-windows-11-system/"><u>Seamless Method for Opening Advanced Startup Options on Your Windows 11 System</u></a></li>
-<li><a href="https://app-tips.techidaily.com/securing-your-iphone-a-comprehensive-guide-to-enabling-touch-id-and-passcode-protection/"><u>Securing Your iPhone: A Comprehensive Guide to Enabling Touch ID and Passcode Protection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simple-steps-for-setting-up-wifi-on-your-desktoplaptop/"><u>Simple Steps for Setting Up WiFi on Your Desktop/Laptop</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-c51-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco C51 Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-2023-timeline-turning-srt-into-txt-swiftly/"><u>Ultimate 2023 Timeline Turning SRT Into TXT Swiftly</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-from-hobbies-to-hearts-youtubes-path-to-fame/"><u>[New] In 2024, From Hobbies to Hearts YouTube's Path to Fame</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-art-of-valorant-thumbnail-creation-on-youtube/"><u>[New] Unveiling the Art of Valorant Thumbnail Creation on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-depth-review-of-razers-high-res-cam/"><u>[Updated] In-Depth Review of Razer's High-Res Cam</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/dvd-r1/"><u>「DVD-R1の正しいプレイヤ設定とダウンロード方法：徹底ガイド」</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-navigating-days-to-launch-podcasts/"><u>2024 Approved Navigating Days to Launch Podcasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-guide-to-visualizing-audio-brilliance/"><u>2024 Approved The Ultimate Guide to Visualizing Audio Brilliance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-impact-of-chatgpt-on-advancements-and-innovations-in-healthcare/"><u>Exploring the Impact of ChatGPT on Advancements and Innovations in Healthcare</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/facing-difficulties-in-turning-books-into-ebooks-discover-how-to-overcome-common-ebook-conversion-challenges/"><u>Facing Difficulties in Turning Books Into eBooks? Discover How to Overcome Common EBook Conversion Challenges!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/freelancers-guide-to-boosting-efficiency-with-chatgpt-discover-6-essential-tips/"><u>Freelancers' Guide to Boosting Efficiency with ChatGPT - Discover 6 Essential Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-speech-to-ai-the-android-way-with-chatgpt/"><u>From Speech to AI: The Android Way with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fusing-tech-and-tunes-leveraging-ai-for-sound-creation/"><u>Fusing Tech and Tunes: Leveraging AI for Sound Creation</u></a></li>
 </ul></div>
 

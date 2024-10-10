@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Converting and Adding MKV Videos Into Your iMovie Projects"
-date: 2024-09-08 18:23:25
-updated: 2024-09-11 10:41:40
+date: 2024-10-03T16:12:00.160Z
+updated: 2024-10-09T22:45:27.355Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/00ca8ff6fce624dea66e7545a63f888233e8bb4b7d797baaa5f46d28ff2d3756.jpg
@@ -25,6 +25,13 @@ Get the recommended free video editor for Windows 10 to have a try now!
 
 [FAQs about Windows 10 Built-in Video Editor](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Edit Videos with Windows 10 Built-in Video Editor
 
 Windows 10 has a hidden video editor that is built into the Microsoft Photos app. With it, you can:
@@ -43,6 +50,13 @@ Let's see how to use Microsoft Photos to edit videos on Windows 10.
 Click the "Start" button and scroll down to find and open the "**Video Editor**". Click "**New video project**" > name the video > press the "**\+ Add**" button to select a video to import. Drag the video from the "**Project library**" to the editing workplace.
 
 ![Open Video Editor](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-12.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2\. Edit the Video as You Wish
 
@@ -64,11 +78,25 @@ Once finished editing, you can click "**Finish video**", choose a video quality,
 
 However, the Microsoft Photos app only supports a few video formats and often crashes when processing large videos. So I'm here to introduce a third-party free video editing tool for Windows 10 and 11\. It is powerful and user-friendly and allows you to easily edit videos with simple clicks. The next part will show you how to edit videos on Windows 10 for free. Just read on!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Free Video Editor for Windows
 
 WonderFox Free HD Video Converter Factory is the best free video editor for Windows 10/11\. It can meet almost all your video editing requirements and enables you to edit videos in a handy and effortless way. Just download it now!
 
 [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Free Video Editor fot Windows 10/11
 
@@ -98,6 +126,13 @@ To [merge videos into one file](https://tools.techidaily.com/videoconverterfacto
 
 ![How to Edit Videos on Laptop Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-2.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Also See:** [Free Video Merger without Watermark](https://tools.techidaily.com/videoconverterfactory/video-watermark/) | [Join Videos without Re-encoding](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 _**#2\. Trim the Video**_
@@ -120,6 +155,13 @@ Enter the **Crop** window by clicking the fourth icon on the toolbar. It offers 
 
 ![Best Free Video Editor for Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-5.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _**#5\. Add Effects/Filter to Video**_
 
 Hit on the **Magic Wand** icon to open the **Effect** window and [add effects to the video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/). There are 18 predefined filters available for you to choose from. Meanwhile, you can also adjust the **Brightness**, **Contrast**, **Saturation**, and **Hue** of the added effect. Then hit **OK** to return to the main interface.
@@ -131,6 +173,13 @@ _**#6\. Add Watermark to Video**_
 Click the **Stamper** icon to bring up the **Watermark** window. Here you can type in the text to [add text watermark](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) and adjust the text font, size, etc. You can also [add the image watermark](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) from the preset image or your local drive and adjust the shadow, opacity, and location of the added watermark. Then press **OK** to go back.
 
 ![How to Edit Videos on Laptop Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-7.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _**#7\. Edit the Video Metadata**_
 
@@ -157,6 +206,13 @@ Tips: Open the **Parameter settings** window, and you'll be able to modify the v
 When everything is OK, specify a destination folder to save the output video by pressing the **inverted triangle** button on the bottom. Finally, hit the **Run** button to start exporting the video.
 
 ![How to Edit a Video on Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-11.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Multi-functional Free Video Editor
 
@@ -210,11 +266,33 @@ _\* Please do not use the DVD ripper to rip any copy-protected DVDs for commerci
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-roadmap-for-distance-podcasting/"><u>[Updated] In 2024, The Ultimate Roadmap for Distance Podcasting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/activate-or-deactivate-secure-user-authentication-on-your-windows-10-system/"><u>Activate or Deactivate Secure User Authentication on Your Windows 10 System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-command-line-efficiency-with-these-powerful-linux-utilities/"><u>Boost Your Command-Line Efficiency with These Powerful Linux Utilities</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-and-secure-methods-for-full-iphone-system-reset-while-preserving-all-personal-information/"><u>Easy and Secure Methods for Full iPhone System Reset While Preserving All Personal Information</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-methods-for-configuring-a-linux-swap-partition/"><u>Easy Methods for Configuring a Linux Swap Partition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-techniques-for-terminating-stuck-applications-in-windows-11-environment/"><u>Effective Techniques for Terminating Stuck Applications in Windows 11 Environment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-performance-and-sustainability-discover-the-asus-expertbook-p5s-cutting-edge-power-efficiency-and-expandable-ram-capacity-up-to-ebyte/"><u>Elevate Performance and Sustainability: Discover the ASUS ExpertBook P5's Cutting-Edge Power Efficiency & Expandable RAM Capacity up to Ebyte!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-revamped-gridded-interface-of-the-windows-11-start-menu/"><u>Exploring the Revamped Gridded Interface of the Windows 11 Start Menu</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fix-unwanted-character-inputs-while-typing-on-windows-11-proven-solutions/"><u>Fix Unwanted Character Inputs While Typing on Windows 11: Proven Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-asus-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Asus FRP Locks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-your-hands-on-the-freshly-released-linux-mint-22-os/"><u>Get Your Hands on the Freshly Released Linux Mint 22 OS!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-to-terminate-frozen-programs-on-macos-with-ease/"><u>Guide to Terminate Frozen Programs on macOS with Ease</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-efficiently-using-skypes-screen-share-feature-in-telecommuting/"><u>In 2024, Efficiently Using Skype's Screen-Share Feature in Telecommuting</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/joint-venture-campaigns-for-brands-on-video-platforms/"><u>Joint Venture Campaigns for Brands on Video Platforms</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/movavi-screencapture-pro-detailed-review-analysis-for-2024/"><u>Movavi ScreenCapture Pro Detailed Review Analysis for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-troubleshooting-guide-how-to-get-sound-working-on-your-pc-again/"><u>Quick Troubleshooting Guide: How to Get Sound Working on Your PC Again</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/visualeye-assessment-tool-for-2024/"><u>VisualEye Assessment Tool for 2024</u></a></li>
+</ul></div>
+

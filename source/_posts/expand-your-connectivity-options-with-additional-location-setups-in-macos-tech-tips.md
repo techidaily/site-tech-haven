@@ -1,7 +1,7 @@
 ---
 title: Expand Your Connectivity Options with Additional Location Setups in macOS | Tech Tips
-date: 2024-10-02T16:40:29.571Z
-updated: 2024-10-04T16:32:53.761Z
+date: 2024-10-02T18:52:14.868Z
+updated: 2024-10-10T00:28:28.539Z
 tags:
   - apple
 categories:
@@ -37,26 +37,13 @@ Let me show you how it works.
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create different network locations in MacOS
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Requirements
 
@@ -67,10 +54,10 @@ The only thing you'll need is a device running an updated version of MacOS. This
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Open Network
@@ -78,10 +65,10 @@ Click the Apple menu at the top right of your display and select System Preferen
 From within System Preferences, click the Network icon to open the Network section.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Create a new network location
@@ -101,6 +88,13 @@ Configuring a network for the new location in MacOS.
 Image: Jack Wallen
 
 Once you've configured the location exactly how you need it, click Apply to save everything.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Switching to a different Network Location
 
@@ -145,17 +139,22 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-swift-skills-sharpen-your-windows-images/"><u>[New] Swift Skills Sharpen Your Windows Images</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-enhance-workflow-the-essential-list-of-8-scheduling-apps/"><u>[Updated] Enhance Workflow The Essential List of 8 Scheduling Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-starting-strategies-for-an-engaging-fb-giveaway/"><u>2024 Approved Starting Strategies for an Engaging FB Giveaway</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/destiny-2-troubleshooting-guide-dealing-with-centipede-glitches/"><u>Destiny 2 Troubleshooting Guide: Dealing with Centipede Glitches</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808139207-download-torrents-with-vpn-to-stay-safe-the-fastest-vpn-around-the-world/"><u>Download Torrents with VPN to Stay Safe – The Fastest VPN Around the World</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808045850-error-code-80240020-comprehensive-troubleshooting-steps-for-windows-10-installation-issues-resolved/"><u>Error Code 80240020: Comprehensive Troubleshooting Steps for Windows 10 Installation Issues Resolved!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-forward-to-reverse-mastering-video-reversal-in-final-cut-pro-for-2024/"><u>From Forward to Reverse Mastering Video Reversal in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harnessing-high-quality-photos-from-androids-for-2024/"><u>Harnessing High-Quality Photos From Androids for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-nature-of-the-cosmos-select-sky-photography-websites/"><u>In 2024, Nature of the Cosmos Select Sky Photography Websites</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723807894438-skype-cant-connect-5-ways-to-fix-on-windows-10-easily/"><u>Skype Can’t Connect: 5 Ways to Fix on Windows 10 Easily!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808009791-windows-10-download-fast-and-easily/"><u>Windows 10 Download Fast & Easily</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-guide-to-4k-capturing-applications/"><u>[New] 2024 Approved Ultimate Guide to 4K Capturing Applications</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-luminous-leverage-5-key-videography-aids/"><u>[New] In 2024, Luminous Leverage 5 Key Videography Aids</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-expertise-in-film-perfecting-the-art-of-chroma-key-for-2024/"><u>[Updated] Expertise in Film Perfecting the Art of Chroma Key for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-cordless-journey-through-music-at-lp60xbt-unveiled/"><u>A Cordless Journey Through Music: AT-LP60XBT Unveiled</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-13-mini-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 13 mini to Computer? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inside-the-world-of-funimate-gamers-for-2024/"><u>Inside the World of Funimate Gamers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/invisible-volume-tapering-a-guide-for-audacity-enthusiasts-for-2024/"><u>Invisible Volume Tapering A Guide for Audacity Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/no-payment-necessary-download-farewell-soundtracks/"><u>No Payment Necessary Download Farewell Soundtracks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-words-into-art-utilizing-chatgpt-for-your-poetic-journey/"><u>Transform Words Into Art: Utilizing ChatGPT for Your Poetic Journey</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-chatgpt-error-in-body-stream-a-guide-to-7-solutions-you-can-apply/"><u>Troubleshooting ChatGPT Error in Body Stream: A Guide to 7 Solutions You Can Apply</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-gpt4alls-functionality-for-advanced-applications/"><u>Understanding GPT4All's Functionality for Advanced Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-limitations-5-reasons-to-avoid-medical-guidance-from-chatgpt/"><u>Understanding the Limitations: 5 Reasons to Avoid Medical Guidance From ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-rationale-behind-cyberattacks-on-chatgpt-profiles/"><u>Understanding the Rationale Behind Cyberattacks on ChatGPT Profiles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-the-power-of-chatgpt-discover-these-5-prime-methods/"><u>Unleashing the Power of ChatGPT: Discover These 5 Prime Methods</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722604716909-unveiling-the-greatness-of-yakuza-like-a-dragon-your-next-essential-jrgp-reviewed/"><u>Unveiling the Greatness of 'Yakuza: Like A Dragon' - Your Next Essential JRGP Reviewed!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-sets-auto-gpt-apart-from-chatgpt-exploring-the-distinctions/"><u>What Sets Auto-GPT Apart From ChatGPT? Exploring the Distinctions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-trusting-chatbots-isnt-a-strategy-for-secure-key-creation/"><u>Why Trusting Chatbots Isn't a Strategy for Secure Key Creation</u></a></li>
 </ul></div>
 

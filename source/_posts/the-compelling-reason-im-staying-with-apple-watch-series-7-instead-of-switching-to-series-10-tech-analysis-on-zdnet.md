@@ -1,7 +1,7 @@
 ---
 title: The Compelling Reason I'm Staying with Apple Watch Series 7 Instead of Switching to Series 10 | Tech Analysis on ZDNET
-date: 2024-10-02T16:14:34.578Z
-updated: 2024-10-04T16:43:19.489Z
+date: 2024-10-03T19:35:50.812Z
+updated: 2024-10-09T16:30:33.481Z
 tags:
   - apple
 categories:
@@ -65,13 +65,6 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 \*Original MSRP
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 ---
@@ -81,16 +74,10 @@ Kerry Wan/ZDNET
 ## You should buy the Apple Watch Series 10 if...
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. You want a thinner design or larger watch sizes
@@ -127,9 +114,23 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. You want an affordable option
 
@@ -140,10 +141,10 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdb8b7dbc-bcc1-47cf-8fc0-13b0b2496459%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You're looking for blood oxygen sensors
@@ -151,13 +152,6 @@ While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/)
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -193,21 +187,22 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-budget-friendly-streaming-tools-for-smooth-video-viewing-on-pc-and-mobile/"><u>[New] Best Budget-Friendly Streaming Tools for Smooth Video Viewing on PC and Mobile</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-webcams-for-peak-twitch-performance/"><u>[New] In 2024, Essential Webcams for Peak Twitch Performance</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-mastering-xbox-live-top-four-recording-techniques-for-2024/"><u>[New] Mastering Xbox Live Top Four Recording Techniques for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-pocket-guide-retaining-twitter-media-on-your-cellphone/"><u>[Updated] 2024 Approved Pocket Guide Retaining Twitter Media on Your Cellphone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-superior-visual-treatment-applying-filters-to-videos/"><u>[Updated] Superior Visual Treatment Applying Filters to Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoiding-pitfalls-smart-ways-for-students-to-leverage-chatgpt-ethically-and-effectively/"><u>Avoiding Pitfalls: Smart Ways for Students to Leverage ChatGPT Ethically and Effectively</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/framework-of-flawed-intelligence-policy/"><u>Framework of Flawed Intelligence: Policy</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-asus-rog-phone-8-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Asus ROG Phone 8 Pro Devices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ful-montage-mastering-7-comical-video-vignettes-for-2024/"><u>Mirthful Montage Mastering 7 Comical Video Vignettes for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-phase-in-machine-learning-the-advent-of-gpt-5/"><u>Next Phase in Machine Learning: The Advent of GPT-5?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-yourself-deceptive-chrome-extensions-posing-as-chatgpt-threaten-facebook-security/"><u>Protect Yourself: Deceptive Chrome Extensions Posing as ChatGPT Threaten Facebook Security</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revamp-your-iphones-dictation-5-key-fixes-for-improved-speech-recognition/"><u>Revamp Your iPhone's Dictation: 5 Key Fixes for Improved Speech Recognition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-the-potential-of-snapchats-my-ai-six-reasons-it-goes-beyond-just-being-a-fun-toy/"><u>Unlock the Potential of Snapchat's My AI: Six Reasons It Goes Beyond Just Being a Fun Toy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/user-expectations-for-the-next-generation-of-chatgpt-add-ons-and-marketplace-improvements/"><u>User Expectations for the Next Generation of ChatGPT Add-Ons & Marketplace Improvements</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-has-the-era-of-effective-chatgpt-jailbreaks-come-to-an-end-exploring-7-reasons/"><u>Why Has the Era of Effective ChatGPT Jailbreaks Come to an End? Exploring 7 Reasons</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-connect-tv-audiences-with-creative-fb-livestream-strategies-for-2024/"><u>[New] Connect TV Audiences with Creative FB Livestream Strategies for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-hidden-whatsapp-gems-top-tricks-to-enhance-your-messaging-experience/"><u>[Updated] 2024 Approved Hidden WhatsApp Gems Top Tricks to Enhance Your Messaging Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-hdr-camera-connoisseurs-handbook/"><u>[Updated] The HDR Camera Connoisseur's Handbook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-how-to-liberate-your-music-two-cost-free-techniques-for-bypassing-drm-on-m4p-files/"><u>1. How to Liberate Your Music: Two Cost-Free Techniques for Bypassing DRM on M4P Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-professional-ipod-video-transcoder-effortless-conversion-of-videos-for-all-ipod-models-including-ipod-touch-and-ipod-nano-series/"><u>1. Professional IPod Video Transcoder: Effortless Conversion of Videos for All iPod Models Including iPod Touch and iPod Nano Series</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-surpassing-a-million-youtube-subscribers/"><u>2024 Approved The Ultimate Guide to Surpassing a Million YouTube Subscribers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726026692619-ipad/"><u>IPadに最適化された動画再生テクニックと再生ソフトウェア</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-visual-harmony-with-windows-desktop-wallpapers/"><u>Perfecting Visual Harmony with Windows Desktop Wallpapers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/premier-livestream-capture-software-for-video-bards-for-2024/"><u>Premier Livestream Capture Software For Video Bards for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719310221725-tame-frozen-windows-handbraked-beast/"><u>Tame Frozen Windows-Handbraked Beast!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ins-and-outs-of-firefox-picture-in-picture-for-2024/"><u>The Ins and Outs of Firefox Picture-in-Picture for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-fix-it-guide-for-lost-location-alerts-in-pokemon-journey/"><u>The Ultimate Fix-It Guide for Lost Location Alerts in Pokémon Journey</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-recommended-wav-playback-software-options-for-windows-11-users/"><u>Top 6 Recommended WAV Playback Software Options for Windows 11 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-methods-for-converting-wav-files-to-wma-format-using-batch-processing-in-windows/"><u>Top Methods for Converting WAV Files to WMA Format Using Batch Processing in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-two-tricks-for-converting-oma-audio-to-free-mp3-without-hitches/"><u>Top Two Tricks for Converting OMA Audio to Free MP3 Without Hitches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-transform-your-videos-effortlessly-using-video-converter-factorys-no-cost-features/"><u>Ultimate Tutorial: Transform Your Videos Effortlessly Using Video Converter Factory's No-Cost Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027275679-vlc-media-player/"><u>VLC Media Playerと同等以上の機能を提供するベストな代替メディアプレイヤー４選択肢 - おすすめのソフトウェア。</u></a></li>
 </ul></div>
 

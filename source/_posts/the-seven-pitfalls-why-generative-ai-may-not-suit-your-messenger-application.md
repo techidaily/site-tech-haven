@@ -1,7 +1,7 @@
 ---
 title: "The Seven Pitfalls: Why Generative AI May Not Suit Your Messenger Application"
-date: 2024-09-09T16:14:58.780Z
-updated: 2024-09-12T21:31:07.302Z
+date: 2024-10-04T22:40:30.895Z
+updated: 2024-10-09T23:01:57.000Z
 tags:
   - chatgpt
   - open-ai
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 ## Exploring the Potential of Generative AI as a Modern Conduit for False Information Dissemination
 
  Artificial Intelligence (AI) now plays a role in various aspects of our lives. Specifically, generative AI tools such as ChatGPT and others have grown significantly. This means that there will be an abundance of AI-generated content in the future.However, generative AI also introduces the risk of AI-generated disinformation. Its features make it easier for opportunistic individuals to spread false information. So, let's explore how generative AI is being utilized for disinformation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
 
@@ -40,16 +33,16 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -62,25 +55,19 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -102,13 +89,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -116,13 +96,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -134,6 +107,13 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -154,5 +134,18 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-stories-ultimate-guide/"><u>[New] 2024 Approved Instagram Stories Ultimate Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-decoding-the-wealth-of-mr-beast-for-2024/"><u>[Updated] Decoding the Wealth of Mr. Beast for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/disney/"><u>「無料のため、簡単にDisney映画を配信場所と方法がわかる」</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagrams-latest-trends-in-video-loop-production/"><u>2024 Approved Instagram's Latest Trends in Video Loop Production</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ou-respect-intellectual-property-while-screenrecording-youtube-in-2024/"><u>Can You Respect Intellectual Property While ScreenRecording YouTube, In 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-how-to-enjoy-your-dvd-collection-on-an-lg-smart-tv-without-using-a-separate-dvd-player/"><u>Easy Guide: How to Enjoy Your DVD Collection on an LG Smart TV Without Using a Separate DVD Player</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-tricks-on-making-your-videos-ready-for-itunes-streaming-and-downloads/"><u>Easy Tricks on Making Your Videos Ready for iTunes Streaming & Downloads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-methods-for-improving-windows-video-clarity-and-resolution/"><u>Effortless Methods for Improving Windows Video Clarity and Resolution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-video-streaming-from-usb-devices-on-your-panasonic-television/"><u>Effortless Video Streaming From USB Devices on Your Panasonic Television</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/maximize-memories-overwatch-game-footage-for-2024/"><u>Maximize Memories Overwatch Game Footage for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-nokia-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Nokia Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
 

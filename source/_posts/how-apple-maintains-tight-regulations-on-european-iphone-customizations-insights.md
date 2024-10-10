@@ -1,7 +1,7 @@
 ---
 title: "How Apple Maintains Tight Regulations on European iPhone Customizations: Insights"
-date: 2024-09-28T16:00:49.535Z
-updated: 2024-10-04T16:04:44.594Z
+date: 2024-10-05T22:34:36.596Z
+updated: 2024-10-09T21:18:14.079Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,13 +65,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -89,10 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -102,6 +95,13 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -120,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,20 +166,17 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/expert-ideal-approaches-to-correct-iphone-hdr-overexposure-in-adobe-premiere-for-2024/"><u>[Expert] Ideal Approaches to Correct iPhone HDR Overexposure in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-audio-alchemy-selecting-melodies-that-enhance-boxings/"><u>[New] Audio Alchemy Selecting Melodies that Enhance Boxings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-exploring-9-zero-price-editors-for-youtube-content/"><u>[New] Exploring 9 Zero Price Editors for YouTube Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-critical-methods-to-record-lol-skirmishes/"><u>[Updated] Critical Methods to Record LOL Skirmishes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-the-lens-masterful-techniques-to-enhance-iphone-images/"><u>2024 Approved Harnessing the Lens Masterful Techniques to Enhance iPhone Images</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-quest-for-codec-perfection-is-av1-surpassing-vp9/"><u>2024 Approved The Quest for Codec Perfection Is AV1 Surpassing VP9?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-integration-of-ai-tools-using-agentgpt-on-any-browser-platform/"><u>Easy Integration of AI Tools Using AgentGPT on Any Browser Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-user-experience-by-leveraging-chatgpts-4-elements/"><u>Enhance User Experience by Leveraging ChatGPT's 4 Elements</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guiding-kids-through-ai-dialogues-safely-the-top-5-advice/"><u>Guiding Kids Through AI Dialogues Safely: The Top 5 Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/identifying-and-handling-chatgpt-phishing-sites-safely/"><u>Identifying and Handling ChatGPT Phishing Sites Safely</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-4k-quality-selecting-between-projection-and-television-screens/"><u>In 2024, Maximizing 4K Quality Selecting Between Projection and Television Screens</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-ranking-of-free-easy-to-use-image-overlay-apps-on-smartphones/"><u>In 2024, Ranking of Free, Easy-to-Use Image Overlay Apps on Smartphones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-advanced-ai-insights-into-using-claude/"><u>Navigating the World of Advanced AI: Insights Into Using Claude</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-loneliness-with-the-help-of-chatgpt-innovation/"><u>Overcoming Loneliness with the Help of ChatGPT Innovation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-cognitive-abilities-fact-check-by-openai/"><u>Understanding ChatGPT's Cognitive Abilities: Fact-Check by OpenAI</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-experience-the-ps3-gaming-prowess-on-modern-pcs/"><u>[New] Experience the PS3 Gaming Prowess on Modern PCs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-stepping-up-your-gaming-stream-with-steam-capture/"><u>[New] In 2024, Stepping Up Your Gaming Stream with Steam Capture</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-ultimate-guide-to-action-hunting-gear-for-2024/"><u>[New] The Ultimate Guide to Action Hunting Gear for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breaking-the-mold-pushing-a-video-into-hot-water/"><u>[Updated] 2024 Approved Breaking the Mold Pushing a Video Into Hot Water</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-liberate-your-files-top-picks-for-20-free-cloud-storage-options-up-to-1tb/"><u>[Updated] 2024 Approved Liberate Your Files Top Picks for 20 FREE Cloud Storage Options (Up To 1TB)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/academic-advancement-5-dynamic-ways-to-use-chatgpt-in-school/"><u>Academic Advancement: 5 Dynamic Ways to Use ChatGPT in School</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-your-next-interview-leveraging-chatgpt-for-top-notch-prep/"><u>Ace Your Next Interview: Leveraging ChatGPT for Top-Notch Prep</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722147014275-chatgpt-desktop-not-out-yet-discover-brilliant-open-source-chatbot-alternatives-here/"><u>ChatGPT Desktop Not Out Yet? Discover Brilliant Open Source Chatbot Alternatives Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721951490398-no-emoji-tweets-on-twitter-linuss-insight-revealed-trojans-explained-and-chatgpt-concerns-addressed/"><u>No Emoji Tweets on Twitter, Linus's Insight Revealed, Trojans Explained, & ChatGPT Concerns Addressed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722066951871-skip-the-wait-for-chatgpt-on-desktop-embrace-these-top-open-source-solutions-instead/"><u>Skip the Wait for ChatGPT on Desktop – Embrace These Top Open Source Solutions Instead!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-fix-for-nioh-2-complete-edition-performance-issues/"><u>Ultimate Fix for Nioh 2 (Complete Edition) Performance Issues</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-king-of-slate-a-comprehensive-review-of-the-2018-apple-ipad-pro-11-inch-market-dominators/"><u>Unveiling the King of Slate: A Comprehensive Review of the 2018 Apple iPad Pro (11-Inch) - Market Dominators!</u></a></li>
 </ul></div>
 

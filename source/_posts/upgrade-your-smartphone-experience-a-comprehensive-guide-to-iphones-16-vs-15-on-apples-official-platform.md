@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Your Smartphone Experience: A Comprehensive Guide to iPhones 16 Vs. 15 on Apple's Official Platform"
-date: 2024-09-27T16:09:33.113Z
-updated: 2024-10-04T16:10:37.795Z
+date: 2024-10-08T20:33:57.237Z
+updated: 2024-10-09T23:18:42.241Z
 tags:
   - apple
 categories:
@@ -55,6 +55,13 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -71,6 +78,13 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -82,13 +96,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -103,16 +110,10 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -139,13 +140,6 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -162,6 +156,13 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -176,13 +177,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -224,24 +218,21 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-digital-alchemy-transformative-afx-samples-without-cost/"><u>[New] 2024 Approved Digital Alchemy Transformative AFX Samples Without Cost</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gourmet-visuals-in-motion-food-shot-tips-and-tricks/"><u>[New] Gourmet Visuals in Motion Food Shot Tips & Tricks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-revolutionize-your-talking-skills-with-these-no-cost-audio-modifications-for-2024/"><u>[New] Revolutionize Your Talking Skills with These No-Cost Audio Modifications for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-enable-adaptive-hdr-tutorial-for-windows-11/"><u>[Updated] Enable Adaptive HDR Tutorial for Windows 11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premium-mac-capture-software-substitutes-for-bandicam/"><u>[Updated] In 2024, Premium Mac Capture Software Substitutes for Bandicam</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-power-of-nikon-d7500/"><u>2024 Approved Unveiling the Power of Nikon D7500</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-the-power-of-huggingchat-the-cost-free-alternative-to-chatgpt/"><u>Discovering the Power of HuggingChat – The Cost-Free Alternative to ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-tips-for-maximizing-chatgpt-functionality-on-a-mac-computer/"><u>Expert Tips for Maximizing ChatGPT Functionality on a Mac Computer</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-hot-40-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Hot 40 Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-google-pixel-8-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Google Pixel 8 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-fb-video-hacks-instant-mp4-downloads/"><u>In 2024, FB Video Hacks Instant MP4 Downloads</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/nest-audio-unveiled-the-ultimate-sound-experience-for-music-enthusiasts/"><u>Nest Audio Unveiled: The Ultimate Sound Experience for Music Enthusiasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pioneering-pc-performance-ai-assistance-at-hand/"><u>Pioneering PC Performance: AI Assistance at Hand</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/play-detective-4-futuristic-crime-solving-adventures-powered-by-artifice-intelligence-technology/"><u>Play Detective: 4 Futuristic Crime-Solving Adventures Powered by Artifice Intelligence Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-downside-of-digital-health-assistance-5-times-to-steer-clear-from-chatgpt-medical-tips/"><u>The Downside of Digital Health Assistance: 5 Times to Steer Clear From ChatGPT Medical Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-turing-test-in-the-modern-era-is-it-still-relevant-learn-about-five-current-approaches/"><u>The Turing Test in the Modern Era: Is It Still Relevant? Learn About Five Current Approaches</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-frequent-chatbot-mistakes-and-solutions-overcoming-ai-communication-barriers/"><u>Top 6 Frequent Chatbot Mistakes & Solutions: Overcoming AI Communication Barriers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-nvidia-ai-foundations-tailored-solutions-for-next-gen-generative-ai-applications/"><u>Unveiling NVIDIA AI Foundations: Tailored Solutions for Next-Gen Generative AI Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/visionarys-voice-elons-gpt-confession/"><u>Visionary's Voice: Elon's GPT Confession</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-maximize-your-youtube-reach-key-tips-for-enhancing-video-seo/"><u>[New] 2024 Approved Maximize Your YouTube Reach Key Tips for Enhancing Video SEO</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-photo-transformations-3dlut-on-the-go/"><u>[New] Mastering Photo Transformations 3DLUT On-the-Go</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-social-exploration-pinpointing-popular-videos-on-the-worlds-biggest-network/"><u>[Updated] 2024 Approved Social Exploration Pinpointing Popular Videos on the World's Biggest Network</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagrams-notes-for-sharing-tunes-responsibly-for-2024/"><u>[Updated] Instagram’s Notes for Sharing Tunes Responsibly for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-6-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 6 without Passcode or Face ID</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ace-your-mobile-signals-the-premier-selection-of-signal-amplifiers-for-the-year-2024/"><u>Ace Your Mobile Signals: The Premier Selection of Signal Amplifiers for the Year 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-fans-rejoice-lg-tvs-introduce-new-audio-boost-to-level-up-your-viewing-insights-covered-by-zdnet/"><u>Apple Fans Rejoice! LG TVs Introduce New Audio Boost to Level Up Your Viewing - Insights Covered by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-targets-top-browser-with-unsettling-marketing-strategy-witness-the-campaign-techspot/"><u>Apple Targets Top Browser with Unsettling Marketing Strategy: Witness the Campaign | TechSpot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-apples-advanced-ai-endeavors-with-groundbreaking-new-models-revealed/"><u>Exploring Apple's Advanced AI Endeavors with Groundbreaking New Models Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-race-started-overcoming-forza-horizon-nh-endless-launch-screen-issues/"><u>Get Your Race Started: Overcoming Forza Horizon Nh Endless Launch Screen Issues</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/interruption-in-apple-watch-series-9-and-ultra-ii-e-commerce-operations-impacts-on-service-for-previous-versions-disclosed/"><u>Interruption in Apple Watch Series 9 & Ultra II E-Commerce Operations; Impacts on Service for Previous Versions Disclosed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-top-video-professionals-for-2024/"><u>Navigating Top Video Professionals for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/section-2-environmental-conservation-strategies/"><u>Section 2: Environmental Conservation Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-future-tech-empower-your-meta-quest-3-with-ai-capabilities-faster-than-the-vision-pro-in-depth-guide-by-zdnet/"><u>Unlocking Future Tech: Empower Your Meta Quest 3 with AI Capabilities Faster Than the Vision Pro | In-Depth Guide by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrading-to-a-faster-experience-compare-apples-latest-m3-macbook-air-against-its-m2-counterpart-for-your-perfect-laptop-choice/"><u>Upgrading to a Faster Experience? Compare Apple's Latest M3 MacBook Air Against Its M2 Counterpart for Your Perfect Laptop Choice</u></a></li>
 </ul></div>
 

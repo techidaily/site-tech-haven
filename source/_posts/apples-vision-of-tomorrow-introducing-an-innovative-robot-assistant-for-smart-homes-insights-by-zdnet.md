@@ -1,7 +1,7 @@
 ---
 title: "Apple's Vision of Tomorrow: Introducing an Innovative Robot Assistant for Smart Homes | Insights by ZDNET"
-date: 2024-10-01T16:40:37.676Z
-updated: 2024-10-04T16:17:39.340Z
+date: 2024-10-08T23:28:29.259Z
+updated: 2024-10-09T21:21:29.786Z
 tags:
   - apple
 categories:
@@ -52,13 +52,6 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Embracing third-party AI providers
 
 Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration, indicating a willingness to integrate third-party services and partner with multiple AI providers. During [the keynote](https://www.zdnet.com/article/live-updates-everything-apple-announced-at-wwdc-2024-including-ios-18-siri-ai-more/), Apple said it would partner to allow third-party large language models (LLM) in addition to OpenAI ChatGPT (free, [Plus](https://www.zdnet.com/article/how-to-subscribe-to-chatgpt-plus-and-why/), and presumably Enterprise) but did not name those models. Potential models include [Microsoft Copilot](https://www.zdnet.com/article/build-2024-microsoft-enhances-productivity-with-new-copilot-transforming-teamwork-and-projects/), [Google Gemini](https://www.zdnet.com/article/what-is-google-gemini/), Meta Llama 3, Amazon Titan, and Hugging Face, among many others.
@@ -68,16 +61,10 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Smart notifications and writing tools
@@ -89,10 +76,10 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### AI image generation and Genmoji
@@ -116,16 +103,10 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### AI capabilities across Apple products
@@ -159,6 +140,13 @@ Finally, the new Translation API will be unveiled. It will help developers build
 **Also: [Apple unveils an on-device AI image generator for iPhone, iPad, and Mac](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/)**
 
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
 
@@ -200,24 +188,17 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/rom-zero-to-hero-youtube-tech-required-for-2024/"><u>[New] From Zero to Hero YouTube Tech Required for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speedy-viewing-manipulating-stories-frame-rate-on-instagram/"><u>[Updated] Speedy Viewing Manipulating Stories' Frame Rate on Instagram</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-office-efficiency-officedocspace-and-ai-enhanced-chatbots/"><u>Boosting Office Efficiency: OfficeDocSpace & AI-Enhanced ChatBots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bypassing-account-requirements-discover-5-ways-to-benefit-from-chatgpt-without-openai-signup/"><u>Bypassing Account Requirements: Discover 5 Ways to Benefit From ChatGPT Without OpenAI Signup</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deep-dive-into-ai-evolution-distinguishing-features-between-googles-palm-2-and-openais-gpt-4/"><u>Deep Dive Into AI Evolution: Distinguishing Features Between Google's PaLM 2 and OpenAI's GPT-4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-chatgpt-enterprise-benefits-and-unique-selling-points/"><u>Exploring ChatGPT Enterprise: Benefits and Unique Selling Points</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-skills-a-guide-to-virtual-cocktail-creation/"><u>Exploring ChatGPT's Skills: A Guide to Virtual Cocktail Creation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-why-snapchats-my-ai-is-more-than-playful-tech/"><u>Exploring Why Snapchat’s My AI Is More Than Playful Tech</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-p55-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Itel P55 5G Lock Screen Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Motorola Moto G84 5G</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-finance-with-emoji-tips-understanding-the-implications-of-activision-hack-and-ai-driven-automation-risks-for-careers-including-chatgpts-role/"><u>Navigating Finance with Emoji Tips, Understanding the Implications of Activision Hack & AI-Driven Automation Risks for Careers Including ChatGPT's Role</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/premier-hash-trackers-fb-tweet-instagram-edition/"><u>Premier Hash Trackers FB, Tweet, Instagram Edition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/resolving-riddles-with-ai-math-style/"><u>Resolving Riddles with AI, Math Style</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-optimizing-phone-as-window-recording-device/"><u>Techniques for Optimizing Phone as Window Recording Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-end-of-an-era-investigating-the-disappearance-of-effective-chatgpt-bypass-methods/"><u>The End of an Era: Investigating the Disappearance of Effective ChatGPT Bypass Methods</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-windows-11-issues-incompatibility-with-legacy-processors/"><u>Troubleshooting Windows 11 Issues: Incompatibility with Legacy Processors</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/king-earnings-the-mean-daily-pay-from-youtube-adsense-per-k-viewers-for-2024/"><u>Unlocking Earnings The Mean Daily Pay From YouTube AdSense per K Viewers for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/video-cutting-edge-m1s-efficiency-takes-the-lead-for-2024/"><u>Video Cutting-Edge M1's Efficiency Takes the Lead for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-10-survival-arena-matches/"><u>[New] 2024 Approved Ultimate 10 Survival Arena Matches</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-5-best-racing-simulator-games-you-can-find/"><u>[Updated] 2024 Approved 5 Best Racing Simulator Games You Can Find</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-leading-10-best-list-for-free-video-conferencing-and-desktop-sharing/"><u>[Updated] 2024 Approved Leading 10-Best List for FREE Video Conferencing & Desktop Sharing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oneplus-11-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove OnePlus 11 5G Fingerprint Lock</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-revolutionizing-personalization-and-retargeting-in-web-marketing/"><u>Cookiebot: Revolutionizing Personalization and Retargeting in Web Marketing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-steady-deal-how-the-apple-watch-se-second-gen-continues-to-shine-with-an-80-bargain-post-prime-day/"><u>Exploring the Steady Deal: How the Apple Watch SE, Second Gen Continues to Shine with an $80 Bargain Post-Prime Day</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-asus-rog-phone-7-ultimate-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transform-viewing-habits-the-top-6-choices-for-cost-free-and-online-short-film-downloads/"><u>In 2024, Transform Viewing Habits The Top 6 Choices for Cost-Free & Online Short Film Downloads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/section/"><u>Section</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1727790569434-top-rated-childrens-tablets-endorsed-by-parents-insights/"><u>Top-Rated Children’s Tablets Endorsed by Parents - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-my-dream-wearable-apple-watch-ultra-2-review-and-a-huge-100-off-deal-for-festive-shoppers-exclusive-on-zdnet/"><u>Unveiling My Dream Wearable: Apple Watch Ultra 2 Review & A Huge $100 Off Deal for Festive Shoppers | Exclusive on ZDNET</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-time-travel-how-to-flip-videos-for-2024/"><u>YouTube Time Travel How to Flip Videos for 2024</u></a></li>
 </ul></div>
 

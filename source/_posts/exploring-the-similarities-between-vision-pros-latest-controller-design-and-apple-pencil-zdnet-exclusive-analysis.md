@@ -1,7 +1,7 @@
 ---
 title: Exploring the Similarities Between Vision Pro's Latest Controller Design & Apple Pencil | ZDNet Exclusive Analysis
-date: 2024-10-03T16:18:52.536Z
-updated: 2024-10-04T16:32:20.753Z
+date: 2024-10-08T21:15:19.878Z
+updated: 2024-10-09T23:26:48.892Z
 tags:
   - apple
 categories:
@@ -54,6 +54,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Security and privacy implications
 
   
@@ -71,6 +78,13 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## App Store changes
 
 Apple's financial model heavily depends on App Store commissions, which may undergo significant changes due to this lawsuit, judgment, or settlement. These changes could lead to a more dynamic market, providing consumers with more competitive pricing and a wider range of innovative app offerings. Fundamentally, it could alter the economic structure of the entire digital marketplace.
@@ -82,10 +96,10 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple ecosystem transformation
@@ -103,10 +117,10 @@ The changes could also lead to increased innovation and competition in markets s
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open standards and protocols and the increase of open-source software on Apple platforms
@@ -118,13 +132,6 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Integration of open source applications:** Easier installation and use of open source software on iOS devices, broadening the range of available tools and apps.
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Regulatory and industry-wide impact
 
 The Justice Department's lawsuit against Apple could set a precedent that could significantly impact not just the company but also the entire tech industry. The regulatory impact of this lawsuit could lead to more stringent oversight, which could affect Apple's operational flexibility and potentially reshape the digital market. A successful antitrust action against Apple could also set legal precedents for other tech giants, leading to a more globally consistent regulatory framework. 
@@ -134,13 +141,6 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 > "At Apple, we innovate every day to make technology people love—designing products that work seamlessly together, protect people's privacy and security, and create a magical experience for our users. This lawsuit threatens who we are and the principles that set Apple products apart in fiercely competitive markets. If successful, it would hinder our ability to create the kind of technology people expect from Apple—where hardware, software, and services intersect. It would also set a dangerous precedent, empowering government to take a heavy hand in designing people's technology. We believe this lawsuit is wrong on the facts and the law, and we will vigorously defend against it."
 
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Previous coverage
 
@@ -178,24 +178,24 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-unexpectedstoreexception-windows-11-error/"><u>[Fixed] UNEXPECTED_STORE_EXCEPTION Windows 11 Error</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-epicurean-enjoyment-tiktoks-top-eating-stories/"><u>[New] In 2024, Epicurean Enjoyment TikTok's Top Eating Stories</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-driver-corrupted-expool-error-on-windows-11/"><u>[Solved] DRIVER CORRUPTED EXPOOL Error on Windows 11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-download-all-youtube-images-for-free/"><u>[Updated] Download All YouTube Images for Free!</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-trending-in-real-time-10-hot-tweets-captivating-audiences/"><u>[Updated] Trending in Real Time 10 Hot Tweets Captivating Audiences</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-practices-for-uploading-and-distributing-conversations-with-chatgpt/"><u>Best Practices for Uploading and Distributing Conversations with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-machines-tell-jokes-discovering-the-past-of-portable-computers-and-vpn-innovations-today/"><u>Can Machines Tell Jokes? Discovering the Past of Portable Computers & VPN Innovations Today!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-browser-cache-errors-correcting-errcachemiss-on-google-chrome/"><u>Dealing with Browser Cache Errors: Correcting ERR_CACHE_MISS on Google Chrome</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-message-understanding-who-listens-in-the-virtual-realm-beyond-life/"><u>Decoding the Message: Understanding Who Listens in the Virtual Realm Beyond Life</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-online-conversion-transforming-tiff-images-into-jpeg-format-with-ease/"><u>Free Online Conversion: Transforming TIFF Images Into JPEG Format with Ease</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-safely-backup-your-iphone-even-with-a-lock-screen/"><u>How To Safely Backup Your iPhone Even With a Lock Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-xcover-6-pro-tactical-edition-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy XCover 6 Pro Tactical Edition Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-engineering-responsive-prompts-a-sustainable-career/"><u>Is Engineering Responsive Prompts a Sustainable Career?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/joke-geniuses-at-your-service-free-of-charges-for-2024/"><u>Joke Geniuses at Your Service Free of Charges for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/language-bots-face-off-mistrals-challenge-to-chatgpt/"><u>Language Bots Face Off: Mistral's Challenge to ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leverage-ai-power-boost-your-proposal-game-using-chatgpts-tools-and-tips/"><u>Leverage AI Power: Boost Your Proposal Game Using ChatGPT's Tools and Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protecting-your-privacy-avoiding-risks-with-personalized-gpt-models-like-chatgpt/"><u>Protecting Your Privacy: Avoiding Risks with Personalized GPT Models Like ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-search-with-microsoft-bings-next-gen-ai-capabilities/"><u>Transforming Search with Microsoft Bing's Next-Gen AI Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-job-opportunities-6-effective-strategies-for-leveraging-chatgpt/"><u>Unlocking Job Opportunities: 6 Effective Strategies for Leveraging ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-everything-you-need-to-know-about-3d-lut-creator/"><u>[New] Everything You Need to Know About 3D LUT Creator</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-crafting-prime-valorant-video-thumbnails-on-youtube/"><u>[New] In 2024, Crafting Prime Valorant Video Thumbnails on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-industry-insights-top-10-handheld-hd-playback-units/"><u>[New] Industry Insights Top 10 Handheld HD Playback Units</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-hidden-trove-unseen-artifacts-and-auction-secrets/"><u>[Updated] 2024 Approved The Hidden Trove - Unseen Artifacts and Auction Secrets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-comparing-chatgpt-and-gemini-in-code-mastery/"><u>AI Showdown: Comparing ChatGPT and Gemini in Code Mastery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-double-edged-sword-enhancing-cybercrime-tactics/"><u>AI's Double-Edged Sword: Enhancing Cybercrime Tactics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-there-any-potential-risks-associated-with-using-chatgpt/"><u>Are There Any Potential Risks Associated With Using ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-intelligences-impact-on-distinguishing-fact-from-fiction-top-8-examples/"><u>Artificial Intelligence's Impact on Distinguishing Fact From Fiction: Top 8 Examples</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-of-inefficient-chatgpt-integrations-top-6-to-ignore-for-better-workflow/"><u>Beware of Inefficient ChatGPT Integrations: Top 6 to Ignore for Better Workflow</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-conversation-top-6-game-experiences-waiting-for-you-on-chatgpt-platforms/"><u>Beyond Conversation: Top 6 Game Experiences Waiting for You on ChatGPT Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-writing-with-these-9-chatgpt-techniques-for-content-makers/"><u>Boost Your Writing with These 9 ChatGPT Techniques for Content Makers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-i-trust-non-official-chatgpt-extensions-and-apps-with-my-data-security/"><u>Can I Trust Non-Official ChatGPT Extensions and Apps with My Data Security?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-depend-on-ai-tools-such-as-chatgpt-to-regulate-your-connected-home-environment/"><u>Can You Depend on AI Tools Such as ChatGPT to Regulate Your Connected Home Environment?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descubra-como-instalar-eficientemente-la-libreria-libdvdcss-junto-con-handbrake-en-sistemas-mac-y-windows-10-para-una-copia-segura-de-dvds/"><u>Descubra Como Instalar Eficientemente La Libreria Libdvdcss Junto Con HandBrake en Sistemas Mac Y Windows 10 Para Una Copia Segura De DVDs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-amd-radeon-graphics-driver-downloads-compatible-with-windows-7/"><u>Free AMD Radeon Graphics Driver Downloads Compatible with Windows 7</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-techniques-for-opening-srt-on-computers/"><u>In 2024, Expert Techniques for Opening SRT on Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mir4-pc-trouble-learn-how-to-overcome-game-crashing-obstacles-today/"><u>Mir4 PC Trouble? Learn How to Overcome Game Crashing Obstacles Today</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-oneplus-ace-2-pro-by-fonelab-android-recover-data/"><u>Recover lost data from OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-path-to-stunning-instagram-posts-for-2024/"><u>The Ultimate Path to Stunning Instagram Posts for 2024</u></a></li>
 </ul></div>
 

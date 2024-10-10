@@ -1,7 +1,7 @@
 ---
 title: "Tech Giants on Trial and Triumph: Unpacking Google's Antitrust Setback and Samsung's Strategic Expansion Into AI as Top Movers in the 2021 Innovation Index | Analysis by ZDNET"
-date: 2024-09-28T16:00:45.425Z
-updated: 2024-10-04T16:42:11.680Z
+date: 2024-10-03T18:41:57.947Z
+updated: 2024-10-09T16:56:05.065Z
 tags:
   - apple
 categories:
@@ -71,21 +71,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-seamless-social-circulation-sharing-your-journey-through-video-on-facebook-for-2024/"><u>[New] Seamless Social Circulation Sharing Your Journey Through Video on Facebook for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-generative-ais-best-in-class-chatgpt-vs-microsofts-bing-chat/"><u>Decoding Generative AIs: Best in Class - ChatGPT Vs. Microsoft's Bing Chat</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/local-vs-global-weighing-the-pros-and-cons-of-choosing-an-llm/"><u>Local vs Global: Weighing the Pros and Cons of Choosing an LLM</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/navigate-the-tech-maze-with-confidence-discover-what-toms-hardware-has-to-offer/"><u>Navigate the Tech Maze with Confidence – Discover What Tom's Hardware Has to Offer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/opt-for-confidential-discussions-with-duckduckgos-advanced-ai-chatting-tools/"><u>Opt for Confidential Discussions with DuckDuckGo's Advanced AI Chatting Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/seamless-audio-edits-with-garageband-features/"><u>Seamless Audio Edits with GarageBand Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-complete-user-manual-to-harnessing-openais-cutting-edge-api-capabilities/"><u>The Complete User Manual to Harnessing OpenAI's Cutting-Edge API Capabilities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-borderlands-3-ls-0013-troubleshooting-issue/"><u>Ultimate Guide: Resolving the Borderlands 3 LS-0013 Troubleshooting Issue</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-xcover-6-pro-tactical-editions-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Samsung Galaxy XCover 6 Pro Tactical Editions Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-high-paying-creator-status-on-youtube/"><u>[New] 2024 Approved High-Paying Creator Status on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-quick-guide-iphones-video-loop-functionality/"><u>[New] 2024 Approved Quick Guide IPhone's Video Loop Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-timeless-stop-motion-gems-in-the-top-15/"><u>[New] Timeless Stop-Motion Gems in the Top 15</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-great-debate-should-you-go-for-obs-or-bandicam/"><u>2024 Approved The Great Debate Should You Go for OBS or Bandicam?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-reasons-for-vigilance-when-dealing-with-automated-systems/"><u>6 Reasons for Vigilance when Dealing with Automated Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/access-your-chatgpt-app-on-the-go-master-the-chatgpt-everywhere-feature-for-worldwide-use/"><u>Access Your ChatGPT App on the Go: Master the ChatGPT Everywhere Feature for Worldwide Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adapting-careers-in-an-ai-driven-world/"><u>Adapting Careers in an AI-Driven World</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-face-off-who-reigns-supreme-in-the-world-of-coding-chatgpt-or-gemini/"><u>AI Face-Off: Who Reigns Supreme in the World of Coding - ChatGPT or Gemini?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-picsart-breakdown-for-2024/"><u>Comprehensive PicsArt Breakdown for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722201659625-dive-into-digital-detection-with-our-selection-of-4-ai-murder-mystery-challenges-and-puzzle-games/"><u>Dive Into Digital Detection with Our Selection of 4 AI Murder Mystery Challenges and Puzzle Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722033295734-harness-the-power-of-gpt-4-all-for-free-on-your-pc-guide-to-setting-up-a-chatbot-replica/"><u>Harness the Power of GPT-4 All for Free on Your PC: Guide to Setting Up a Chatbot Replica</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/jane-austens-pride-and-prejudice/"><u>Jane Austen's Pride and Prejudice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-productivity-4-strategies-with-chatgpt/"><u>Optimizing Productivity: 4 Strategies with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-ai-programmer-partner-wins-github-copilot-or-gpt-3/"><u>Which AI Programmer Partner Wins? GitHub Copilot or GPT-3?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/windows-wizardry-for-swift-image-editing/"><u>Window's Wizardry for Swift Image Editing</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

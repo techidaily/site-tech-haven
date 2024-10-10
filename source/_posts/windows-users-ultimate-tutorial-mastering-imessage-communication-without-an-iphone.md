@@ -1,7 +1,7 @@
 ---
 title: "Windows Users' Ultimate Tutorial: Mastering iMessage Communication without an iPhone"
-date: 2024-09-30T16:23:22.682Z
-updated: 2024-10-04T16:10:16.725Z
+date: 2024-10-08T18:53:56.444Z
+updated: 2024-10-09T21:33:12.225Z
 tags:
   - apple
 categories:
@@ -62,6 +62,13 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -71,6 +78,13 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -85,10 +99,10 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -98,10 +112,16 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Start a new chat
@@ -109,13 +129,6 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -126,13 +139,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -146,13 +152,6 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -164,6 +163,13 @@ Screenshot by Lance Whitney/ZDNET
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -207,17 +213,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-daily-dose-of-joy-selecting-the-best-anime-web-vids-on-youtube/"><u>[New] 2024 Approved Daily Dose of Joy Selecting the Best Anime Web Vids on Youtube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-how-to-rectify-silent-streams-with-obs-for-2024/"><u>[New] How to Rectify Silent Streams with OBS for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-demystifying-the-tech-an-examination-of-apeaksofts-2023-update/"><u>[Updated] 2024 Approved Demystifying the Tech An Examination of Apeaksoft's 2023 Update</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-free-and-paid-drawing-tools-for-windows-enthusiasts/"><u>2024 Approved Free and Paid Drawing Tools for Windows Enthusiasts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-the-best-iphone-vr-games-today/"><u>Explore the Best iPhone VR Games Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/faux-chatgpt-browser-tool-targeting-facebook-logins-stay-alert/"><u>Faux ChatGPT Browser Tool Targeting Facebook Logins – Stay Alert!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fortifying-workplace-communication-against-breaches/"><u>Fortifying Workplace Communication Against Breaches</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-an-intro-to-digital-realms-vr-simplified/"><u>In 2024, An Intro to Digital Realms VR Simplified</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimizing-analysis-integrating-gpt-3-into-your-workflow/"><u>Optimizing Analysis: Integrating GPT-3 Into Your Workflow</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a14-4g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A14 4G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unpacking-the-capabilities-of-chatgpts-integrated-add-ons-practical-insights-and-use-cases/"><u>Unpacking the Capabilities of ChatGPT's Integrated Add-Ons: Practical Insights & Use Cases</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-redmi-note-12-pro-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi Redmi Note 12 Pro 5G Device</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-dive-deep-into-the-soundscapes-of-iphone-podcasts-for-2024/"><u>[New] Dive Deep Into the Soundscapes of iPhone Podcasts for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elite-workstations-for-peak-productivity/"><u>[Updated] 2024 Approved Elite Workstations for Peak Productivity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-live-tv-on-your-desktop-windows-pc-masterclass-in-capturing-screens-for-2024/"><u>[Updated] Live TV on Your Desktop Windows PC Masterclass in Capturing Screens for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/audacity-tutorial-mastering-the-art-of-cd-extraction/"><u>Audacity Tutorial: Mastering the Art of CD Extraction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beginners-guide-enjoying-vr-content-via-2-quick-methods/"><u>Beginner's Guide: Enjoying VR Content via 2 Quick Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bulk-conversion-guide-transforming-shn-files-into-high-quality-flac/"><u>Bulk Conversion Guide: Transforming SHN Files Into High-Quality FLAC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-free-wmv-video-editors-top-picks-for-web-and-desktop-use/"><u>Comprehensive Guide to FREE WMV Video Editors - Top Picks for Web and Desktop Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-walkthrough-for-handling-audio-tracks-mastering-cda-file-use-and-conversion-techniques/"><u>Comprehensive Walkthrough for Handling Audio Tracks: Mastering .CDA File Use & Conversion Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/copyright-free-tutorial-incorporating-audio-into-your-youtube-videos/"><u>Copyright-Free Tutorial: Incorporating Audio Into Your YouTube Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dark-souls-iii-crash-fixes-solutions-and-tips/"><u>Dark Souls III Crash Fixes: Solutions and Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/davinci-resolve-tutorial-how-to-isolate-and-remove-audio-tracks-from-video-files/"><u>DaVinci Resolve Tutorial: How to Isolate and Remove Audio Tracks From Video Files</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nubia-red-magic-9-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nubia Red Magic 9 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-macs-gaming-capability-with-baldurs-gate-3/"><u>Maximize Your Mac's Gaming Capability with Baldur’s Gate 3</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-way-to-update-nvidias-geforce-gtx-460-drivers-on-windows/"><u>Quick & Easy Way to Update Nvidia's GeForce GTX 460 Drivers on Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-upgrade-your-fb-videos-with-hd-mp4-format-forfree/"><u>The Ultimate Guide Upgrade Your FB Videos with HD MP4 Format – Forfree</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-wonders-of-artificeintelligence-in-android-ecosystems/"><u>The Wonders of ArtificeIntelligence in Android Ecosystems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up the Cloud 9 Addon in Kodi (Matrix & Leia Versions)"
-date: 2024-09-08 23:27:51
-updated: 2024-09-11 10:35:23
+date: 2024-10-07T17:18:46.048Z
+updated: 2024-10-09T19:44:54.378Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/8eee5494b28afc7aa3f86c9129d566065bf2c03daf39ea12e0a8a3e03f2e1950.jpg
@@ -68,6 +68,26 @@ Launch **Free HD Video Converter Factory** after downloading and installing it o
 
 ![Audio Converter WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-1-mobi.webp) 
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Select MP3 as the Output Format
 
 Press the format icon on the right side of the interface to open the output format library. Go to the “**Audio**” tab and select “**MP3**”. You can also choose to convert WMA to other popular formats here.  
@@ -85,6 +105,13 @@ Go back to the main interface, and click the triangle button to specify an outpu
 
 ![WMA File to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-3.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![WMA File to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-3-mobi.webp) 
 
 Also Read: [Play WMA on iPhone](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | [Play WMA on Android](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | [Five WMA Editors](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
@@ -98,6 +125,13 @@ Step 2: Change the import settings by clicking on the menu bar and selecting “
 Step 3: Click on “**Import Settings**” from the “**Files (General)**” tab and then select “**MP3 Encoder**” from the “**Import Using**” section. Click “**OK**” to confirm the settings.
 
 ![Convert WMA to MP3 Mac](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-4.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Convert WMA to MP3 Mac](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-4-mobi.webp) 
 
@@ -115,6 +149,13 @@ Another desktop WMA to MP3 free converter is VLC. VLC is an open-source media pl
 ![VLC Convert WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-6.webp) 
 
 ![VLC Convert WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-6-mobi.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1: Open VLC media player, go to “**Media**” > “**Convert/Save**” in the menu bar, you can also directly press the shortcut key “**Ctrl+R**”.  
 Step 2: Hit the “**\+ Add**” button to import the WMA files and press the “**Convert/Save**” button below.  
@@ -152,6 +193,13 @@ Step 3: Choose “**MP3**” from the “**Convert to...**” list.
 Step 4: Hit on “**Convert**” button to start the conversion.  
 Then you can download the converted MP3 files.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## At last...
 
 The five listed methods are all free and easy to handle. Besides WMA to MP3 conversion, you can also take them to solve other format incompatibility issues and play the video and audio files anywhere and anytime. But it is still recommended to use desktop converters to convert multiple or large files due to the file limitations of online tools. Just choose one converter compatible with your operating system and start converting now!
@@ -161,6 +209,13 @@ The five listed methods are all free and easy to handle. Besides WMA to MP3 conv
 ### Q1\. What is WMA and MP3?
 
 WMA and MP3 are two audio file formats. WMA (Windows Media Audio) was developed by Microsoft and is commonly used on Windows-based devices. MP3 is a popular format that is widely used on various devices and platforms with the best compatibility.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q2\. What is the best free WMA to MP3 converter?
 
@@ -191,6 +246,13 @@ WonderFox HD Video Converter Factory Pro
 * Edit videos like cutting, cropping, rotating, compressing, merging…
 [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/dl/tips/hdpro.html?from=convert-wma-to-mp3.html-PC-Recommend) [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/hd-video-converter/mobile-checking.html?from=convert-wma-to-mp3.html-Mobile-Recommend) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png "Back to Top")](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 <ins class="adsbygoogle"
@@ -199,11 +261,29 @@ WonderFox HD Video Converter Factory Pro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-master-guide-to-youtube-community-expectations/"><u>[New] In 2024, Master Guide to YouTube Community Expectations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-narrative-scripts-dialogue-excellence/"><u>[New] Perfecting Narrative Scripts Dialogue Excellence</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-seamless-video-editing-on-windows-11-platform-for-2024/"><u>[New] Seamless Video Editing on Windows 11 Platform for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-windows-11-touch-display-issues-with-these-5-proven-strategies/"><u>Fix Your Windows 11 Touch Display Issues with These 5 Proven Strategies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-augmented-viewing-the-vr-cinematic-revolution/"><u>In 2024, Augmented Viewing The VR Cinematic Revolution</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-evaluation-of-the-latest-third-gen-apple-tv-4k/"><u>In-Depth Evaluation of the Latest Third Gen Apple TV 4K</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/making-it-easier-nvidias-revamped-approach-to-pc-application-management/"><u>Making It Easier: NVIDIA's Revamped Approach to PC Application Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-microphone-inputs-a-step-by-step-tutorial-for-windows-11-users/"><u>Mastering Microphone Inputs: A Step-by-Step Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-movie-aesthetics-through-color-grading-and-luts-for-2024/"><u>Mastering Movie Aesthetics Through Color Grading and Luts for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-dig-tool-in-linux-a-step-by-step-guide/"><u>Mastering the 'Dig' Tool in Linux: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/powering-up-pc-gamers-how-microsoft-embraces-arm-technology-for-enhanced-windows-laptop-gaming/"><u>Powering Up PC Gamers: How Microsoft Embraces ARM Technology for Enhanced Windows Laptop Gaming</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-your-files-easy-way-to-lock-down-your-usb-with-windows-11-encryption/"><u>Protect Your Files: Easy Way to Lock Down Your USB with Windows 11 Encryption</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-gaming-how-microsofts-directx-raytracing-dxr-is-shaping-the-next-generation-of-graphics/"><u>Revolutionizing Gaming: How Microsoft's DirectX Raytracing (DXR) Is Shaping the Next Generation of Graphics</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-clearing-up-crackle-sounds-in-windows-operating-systems-11-and-n/"><u>Step-by-Step Solution for Clearing Up Crackle Sounds in Windows Operating Systems (11 & N)</u></a></li>
+</ul></div>
+

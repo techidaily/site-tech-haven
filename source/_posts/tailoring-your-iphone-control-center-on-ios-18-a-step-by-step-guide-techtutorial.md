@@ -1,7 +1,7 @@
 ---
 title: Tailoring Your iPhone Control Center on iOS 18 - A Step-by-Step Guide | TechTutorial
-date: 2024-09-30T16:21:46.361Z
-updated: 2024-10-04T16:21:37.225Z
+date: 2024-10-06T21:07:30.174Z
+updated: 2024-10-10T00:04:06.278Z
 tags:
   - apple
 categories:
@@ -30,24 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -57,18 +51,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -77,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -98,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -140,18 +134,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-beyond-basics-pro-tips-for-sticker-queries-on-instagram-for-2024/"><u>[Updated] Beyond Basics Pro Tips for Sticker Queries on Instagram for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-upscaling-your-youtube-visuals/"><u>2024 Approved Upscaling Your YouTube Visuals</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/find-your-perfect-match-with-these-best-5-iphone-pods/"><u>Find Your Perfect Match with These Best 5 iPhone Pods</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/vision-to-reality-taking-control-of-your-lyric-videos-with-lyric-video-maker/"><u>From Vision to Reality Taking Control of Your Lyric Videos with Lyric Video Maker</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/optimizing-vimeo-video-speed-rates-for-2024/"><u>Optimizing Vimeo Video Speed Rates for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/precision-in-personal-health-chatgpts-plan-writing/"><u>Precision in Personal Health: ChatGPT's Plan-Writing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-case-for-and-against-chatgpt-plus/"><u>The Case for & Against ChatGPT Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-next-big-thing-in-diy-how-gpt-4-will-transform-your-experience/"><u>The Next Big Thing in DIY: How GPT-4 Will Transform Your Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-mastering-the-art-of-ipad-reboot-across-all-versions/"><u>Ultimate Guide: Mastering the Art of iPad Reboot Across All Versions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uncover-the-ultimate-top-8-parent-control-applications-for-safer-kids/"><u>Uncover The Ultimate Top 8 Parent-Control Applications for Safer Kids</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-ai-authenticity-does-chatgpt-commit-plagiarism/"><u>Unveiling AI Authenticity: Does ChatGPT Commit Plagiarism?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208232763-windows-11-file-explorer-guide-enhance-your-organization-and-efficiency-skills/"><u>Windows 11 File Explorer Guide: Enhance Your Organization & Efficiency Skills</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1726026437807-dvd/"><u>「単純」DVDダウンロード方法・最適ソフトウェア推薦</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/digiarty-dvd-copy-toolkit-professional-dvd-ripping-duplicating-and-media-transcoding-services/"><u>Digiarty DVD Copy Toolkit: Professional DVD Ripping, Duplicating & Media Transcoding Services</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-assemble-ppt-narratives-into-video/"><u>In 2024, Assemble PPT Narratives Into Video</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-skyrocket-to-partner-status-crush-that-critical-10000-view-benchmark/"><u>In 2024, Skyrocket to Partner Status Crush that Critical 10,000-View Benchmark</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-chatgpt-shared-linking/"><u>Navigating the World of ChatGPT Shared Linking</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-data-analysis-skills-using-these-6-techniques-with-chatgpt/"><u>Revolutionize Your Data Analysis Skills Using These 6 Techniques with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/software-skills-face-off-can-chatgpt-outperform-gemini-in-coding-prowess/"><u>Software Skills Face-Off: Can ChatGPT Outperform Gemini in Coding Prowess?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-nmihardwarefailure-bsod-error/"><u>Solved: NMI_HARDWARE_FAILURE BSOD Error</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-activating-your-account-on-microsofts-ai-enhanced-bing/"><u>Step-by-Step Guide: Activating Your Account on Microsoft's AI-Enhanced Bing</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/turn-off-image-previews-in-flipbooks-with-ease-learn-how-using-flipbuilders-features/"><u>Turn Off Image Previews in Flipbooks with Ease - Learn How Using FlipBuilder's Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unanswered-questions-the-unexpected-halt-to-the-diablo-immortal-pc-launch/"><u>Unanswered Questions: The Unexpected Halt to the Diablo Immortal PC Launch</u></a></li>
 </ul></div>
 

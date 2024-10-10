@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS with Craft: The Ultimate Guide to Using This Excellent Document Editor"
-date: 2024-10-01T16:37:22.823Z
-updated: 2024-10-04T16:21:32.969Z
+date: 2024-10-07T21:19:05.583Z
+updated: 2024-10-09T21:39:58.069Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,24 +134,14 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-2023s-ultimate-selection-of-ios-devices-for-classic-psp-games/"><u>[New] In 2024, 2023'S Ultimate Selection of iOS Devices for Classic PSP Games</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ios-leading-ps2-simulators-top-picks/"><u>[Updated] In 2024, IOS Leading PS2 Simulators Top Picks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a05s-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A05s FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-practices-for-a-secure-chatgpt-experience-in-therapy-and-counseling/"><u>Best Practices for a Secure ChatGPT Experience in Therapy and Counseling</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/breaking-language-barriers-how-to-effectively-use-chatgpt-in-multiple-linguistic-contexts/"><u>Breaking Language Barriers: How to Effectively Use ChatGPT in Multiple Linguistic Contexts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-mixology-can-it-blend-up-a-flawless-drink/"><u>ChatGPT and Mixology: Can It Blend Up a Flawless Drink?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-the-truth-beyond-ai-generated-summary-texts/"><u>Deciphering the Truth Beyond AI-Generated Summary Texts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-talk-directly-to-chatgpt/"><u>Discover: Talk Directly to ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-content-game-with-these-9-insights-into-using-chatgpt-as-a-creator/"><u>Elevate Your Content Game with These 9 Insights Into Using ChatGPT as a Creator</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-humor-how-chatgpts-joke-crafting-abilities-stack-up-with-human-wit/"><u>Exploring Humor: How ChatGPT's Joke-Crafting Abilities Stack Up with Human Wit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-resolve-a-massive-problem-with-your-systems-paging-file/"><u>How to Resolve a Massive Problem with Your System's Paging File</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-find-x6-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-v29e-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo V29e?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-x-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone X Making It Possible</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-multilingual-communication-with-chatgpt-as-your-go-to-translator/"><u>Mastering Multilingual Communication with ChatGPT as Your Go-To Translator</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/proven-ai-approaches-for-successful-innovation/"><u>Proven AI Approaches for Successful Innovation</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-16-expressions-of-gratitude-in-deutsch/"><u>Top 16 Expressions Of Gratitude in Deutsch</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/win10-screen-grabber-top-tier-video-recorder-for-2024/"><u>Win10 Screen Grabber - Top-Tier Video Recorder for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-beyond-vlc-uncovering-hidden-streaming-gems/"><u>[New] 2024 Approved Beyond VLC Uncovering Hidden Streaming Gems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-intuitivestepsforyoucamuseandrecording-for-2024/"><u>[New] IntuitiveStepsForYouCamUseAndRecording for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-masterclass-beginners-kit-free-courses-collection/"><u>[New] YouTube Masterclass Beginners Kit Free Courses Collection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-conversations-unveiled-discover-the-possibilities-of-ai-communication/"><u>ChatGPT Conversations Unveiled: Discover the Possibilities of AI Communication</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-unlocks-wearable-potential-with-six-pioneering-capabilities/"><u>ChatGPT Unlocks Wearable Potential with Six Pioneering Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deconstructing-nlp-giants-deep-dive-into-gpt-vs-bert/"><u>Deconstructing NLP Giants: Deep Dive Into GPT Vs. BERT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-new-ways-to-use-chatgpt-essential-tools-and-functions-you-havent-tried-yet/"><u>Discover New Ways to Use ChatGPT: Essential Tools and Functions You Haven't Tried Yet!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-powerdirector-color-correction-bringing-harmony-to-your-video-edits-for-2024/"><u>New PowerDirector Color Correction Bringing Harmony to Your Video Edits for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-creativity-discovering-the-most-acclaimed-photo-swap-apps-for-2024/"><u>Unleash Creativity Discovering the Most Acclaimed Photo Swap Apps for 2024</u></a></li>
 </ul></div>
 

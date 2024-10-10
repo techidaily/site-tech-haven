@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Privacy Post-iOS Upgrade: Tips On Keeping Your iPhone Invisible to Others"
-date: 2024-10-01T16:18:44.059Z
-updated: 2024-10-04T16:14:49.562Z
+date: 2024-10-08T21:03:27.536Z
+updated: 2024-10-09T22:24:56.902Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Go to your iPhone Settings
@@ -57,18 +57,18 @@ To find the Journal app setting, open your Settings app on your iPhone.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Find Privacy & Security
 
 Scroll down and open Privacy & Security within your Apple device's Settings app.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Tap on Journaling Suggestions
 
@@ -85,10 +85,10 @@ Maria Diaz/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **FAQ**
@@ -112,10 +112,10 @@ However, some people feel uncomfortable about the app tracking who you've been m
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
@@ -156,24 +156,17 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-pinnacle-bots-of-online-communities/"><u>[New] 2024 Approved Pinnacle Bots of Online Communities</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-video-downloader-and-mp3-maker-for-the-modern-age/"><u>[Updated] 2024 Approved Facebook Video Downloader & MP3 Maker for the Modern Age</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-comprehensive-guide-to-free-premium-video-callers/"><u>[Updated] Comprehensive Guide to Free, Premium Video Callers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-constructing-premium-canon-chrono-images/"><u>[Updated] Constructing Premium Canon Chrono Images</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808328772-arch-bluetooth-mouse-trouble-get-it-working-again-after-the-windows-11-creators-release/"><u>Arch Bluetooth Mouse Trouble? Get It Working Again After the Windows 11 Creators Release</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-vpn-for-school-to-unblock-websites/"><u>Best VPN for School to Unblock Websites</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-gaming-speed-ultimate-tricks-for-enhancing-game-performance-on-pc/"><u>Boost Your Gaming Speed: Ultimate Tricks for Enhancing Game Performance on PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-performance-in-godfall-effective-tactics-to-improve-gameplay-speed/"><u>Boosting Performance in Godfall: Effective Tactics to Improve Gameplay Speed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/complete-guide-to-managing-web-cookies-across-multiple-browsers-on-your-windows-11-pc-chrome-firefox-opera-and-edge-included/"><u>Complete Guide to Managing Web Cookies Across Multiple Browsers on Your Windows 11 PC - Chrome, Firefox, Opera and Edge Included</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-entry-into-windows-11-advanced-boot-settings-a-step-by-step-tutorial/"><u>Effortless Entry Into Windows 11 Advanced Boot Settings - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808204279-effortless-guide-activate-vpn-protection-on-xbox-one-for-secure-gaming-today/"><u>Effortless Guide: Activate VPN Protection on Xbox One for Secure Gaming Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808352435-fortnite-mastery-your-ultimate-beginners-tutorial-for-starting-the-game-on-a-pc/"><u>Fortnite Mastery: Your Ultimate Beginner's Tutorial for Starting the Game on a PC!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/freeloading-futures-with-ae-creative-tools-for-2024/"><u>Freeloading Futures with AE Creative Tools for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808143969-how-to-connect-an-xbox-one-controller-to-a-pc-2024-guide/"><u>How to Connect an Xbox One Controller to a PC — 2024 Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-f23-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo F23 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-nokia-105-classic-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Nokia 105 Classic Location | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-17-essential-steps-for-capturing-live-online-streams-for-2024/"><u>Navigating 17 Essential Steps for Capturing Live Online Streams for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-tab-a-2020-review/"><u>Samsung Galaxy Tab A (2020) Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-magic-of-ai-the-8-ways-it-merges-reality-and-illusions-seamlessly/"><u>Unveiling the Magic of AI: The 8 Ways It Merges Reality and Illusions Seamlessly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevating-selfies-to-artistic-levels-via-ios-11-features/"><u>2024 Approved Elevating Selfies to Artistic Levels via iOS 11 Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dealing-with-absent-wmvcoredll-effective-strategies-and-fixes/"><u>Dealing with Absent Wmvcore.dll: Effective Strategies and Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-meizu-21-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Meizu 21? Try These Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-lenovo-thinkphone-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Lenovo ThinkPhone to New Phone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-10-proplus-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 10 Pro+ 5G Phone without Google Account?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-creativity-with-chatgpt-tips-for-enhancing-content-and-artistic-endeavors/"><u>Maximizing Creativity with ChatGPT: Tips for Enhancing Content & Artistic Endeavors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-fundamental-differences-between-general-strong-ai-and-specific-purpose-weak-ai/"><u>The Fundamental Differences Between General (Strong) AI and Specific Purpose (Weak) AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-mechanisms-behind-successful-integration-understanding-7-gpt-4-enhanced-applications/"><u>The Mechanisms Behind Successful Integration: Understanding 7 GPT-4 Enhanced Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-world-of-ai-language-models-discovering-what-you-can-achieve-with-claude/"><u>The World of AI Language Models: Discovering What You Can Achieve with Claude</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-drawbacks-of-implementing-generative-ai-technology-in-chat-applications/"><u>Top 7 Drawbacks of Implementing Generative AI Technology in Chat Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/trading-tech-how-chatgpt-revolutionizes-crypto-investments/"><u>Trading Tech: How ChatGPT Revolutionizes Crypto Investments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-hp-computers-sound-malfunction-under-windows-11/"><u>Troubleshooting HP Computer's Sound Malfunction Under Windows 11</u></a></li>
 </ul></div>
 

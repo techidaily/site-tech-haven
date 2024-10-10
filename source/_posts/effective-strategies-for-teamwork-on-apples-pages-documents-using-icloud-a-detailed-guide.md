@@ -1,7 +1,7 @@
 ---
 title: "Effective Strategies for Teamwork on Apple's Pages Documents Using iCloud: A Detailed Guide"
-date: 2024-09-27T16:11:50.937Z
-updated: 2024-10-04T16:14:14.813Z
+date: 2024-10-04T20:55:12.096Z
+updated: 2024-10-09T22:13:38.506Z
 tags:
   - apple
 categories:
@@ -27,28 +27,28 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -70,10 +70,10 @@ Image: Jack Wallen
 ## Enable the Collaboration feature
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
@@ -93,10 +93,16 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
@@ -157,18 +163,19 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-optimize-your-instagram-post-with-music-stickers-for-2024/"><u>[Updated] How to Optimize Your Instagram Post with Music Stickers for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-soundcheck-summary/"><u>[Updated] SoundCheck Summary</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-kinemaster-edge-the-ultimate-transition-strategies/"><u>2024 Approved Kinemaster Edge The Ultimate Transition Strategies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comparing-m1-powered-laptops-to-videographers-needs/"><u>Comparing M1-Powered Laptops to Videographers' Needs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-leading-ai-command-hubs-on-the-web-the-ultimate-guide/"><u>Explore the Leading AI Command Hubs on the Web: The Ultimate Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/game-on-unlocking-full-potential-in-funimate-for-2024/"><u>Game On Unlocking Full Potential in Funimate for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-ai-mastery-the-critical-missteps-you-need-to-sidestep/"><u>Generative AI Mastery: The Critical Missteps You Need to Sidestep</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-artificial-intelligence-moderates-conversations-through-chatbot-oversight-consequences-for-end-users/"><u>How Artificial Intelligence Moderates Conversations Through Chatbot Oversight: Consequences for End-Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-poco-f5-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Poco F5 Pro 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-like-famebit-where-you-can-find-youtube-sponsorships-for-2024/"><u>Sites Like FameBit Where You Can Find YouTube Sponsorships for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-coding-how-artifice-intelligence-may-transform-the-software-development-process/"><u>The Future of Coding: How Artifice Intelligence May Transform the Software Development Process</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-leading-10-clock-apps-to-time-your-wedding-ceremony-for-2024/"><u>The Leading 10 Clock Apps to Time Your Wedding Ceremony for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-pathway-to-a-fresh-online-persona-renaming-procedures-for-facebook/"><u>The Pathway to a Fresh Online Persona: Renaming Procedures for Facebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-beginners-pathway-to-livestreaming-on-facebook-and-mobile-devices/"><u>[New] 2024 Approved Beginner's Pathway to Livestreaming on Facebook and Mobile Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-daily-life-on-facebook-a-step-by-step-guide/"><u>[New] Navigating Daily Life on Facebook A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-youtube-to-mpeg-compression-guide/"><u>2024 Approved Expert Advice YouTube to MPEG Compression Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-securing-your-stake-in-youtubes-financial-future/"><u>2024 Approved Securing Your Stake in YouTube's Financial Future</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/2024s-highest-ranking-tablets-unveiled-in-depth-expert-assessments-and-evaluations/"><u>2024'S Highest-Ranking Tablets Unveiled: In-Depth Expert Assessments and Evaluations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-pencil-showdown-is-the-new-version-2-superior-to-the-classic-pro-expert-insights/"><u>Apple Pencil Showdown: Is The New Version 2 Superior to The Classic Pro? | Expert Insights</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/discover-unique-content-in-our-customizable-flipbooks-at-flipbuildercom/"><u>Discover Unique Content in Our Customizable Flipbooks at FlipBuilder.com</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-apples-unconventional-choice-no-exclamation-marks-on-their-site-insights-revealed-zdnet/"><u>Discovering Apple's Unconventional Choice: No Exclamation Marks on Their Site - Insights Revealed | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-apples-new-ai-tech-announced-at-wwdc-falls-short-of-excitement-and-why-it-might-be-perfect-insights/"><u>How Apple's New AI Tech Announced at WWDC Falls Short of Excitement (And Why It Might Be Perfect) | Insights</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-zte-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your ZTE</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-magic-vs-2-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor Magic Vs 2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-startech-peripheral-driver-problems-for-windows-users-windows-1187/"><u>Resolving StarTech Peripheral Driver Problems for Windows Users (Windows 11/8/7)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-how-to-easily-download-and-install-the-latest-intel-optane-drives-support-on-windows/"><u>Step-by-Step Tutorial: How to Easily Download and Install the Latest Intel Optane Drives Support on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-truth-discover-how-long-your-apple-watchs-battery-really-lasts/"><u>Unveiling the Truth: Discover How Long Your Apple Watch's Battery Really Lasts</u></a></li>
 </ul></div>
 

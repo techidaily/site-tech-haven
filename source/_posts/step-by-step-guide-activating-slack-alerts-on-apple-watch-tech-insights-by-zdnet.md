@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating Slack Alerts on Apple Watch | Tech Insights by ZDNet"
-date: 2024-10-02T16:18:31.913Z
-updated: 2024-10-04T16:11:27.918Z
+date: 2024-10-03T23:54:17.805Z
+updated: 2024-10-09T17:39:39.612Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
@@ -55,10 +62,10 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
@@ -75,16 +82,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -125,10 +132,10 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
@@ -140,13 +147,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -187,21 +187,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-learn-how-to-directly-control-your-iphones-orientation/"><u>[New] In 2024, Learn How to Directly Control Your iPhone's Orientation</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-mastering-footage-select-best-gimbals-and-handhelds-guide/"><u>[New] Mastering Footage Select Best Gimbals & Handhelds Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-guide-setting-up-your-ps4-remote-play-on-android-devices-in-just-three-simple-steps/"><u>Effortless Guide: Setting Up Your PS4 Remote Play on Android Devices in Just Three Simple Steps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/eliminating-input-latency-effective-solutions-for-your-logiteche-mouse-woes/"><u>Eliminating Input Latency: Effective Solutions for Your Logiteche Mouse Woes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-system-speed-optimize-and-revitalize-windows-7/"><u>Enhance System Speed: Optimize and Revitalize Windows 7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-online-gaming-experience-by-reducing-lag-expert-advice-for-gamers/"><u>Enhance Your Online Gaming Experience by Reducing Lag: Expert Advice for Gamers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-advice-a-step-by-step-approach-to-deleting-software-in-windows-10/"><u>Expert Advice: A Step-by-Step Approach to Deleting Software in Windows 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-tips-for-masterminding-memelore-on-9gag/"><u>Expert Tips for Masterminding Memelore on 9GAG</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fortnite-unblocking-strategies-for-students-learn-how-here/"><u>Fortnite Unblocking Strategies for Students - Learn How Here</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-add-bluetooth-to-pc/"><u>How to Add Bluetooth to PC</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-ranked-5-ios-podcast-applications-you-must-download/"><u>In 2024, Ranked 5 iOS Podcast Applications You Must Download</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/introducing-the-new-microsoft-copilot-mobile-app-available-on-ios/"><u>Introducing the New Microsoft Copilot Mobile App: Available on iOS</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-create-video-with-ppt/"><u>New In 2024, Create Video With PPT</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-disappeared-wordles-on-phone-and-tablets/"><u>Revive Disappeared Wordles on Phone & Tablets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essentials-of-setting-up-pc-manager-on-windows-11/"><u>The Essentials of Setting Up PC Manager on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-5-tools-for-enhancing-web-videos/"><u>[Updated] Top 5 Tools for Enhancing Web Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hering-the-code-youtube-community-rules-explained/"><u>Deciphering the Code YouTube Community Rules Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-chatgpt-security-unveiling-six-key-risks-associated-with-openais-revolutionary-ai/"><u>Evaluating ChatGPT Security: Unveiling Six Key Risks Associated with OpenAI's Revolutionary AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-the-effectiveness-of-chatgpt-for-enhancing-imaginative-writing-pros-vs-cons/"><u>Evaluating the Effectiveness of ChatGPT for Enhancing Imaginative Writing: Pros vs Cons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-a-better-world-with-chatgpts-revolutionary-enhancements/"><u>Explore a Better World with ChatGPT's Revolutionary Enhancements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fantasy-meets-fact-innovations-by-ai/"><u>Fantasy Meets Fact: Innovations by AI</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-s23-ultra-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy S23 Ultra? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-the-art-of-attraction-8-proven-techniques-for-reel-success/"><u>Master the Art of Attraction 8 Proven Techniques for Reel Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-the-art-of-screenshot-and-video-edits-top-8-mobile-choices-for-2024/"><u>Master the Art of Screenshot and Video Edits – Top 8 Mobile Choices for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/one-stop-resource-for-apple-devices-detailed-manuals-specs-and-fixes-at-your-fingertps/"><u>One-Stop Resource for Apple Devices: Detailed Manuals, Specs and Fixes at Your Fingertps</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-your-online-presence-innovative-tracking-with-the-support-of-cookiebot/"><u>Revolutionize Your Online Presence: Innovative Tracking with the Support of Cookiebot</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secrets-to-professional-streams-selecting-from-the-best-9-filters/"><u>Secrets to Professional Streams Selecting From the Best 9 Filters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-the-key-of-youtube-aspect-ratios-for-success-for-2024/"><u>Understanding the Key of YouTube Aspect Ratios for Success for 2024</u></a></li>
 </ul></div>
 

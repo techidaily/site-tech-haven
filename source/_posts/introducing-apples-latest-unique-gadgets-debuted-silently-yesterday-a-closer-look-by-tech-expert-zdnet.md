@@ -1,7 +1,7 @@
 ---
 title: Introducing Apple’s Latest Unique Gadgets Debuted Silently Yesterday - A Closer Look by Tech Expert [ZDNet]
-date: 2024-10-01T16:27:59.432Z
-updated: 2024-10-04T16:25:15.508Z
+date: 2024-10-07T22:36:18.347Z
+updated: 2024-10-10T00:32:54.134Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What do I mean by my flow?
@@ -61,13 +61,6 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
@@ -88,6 +81,13 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -97,6 +97,13 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -114,6 +121,13 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Pocket-read-post-archive cycle
 
 I read. A lot. I need to keep up to date on a tremendous amount of information, both breaking news related and deep technical or academic information. As a result, a good percentage of my morning is spent reading. I also watch a lot of YouTube videos. I'm almost always learning about new stuff, and many YouTube videos provide great introductions to both how those things work and what they do. Without YouTube, I never would have [gotten my CNC up and running](https://www.zdnet.com/article/hands-on-building-the-next-generation-x-carve-cnc-build-log/) and done [my first successful build](https://www.zdnet.com/article/my-first-big-cnc-project-a-parts-organizer-rack/).
@@ -125,19 +139,6 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -190,13 +191,6 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -205,6 +199,13 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -241,13 +242,6 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -292,19 +286,17 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-economical-action-recording-next-level-performance-under-200/"><u>[New] Economical Action Recording - Next Level Performance Under $200</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-streamlining-your-projects-with-voice-over-integration/"><u>[New] Streamlining Your Projects with Voice Over Integration</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-universal-guide-hulu-recording-on-pc-apple-ios-and-android/"><u>[Updated] 2024 Approved Universal Guide Hulu Recording on PC, Apple, iOS & Android</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-goes-mobile-access-ai-conversations-anytime-anywhere-via-ios-app/"><u>ChatGPT Goes Mobile: Access AI Conversations Anytime, Anywhere via iOS App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-and-rectifying-6-predominant-chatgpt-errors/"><u>Decoding and Rectifying 6 Predominant ChatGPT Errors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dialogues-with-bots-mimicking-human-interaction/"><u>Dialogues with Bots: Mimicking Human Interaction</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-low-sound-output-expert-fixes-for-windows-11-system-volume-problems/"><u>Enhance Low Sound Output: Expert Fixes for Windows 11 System Volume Problems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-for-getting-your-aliennware-command-center-up-and-running-again/"><u>Expert Tips for Getting Your Aliennware Command Center Up and Running Again</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-enroll-and-utilize-microsofts-ai-enhanced-bing-search-platform/"><u>Guide: Enroll and Utilize Microsoft's AI-Enhanced Bing Search Platform</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6s-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6s Plus without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v29-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V29 Pro to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-the-ultimate-tutorial-on-designing-dynamic-facebook-slides/"><u>In 2024, The Ultimate Tutorial on Designing Dynamic Facebook Slides</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-workflow-discover-7-effective-ways-to-utilize-chatgpt-for-superior-productivity-gains/"><u>Transform Your Workflow: Discover 7 Effective Ways to Utilize ChatGPT for Superior Productivity Gains</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-chatgpts-potential-with-jailbreak-tools-pros-and-cons/"><u>Unlocking ChatGPT's Potential with Jailbreak Tools: Pros and Cons</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decision-making-in-the-workplace-a-neurological-approach-to-efficacy-and-ethics/"><u>[New] In 2024, Decision-Making in the Workplace A Neurological Approach to Efficacy and Ethics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-pazeras-audio-extraction-mastery-in-the-2024-landscape/"><u>[New] Pazera's Audio Extraction Mastery in the 2024 Landscape</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-creme-de-la-creme-of-vr-development-talent/"><u>[Updated] The Crème De La Crème of VR Development Talent</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-creative-potential-with-xps-movie-creation-toolkit/"><u>[Updated] Unlock Creative Potential with XP’s Movie Creation Toolkit</u></a></li>
+<li><a href="https://win-able.techidaily.com/202/"><u>「無料で「202지」스팸킹뱅어컷 동영상 다운로드ガイド」</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-utilizing-open-source-for-broadcasting-workshops/"><u>2024 Approved Utilizing Open-Source for Broadcasting Workshops</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-vlc-guide-setting-up-screen-recordings/"><u>In 2024, VLC Guide Setting Up Screen Recordings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-there-a-drop-in-intelligence-for-chatgpt-a-closer-look-with-inputs-from-openai/"><u>Is There a Drop in Intelligence for ChatGPT? A Closer Look with Inputs From OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-highlighting-your-custom-gpt-techniques-with-gpt-references-in-chatgpt-dialogues/"><u>Mastering the Art of Highlighting Your Custom GPT: Techniques with GPT References in ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-chatgpt-potential-in-windows/"><u>Maximize ChatGPT Potential in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-efficiency-10-unbeatable-strategies-to-work-with-chatgpt-in-vs-code/"><u>Maximize Efficiency: 10 Unbeatable Strategies to Work with ChatGPT in VS Code</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/tips-and-tricks-optimizing-your-obs-output-on-fb/"><u>Tips and Tricks Optimizing Your OBS Output on FB</u></a></li>
 </ul></div>
 

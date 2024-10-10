@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Doc Handling with Craft on macOS – Expert Tips & Tricks Unveiled
-date: 2024-09-27T16:23:34.839Z
-updated: 2024-10-04T16:23:12.405Z
+date: 2024-10-08T19:14:58.804Z
+updated: 2024-10-09T21:24:56.932Z
 tags:
   - apple
 categories:
@@ -36,16 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -69,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -86,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,22 +134,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-asian-themed-mini-mansions-for-creative-builders/"><u>[New] In 2024, Asian Themed Mini Mansions for Creative Builders</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-cutting-through-hype-8-best-free-srt-tools-exposed/"><u>[New] In 2024, Cutting Through Hype 8 Best Free SRT Tools Exposed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-metaverse-maps-drawn-understanding-through-6-vivid-scenarios/"><u>[New] Metaverse Maps Drawn Understanding Through 6 Vivid Scenarios</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ezvid-video-recorder-review-for-2024/"><u>[Updated] Ezvid Video Recorder Review for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-innovative-8-upgrades-for-webcam-video-quality/"><u>2024 Approved Innovative 8 Upgrades for Webcam Video Quality</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-oneplus-12r-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked OnePlus 12R Phone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/awaiting-chatgpt-on-your-pc-discover-a-superior-free-and-open-source-substitute-today/"><u>Awaiting ChatGPT on Your PC? Discover a Superior Free and Open-Source Substitute Today!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-ios-vs-website-the-6-compelling-reasons-to-choose-mobile-accessibility/"><u>ChatGPT iOS Vs. Website: The 6 Compelling Reasons to Choose Mobile Accessibility</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-newly-introduced-grok-ai-by-elon-musk-capabilities-and-investment-needed/"><u>Exploring the Newly Introduced Grok AI by Elon Musk – Capabilities and Investment Needed</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-asus-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Asus?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leading-6-goliaths-mammoth-nlp-marvels-ranked/"><u>Leading 6 Goliaths: Mammoth NLP Marvels Ranked</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-efficiency-why-claude-should-be-at-the-forefront-of-your-tech/"><u>Mastering Efficiency: Why Claude Should Be at the Forefront of Your Tech</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-boundaries-of-nlp-and-ml-research/"><u>Navigating the Boundaries of NLP & ML Research</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/plot-perfection-the-top-9-ways-chatgpt-helps-novelists/"><u>Plot Perfection: The Top 9 Ways ChatGPT Helps Novelists</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/should-you-use-etiquette-with-chatgpt-and-virtual-assistants/"><u>Should You Use Etiquette With ChatGPT and Virtual Assistants?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-comprehensive-tutorial-on-assessing-monthly-bandwidth-expenditure/"><u>The Comprehensive Tutorial on Assessing Monthly Bandwidth Expenditure</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-recordingrealm-expedition-unveiling-snapcastpro-2023/"><u>[New] RecordingRealm Expedition Unveiling 'SnapCastPro' 2023</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-find-x6-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo Find X6 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-tips-of-making-music-video-on-iphone/"><u>2024 Approved Tips of Making Music Video on iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-expands-educational-outreach-with-massive-ai-training-initiative-for-alumni-and-student-body-latest-developments/"><u>Apple Expands Educational Outreach with Massive AI Training Initiative for Alumni and Student Body | Latest Developments</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-halts-distribution-of-new-ios-beta-after-users-report-phone-malfunctions-digital-digest/"><u>Apple Halts Distribution of New iOS Beta After Users Report Phone Malfunctions - Digital Digest</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-m3-macbook-air-unveiled-the-ultimate-accessible-ai-powered-laptop-experience/"><u>Apple M3 MacBook Air Unveiled: The Ultimate Accessible AI-Powered Laptop Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-latest-features-top-5-must-see-updates-in-the-ios-18-developer-preview-insights-from-zdnet/"><u>Explore the Latest Features: Top 5 Must-See Updates in the iOS 18 Developer Preview - Insights From ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-realme-gt-5-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Realme GT 5 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-future-of-audio-extraction-with-pazera-tools-analysis/"><u>In 2024, The Future of Audio Extraction with Pazera Tools Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/power-up-and-stay-cool-the-all-in-one-magsafe-dock-for-iphone-ipad-mac/"><u>Power Up and Stay Cool: The All-in-One MagSafe Dock for iPhone, iPad, Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/rapid-rhythmic-revision-software-roundup-mobiledesktop/"><u>Rapid Rhythmic Revision Software Roundup (Mobile/Desktop)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/stitching-an-innovative-tiktok-closing-credits/"><u>Stitching An Innovative TikTok Closing Credits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-discounts-on-amazon-in-september-2024-find-your-must-have-items-at-unbeatable-prices/"><u>Top Discounts on Amazon in September 2024 - Find Your Must-Have Items at Unbeatable Prices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-from-footage-to-film-the-best-software-for-burning-home-dvds-for-2024/"><u>Updated From Footage to Film The Best Software for Burning Home DVDs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-operational-ancestry-assessment/"><u>Windows Operational Ancestry Assessment</u></a></li>
 </ul></div>
 

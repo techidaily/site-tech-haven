@@ -1,7 +1,7 @@
 ---
 title: Top 7 Tips for Optimizing UI/UX on Apple's VisionOS - Insights From ZDNet
-date: 2024-09-28T16:30:59.773Z
-updated: 2024-10-04T16:04:14.236Z
+date: 2024-10-04T16:17:00.833Z
+updated: 2024-10-09T21:29:55.859Z
 tags:
   - apple
 categories:
@@ -52,13 +52,6 @@ That way, they're not suddenly dropped into a whole new world, but they can slow
 
 **Also: [Two breakthroughs made 2023 tech's most innovative year in over a decade](https://www.zdnet.com/article/two-breakthroughs-made-2023-techs-most-innovative-year-in-over-a-decade/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2\. Identify your key moments
 
 Let's say you're a developer who has an existing app for the iPad. Let's say you want to bring said iPad app into VisionOS. The iPad app, by its nature, is flat and rectangular. But VisionOS allows users to see all around. Is there anything in your app that clearly lends itself to VRification? 
@@ -70,10 +63,10 @@ Apple uses its Photos app as an example. A key moment for Apple's Photos app mig
 In a writing app, VRification might involve going from a typical windowed user interface for most writing to a focus mode that shuts out the outside world and lets your users concentrate, by providing a calming background and perhaps some calming music. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3\. Adjust UI elements to accommodate the new environment
@@ -84,18 +77,18 @@ Some UI elements translate directly from iPadOS to VisionOS, but others aren't a
 
 One area to pay particular attention to is when you use hover effects. When you hover over a button in a flat UI, you just need to see some highlighting. But when you hover over -- or in front of -- something in VR space, you've got the entire room to work in. So pay attention to how things look and feel, and try to avoid inducing vertigo by rapidly moving objects and buttons. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Utilize grid systems where appropriate
 
 Apple says that apps designed with the [iPadOS grid system](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios) will translate very nicely to the Vision Pro. The grid works well for designing windows. Point sizes translate well from the iPad to Vision Pro. 
 
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  5\. Incorporate sound design strategically
 
@@ -108,10 +101,10 @@ To that end, even if you're building a non-entertainment app that would normally
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  6\. Focus on key details, but don't overwhelm
@@ -119,6 +112,13 @@ And while you're at it, allow your users to control the sound, setting its volum
 Apple recommends always rendering a ground plane so users feel grounded. If you're putting someone inside a theatre, provide key details (like a stage, lighting, and curtains), but don't get carried away trying to reproduce the cola stains in the carpet or that unique crackle that comes from walking over scraps of petrified popcorn. If you're rendering an outdoor landscape, show slowly moving clouds but keep things subtle. 
 
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
 
@@ -167,22 +167,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-netflix-archive-the-complete-guide-to-screencapturing-your-views-for-2024/"><u>[New] Netflix Archive The Complete Guide to ScreenCapturing Your Views for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-smooth-shifts-audio-transition-wisdom-from-sonar-by-platinum/"><u>[Updated] 2024 Approved Smooth Shifts Audio Transition Wisdom From Sonar by Platinum</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-budget-devices-superior-obs-setup-guide/"><u>[Updated] In 2024, Budget Devices - Superior OBS Setup Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-mastering-script-structuring/"><u>[Updated] Mastering Script Structuring</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-upholders-of-popularity-the-10-most-loved-reddit-stories/"><u>2024 Approved Upholders of Popularity The 10 Most Loved Reddit Stories</u></a></li>
-<li><a href="https://facebook.techidaily.com/disconnecting-from-facebook-android-instructions/"><u>Disconnecting From Facebook (Android) Instructions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-ahead-in-your-career-with-chatgpt-discover-10-effective-approaches-to-land-a-linkedin-role/"><u>Get Ahead in Your Career with ChatGPT: Discover 10 Effective Approaches to Land a LinkedIn Role</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-no-response-issues-with-hp-printers/"><u>Overcoming No Response Issues with HP Printers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-breakdown-of-usb-selective-suspend-for-tech-enthusiasts/"><u>The Ultimate Breakdown of USB Selective Suspend for Tech Enthusiasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-accessing-windows-10-recovery-options-menu-successfully/"><u>The Ultimate Guide to Accessing Windows 10 Recovery Options Menu Successfully</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-how-to-seamlessly-connect-your-logitee-keyboard-device/"><u>The Ultimate How-To: Seamlessly Connect Your Logitee Keyboard Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-guide-resolving-drag-and-drop-issues-in-windows/"><u>Troubleshooting Guide: Resolving Drag & Drop Issues in Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-setting-up-two-screens-with-windows-10/"><u>Ultimate Guide: Setting Up Two Screens with Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-the-secrets-of-easily-identifying-bios-version-for-windows-11-users/"><u>Unlock the Secrets of Easily Identifying BIOS Version for Windows 11 Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-dvd-content-with-handbrake-a-guide-to-downloading-and-using-libdvdcss/"><u>Unlocking DVD Content with Handbrake - A Guide to Downloading and Using Libdvdcss</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-11-and-tor-browser-a-dynamic-duo-for-enhanced-internet-anonymity/"><u>Windows 11 and Tor Browser: A Dynamic Duo for Enhanced Internet Anonymity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-cannot-be-installed-to-this-disk-but-to-gpt-disks-solved/"><u>Windows Cannot Be Installed to This Disk, but to GPT Disks [Solved]</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-no-network-interface-for-wireless-in-windows-10/"><u>[FIXED] No Network Interface for Wireless in Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-ajeys-youtube-earnings-insight-2023/"><u>[New] In 2024, Ajey's YouTube Earnings Insight - 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-to-master-gratuitous-timer-software/"><u>[New] Step-by-Step Guide to Master Gratuitous Timer Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-premier-livestream-networks/"><u>[New] Unveiling the Premier Livestream Networks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-sincere-evaluation-of-a-digital-audio-player/"><u>[Updated] In 2024, The Sincere Evaluation of a Digital Audio Player</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-youtube-makeup-gurus-for-stunning-looks/"><u>[Updated] Top 10 YouTube Makeup Gurus for Stunning Looks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-joke-makers-and-tech-timeline-from-portable-pcs-to-virtual-private-networks/"><u>AI Joke-Makers and Tech Timeline: From Portable PCs to Virtual Private Networks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-chatgpt-on-macos-insights-into-app-store-alternatives-and-better-options-for-developers/"><u>Avoiding ChatGPT on macOS – Insights Into App Store Alternatives and Better Options for Developers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-your-bot-be-compromised-exploring-the-dangers-of-neural-network-reconstruction/"><u>Can Your Bot Be Compromised? Exploring the Dangers of Neural Network Reconstruction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-conversational-techniques-and-human-simulation/"><u>Chatbot Conversational Techniques and Human Simulation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/exploring-magix-pixel-mastery-review/"><u>Exploring MAGIX Pixel Mastery Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-nokia-g22-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nokia G22 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/live-streaming-made-easy-discover-manycam-the-ultimate-virtual-camera-and-recording-tool/"><u>Live Streaming Made Easy: Discover ManyCam, the Ultimate Virtual Camera and Recording Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721975423848-the-hidden-drawbacks-of-relying-on-ai-chatbots-for-content-creation-discover-the-top-8-reasons-to-be-cautious/"><u>The Hidden Drawbacks of Relying on AI Chatbots for Content Creation - Discover the Top 8 Reasons to Be Cautious</u></a></li>
 </ul></div>
 

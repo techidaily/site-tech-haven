@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Features of IOS 16 for iPhones: Mastering Your Device's New Lock Screen Functionality"
-date: 2024-10-01T16:07:15.045Z
-updated: 2024-10-04T16:03:35.487Z
+date: 2024-10-07T18:21:20.959Z
+updated: 2024-10-09T17:42:39.373Z
 tags:
   - apple
 categories:
@@ -29,13 +29,6 @@ You'll find the necessary setting in the Control Center section of your Settings
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open your Settings app and find "Control Center"
 
 Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https://www.zdnet.com/article/apple-launches-ios-14-aims-for-siri-overhaul-better-app-organization/), but you'll need to enable it before you can use it. To do this, open your Settings app and find Control Center (as seen above in the red rectangle).
@@ -53,13 +46,6 @@ Depending on how many controls you have active, you may need to scroll down a bi
 This is the screen recording button we'll use to start the recording. 
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Open your Control Center
 
@@ -82,16 +68,10 @@ Your clock will look like this as long as Screen Recording is active.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 5: Record
@@ -102,6 +82,13 @@ This is the confirmation box that will appear when you stop your recording.
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. End your recording
 
 When you're ready to end your recording, there are two ways to stop it. The first is to tap the red clock in the top left of your screen. This will produce a dialogue box like the one seen above. You'll need to tap "Stop" to end your recording. If you're in a full-screen app that hides the clock, you can also once again pull out your Control Center and tap the Screen Recording button. If you use this second method, the recording will end immediately, with no confirmation required. 
@@ -110,6 +97,13 @@ In both cases, the recording you just produced will immediately be saved to your
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ## What does the Screen Recording app actually capture?
@@ -117,10 +111,10 @@ In both cases, the recording you just produced will immediately be saved to your
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
@@ -167,20 +161,18 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-optimal-strategies-for-mobile-snapchat-recordings-for-2024/"><u>[New] Optimal Strategies for Mobile Snapchat Recordings for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-prime-skills-for-quiet-visual-capture/"><u>[New] Prime Skills for Quiet Visual Capture</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-steps-to-record-your-gameplay-on-a-nintendo-switch/"><u>[Updated] In 2024, Steps to Record Your Gameplay on a Nintendo Switch</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-classroom-aid-selecting-effective-recorders/"><u>2024 Approved Classroom Aid Selecting Effective Recorders</u></a></li>
-<li><a href="https://games-able.techidaily.com/disassembling-new-controller-firmware-on-series-xs/"><u>Disassembling New Controller Firmware on Series X/S</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808121034-hp-drivers-for-windows-10-download-easily/"><u>HP Drivers for Windows 10. Download Easily！</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-y55s-5g-2023-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo Y55s 5G (2023) FRP</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/rediscovered-passion-for-communication-through-multilingualism-in-fifties/"><u>Rediscovered Passion for Communication Through Multilingualism in Fifties</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-how-to-monitor-and-manage-cpu-heat-levels-on-windows-11-systems/"><u>Step-by-Step Tutorial: How to Monitor and Manage CPU Heat Levels on Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-restore-lost-ethernet-signal-win/"><u>Steps to Restore Lost Ethernet Signal Win</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/top-10-youtube-video-grabber-apps-best-in-class-compatibility/"><u>Top 10 YouTube Video Grabber Apps, Best-in-Class Compatibility</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshoot-and-fix-how-to-restore-your-logitech-k520-keyboards-functionality-swiftly/"><u>Troubleshoot & Fix: How to Restore Your Logitech K520 Keyboard's Functionality Swiftly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723807921534-ultimate-tutorial-to-get-and-run-kodi-on-your-xbox-one-easy-steps-inside/"><u>Ultimate Tutorial to Get and Run Kodi on Your Xbox One - Easy Steps Inside</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/use-ps4-controller-on-steam-tutorial/"><u>Use PS4 Controller on Steam [Tutorial]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-10-blocks-desktop-programs-win32-apps-points-to-windows-store/"><u>Windows 10 Blocks Desktop Programs (Win32 Apps), Points to Windows Store</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-guide-to-masterful-snapchat-editing-for-2024/"><u>[New] Step-by-Step Guide to Masterful Snapchat Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-ascension-from-a-niche-channel-to-million-sub-haven/"><u>[New] Youtube Ascension From a Niche Channel to Million-Sub Haven</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-webinars-in-written-form/"><u>[Updated] 2024 Approved Webinars in Written Form</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/developer-decisions-github-copilot-versus-chatgpt-prospects/"><u>Developer Decisions: GitHub Copilot Versus ChatGPT Prospects</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/easy-access-to-expert-tech-insights/"><u>Easy Access to Expert Tech Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-claude-2-understanding-its-functions-and-applications/"><u>Mastering Claude 2: Understanding Its Functions & Applications</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-b-roll-creative-uses-and-integration-for-2024/"><u>Maximizing B-Roll Creative Uses and Integration for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-gpt-freedom-for-pc-enthusiasts/"><u>Maximizing GPT Freedom for PC Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/nine-futuristic-approaches-to-content-crafting-via-ai/"><u>Nine Futuristic Approaches to Content Crafting via AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimize-workflows-discover-the-power-of-combining-chatgpt-and-wolfram-in-three-simple-steps/"><u>Optimize Workflows: Discover the Power of Combining ChatGPT & Wolfram in Three Simple Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/remote-success-leverage-chatgpts-power-in-these-6-ways/"><u>Remote Success: Leverage ChatGPT's Power in These 6 Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-tecno-pova-5-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Tecno Pova 5 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/spotting-sham-copycat-language-models-in-apples-app-store/"><u>Spotting Sham Copycat Language Models in Apple's App Store</u></a></li>
 </ul></div>
 

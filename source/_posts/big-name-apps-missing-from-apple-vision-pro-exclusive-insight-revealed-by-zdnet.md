@@ -1,7 +1,7 @@
 ---
 title: "Big Name Apps Missing From Apple Vision Pro: Exclusive Insight Revealed by ZDNet"
-date: 2024-09-28T16:47:37.042Z
-updated: 2024-10-04T16:48:15.830Z
+date: 2024-10-03T22:59:10.636Z
+updated: 2024-10-09T16:18:42.548Z
 tags:
   - apple
 categories:
@@ -50,13 +50,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Keyboard passthrough
 
 Working in any of the virtual environments (I prefer Mount Hood) is great, but the immersive environment occludes my keyboard. The Digital Crown allows users to open the side view of the virtual space, but the center is still blocked. 
@@ -73,6 +66,13 @@ That precludes using the Vision Pro's mirror-to-Apple TV feature to help a perso
 
 Look, I get the whole piracy thing. But limiting even a single screenshot is overkill. Apple, please fix this. It makes it much harder to help you sell your products. Shutting down the ability to mirror any Apple TV+ content from the Vision Pro to the Apple TV is baffling. I, for example, subscribe to the Apple One Premier plan, which allows us to use Family Sharing to share among up to five people. So why is Apple blocking this capability on the Vision Pro? 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. More native spatial apps
 
 Apple still ships Books, Calendar, Clock, Home, Maps, Podcasts, Reminders, Shortcuts, Stocks, and Voice Memos in the Compatibility Mode folder. While some of these, like Podcasts, won't benefit much from spatial conversion, others will. Maps, for example, would be the obvious beneficiary of a spatial upgrade, since the app itself tries to present 3D projections on a 2D screen. 
@@ -80,6 +80,13 @@ Apple still ships Books, Calendar, Clock, Home, Maps, Podcasts, Reminders, Short
 **Also: [Apple to give Control Center its most useful customization feature ever with iOS 18](https://www.zdnet.com/article/apple-to-give-control-center-its-most-useful-customization-feature-ever-with-ios-18/)**
 
 But I also think it might be nice to have some clocks you could actually place in mixed reality or a calendar you could hang on the wall. And where could Books go if the interactive features that are already so great in Books could be extended to a fully 3D world? Oh, the stories we could show and tell! 
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. More environments and third-party environments
 
@@ -99,6 +106,13 @@ There's more flexibility on the Quest 3\. Using a [fairly dangerous optional set
 
 Maybe, with VisionOS 2.0, Apple will allow for some flexibility in play space boundary size. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. VR controller support
 
 While I wouldn't say that the Quest experience beats the Apple Vision Pro experience, some things just work better on the [Quest 3](https://www.zdnet.com/article/zdnet-2023-product-of-the-year-meta-quest-3/). Key to this is the fact that the Quest 3 has controllers, and the Vision Pro relies entirely on hand gestures. It's time for the Vision Pro to add controller support. 
@@ -111,25 +125,11 @@ This situation was also apparent in [the Marvel What…If? immersive experience]
 
 Most likely, Apple will someday introduce its own controllers, if only to meet some special purpose large-scale enterprise need. But given that Meta has added support for Apple's spatial videos to the Quest 3, it seems only fair for Apple to add support for Quest controllers. I haven't found Quest 3 controllers available separately, but [since the Quest 2 is only $199](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOculus-Quest-Advanced-All-One-Virtual%2Fdp%2FB099VMT8VZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc38e9c1f-6415-47cc-be35-e1ce57791800%7Cdtp&dtb=1), folks could buy it and get the Quest 2 controllers. Hey, at $199, it's the same price as a [spare Vision Pro battery](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW283LL%2FA%2Fapple-vision-pro-battery&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) or [Vision Pro carrying case](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW2F3LL%2FA%2Fapple-vision-pro-travel-case&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  9\. Better and more accurate hand and eye tracking
 
 While many reviewers have described the Vision Pro's hand and eye tracking as "magical," I've found eye tracking so difficult I had to [replace it with wrist tracking using accessibility mode](https://www.zdnet.com/article/i-found-apple-vision-pro-unusable-at-first-but-then-i-fixed-it-heres-how/). As I mentioned above, some hand-tracking latency seems to disrupt game play, and I've found that the Vision Pro has difficulty recognizing hand tracking at the very edge or bottom of the visible screen. 
 
 This needs to improve, and I hope to see an upgrade in VisionOS 2.0\. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  10\. Find My support
 
@@ -142,10 +142,10 @@ Even cooler would be a heads-up display version of Find My that puts an arrow in
 Wow, those things are creepy. We need to get them out of the uncanny valley. 'Nuff said. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Looking forward to VisionOS 2.0
@@ -186,22 +186,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-pinnacle-creations-summary-studio-25-detailed-assessment-2023/"><u>[New] 2024 Approved Pinnacle Creations Summary Studio 25 Detailed Assessment, 2023</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-become-a-periscope-expert-with-our-full-guide/"><u>[New] Become a Periscope Expert with Our Full Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-achieving-top-quality-on-youtube-video-enhancement-fundamentals-for-2024/"><u>[Updated] Achieving Top Quality on YouTube Video Enhancement Fundamentals for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-the-power-of-hdr-an-advanced-guide-to-ps/"><u>[Updated] Harnessing the Power of HDR An Advanced Guide to PS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-video-testimonials-shape-perception-and-trust/"><u>[Updated] How Video Testimonials Shape Perception and Trust</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-crafting-engaging-visuals-after-effects-best-10-text-plans/"><u>2024 Approved Crafting Engaging Visuals After Effect's Best 10 Text Plans</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-an-impressive-resume-with-chatgpt-a-step-by-step-guide/"><u>Crafting an Impressive Resume with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-stellar-resumes-tips-and-techniques-chatgpt/"><u>Crafting Stellar Resumes: Tips and Techniques (ChatGPT)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/does-chatgpt-compromise-our-privacy/"><u>Does ChatGPT Compromise Our Privacy?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-xiaomi-redmi-note-12-4g-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Xiaomi Redmi Note 12 4G’s lock screen pattern, PIN or password</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/implementing-advanced-ai-access-our-selection-of-8-ready-made-gpt-solutions/"><u>Implementing Advanced AI: Access Our Selection of 8 Ready-Made GPT Solutions</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-dissecting-revenue-allocation-for-shortform-content-makers/"><u>In 2024, Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/messaging-and-ai-exploring-the-reasons-why-generative-technology-might-not-be-ideal/"><u>Messaging and AI: Exploring the Reasons Why Generative Technology Might Not Be Ideal</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamlining-office-tasks-with-chatgpt-a-guide-to-3-powerful-excel-techniques/"><u>Streamlining Office Tasks with ChatGPT: A Guide to 3 Powerful Excel Techniques</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-generative-ai-an-in-depth-exploration/"><u>Understanding Generative AI: An In-Depth Exploration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-creative-writing-potential-through-advanced-ai-tools-by-hix-and-gpt-4/"><u>Unleash Creative Writing Potential Through Advanced AI Tools by HIX & GPT-4</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-boosting-brand-exposure-through-box/"><u>[New] 2024 Approved Boosting Brand Exposure Through Box</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-examination-of-srts-key-features/"><u>[New] Comprehensive Examination of SRT's Key Features</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-secure-your-content-copyright-checks-before-tiktok-sharing/"><u>[Updated] In 2024, Secure Your Content Copyright Checks Before TikTok Sharing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voicy/"><u>「Voicyでのライブストリーミング音声配信を保存する方法解説」</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-honor-magic-6-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Honor Magic 6 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-huawei-p60-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Huawei P60 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/pioneering-platform-potential-the-10-most-effective-igtv-strategies-for-brands-for-2024/"><u>Pioneering Platform Potential The 10 Most Effective IGTV Strategies for Brands for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-unrecognized-hardware-error-compatibility-fixes-for-your-device/"><u>Resolve 'Unrecognized Hardware' Error - Compatibility Fixes for Your Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-iphone-camera-adjustment-guide-for-2024/"><u>Step-by-Step iPhone Camera Adjustment Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-installing-and-activating-elementum-addon-on-nexus-matrix-and-kodi-devices/"><u>Step-by-Step Tutorial for Installing and Activating Elementum Addon on Nexus, Matrix & Kodi Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-transforming-wma-files-into-high-quality-m4a-format-on-pc-without-costs/"><u>Step-by-Step Tutorial: Transforming WMA Files Into High-Quality M4A Format on PC Without Costs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-12-free-and-reliable-anime-extensions-for-kodi-v20v19-install-without-a-sub/"><u>Top 12 Free & Reliable Anime Extensions for Kodi V20/V19: Install Without a Sub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-3-free-techniques-to-downloading-your-brightcove-content/"><u>Top 3 FREE Techniques to Downloading Your Brightcove Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-flac-to-mp3wav-converter-choose-the-perfect-audio-format-solution/"><u>Top-Rated FLAC to MP3/WAV Converter: Choose the Perfect Audio Format Solution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-adding-and-playing-videos-within-google-slide-decks/"><u>Ultimate Tutorial: Adding and Playing Videos Within Google Slide Decks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-gifv-the-ultimate-guide-to-converting-gifv-files-into-classic-gif-format/"><u>Understanding GIFV - The Ultimate Guide to Converting GIFV Files Into Classic GIF Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-editing-skills-with-mpeg-video-converter-factory-pro-essential-tips-and-tricks/"><u>Unleash Your Editing Skills with MPEG Video Converter Factory Pro: Essential Tips & Tricks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-vn-video-editor-for-pc-a-brief-review/"><u>Updated VN Video Editor For PC - A Brief Review</u></a></li>
 </ul></div>
 

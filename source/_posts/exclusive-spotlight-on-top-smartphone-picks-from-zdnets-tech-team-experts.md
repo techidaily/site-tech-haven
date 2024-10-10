@@ -1,7 +1,7 @@
 ---
 title: Exclusive Spotlight on Top Smartphone Picks From ZDNet's Tech Team Experts
-date: 2024-09-27T16:39:04.957Z
-updated: 2024-10-04T16:33:41.112Z
+date: 2024-10-07T22:16:22.915Z
+updated: 2024-10-09T20:52:35.077Z
 tags:
   - apple
 categories:
@@ -60,25 +60,11 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -134,6 +120,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -149,10 +142,10 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -167,21 +160,22 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -218,24 +212,18 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/fixed-teams-camera-not-working-on-windows-11107/"><u>[FIXED] Teams Camera Not Working on Windows 11/10/7</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-path-to-professional-presence-youtube-tips-and-tricks/"><u>[New] The Path to Professional Presence YouTube Tips & Tricks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-comic-crafting-on-apple-devices/"><u>[Updated] Comic Crafting on Apple Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-quick-paths-to-influence-for-2024/"><u>[Updated] Mastering Instagram Quick Paths to Influence for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-debut-visual-capturing-analysis/"><u>2024 Approved Debut Visual Capturing Analysis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/windows-11dvd-mp4-avi-wmv/"><u>玩家最愛: Windows 11免费转换三大DVD格式 MP4 AVI WMV | 优秀自由转码器</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/elevate-your-engagement-select-8-social-apps-for-facebook-fame-for-2024/"><u>Elevate Your Engagement Select 8 Social Apps for Facebook Fame for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/extending-your-screen-space-dual-monitor-setup-with-just-a-laptop/"><u>Extending Your Screen Space: Dual-Monitor Setup with Just a Laptop</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/far-cry-5-system-requirements-pro-tips/"><u>Far Cry 5 System Requirements [Pro Tips]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fixing-the-windows-10-kb-error-code-0x80070422-a-comprehensive-solution/"><u>Fixing the Windows 10 KB Error Code 0X80070422: A Comprehensive Solution</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/get-your-logitech-mouse-working-on-windows-11-step-by-step-solutions/"><u>Get Your Logitech Mouse Working on Windows 11: Step-by-Step Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/hitch-free-way-to-upgrade-video-drivers-on-windows-10/"><u>Hitch Free Way to Upgrade Video Drivers on Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-find-computer-specs-windows-11-easily/"><u>How to Find Computer Specs Windows 11 [Easily]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-fix-persistent-edit-delay-in-fortnite-proven-strategies-and-tips/"><u>How to Fix Persistent Edit Delay in Fortnite: Proven Strategies & Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-fix-your-pc-by-reverting-amd-graphics-drivers-on-windows/"><u>How to Fix Your PC by Reverting AMD Graphics Drivers on Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Samsung Galaxy XCover 6 Pro Tactical Edition to iPad | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-mastering-facebook-vids-the-top-20-marketing-hacks/"><u>In 2024, Mastering Facebook Vids The Top 20 Marketing Hacks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/silent-swords-righteous-battles-the-next-top-gaming-list/"><u>Silent Swords, Righteous Battles The Next Top Gaming List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-galaxy-s8-review-a-leap-forward-with-4k-display/"><u>[New] Galaxy S8 Review - A Leap Forward with 4K Display</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-recruiting-revolutionaries-10-most-motivational-episodes/"><u>[Updated] Recruiting Revolutionaries - 10 Most Motivational Episodes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snapcutsolution-examination-extensive-review/"><u>2024 Approved SnapCutSolution Examination – Extensive Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-ai-like-chatgpt-assist-with-solving-math-problems-efficiently/"><u>Can AI Like ChatGPT Assist with Solving Math Problems Efficiently?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-gaming-unite-your-guide-to-the-6-greatest-plays/"><u>ChatGPT and Gaming Unite: Your Guide to the 6 Greatest Plays</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-wit-analyzing-artificial-intelligences-capacity-for-crafting-humorful-content/"><u>ChatGPT and Wit: Analyzing Artificial Intelligence's Capacity for Crafting Humorful Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-blocked-here-are-4-explanations-and-fixes-to-regain-access/"><u>ChatGPT Blocked – Here Are 4 Explanations and Fixes to Regain Access!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-how-much-of-a-threat-does-it-pose-to-your-online-privacy/"><u>ChatGPT: How Much of a Threat Does It Pose to Your Online Privacy?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-live-to-recorded-simplifying-facebook-broadcasting/"><u>From Live to Recorded Simplifying Facebook Broadcasting</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Realme 11 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/professional-winxdvd-solution-cutting-edge-dvd-to-mp4-ripter-smart-video-improvement-and-iphone-porting-utility/"><u>Professional WinXDVD Solution: Cutting-Edge DVD to MP4 Ripter, Smart Video Improvement & iPhone Porting Utility</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-htc-u23-by-fonelab-android-recover-messages/"><u>Undelete lost messages from HTC U23</u></a></li>
 </ul></div>
 

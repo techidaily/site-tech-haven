@@ -1,7 +1,7 @@
 ---
 title: "Introducing Apple's Smart Tech Evolution: Comprehensive Insights Into Upcoming AI Features for Your Devices | ZDNET"
-date: 2024-09-28T16:28:03.995Z
-updated: 2024-10-04T16:02:40.256Z
+date: 2024-10-08T17:39:13.456Z
+updated: 2024-10-09T19:32:47.277Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What does Apple Intelligence do?
 
 Apple
@@ -54,6 +61,13 @@ Some of the biggest AI features from Apple Intelligence include:
 Aside from these AI features, iOS 18 will include new customizable icons and interface updates for Control Center, Settings, and Messages. Apple is also launching a new [Passwords app](https://www.zdnet.com/article/apple-to-unveil-password-manager-app-at-wwdc-2024-what-it-is-and-how-it-works/) to replace the iCloud Keychain and give users a more user-friendly option, similar to 1Password and LastPass.
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
 
@@ -84,10 +98,10 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -102,13 +116,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -122,10 +129,10 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -171,13 +178,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are the technical requirements for Apple Intelligence?
 
 Apple
@@ -218,19 +218,16 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-pathway-to-proficient-league-of-legends-screen-recordings-for-2024/"><u>[New] The Pathway to Proficient League of Legends Screen Recordings for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unlocking-visual-clarity-bypassing-background-in-photopea/"><u>[Updated] 2024 Approved Unlocking Visual Clarity Bypassing Background in Photopea</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-guide-overcoming-not-registered-fault-in-windows-applications/"><u>Comprehensive Guide: Overcoming 'Not Registered' Fault in Windows Applications</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expand-your-digital-space-the-raijintek-zofos-ultra-featuring-fourteen-spacious-drive-bays/"><u>Expand Your Digital Space - The Raijintek Zofos Ultra, Featuring Fourteen Spacious Drive Bays</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fixing-top-6-frequent-issues-with-chatgpt-solutions-and-tips/"><u>Fixing Top 6 Frequent Issues with ChatGPT: Solutions & Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oneplus-ace-2v-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your OnePlus Ace 2V</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-the-20-most-useful-prompts-available-on-github/"><u>Mastering ChatGPT: The 20 Most Useful Prompts Available on GitHub</u></a></li>
-<li><a href="https://review-topics.techidaily.com/new-iphone-6-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 6 Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/notion-or-chatgpt-deciding-the-paramount-generative-ai-solution-for-cutting-edge-technology-needs/"><u>Notion or ChatGPT? Deciding the Paramount Generative AI Solution for Cutting-Edge Technology Needs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/professional-confidentiality-and-chatgpt-best-practices-for-secure-usage/"><u>Professional Confidentiality and ChatGPT: Best Practices for Secure Usage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tackling-the-busy-at-moment-error-in-chatgpt-on-windows-proven-strategies-inside/"><u>Tackling the 'Busy at Moment' Error in ChatGPT on Windows - Proven Strategies Inside</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-7-marketplaces-for-artificial-intelligence-prompts/"><u>Unveiling the Top 7 Marketplaces for Artificial Intelligence Prompts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-breaking-barriers-with-iphone-x-fixing-facial-detection/"><u>[New] Breaking Barriers with iPhone X Fixing Facial Detection</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlocking-video-excellence-on-tiktok-through-effective-templates-use/"><u>[New] Unlocking Video Excellence on TikTok Through Effective Templates Use</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-discover-the-world-of-screen-capture-with-apowersofts-free-version/"><u>[Updated] Discover the World of Screen Capture with Apowersoft's Free Version</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-increasing-roi-mastering-the-art-of-fb-animation-ads/"><u>2024 Approved Increasing ROI Mastering the Art of FB Animation Ads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-chatgpt-versions-web-based-vs-browser-extension-making-the-right-choice/"><u>Comparing ChatGPT Versions: Web-Based Vs. Browser Extension - Making the Right Choice</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/epic-prank-ideas-with-a-twist-of-anime-on-tiktok-for-2024/"><u>Epic Prank Ideas with a Twist of Anime on TikTok for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-the-innovations-in-ai-tips-and-strategies-for-using-anthropics-claude-3-prompt-store/"><u>Harnessing the Innovations in AI: Tips and Strategies for Using Anthropic's Claude 3 Prompt Store</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-ai-constructing-a-web-app-with-chatgpt/"><u>Integrating AI: Constructing a Web App with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-excel-tasks-with-these-3-powerful-chatgpt-tricks/"><u>Mastering Excel Tasks with These 3 Powerful ChatGPT Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-challenging-corporate-dialogue-utilizing-chatgpt-for-complicated-email-creation-at-work/"><u>Navigating Challenging Corporate Dialogue: Utilizing ChatGPT for Complicated Email Creation at Work</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-charger-no-problem-techniques-for-phone-battery-refresh/"><u>No Charger? No Problem! Techniques for Phone Battery Refresh</u></a></li>
 </ul></div>
 

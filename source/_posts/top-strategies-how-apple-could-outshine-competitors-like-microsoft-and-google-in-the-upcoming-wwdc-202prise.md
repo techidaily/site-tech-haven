@@ -1,7 +1,7 @@
 ---
 title: "Top Strategies: How Apple Could Outshine Competitors Like Microsoft & Google in the Upcoming WWDC 202Prise"
-date: 2024-09-30T16:48:25.943Z
-updated: 2024-10-04T16:32:00.594Z
+date: 2024-10-08T18:49:56.903Z
+updated: 2024-10-09T16:23:18.055Z
 tags:
   - apple
 categories:
@@ -51,10 +51,16 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +100,16 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +139,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,19 +193,21 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-the-video-vault-mastering-the-art-of-live-video-storage/"><u>[New] The Video Vault Mastering the Art of Live Video Storage</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-ambiance-with-thoughtful-lighting/"><u>[Updated] 2024 Approved Harnessing Ambiance with Thoughtful Lighting</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-best-free-youtube-ending-creators-top-6-picks/"><u>[Updated] Best Free YouTube Ending Creators - Top 6 Picks!</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-nurturing-natural-light-within-domestic-spaces/"><u>2024 Approved Nurturing Natural Light Within Domestic Spaces</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-overview-harnessing-power-of-openais-api/"><u>Comprehensive Overview: Harnessing Power of OpenAI's API</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-free-tech-resources-for-kids-going-back-to-class/"><u>Essential FREE Tech Resources for Kids Going Back to Class</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-depths-of-custom-features-in-gpt-3-conversations/"><u>Exploring the Depths of Custom Features in GPT-3 Conversations</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/insight-into-ais-linguistic-giants-understanding-the-unique-characteristics-of-gpt-vs-bert/"><u>Insight Into AI's Linguistic Giants: Understanding The Unique Characteristics of GPT Vs. BERT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/personalized-nutrition-strategies-using-chatgpt/"><u>Personalized Nutrition Strategies Using ChatGPT</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-server-error-solutions-a-comprehensive-guide/"><u>Rainbow Six Siege Server Error Solutions: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reimagining-do-it-yourself-with-upcoming-ai/"><u>Reimagining Do-It-Yourself with Upcoming AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/synthesizing-the-future-using-chatgpt-in-digital-music-production/"><u>Synthesizing the Future: Using ChatGPT in Digital Music Production</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-setting-up-alarms-on-android-phones-and-tablets/"><u>Ultimate Guide to Setting Up Alarms on Android Phones and Tablets</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-acceleration-trendsetting-with-likes-and-videos/"><u>[New] 2024 Approved Instagram Acceleration Trendsetting with Likes & Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-secure-swift-airdrop-connections-on-all-apple-devices-fix-guide/"><u>[New] 2024 Approved Secure Swift Airdrop Connections on All Apple Devices - Fix Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-master-listings-for-melodic-mobile-alerts/"><u>[Updated] Master Listings for Melodic Mobile Alerts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44cm44km44kn44ow5lik44gu6zplusz5aow44kz44oz44og44oz44oe44gm5ywl44gj44gf44oa44o844k444gl44kj55u05o6l44ki44kv44k744k544gx44cb44oa44km44oz44ot44o844oj44gz44kl564/"><u>「ウェブ上の音声コンテンツが入ったページから直接アクセスし、ダウンロードする手順」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44cm44oh44o844or57wm55sx44gn6zplusz5qw944ov44kh44kk44or44ks6lui6ycb44gz44kl44gf44kb44gu5asn5a656yep44kz44ou44o85oml6acg44cn/"><u>「メール経由で音楽ファイルを転送するための大容量コピー手順」</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-best-10-no-cost-video-conferencing-solutions-unveiled/"><u>2024 Approved Best 10 No-Cost Video Conferencing Solutions Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726224236970-3g2-movavi/"><u>3G2ビデオファイルを即座に変換するための無料オンラインツール - MOVAVI</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/correcting-failed-video-delivery-on-mobile-platforms-social-network-apps-for-2024/"><u>Correcting Failed Video Delivery on Mobile Platform's Social Network Apps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029535325-dailymotion/"><u>Dailymotion ビデオのダウンロード手順：ブラウザから簡単ガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029553646-dvdpc/"><u>DVDがPCでプレーヤー設定不足で再生できない解決方法</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/effortless-techniques-to-reduce-your-videos-size-before-sharing-on-whatsapp/"><u>Effortless Techniques to Reduce Your Video's Size Before Sharing on WhatsApp</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030155755-flac/"><u>FLACオーディオ形式でのプレイバック手順と、再生に失敗した場合の解決策</u></a></li>
+<li><a href="https://fox-access.techidaily.com/high-definition-showdown-sj6-versus-yi-4k-innovator-for-2024/"><u>High Definition Showdown SJ6 Versus Yi 4K Innovator for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029033286-mp3wav-4/"><u>MP3とWAVファイル間の無料変換ソフトウェア お客さんに選ばれた上位4品種</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028996847-pcyoutube/"><u>PCとスマホでYouTube音楽を効果的に使い方 - テクニック解説</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-shortcomings-top-5-reasons-to-seek-human-expertise-for-health-concerns/"><u>Understanding ChatGPT's Shortcomings: Top 5 Reasons to Seek Human Expertise for Health Concerns</u></a></li>
 </ul></div>
 

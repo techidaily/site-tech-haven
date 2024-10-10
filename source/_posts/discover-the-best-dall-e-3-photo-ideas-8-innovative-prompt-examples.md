@@ -1,7 +1,7 @@
 ---
 title: "Discover the Best DALL-E 3 Photo Ideas: 8 Innovative Prompt Examples"
-date: 2024-09-07T18:11:38.785Z
-updated: 2024-09-13T06:44:35.751Z
+date: 2024-10-08T19:59:14.761Z
+updated: 2024-10-09T20:10:12.080Z
 tags:
   - chatgpt
   - open-ai
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Copy Text From the PDF
 
  If you have a copy of the PDF on your computer, then the easiest way is to simply copy the text you need from the PDF. In the example below, we opened a PDF copy of a MakeUseOf article about[prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) . We used Microsoft Edge to open it, and then we highlighted the relevant text and copied it to the clipboard.
@@ -49,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Convert the PDF Into a Text Document
 
@@ -71,20 +57,26 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
@@ -94,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
@@ -107,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new**Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
@@ -132,5 +124,20 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-unlocking-screen-capture-mastery-on-iphone-7/"><u>[New] 2024 Approved Unlocking Screen Capture Mastery on iPhone 7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-5-low-cost-drones-maximum-performance-on-a-shoestring/"><u>2024 Approved 5 Low-Cost Drones Maximum Performance on a Shoestring</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029516265-flvmp33/"><u>最適なFLVからMP3への無料変換ソフトウェアトップ3をご紹介</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-capturing-your-facebook-experience-through-videography/"><u>Comprehensive Guide: Capturing Your Facebook Experience Through Videography</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-reno-8t-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo Reno 8T Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-access-usb-to-serial-rs232-cable-configuration-software/"><u>Instant Access: USB to Serial (RS232) Cable Configuration Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/integrated-sound-system-guidebook-for-2024/"><u>Integrated Sound System Guidebook for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029136082-mkv/"><u>MKVファイルの品質保持型マージ手順</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027103184-openrectv/"><u>OPENREC.tvビデオをダウンロードして保管する詳細ガイド</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-choosing-a-top-tier-2-in-1-spotlight-on-the-dell-xps-13-reviewed/"><u>The Ultimate Guide to Choosing a Top-Tier 2-in-1: Spotlight on the Dell XPS 13 Reviewed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027166279-gif/"><u>ゲームイラストを簡単に制作するためのGIFガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028877707-youtube/"><u>パソコン上でYouTubeビデオを同時に聞きながら録音するステップバイステップ</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030505164-aviutl/"><u>ビデオからオーディオの取り外し: AviUtlでの効率的な方法</u></a></li>
+</ul></div>
 

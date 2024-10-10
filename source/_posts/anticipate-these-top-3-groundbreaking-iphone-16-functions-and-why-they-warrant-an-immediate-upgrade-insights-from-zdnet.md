@@ -1,7 +1,7 @@
 ---
 title: Anticipate These Top 3 Groundbreaking iPhone 16 Functions & Why They Warrant an Immediate Upgrade! - Insights From ZDNet
-date: 2024-09-27T16:15:56.584Z
-updated: 2024-10-04T16:09:39.754Z
+date: 2024-10-04T19:26:37.525Z
+updated: 2024-10-09T19:16:24.251Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,24 +129,24 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-guide-stop-snippet-playback-on-youtube-for-2024/"><u>[Updated] The Ultimate Guide Stop Snippet Playback on YouTube for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-media-formats-from-srt-to-advanced-standards/"><u>2024 Approved Streamlining Media Formats From SRT to Advanced Standards</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027457688-dvd/"><u>市販DVDの高品位データコピー法：効率よく・即座に・完全無損失</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-crypto-trading-game-using-chatgpt-discover-5-essential-tips/"><u>Boost Your Crypto Trading Game Using ChatGPT: Discover 5 Essential Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/character-depth-explored-top-11-chatgpt-inquiry-models/"><u>Character Depth Explored: Top 11 ChatGPT Inquiry Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/claudes-edge-detailing-why-it-outperforms-gpt-with-4-essentials/"><u>Claude's Edge Detailing: Why It Outperforms GPT with 4 Essentials</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creating-effective-fitness-plans-with-safe-guidance/"><u>Creating Effective Fitness Plans with Safe Guidance</u></a></li>
-<li><a href="https://solve-info.techidaily.com/cutting-delivery-times-for-global-top-tier-brewery-karlstejn-group-with-advanced-abbyy-systems/"><u>Cutting Delivery Times for Global Top-Tier Brewery Karlstejn Group with Advanced ABBYY Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-gpt4all-how-this-innovative-tool-operates/"><u>Demystifying GPT4All: How This Innovative Tool Operates?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-innovations-the-eightfold-path-to-leveraging-chatgpt-for-imagery/"><u>Exploring Innovations: The Eightfold Path to Leveraging ChatGPT for Imagery</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/has-ai-revolutionized-how-students-write-essays-with-tools-like-chatgpt/"><u>Has AI Revolutionized How Students Write Essays with Tools Like ChatGPT?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-asus-rog-phone-7-ultimate-is-unlocked-by-drfone-android/"><u>How To Check if Your Asus ROG Phone 7 Ultimate Is Unlocked</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-pick-a-perfect-virtual-reality-device-is-wireless-vision-or-connected-content-more-appealing-for-2024/"><u>How to Pick a Perfect Virtual Reality Device Is Wireless Vision or Connected Content More Appealing for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-y77t-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo Y77t Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-prompt-engineering-legitimate-employment-uncovering-nine-important-factors/"><u>Is Prompt Engineering Legitimate Employment? Uncovering Nine Important Factors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-gen-search-unveiled-microsoft-enhances-bing-with-artificer-intelligence/"><u>Next-Gen Search Unveiled: Microsoft Enhances Bing with Artificer Intelligence</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/overcoming-frequent-fuser-software-collapses-on-personal-computers/"><u>Overcoming Frequent Fuser Software Collapses on Personal Computers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-strategies-leveraging-chatgpt-in-your-data-analysis-toolkit/"><u>Top Strategies: Leveraging ChatGPT in Your Data Analysis Toolkit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-free-tools-and-techniques-for-cutting-webm-videos-offline-or-online/"><u>Ultimate Guide: Free Tools & Techniques for Cutting WebM Videos Offline or Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-creative-edge-advanced-tips-for-shooting-with-gopro-hero5-black/"><u>[New] 2024 Approved The Creative Edge Advanced Tips for Shooting with GoPro Hero5 Black</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlock-ez-grabbers-potential-with-a-simple-tutorial-for-2024/"><u>[New] Unlock EZ Grabber's Potential with a Simple Tutorial for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-master-list-of-affordable-websites-boosting-vector-graphics-skills/"><u>[Updated] In 2024, Master List of Affordable Websites Boosting Vector Graphics Skills</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-techniques-to-mitigate-gpt-transmission-glitches/"><u>7 Techniques to Mitigate GPT Transmission Glitches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/8-creative-strategies-with-chatgpts-visual-capabilities/"><u>8 Creative Strategies with ChatGPT's Visual Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/achieve-smarter-web-development-with-integrated-gpt-3/"><u>Achieve Smarter Web Development with Integrated GPT-3</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-latest-showdown-comparing-m3-vs-m2-macbook-air-for-your-perfect-purchase-insights/"><u>Apple's Latest Showdown: Comparing M3 Vs. M2 MacBook Air for Your Perfect Purchase - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722043077273-chatgpt-an-in-depth-look-at-its-impact-on-user-privacy-and-security/"><u>ChatGPT: An In-Depth Look at Its Impact on User Privacy and Security</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721952284796-new-chatgpt-ios-app-revealed/"><u>New ChatGPT iOS App Revealed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/precision-editing-picarts-techniques-for-background-subtraction-for-2024/"><u>Precision Editing PicArt's Techniques for Background Subtraction for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-gameplay-disruptions-fixing-life-is-strange-true-colors-crash-issues/"><u>Solving Gameplay Disruptions: Fixing Life Is Strange: True Colors [CRASH] Issues</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/song-selection-guide-copyright-free-melodies-for-montages-for-2024/"><u>Song Selection Guide Copyright-Free Melodies for Montages for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-upgrading-to-new-huion-tablet-drivers-for-windows-users/"><u>Step-by-Step Tutorial: Upgrading to New Huion Tablet Drivers for Windows Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-peak-performance-7-powerful-uses-of-chatgpt-for-increased-productivity-at-work/"><u>Unlocking Peak Performance: 7 Powerful Uses of ChatGPT for Increased Productivity at Work</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveil-the-easy-side-of-ai-dialogues-via-chrome-enhancement/"><u>Unveil the Easy Side of AI Dialogues via Chrome Enhancement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-potential-chatgpts-role-in-transforming-healthcare-services/"><u>Unveiling the Potential: ChatGPT's Role in Transforming Healthcare Services</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-10-best-free-online-video-looping-software-for-2024/"><u>Updated The Ultimate List 10 Best Free Online Video Looping Software for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-is-superior-evaluating-claude-against-chatgpt-in-everyday-applications/"><u>Which Is Superior? Evaluating Claude Against ChatGPT in Everyday Applications</u></a></li>
 </ul></div>
 

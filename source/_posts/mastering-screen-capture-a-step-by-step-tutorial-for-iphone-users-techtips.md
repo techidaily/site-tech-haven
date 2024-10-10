@@ -1,7 +1,7 @@
 ---
 title: "Mastering Screen Capture: A Step-by-Step Tutorial for iPhone Users | TechTips"
-date: 2024-09-29T16:28:34.038Z
-updated: 2024-10-04T16:09:40.966Z
+date: 2024-10-06T16:55:45.757Z
+updated: 2024-10-09T20:08:13.607Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -44,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -58,11 +51,25 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -71,10 +78,16 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -90,13 +103,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,18 +140,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-seamless-transitions-the-art-of-canon-time-lapses/"><u>[New] Crafting Seamless Transitions The Art of Canon Time-Lapses</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-the-highest-rated-conference-recorders/"><u>[New] In 2024, The Ultimate Guide to the Highest Rated Conference Recorders</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-optimize-your-images-on-pc-with-these-top-5-sniping-solutions-for-2024/"><u>[Updated] Optimize Your Images on PC with These Top 5 Sniping Solutions for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-play-mov-files-on-samsung-galaxy-s24-ultra-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-step-into-the-future-elevate-your-gameplay-with-fbx-recorder/"><u>In 2024, Step Into the Future Elevate Your Gameplay with FBX Recorder</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/soluzione-guida-per-lettori-dvd-bloccati-e-incapaci-di-leggere-dischi-dvd/"><u>Soluzione Guida per Lettori DVD Bloccati E Incapaci Di Leggere Dischi DVD</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-art-of-narrative-enhancing-your-storytelling-skills-with-chatgpt-assistance/"><u>The Art of Narrative: Enhancing Your Storytelling Skills with ChatGPT Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-basics-of-predictive-ai-working-methods-unveiled/"><u>The Basics of Predictive AI - Working Methods Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-the-power-of-chatgpt-plus-in-language-learning-journey/"><u>Unleashing the Power of ChatGPT Plus in Language Learning Journey</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-health-wisdom-with-chatgpts-top-7-aspects/"><u>Unlocking Health Wisdom with ChatGPT's Top 7 Aspects</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-drives-openais-top-executive-to-demand-more-oversight-on-artifice-intelligence-technology/"><u>What Drives OpenAI's Top Executive to Demand More Oversight on Artifice Intelligence Technology?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-content-creators-should-think-twice-before-turning-to-ai-chatbots-8-key-reasons/"><u>Why Content Creators Should Think Twice Before Turning to AI Chatbots: 8 Key Reasons</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-compreranciales-en-fb-tecnicas-para-la-registro-de-llamadas-y-conversaciones/"><u>[New] Compreranciales en FB Técnicas Para La Registro De Llamadas Y Conversaciones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-4k-screen-recorder-applications-for-2024/"><u>[Updated] Best 4K Screen Recorder Applications for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-optimizing-live-recording-with-chromebooks-and-hp-for-2024/"><u>[Updated] Optimizing Live Recording with Chromebooks & HP for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-gaming-thumbs-for-immersive-experience-for-2024/"><u>[Updated] Top Gaming Thumbs for Immersive Experience for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-universal-method-for-screen-recording-across-systems-for-2024/"><u>[Updated] Universal Method for Screen Recording Across Systems for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-turing-five-updated-methods-for-evaluating-artificial-intelligence/"><u>Beyond Turing: Five Updated Methods for Evaluating Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-privacy-concerns-master-the-art-of-safely-disengaging-now/"><u>ChatGPT and Privacy Concerns? Master the Art of Safely Disengaging Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/current-status-of-chatgpt-subscription-enrollments-understanding-the-pause-and-future-plans/"><u>Current Status of ChatGPT Subscription Enrollments: Understanding the Pause and Future Plans</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-the-latest-nvidia-geforce-rtx-3090-drivers-compatible-with-windows-1187/"><u>Get the Latest NVIDIA GeForce RTX 3090 Drivers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-no-cost-top-quality-premiere-pro-designs/"><u>In 2024, No-Cost, Top-Quality Premiere Pro Designs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-10-best-free-online-screen-recorders/"><u>In 2024, Top 10 Best Free Online Screen Recorders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-ai-image-generation-with-dall-e-and-gpt-4/"><u>Mastering the Art of AI Image Generation with DALL-E and GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-routine-how-chatgpt-elevates-your-lifestyle/"><u>Revolutionizing Routine: How ChatGPT Elevates Your Lifestyle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speedy-disney-disc-extraction-the-best-dvd-ripper-tools-online/"><u>Speedy Disney Disc Extraction: The Best DVD Ripper Tools Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-battle-for-best-ai-chatbot-can-perplexity-outshine-chatgpt-plus-in-conversational-intelligence/"><u>The Battle for Best AI Chatbot: Can Perplexity Outshine ChatGPT Plus in Conversational Intelligence?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-chatgpt-in-advancing-cognitive-behavioral-therapy-strategies/"><u>The Role of ChatGPT in Advancing Cognitive Behavioral Therapy Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-ai-5-strategies-with-chatgpt-in-crypto-markets/"><u>Unlocking the Power of AI: 5 Strategies with ChatGPT in Crypto Markets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-audio-troubleshooting-swift-methods-for-noise-restoration/"><u>Windows 10 Audio Troubleshooting: Swift Methods for Noise Restoration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/your-next-novel-awaits-dive-into-these-top-5-ai-powered-reading-sites/"><u>Your Next Novel Awaits: Dive Into These Top 5 AI-Powered Reading Sites</u></a></li>
 </ul></div>
 

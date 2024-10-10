@@ -1,7 +1,7 @@
 ---
 title: 1. Three Simple Ways to Block Unwanted Messages on iPhone - Expert Guide (ZDNet)
-date: 2024-09-29T16:42:23.456Z
-updated: 2024-10-04T16:03:36.880Z
+date: 2024-10-04T16:35:22.686Z
+updated: 2024-10-09T16:15:35.727Z
 tags:
   - apple
 categories:
@@ -45,14 +45,14 @@ Cons
 * May feel unwieldy for some users
 * No major battery life improvement over its predecessor
 
-## iPhone 15 Pro Max
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## iPhone 15 Pro Max
 
 ### Best iPhone overall
 
@@ -119,13 +119,6 @@ Cons
 
 ## Apple iPhone 13 Mini
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best small iPhone
 
 While Apple has officially [discontinued its iPhone Mini](https://www.zdnet.com/article/the-iphone-mini-is-dead-long-live-the-iphone-plus/) models, Avi Greengart, lead analyst at Techsponential, suggests the iPhone 13 Mini for anyone eyeing a small flagship iPhone. He's not wrong: The iPhone 13 Mini is the only compact option in the US that includes specs similar to that of its larger siblings. You'll just have to buy one refurbished, as the company no longer sells the smaller size in stores.
@@ -189,6 +182,13 @@ Cons
 
 ## Apple iPhone 14
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best old-generation iPhone
 
 While Apple continues to segment its iPhone line with "Pro" and "Plus" models, the regular offering, such as the previous generation's iPhone 14, continues to be successful. Part of the reason is how similar its design is to the Pro variant, especially regarding form factor, button placement, and even the charging tech. 
@@ -223,13 +223,6 @@ The answer depends on your needs and preferences. For example, while the [Samsun
 
 Previously, the gap between iPhones and Android phones was much larger due to Apple opting for a Lightning port instead of USB-C, but with the iPhone 15 models switching to the more universal port for charging and data transfer, it's become less intimidating to switch from Android to iPhone, and vice versa.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which iPhone model is right for you?
 
 It used to be fairly easy to choose an iPhone model as you typically opted for either the "big" iPhone or the "small" one. With four models available in the iPhone 15 series alone, you now have to dig a bit deeper to choose which is best for you. This is especially true of the iPhone 15 and 15 Pro, which feature nearly the same hardware, so check out our question above for more on this decision. 
@@ -246,13 +239,6 @@ One fantastic aspect of the iPhone is that all models receive software support f
 | Apple iPhone 13 Mini             | The only iPhone Mini that Apple makes. This is arguably the best compact smartphone money can buy, even if it's nearly three years old.                                                                                                 |
 | Apple iPhone 14                  | An older iPhone that can handle modern-day tasks. The iPhone 14 is still a solid smartphone if you want the Apple experience for less.                                                                                                  |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing an iPhone
 
 We chose these smartphones by testing them for weeks and months, evaluating them based on real-world applications like phone calls, messaging, web browsing, and taking way too many pictures and videos. 
@@ -266,10 +252,10 @@ ZDNET's mobile experts also liaise with industry colleagues and analysts who hav
 * **Price**: What you won't find on this list is a device that's not worth the money or is overcharging you for the hardware-software package you're getting.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test iPhones
@@ -288,10 +274,10 @@ For a more extensive breakdown, check out our comprehensive [phone testing metho
 ## iPhone FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How do I take care of my new iPhone?
@@ -302,29 +288,28 @@ There are several ways you can keep your iPhone clean and pristine.
 2. Battery management is another key aspect of iPhone maintenance. To keep your device running for as long as possible, consider charging it between 20% to 80% battery. Overcharging the device would otherwise wear down the battery and reduce the health value (found in Settings). When your iPhone battery health is low (anything less than 75% typically is), it would be helpful to get it replaced at an Apple store or by an Apple-authorized technician.
 3. As stressful as it may be to clear up space to download that software update, you absolutely should. Besides fixing any bugs on your iPhone, software updates also bring with them security patches to reduce the chances of your phone getting hacked.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is iOS 18 coming, and will my iPhone support it?
 
 The upcoming software version for the iPhone is currently in its [public beta phase](https://www.zdnet.com/article/you-can-download-ios-18-beta-on-your-iphone-right-now-heres-how-and-which-models-support-it/), meaning it's open for any users to test. The official software will be available to download on September 16, alongside the [new iPhone 16 series](https://www.zdnet.com/article/iphone-16-three-changes-i-want-to-see-on-the-next-apple-handsets/) that arrives September 20.
 
 Like iOS 17, iPhone models as old as the XR will be eligible to receive the [iOS 18 update](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/). The list includes the iPhone 11 to iPhone 15 series and the iPhone SE (2nd generation or later). What's not included is the iPhone X and iPhone 8 series. Those, unfortunately, won't be receiving any more operating system updates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What is the new iPhone?
 
 The latest iPhone is the [iPhone 16](https://www.zdnet.com/article/when-is-the-iphone-16-coming-out-what-to-know-and-where-to-preorder/), announced on Monday, September 9, during [Apple's "It's Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). There are four iPhone 16 models: iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max. All will come with iOS 18 and Apple Intelligence built in.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Which iPhone is better, 14 or 15?
 
@@ -349,6 +334,13 @@ One of the biggest upgrades with the latest iPhone 15 series is the [USB-C port]
 
 Otherwise, even if you own an iPad or MacBook, or almost any other non-Apple gadget, USB-C is more widely used and truly the one-size-fits-all option for charging and transferring data.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Which iPhone models support Apple's new AI features?
 
 Apple's upcoming AI features, branded as "[Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/)," are available on iPhones with at least an A17 Pro processor. That means only the iPhone 15 Pro series, excluding the standard iPhone 15 or iPhone 15 Plus, will support the new AI tools and the upcoming iPhone 16 models.
@@ -362,6 +354,19 @@ Maurice Klaehne, senior market research analyst at Counterpoint Research, sugges
 ### Should I trade in my old iPhone?
 
 Trading in an old iPhone is one of the easiest (and safest) ways to replace an otherwise unwanted device with a new, more capable one. Most retailers, including Apple, accept trade-ins of older iPhone models, with store credit ranging from as low as $50 to $800; it all depends on which generation your iPhone is, the condition, and whether it turns on or not.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Do I really need an iPhone case?
 
@@ -411,6 +416,19 @@ Then, you'll likely experience more frequent app crashes, lag, storage problems,
 
 If you'd like to prolong that time, I'd recommend visiting your local Apple store to have the phone's battery replaced every three to four years and also consider backing up files to an [external hard drive](https://www.zdnet.com/article/best-external-hard-drive/) for safekeeping. As a last resort, [a factory reset](https://www.zdnet.com/article/how-to-factory-reset-your-iphone/), followed by data restoration, should give your phone a brand-new feel.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Other iPhone models we tested
 
 Outside of this list of excellent options, here are worthy alternatives that will surely delight you.
@@ -457,15 +475,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-free-yourself-with-top-4-applications-for-youtube-to-wav-conversion/"><u>[New] 2024 Approved Free Yourself with Top 4 Applications for YouTube-to-WAV Conversion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-ultimate-image-booster-intense-visual-upgrade/"><u>[New] Ultimate Image Booster Intense Visual Upgrade</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essentials-in-ai-learning-your-first-steps-with-top-9-toolsets/"><u>Essentials in AI Learning: Your First Steps with Top 9 Toolsets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-back-your-racetrack-roar-expert-solutions-for-restoring-sounds-in-forza-horizon-4/"><u>Get Back Your Racetrack Roar: Expert Solutions for Restoring Sounds in Forza Horizon 4</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Lava Storm 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigate-conversations-easily-the-chrome-gpt-extension/"><u>Navigate Conversations Easily - The Chrome GPT Extension</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simplify-ai-conversations-chromes-gpt-assistant-extension/"><u>Simplify AI Conversations: Chrome's GPT Assistant Extension</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-immersive-world-of-skyrim-transcends-to-nintendo-switch-our-expert-review-revealed/"><u>The Immersive World of Skyrim Transcends to Nintendo Switch – Our Expert Review Revealed!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-8-how-educators-can-thrive-with-ai-integration/"><u>Top 8: How Educators Can Thrive with AI Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-top-tips-solving-the-most-frequent-chatgpt-mistakes/"><u>Troubleshooting Top Tips: Solving the Most Frequent ChatGPT Mistakes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-clash-of-legends-5-iconic-fist-fighters-in-virtual-world/"><u>[New] Clash of Legends 5 Iconic Fist-Fighters in Virtual World</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-revisiting-the-golden-age-of-cinema-video-tutorials-for-2024/"><u>[Updated] Revisiting the Golden Age of Cinema Video Tutorials for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-archivists-guide-reviving-yesteryears-vhs-artistry-in-todays-editing-space/"><u>[Updated] The Archivist's Guide Reviving Yesteryear’s VHS Artistry in Today's Editing Space</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/check-for-cybersecurity-loopholes-in-chatgpt/"><u>Check for Cybersecurity Loopholes in ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/duo-display-configuration-in-windows-11-how-to/"><u>Duo Display Configuration in Windows 11 – How To</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embracing-ai-in-pedagogy-and-language-acquisition/"><u>Embracing AI in Pedagogy and Language Acquisition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-x8b-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor X8b Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-realme-10t-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Realme 10T 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovate-with-ai-navigating-the-features-and-capabilities-of-the-openai-platform/"><u>Innovate with AI: Navigating the Features and Capabilities of the OpenAI Platform</u></a></li>
+<li><a href="https://extra-information.techidaily.com/integrating-zoom-and-fb-live-effortlessly/"><u>Integrating ZOOM and FB Live Effortlessly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-user-interaction-crucial-to-advancing-chatgpts-capabilities/"><u>Is User Interaction Crucial to Advancing ChatGPT's Capabilities?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/love-in-a-digital-age-chatgpt-to-the-rescue/"><u>Love in a Digital Age: ChatGPT to the Rescue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maintain-confidentiality-delete-your-entire-chatgpt-transcript-history-today/"><u>Maintain Confidentiality: Delete Your Entire ChatGPT Transcript History Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-presentations-with-chatgpt/"><u>Mastering the Art of Presentations with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/need-access-to-chatgpt-heres-how-to-confirm-its-availability-today/"><u>Need Access to ChatGPT? Here's How to Confirm Its Availability Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openais-breakthrough-empowering-chatgpt-to-vocalize-responses-effortlessly/"><u>OpenAI's Breakthrough: Empowering ChatGPT to Vocalize Responses Effortlessly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/phone-number-free-registration-guide-for-popular-communication-tools-including-chatgpt-and-telegram/"><u>Phone Number-Free Registration Guide for Popular Communication Tools Including ChatGPT and Telegram</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/real-world-examples-the-impact-of-gpt-today/"><u>Real-World Examples: The Impact of GPT Today</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-converting-your-favorite-gaiamtv-shows-into-popular-video-formats-like-mp4-mov-and-avi/"><u>Step-by-Step Guide: Converting Your Favorite GaiamTV Shows Into Popular Video Formats Like MP4, MOV & AVI</u></a></li>
 </ul></div>
 

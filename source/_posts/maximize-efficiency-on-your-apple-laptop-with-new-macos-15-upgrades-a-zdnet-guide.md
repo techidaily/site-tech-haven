@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on Your Apple Laptop with New macOS 15 Upgrades - A ZDNet Guide
-date: 2024-09-28T16:08:36.529Z
-updated: 2024-10-04T16:01:38.017Z
+date: 2024-10-04T19:18:01.634Z
+updated: 2024-10-09T20:05:01.671Z
 tags:
   - apple
 categories:
@@ -38,15 +38,22 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
@@ -59,6 +66,13 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 
 Apple
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
 The Smart Stack, introduced in WatchOS 10, is improving slightly with some new widgets.
@@ -70,10 +84,10 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 Apple
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. The Photos face, powered by machine learning
@@ -104,13 +118,6 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
@@ -118,13 +125,6 @@ Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhi
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -160,22 +160,18 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-turning-tales-upside-down-iphone-video-guide/"><u>[New] Turning Tales Upside Down IPhone Video Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-sims-4-recording-tips-and-tricks-for-quality/"><u>[Updated] In 2024, Sims 4 Recording Tips and Tricks for Quality</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-vivid-imagery-understanding-the-power-of-srgb/"><u>[Updated] Vivid Imagery Understanding the Power of Srgb</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-muse-tips-for-writing-and-publishing-a-book-of-poems/"><u>ChatGPT as Your Muse: Tips for Writing and Publishing a Book of Poems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-smart-ai-solutions-with-gpt-3-in-the-realm-of-openai-playground/"><u>Crafting Smart AI Solutions with GPT-3 in the Realm of OpenAI Playground</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-version-of-epson-xp-440-printer-software/"><u>Download and Install the Latest Version of Epson XP-440 Printer Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-office-email-efficacy-the-ultimate-guide-to-using-chatgpt-for-challenging-duty-communications/"><u>Enhancing Office Email Efficacy: The Ultimate Guide to Using ChatGPT for Challenging Duty Communications</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-evaluation-of-the-nook-glowlight-4-your-guide-to-choosing-the-right-tablet/"><u>Expert Evaluation of the Nook GlowLight 4 - Your Guide to Choosing the Right Tablet</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/exploring-facebooks-2023-video-revolution-the-rise-of-compact-clips-for-2024/"><u>Exploring Facebook's 2023 Video Revolution The Rise of Compact Clips for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-ai-face-off-notion-ai-vs-chatgpt-determining-the-superior-choice/"><u>Generative AI Face-Off: Notion AI Vs. ChatGPT – Determining the Superior Choice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/grasping-ai-vulnerability-demystifying-prompt-injections/"><u>Grasping AI Vulnerability: Demystifying Prompt Injections</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-nubia-z50-ultra-by-drfone-android/"><u>How to Bypass FRP on Nubia Z50 Ultra?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-camon-20-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Camon 20</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-chatgpt-into-googles-data-tools/"><u>Integrating ChatGPT Into Google's Data Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-ai-mixology-a-reality-assessing-chatgpts-talent-for-tailored-toddies-and-martinis/"><u>Is AI Mixology a Reality? Assessing ChatGPT's Talent for Tailored Toddies and Martinis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-comparative-showdown-for-creativity-in-bots/"><u>The Ultimate Comparative Showdown for Creativity in Bots</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-s21-fe-5g-2023-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy S21 FE 5G (2023) Phone Network-Ready</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-guidelines-for-optimal-youtube-video-brightness/"><u>[New] Guidelines for Optimal YouTube Video Brightness</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-optimal-live-video-distributors-suite/"><u>[New] In 2024, Optimal Live Video Distributors' Suite</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-exhaustive-review-of-razers-kiyo-cam/"><u>[Updated] 2024 Approved Exhaustive Review of Razer's Kiyo Cam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-screen-recordings-on-windows-10-systems/"><u>[Updated] 2024 Approved Mastering Screen Recordings on Windows 10 Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premiere-pro-starter-pack-2023-edition-free/"><u>[Updated] Premiere Pro Starter Pack - 2023 Edition (Free)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-captivating-stories-embedding-melodies-into-visual-narratives/"><u>2024 Approved Crafting Captivating Stories Embedding Melodies Into Visual Narratives</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-openwizard-integration-with-kodi-top-tips-for-flawless-operation-efficient-backups-and-streamlined-maintenance/"><u>Mastering OpenWizard Integration with Kodi: Top Tips for Flawless Operation, Efficient Backups & Streamlined Maintenance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-video-compression-essential-techniques-and-methods-explained/"><u>Mastering Video Compression: Essential Techniques and Methods Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mikupaintpc/"><u>MikuPaintアプリ、PCとスマホで画面を記録する詳しいガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/movavi-video-editor-plus-walkthrough-effortlessly-converting-mpegx-files-into-mp4/"><u>Movavi Video Editor Plus Walkthrough: Effortlessly Converting MPEGX Files Into MP4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/no-account-needed-a-guide-to-viewing-facebook-live-videos/"><u>No Account Needed: A Guide to Viewing Facebook Live Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969847499-non-conductive-agents-like-fm-200-are-suitable-for-electrical-fires-but-may-not-be-effective-on-metal-or-cooking-oilgrease-fires/"><u>Non-Conductive Agents Like FM-200 Are Suitable for Electrical Fires but May Not Be Effective on Metal or Cooking Oil/Grease Fires.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/oggmidi/"><u>OGG形式へのMIDIファイル変換手順</u></a></li>
 </ul></div>
 

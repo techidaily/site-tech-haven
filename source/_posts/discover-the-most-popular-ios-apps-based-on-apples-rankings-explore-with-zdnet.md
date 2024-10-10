@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Popular iOS Apps Based on Apple's Rankings - Explore with ZDNet
-date: 2024-09-30T16:40:02.576Z
-updated: 2024-10-04T16:34:55.270Z
+date: 2024-10-04T19:00:03.084Z
+updated: 2024-10-09T16:27:52.377Z
 tags:
   - apple
 categories:
@@ -51,10 +51,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 * [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008): An app that offers radars, taxi times, commercial flight data, and more to travelers unsure about their [plane's whereabouts](https://www.zdnet.com/article/flying-soon-flighty-is-a-must-have-ios-app-for-air-travel/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### iPad App of the Year finalists
@@ -64,10 +70,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 * [Prêt-à-Makeup](https://apps.apple.com/ai/app/pr%C3%AAt-%C3%A0-makeup/id1434594204): A digital face for makeup artists to test looks on all skin colors in all lighting conditions.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mac App of the Year finalists
@@ -77,10 +89,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 * [Portal](https://apps.apple.com/us/app/portal-immersive-escapes/id1436994560): A productivity app that targets users' cognitive performance.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Watch App of the Year finalists
@@ -119,21 +131,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-driving-traffic-and-likes-a-guide-for-instagram-pros/"><u>[New] 2024 Approved Driving Traffic & Likes A Guide for Instagram Pros</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-unlock-10-passport-images-at-no-cost-desktopweb/"><u>[Updated] In 2024, Unlock 10 Passport Images at No Cost – Desktop/Web</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-navigation-for-social-media-and-more-expand-your-reach-top-menu-options/"><u>Easy Navigation for Social Media & More - Expand Your Reach | Top Menu Options</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortlessly-enhance-printer-performance-on-pc/"><u>Effortlessly Enhance Printer Performance on PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-tomorrows-horizons-leading-edge-file-search-techniques-with-copernic/"><u>Exploring Tomorrow's Horizons: Leading-Edge File Search Techniques with Copernic</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y100i-power-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y100i Power 5Gwith/without a PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-copernic-can-revive-your-search-function-in-outlook-a-comprehensive-guide/"><u>How Copernic Can Revive Your Search Function in Outlook - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-fast-track-windows-11-updates-a-complete-guide/"><u>How To Fast-Track Windows 11 Updates - A Complete Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-motorola-moto-g-5g-2023-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Motorola Moto G 5G (2023)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/is-picku-the-ultimate-answer-to-enhancing-your-android-photos-in-2024/"><u>Is PickU the Ultimate Answer to Enhancing Your Android Photos, In 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-social-media-growth-with-seamless-menu-expand-functions-on-fb-li-yt-top-level-navigation-essentials/"><u>Mastering Social Media Growth with Seamless Menu Expand Functions on FB, LI, YT - Top-Level Navigation Essentials</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-website-crawling-techniques-finding-the-perfect-match-for-optimization-success/"><u>Mastering Website Crawling Techniques: Finding the Perfect Match for Optimization Success</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-eliminate-discord-javascript-dilemma-on-windows-11-pcs/"><u>Steps to Eliminate Discord Javascript Dilemma on Windows 11 PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforma-tu-musica-desde-el-codec-aac-al-estandar-mpg-gratuito-en-linea-con-la-ayuda-de-movavi/"><u>Transforma Tu Música Desde El Códec AAC Al Estándar MPG Gratuito en Línea Con La Ayuda De Movavi</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-14-plus-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 14 Plus without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-11-couldnt-be-installed-error-code-80240020-solved/"><u>Windows 11 Couldn't Be Installed Error Code 80240020 [Solved]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximize-your-inspiration-free-pinterest-video-downloaders/"><u>[New] Maximize Your Inspiration Free Pinterest Video Downloaders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-capturing-life-basic-shots-every-new-director-should-master-for-2024/"><u>[Updated] Capturing Life Basic Shots Every New Director Should Master for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-new-acer-audio-drivers-step-by-step-guide/"><u>Effortless Installation of New Acer Audio Drivers - Step by Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-audio-interface-drivers-for-microsoft-windows-get-your-free-downloads/"><u>Latest Audio Interface Drivers for Microsoft Windows - Get Your FREE Downloads!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/navigating-the-basics-of-multi-os-skype-chatting-for-2024/"><u>Navigating the Basics of Multi-OS Skype Chatting for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-pitfalls-of-using-ai-chatbots-to-create-genuine-windows-11-serial-codes/"><u>The Pitfalls of Using AI Chatbots to Create Genuine Windows 11 Serial Codes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-workforce-revolution-top-6-motivators-for-learning-chatgpt/"><u>The Workforce Revolution: Top 6 Motivators for Learning ChatGPT</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-redmi-a2-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Redmi A2 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-ai-powered-chatbot-tools-for-enhanced-emotional-wellness/"><u>Top 5 AI-Powered Chatbot Tools for Enhanced Emotional Wellness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-tech-landscape-the-impact-of-gemini-15s-one-million-token-milestone/"><u>Transforming Tech Landscape: The Impact of Gemini-1.5's One Million Token Milestone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-video-games-with-ai-a-guide-to-writing-scripts-using-chatgpts-capabilities/"><u>Transforming Video Games with AI: A Guide to Writing Scripts Using ChatGPT's Capabilities</u></a></li>
 </ul></div>
 

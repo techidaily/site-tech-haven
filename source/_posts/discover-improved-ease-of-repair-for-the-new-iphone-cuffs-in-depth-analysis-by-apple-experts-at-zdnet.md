@@ -1,7 +1,7 @@
 ---
 title: Discover Improved Ease of Repair for the New iPhone Cuffs | In-Depth Analysis by Apple Experts at ZDNET
-date: 2024-09-29T16:29:18.305Z
-updated: 2024-10-04T16:00:46.487Z
+date: 2024-10-06T23:02:10.712Z
+updated: 2024-10-09T22:57:05.756Z
 tags:
   - apple
 categories:
@@ -26,6 +26,13 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdaf4daac-ace0-4564-b11a-669e8bd9ad72%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best small tablets of 2024
 
 Show less 
@@ -41,21 +48,7 @@ Cons
 * Cellular connectivity is additional cost
 * Expensive
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple iPad Mini 6th Generation
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -87,6 +80,13 @@ Pros
 Cons 
 * Performance is slightly slow
 * Cameras aren't as great as other options
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Amazon Fire 7 Tablet
 
@@ -120,13 +120,6 @@ Cons
 * Expensive
 * Some complaints of lag
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Boox Tab Mini C
 
 ### Best small tablet for note-taking
@@ -158,19 +151,6 @@ Cons
 
 ## Amazon Kindle 11th generation
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best small tablet for reading
 
 The upgraded 11th-generation Kindle offers 16GB of storage instead of 8GB, 300ppi instead of 167ppi, six weeks of battery life instead of four weeks, and charging via USB-C instead of micro-USB. 
@@ -199,7 +179,21 @@ Pros
 Cons 
 * Performance could be better
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Tab A7 Lite
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best Samsung small tablet
 
@@ -237,13 +231,6 @@ It really depends on what size tablet you're looking for, which operating system
 | Amazon Kindle                               | A small and portable tablet designed for reading with dark mode and six weeks of battery life. Its 300ppi is the same display as the Kindle Paperwhite and the Kindle Oasis.                                                                                                             |
 | Samsung Galaxy A7 Lite                      | A small Samsung tablet with expandable storage and an exceptional battery life. The tablet allows for up to 1TB of expandable storage.                                                                                                                                                   |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing the best small tablets:
 
 We know there are a lot of tablets and tablet sizes to choose from, but ultimately, these were the determining factors in our top picks. 
@@ -252,6 +239,13 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Display:** Small tablets shouldn't have to compromise on an already smaller display, so we also considered display resolution.
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test tablets
 
@@ -271,13 +265,6 @@ The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What brand of tablet is best?
 
 Tablets made by Apple, Samsung, and Microsoft are the best-made tablets in terms of quality. Amazon has well-rounded tablets in its Fire lineup but with fewer performance-focused features. Boox is also proving to be an industry underdog, with impressive tablets that function as e-readers and illustrators. 
@@ -286,22 +273,29 @@ Keep in mind in certain cases (Apple, Samsung), you can pair your other devices 
 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Are mini Android tablets worth it?
 
 Yes, they can be. Small Android tablets allow you to do everything you would normally do, like reading e-books and video calling, without the higher price tags. 
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -349,20 +343,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-a-comprehensive-walkthrough-creating-channel-banners-for-2024/"><u>[Updated] A Comprehensive Walkthrough Creating Channel Banners for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-finding-your-portal-to-youtubes-video-mastery-hub/"><u>[Updated] Finding Your Portal to YouTube's Video Mastery Hub</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-chatgpt-lead-the-transformation-of-patient-care/"><u>Can ChatGPT Lead the Transformation of Patient Care?</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-enhancing-user-experience-with-personalized-analytics-and-data-capture/"><u>Cookiebot-Enabled: Enhancing User Experience with Personalized Analytics and Data Capture</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-resume-game-with-ai-innovation/"><u>Elevate Your Resume Game with AI Innovation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/empower-your-projects-three-strategies-for-harnessing-chatgpts-wolfram-plugin-features/"><u>Empower Your Projects: Three Strategies for Harnessing ChatGPT's Wolfram Plugin Features</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-earn-big-on-youtube-shorts-tips-for-profitable-content-creation/"><u>In 2024, Earn Big on YouTube Shorts Tips for Profitable Content Creation</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-your-employment-search-using-chatgpt-top-6-tips-and-tricks/"><u>Maximize Your Employment Search Using ChatGPT: Top 6 Tips & Tricks</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-diy-raspberry-pi-creation-unveiling-the-pi-1000-a-powerhouse-of-5-raspberry-units/"><u>Revolutionary DIY Raspberry Pi Creation - Unveiling the 'Pi 1000': A Powerhouse of 5 Raspberry Units!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/skyrocketing-chatgpt-performance-via-extensions/"><u>Skyrocketing ChatGPT Performance via Extensions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ethical-path-to-knowledge-without-gpt/"><u>The Ethical Path to Knowledge Without GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/writing-with-wisdom-7-principles-for-responsible-ai-deployment/"><u>Writing with Wisdom: 7 Principles for Responsible AI Deployment</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-13-proplus-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 13 Pro+ 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-innovative-approaches-to-sims-4-video/"><u>[Updated] In 2024, Innovative Approaches to Sims 4 Video</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-one-minute-color-magic-for-2024/"><u>[Updated] One Minute Color Magic for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/determining-if-its-a-global-issue-is-blizzards-battlenet-down-or-just-your-connection/"><u>Determining If It's a Global Issue: Is Blizzard's Battle.net Down, Or Just Your Connection?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-wmv-files-for-free-top-5-video-editor-options-for-2024/"><u>Edit WMV Files for Free Top 5 Video Editor Options for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-articles-and-blog-posts-discover-9-key-advantages-of-chatgpt-for-writers/"><u>Elevate Your Articles & Blog Posts: Discover 9 Key Advantages of ChatGPT for Writers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/excel-excellence-achievable-through-chatgpt-partnership/"><u>Excel Excellence Achievable Through ChatGPT Partnership</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/future-of-security-insights-into-tomorrows-cyber-threat-landscape/"><u>Future of Security: Insights Into Tomorrow's Cyber Threat Landscape</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gptzero-guide-detecting-synthetic-text-with-ease/"><u>GPTZero Guide: Detecting Synthetic Text with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-chatgpts-capabilities-for-poetic-expression/"><u>Harnessing ChatGPT's Capabilities for Poetic Expression</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-palm-2-elevates-googles-bard-ai-discover-7-key-upgrades/"><u>How PaLM 2 Elevates Google's Bard AI - Discover 7 Key Upgrades!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-note-30-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Note 30 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-a14-4g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy A14 4G Unlock Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-civi-3-disney-100th-anniversary-edition-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi Civi 3 Disney 100th Anniversary Edition Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Xiaomi Redmi Note 12T Pro Phone?</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-steps-for-fixing-swtor-launch-problems/"><u>Resolved: Troubleshooting Steps for Fixing SWTOR Launch Problems</u></a></li>
 </ul></div>
 
