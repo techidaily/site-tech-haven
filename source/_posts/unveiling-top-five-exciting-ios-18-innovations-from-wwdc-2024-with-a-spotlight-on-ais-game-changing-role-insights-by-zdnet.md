@@ -1,7 +1,7 @@
 ---
 title: Unveiling Top Five Exciting iOS 18 Innovations From WWDC 2024, with a Spotlight on AI's Game-Changing Role - Insights by ZDNet
-date: 2024-10-07T18:46:18.334Z
-updated: 2024-10-09T21:27:29.108Z
+date: 2024-10-10T00:05:19.639Z
+updated: 2024-10-15T20:21:22.764Z
 tags:
   - apple
 categories:
@@ -51,16 +51,10 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -70,10 +64,16 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -85,10 +85,10 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -98,10 +98,16 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -142,24 +148,22 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ips-for-successful-youtube-audios/"><u>[New] Tips for Successful Youtube Audios</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-15-video-reviews-ultimate-unboxing-channel-guide/"><u>[Updated] Top 15 Video Reviews Ultimate Unboxing Channel Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-unleash-the-power-of-subtitling-an-online-tool-compendium/"><u>2024 Approved Unleash the Power of Subtitling An Online Tool Compendium</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-valhallas-vanguard-fiery-rebirth/"><u>2024 Approved Valhalla's Vanguard Fiery Rebirth</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expand-your-apple-tv-library-watch-any-video-using-vlc-simple-steps-inside/"><u>Expand Your Apple TV Library: Watch Any Video Using VLC – Simple Steps Inside!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-7-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone 7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/key-strategies-rectifying-top-6-auto-gpt-hiccups/"><u>Key Strategies: Rectifying Top 6 Auto-GPT Hiccups</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-character-creation-the-11-most-effective-ai-prompts/"><u>Master Character Creation: The 11 Most Effective AI Prompts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-ai-landscapes-mastering-the-art-of-transfer-learning/"><u>Navigating AI Landscapes: Mastering the Art of Transfer Learning</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-challenges-of-effective-gpt-communication/"><u>Navigating the Challenges of Effective GPT Communication</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-itel-s23-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Itel S23.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-workout-design-with-generative-ai/"><u>Revolutionizing Workout Design with Generative AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-customer-service-merging-chatgpt-with-whatsapp-for-enhanced-support/"><u>Seamless Customer Service: Merging ChatGPT with WhatsApp for Enhanced Support</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/shielding-from-silicon-scribes-recognizing-pseudo-writings/"><u>Shielding From Silicon Scribes: Recognizing Pseudo-Writings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/steps-to-clearing-your-chatgpt-interaction-records/"><u>Steps to Clearing Your ChatGPT Interaction Records</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategy-for-successful-entry-fixing-common-chatgpt-errors/"><u>Strategy for Successful Entry: Fixing Common ChatGPT Errors</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tv-blank-face-laptop-lights-on/"><u>TV Blank Face, Laptop Lights On</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wireless-mouse-not-working-master-the-fixes-for-a-smooth-experience-on-windows-1110/"><u>Wireless Mouse Not Working? Master the Fixes for a Smooth Experience on Windows 11/10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nveiling-the-reasons-behind-missing-shorts-thumbnails-for-2024/"><u>[New] Unveiling the Reasons Behind Missing Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-building-a-broadcast-brand-with-youtube-twitch-and-obs/"><u>[Updated] Building a Broadcast Brand with YouTube, Twitch and OBS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-ultimate-guide-to-easy-content-making-10-basic-youtube-videos/"><u>[Updated] In 2024, The Ultimate Guide to Easy Content Making 10 Basic YouTube Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ideal-online-destinations-for-video-promotion/"><u>2024 Approved Ideal Online Destinations for Video Promotion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/balancing-the-scales-chatgpts-role-in-enhancing-and-hindering-creativity-in-writing/"><u>Balancing the Scales: ChatGPT’s Role in Enhancing and Hindering Creativity in Writing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/banks-and-computers-are-you-protected-from-gpt-powered-cyberattacks/"><u>Banks & Computers: Are You Protected From GPT-Powered Cyberattacks?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-privacy-concerns-with-chatgpt-should-users-be-worried/"><u>Evaluating Privacy Concerns with ChatGPT: Should Users Be Worried?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-gt-3-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme GT 3 Pattern Lock Screen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-profit-from-spotting-code-flaws-in-openais-challenge-arena/"><u>How to Profit From Spotting Code Flaws in OpenAI's Challenge Arena</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-iphone-8-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your iPhone 8 and iPad?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-simple-guide-performing-a-fresh-installation-of-windows-11/"><u>Quick & Simple Guide: Performing a Fresh Installation of Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reclaim-your-privacy-the-ultimate-guide-to-exiting-gpt/"><u>Reclaim Your Privacy: The Ultimate Guide to Exiting GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-potential-integrating-chatgpt-with-add-ons/"><u>Unleashing Potential: Integrating ChatGPT with Add-Ons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-of-gpt-3-at-openai-sandbox/"><u>Unlocking the Secrets of GPT-3 at OpenAI Sandbox</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-predictive-ai-its-mechanism-and-functionality/"><u>Unraveling Predictive AI: Its Mechanism and Functionality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-screen-fix-no-full-screen-view-detected/"><u>Win11 Screen Fix: No Full-Screen View Detected</u></a></li>
 </ul></div>
 

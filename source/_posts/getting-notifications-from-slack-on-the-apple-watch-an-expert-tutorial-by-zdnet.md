@@ -1,7 +1,7 @@
 ---
 title: "Getting Notifications From Slack on the Apple Watch: An Expert Tutorial by ZDNet"
-date: 2024-10-05T21:12:36.752Z
-updated: 2024-10-09T23:05:37.719Z
+date: 2024-10-12T01:22:45.681Z
+updated: 2024-10-15T17:10:07.400Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
@@ -64,6 +57,13 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##   
 
@@ -80,10 +80,16 @@ Screenshot by David Gewirtz/ZDNET
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##   
@@ -105,16 +111,16 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -137,6 +143,13 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
@@ -146,13 +159,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -193,22 +199,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-cant-see-cursor-only-sony-a6400-glitch/"><u>[New] 2024 Approved Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-frontline-firefight-top-7-fps-battles-ranked-for-2024/"><u>[Updated] Frontline Firefight - Top 7 FPS Battles Ranked for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-tutorial-mastering-the-art-of-sharing-files-and-posting-online/"><u>Complete Tutorial: Mastering the Art of Sharing Files & Posting Online</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensuring-smooth-vr-fun-compatible-official-drivers-for-oculus-headsets-on-windows-11-10-8-and-7/"><u>Ensuring Smooth VR Fun: Compatible [Official] Drivers for Oculus Headsets on Windows 11, 10, 8 & 지7</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-13t-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi 13T Pro Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-enhanced-google-chats-essential-techniques-4-ways/"><u>In 2024, Enhanced Google Chats Essential Techniques, 4 Ways</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-iphone-xs-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the iPhone XS Without Previous Owner?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ocam-screen-recorder-review-and-alternative/"><u>In 2024, OCam Screen Recorder Review and Alternative</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/self-healing-through-tech-are-there-dangers-you-should-watch-for/"><u>Self-Healing Through Tech: Are There Dangers You Should Watch For?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-accessing-chatgpts-extension-options/"><u>Step-by-Step Guide to Accessing ChatGPT's Extension Options</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-for-leveraging-chatgpt-on-google-sheets-using-gpt-tools/"><u>Step-by-Step Instructions for Leveraging ChatGPT on Google Sheets Using GPT Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-4-key-advantages-of-integrating-chatgpt-into-your-website-design-strategy/"><u>The 4 Key Advantages of Integrating ChatGPT Into Your Website Design Strategy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-hazards-of-ai-based-therapy-and-psychological-support-systems/"><u>The Hidden Hazards of AI-Based Therapy and Psychological Support Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-interacting-with-chatgpt-talk-like-never-before/"><u>The Ultimate Guide to Interacting with ChatGPT: Talk Like Never Before</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-strategy-for-operating-chatgpt-in-various-languages/"><u>The Ultimate Strategy for Operating ChatGPT in Various Languages</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/top-ranking-complimentary-aac-media-player-seamless-streaming-of-aac-tunes-and-sounds/"><u>Top-Ranking Complimentary AAC Media Player - Seamless Streaming of AAC Tunes & Sounds</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-your-way-through-chatgpt-sign-in-issues/"><u>Troubleshooting Your Way Through ChatGPT Sign-In Issues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-galaxy-of-play-ultimate-list-of-the-cheapest-rpgs-online-for-2024/"><u>[New] Galaxy of Play Ultimate List of the Cheapest RPGs Online for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-crafting-captivating-chronicles-the-worlds-best-schools-top-8/"><u>[New] In 2024, Crafting Captivating Chronicles The World's Best Schools (Top 8)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-small-companys-guide-to-the-safest-online-chat-services-for-2024/"><u>[New] Small Company's Guide to the Safest Online Chat Services for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-youtube-video-dimension-standards/"><u>[Updated] In 2024, YouTube Video Dimension Standards</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nubia-red-magic-9-proplus-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-a-tool-for-banks-vulnerabilities/"><u>ChatGPT: A Tool for Banks' Vulnerabilities?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-engaging-presentations-using-chatgpts-powerful-tools/"><u>Crafting Engaging Presentations Using ChatGPT's Powerful Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/delving-into-prompt-engineering-job-opportunities-9-crucial-elements-for-your-decision/"><u>Delving Into Prompt Engineering Job Opportunities - 9 Crucial Elements for Your Decision</u></a></li>
+<li><a href="https://extra-information.techidaily.com/engaging-podcast-openers-captivating-intro-lines/"><u>Engaging Podcast Openers Captivating Intro Lines</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-excel-experience-3-powerful-chatgpt-applications/"><u>Enhancing Excel Experience: 3 Powerful ChatGPT Applications</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-influence-essential-marketing-expressions-explained/"><u>In 2024, The Art of Influence Essential Marketing Expressions Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introduce-a-cost-free-localized-chatbot-ai-on-pc/"><u>Introduce a Cost-Free Localized Chatbot AI on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-integrating-gpt-references-enhancing-conversations-with-personalized-ai/"><u>Mastering the Art of Integrating GPT References: Enhancing Conversations with Personalized AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-the-internet-the-impact-of-ai-on-future-search-engine-results/"><u>Transforming the Internet: The Impact of AI on Future Search Engine Results</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-baldurs-gate-3-pc-instability-effective-solutions/"><u>Troubleshooting Baldur's Gate 3 PC Instability: Effective Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-artificei-intelligence-a-beginners-guide/"><u>Understanding ArtificeI Intelligence: A Beginner's Guide</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/zwei-methoden-zum-automatisieren-der-sicherungsverschiebung-von-windows-10-auf-wd-my-cloud/"><u>Zwei Methoden Zum Automatisieren Der Sicherungsverschiebung Von Windows 10 Auf WD My Cloud</u></a></li>
 </ul></div>
 

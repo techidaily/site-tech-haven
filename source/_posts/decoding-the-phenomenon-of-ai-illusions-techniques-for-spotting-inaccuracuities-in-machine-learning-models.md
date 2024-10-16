@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Phenomenon of AI Illusions: Techniques for Spotting Inaccuracuities in Machine Learning Models"
-date: 2024-09-06T23:15:26.716Z
-updated: 2024-09-13T07:52:17.252Z
+date: 2024-10-12T20:39:02.020Z
+updated: 2024-10-15T16:34:22.358Z
 tags:
   - chatgpt
   - open-ai
@@ -34,22 +34,21 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -61,21 +60,7 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -88,19 +73,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -110,10 +82,10 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -123,6 +95,13 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -134,6 +113,13 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -154,5 +140,23 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-perfect-resolution-for-immersive-vr/"><u>[New] In 2024, The Perfect Resolution for Immersive VR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterpiece-makers-exceptional-android-collage-apps/"><u>[Updated] Masterpiece Makers – Exceptional Android Collage Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unleashing-potential-11-steps-to-enhance-facebook-traffic-through-video/"><u>[Updated] Unleashing Potential 11 Steps to Enhance Facebook Traffic Through Video</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-video-engagement-by-inserting-captions/"><u>2024 Approved Elevate Video Engagement by Inserting Captions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-insights-into-profit-allocation-on-popular-youtube-shorts/"><u>2024 Approved Insights Into Profit Allocation on Popular YouTube Shorts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-r9-series-quick-start-to-downloading-and-installing-drivers-on-windows/"><u>AMD Radeon R9 Series: Quick Start to Downloading & Installing Drivers on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-smartphones-cherished-staff-a-behind-the-scenes-look/"><u>Discover the Smartphones Cherished Staff - A Behind-the-Scenes Look</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/effortless-mac-screenshots-exploring-five-simple-methods-for-2024/"><u>Effortless Mac Screenshots Exploring Five Simple Methods for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-your-steam-remote-play-running-smoothly-with-these-proven-fixes/"><u>Get Your Steam Remote Play Running Smoothly with These Proven Fixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-android-can-step-up-its-game-against-ios-a-deep-dive-into-key-improvements-for-greater-compatibility-suggested/"><u>How Android Can Step Up Its Game Against iOS: A Deep Dive Into Key Improvements for Greater Compatibility, Suggested</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipad-pro-analysis-why-apples-premier-tablet-excels-in-its-own-right-distinct-from-the-macbook-insights-by-zdnet/"><u>IPad Pro Analysis: Why Apple's Premier Tablet Excels in Its Own Right, Distinct From the MacBook | Insights by ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/setting-up-automatic-tab-closure-on-safari-in-macos-catalina-a-step-by-step-guide/"><u>Setting up Automatic Tab Closure on Safari in macOS Catalina: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-detecting-and-eliminating-mobile-phone-spyware-tips-from-zdnet/"><u>Step-by-Step Guide: Detecting & Eliminating Mobile Phone Spyware - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-choosing-the-perfect-small-tablets-in-202-cued-industry-experts-weigh-in/"><u>Ultimate Guide to Choosing the Perfect Small Tablets in 202 Cued: Industry Experts Weigh In</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-smallest-high-performance-tablets-of-2024-vetted-and-analyzed-by-industry-experts-choice/"><u>Ultimate Guide to the Smallest High-Performance Tablets of 2024 - Vetted and Analyzed by Industry Experts Choice</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y36-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y36 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>
 

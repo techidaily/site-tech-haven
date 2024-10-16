@@ -1,7 +1,7 @@
 ---
 title: Leveraging ChatGPT for Tailored Training Programs in the Fitness Industry
-date: 2024-09-09T16:50:40.061Z
-updated: 2024-09-13T04:12:46.520Z
+date: 2024-10-12T04:13:00.495Z
+updated: 2024-10-16T03:42:17.496Z
 tags:
   - chatgpt
   - open-ai
@@ -16,19 +16,6 @@ thumbnail: https://thmb.techidaily.com/061c3cb51f73174994130ac8ba7737b4e102bdd69
 ## Avoid Falling for Scams: Unmasking the Chrome Hack That Steals Your Facebook Login Details
 
  A malicious Chrome extension using ChatGPT's name is being used to steal users' Facebook logins for malicious advertising.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
 
@@ -45,10 +32,10 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Thousands of Facebook Accounts May Have Been Compromised
@@ -58,10 +45,10 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Malicious App Has Been Removed from Chrome
@@ -69,10 +56,10 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -92,5 +79,16 @@ Guardio took to Twitter to warn readers of the malicious campaign.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-building-a-robust-spotify-advertising-foundation/"><u>[Updated] 2024 Approved Building a Robust Spotify Advertising Foundation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-seven-best-youtube-live-streaming-tools-for-iphoneandroid/"><u>[Updated] Unveiling The Seven Best YouTube Live Streaming Tools for iPhone/Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-10-subtitle-editing-software-online/"><u>2024 Approved Premier 10 Subtitle Editing Software Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-macos-experience-discover-the-power-of-hot-corners-expert-tips/"><u>Enhance Your macOS Experience: Discover the Power of Hot Corners – Expert Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/esr-unveils-latest-qi2-magsafe-charging-series-rapidly-power-up-your-iphone-16-seamlessly-and-cooler-the-innovative-cryoboost-technology-explained/"><u>ESR Unveils Latest Qi2 MagSafe Charging Series: Rapidly Power Up Your iPhone 16, Seamlessly & Cooler – The Innovative CryoBoost Technology Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insights-into-apples-future-ai-enhancements-teased-with-recent-strategic-purchase/"><u>Insights Into Apple's Future: AI Enhancements Teased with Recent Strategic Purchase</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sync-your-oura-health-metrics-with-strava-effortlessly-a-step-by-step-guide/"><u>Sync Your Oura Health Metrics with Strava Effortlessly - A Step-by-Step Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-create-unforgettable-moments-video-editing-essentials-for-home-movie-enthusiasts/"><u>Updated 2024 Approved Create Unforgettable Moments Video Editing Essentials for Home Movie Enthusiasts</u></a></li>
+</ul></div>
 

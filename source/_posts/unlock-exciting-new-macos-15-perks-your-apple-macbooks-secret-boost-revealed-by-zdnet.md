@@ -1,7 +1,7 @@
 ---
 title: "Unlock Exciting New MacOS 15 Perks: Your Apple MacBook's Secret Boost Revealed by ZDNet!"
-date: 2024-10-02T17:11:22.536Z
-updated: 2024-10-09T23:47:03.826Z
+date: 2024-10-11T08:13:19.758Z
+updated: 2024-10-15T17:40:09.591Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Apple announced an innovative feature coming to AirPods Pro 2 when iOS 18 is rel
 Then, if needed, the AirPods Pro 2 can use the wearer's results and double as an over-the-counter hearing aid. This feature will allow the Pro 2 earbuds to use their directional microphones to amplify conversational noises for users who have difficulty hearing conversations in noisy environments. Apple is still waiting for the FDA to approve this feature, but the company expects the approval to be ready for iOS 18's release.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Find My speaker
@@ -48,10 +54,10 @@ Apple's AirPods Pro 2 feature a small speaker on the bottom of the charging case
 Jada Jones/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods Max wired listening
@@ -71,16 +77,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Now, if you have an iPhone 15 or newer, you can plug a USB-C cable into your iPhone and AirPods Max and begin listening. If you have an iPhone 14 or older, you can use a Lightning-to-USB-C adapter to plug into the new AirPods Max.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A 'Goldilocks' pair of AirPods
@@ -121,16 +121,24 @@ Now, you can buy the AirPods 4 with noise cancellation, which offer upgraded aud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-masterclass-in-mobile-video-viewing-10-leading-iphoneipad-apps-for-2024/"><u>[New] Masterclass in Mobile Video Viewing 10 Leading iPhone/iPad Apps for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-the-art-of-captivating-vimeo-staff-picks/"><u>[Updated] Mastering the Art of Captivating Vimeo Staff Picks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-turbo-speed-photo-browser-for-windows-10/"><u>2024 Approved Turbo Speed Photo Browser for Windows 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-through-with-stunning-hdr-portrait-shots/"><u>Breaking Through with Stunning HDR Portrait Shots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/efficient-use-of-chatgpt-for-enhancing-your-educational-journey/"><u>Efficient Use of ChatGPT for Enhancing Your Educational Journey</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-efficiency-using-10-plugin-solutions-based-on-chatgpt-for-pdfs/"><u>Enhance Efficiency Using 10 Plugin Solutions Based on ChatGPT for PDFs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-business-operations-with-chatgpt-a-guide-to-8-key-applications/"><u>Enhancing Business Operations with ChatGPT - A Guide to 8 Key Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-commutes-mercedes-marries-ai-and-voice-control/"><u>Enhancing Commutes: Mercedes Marries AI and Voice Control</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-quality-graphics-without-extravagance/"><u>High-Quality Graphics Without Extravagance</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-become-a-meme-wizard-with-these-9gag-strategies/"><u>[New] Become a Meme Wizard with These 9GAG Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-journey-to-the-best-online-shopping-spots-for-enigmatic-boxes/"><u>[New] Journey to the Best Online Shopping Spots for Enigmatic Boxes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-acid-pro-alternatives-a-comprehensive-guide/"><u>2024 Approved ACID Pro Alternatives A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-narzo-60-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme Narzo 60 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cracking-hugging-faces-core-functions-and-applications/"><u>Cracking Hugging Face’s Core Functions & Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deploying-ai-agents-with-agentgpt-a-step-by-step-guide-from-your-web-browser/"><u>Deploying AI Agents with AgentGPT: A Step-by-Step Guide From Your Web Browser</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/dissecting-the-potential-of-inshots-video-craft/"><u>Dissecting the Potential of InShot's Video Craft</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/erasing-your-presence-on-chatgpt-a-comprehensive-tutorial/"><u>Erasing Your Presence on ChatGPT – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exposing-deception-chatgpt-windows-app-is-a-scam-avoid-potential-threats/"><u>Exposing Deception: ChatGPT Windows App Is a Scam, Avoid Potential Threats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-googles-revolutionary-palm-2-transform-natural-language-processing/"><u>How Does Google's Revolutionary PaLM 2 Transform Natural Language Processing?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-honor-x8b-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Honor X8b Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-music-library-mp3s-direct-to-youtube-playlist/"><u>In 2024, Streamline Your Music Library MP3s Direct to YouTube Playlist</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-top-10-youtube-video-editing-tips-for-beginner-editors/"><u>In 2024, Top 10 YouTube Video Editing Tips for Beginner Editors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/linguistic-boundaries-gpts-processing-edge/"><u>Linguistic Boundaries: GPT's Processing Edge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-your-craft-with-8-top-ai-writing-tools/"><u>Master Your Craft with 8 Top AI Writing Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/narrative-nuance-and-conflict-creation-with-gpts-9-strategies/"><u>Narrative Nuance and Conflict Creation with GPT's 9 Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/police-strike-down-vpns-upholding-cyber-law/"><u>Police Strike Down VPNs, Upholding Cyber Law</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-document-creation-process-with-chatgpt-and-microsoft-word-collaboration/"><u>Revolutionize Your Document Creation Process with ChatGPT and Microsoft Word Collaboration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/studio-techniques-decoded-xvideostudio-edition/"><u>Studio Techniques Decoded XVideoStudio Edition</u></a></li>
 </ul></div>
 

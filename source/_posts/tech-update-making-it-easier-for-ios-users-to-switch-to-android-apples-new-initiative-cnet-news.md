@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Making It Easier for iOS Users to Switch to Android - Apple's New Initiative | CNET News"
-date: 2024-10-06T21:53:49.856Z
-updated: 2024-10-09T18:30:15.156Z
+date: 2024-10-10T03:53:09.670Z
+updated: 2024-10-15T20:37:11.337Z
 tags:
   - apple
 categories:
@@ -34,19 +34,6 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -72,10 +59,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -94,6 +81,13 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -103,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -126,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -172,24 +166,20 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-expert-chosen-speeds-modifying-tools-pc-phone/"><u>[New] Expert-Chosen Speeds Modifying Tools (PC, Phone)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ow-to-use-youtube-enhancements-for-2024/"><u>[New] How to Use YouTube Enhancements for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-unlocking-the-potential-of-snapchat-highlights/"><u>2024 Approved Unlocking the Potential of Snapchat Highlights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-top-brainy-criminal-conundrums-mastermind-your-way-through-ai-driven-puzzles-and-games/"><u>5 Top Brainy Criminal Conundrums: Mastermind Your Way Through AI-Driven Puzzles & Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-driven-content-creation-mastering-social-media-posts/"><u>AI-Driven Content Creation: Mastering Social Media Posts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-writes-the-future-top-5-unseen-power-ups-for-conversations/"><u>AI' Writes the Future: Top 5 Unseen Power-Ups for Conversations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artists-challenge-tech-giants-the-case-against-openai-and-meta-in-ai-controversy/"><u>Artists Challenge Tech Giants: The Case Against OpenAI and Meta in AI Controversy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-convenience-ethical-implications-of-using-ai-for-windows-keys/"><u>Beyond Convenience: Ethical Implications of Using AI for Windows Keys</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-polyglot-skills-through-innovative-tech-discover-how-chatgpt-plus-aids-language-education/"><u>Boost Your Polyglot Skills Through Innovative Tech: Discover How ChatGPT Plus Aids Language Education</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-how-noctua-is-changing-game-with-its-latest-pumpless-aio-liquid-cooler-design-harnessing-evaporation-power/"><u>Discover How Noctua Is Changing Game with Its Latest Pumpless AIO Liquid Cooler Design Harnessing Evaporation Power</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-civi-3-disney-100th-anniversary-edition-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Civi 3 Disney 100th Anniversary Edition FRP Bypass</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/influencer-secrets-making-your-vids-hits-hard-for-2024/"><u>Influencer Secrets Making Your Vids Hits Hard for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-user-isolation-for-security-in-win-11/"><u>Mastering User Isolation for Security in Win 11</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-10-best-video-players-with-slow-motion-for-2024/"><u>New The Ultimate Guide 10 Best Video Players with Slow Motion for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/virtualizing-surround-sound-on-streaming-platforms-techniques-used-by-netflix-to-enhance-your-headphone-viewing-experience/"><u>Virtualizing Surround Sound on Streaming Platforms: Techniques Used by Netflix to Enhance Your Headphone Viewing Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/voice-enabled-responses-unveiling-openais-new-feature-for-chatgpt/"><u>Voice-Enabled Responses: Unveiling OpenAI's New Feature for ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-leads-in-ai-chatter-analyzing-chatgpt-versus-google-bards-capabilities/"><u>Which Leads in AI Chatter? Analyzing ChatGPT Versus Google Bard's Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/will-generative-ai-like-chatgpt-take-over-my-job-understanding-the-impact-on-employment/"><u>Will Generative AI Like ChatGPT Take Over My Job? Understanding the Impact on Employment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experience-like-never-before-leading-10-vr-devices/"><u>[Updated] Experience Like Never Before Leading 10 VR Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027051346-windows-11/"><u>最新Windows 11で音声・音楽ファイル編集を習得する - 使えるソフトウェア一覧</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-tips-perfecting-photos-with-onscreen-cropping-for-2024/"><u>Advanced Tips Perfecting Photos with Onscreen Cropping for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-favorite-is-pickup-superior-to-other-photo-editors-for-2024/"><u>Android’s Favorite Is PickUp Superior to Other Photo Editors for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/galaxy-s20-video-playback-compatible-audio-and-video-codecs/"><u>Galaxy S20 Video Playback: Compatible Audio & Video Codecs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-10-collage-apps-for-android-top-picks/"><u>In 2024, Best 10 Collage Apps for Android ​ (Top Picks)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unraveling-the-meaning-and-usage-of-blue-emoji-in-fb-messages/"><u>In 2024, Unraveling the Meaning and Usage of Blue Emoji in FB Messages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-era-begins-with-chatgpts-significant-upgrades/"><u>New Era Begins with ChatGPT’s Significant Upgrades</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-auto-gpt-snags-solutions-for-top-6-hurdles/"><u>Overcoming Auto-GPT Snags: Solutions for Top 6 Hurdles</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-to-procuring-and-planting-minecraft-realms/"><u>Secrets to Procuring & Planting Minecraft Realms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-business-perspective-5-main-arguments-against-ais-invasion/"><u>The Business Perspective: 5 Main Arguments Against AI's Invasion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-ai-in-shaping-the-future-of-mental-health-services-boon-or-bane/"><u>The Role of AI in Shaping the Future of Mental Health Services: Boon or Bane?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-waterproof-wearables-comprehensive-gadget-reviews-by-tech-experts/"><u>Top-Rated Waterproof Wearables - Comprehensive Gadget Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-mobile-experience-with-the-latest-chatgpt-ios-application-launch/"><u>Transform Your Mobile Experience with the Latest ChatGPT iOS Application Launch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-you-need-to-know-about-fraudgpt-a-preventive-approach-to-staying-secure-online/"><u>What You Need to Know About FraudGPT: A Preventive Approach to Staying Secure Online</u></a></li>
 </ul></div>
 

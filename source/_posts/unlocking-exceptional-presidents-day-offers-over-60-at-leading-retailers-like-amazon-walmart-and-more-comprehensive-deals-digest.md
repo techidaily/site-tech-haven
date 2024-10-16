@@ -1,7 +1,7 @@
 ---
 title: Unlocking Exceptional Presidents' Day Offers Over 60%% at Leading Retailers Like Amazon, Walmart and More | Comprehensive Deals Digest
-date: 2024-10-05T00:46:29.459Z
-updated: 2024-10-09T22:19:36.153Z
+date: 2024-10-08T17:41:31.079Z
+updated: 2024-10-16T02:30:17.830Z
 tags:
   - apple
 categories:
@@ -39,6 +39,13 @@ From headphones to robot vacuums to TVs, now's your chance to snag savings that 
 * [Roborock Q7 Max+ Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB09NNFNWZ9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $520 (save $180 with coupon at Amazon)
 * [Amazon Fire HD 8 Kids Pro Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB09BG63ZMM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $100 (save $50 at Amazon)
 * [Blink Outdoor 4 Floodlight Camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0BBX45V5B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $85 (save $45 at Amazon)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best Presidents Day tech deals still live
 
@@ -79,10 +86,10 @@ Jason Hiner/ZDNET
 * [Jabra Elite 10 Wireless Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0CB91VRGV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $200 (save $50 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Presidents Day TV deals still live
@@ -116,13 +123,6 @@ Beth Mauder/ZDNET
 * [Roborock S8 Pro Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $1,400 (save $200 at Amazon)
 * [Roborock S8 Pro Vacuum and Mop](https://roborock.pxf.io/c/159047/1179705/14848?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fus.roborock.com%2Fproducts%2Froborock-s8-pro-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $1,400 (save $200 at Roborock)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Presidents Day home deals still live
 
 Arlo
@@ -136,16 +136,16 @@ Arlo
 * [iDoo Queen Air Mattress](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0C8TF4VK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $70 (save $46 at Amazon)
 * [Eve Light Strip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEve-Light-Strip-Full-Spectrum-Necessary%2Fdp%2FB07MTX8MR4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $40 (save $40 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When is President's Day?
 
 President's Day is always celebrated on the third Monday of February. This year, it falls on Feb. 19\. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these deals?
 
@@ -153,16 +153,16 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When will these deals expire?
 
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does Amazon have a Presidents' Day sale?
 
@@ -210,19 +210,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-exclusive-guide-to-affordable-premium-video-editors/"><u>[New] 2024 Approved Exclusive Guide to Affordable, Premium Video Editors</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-celebratory-closures-from-bare-bones-to-full-featured/"><u>[New] In 2024, Celebratory Closures From Bare-Bones to Full-Featured</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-step-by-step-for-turning-your-vids-into-beats-on-insta-for-2024/"><u>[Updated] The Step-by-Step for Turning Your Vids Into Beats on Insta for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-10-excellent-cost-free-video-meeting-solutions/"><u>2024 Approved 10 Excellent, Cost-Free Video Meeting Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhanced-engagement-charting-the-10-paths-to-better-gpt/"><u>Enhanced Engagement: Charting the 10 Paths to Better GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ensuring-your-ai-ally-chatgpt-is-up-and-at-em/"><u>Ensuring Your AI Ally, ChatGPT, Is Up and At 'Em</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exclusive-privacy-focused-chats-on-duckduckgos-site-meet-the-new-chatbot-beyond-chatgpt/"><u>Exclusive Privacy-Focused Chats on DuckDuckGo's Site: Meet the New Chatbot Beyond ChatGPT!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-huggingchat-an-affordable-open-source-solution-like-chatgpt/"><u>Exploring HuggingChat: An Affordable, Open Source Solution Like ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-versatile-functions-8-ways-to-leverage-chatgpt-sight/"><u>Exploring the Versatile Functions: 8 Ways to Leverage ChatGPT Sight</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-conversation-to-completion-who-leads/"><u>From Conversation to Completion: Who Leads?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-advice-best-mobile-melody-crafters/"><u>In 2024, Expert Advice Best Mobile Melody Crafters</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-unlocking-phantom-the-slow-motion-essentials/"><u>In 2024, Unlocking Phantom The Slow-Motion Essentials</u></a></li>
-<li><a href="https://techtrends.techidaily.com/initiate-setup-procedure-for-an-echo-dot-device-effectively/"><u>Initiate Setup Procedure for an Echo Dot Device Effectively</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-looking-for-efficient-ways-to-create-a-slow-motion-video-read-the-article-for-reliable-solutions-that-provide-excellent-results-for-2024/"><u>Updated Looking for Efficient Ways to Create a Slow-Motion Video? Read the Article for Reliable Solutions that Provide Excellent Results for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-accessibility-achieved-the-simple-setup-of-ifunny-app/"><u>[New] In 2024, Accessibility Achieved The Simple Setup of iFunny App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-definition-face-off-ultimate-legend-sj6-vs-xiaomis-yi/"><u>2024 Approved High Definition Face-Off Ultimate Legend SJ6 Vs. Xiaomi's Yi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-balanced-tripods-for-dslr-phone-and-tablet-videos-for-2024/"><u>Best Balanced Tripods for DSLR, Phone, and Tablet Videos for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-veracity-in-the-limelight/"><u>ChatGPT's Veracity in the Limelight</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-evaluation-of-twelve-souths-bookarc-flex-a-nearly-ideal-support-solution-for-your-macbook/"><u>Comprehensive Evaluation of Twelve South's BookArc Flex - A Nearly Ideal Support Solution for Your MacBook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/content-creation-made-easy-with-these-9-strategies-involving-chatgpt/"><u>Content Creation Made Easy with These 9 Strategies Involving ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-claude-3s-features-and-potential/"><u>Decoding Claude 3'S Features & Potential</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-functionality-behind-chatgpts-collaborative-link-sharing-feature/"><u>Decoding the Functionality Behind ChatGPT's Collaborative Link Sharing Feature</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-11-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-image-superimposition-for-desktop/"><u>In 2024, Seamless Image Superimposition for Desktop</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-14-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 14</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/make-your-android-smart-embrace-the-future-with-chatgpt-now-available-on-mobile-phones/"><u>Make Your Android Smart: Embrace the Future with ChatGPT Now Available on Mobile Phones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/os-melhores-servicos-gratuitos-para-download-e-streaming-de-filmes-em-formato-mov-no-ano-de-202n4/"><u>Os Melhores Serviços Gratuitos Para Download E Streaming De Filmes Em Formato MOV No Ano De 202N4</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-routines-to-rearrange-youtube-playlists-effectively/"><u>Rapid Routines to Rearrange YouTube Playlists Effectively</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-power-of-chatgpt-with-these-5-steps-no-account-necessary/"><u>Unlock the Power of ChatGPT with These 5 Steps - No Account Necessary!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-power-of-chatgpt-six-steps-to-ace-your-job-application-process/"><u>Unlock the Power of ChatGPT: Six Steps to Ace Your Job Application Process</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-free-gpt-4-top-5-methods-revealed/"><u>Unlocking FREE GPT-4: Top 5 Methods Revealed</u></a></li>
 </ul></div>
 

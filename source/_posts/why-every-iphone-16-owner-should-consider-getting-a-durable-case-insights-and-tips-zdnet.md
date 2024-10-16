@@ -1,7 +1,7 @@
 ---
 title: Why Every iPhone 16 Owner Should Consider Getting a Durable Case - Insights & Tips [ZDNet]
-date: 2024-10-04T23:20:55.379Z
-updated: 2024-10-09T16:11:26.956Z
+date: 2024-10-08T21:45:10.043Z
+updated: 2024-10-15T19:19:36.934Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,16 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -87,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -135,17 +129,14 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ownload-free-youtube-pics-and-templates/"><u>[New] Download Free YouTube Pics & Templates</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-mobile-video-assembly-software-for-smartphones/"><u>[New] Top Mobile Video Assembly Software for Smartphones</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-uniting-platforms-sharing-vids-on-twtplustumblr-space-for-2024/"><u>[New] Uniting Platforms Sharing Vids on Twt+Tumblr Space for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-camera-kings-battle-ultimate-sj6-vs-xiaomis-yi-kickstart-dream/"><u>[Updated] Camera Kings Battle Ultimate SJ6 Vs. Xiaomi’s Yi Kickstart Dream</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/create-like-never-before-utilizing-free-dall-e-3-via-microsoft-bing/"><u>Create Like Never Before: Utilizing Free DALL-E 3 via Microsoft Bing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cultivating-emotional-savvy-with-chatgpt-techniques-for-personal-growth/"><u>Cultivating Emotional Savvy with ChatGPT: Techniques for Personal Growth</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/custom-ai-solutions-at-your-fingertips-introducing-openais-gpt-store-for-immediate-use/"><u>Custom AI Solutions at Your Fingertips – Introducing OpenAI’s GPT Store for Immediate Use</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-artificial-intelligence-for-beginners-in-plain-language/"><u>Decoding Artificial Intelligence for Beginners in Plain Language</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-perfect-video-gear-starting-with-beginner-cameras/"><u>In 2024, Perfect Video Gear Starting with Beginner Cameras</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-and-easy-officiel-platine-edition-dvd-ripper-winx-convert-dvds-into-hd-mp4-in-under-5-minutes/"><u>Quick & Easy: [OFFICIEL] Platine Edition DVD Ripper WinX - Convert DVDs Into HD MP4 in Under 5 Minutes</u></a></li>
-<li><a href="https://facebook.techidaily.com/ranking-friends-top-social-media-site/"><u>Ranking Friends: Top Social Media Site</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tactical-titles-trailer-producer/"><u>Tactical Titles Trailer Producer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-archive-of-awe-high-quality-gif-preservation-for-tweeters-for-2024/"><u>[Updated] Archive of Awe High-Quality GIF Preservation for Tweeters for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-reimagine-the-way-you-take-notes-with-mematic/"><u>[Updated] Reimagine the Way You Take Notes with Mematic</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cost-effective-high-performance-asmr-microphones-guide-for-2024/"><u>Cost-Effective, High-Performance ASMR Microphones Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-innovation-in-stories-top-4-artificial-intelligence-wizards/"><u>Discovering Innovation in Stories: Top 4 Artificial Intelligence Wizards</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-blurred-to-bold-a-comprehensive-approach-to-buying-high-resolution-monitors/"><u>From Blurred to Bold A Comprehensive Approach to Buying High-Resolution Monitors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-synergy-mac-and-openais-chatgpt-partnership/"><u>Seamless Synergy: Mac and OpenAI's ChatGPT Partnership</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-the-best-5-text-generation-ais-for-writers/"><u>Unleashing Creativity: The Best 5 Text Generation AIs for Writers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-quintet-of-reasons-why-companies-prohibit-chatgpt-usage/"><u>Unveiling the Quintet of Reasons Why Companies Prohibit ChatGPT Usage</u></a></li>
 </ul></div>
 

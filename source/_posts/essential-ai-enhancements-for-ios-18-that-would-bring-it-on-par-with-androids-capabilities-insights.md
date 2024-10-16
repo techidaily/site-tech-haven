@@ -1,7 +1,7 @@
 ---
 title: Essential AI Enhancements for iOS 18 That Would Bring It on Par With Android's Capabilities - Insights
-date: 2024-10-06T21:52:34.568Z
-updated: 2024-10-09T20:26:15.048Z
+date: 2024-10-14T04:55:55.991Z
+updated: 2024-10-16T07:49:43.102Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,16 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -89,10 +83,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -137,20 +131,20 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-drone-buying-basics-must-know-points-before-shopping/"><u>2024 Approved Drone Buying Basics Must-Know Points Before Shopping</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-streamlined-social-media-management-our-picks-of-the-best-8-planners/"><u>2024 Approved Streamlined Social Media Management Our Picks of the Best 8 Planners</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-your-dream-job-with-ai-help/"><u>Discover Your Dream Job with AI Help</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/easy-and-free-online-swf-to-mkv-upload-use-movavi-for-hassle-free-file-conversion/"><u>Easy & Free Online Swf to Mkv Upload: Use Movavi for Hassle-Free File Conversion!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-hasty-guide-from-raw-images-to-high-quality-youtube-thumbnail-art/"><u>In 2024, Hasty Guide From Raw Images to High-Quality YouTube Thumbnail Art</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/securing-your-speech-on-the-ipad-for-2024/"><u>Securing Your Speech on the iPad for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tech-titans-tale-blizzard-merge-with-ms-opens-new-horizons-for-ai-translation-audio-debate/"><u>Tech Titans' Tale: Blizzard Merge with MS Opens New Horizons for AI Translation [Audio Debate]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ai-enhancement-challenge-githubs-copilot-vs-openais-gpt/"><u>The AI Enhancement Challenge: GitHub's Copilot Vs. OpenAI's GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-case-for-more-regulation-in-artificial-intelligence-according-to-openai-founder-insights-and-impact/"><u>The Case for More Regulation in Artificial Intelligence According to OpenAI Founder: Insights and Impact</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-common-pitfalls-when-crafting-chatgpt-prompts-and-how-to-dodge-them/"><u>Top 6 Common Pitfalls When Crafting ChatGPT Prompts & How to Dodge Them</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-effective-ai-strategies-for-success/"><u>Top 7 Effective AI Strategies for Success</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-8-issues-to-consider-with-openais-chatgpt/"><u>Top 8 Issues to Consider with OpenAI's ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-for-traveling-tech-users/"><u>Ultimate Guide for Traveling Tech Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/valorant-performance-tuned-a-step-by-step-guide-to-fix-stuttering-and-boost-fps/"><u>Valorant Performance Tuned: A Step-by-Step Guide to Fix Stuttering & Boost FPS</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-enriching-vlog-topics-to-share/"><u>[New] Enriching Vlog Topics to Share</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unleashing-the-potential-of-iphone-photos-through-motion-blur/"><u>[New] Unleashing the Potential of iPhone Photos Through Motion Blur</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-techniques-for-streaming-past-video-live-on-facebook-platform/"><u>[Updated] 2024 Approved Techniques for Streaming Past Video Live on Facebook Platform</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-sweeping-videography-iphone-techniques-for-facebook/"><u>[Updated] In 2024, Sweeping Videography IPhone Techniques for Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-top-12-choices-in-gamers-introductory-videos-freepaid-for-2024/"><u>[Updated] YouTube's Top 12 Choices in Gamers' Introductory Videos (Free/Paid) for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726030493291-440/"><u>官方推出：邀你在狗年限定免費接收豌豆狐！估計440美元價值的高端光碟包</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dismantling-the-mysteries-of-big-ai-language-tools/"><u>Dismantling the Mysteries of Big AI Language Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-bavarder-pathway-to-chatgpt-on-linux/"><u>Easy Bavarder Pathway to ChatGPT on Linux</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-upgrades-needed-in-chatgpts-plug-in-ecosnace-a-roadmap/"><u>Essential Upgrades Needed in ChatGPT's Plug-In Ecosnace: A Roadmap</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-smart-searches-a-users-manual-to-the-ai-integrated-bing-app-for-android/"><u>Explore Smart Searches: A User’s Manual to the AI-Integrated Bing App for Android</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-12-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi 12 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-mac-compatible-video-extraction-tools-excelling-beyond-freemake/"><u>Top Mac-Compatible Video Extraction Tools: Excelling Beyond Freemake</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unforeseen-risks-6-reasons-for-careful-engagement-with-ai/"><u>Unforeseen Risks: 6 Reasons for Careful Engagement With AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-research-potential-discover-why-perplexity-ai-is-the-ultimate-ai-enhanced-google-search-solution-for-everyone/"><u>Unleash Your Research Potential: Discover Why Perplexity AI Is the Ultimate AI-Enhanced Google Search Solution for Everyone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/yielding-insights-into-cryptocurrency-through-ai/"><u>Yielding Insights Into Cryptocurrency Through AI</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Apple Pay Usage: A Guide for In-Store and E-Commerce Transactions - Expert Tips"
-date: 2024-10-05T00:43:53.424Z
-updated: 2024-10-09T23:59:12.116Z
+date: 2024-10-13T03:46:52.377Z
+updated: 2024-10-16T03:57:18.083Z
 tags:
   - apple
 categories:
@@ -31,6 +31,13 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -62,6 +69,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -71,10 +85,16 @@ Double-press the iPhone's right-side button to access Apple Pay.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
@@ -100,10 +120,10 @@ Apple
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -121,16 +141,16 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -141,13 +161,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 **Also: [Venmo and PayPal now offer 'Tap to Pay' on iPhone for businesses](https://www.zdnet.com/article/venmo-and-paypal-now-offer-tap-to-pay-on-iphone-for-businesses/)**
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is Apple Cash?
 
@@ -170,13 +183,6 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -212,19 +218,21 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-connecting-twitters-vids-with-fb-audience/"><u>[Updated] In 2024, Connecting Twitter's Vids with FB Audience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-green-screen-journey-begins-on-yt-ideas-take-flight/"><u>[Updated] In 2024, Green Screen Journey Begins on YT, Ideas Take Flight</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-tutorial-on-removing-stubborn-directories-in-windows-10-and-11-with-revos-powerful-tool/"><u>Complete Tutorial on Removing Stubborn Directories in Windows 10 and 11 with Revo's Powerful Tool</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-guide-to-a-healthier-you-top-9-uses-of-chatgpt/"><u>Expert Guide to a Healthier You: Top 9 Uses of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-tips-on-utilizing-chatgpt-for-efficient-notetaking-techniques/"><u>Expert Tips on Utilizing ChatGPT for Efficient Notetaking Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/familys-handbook-understanding-gpt-and-generative-tech/"><u>Family's Handbook: Understanding GPT & Generative Tech</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-brodacm-80211n-seamless-wireless-functioning-on-windows/"><u>Fixed Brodacm 802.11N: Seamless Wireless Functioning on Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-mistral-ais-le-chat-stack-up-against-chatgpt-find-out-in-this-comparative-analysis/"><u>How Does Mistral AI's Le Chat Stack Up Against ChatGPT? Find Out in This Comparative Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-bookmark-or-archive-chatgpt-dialogues-for-easy-access-later-on/"><u>How to Bookmark or Archive ChatGPT Dialogues for Easy Access Later On</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Circle Everything You Need to Know On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-picks-the-finest-cardboard-compatible-virtual-reality-titles/"><u>In 2024, Prime Picks The Finest Cardboard-Compatible Virtual Reality Titles</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-lenovo-thinkphone-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Lenovo ThinkPhone Device</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/skyline-design-studio-evaluation-insightful-review-for-the-year/"><u>Skyline Design Studio Evaluation Insightful Review for the Year</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-replace-resolving-the-d3dx943dll-error-in-windows-easily/"><u>Troubleshoot & Replace: Resolving the d3dx9_43.dll Error in Windows Easily</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-essential-igtv-feeds-for-modern-viewers/"><u>[Updated] Essential IGTV Feeds for Modern Viewers</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-mastering-flipbook-changing-hyperlink-colors-on-hover-using-flipbuilder/"><u>1) Mastering FlipBook: Changing Hyperlink Colors on Hover Using FlipBuilder</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-breaking-the-norm-eye-catching-talents-amongst-female-youtube-stars/"><u>2024 Approved Breaking the Norm Eye-Catching Talents Amongst Female YouTube Stars</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-future-sighted-the-foremost-cameras-excellence/"><u>2024 Approved Future Sighted The Foremost Cameras Excellence</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-iphoneandroid-users-add-soundtracks-to-their-profile/"><u>2024 Approved How iPhone/Android Users Add Soundtracks to Their Profile</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-integration-of-ai-tools-using-agentgpt-on-any-browser-platform/"><u>Easy Integration of AI Tools Using AgentGPT on Any Browser Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-user-experience-by-leveraging-chatgpts-4-elements/"><u>Enhance User Experience by Leveraging ChatGPT's 4 Elements</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guiding-kids-through-ai-dialogues-safely-the-top-5-advice/"><u>Guiding Kids Through AI Dialogues Safely: The Top 5 Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-and-handling-chatgpt-phishing-sites-safely/"><u>Identifying and Handling ChatGPT Phishing Sites Safely</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-motorola-moto-g73-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Motorola Moto G73 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-advanced-ai-insights-into-using-claude/"><u>Navigating the World of Advanced AI: Insights Into Using Claude</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-loneliness-with-the-help-of-chatgpt-innovation/"><u>Overcoming Loneliness with the Help of ChatGPT Innovation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-adjusting-handbrake-sound-settings-for-top-quality-experience-with-movies-and-tv-shows-across-different-media-types/"><u>Ultimate Guide to Adjusting Handbrake Sound Settings for Top Quality Experience with Movies and TV Shows Across Different Media Types</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-cognitive-abilities-fact-check-by-openai/"><u>Understanding ChatGPT's Cognitive Abilities: Fact-Check by OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-is-ai-regulation-who-should-regulate-ai/"><u>What Is AI Regulation? Who Should Regulate AI?</u></a></li>
 </ul></div>
 

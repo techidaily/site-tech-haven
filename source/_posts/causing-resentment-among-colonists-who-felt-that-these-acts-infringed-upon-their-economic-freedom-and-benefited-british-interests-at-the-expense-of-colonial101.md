@@ -1,7 +1,7 @@
 ---
 title: Causing Resentment Among Colonists Who Felt that These Acts Infringed upon Their Economic Freedom and Benefited British Interests at the Expense of Colonial Development.
-date: 2024-10-02T16:21:47.046Z
-updated: 2024-10-09T23:02:07.468Z
+date: 2024-10-15T07:26:51.648Z
+updated: 2024-10-16T08:15:20.236Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,10 +76,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -107,13 +114,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,6 +123,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -134,13 +141,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -159,6 +159,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -166,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,24 +218,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-lenovo-perfecting-screen-capture-techniques/"><u>2024 Approved Mastering Lenovo Perfecting Screen Capture Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/capture-and-share-top-no-cost-screen-recorders-for-windowsmac-users/"><u>Capture and Share - Top No-Cost Screen Recorders for Windows/Mac Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convert-mp4-videos-to-mp3-for-free-using-moveawiis-web-based-media-converter/"><u>Convert MP4 Videos to MP3 for Free Using Moveawii's Web-Based Media Converter</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-sound-in-three-dimensions-with-sony/"><u>Experience Sound in Three Dimensions with Sony</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-k70-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi K70</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-time-tamed-on-film-easy-steps-for-slow-mo-video-using-photo-apps/"><u>In 2024, Time Tamed on Film Easy Steps for Slow-Mo Video Using Photo Apps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-tune-into-trends-how-to-mix-music-in-storytelling/"><u>In 2024, Tune Into Trends How to Mix Music in Storytelling</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-personalized-healthy-diet-planning-best-practices/"><u>Leveraging ChatGPT for Personalized Healthy Diet Planning: Best Practices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpts-power-to-navigate-the-pathway-towards-your-dream-career-opportunity/"><u>Leveraging ChatGPT's Power to Navigate the Pathway Towards Your Dream Career Opportunity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-digital-fabrication-chatgpts-role-in-the-spotlight/"><u>Mastering Digital Fabrication: ChatGPT's Role in the Spotlight</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-sound-manipulation-in-a-daw-using-chatgpts-advanced-features/"><u>Mastering Sound Manipulation in a DAW Using ChatGPT's Advanced Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-integration-of-chatgpt-into-your-google-sheets-a-complete-guide/"><u>Mastering the Integration of ChatGPT Into Your Google Sheets: A Complete Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-document-management-efficiency-officedoc-and-ai-dialogue/"><u>Maximizing Document Management Efficiency: OfficeDoc & AI Dialogue</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/my-ai-encounters-vs-bings-virtual-assistant/"><u>My AI Encounters vs Bing's Virtual Assistant</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/practical-tips-and-tricks-for-integrating-artificial-intelligence-agents-into-your-web-browser-with-agentgpt/"><u>Practical Tips and Tricks for Integrating Artificial Intelligence Agents Into Your Web Browser with AgentGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/prevent-data-theft-by-ai-scrappers/"><u>Prevent Data Theft by AI Scrappers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-guide-updating-your-razer-blade-17-graphics-and-chipset-drivers-on-windows-11-10-8-and-7/"><u>Ultimate Guide: Updating Your Razer Blade 17 Graphics and Chipset Drivers on Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/zero-entry-login-remote-desktop-innovations-on-win-11/"><u>Zero-Entry Login: Remote Desktop Innovations on Win 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-picsart-edge-perfecting-face-movements-with-blur-techniques/"><u>[New] Picsart Edge Perfecting Face Movements with Blur Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-9-steps-to-combat-chromes-video-blackout/"><u>[Updated] 9 Steps to Combat Chrome's Video Blackout</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-creating-cohesive-content-with-soundtracks-on-instagram-for-2024/"><u>[Updated] Creating Cohesive Content with Soundtracks on Instagram for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-podcasts-for-apple-podcasts/"><u>[Updated] Streamline Your Podcasts for Apple Podcasts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-poco-m6-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Poco M6 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/begin-using-microsofts-bing-with-ai-step-by-step-registration-guide/"><u>Begin Using Microsoft's Bing with AI: Step-by-Step Registration Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/behind-the-screen-9-debunked-beliefs-about-artificial-intelligence-bots/"><u>Behind the Screen: 9 Debunked Beliefs About Artificial Intelligence Bots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-gpt-the-best-programming-aids-outside-chatgpt/"><u>Beyond GPT: The Best Programming Aids Outside ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-free-travel-arranger-applications-get-swift-smart-itineraries-now/"><u>Essential Free Travel Arranger Applications: Get Swift, Smart Itineraries Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gptzero-demystified-how-this-innovation-helps-you-detect-fake-written-content/"><u>GPTZero Demystified – How This Innovation Helps You Detect Fake Written Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-download-of-latest-drivers-for-lenovo-thinkpad-t430-on-windows-1187-platforms-comprehensive-guide/"><u>Hassle-Free Download of Latest Drivers for Lenovo ThinkPad T430 on Windows 11/8/7 Platforms – Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-chatgpt-impact-the-future-of-search-engine-dominance/"><u>How Does ChatGPT Impact the Future of Search Engine Dominance?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-avoid-the-quake-optimal-tripod-placement-for-stellar-vlogs/"><u>In 2024, Avoid the Quake Optimal Tripod Placement for Stellar Vlogs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-overwatch-the-ultimate-guide-to-recording-gameplay/"><u>In 2024, Overwatch The Ultimate Guide to Recording Gameplay</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-nokia-c110-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Nokia C110 Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/malware-mayhem-spot-and-skip-googles-misleading-bard-app/"><u>Malware Mayhem: Spot and Skip Google's Misleading Bard App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/predictive-powers-how-does-chatgpt-compare-with-magazine-zodiac-readings/"><u>Predictive Powers: How Does ChatGPT Compare with Magazine Zodiac Readings?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/preserve-privacy-with-ease-a-guide-to-discreetly-managing-your-chatgpt-conversations/"><u>Preserve Privacy with Ease: A Guide to Discreetly Managing Your ChatGPT Conversations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-s17t-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo S17t</u></a></li>
 </ul></div>
 

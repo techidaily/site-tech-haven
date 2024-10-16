@@ -1,7 +1,7 @@
 ---
 title: Avoid Wasting Money on iPhone 16 - Understanding Apple's Tech Capabilities | ZDNet
-date: 2024-10-07T18:43:53.246Z
-updated: 2024-10-09T21:29:23.524Z
+date: 2024-10-11T04:40:09.872Z
+updated: 2024-10-15T20:32:29.066Z
 tags:
   - apple
 categories:
@@ -49,13 +49,6 @@ To help you make this decision, we've broken down all of the most important deta
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  1\. You'd benefit from Apple Intelligence features
 
 Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). Chief among them is the long-awaited Siri upgrade. The iOS assistant is much smarter than before as it is now aware of on-screen content, can better understand commands even if you stumble over your words, and can switch between text and voice inputs. This is just the tip of the iceberg, too, as Siri will fully integrate itself with [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-the-worlds-most-popular-ai-chatbot-explained/#link={) later in the year.
@@ -63,6 +56,13 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -91,10 +91,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
@@ -110,10 +110,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -125,10 +125,10 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -165,17 +165,22 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-make-looping-videos-for-instagram-4-effective-ways-for-2024/"><u>[New] How To Make Looping Videos For Instagram? [4 Effective Ways] for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-new-horizons-the-essence-of-vr-travel/"><u>[New] Navigating New Horizons The Essence of VR Travel</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-premier-mac-programming-options-excluding-bandicam/"><u>[New] Premier Mac Programming Options Excluding Bandicam</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-limits-revealed-the-7-requests-chatgpt-cant-handle/"><u>AI Limits Revealed: The 7 Requests ChatGPT Can't Handle</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-assisted-creation-utilizing-chatgpt-for-superior-content-outcomes/"><u>AI-Assisted Creation: Utilizing ChatGPT for Superior Content Outcomes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-powered-efficiency-integrating-chatgpt-with-google-sheets-for-streamlined-data-management/"><u>AI-Powered Efficiency: Integrating ChatGPT with Google Sheets for Streamlined Data Management</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-reimagining-daily-homemaking/"><u>Artificial Intelligence: Reimagining Daily Homemaking</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-digital-to-analog-converters-dac-necessity-or-not-for-your-devices/"><u>Decoding Digital-to-Analog Converters (DAC): Necessity or Not for Your Devices?</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-transition-how-to-change-all-itunes-songs-to-mp3-file-type-without-losing-quality/"><u>Effortless Transition: How To Change All iTunes Songs to MP3 File Type Without Losing Quality</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oneplus-ace-2-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass OnePlus Ace 2 Pro FRP?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcome-audio-issues-with-ease-fixing-dolby-atmos-on-your-windows-computer/"><u>Overcome Audio Issues with Ease - Fixing Dolby Atmos on Your Windows Computer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/transferer-sans-probleme-votre-video-mkv-vers-format-m4v-gratuit-en-ligne-convertisseur-rapide-de-movavi/"><u>Transférer Sans Problème Votre Vidéo MKV Vers Format M4V Gratuit en Ligne - Convertisseur Rapide De Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-pros-guide-to-iphone-voice-memos-and-more/"><u>[New] 2024 Approved The Pro's Guide to iPhone Voice Memos and More</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guidelines-to-frame-your-youtube-creation-flow-for-2024/"><u>[New] Guidelines to Frame Your YouTube Creation Flow for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-saves-free-and-without-end/"><u>[Updated] 2024 Approved Instagram Saves Free and Without End</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-teach-with-technology-effective-use-of-youtube-in-education-for-2024/"><u>[Updated] Teach with Technology Effective Use of YouTube in Education for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-elite-upgrades-top-picks-of-vr-handwear-devices/"><u>2024 Approved Elite Upgrades Top Picks of VR Handwear Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/charting-ethical-ai-journeys-the-role-of-governance-opensai-suggests/"><u>Charting Ethical AI Journeys: The Role of Governance, OpensAI Suggests</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-features-of-huggingchat-a-cost-efficient-option-against-chatgpt/"><u>Exploring the Features of HuggingChat: A Cost-Efficient Option Against ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-activate-chatgpts-latest-beta-features-including-browser-integration-and-plugins/"><u>How To Activate ChatGPT’s Latest Beta Features Including Browser Integration and Plugins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-erase-your-presence-eliminating-your-chatgpt-account-effortlessly/"><u>How To Erase Your Presence: Eliminating Your ChatGPT Account Effortlessly</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-get-rid-of-system-memory-logs-in-windows-11-a-comprehensive-guide/"><u>How to Get Rid of System Memory Logs in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-into-profitability-on-youtube-beginners-guide/"><u>In 2024, Step Into Profitability on YouTube - Beginner's Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/llama-3-versus-gpt-n4-an-in-depth-analysis-of-their-capabilities/"><u>Llama 3 Versus GPT-N4 – An In-Depth Analysis of Their Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-horizons-registering-for-cutting-edge-plugin-updates/"><u>New Horizons: Registering for Cutting-Edge Plugin Updates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/next-gen-tracker-seamless-camera-movement-coordination/"><u>Next-Gen Tracker Seamless Camera Movement Coordination</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/no-more-comparisons-explore-the-distinct-capabilities-of-siri-and-chatgpt/"><u>No More Comparisons - Explore the Distinct Capabilities of Siri and ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/regaining-full-access-to-chatgpt-post-blocking/"><u>Regaining Full Access to ChatGPT Post-Blocking</u></a></li>
 </ul></div>
 

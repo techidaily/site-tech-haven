@@ -1,7 +1,7 @@
 ---
 title: Evaluating Risks to ChatGPT Integrity
-date: 2024-09-07T00:20:18.179Z
-updated: 2024-09-08T00:20:18.179Z
+date: 2024-10-11T17:04:04.966Z
+updated: 2024-10-16T05:10:19.840Z
 tags:
   - chatgpt
   - open-ai
@@ -41,28 +41,23 @@ thumbnail: https://thmb.techidaily.com/0925fc779f0843944465c330e0533d47cac4851d5
 
 ![dalle 3 editing tools example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 However, it's a mixed bag.
 
 [OpenAI's official blog](https://help.openai.com/en/articles/9055440-editing-your-images-with-dall-e) example shows DALL-E adding cherry blossoms to a Ukiyo-e-style image of cat, and it working perfectly. In my experience, DALL-E's editing tools struggle to add such detailed imagery to an existing image and, for the most part, can't process requests of this nature.
 
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use DALL-E 3's Editing Tool
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Removing and Erasing
 
  DALL-E 3's editing tools can erase some small features, but it definitely struggles. In the following image, I'd asked DALL-E to create "A robotic hand holding a glowing, transparent square chip with 'AI Accelerated' written on it. The background is dark blue, creating a futuristic and high-tech atmosphere."
@@ -76,11 +71,12 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Adding and Changing
 
  DALL-E 3 can make some changes to images, but again, it depends on the scale of what you're asking. Small additions and changes are possible, but most of the time, DALL-E's editing tool can't process what is asked.
@@ -90,33 +86,22 @@ Close
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The color is slightly dull but unchanged, and some features are warped slightly.
 
  Next up, I prompted DALL-E to "create a 4k 2:1 claymation style image of a person wearing a tiger onesie skiing down a slope with a yeti background."
 
 ![dalle 3 editing tools tiger yeti claymation style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-tiger-yeti-claymation-style.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Again, the original image is good, has sharp, vibrant colors, and matches the prompt. However, I wanted to switch the yeti to a different type of scary animal.
 
 ![dalle 3 editing tools yeti removed from image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-yeti-removed-from-image.jpg)
@@ -134,25 +119,23 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
 
  I've found that DALL-E's editing tools are useful for certain tasks, but it takes some time to get the editing right. At other times, it just won't work, and you're probably better off taking your original prompt and tweaking that to create a new image.
 
  DALL-E's editing tools will likely improve over time, but until then, you might be better off editing your image with an image editing tool rather than going through multiple time-consuming rounds of conversation with DALL-E. When it works, it's good; when it doesn't understand or doesn't make the edit at all, it's frustrating.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,4 +144,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unleashing-potential-profile-video-elevation/"><u>[Updated] 2024 Approved Unleashing Potential Profile Video Elevation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-avoiding-mishaps-tips-to-enhance-google-meet-chats/"><u>[Updated] In 2024, Avoiding Mishaps Tips to Enhance Google Meet Chats</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/affordable-hd-action-cameras-for-extreme-exposure-for-2024/"><u>Affordable HD Action Cameras for Extreme Exposure for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bert-and-gpt-explained-the-linguistic-frontier/"><u>BERT and GPT Explained: The Linguistic Frontier</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-llamas-and-gpt-4-determining-the-superior-ai/"><u>Comparing Llamas and GPT-4: Determining the Superior AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-advice-how-to-retrieve-and-save-conversations-on-chatgpt/"><u>Expert Advice: How to Retrieve and Save Conversations on ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-googles-new-gemini-ai-compare-to-microsofts-chatgpt-an-in-depth-analysis/"><u>How Does Google's New Gemini AI Compare to Microsoft's ChatGPT: An In-Depth Analysis?</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-x-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone X to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/illustrate-effortlessly-prime-ios-design-software/"><u>Illustrate Effortlessly Prime iOS Design Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/running-chatgpt-seamlessly-on-windows-a-comprehensive-how-to/"><u>Running ChatGPT Seamlessly on Windows - A Comprehensive How-To</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125164631-save-big-on-phrozen-mini-8k-s-resolution-3d-printer-now-at-just-325/"><u>Save Big on Phrozen Mini 8K S Resolution 3D Printer - Now at Just $325!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/speak-with-synthetic-voices-chromebooks-leading-online-text-to-speech-apps-for-2024/"><u>Speak with Synthetic Voices Chromebook's Leading Online Text-to-Speech Apps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-spreadsheets-with-these-three-chatgpt-techniques-for-excel-mastery/"><u>Streamline Your Spreadsheets with These Three ChatGPT Techniques for Excel Mastery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-for-chatgpt-plugins-from-install-to-implementation/"><u>The Ultimate Tutorial for ChatGPT Plugins: From Install to Implementation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-programs-trending-on-discovery-plus-july-2024-lineup/"><u>Top Programs Trending on Discovery Plus - July 2024 Lineup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-nvidias-ai-foundations-an-insight-into-customizable-generative-ai/"><u>Understanding NVIDIA's AI Foundations: An Insight Into Customizable Generative AI</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-hidden-features-funimate-guide-for-2024/"><u>Unleashing Hidden Features - Funimate Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/visionary-voices-the-new-era-of-chatbots/"><u>Visionary Voices: The New Era of Chatbots</u></a></li>
+</ul></div>
 

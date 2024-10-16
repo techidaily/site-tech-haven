@@ -1,7 +1,7 @@
 ---
 title: "Persuasive Proposal Strategies Unveiled: Enhance Your Skills With ChatGPT Assistance"
-date: 2024-09-11T00:11:18.455Z
-updated: 2024-09-13T05:38:07.243Z
+date: 2024-10-08T18:41:22.455Z
+updated: 2024-10-16T05:05:12.927Z
 tags:
   - chatgpt
   - open-ai
@@ -19,29 +19,9 @@ thumbnail: https://thmb.techidaily.com/1fd143d9eb4d07db9c9ac9863a1f2f928a907a725
 
  You may have heard ChatGPT can help people write cover letters and resumes, and you’re wondering if it can help you write difficult emails, too. If you provide the AI with adequate information, you can get content to use as a foundation for your email. ChatGPT can help you focus on the message without getting emotions involved.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 1: Open an Account With ChatGPT
 
 ![Screenshot of ChatGPT homepage (updated)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-chatgpt-homepage-updated.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The process to open an account with ChatGPT. Go to the website[https://chat.openai.com/](https://chat.openai.com/) , where you’ll see a prompt to log in or sign up. You can create an account with an email or use your Google account.
 
@@ -64,10 +44,29 @@ Here is an example introduction:
 ![Screenshot of ChatGPT custom instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-chatgpt-custom-instructions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Prompt ChatGPT to Write the Email You Want
@@ -94,23 +93,9 @@ Here is an example introduction:
 
  Some people struggle to meet deadlines because they fall into the trap of procrastination. If that sounds like you, you may be interested in learning[the top tips to avoid procrastination and meet deadlines](https://www.makeuseof.com/top-tips-avoid-procrastination-meet-deadlines/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Email to Request Emergency Leave
 
 ![Screenshot of emergency leave request generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-emergency-leave-request-generated-by-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Emergency leaves can be stressful. The last thing you need to worry about is writing a letter asking for leave on short notice, especially if things are busy at work.
 
@@ -121,22 +106,15 @@ Here is an example introduction:
  If you have a senior in your life, you may dread the day you need to take an emergency leave. You may be interested in sharing these[smart gadgets for seniors to maintain good health and wellness](https://www.makeuseof.com/smart-gadgets-seniors-maintain-health-wellness/) with your loved ones.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Email to Say “No” to a Project
 
 ![Screenshot of email saying no to a project generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-email-saying-no-to-a-project-generated-by-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While “Are you kidding me?” may be the knee-jerk response to a request to take on another project, you’re better off with a diplomatic reply. You may want to send the email quickly if you have people-pleasing tendencies.
 
@@ -148,29 +126,22 @@ Here is an example introduction:
 
 ![Screenshot of an email asking for clarity on priortities generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-an-email-asking-for-clarity-on-priortities-generated-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Sometimes, you may get overwhelmed with your responsibilities and unsure where to start. Rather than trying to figure it out independently, asking your manager or supervisor what they want you to prioritize is best.
 
  Asking management for help can be intimidating since we don’t want to appear incapable of doing our job. Rather than assuming and getting it wrong, it’s best to ask leadership what you should be making a priority.
 
  The ability to prioritize is a skill you can build if you feel it’s weak. If you need help prioritizing, you may be interested in[the best apps you can use to prioritize tasks at work](https://www.makeuseof.com/best-apps-to-prioritize-tasks-at-work/ "The 8 Best Apps You Can Use to Prioritize Tasks at Work") .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 4: Review and Edit the Emails ChatGPT Creates
 
 ![Image of sheet with red pen making corrections on the page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-of-sheet-with-red-pen-making-corrections-on-the-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once ChatGPT creates an email using your prompt, you should review it and make the necessary edits. Some of the things mentioned in the draft may not apply to you, and the AI may miss critical information that you want to include.
 
@@ -179,19 +150,20 @@ Here is an example introduction:
 ![Image of woman holding email icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-of-woman-holding-email-icon.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is probably the most challenging part of writing a difficult email. Stop worrying about the reaction, and send it! Before you hit send, you may want to learn the[mistakes that make a business email look unprofessional](https://www.makeuseof.com/mistakes-make-business-email-unprofessional/ "10 Mistakes That Make a Business Email Look Unprofessional") .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Difficult Emails Have to Be Sent
 
@@ -212,5 +184,17 @@ Here is an example introduction:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-social-networking-101-registering-with-facebook/"><u>[New] 2024 Approved Social Networking 101 Registering with Facebook</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-brilliant-visuals-uncover-the-magic-in-these-7-grades/"><u>[Updated] Brilliant Visuals Uncover the Magic in These 7 Grades</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/be-alert-these-5-chatbot-scams-using-gpt-can-trick-you/"><u>Be Alert: These 5 Chatbot Scams Using GPT Can Trick You</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-honoring-heritage-photo-conversion-and-visual-storytelling/"><u>In 2024, Honoring Heritage Photo Conversion and Visual Storytelling</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-complete-guide-to-youtubes-movie-maker-features/"><u>In 2024, The Complete Guide to YouTube's Movie Maker Features</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovating-interactivity-6-ways-chatgpt-redefines-scriptwriting/"><u>Innovating Interactivity: 6 Ways ChatGPT Redefines Scriptwriting</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-c65frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco C65FRP Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ios-advantage-top-6-benefits-for-gpt-users/"><u>The iOS Advantage: Top 6 Benefits for GPT Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-quest-for-laughter-through-ai-is-chatgpts-joke-making-effective-and-funny/"><u>The Quest for Laughter Through AI: Is ChatGPT's Joke-Making Effective and Funny?</u></a></li>
+</ul></div>
 

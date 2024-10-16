@@ -1,7 +1,7 @@
 ---
 title: "IPhone Discoverability Alert: Journals Can Expose You by Default - Learn To Turn Off This Feature"
-date: 2024-10-07T23:30:18.515Z
-updated: 2024-10-09T18:46:46.770Z
+date: 2024-10-12T22:39:56.050Z
+updated: 2024-10-16T06:19:55.447Z
 tags:
   - apple
 categories:
@@ -44,25 +44,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to your iPhone Settings
 
 To find the Journal app setting, open your Settings app on your iPhone.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Find Privacy & Security
 
@@ -71,10 +57,10 @@ Scroll down and open Privacy & Security within your Apple device's Settings app.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Tap on Journaling Suggestions
@@ -82,6 +68,13 @@ Maria Diaz/ZDNET
 Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverable by Others" setting will be enabled until you disable it.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
 
@@ -91,14 +84,14 @@ Maria Diaz/ZDNET
 
 ---
 
-## **FAQ**
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## **FAQ**
 
 ## Where is the Journal app on iOS 17?
 
@@ -117,6 +110,13 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -156,21 +156,19 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-unlocking-video-potential-the-creme-de-la-creme-browser-recorders/"><u>[New] Unlocking Video Potential The Crème De La Crème Browser Recorders</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-step-by-step-guide-to-complain-against-an-xbox-player/"><u>A Step by Step Guide to Complain Against an Xbox Player</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ace-windows-10-tricks-to-save-time-and-energy/"><u>Ace Windows 10 Tricks to Save Time & Energy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-fixes-for-resolving-power-state-driver-failures-in-windows/"><u>DIY Fixes for Resolving Power State Driver Failures in Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-errors-to-sidestep-in-generative-ai-tool-utilization/"><u>Essential Errors to Sidestep in Generative AI Tool Utilization</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-guide-top-4-methods-of-governing-artificial-intelligence/"><u>Essential Guide: Top 4 Methods of Governing Artificial Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/eus-ethical-framework-for-ai-implications-for-gpt-systems/"><u>EU's Ethical Framework for AI: Implications for GPT Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-bard-ais-new-horizons-the-7-most-engaging-updates-from-google-io-2023/"><u>Explore Bard AI's New Horizons: The 7 Most Engaging Updates From Google I/O 2023</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-world-of-mysteries-4-cutting-edge-ai-murder-puzzles-for-aspiring-investigators/"><u>Explore the World of Mysteries: 4 Cutting-Edge AI Murder Puzzles for Aspiring Investigators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-mechanics-of-generative-ai-how-it-powers-company-innovations/"><u>Exploring the Mechanics of Generative AI: How It Powers Company Innovations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-lost-bluetooth-support-in-windows-11-steps-for-rapid-resolution/"><u>Fix Lost Bluetooth Support in Windows 11: Steps for Rapid Resolution</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generate-expert-level-professional-emails-and-simplify-your-correspondence-with-5-free-ai-tools-leveraging-chatgpt-insights-save-time-on-email-management/"><u>Generate Expert-Level Professional Emails & Simplify Your Correspondence with 5 Free AI Tools Leveraging ChatGPT Insights - Save Time on Email Management</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guida-completa-alla-traduzione-e-migramento-dei-file-video-dalla-memoria-vhs-al-supporto-dvd-utilizzando-un-personal-computer/"><u>Guida Completa Alla Traduzione E Migramento Dei File Video Dalla Memoria VHS Al Supporto DVD Utilizzando Un Personal Computer</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/innovative-typesetting-in-adobe-ae-for-2024/"><u>Innovative Typesetting in Adobe AE for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/limited-offer-save-200-on-the-latest-macbook-pro-with-apple-silicon-m3-pro-this-presidents-day-exclusive-deals-on-zdnet/"><u>Limited Offer: Save $200 on the Latest MacBook Pro with Apple Silicon M3 Pro This Presidents' Day - Exclusive Deals on ZDNet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/pull-off-professional-video-edits-with-ken-burns-effect/"><u>Pull Off Professional Video Edits with Ken Burns Effect</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-bring-forth-forgotten-vids-unlock-the-power-of-these-12-secrets-fb-2023/"><u>[New] In 2024, Bring Forth Forgotten Vids Unlock the Power of These 12 Secrets, FB, 2023</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-insights-on-effective-spotify-ad-targeting-for-2024/"><u>[New] Insights on Effective Spotify Ad Targeting for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-phantom-3-vs-phantom-4/"><u>[Updated] 2024 Approved Phantom 3 Vs Phantom 4</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-iphone-plus-android-tutorial-screen-recording-google-meets-for-2024/"><u>[Updated] IPhone + Android Tutorial Screen Recording Google Meets for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-common-issues-in-youtube-shorts/"><u>2024 Approved Mastering Common Issues in YouTube Shorts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-propel-innovative-expression-ultimate-guide-to-best-android-drawing-tools/"><u>2024 Approved Propel Innovative Expression Ultimate Guide to Best Android Drawing Tools</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/emeditor-the-ultimate-text-editing-software-with-support-until-long-date/"><u>EmEditor: The Ultimate Text Editing Software with Support Until [Long Date]</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/feast-on-a-gallery-ios-top-10-free-stunning-photo-collage-apps/"><u>Feast on a Gallery IOS’ Top 10 FREE, Stunning Photo Collage Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixes-for-cod-vanguard-when-voice-chat-fails/"><u>Fixes for Cod: Vanguard When Voice Chat Fails</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guia-paso-a-paso-sobre-como-convertir-facilmente-tus-archivos-m4b-en-formatos-de-video-mkv-utilizando-herramientas-online-gratuitas/"><u>Guía Paso a Paso Sobre Cómo Convertir Fácilmente Tus Archivos M4B en Formatos De Video MKV Utilizando Herramientas Online Gratuitas</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reimagine-your-interactions-with-this-chrome-gpt-companion/"><u>Reimagine Your Interactions with This Chrome GPT Companion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-activation-of-chatgpt-on-linux-a-comprehensive-bavarder-walkthrough/"><u>Seamless Activation of ChatGPT on Linux: A Comprehensive Bavarder Walkthrough</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-microsoft-copilot-on-a-macos-system/"><u>Step-by-Step Guide: Setting Up Microsoft Copilot on a macOS System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-refreshing-ati-radeon-graphics-card-software-on-microsoft-windows-systems/"><u>Ultimate Tutorial: Refreshing ATI Radeon Graphics Card Software on Microsoft Windows Systems</u></a></li>
 </ul></div>
 

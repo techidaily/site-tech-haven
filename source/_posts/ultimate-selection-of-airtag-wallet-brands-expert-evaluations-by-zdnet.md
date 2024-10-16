@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Selection of AirTag Wallet Brands : Expert Evaluations by ZDNET"
-date: 2024-10-06T21:55:11.834Z
-updated: 2024-10-09T23:43:15.880Z
+date: 2024-10-13T18:48:17.591Z
+updated: 2024-10-16T07:05:06.516Z
 tags:
   - apple
 categories:
@@ -45,14 +45,14 @@ Cons
 * No offline mapping
 * May be too large for small wrists
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch Ultra 2
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch overall
 
@@ -80,13 +80,6 @@ Pros
 
 Cons 
 * Less than two-day battery life
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Watch Series 9
 
@@ -122,6 +115,19 @@ Cons
 
 ## Garmin Quatix 7 Pro
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best waterproof Garmin smartwatch overall
 
 While most of these watches are focused on use in the water, the Garmin Quatix 7 Pro also excels for functions floating on top of the water. It supports connections to various marine electronics while helping you sail, maintain an anchored position, view the local tides, and more.
@@ -153,10 +159,10 @@ Cons
 ## Garmin Venu 3S
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best waterproof Garmin smartwatch for most people
@@ -216,14 +222,20 @@ Pros
 Cons 
 * Limited notification and app support
 
-## Coros Apex 2 Pro
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Coros Apex 2 Pro
 
 ### Best waterproof smartwatch for long battery life
 
@@ -256,20 +268,13 @@ Cons
 * One size available
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Suunto Race
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch with lap counter
 
@@ -286,10 +291,16 @@ Other data such as sleep tracking, HRV measurements, training load, and recovery
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best waterproof smartwatch?
@@ -336,10 +347,10 @@ Smartwatches serve as companions to our smartphones, and there are several thing
 * **Cellular connectivity:** While smartwatches serve as companions to our smartphones, some models support cellular connectivity. If you buy one of these then you will need a watch line with your carrier, but these are typically $10 per month. The Apple Watch Ultra 2 only comes with LTE support, but you are not required to enable cellular service. Cellular capability is great for those who want to leave their phones behind and still remain connected for communications, application usage, and safety.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test smartwatches
@@ -362,6 +373,13 @@ Garmin, Coros, and Suunto watches work flawlessly with both Android and iPhone d
 You absolutely can! However, most of their screens are too small to type on, so you'll compose messages with speech-to-text or other dictation functions or choose from several generic, auto-generated responses. 
 
 Garmin watches support quick-response text messaging via a connected Android smartphone. Apple restricts third-party text messaging on the iPhone.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can you use a cellular Apple Watch as a standalone device?
 
@@ -423,22 +441,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mobile-mastery-high-shots-with-your-smartphone/"><u>[Updated] 2024 Approved Mobile Mastery High Shots with Your Smartphone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-i-trust-chatgpt-with-developing-a-custom-workout-plan-that-prioritizes-safety-and-efficiency/"><u>Can I Trust ChatGPT with Developing a Custom Workout Plan That Prioritizes Safety and Efficiency?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-7-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 7 Plus Passcode not Working?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-high-quality-videos-at-your-fingertesps-selecting-the-right-fps/"><u>In 2024, High-Quality Videos at Your Fingertesps Selecting the Right FPS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-google-pixel-fold-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Google Pixel Fold Phone Network-Ready</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-copy-operation-on-windows-11/"><u>Overcoming Disabled Copy Operation on Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-4k-revolution-takes-flight-q500-review-for-2024/"><u>The 4K Revolution Takes Flight - Q500 Review for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-path-to-polished-projects-utilizing-fades-effectively/"><u>The Path to Polished Projects Utilizing Fades Effectively</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-pitfalls-of-downloading-the-official-chatgpt-mobile-application/"><u>The Pitfalls of Downloading the Official ChatGPT Mobile Application</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-pros-and-cons-of-choosing-language-bots-as-a-self-employed-professional/"><u>The Pros & Cons of Choosing Language Bots as a Self-Employed Professional</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-best-free-ai-powered-tools-and-chatgpt-applications-for-quick-travel-itineraries/"><u>Top 7 Best FREE AI-Powered Tools & ChatGPT Applications for Quick Travel Itineraries</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-jailbreaking-is-it-worth-the-risk/"><u>Understanding ChatGPT Jailbreaking: Is It Worth The Risk?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-mystery-of-ai-black-boxes-an-in-depth-guide/"><u>Understanding the Mystery of AI Black Boxes: An In-Depth Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unfolding-gpt-4-integration-in-these-7-modern-tools/"><u>Unfolding GPT-4 Integration in These 7 Modern Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-your-innovation-potential-brainstorm-with-mindmaps-and-ai-powered-chatgpt/"><u>Unlock Your Innovation Potential: Brainstorm with Mindmaps & AI-Powered ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-claude-3-your-guide-to-navigating-anthropics-latest-ai-prompt-platform/"><u>Unlocking the Power of Claude 3: Your Guide to Navigating Anthropic's Latest AI Prompt Platform</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-building-an-effective-streamlined-podcasts-rss-feed-for-2024/"><u>[New] Building an Effective, Streamlined Podcast's RSS Feed for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/begin-immediate-use-of-these-8-unique-gpt-models/"><u>Begin Immediate Use of These 8 Unique GPT Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-concerns-has-control-over-chatgpt-slipped-from-openais-hands/"><u>Exploring Concerns: Has Control Over ChatGPT Slipped From OpenAI's Hands?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-driver-software-for-razer-blackwidow-gaming-peripherals/"><u>How to Install the Latest Driver Software for Razer BlackWidow Gaming Peripherals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-an-easy-nft-creation-pathway-for-starters/"><u>In 2024, An Easy NFT Creation Pathway For Starters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy M14 5G Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/phone-number-not-available-heres-how-you-can-still-join-chatgpt-telegram-and-whatsapp-communities/"><u>Phone Number Not Available? Here's How You Can Still Join ChatGPT, Telegram & WhatsApp Communities</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-device-hub-error-48/"><u>Resolved: Device Hub Error 48</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-asus-rog-gt-ax110-router-review-for-gamers-high-speeds-and-robust-features/"><u>The Ultimate Guide to the Asus ROG GT-AX110# Router Review for Gamers, High Speeds and Robust Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-fraudgpt-a-guide-on-staying-safe-from-this-hackers-bot/"><u>Understanding FraudGPT: A Guide on Staying Safe From This Hacker's Bot</u></a></li>
 </ul></div>
 

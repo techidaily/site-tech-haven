@@ -1,7 +1,7 @@
 ---
 title: "Comparing Top Performers: Gemini Advance and ChatGPT Plus – Who Wins?"
-date: 2024-09-07T00:19:37.679Z
-updated: 2024-09-08T00:19:37.679Z
+date: 2024-10-14T02:44:26.111Z
+updated: 2024-10-16T03:13:35.953Z
 tags:
   - chatgpt
   - open-ai
@@ -55,12 +55,6 @@ Close
 
  Although both interfaces are similar, the additional features give Gemini a slight advantage over ChatGPT. So, Gemini takes this round 2-1.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Well Can ChatGPT 4 and Gemini Advanced Answer Your Questions?
 
  To answer a question well, GPTs need to understand it, reason about it, and construct the output. Without all three, you won't get a proper output.
@@ -71,18 +65,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Image Summarization
 
  When asked to summarize an image, both express an inability to fetch the image over the internet. The image provided is not behind a firewall, nor is the domain set to block GPTs.
@@ -92,6 +74,13 @@ Close
  When the same image is uploaded as a file, both do a terrific job identifying every detail of the image.
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Optical Character Recognition
 
@@ -111,12 +100,6 @@ Close
 
 ![Transcript generation by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/14-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It is YouTube videos only, though. Neither can fetch videos from other online video services.
 
 Close
@@ -125,22 +108,10 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mobile Apps Comparison
 
  Mobile phones, with their built-in cameras and microphones, allow for advanced functions within each chatbot's respective app. I am using a Google Pixel phone for these tests.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Picture Recognition
 
  To test ChatGPT and Gemini Advanced mobile app capabilities, I grabbed a set of headphones and started to ask each app questions. First, why do the headphones have a USB port instead of a regular 3.5mm jack? Both explained it well enough and when asked how I could connect them to the phone for audio, both of them answered correctly.
@@ -150,19 +121,14 @@ Close
 ![Question on the photo taken answered by Google Gemini on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Photo related question answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Photo related question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-2.png)
 
 Close
@@ -172,45 +138,48 @@ Close
 ![Headphones recognition by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Headphones recognition by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Where to buy question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/29.png)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Speech Recognition
 
  One important feature of the mobile app is how well it recognizes speech. ChatGPT listens till you pause and then converts it into text, and its output is accurate.
 
 ![Speech recording for conversion to text by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Speech conversion to text in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-2.png)
 
 ![Converted text from speech prompt answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
  Google has mastered this art, and Gemini Advanced's voice recognition is live, seamless, and accurate.
@@ -219,13 +188,14 @@ Close
 
 ![Converted text from speech prompt answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Translation to telugu by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -235,30 +205,12 @@ Close
 
 ![Voice Conversation in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Computation and Reasoning
 
  The ideal use of a GPT is to solve complex problems. Feed in tons of data, and it can churn out answers at the speed of light. So, what better way to test ChatGPT Plus and Gemini Advanced than to solve problems?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### A Simple Math Question
 
  I posed the following question to both tools: "Some students planned a picnic. The budget for the food was $24\. Because four of the students failed to go, the cost of food for each student increased by $1\. How many students attended the picnic?"
@@ -290,11 +242,12 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Programming
 
  Programming is the holy grail of AI, and bringing a layman's idea to life will be the pinnacle. When asked to write a code to delay the text input, both ChatGPT and Gemini Advanced did a wonderful job. It took a few more iterations to customize the code to fit the purpose, but it did work in the end. Each tool receives a point for this one.
@@ -317,18 +270,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pricing and Limits
 
  Both ChatGPT Plus and Google Gemini cost $20 per month.[ChatGPT has a limit of 40 messages every 3 hours](https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4) , while Gemini allows 50\. A point here for Gemini.
@@ -338,6 +279,13 @@ Close
  ChatGPT allows users to create custom GPTs, which opens up the scope for improving what OpenAI has built. For example,[ChatGPT can play games](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/) , but also has a[heap of games in the GPT Store](https://www.makeuseof.com/best-chatgpt-games-to-play/) , too. Gemini, in contrast, has a limited number of extensions, mostly of other Google products. ChatGPT scores here.
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Plus vs. Gemini Advanced: What Should You Choose?
 
@@ -366,14 +314,11 @@ Summing up everything, we have the final scores:
 
  The results speak for themselves. ChatGPT wins it, but Gemini is not far behind. On a different scale, ChatGPT's custom GPTs are alone worth more than 10 points. But, if you have to choose between them, go with ChatGPT Plus.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -382,4 +327,21 @@ Summing up everything, we have the final scores:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-breaking-down-color-grading-into-simplified-steps/"><u>[New] In 2024, Breaking Down Color Grading Into Simplified Steps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastery-guide-swiftly-switching-facebook-profile-pictures/"><u>[New] In 2024, Mastery Guide Swiftly Switching Facebook Profile Pictures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unlocking-potential-crafting-dynamic-images-with-your-ipad/"><u>[New] In 2024, Unlocking Potential Crafting Dynamic Images with Your iPad</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-clearer-streams-youtube-video-borderless-adjustment-for-2024/"><u>[Updated] Clearer Streams YouTube Video Borderless Adjustment for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-free-us-based-vpns-with-trials-protect-your-privacy-and-bypass-blocks/"><u>Best Free US-Based VPNs with Trials: Protect Your Privacy & Bypass Blocks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-firefox-browsing-10-effortless-adjustments-for-5x-speed-improvement/"><u>Boost Firefox Browsing: 10 Effortless Adjustments for 5X Speed Improvement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-pc-games-on-windows-11-how-to-turn-off-mouse-acceleration-effectively/"><u>Boost Your PC Games on Windows 11: How to Turn Off Mouse Acceleration Effectively</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-an-effective-streamlined-podcasts-rss-feed/"><u>Building an Effective, Streamlined Podcast's RSS Feed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/clearing-your-windows-10-computer-of-saved-wi-fi-settings-for-improved-security-and-privacy/"><u>Clearing Your Windows 10 Computer of Saved Wi-Fi Settings for Improved Security and Privacy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cpu-usage-fix-for-antimalware-service-executable-on-windows-tips-and-tricks-for-windows-1110-users/"><u>CPU Usage Fix for 'Antimalware Service Executable' On Windows - Tips and Tricks for Windows 11/10 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-linking-your-apple-homepod-with-television-devices/"><u>Guide: Linking Your Apple HomePod with Television Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-in-depth-analysis-of-live-streaming-tech/"><u>In 2024, In-Depth Analysis of Live Streaming Tech</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/transform-your-online-presence-discover-how-manycam-revolutionizes-live-video-and-virtual-camera-tech/"><u>Transform Your Online Presence: Discover How ManyCam Revolutionizes Live Video and Virtual Camera Tech</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-no-cost-split-screen-video-creators-web-based-and-downloadable-options/"><u>Updated No-Cost Split Screen Video Creators Web-Based and Downloadable Options</u></a></li>
+</ul></div>
 

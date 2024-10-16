@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Apple's Latest AI Features Fall Short, Overlooking 2 Major Breakthroughs - Will They Address Them Soon?"
-date: 2024-10-04T20:41:28.987Z
-updated: 2024-10-09T21:32:51.615Z
+date: 2024-10-11T21:59:00.316Z
+updated: 2024-10-15T19:59:21.433Z
 tags:
   - apple
 categories:
@@ -79,16 +79,10 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -130,16 +124,10 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -205,21 +193,21 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-decoding-the-best-hdr-cameras-for-professionals/"><u>[Updated] Decoding the Best HDR Cameras for Professionals</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-get-vids-to-autoplay-effortlessly-on-fb-for-2024/"><u>[Updated] How to Get Vids to Autoplay Effortlessly on FB for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastering-video-conversion-save-vimeo-videos-as-mp4/"><u>[Updated] In 2024, Mastering Video Conversion Save Vimeo Videos as MP4</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-drone-motors-guide-for-optimal-flight/"><u>2024 Approved Essential Drone Motors Guide for Optimal Flight</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-optimal-tools-for-educators-lesson-archiving/"><u>2024 Approved Optimal Tools for Educator's Lesson Archiving</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diy-tech-support-resolving-pc-issues-with-the-help-of-chatgpt/"><u>DIY Tech Support: Resolving PC Issues with the Help of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enjoy-play-unveiling-the-coolest-chatgpt-games-today/"><u>Enjoy Play: Unveiling the Coolest ChatGPT Games Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-the-best-in-generative-artific-notion-ai-and-chatgpt-compared/"><u>Evaluating the Best in Generative Artific ⁠— Notion AI and ChatGPT Compared</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-utility-of-hugging-face-in-ai/"><u>Exploring the Utility of Hugging Face in AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-concept-to-reality-discovering-the-birthyear-of-computational-wisdom-ai/"><u>From Concept to Reality: Discovering the Birthyear of Computational Wisdom (AI)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/functionality-exploration-how-shared-chatgpt-works/"><u>Functionality Exploration: How Shared ChatGPT Works</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-ai-face-off-notion-ai-vs-openais-chatgpt/"><u>Generative AI Face-Off: Notion AI Vs. OpenAI's ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-proxy-configuration-in-win-11/"><u>Mastery of Proxy Configuration in Win 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/speed-matters-discovering-why-your-phones-internet-is-dragging-behind-on-wi-fi/"><u>Speed Matters: Discovering Why Your Phone's Internet Is Dragging Behind on Wi-Fi</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-12-proplus-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Realme 12 Pro+ 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026678839-soundcloud/"><u>レベルアップした SoundCloud 音楽ダウンロードガイド</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-acquiring-large-format-fb-videos-effortlessly/"><u>[New] 2024 Approved Acquiring Large-Format FB Videos Effortlessly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-expert-techniques-for-crafting-high-end-gopro-vlogs/"><u>[Updated] In 2024, Expert Techniques for Crafting High-End GoPro Vlogs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-foremost-9-digital-mic-recorders-for-high-fidelity-capture/"><u>[Updated] In 2024, The Foremost 9 Digital Mic Recorders for High-Fidelity Capture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725287984819-winx-dvd-ripper-video-converter/"><u>如何在線解決WinX DVD Ripper 與 Video Converter 使用中常見問題: 線上客服指南</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-stellar-resumes-tips-and-techniques-chatgpt/"><u>Crafting Stellar Resumes: Tips and Techniques (ChatGPT)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/does-chatgpt-compromise-our-privacy/"><u>Does ChatGPT Compromise Our Privacy?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-bootable-usb-creation-your-window-to-install-windows-7-smoothly/"><u>Effortless Bootable USB Creation: Your Window to Install Windows 7 Smoothly</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/has-ais-rise-with-chatgpt-revolutionized-academic-writing-for-students/"><u>Has AI's Rise with ChatGPT Revolutionized Academic Writing for Students?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/implementing-advanced-ai-access-our-selection-of-8-ready-made-gpt-solutions/"><u>Implementing Advanced AI: Access Our Selection of 8 Ready-Made GPT Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-study-hero4-black-mechanics/"><u>In 2024, Comprehensive Study Hero4 Black Mechanics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/love-algorithms-how-gpt-transforms-relationships/"><u>Love Algorithms: How GPT Transforms Relationships</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/messaging-and-ai-exploring-the-reasons-why-generative-technology-might-not-be-ideal/"><u>Messaging and AI: Exploring the Reasons Why Generative Technology Might Not Be Ideal</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/replacing-the-turing-benchmark-unveiling-5-cutting-edge-artificial-intelligence-tests/"><u>Replacing the Turing Benchmark: Unveiling 5 Cutting-Edge Artificial Intelligence Tests</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-miniature-dream-dwellings-exploring-stylish-micro-homes-techradar/"><u>Top 5 Miniature Dream Dwellings - Exploring Stylish Micro-Homes | TechRadar</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-a-strategy-to-resolve-locked-windows-update/"><u>Unveiling a Strategy to Resolve Locked Windows Update</u></a></li>
 </ul></div>
 

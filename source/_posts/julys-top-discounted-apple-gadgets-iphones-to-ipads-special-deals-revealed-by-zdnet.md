@@ -1,7 +1,7 @@
 ---
 title: "July's Top Discounted Apple Gadgets: IPhones to iPads - Special Deals Revealed by ZDNET"
-date: 2024-10-02T20:37:06.687Z
-updated: 2024-10-09T22:12:13.622Z
+date: 2024-10-09T04:35:53.478Z
+updated: 2024-10-16T03:35:39.561Z
 tags:
   - apple
 categories:
@@ -125,6 +125,13 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -158,16 +165,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple accessory deals
@@ -184,27 +185,20 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
 
@@ -213,10 +207,10 @@ This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
@@ -297,22 +291,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-tips-to-master-camera-snap-in-zoom-calls-for-2024/"><u>[Updated] Expert Tips to Master Camera Snap in Zoom Calls for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-free-and-fun-capture-and-convert-skype-calls-mp3-for-2024/"><u>[Updated] Free & Fun Capture and Convert Skype Calls (MP3) for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-s18-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo S18 FRP</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-game-recording-made-easy-with-xbox-one-capture-techniques/"><u>In 2024, Game Recording Made Easy with Xbox One Capture Techniques</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-hp-laserjet-pro-1006-driver-software-secure-your-free-copy/"><u>Latest HP LaserJet Pro 1006 Driver Software - Secure Your Free Copy!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-ditch-gopro-studio-top-video-editing-software-for-action-cameras/"><u>New Ditch GoPro Studio Top Video Editing Software for Action Cameras</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/no-cost-mpeg-4-to-avi-file-transformation-online-with-movavi-streaming-service/"><u>No Cost MPEG-4 to AVI File Transformation Online with Movavi Streaming Service</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-menace-of-fraudgpt-securing-your-cyber-domain/"><u>The Menace of FraudGPT: Securing Your Cyber Domain</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-power-of-ai-in-personal-connections-enhancing-your-dating-experience-with-chatgpt/"><u>The Power of AI in Personal Connections: Enhancing Your Dating Experience with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-reasons-behind-skipping-the-chatgpt-mobile-application/"><u>The Reasons Behind Skipping the ChatGPT Mobile Application</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-superiority-of-claude-ai-4-notable-advantages-over-chatgpt/"><u>The Superiority of Claude AI: 4 Notable Advantages over ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-truth-about-ai-chatbots-in-content-creation-8-critical-insights-for-writers-to-know/"><u>The Truth About AI Chatbots in Content Creation: 8 Critical Insights for Writers to Know</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-techniques-for-broadcasting-your-chatgpt-chats/"><u>The Ultimate Techniques for Broadcasting Your ChatGPT Chats</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-thrilling-new-capabilities-of-bard-ai-unveiled-at-googles-2023-event/"><u>Top 7 Thrilling New Capabilities of BARD AI Unveiled at Google's 2023 Event</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-employment-the-top-7-impacts-of-generative-ai/"><u>Transforming Employment: The Top 7 Impacts of Generative AI</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-to-fix-the-mfc42dll-not-detected-problem-easily/"><u>Troubleshooting Tips to Fix the 'mfc42.dll Not Detected' Problem Easily</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ukrainian-russian-relations-through-language/"><u>Ukrainian-Russian Relations Through Language</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-ideal-video-snapper-for-your-chromebook/"><u>[New] In 2024, Ideal Video Snapper For Your Chromebook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-instant-inspiration-the-easy-guide-to-building-custom-youtube-music-mixes-webapp/"><u>[New] Instant Inspiration The Easy Guide to Building Custom YouTube Music Mixes (Web/App)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-seamless-integration-of-links-into-tiktok-profiles/"><u>[Updated] Seamless Integration of Links Into TikTok Profiles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-2023s-elite-web-based-recording-devices/"><u>2024 Approved 2023'S Elite Web-Based Recording Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-chatgpt-and-huggingfaces-huggingchat-an-in-depth-analysis/"><u>Comparing ChatGPT and HuggingFace's HuggingChat: An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-tutorial-integrating-gpt-3-into-the-openai-experience-platform/"><u>Comprehensive Tutorial: Integrating GPT-3 Into the OpenAI Experience Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/copybot-vs-copybot-professional-understanding-their-distinctions-and-making-an-informed-upgrade-decision/"><u>Copybot Vs. Copybot Professional: Understanding Their Distinctions and Making an Informed Upgrade Decision</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-top-high-school-themed-anime-free-in-ultra-hd-quality-the-essential-guide-to-201s-best-picks/"><u>Download Top High School-Themed Anime (Free) in Ultra HD Quality - The Essential Guide to 201#'S Best Picks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/iconic-2-written-by-jake-simonson-date-march-14-2023-for-2024/"><u>Iconic 2 Written By Jake Simonson | Date March 14, 2023 for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-plus-the-good-the-bad-and-everything-in-between/"><u>Understanding ChatGPT Plus: The Good, the Bad, and Everything in Between</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-growth-the-5-imperative-ai-resources-for-modern-business-owners/"><u>Unlocking Growth: The 5 Imperative AI Resources for Modern Business Owners</u></a></li>
 </ul></div>
 

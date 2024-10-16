@@ -1,7 +1,7 @@
 ---
 title: "Solving the Irritating Issues with iPhones: How Apple Can Improve User Experience"
-date: 2024-10-03T23:58:12.568Z
-updated: 2024-10-09T16:29:41.136Z
+date: 2024-10-10T03:21:11.404Z
+updated: 2024-10-16T07:15:33.815Z
 tags:
   - apple
 categories:
@@ -30,11 +30,25 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -51,10 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -62,13 +76,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -79,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -90,13 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,24 +134,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-amazons-premier-titles-social-media-sensation-winners-for-2024/"><u>[New] Amazon’s Premier Titles Social Media Sensation Winners for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-budget-for-video-popularity-on-youtube/"><u>[New] How to Budget for Video Popularity on YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unveiling-the-4k-mastery-in-asuss-proart-pa-329q-display/"><u>[Updated] 2024 Approved Unveiling the 4K Mastery in Asus's ProArt PA 329Q Display</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-boosting-your-content-reach-with-eye-catching-youtube-video-thumbnails/"><u>[Updated] Boosting Your Content Reach with Eye-Catching YouTube Video Thumbnails</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-simplicity-in-code-constructing-a-streamlined-youtube-sign-up/"><u>[Updated] Simplicity in Code Constructing a Streamlined YouTube Sign-Up</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-premier-6-modern-architecture-in-mc-world/"><u>2024 Approved Premier 6 Modern Architecture in MC World</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-guide-to-vr-and-ar-game-apps-for-phones/"><u>2024 Approved The Ultimate Guide to VR and AR Game Apps for Phones</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-12r-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus 12R IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/navigate-the-social-media-lands-cookie-with-youtubes-automatic-play-feature-for-2024/"><u>Navigate the Social Media Lands Cookie with YouTube's Automatic Play Feature for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-strategies-how-using-chatgpt-can-boost-your-linkedin-employment-success/"><u>Top 10 Strategies: How Using ChatGPT Can Boost Your LinkedIn Employment Success</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-11-essential-chatgpt-triggers-for-crafting-memorable-book-characters/"><u>Top 11 Essential ChatGPT Triggers for Crafting Memorable Book Characters</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-9-strategies-leveraging-chatgpt-for-enhanced-health-management/"><u>Top 9 Strategies: Leveraging ChatGPT for Enhanced Health Management</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transformative-fitness-tools-top-8-ai-integrations/"><u>Transformative Fitness Tools: Top 8 AI Integrations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-website-development-with-chatgpt-insights-and-four-effective-techniques/"><u>Transforming Website Development with ChatGPT: Insights and Four Effective Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/trust-in-ai-conversations-evaluating-the-veracity-of-chatgpts-answers/"><u>Trust in AI Conversations: Evaluating the Veracity of ChatGPT's Answers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-benefits-and-drawbacks-a-comprehensive-review-of-chatgpt-plus/"><u>Understanding the Benefits & Drawbacks: A Comprehensive Review of ChatGPT Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-milestones-a-thorough-comparison-amongst-openais-groundbreaking-gpt-models-from-1-through-4/"><u>Understanding the Milestones: A Thorough Comparison Amongst OpenAI's Groundbreaking GPT Models From 1 Through 4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-with-python-and-gpt-3/"><u>Unleashing Creativity with Python and GPT-3</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-list-of-windows-compatible-daws-a-guide-to-the-best-free-and-paid-options-for-2024/"><u>Updated The Ultimate List of Windows-Compatible DAWs A Guide to the Best Free & Paid Options for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-searching-for-monetary-rewards-of-review-vlogs-for-2024/"><u>[Updated] Searching for Monetary Rewards of Review Vlogs for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-no-charge-subtitle-makers-srt-for-2024/"><u>[Updated] The Ultimate Guide to No-Charge Subtitle Makers (SRT) for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-14-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-chatgpt-lead-the-transformation-of-patient-care/"><u>Can ChatGPT Lead the Transformation of Patient Care?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/discovering-the-leading-skype-recorders-of-the-year-for-2024/"><u>Discovering the Leading Skype Recorders of the Year for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empower-your-projects-three-strategies-for-harnessing-chatgpts-wolfram-plugin-features/"><u>Empower Your Projects: Three Strategies for Harnessing ChatGPT's Wolfram Plugin Features</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-and-craft-of-podcast-storytelling/"><u>In 2024, The Art and Craft of Podcast Storytelling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-employment-search-using-chatgpt-top-6-tips-and-tricks/"><u>Maximize Your Employment Search Using ChatGPT: Top 6 Tips & Tricks</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/ricostruire-la-cartella-documenti-di-windows-11-5-strategie-efficacissime/"><u>Ricostruire La Cartella Documenti Di Windows 11: 5 Strategie Efficacissime</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/skyrocketing-chatgpt-performance-via-extensions/"><u>Skyrocketing ChatGPT Performance via Extensions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-acquiring-digital-reading-material-on-ios-devices-with-the-built-in-books-application/"><u>Step-by-Step Instructions: Acquiring Digital Reading Material on iOS Devices with the Built-In Books Application</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ethical-path-to-knowledge-without-gpt/"><u>The Ethical Path to Knowledge Without GPT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-home-entertainment-tv-or-projection-for-4k-in-2024/"><u>The Future of Home Entertainment TV or Projection for 4K, In 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-australian-slang-your-speaking-guide/"><u>Unlocking Australian Slang: Your Speaking Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-peak-performance-with-chatgpt-explore-7-strategies-that-boost-your-daily-job-accomplishments/"><u>Unlocking Peak Performance with ChatGPT: Explore 7 Strategies That Boost Your Daily Job Accomplishments</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/writing-with-wisdom-7-principles-for-responsible-ai-deployment/"><u>Writing with Wisdom: 7 Principles for Responsible AI Deployment</u></a></li>
 </ul></div>
 

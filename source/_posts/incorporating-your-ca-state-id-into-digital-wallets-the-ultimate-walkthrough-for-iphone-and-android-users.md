@@ -1,7 +1,7 @@
 ---
 title: "Incorporating Your CA State ID Into Digital Wallets: The Ultimate Walkthrough for iPhone & Android Users"
-date: 2024-10-06T18:57:08.379Z
-updated: 2024-10-09T16:44:25.048Z
+date: 2024-10-13T02:46:53.915Z
+updated: 2024-10-16T03:58:38.040Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -44,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -59,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -77,6 +70,13 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -85,18 +85,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,20 +134,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-10-easy-strategies-for-capturing-youtube-content/"><u>[New] 2024 Approved 10 Easy Strategies for Capturing YouTube Content</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-best-apps-to-transform-your-vertical-igtv-footage-for-2024/"><u>[New] Best Apps to Transform Your Vertical IGTV Footage for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-high-end-broadcast-decision-pmix-vs-wirecast-for-professionals/"><u>[New] High-End Broadcast Decision PMix Vs. Wirecast for Professionals</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-free-screenshot-tool-showdown/"><u>[New] In 2024, The Ultimate Free Screenshot Tool Showdown</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-navigate-the-melody-maze-crafting-a-personalized-youtube-playlist-for-2024/"><u>[Updated] Navigate the Melody Maze Crafting a Personalized YouTube Playlist for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/5-simple-ways-to-save-your-youtube-content-for-2024/"><u>5 Simple Ways to Save Your YouTube Content for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/discover-the-10-best-yoga-platforms-for-enhanced-fitness/"><u>Discover The 10 Best Yoga Platforms For Enhanced Fitness</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-natural-language-processing-differ-from-machine-learning-techniques/"><u>How Does Natural Language Processing Differ From Machine Learning Techniques?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-efficient-is-chatgpt-in-serving-as-a-proofreading-companeback/"><u>How Efficient Is ChatGPT in Serving as a Proofreading Companeback?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-secure-is-chatgpt-against-cyber-threats-and-attacks/"><u>How Secure Is ChatGPT Against Cyber Threats and Attacks?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-you-can-experience-the-power-of-gpt-4-available-for-everyone-now/"><u>How You Can Experience the Power of GPT-4, Available for Everyone Now</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-itel-p55t-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Itel P55T Phone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-the-engine-room-large-scale-language-systems/"><u>Inside the Engine Room: Large-Scale Language Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-ai-chatbots-forecasting-accuracy-superior-to-traditional-horoscopes/"><u>Is AI Chatbot's Forecasting Accuracy Superior to Traditional Horoscopes?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-d3dx934dll-file-not-found-problem-a-comprehensive-guide/"><u>Solving the d3dx9_34.dll File Not Found Problem: A Comprehensive Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-recording-your-iphoneipad-whats-new/"><u>[New] 2024 Approved Recording Your iPhone/iPad What's New</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-toolkit-for-youtube-video-editors-everywhere/"><u>[Updated] The Essential Toolkit for YouTube Video Editors Everywhere</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-microsofts-language-models-a-comparison-of-gpt-4-gpt-4-turbo-and-gpt-4o/"><u>Demystifying Microsoft's Language Models: A Comparison of GPT-4, GPT-4 Turbo and GPT-4o</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exporting-your-chat-history-from-microsofts-chatgpt-platform/"><u>Exporting Your Chat History From Microsoft's ChatGPT Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/googles-bard-evolves-with-palm-2-discover-the-7-advantages/"><u>Google's Bard Evolves with PaLM 2 - Discover the 7 Advantages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/havent-heard-about-the-chatgpt-desktop-app-yet-here-are-remarkable-free-alternatives/"><u>Haven't Heard About the ChatGPT Desktop App Yet? Here Are Remarkable Free Alternatives</u></a></li>
+<li><a href="https://facebook.techidaily.com/hot-off-the-press-fbs-latest-videos/"><u>Hot Off The Press: FB's Latest Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-13-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 13 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-se-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone SE Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/online-conversations-unearthed-a-deep-dive-into-the-dead-internet-theory/"><u>Online Conversations Unearthed: A Deep Dive Into the Dead Internet Theory</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quit-side-by-side-tech-showdown-ai-differences-explored/"><u>Quit Side-by-Side Tech Showdown: AI Differences Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-powerful-visual-studio-code-plugins-based-on-gpt-technology/"><u>Top 6 Powerful Visual Studio Code Plugins Based on GPT Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-every-epic-title-solving-egl-visibility-issues/"><u>Unlocking Every Epic Title: Solving EGL Visibility Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-honor-magic5-ultimate-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Honor Magic5 Ultimate Phone Network-Ready</u></a></li>
 </ul></div>
 

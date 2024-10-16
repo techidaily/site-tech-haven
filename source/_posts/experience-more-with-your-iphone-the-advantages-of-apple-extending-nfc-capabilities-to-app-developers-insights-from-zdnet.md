@@ -1,7 +1,7 @@
 ---
 title: "Experience More with Your iPhone: The Advantages of Apple Extending NFC Capabilities to App Developers - Insights From ZDNet"
-date: 2024-10-02T16:32:37.091Z
-updated: 2024-10-09T21:51:47.491Z
+date: 2024-10-13T03:10:03.910Z
+updated: 2024-10-15T23:06:16.302Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -55,13 +62,6 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -88,10 +88,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
@@ -103,10 +103,10 @@ Screenshot by David Gewirtz/ZDNET
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
@@ -119,6 +119,13 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -127,13 +134,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -179,20 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-designing-striking-valorant-thumbnails-for-online-platforms/"><u>[New] 2024 Approved Designing Striking Valorant Thumbnails for Online Platforms</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-techniques-for-capturing-ps3-gaming-moments/"><u>[Updated] In 2024, Top Techniques for Capturing PS3 Gaming Moments</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-realme-c55-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme C55 FRP</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-cybersecurity-threat-are-our-banks-and-pcs-at-risk-from-smart-artifice-intrusions/"><u>ChatGPT as a Cybersecurity Threat: Are Our Banks and PCs at Risk From Smart Artifice Intrusions?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-on-iphone-not-responding-apply-any-of-our-9-proven-strategies/"><u>ChatGPT on iPhone Not Responding? Apply Any of Our 9 Proven Strategies!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-the-key-to-dynamic-dandd-storytelling/"><u>ChatGPT, the Key to Dynamic D&D Storytelling</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-your-secret-weapon-for-attaining-the-perfect-job-position/"><u>ChatGPT: Your Secret Weapon for Attaining the Perfect Job Position</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chrome-add-on-risk-impostor-chatgpt-extension-hijacks-social-media-passwords/"><u>Chrome Add-On Risk: Impostor ChatGPT Extension Hijacks Social Media Passwords</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/claim-your-prize-participate-in-openais-innovative-error-tracking-mission/"><u>Claim Your Prize: Participate in OpenAI's Innovative Error Tracking Mission</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/coding-excellence-with-chatgpt-and-vs-code-synergy/"><u>Coding Excellence with ChatGPT & VS Code Synergy</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-pratique-comment-changer-votre-contenu-video-mp4-en-mp3-gratuitement-grace-au-concepteur-mp4-mp3/"><u>Guide Pratique : Comment Changer Votre Contenu Vidéo MP4 en MP3 Gratuitement Grâce Au Concepteur MP4-MP3</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-infinix-hot-40-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Infinix Hot 40 Pro online without jailbreak</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-vivo-x90s-by-fonelab-android-recover-data/"><u>The way to get back lost data from Vivo X90S</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-motorola-moto-g23-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Motorola Moto G23 Phone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-playback-speed-control-in-youtube/"><u>[New] 2024 Approved Harness the Power of Playback Speed Control in YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-step-into-fame-the-essential-blueprint-for-adding-channels-as-features-on-youtube/"><u>[New] 2024 Approved Step Into Fame The Essential Blueprint for Adding Channels as Features on Youtube</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-breakthrough-ways-to-amplify-your-video-content-reach/"><u>[New] Breakthrough Ways to Amplify Your Video Content Reach</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-speed-photography-showdown-gopro-hero-4-vs-ghost-s-drift/"><u>[New] In 2024, Speed Photography Showdown GoPro Hero 4 VS Ghost-S Drift</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-vectors-demystified-starting-point-and-software-selection-tips/"><u>[Updated] 2024 Approved Vectors Demystified Starting Point & Software Selection Tips</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-translate-video-from-japanese-to-english-online-for-free/"><u>2024 Approved Translate Video From Japanese to English Online for Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-messaging-platforms-redefining-digital-correspondence-and-mail-services/"><u>Advanced Messaging Platforms: Redefining Digital Correspondence and Mail Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-aaaac-to-mp3-transcoders-top-5-reviews-and-comparison/"><u>Best AA/AAC to MP3 Transcoders - Top 5 Reviews & Comparison</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-headsets-ultimate-vr-gear-guide-for-2024/"><u>Beyond Headsets Ultimate VR Gear Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/convert-and-enjoy-how-to-switch-from-audibles-aax-format-to-compatible-m4b-playback-on-any-device/"><u>Convert and Enjoy: How to Switch From Audible's AAX Format to Compatible M4B Playback on Any Device</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-camon-20-premier-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Camon 20 Premier 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x7-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X7 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-13-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 13 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-removing-drm-from-your-google-play-books/"><u>Step-by-Step Guide: Removing DRM From Your Google Play Books</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-removing-digital-rights-management-from-your-ebook-files/"><u>Step-by-Step Tutorial for Removing Digital Rights Management From Your eBook Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-android-audiobook-players-ultimate-list-of-app-recommendations/"><u>Top 7 Android Audiobook Players: Ultimate List of App Recommendations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-a-5-step-guide-to-writing-and-publishing-your-first-ebook/"><u>Unlocking the Secrets: A 5-Step Guide to Writing and Publishing Your First eBook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-differences-between-kindle-fire-models-a-comprehensive-guide/"><u>Unraveling the Differences Between Kindle Fire Models: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-6-critical-issues-affecting-your-kindle-fire-experience/"><u>Unveiling the Top 6 Critical Issues Affecting Your Kindle Fire Experience</u></a></li>
 </ul></div>
 

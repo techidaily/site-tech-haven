@@ -1,7 +1,7 @@
 ---
 title: Advertising Phrases
-date: 2024-10-07T00:36:13.467Z
-updated: 2024-10-09T22:28:04.664Z
+date: 2024-10-12T22:00:51.578Z
+updated: 2024-10-15T20:00:09.670Z
 tags:
   - apple
 categories:
@@ -39,16 +39,10 @@ Within the embargoed time frame, ZDNET reviewers can test the latest features (i
 While ZDNET primarily covers smartphone releases in the US market, we also evaluate international handsets to understand the competitive landscape better and have a frame of reference when making recommendations to international readers. We also attend trade shows, including [CES](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/) and [Mobile World Congress](https://www.zdnet.com/collection/mwc-2024/), to connect with industry experts and analysts.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What makes a phone ZDNET recommended?
@@ -56,13 +50,6 @@ While ZDNET primarily covers smartphone releases in the US market, we also evalu
 For hands-on testing, five aspects determine whether or not a phone gets recommended : design, performance, cameras, battery life, and special features. The importance of each aspect will vary across users; some will value camera quality over battery life, and others just want a phone that's unique and different. Generally, the order of importance is cameras, battery life, design, performance, and then special features.
 
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Design and ergonomics
 
@@ -73,6 +60,13 @@ How a phone looks and feels can greatly influence the overall experience. There'
 But also, how does the phone feel when it's tucked in your tight jeans or lightweight shorts? When testing and recommending phones, we consider design and ergonomics heavily, understanding that not everyone wants the biggest and most premium-feeling option out there. For example, a device with a plastic casing will serve you better than an all-glass build if you're a construction worker or someone who's often outdoors.
 
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Performance
 
@@ -85,10 +79,10 @@ Performance testing also includes putting phones through varying levels of graph
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Cameras
@@ -110,10 +104,10 @@ It's also important for us to evaluate how long phones last under light, moderat
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Special features
@@ -162,14 +156,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-stunning-webcam-content-quick-steps-to-success/"><u>2024 Approved Capturing Stunning WebCam Content Quick Steps to Success</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/assessing-the-benefits-and-limitations-of-using-auto-gpt-sans-gpt-4/"><u>Assessing the Benefits and Limitations of Using Auto-GPT Sans GPT-4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-boundaries-chatgpts-groundbreaking-features-revealed/"><u>Beyond Boundaries: ChatGPT’s Groundbreaking Features Revealed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-its-impact-on-future-generations-of-student-essays/"><u>ChatGPT and Its Impact on Future Generations of Student Essays</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-made-better-in-chrome-discover-our-top-7-fixes/"><u>ChatGPT Made Better in Chrome: Discover Our Top 7 Fixes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-or-update-your-tp-link-usb-400-bluetooth-drivers-for-optimal-performance/"><u>How to Install or Update Your TP-Link USB 400 Bluetooth Drivers for Optimal Performance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-novices-route-to-rapidly-play-videos-on-snapchat/"><u>In 2024, The Novice's Route to Rapidly Play Videos on Snapchat</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-gradual-audio-reduction-in-digital-studios-for-2024/"><u>Navigating Gradual Audio Reduction in Digital Studios for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-note-management-on-obsidian-canvas/"><u>The Art of Note Management on Obsidian Canvas</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-ultimate-guide-to-choosing-the-best-free-photo-collage-ios-apps/"><u>[New] The Ultimate Guide to Choosing the Best FREE Photo Collage iOS Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-reimagining-game-logging-with-no-fbx-technology/"><u>[Updated] In 2024, Reimagining Game Logging with No-FBX Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/change-at-the-helm-how-does-losing-ceo-sam-altman-affect-openai-and-chatgpt-services/"><u>Change at the Helm: How Does Losing CEO Sam Altman Affect OpenAI and ChatGPT Services?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-codegpt-can-this-tool-truly-generate-reliable-source-code/"><u>Demystifying CodeGPT: Can This Tool Truly Generate Reliable Source Code?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-decision-making-with-top-5-artificial-intelligence-tools/"><u>Enhancing Decision-Making with Top 5 Artificial Intelligence Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-scholarly-research-top-5-innovative-approaches-using-ai-tools/"><u>Enhancing Scholarly Research: Top 5 Innovative Approaches Using AI Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-how-the-paper-clippers-challenge-reflects-key-issues-in-artific-illigence-development/"><u>Exploring How the Paper Clipper's Challenge Reflects Key Issues in Artific İlligence Development</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-se-2022-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone SE (2022) If Youve Tried Everything</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s24-ultra-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S24 Ultra to Outlook | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-the-ultimate-guide-to-reducing-tech-diversions-top-8-prompts/"><u>How to Use ChatGPT: The Ultimate Guide to Reducing Tech Diversions (Top 8 Prompts)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-se-2020-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone SE (2020) Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-se-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone SE Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-swift-and-steady-follower-filtering-the-leading-twitter-tools-list/"><u>In 2024, Swift and Steady Follower Filtering The Leading Twitter Tools List</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-nokia-g42-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Nokia G42 5G Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/instant-trip-blueprints-made-easy-7-free-ai-planning-tools-with-chatgpt-features-to-kickstart-your-journey/"><u>Instant Trip Blueprints Made Easy - 7 FREE AI Planning Tools with ChatGPT Features to Kickstart Your Journey</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learning-unleashed-commemorating-1500-daily-fee-free-education/"><u>Learning Unleashed: Commemorating 1500 Daily Fee-Free Education</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-ai-search-on-bing-simple-setup-guide/"><u>Navigate AI Search on Bing: Simple Setup Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/smart-strategies-optimizing-your-writing-with-chatgpt-as-a-freelancer/"><u>Smart Strategies: Optimizing Your Writing with ChatGPT as a Freelancer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-for-missing-d3dx933dll-error-on-your-pc/"><u>The Ultimate Fix for Missing d3dx9_33.dll Error on Your PC</u></a></li>
 </ul></div>
 

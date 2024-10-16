@@ -1,7 +1,7 @@
 ---
 title: "Integrating ChatGPT with Your Ubuntu Command Line: A Step-by-Step Guide"
-date: 2024-09-08T04:19:32.423Z
-updated: 2024-09-13T00:51:39.333Z
+date: 2024-10-11T04:29:23.287Z
+updated: 2024-10-15T20:01:07.566Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Copy Text From the PDF
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
@@ -51,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Convert the PDF Into a Text Document
@@ -71,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
@@ -82,36 +89,15 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
 
 [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader-ext/becfinhbfclcgokjlobojlnldbfillpf/related) is a free-to-install Chrome Extension that allows you to upload any file, including Word documents, Excel spreadsheets, image files, and, of course, PDFs. What makes this an excellent method is just how easy it is to use.
 
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new**Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
 
@@ -132,5 +118,26 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-dynamic-dividends-boosting-social-media-roi-with-fb-ad-animations/"><u>[New] Dynamic Dividends Boosting Social Media ROI with FB Ad Animations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-outstanding-mac-programming-alternatives-to-bandicam-for-2024/"><u>[New] Outstanding Mac Programming Alternatives to Bandicam for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-audiovisual-excellence-through-narrative-enrichment/"><u>[Updated] 2024 Approved Audiovisual Excellence Through Narrative Enrichment</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-5-high-quality-low-speed-video-gear/"><u>[Updated] In 2024, Top 5 High-Quality Low-Speed Video Gear</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-professionals-blueprint-for-investing-in-high-definition-viewing/"><u>[Updated] The Professional's Blueprint for Investing in High-Definition Viewing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-inside-look-the-power-of-recmeister-capturing-features/"><u>2024 Approved Inside Look The Power of Recmeister Capturing Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/accelerate-apple-esr-releases-cutting-edge-qi2-magsafe-battery-tech-for-swift-iphone-16-charging-without-overheating-insights-from-zdnet/"><u>Accelerate Apple: ESR Releases Cutting-Edge Qi2 MagSafe Battery Tech for Swift iPhone 16 Charging Without Overheating – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/causing-resentment-among-colonists-who-felt-that-these-acts-infringed-upon-their-economic-freedom-and-benefited-british-interests-at-the-expense-of-colonial101/"><u>Causing Resentment Among Colonists Who Felt that These Acts Infringed upon Their Economic Freedom and Benefited British Interests at the Expense of Colonial Development.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-xr21-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on XR21.</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/culinary-havoc-a-savory-in-depth-review-of-overcooked-2/"><u>Culinary Havoc: A Savory In-Depth Review of Overcooked! 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-innovations-discover-the-advantages-of-apples-broadened-nfc-capabilities-for-iphone-users-and-partner-applications-zdnet/"><u>Empowering Innovations: Discover the Advantages of Apple's Broadened NFC Capabilities for iPhone Users and Partner Applications | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-official-canon-pixma-mg5420-driver-for-windows-10-8-or-7-free-download-now/"><u>Get Official Canon Pixma MG5420 Driver for Windows 10, 8 or 7 – Free Download Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-discoverability-alert-journals-can-expose-you-by-default-learn-to-turn-off-this-feature/"><u>IPhone Discoverability Alert: Journals Can Expose You by Default - Learn To Turn Off This Feature</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-productivity-on-your-macbook-explore-the-best-upgrades-in-macos-15/"><u>Maximize Productivity on Your MacBook: Explore the Best Upgrades in MacOS 15</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-your-early-access-get-the-latest-apple-watch-series-10-in-advance-tips-for-savings-and-pre-ordering-process-insights-from-zdnet/"><u>Secure Your Early Access: Get the Latest Apple Watch Series 10 in Advance! Tips for Savings & Pre-Ordering Process - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-iphone-bargains-in-july-2024-exclusive-offers-unveiled/"><u>Top iPhone Bargains in July 2024: Exclusive Offers Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-selection-of-airtag-wallet-brands-expert-evaluations-by-zdnet/"><u>Ultimate Selection of AirTag Wallet Brands : Expert Evaluations by ZDNET</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unmatched-video-capture-selecting-the-best-pc-and-mac-recorder/"><u>Unmatched Video Capture Selecting the Best PC & Mac Recorder</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-ultimate-list-of-2024s-highest-ranking-ipads-professional-insights-and-reviews-zdnet/"><u>Unveiling the Ultimate List of 2024'S Highest-Ranking iPads: Professional Insights and Reviews | ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master the Install: A Step-by-Step Guide to Setting up Auto-GPT"
-date: 2024-09-07T00:18:57.030Z
-updated: 2024-09-08T00:18:57.030Z
+date: 2024-10-12T03:38:32.067Z
+updated: 2024-10-15T18:02:33.334Z
 tags:
   - chatgpt
   - open-ai
@@ -15,23 +15,18 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
 
 ## Step-by-Step Guide to Utilizing OpenAI's Cutting-Edge Custom GPT Shop – Access Today
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Access the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-access-the-gpt-store)
 * [How to Find the Best Custom GPTs in the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-find-the-best-custom-gpts-in-the-gpt-store)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#is-it-worth-upgrading-to-chatgpt-plus-to-use-custom-gpts)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -42,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
  OpenAI has finally unveiled its highly anticipated GPT Store, offering users a selection of ChatGPT community-created custom GPTs featuring specialized chatbots ranging from writing and design to programming and productivity. The launch marks OpenAI's latest move to capitalize on the runaway popularity of its AI creation ChatGPT, which took the world by storm after its launch in November 2022.
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Access the GPT Store
 
@@ -54,11 +56,12 @@ How do you know when you've been granted access?
  On the left sidebar of the ChatGPT interface, you should see**Explore GPTs** instead of simply**Explore** . Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
@@ -67,38 +70,22 @@ How do you know when you've been granted access?
 2. At the top of the store page, you will see featured categories like Writing, Productivity, Programming, Research and Analysis, and DALL-E for image generation. Click on a category to view a list of the top-performing custom GPT models in that specific category.  
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click**Keep in sidebar** . This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
  Since you need a ChatGPT subscription to use custom GPTs, you're probably wondering whether it's worth paying the $20 subscription fee to access the feature.
@@ -107,14 +94,11 @@ How do you know when you've been granted access?
 
  With millions of GPTs available, perhaps the biggest argument for subscribing is that someone might have listed a GPT that solves the exact problem you are currently struggling with. Also, remember, a subscription also gives you access to several other perks, most notably access to GPT-4 and the DALL-E text-to-image tool.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +107,26 @@ How do you know when you've been granted access?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-superior-sound-recognizers-in-education/"><u>[Updated] In 2024, Superior Sound Recognizers in Education</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-integrate-playlist-into-facebook-cross-platform-method-for-2024/"><u>[Updated] Integrate Playlist Into Facebook - Cross-Platform Method for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-cutting-edge-platforms-for-digital-transformation-into-nft-tokens/"><u>2024 Approved Cutting-Edge Platforms for Digital Transformation Into NFT Tokens</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-on-basic-color-correction-in-photos/"><u>2024 Approved Expert Tips on Basic Color Correction in Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-with-a-fisheye-lens/"><u>2024 Approved Navigating the World with a Fisheye Lens</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-superior-download-manager-best-youtube-downloader-apps/"><u>2024 Approved Superior Download Manager Best YouTube Downloader Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024dvd-ntsc/"><u>2024年のDVD NTSCプレイ不具合とその修正手順：専門家ガイド</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/audiences-favorite-top-action-recording-tools/"><u>Audience's Favorite Top Action Recording Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-framing-character-arcs-on-screen/"><u>In 2024, Framing Character Arcs on Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-successfully-setting-up-your-home-network-on-windows-7/"><u>Step-by-Step Guide: Successfully Setting Up Your Home Network on Windows 7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-safeguarding-and-recovering-your-pcs-critical-configuration-settings/"><u>Step-by-Step Tutorial on Safeguarding & Recovering Your PC's Critical Configuration Settings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/supercharge-your-laptop-essential-strategies-for-enhanced-efficiency/"><u>Supercharge Your Laptop: Essential Strategies for Enhanced Efficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-easy-way-to-detach-and-delete-epic-games-launcher-installer-on-windows-and-mac/"><u>The Easy Way to Detach and Delete Epic Games Launcher Installer on Windows and Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-reverting-to-defaults-with-a-full-hp-laptop-system-reboot/"><u>The Ultimate Tutorial: Reverting to Defaults with a Full HP Laptop System Reboot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tips-for-lowering-the-cpu-load-when-playing-call-of-duty-modern-warfare/"><u>Tips for Lowering the CPU Load When Playing Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-strategies-for-minimizing-game-lag-a-comprehensive-guide/"><u>Top Strategies for Minimizing Game Lag : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-guide-resolving-issues-with-arch-bluetooth-mouse-on-windows-11-creators-version/"><u>Troubleshooting Guide: Resolving Issues with Arch Bluetooth Mouse on Windows 11 Creators Version</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-success-resolving-the-windows-11-setup-error-80240020/"><u>Troubleshooting Success: Resolving the Windows 11 Setup Error 80240020</u></a></li>
+</ul></div>
 

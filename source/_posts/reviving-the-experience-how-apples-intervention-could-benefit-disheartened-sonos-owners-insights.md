@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Experience: How Apple's Intervention Could Benefit Disheartened Sonos Owners - Insights"
-date: 2024-10-03T16:45:14.086Z
-updated: 2024-10-09T19:56:13.309Z
+date: 2024-10-09T03:34:09.925Z
+updated: 2024-10-15T21:30:51.543Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -55,6 +62,13 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -70,13 +84,6 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. New developer APIs
 
 There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, Apple is showcasing three new APIs developers can use to gain access to Apple technology. 
@@ -87,6 +94,13 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -94,13 +108,6 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -113,10 +120,10 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -127,13 +134,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -179,22 +179,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-live-sound-excellence-unveiled-our-top-picks-for-streaming-quality-for-2024/"><u>[New] Live Sound Excellence Unveiled Our Top Picks for Streaming Quality for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-crafting-transitional-beats-with-cross-sound-blending/"><u>[Updated] 2024 Approved Crafting Transitional Beats with Cross-Sound Blending</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-video-creation-journey-from-adobe-premiere-to-youtube/"><u>[Updated] 2024 Approved Video Creation Journey From Adobe Premiere to YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722984963235-borderlands-vegan-but-i-want-to-try-it-out/"><u>Borderlands Vegan, but I Want to Try It Out!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-google-pixel-fold-by-drfone-android/"><u>How to Show Wi-Fi Password on Google Pixel Fold</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-apple-losing-its-crown-the-alluring-world-of-skagen-falster-2-showcased-in-our-review/"><u>Is Apple Losing Its Crown? The Alluring World of Skagen Falster 2 Showcased in Our Review</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-quicktime-video-editing-on-mac-tips-tricks-and-techniques/"><u>New QuickTime Video Editing on Mac Tips, Tricks, and Techniques</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-fixes-how-to-securely-restore-deleted-whatsapp-conversations-on-iphone-devices/"><u>Quick Fixes: How to Securely Restore Deleted WhatsApp Conversations on iPhone Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-enhancements-needed-in-chatgpt-plugin-marketplace/"><u>Top 4 Enhancements Needed in ChatGPT Plugin Marketplace</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-huggingchat-an-accessible-ai-for-conversation-enthusiasts/"><u>Understanding HuggingChat: An Accessible AI for Conversation Enthusiasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-temporary-suspension-of-new-chatgpt-accounts-whats-next/"><u>Understanding the Temporary Suspension of New ChatGPT Accounts – What's Next?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-potential-with-claude-2-understanding-its-uses-and-features/"><u>Unlocking Potential with Claude 2 - Understanding Its Uses & Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-huggingchat-your-no-cost-alternative-to-chatting-with-chattypeptotron/"><u>Unveiling HuggingChat - Your No-Cost Alternative To Chatting With Chattypeptotron</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-distinctions-exploring-the-5-main-contrasts-between-gpt-4-and-gpt-cuh/"><u>Unveiling the Distinctions: Exploring the 5 Main Contrasts Between GPT-4 and GPT-Cuh!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/vocal-command-mastering-chatgpt-through-speech-recognition-techniques/"><u>Vocal Command: Mastering ChatGPT Through Speech Recognition Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-can-you-achieve-with-chatgpt-exploring-the-horizons-of-generative-artificial-intelligence/"><u>What Can You Achieve with ChatGPT? Exploring the Horizons of Generative Artificial Intelligence</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/m4r-movavi-mp3/"><u>オンラインで手間なくM4Rファイル化可能! Movavi MP3から無料変換サービス</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-achieve-proficiency-in-audio-upload-with-google/"><u>[New] In 2024, Achieve Proficiency in Audio Upload with Google</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-exclusive-list-of-top-digital-tutorial-providers-sans-udemy/"><u>[Updated] 2024 Approved Exclusive List of Top Digital Tutorial Providers Sans Udemy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-seek-out-sites-that-connect-you-to-youtube-revenue-models/"><u>[Updated] In 2024, Seek Out Sites That Connect You to YouTube Revenue Models</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-watch-more-not-less-secrets-to-free-youtube-gains/"><u>2024 Approved Watch More, Not Less Secrets to Free YouTube Gains</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/behind-the-curtain-of-silence-uncovering-the-potential-of-truthgpt-with-elon-musk-at-the-helm/"><u>Behind the Curtain of Silence: Uncovering the Potential of TruthGPT with Elon Musk at the Helm</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-places-to-trade-ai-driven-ideas-an-insight-into-7-leading-platforms/"><u>Best Places to Trade AI-Driven Ideas: An Insight Into 7 Leading Platforms</u></a></li>
+<li><a href="https://facebook.techidaily.com/best-senior-friendly-digital-network-spots/"><u>Best Senior-Friendly Digital Network Spots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-potential-data-risks-how-safe-are-our-conversations-really/"><u>ChatGPT's Potential Data Risks: How Safe Are Our Conversations Really?</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-what-makes-digital-games-so-enjoyable/"><u>Decoding What Makes Digital Games So Enjoyable</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-the-capabilities-of-openais-innovative-shap-e-explainability-framework/"><u>Demystifying the Capabilities of OpenAI's Innovative Shap-E Explainability Framework</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-chatgpt-effective-at-tackling-mathematical-questions/"><u>Is ChatGPT Effective at Tackling Mathematical Questions?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-interaction-game-with-chatgpt-plus-visual-capabilities-learn-from-8-expert-tips-and-tricks/"><u>Transform Your Interaction Game with ChatGPT Plus Visual Capabilities - Learn From 8 Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-potential-of-chatgpt-in-mixology-and-cocktail-recipes/"><u>Unveiling the Potential of ChatGPT in Mixology and Cocktail Recipes</u></a></li>
 </ul></div>
 

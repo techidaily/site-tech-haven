@@ -1,7 +1,7 @@
 ---
 title: Organize Email Like a Pro with This Simple Trick—No Need for Complex Rules or Separate Accounts | ZDNET
-date: 2024-10-06T21:50:44.872Z
-updated: 2024-10-09T19:15:48.769Z
+date: 2024-10-12T18:30:04.532Z
+updated: 2024-10-16T00:07:31.678Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,10 +110,10 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -154,22 +154,20 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-your-companion-guide-navigating-the-world-of-mobizen-recorders/"><u>[New] 2024 Approved Your Companion Guide Navigating the World of Mobizen Recorders</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-closer-look-the-8-major-problems-in-chatgpt/"><u>A Closer Look: The 8 Major Problems in ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721767594808-access-chatgpt-anywhere-the-new-mobile-app-is-here/"><u>Access ChatGPT Anywhere: The New Mobile App Is Here!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/advance-prompt-formulation-skills-using-7-key-web-tools/"><u>Advance Prompt Formulation Skills Using 7 Key Web Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-innovations-unveiled-microsoft-takes-over-blizzard-deep-dive-into-creative-tech-podcast/"><u>AI Innovations Unveiled: Microsoft Takes Over Blizzard, Deep Dive Into Creative Tech [Podcast]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-meets-mobile-step-by-step-guide-to-optimizing-microsoft-bing-app-on-android-phones/"><u>AI Meets Mobile: Step-by-Step Guide to Optimizing Microsoft Bing App on Android Phones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-driven-script-my-podcast-adventure/"><u>AI-Driven Script: My Podcast Adventure</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/best-value-for-money-top-6-budget-4k-projector-models/"><u>Best Value for Money Top 6 Budget 4K Projector Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721753789238-bypassing-phone-numbers-for-secure-login-on-messaging-services-your-ultimate-guide/"><u>Bypassing Phone Numbers for Secure Login on Messaging Services - Your Ultimate Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/feel-the-thrill-top-10-sporting-movies-to-see-immedi-groovy-right-now/"><u>Feel the Thrill: Top 10 Sporting Movies to See Immedi Groovy Right Now!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-motorola-moto-g14-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Motorola Moto G14 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-the-gaming-experience-with-asus-rt-ac88u-is-it-worth-the-hype/"><u>Mastering the Gaming Experience with Asus RT-AC88U: Is It Worth The Hype?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722138475909-not-only-patience-find-out-about-a-superb-open-source-chatbot-replacement-today/"><u>Not Only Patience: Find Out About a Superb Open-Source Chatbot Replacement Today</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/storage-solutions-to-keep-you-connected/"><u>Storage Solutions to Keep You Connected</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-why-isnt-your-yahoo-mail-getting-new-email/"><u>Troubleshooting: Why Isn't Your Yahoo! Mail Getting New Email?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-create-magic-download-premium-soundscapes-now/"><u>[New] In 2024, Create Magic Download Premium Soundscapes Now</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cutting-edge-editing-tiktok-edition-unveiled/"><u>[Updated] 2024 Approved Cutting-Edge Editing TikTok Edition Unveiled</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-essential-guide-to-webcam-assisted-presentations-for-2024/"><u>[Updated] The Essential Guide to Webcam-Assisted Presentations for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversion-facile-transformer-votre-dvd-en-fichiers-videos-numeriques-pour-pc-et-mac-avec-windows-10mac/"><u>Conversion Facile : Transformer Votre DVD en Fichiers Vidéos Numériques Pour PC Et Mac Avec Windows 10/Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-ai-types-the-key-differences-between-public-private-and-personal-artificial-intelligence/"><u>Decoding AI Types: The Key Differences Between Public, Private and Personal Artificial Intelligence</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/disabling-incognito-on-chrome-for-enhanced-security-using-malwarefox-software/"><u>Disabling Incognito on Chrome for Enhanced Security Using MalwareFox Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-elite-6-cutting-edge-ai-in-text-processing-and-generation/"><u>Exploring the Elite 6: Cutting-Edge AI in Text Processing and Generation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-leading-edge-the-best-new-ai-hardware-tech/"><u>Exploring the Leading Edge: The Best New AI Hardware Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exposing-false-beliefs-in-ai-chatbot-technology-an-insightful-look-at-9-popular-fallacies/"><u>Exposing False Beliefs in AI Chatbot Technology: An Insightful Look at 9 Popular Fallacies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-for-young-minds-ensuring-a-secure-and-supportive-environment-in-5-steps/"><u>GPT for Young Minds: Ensuring a Secure and Supportive Environment in 5 Steps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-360-camera-options-for-social-media-broadcasts-for-2024/"><u>Premium 360° Camera Options for Social Media Broadcasts for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/steering-ai-innovation-the-five-regulatory-strategies-employed-by-government-bodies/"><u>Steering AI Innovation: The Five Regulatory Strategies Employed by Government Bodies</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/swift-email-restoration-exchanging-success-stories/"><u>Swift Email Restoration: Exchanging Success Stories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-auto-gpt-blueprint-in-contrast-to-chatgpts-design/"><u>The Auto-GPT Blueprint in Contrast to ChatGPT's Design</u></a></li>
 </ul></div>
 

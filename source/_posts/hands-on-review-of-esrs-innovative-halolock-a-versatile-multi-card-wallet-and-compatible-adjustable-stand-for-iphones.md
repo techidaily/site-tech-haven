@@ -1,7 +1,7 @@
 ---
 title: Hands-On Review of ESR's Innovative Halolock - A Versatile Multi-Card Wallet & Compatible Adjustable Stand for iPhones
-date: 2024-10-05T19:14:31.830Z
-updated: 2024-10-09T18:29:43.443Z
+date: 2024-10-14T21:33:45.044Z
+updated: 2024-10-16T05:58:14.655Z
 tags:
   - apple
 categories:
@@ -35,16 +35,10 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -66,16 +60,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -83,10 +71,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -127,21 +121,18 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-instagram-filters-applying-them-to-old-memories/"><u>[New] 2024 Approved Mastering Instagram Filters Applying Them to Old Memories</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-earn-big-stay-safe-top-5-income-boosting-posts/"><u>[New] Earn Big, Stay Safe Top 5 Income Boosting Posts</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-warehouse-in-the-sky-top-pricing-on-demand/"><u>[New] In 2024, Warehouse in the Sky Top Pricing on Demand</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/audiovisual-decision-making-is-podcast-or-youtube-more-appealing-for-2024/"><u>Audiovisual Decision-Making Is Podcast or YouTube More Appealing for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-ai-technologies-every-entrepreneur-must-explore/"><u>Essential AI Technologies Every Entrepreneur Must Explore</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-advice-detecting-and-dealing-with-chatgpt-fraudulent-websites/"><u>Expert Advice: Detecting and Dealing with ChatGPT Fraudulent Websites</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-features-of-chatgpt-copilot-an-in-depth-guide/"><u>Exploring the Features of ChatGPT Copilot: An In-Depth Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-add-subtitles-to-igtv-videos-for-2024/"><u>How to Add Subtitles to IGTV Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-dark-mode-in-notepad-on-windows-11-and-11/"><u>How to Enable Dark Mode in Notepad on Windows 11 & 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-y100i-power-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo Y100i Power 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-approaches-to-cbt-with-conversational-ai-leveraging-chatgpt-for-treatment/"><u>Innovative Approaches to CBT with Conversational AI: Leveraging ChatGPT for Treatment</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-private-information-at-risk-when-using-chatgpt-understanding-potential-pitfalls/"><u>Is Private Information at Risk When Using ChatGPT – Understanding Potential Pitfalls</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-power-of-gpt-3-within-openais-interactive-platform/"><u>Leveraging Power of GPT-3 Within OpenAI's Interactive Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-untapped-potentials-in-chatgpt-for-better-talks/"><u>Leveraging Untapped Potentials in ChatGPT for Better Talks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamlining-image-editing-luts-in-adobe-photoshop-cc/"><u>Streamlining Image Editing LUTs in Adobe PhotoShop CC</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-basics-for-transforming-full-size-photos-into-efficient-thumbnails-for-2024/"><u>The Basics for Transforming Full-Size Photos Into Efficient Thumbnails for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-adventure-seekers-choice-black-hero5-or-star-sj7-in-2024/"><u>[New] Adventure Seekers Choice Black Hero5 or Star SJ7, In 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/beat-sonys-drm-security-a-comprehensive-guide-to-ripping-and-bypassing-copy-protected-discs/"><u>Beat Sony's DRM Security: A Comprehensive Guide to Ripping & Bypassing Copy-Protected Discs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-apples-most-economical-airpods-offer-with-a-40-discount-before-independence-day-exclusive-scoop/"><u>Discover Apple’s Most Economical AirPods Offer with a $40 Discount Before Independence Day - Exclusive Scoop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/humor-hub-creator/"><u>Humor Hub Creator</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Itel P55 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-gastronomes-blueprint-filming-feasts/"><u>In 2024, The Gastronome’s Blueprint Filming Feasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-level-intelligence-openai-announces-advanced-gpt-4-model-for-cutting-edge-applications/"><u>Next Level Intelligence: OpenAI Announces Advanced GPT-4 Model for Cutting-Edge Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-programming-journey-with-this-powerful-guide-to-leveraging-chatgpts-coding-capabilities/"><u>Revolutionize Your Programming Journey with This Powerful Guide to Leveraging ChatGPT's Coding Capabilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-scheduling-your-visit-at-apple-retail-stores/"><u>Step-by-Step Guide to Scheduling Your Visit at Apple Retail Stores</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-ai-powered-applications-for-creating-stunning-presentations/"><u>Top 7 AI-Powered Applications for Creating Stunning Presentations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-ai-potential-for-beginners-explore-these-9-tool-networks/"><u>Unlocking AI Potential for Beginners - Explore These 9 Tool Networks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-therapeutic-potential-chatgpts-influence-on-cbt/"><u>Unlocking Therapeutic Potential: ChatGPT's Influence on CBT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-influence-of-ai-technology-in-transforming-the-game-industry-landscape/"><u>Unveiling the Influence of AI Technology in Transforming the Game Industry Landscape</u></a></li>
 </ul></div>
 

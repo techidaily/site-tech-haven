@@ -1,7 +1,7 @@
 ---
 title: Educator's Guide to 4 Vital AI-Checkpoints in ChatGPT
-date: 2024-09-07T00:18:21.354Z
-updated: 2024-09-08T00:18:21.354Z
+date: 2024-10-12T01:02:43.132Z
+updated: 2024-10-15T18:45:20.243Z
 tags:
   - chatgpt
   - open-ai
@@ -13,20 +13,8 @@ excerpt: This Article Describes Educator's Guide to 4 Vital AI-Checkpoints in Ch
 thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06b80b9aa947e69afc78af4df.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT's Hidden Talents Revealed: Dive Into These 6 Engaging Games
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Murder Mystery Mayhem](https://www.makeuseof.com/best-chatgpt-games-to-play/#murder-mystery-mayhem)
@@ -39,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
  Bored of using ChatGPT for programming, chatting, and learning? It's time to start using it for gaming instead.
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
@@ -64,18 +59,6 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -85,11 +68,12 @@ Close
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
@@ -99,11 +83,12 @@ Close
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
  Now, download the Cyber Syndicate cartridge (as an image; it's not really a cartridge file) by hovering over the image and selecting**Download** .
@@ -127,11 +112,12 @@ Close
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
 [Adventure Inked](https://adventureinked.wixsite.com/gpts/) has developed more than 200 ChatGPT text adventure games, so there are far too many to list here. Cute Little Zombies is a perfect example of why its text adventures are great, giving you a heap of different scenarios to play through, all with cute little AI-generated images to help build the story out.
@@ -146,14 +132,11 @@ Close
 
  ChatGPT's games are entertaining, and custom GPT games can add an extra dimension with some clever designs, but that limit means you'll always have more fun with a regular game instead.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +145,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-social-media-mastery-surpassing-the-competition-in-popularity-rankings/"><u>[New] 2024 Approved Social Media Mastery Surpassing the Competition in Popularity Rankings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-adopting-powerpoints-advanced-speech-to-text-functionality-for-dynamic-slide-shows/"><u>[New] In 2024, Adopting PowerPoint’s Advanced Speech-to-Text Functionality for Dynamic Slide Shows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-brain-teasers-galore-choose-your-top-escapes/"><u>[New] In 2024, Brain Teasers Galore Choose Your Top Escapes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premier-terraria-maps-to-maximize-mining-success-for-2024/"><u>[New] Premier Terraria Maps to Maximize Mining Success for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-ultimate-converter-mp4-videos-to-facebook-for-2024/"><u>[New] Ultimate Converter MP4 Videos to Facebook for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-tablets-of-the-year-amazon-fire-versus-samsung-decided/"><u>Best Tablets of the Year: Amazon Fire Versus Samsung, Decided!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/china-to-accelerate-government-compute-performance-aim-for-30-growth-and-300-exaflops-capacity-by-2025/"><u>China to Accelerate Government Compute Performance, Aim for 30% Growth and 300 Exaflops Capacity by 2025</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conquer-crashes-in-goose-goose-duck-a-comprehensive-list-of-7-pc-troubleshooting-strategies/"><u>Conquer Crashes in Goose Goose Duck: A Comprehensive List of 7 PC Troubleshooting Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/directx-12-on-windows-11-a-user-friendly-guide-to-download-and-installation/"><u>DirectX 12 on Windows 11: A User-Friendly Guide to Download and Installation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-quick-vpn-installation-on-your-firestick-step-by-step-tutorial/"><u>Easy Guide: Quick VPN Installation on Your FireStick – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-to-update-and-repair-hp-deskjet-printer-drivers-on-windows-10/"><u>Easy Steps to Update and Repair HP Deskjet Printer Drivers on Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-to-follow-tutorial-on-adding-new-features-to-your-kodi-experience/"><u>Easy-to-Follow Tutorial on Adding New Features to Your Kodi Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-guide-setting-up-your-ps4-remote-play-on-android-devices-in-just-three-simple-steps/"><u>Effortless Guide: Setting Up Your PS4 Remote Play on Android Devices in Just Three Simple Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/eliminating-input-latency-effective-solutions-for-your-logiteche-mouse-woes/"><u>Eliminating Input Latency: Effective Solutions for Your Logiteche Mouse Woes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhance-igtv-engagement-with-diverse-subtitle-options/"><u>Enhance IGTV Engagement with Diverse Subtitle Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-system-speed-optimize-and-revitalize-windows-7/"><u>Enhance System Speed: Optimize and Revitalize Windows 7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-online-gaming-experience-by-reducing-lag-expert-advice-for-gamers/"><u>Enhance Your Online Gaming Experience by Reducing Lag: Expert Advice for Gamers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-blaze-2-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Lava Blaze 2 5G</u></a></li>
+<li><a href="https://driver-install.techidaily.com/synchronize-package-with-hardware/"><u>Synchronize Package with Hardware</u></a></li>
+</ul></div>
 

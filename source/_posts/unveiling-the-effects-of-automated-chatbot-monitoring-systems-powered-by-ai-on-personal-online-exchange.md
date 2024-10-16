@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Effects of Automated Chatbot Monitoring Systems Powered by AI on Personal Online Exchange
-date: 2024-09-11T06:21:04.041Z
-updated: 2024-09-12T19:49:29.445Z
+date: 2024-10-14T21:32:51.749Z
+updated: 2024-10-16T02:01:07.485Z
 tags:
   - chatgpt
   - open-ai
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/76da0ed68bc2a93de3bddfb794fb58ce57d0ed84b
 ## Exploring the Potential of Generative AI as a Modern Conduit for False Information Dissemination
 
  Artificial Intelligence (AI) now plays a role in various aspects of our lives. Specifically, generative AI tools such as ChatGPT and others have grown significantly. This means that there will be an abundance of AI-generated content in the future.However, generative AI also introduces the risk of AI-generated disinformation. Its features make it easier for opportunistic individuals to spread false information. So, let's explore how generative AI is being utilized for disinformation.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
 
@@ -41,22 +34,15 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -82,10 +68,10 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -97,10 +83,10 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -110,13 +96,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -128,6 +107,13 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -148,5 +134,24 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-add-good-bokeh-effects-in-instagram-stories/"><u>[New] 2024 Approved How to Add Good Bokeh Effects in Instagram Stories</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-happy-haven-20-top-prison-jail-gifs-and-photos-for-an-optimistic-social-media-experience-for-2024/"><u>[New] Happy Haven 20 Top Prison Jail GIFs & Photos for an Optimistic Social Media Experience for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-time-travellers-guide-sharing-past-photos-as-snaps/"><u>[Updated] In 2024, Time Traveller's Guide - Sharing Past Photos as Snaps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-guide-to-spinning-and-combining-video-files-for-2024/"><u>Android's Guide to Spinning & Combining Video Files for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-youtube-copyright-claims-understanding-the-rules-for-2024/"><u>Avoiding YouTube Copyright Claims Understanding the Rules for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-apples-ios-175-brought-back-your-lost-memories-understanding-the-magic-behind-it-and-next-steps-for-users/"><u>How Apple's iOS 17.5 Brought Back Your Lost Memories: Understanding the Magic Behind It & Next Steps for Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-lawful-a-comprehensive-itunes-help-on-iphone-call-logging-across-different-states-zdnet-insights/"><u>Is It Lawful? A Comprehensive iTunes Help on iPhone Call Logging Across Different States (ZDNet Insights)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/macbook-air-m1-laptop-at-an-unbeatable-price-of-649-find-your-bargain/"><u>MacBook Air M1 Laptop at an Unbeatable Price of $649 – Find Your Bargain !</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/maximize-video-impact-with-full-screen-settings/"><u>Maximize Video Impact with Full-Screen Settings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/restore-corrupted-3gp-media-top-5-solutions-for-microsoft-operating-systems/"><u>Restore Corrupted .3Gp Media: Top 5 Solutions for Microsoft Operating Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-vpn-apps-for-ios-devices-comprehensive-reviews-by-industry-experts/"><u>Top-Rated VPN Apps for iOS Devices: Comprehensive Reviews by Industry Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-solution-step-by-step-tips-for-addressing-twitch-error-4000/"><u>Unlock the Solution: Step-by-Step Tips for Addressing Twitch Error #4000</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-new-potential-how-the-integration-of-google-gemini-into-ios-enhances-iphone-functionality-techinsights/"><u>Unlocking New Potential: How the Integration of Google Gemini Into iOS Enhances iPhone Functionality | TechInsights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-the-perks-of-iphones-expanded-nfc-support-for-third-party-applications-gizmopundit/"><u>Unlocking Potential: The Perks of iPhone's Expanded NFC Support for Third-Party Applications | GizmoPundit</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-the-iphone-14-still-wins-over-the-iphone-16-pro-insights-from-a-tech-expert/"><u>Why the iPhone 14 Still Wins Over the iPhone 16 Pro - Insights From a Tech Expert</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-users-guide-comprehensive-steps-to-sendingreceiving-imessages-insights/"><u>Windows Users Guide: Comprehensive Steps to Sending/Receiving iMessages - Insights</u></a></li>
+</ul></div>
 

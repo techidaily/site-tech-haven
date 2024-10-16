@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's Latest Security Bulletin: Are iPhone Users Vulnerable to Mercenary Hacking Tactics?"
-date: 2024-10-07T00:56:50.289Z
-updated: 2024-10-09T17:42:27.711Z
+date: 2024-10-13T16:42:03.480Z
+updated: 2024-10-15T22:05:13.443Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -66,10 +66,10 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -121,18 +121,18 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-masterful-digital-brushstrokes-essential-top-10-android-graphics-apps/"><u>[Updated] 2024 Approved Masterful Digital Brushstrokes Essential Top 10 Android Graphics Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-depth-guide-to-game-capturing-roblox-and-mac-integration/"><u>[Updated] In-Depth Guide to Game Capturing Roblox & Mac Integration</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premium-video-devices-direct-headset-screens/"><u>[Updated] Premium Video Devices Direct Headset Screens</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chiefs-choice-elite-sky-savers-for-2024/"><u>Chief's Choice Elite Sky Savers for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-advice-optimizing-chatgpt-responses-through-five-key-user-inputs/"><u>Expert Advice: Optimizing ChatGPT Responses Through Five Key User Inputs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-power-of-personalization-with-openais-gpt-store/"><u>Explore the Power of Personalization with OpenAI's GPT Store</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-every-aspect-of-apples-ai-innovations-revealed-during-wwdc-2024-presentation/"><u>Exploring Every Aspect of Apple’s AI Innovations Revealed During WWDC 2024 Presentation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-gpt-4-amidst-verified-social-landscape/"><u>Exploring GPT-4 Amidst Verified Social Landscape</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-progressive-enhancements-in-ai-comparing-openais-gpt-series/"><u>Exploring Progressive Enhancements in AI: Comparing OpenAI's GPT Series</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-microphone-issues-solutions-for-non-functional-mic-on-windows-11/"><u>Fixing Microphone Issues: Solutions for Non-Functional Mic on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-beta-to-breakthrough-an-analytical-comparison-across-all-versions-of-openais-revolutionary-generative-pre-trained-transformer-models-gpt-1-to-gpt-4/"><u>From Beta to Breakthrough: An Analytical Comparison Across All Versions of OpenAI's Revolutionary Generative Pre-Trained Transformer Models (GPT-1 to GPT- 4)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-find-x6-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo Find X6 Phones with/without a PC</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/techs-elite-selection-the-top-10-video-recorders-online/"><u>Tech's Elite Selection The Top 10 Video Recorders Online</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-professional-techniques-for-webcam-integration-and-capture/"><u>[New] 2024 Approved Professional Techniques for WebCam Integration & Capture</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-dish-to-screen-your-recipe-video-blueprint/"><u>[New] In 2024, Dish to Screen Your Recipe Video Blueprint</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-audience-centric-approaches-to-voiceover-on-slides-for-2024/"><u>[Updated] Audience-Centric Approaches to Voiceover on Slides for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-pushing-boundaries-in-film-the-ultimate-guide-to-producing-slow-motion-videos-with-photos-and-internet-for-2024/"><u>[Updated] Pushing Boundaries in Film The Ultimate Guide to Producing Slow-Motion Videos with Photos & Internet for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-epson-workforce-ds-30-printer-driver-on-windows-10-8-or-7-download-now/"><u>Install Epson WorkForce DS-30 Printer Driver on Windows 10, 8 or 7 - Download Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-usage-profiling-for-windows-based-computers-uncovered/"><u>Power Usage Profiling for Windows-Based Computers Uncovered</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-lol-crash-issues-instantly-troubleshooting-guide/"><u>Resolve Your LoL Crash Issues Instantly - Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-visual-tutorial-converting-your-kobo-reads-for-kindle-enjoyment/"><u>Step-by-Step Visual Tutorial: Converting Your Kobo Reads for Kindle Enjoyment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tips-and-tricks-for-zooming-in-on-pdf-files-using-your-amazon-kindle-device/"><u>Tips and Tricks for Zooming In on PDF Files Using Your Amazon Kindle Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-picks-ultimate-comparison-of-the-best-azw4-e-reader-apps-for-windows-and-macos/"><u>Top Picks: Ultimate Comparison of the Best AZW4 E-Reader Apps for Windows & macOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-recommended-ebook-readers-for-your-ipad/"><u>Top Recommended eBook Readers for Your iPad</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-solutions-for-bypassing-amazon-digital-restrictions/"><u>Top Solutions for Bypassing Amazon Digital Restrictions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-2024-guide-transforming-audible-files-into-mp3-format/"><u>Ultimate 2024 Guide: Transforming Audible Files Into MP3 Format</u></a></li>
 </ul></div>
 

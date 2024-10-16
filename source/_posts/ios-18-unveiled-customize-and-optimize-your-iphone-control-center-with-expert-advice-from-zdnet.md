@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Customize & Optimize Your iPhone Control Center with Expert Advice From ZDNET"
-date: 2024-10-04T16:53:49.039Z
-updated: 2024-10-09T22:32:44.728Z
+date: 2024-10-14T00:40:37.304Z
+updated: 2024-10-16T08:17:57.480Z
 tags:
   - apple
 categories:
@@ -29,10 +29,10 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -48,10 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -79,10 +79,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -100,16 +100,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -154,15 +148,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-building-captivating-instagram-feed-layouts/"><u>[New] 2024 Approved Building Captivating Instagram Feed Layouts</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-blending-beats-with-brushstrokes-online/"><u>[New] In 2024, Blending Beats with Brushstrokes Online</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-video-amounts-stored-64-vs-128gb-comparison/"><u>[Updated] Video Amounts Stored 64 vs 128GB Comparison</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-standout-6-platforms-empowering-biz-marketing/"><u>2024 Approved Standout 6 Platforms Empowering Biz Marketing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/choosing-between-obs-and-fraps-for-capture-for-2024/"><u>Choosing Between OBS and Fraps for Capture for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-art-of-troubleshooting-stop-microphone-pop-ups-with-your-logitech-g-pro-x/"><u>Master the Art of Troubleshooting: Stop Microphone Pop-Ups with Your Logitech G Pro X</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ais-textual-constructs-and-industry-usage-patterns/"><u>Understanding AI's Textual Constructs & Industry Usage Patterns</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-conversational-ai-potential-with-chatgpt-api-tutorials/"><u>Unlocking Conversational AI Potential with ChatGPT API Tutorials</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-passive-income-streams-top-8-uses-for-chatgpt/"><u>Unlocking Passive Income Streams: Top 8 Uses for ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-conversation-your-guide-to-talking-with-chatgpt/"><u>Unlocking the Power of Conversation: Your Guide to Talking with ChatGPT</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716069580706-updated-2024-approved-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>[Updated] 2024 Approved PC Games Memory - Freeze and Capture 6 Ways to Win!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-disrupted-microphone-input-in-valorant-windows/"><u>Addressing Disrupted Microphone Input in Valorant (Windows)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-grok-ai-insights-intentions-and-investment-from-elon/"><u>Breaking Down Grok AI: Insights, Intentions & Investment From Elon</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/curtailing-fictional-insights-from-ai-through-precise-prompting/"><u>Curtailing Fictional Insights From AI Through Precise Prompting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-top-7-real-world-applications-of-chatgpt-today/"><u>Discover the Top 7 Real-World Applications of ChatGPT Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-enroll-in-chatgpt-plugin-upgrades-now/"><u>How to Enroll in ChatGPT Plugin Upgrades Now!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-pro-tips-for-efficient-message-reactions-on-discord/"><u>In 2024, Pro Tips for Efficient Message Reactions on Discord</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/inexpensive-pc-display-recorder-apps/"><u>Inexpensive PC Display Recorder Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/market-leading-6-social-channels-for-business-advancement-for-2024/"><u>Market-Leading 6 Social Channels for Business Advancement for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-ai-communication-best-tools-for-crafting-ideal-ai-prompts/"><u>Mastering AI Communication: Best Tools for Crafting Ideal AI Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategic-advancement-in-the-office-how-chatgpt-can-revamp-your-work-processes/"><u>Strategic Advancement in the Office: How ChatGPT Can Revamp Your Work Processes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-emergence-of-ai-powered-search-shifting-paradigms-in-website-visibility-and-online-traffic-generation/"><u>The Emergence of AI-Powered Search: Shifting Paradigms in Website Visibility and Online Traffic Generation</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-revolutionary-gamepad-repair-new-rog-x/"><u>The Revolutionary Gamepad Repair: New RoG X</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-truth-about-chatgpt-on-windows-understanding-the-lack-of-legitimate-clients/"><u>The Truth About ChatGPT on Windows – Understanding the Lack of Legitimate Clients</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/worst-case-scenario-solutions-wiping-data-from-locked-iphones/"><u>Worst Case Scenario Solutions: Wiping Data From Locked iPhones</u></a></li>
 </ul></div>
 

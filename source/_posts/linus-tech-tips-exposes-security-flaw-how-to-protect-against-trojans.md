@@ -1,7 +1,7 @@
 ---
 title: Linus Tech Tips Exposes Security Flaw – How to Protect Against Trojans
-date: 2024-09-07T00:20:11.036Z
-updated: 2024-09-08T00:20:11.036Z
+date: 2024-10-10T22:28:53.433Z
+updated: 2024-10-15T17:18:51.266Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: This Article Describes Linus Tech Tips Exposes Security Flaw – How to
 thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb76549037277932507e29a378053d0b9798db.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Digital Distrust: Spotting Impostor ChatGPT Sites for Security
 
  Many people use ChatGPT for various legitimate uses, including answering questions, generating content, explaining complex concepts, and writing code. However, the limitations of the free version of the chatbot, like delayed responses, can be frustrating.
@@ -37,12 +25,6 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
 
  Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. chat-gpt-pc.online
 
  Security researchers at Cyble Research and Intelligence Labs (CRIL) uncovered cybercriminals using the domain "chat-gpt-pc.online" to attract unsuspecting users into downloading a supposed ChatGPT Windows desktop client. This client, however, contained the RedLine [info-stealing malware](https://www.makeuseof.com/what-is-an-infostealer/).
@@ -58,31 +40,27 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. pay.chatgptftw.com
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
@@ -93,21 +71,29 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -131,14 +117,11 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
 
  Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +130,17 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-enhancing-team-conferencing-with-zoom-techniques-in-microsoft-teams/"><u>[New] In 2024, Enhancing Team Conferencing with ZOOM Techniques in Microsoft Teams</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-path-to-making-popular-twitch-channels/"><u>[New] The Path to Making Popular Twitch Channels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-windows-11-hacks-and-tips/"><u>[Updated] Ultimate Windows 11 Hacks and Tips</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/542o5a625oyh5y2x77ya5aac5l2v6ycy6kgm5yig5ymy5y2alplusejgewngoikhplusijvsatioacgoawsoawueazleinoplusaeka/"><u>獨家指南：如何進行分割區/磁區複製 - 最新方法解析</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-ai-techniques-understanding-nlp-vs-machine-learning/"><u>Comparing AI Techniques: Understanding NLP Vs. Machine Learning</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-f14-5g-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy F14 5G has native MOV support?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovating-code-workflow-the-impact-of-artificial-intelligence-on-programmers/"><u>Innovating Code Workflow: The Impact of Artificial Intelligence on Programmers</u></a></li>
+<li><a href="https://common-error.techidaily.com/latest-guide-troubleshooting-miracast-connectivity/"><u>Latest Guide: Troubleshooting Miracast Connectivity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sam-altman-steps-down-as-ceo-the-consequences-for-chatgpt-and-ai-innovation/"><u>Sam Altman Steps Down as CEO – The Consequences for ChatGPT and AI Innovation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-best-10-chatgpt-alternatives-on-the-market-today/"><u>Unveiling the Best 10 ChatGPT Alternatives on the Market Today</u></a></li>
+</ul></div>
 

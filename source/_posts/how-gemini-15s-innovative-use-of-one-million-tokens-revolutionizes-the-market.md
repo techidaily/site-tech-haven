@@ -1,7 +1,7 @@
 ---
 title: How Gemini 1.5'S Innovative Use of One Million Tokens Revolutionizes the Market
-date: 2024-09-08T02:44:03.145Z
-updated: 2024-09-12T21:31:06.738Z
+date: 2024-10-09T16:39:21.209Z
+updated: 2024-10-16T07:23:32.745Z
 tags:
   - chatgpt
   - open-ai
@@ -15,19 +15,6 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 
 ## Discover How to Utilize OpenAI's Revolutionary GPT Store - Beginner's Tutorial Inside
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Access the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-access-the-gpt-store)
@@ -35,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#is-it-worth-upgrading-to-chatgpt-plus-to-use-custom-gpts)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -51,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Access the GPT Store
 
  Access and use of the new GPT Store[requires a ChatGPT subscription](http://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) . Only users with ChatGPT Plus, ChatGPT Teams, or ChatGPT Enterprise accounts will be able to use the store's catalog of custom GPTs. You also need a ChatGPT subscription if you want to[create your own custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) .
@@ -61,6 +55,13 @@ How do you know when you've been granted access?
 
  On the left sidebar of the ChatGPT interface, you should see**Explore GPTs** instead of simply**Explore** . Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
@@ -70,48 +71,21 @@ How do you know when you've been granted access?
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click**Keep in sidebar** . This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
@@ -134,5 +108,20 @@ How do you know when you've been granted access?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-effortless-gameplay-capture-a-compreayers-approach-to-xbox-recording/"><u>[New] 2024 Approved Effortless Gameplay Capture A Compreayer's Approach to Xbox Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-step-by-step-guide-to-screen-capturing-hulu-content-seamlessly/"><u>[New] 2024 Approved Step-by-Step Guide to Screen Capturing Hulu Content Seamlessly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-resolving-disconnected-sound-on-obs-broadcast/"><u>[Updated] In 2024, Resolving Disconnected Sound on OBS Broadcast</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sound-sleuths-unite-free-beats-tracking-tools/"><u>[Updated] Sound Sleuths Unite! Free Beats-Tracking Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-android-photo-editor-is-pickup-top/"><u>2024 Approved Best Android Photo Editor Is PickUp Top?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-application-made-simple-python-plus-gpt-3/"><u>AI Application Made Simple: Python + GPT-3</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-chatbots-exposed-demystifying-the-most-widely-held-9-misconceptions/"><u>AI Chatbots Exposed: Demystifying the Most Widely Held 9 Misconceptions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-insider-look-at-microsofts-revolutionary-copilot-tool/"><u>An Insider Look at Microsoft's Revolutionary Copilot Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721952253229-how-to-surpass-the-standard-chatgpt-discover-10-custom-gpts/"><u>How to Surpass the Standard ChatGPT? Discover 10 Custom GPTs!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722190429172-impatient-for-ai-conversation-at-your-fingertips-check-out-these-fantastic-open-source-chatbots/"><u>Impatient for AI Conversation at Your Fingertips? Check Out These Fantastic Open Source Chatbots!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-lava-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Lava FRP?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-viral-video-explosion-twitters-hot-tiktoks-listed/"><u>In 2024, Viral Video Explosion Twitter’s Hot TikToks Listed</u></a></li>
+<li><a href="https://win-help.techidaily.com/in-depth-analysis-of-ufs-explorers-are-they-worth-your-investment/"><u>In-Depth Analysis of UFS Explorers: Are They Worth Your Investment?</u></a></li>
+</ul></div>
 

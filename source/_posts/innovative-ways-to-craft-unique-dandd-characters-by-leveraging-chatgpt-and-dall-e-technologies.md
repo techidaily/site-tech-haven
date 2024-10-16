@@ -1,7 +1,7 @@
 ---
 title: Innovative Ways to Craft Unique D&D Characters by Leveraging ChatGPT and DALL-E Technologies
-date: 2024-09-10T08:37:30.098Z
-updated: 2024-09-13T06:01:15.756Z
+date: 2024-10-12T02:09:24.802Z
+updated: 2024-10-16T03:39:59.667Z
 tags:
   - chatgpt
   - open-ai
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
  ChatGPT’s Code Interpreter is by far the single most powerful feature available on the ChatGPT platform. Though many don't realize it, this tool has numerous exciting uses and can do far more than the handful of tasks it's currently being used for.
 
  So, what exactly can you do with ChatGPT's Code Interpreter plugin? We’ve put together some of the most useful ways you can use the Code Interpreter plugin right now.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Create and Edit Images
 
@@ -58,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
 
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create and Edit Videos
 
  Just like images, ChatGPT's Code Interpreter can also perform manipulation tasks on videos. You can perform simple tasks like extracting metadata from video files or grabbing the frame from a particular timestamp. You can also:
@@ -81,18 +67,32 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
 
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Create and Modify Audio Files
 
@@ -119,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Write and Analyze Code
@@ -139,31 +139,11 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
 
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
 
@@ -184,5 +164,22 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-the-art-top-5-hand-to-hand-combat-games/"><u>[New] 2024 Approved Mastering the Art Top 5 Hand-to-Hand Combat Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-most-popular-gratuitous-vfx-websites/"><u>[New] Most Popular Gratuitous VFX Websites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-free-to-text-on-mac-30-apps-that-deserve-your-notice/"><u>[New] Top Free to Text on Mac 30 Apps That Deserve Your Notice</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-imaginative-imagery-the-art-of-altered-text-presentation/"><u>[Updated] 2024 Approved Imaginative Imagery The Art of Altered Text Presentation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-direct-pathway-iphone-files-on-your-desktop/"><u>[Updated] Direct Pathway IPhone Files on Your Desktop</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-securing-skype-audio-with-obs-recording-techniques/"><u>[Updated] Securing Skype Audio with OBS Recording Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-deep-dive-into-chatgpt-enterprise-unraveling-what-it-provides-and-how-it-stands-out/"><u>A Deep Dive Into ChatGPT Enterprise: Unraveling What It Provides and How It Stands Out</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-your-note-taking-game-using-these-expert-chatgpt-methodologies/"><u>Ace Your Note-Taking Game Using These Expert ChatGPT Methodologies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advance-your-chatgpt-interaction-with-these-1-9-must-have-addons/"><u>Advance Your ChatGPT Interaction with These #1-#9 Must-Have Addons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-chatbots-unleashed-assessing-the-strengths-of-chatgpt-plus-vs-perplexity/"><u>AI Chatbots Unleashed: Assessing the Strengths of ChatGPT Plus Vs. Perplexity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-evaluation-reimagined-moving-past-the-turing-scale/"><u>AI Evaluation Reimagined: Moving Past the Turing Scale</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-made-easy-understanding-intelligence/"><u>AI Made Easy: Understanding Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721963967805-discover-chatgpts-latest-upgrades-top-new-features-unveiled/"><u>Discover ChatGPT's Latest Upgrades: Top New Features Unveiled</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-poco-m6-pro-4g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Poco M6 Pro 4G FRP Locks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Oppo Find X6 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Insights: Four Pathways to Better Time Management"
-date: 2024-09-09T07:37:55.118Z
-updated: 2024-09-12T16:01:19.034Z
+date: 2024-10-10T00:06:32.515Z
+updated: 2024-10-16T04:00:13.241Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/0065578452a99a584186a97c84004b198beda17f3
 
  But, if AI can talk and reply to your messages like a human, do you need to be polite to AI, as you would with a human?
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should You Be Polite to AI like ChatGPT, Alexa, and Siri?
 
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
@@ -38,31 +31,17 @@ thumbnail: https://thmb.techidaily.com/0065578452a99a584186a97c84004b198beda17f3
 
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
@@ -71,15 +50,22 @@ thumbnail: https://thmb.techidaily.com/0065578452a99a584186a97c84004b198beda17f3
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
@@ -91,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/0065578452a99a584186a97c84004b198beda17f3
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -116,5 +102,16 @@ thumbnail: https://thmb.techidaily.com/0065578452a99a584186a97c84004b198beda17f3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-the-beginners-handbook-to-instagrams-most-popular-feature-reels/"><u>[New] The Beginner’s Handbook to Instagram’s Most Popular Feature – Reels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-comprehensive-study-gecatas-game-record-functionality/"><u>[Updated] In 2024, Comprehensive Study Gecata's Game Record Functionality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharpening-screen-views-for-improved-virtual-interactions/"><u>2024 Approved Sharpening Screen Views for Improved Virtual Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-ai-enhancements-for-ios-18-that-would-bring-it-on-par-with-androids-capabilities-insights/"><u>Essential AI Enhancements for iOS 18 That Would Bring It on Par With Android's Capabilities - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hands-on-review-of-esrs-innovative-halolock-a-versatile-multi-card-wallet-and-compatible-adjustable-stand-for-iphones/"><u>Hands-On Review of ESR's Innovative Halolock - A Versatile Multi-Card Wallet & Compatible Adjustable Stand for iPhones</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-profitable-pathways-8-steps-for-youtube-earning/"><u>In 2024, Profitable Pathways 8 Steps for YouTube Earning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/professional-video-production-unleashed-apple-introduces-final-cut-pro-on-the-iphone-exclusive-details-from-zdnet/"><u>Professional Video Production Unleashed: Apple Introduces Final Cut Pro on the iPhone - Exclusive Details From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-non-apple-non-tile-wallet-airtag-review-discovering-exceptional-alternatives/"><u>Top Non-Apple, Non-Tile Wallet AirTag Review: Discovering Exceptional Alternatives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-components-with-tom-a-hardware-guide/"><u>Unveiling the Latest in PC Components with Tom - A Hardware Guide</u></a></li>
+</ul></div>
 

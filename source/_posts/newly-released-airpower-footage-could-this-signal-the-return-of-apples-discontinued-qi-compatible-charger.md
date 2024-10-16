@@ -1,7 +1,7 @@
 ---
 title: "Newly Released AirPower Footage: Could This Signal the Return of Apple's Discontinued Qi-Compatible Charger?"
-date: 2024-10-06T17:44:54.117Z
-updated: 2024-10-09T18:33:10.259Z
+date: 2024-10-13T18:18:49.635Z
+updated: 2024-10-15T23:37:21.869Z
 tags:
   - apple
 categories:
@@ -40,6 +40,19 @@ I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 
 With configurations ranging from $999 to $2,599, keep in mind that the higher storage tiers (1TB and 2TB) also come with double the RAM (16GB vs. 8GB) and an extra CPU core. It's a subtle, under-the-hood difference that's easy to miss, especially when cross-shopping [between iPad models](https://www.zdnet.com/article/best-ipad/). If you can use the greater compute, have an offline-heavy workflow, and/or want the most future-proofed iPad on the market, it's worth the upcharge. Otherwise, the base 11- or 13-inch model will serve you just fine, as they have for me.
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Display     | 11-inch or 13-inch OLED with ProMotion (10Hz to 120Hz)                                                                                                                                                                                                                           |
@@ -54,6 +67,13 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How I tested the iPad Pro (2024)
 
 Over the past week and a half, I've used (or attempted to use) the 11-inch iPad Pro as my primary computer for work and as a secondary, entertainment-only device. When it wasn't paired to a Wi-Fi connection 90% of the time, it ran off my phone's T-Mobile hotspot. While Apple sells an [LTE version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) of the iPad Pro, my primary testing grounds for the device have been at home, a local café, and my work office -- nowhere adventurous enough to justify the always-connected upgrade.
@@ -61,10 +81,10 @@ Over the past week and a half, I've used (or attempted to use) the 11-inch iPad 
 I also paired the iPad with Apple's revamped [Magic Keyboard](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR03LL%2FA%2Fmagic-keyboard-for-ipad-pro-11%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The $299 starting price gave me pause when I first checked out the accessory, but the thinner, lighter aluminum form factor, larger trackpad, and a new row of function keys this year make the keyboard case more essential than ever for the full iPad experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What are the best features of the iPad Pro (2024)?
@@ -105,19 +125,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What I'd like to see in the next model
 
 **More flexible software:** The limitations of iPadOS remain with every generation of iPad reviewed; I can talk all day about how lovely it'd be to have native apps that give me something remotely close to their desktop counterparts or how every iPadOS update feels like another small step towards an ever-distant [touchscreen MacBook dream](https://www.zdnet.com/article/touchscreen-macbook-4-reasons-why-we-love-the-idea-and-4-reasons-why-we-dont/).
@@ -136,13 +143,6 @@ I'm also aware that Apple sells iPads like no other tablet maker, generating an 
 
 Of course, slimming down the iPad Pro means Apple likely won't move towards adding ports. Given how essential the Magic Keyboard is to the iPad, however, it could be even more so with the additional I/O.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Final thought
 
 Apple's tablet lineup is ultimately (and has always been) confined by an operating system that promotes flexibility and ease of use over high-power multitasking. That balance may shift come WWDC, should the company pitch a more ambitious, AI-driven version of iPadOS.
@@ -150,10 +150,16 @@ Apple's tablet lineup is ultimately (and has always been) confined by an operati
 Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) is, for all intents and purposes, an iPad -- a tablet you carry around for getting certain tasks done and for consuming content. For many, being the [best tablet](https://www.zdnet.com/article/best-tablet/) on the market -- not the [best laptop or PC](https://www.zdnet.com/article/best-laptop/) \-- is more than enough.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -190,20 +196,22 @@ Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-path-to-youtube-prosperity-unlocking-monetization-with-500plus-views/"><u>[New] Path to YouTube Prosperity Unlocking Monetization with 500+ Views</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-tech-to-record-your-live-video-feeds-online/"><u>[New] Top Tech to Record Your Live Video Feeds Online</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/30-second-guide-to-fast-fortnite-graphics/"><u>30-Second Guide to Fast Fortnite Graphics</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/audiovisual-adaptability-in-free-fire-for-2024/"><u>Audiovisual Adaptability in Free Fire for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/copilot-vs-copilot-pro-key-features-compared-is-an-upgrade-worth-it/"><u>Copilot Vs. Copilot Pro: Key Features Compared – Is an Upgrade Worth It?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/discovering-the-top-screen-grabber-software-win11/"><u>Discovering the Top Screen Grabber Software Win11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-linkedin-game-with-chatgpt-a-comprehensive-guide-to-landing-jobs-faster/"><u>Elevate Your LinkedIn Game with ChatGPT: A Comprehensive Guide to Landing Jobs Faster</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-chatgpt-functionality-a-guide-to-browsers-and-the-added-advantage-of-plugins/"><u>Enhancing ChatGPT Functionality - A Guide to Browsers and the Added Advantage of Plugins</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-essay-writing-via-chatgpt/"><u>Enhancing Essay Writing via ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evolving-tech-frontier-openais-new-milestone-with-gpt-4/"><u>Evolving Tech Frontier: OpenAI's New Milestone with GPT-4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/google-palm-2-versus-openai-gpt-4-a-deep-dive-into-their-contrasting-features-and-capabilities/"><u>Google PaLM 2 Versus OpenAI GPT-4 – A Deep Dive Into Their Contrasting Features and Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-artificer-intelligence-redefines-what-we-perceive-as-real-or-just-a-story/"><u>How Artificer Intelligence Redefines What We Perceive as Real or Just a Story</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-interruptions-solving-red-dead-redemption-2s-pc-performance-problems/"><u>No More Interruptions: Solving Red Dead Redemption 2'S PC Performance Problems</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-digital-deck-changes-predicting-the-future-of-fb-ads/"><u>The Digital Deck Changes Predicting the Future of FB Ads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-smooth-processes-for-recording-online-meetings-with-gotomeeting/"><u>[New] 2024 Approved Smooth Processes for Recording Online Meetings with GoToMeeting</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/amers-sound-showdown-the-top-5-headset-list-for-2024/"><u>[New] Gamers' Sound Showdown The Top 5 Headset List for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-best-asmr-apps-for-android-and-ios-you-should-know/"><u>2024 Approved Best ASMR Apps for Android and iOS You Should Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-muse-tips-for-writing-and-publishing-a-book-of-poems/"><u>ChatGPT as Your Muse: Tips for Writing and Publishing a Book of Poems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-unavailable-discover-top-5-methods-to-confirm-its-status/"><u>ChatGPT Unavailable? Discover Top 5 Methods to Confirm Its Status</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-smart-ai-solutions-with-gpt-3-in-the-realm-of-openai-playground/"><u>Crafting Smart AI Solutions with GPT-3 in the Realm of OpenAI Playground</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-office-email-efficacy-the-ultimate-guide-to-using-chatgpt-for-challenging-duty-communications/"><u>Enhancing Office Email Efficacy: The Ultimate Guide to Using ChatGPT for Challenging Duty Communications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/grasping-ai-vulnerability-demystifying-prompt-injections/"><u>Grasping AI Vulnerability: Demystifying Prompt Injections</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-your-workstation-by-updating-lenovos-tb3-docking-solutions/"><u>Improve Your Workstation by Updating Lenovo's TB3 Docking Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcome-iphones-obstacles-with-these-chatgpt-fixes/"><u>Overcome iPhone's Obstacles with These ChatGPT Fixes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-google-pixel-8-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Google Pixel 8 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/snapchat-my-ai-the-6-significant-aspects-you-overlooked/"><u>Snapchat My AI: The 6 Significant Aspects You Overlooked</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/idden-dynamics-of-live-video-images-on-youtube/"><u>The Hidden Dynamics of Live Video Images on YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-comparative-showdown-for-creativity-in-bots/"><u>The Ultimate Comparative Showdown for Creativity in Bots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/to-write-creatively-with-chatgpt-examining-its-strengths-and-weaknesses/"><u>To Write Creatively with ChatGPT: Examining Its Strengths and Weaknesses</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-analysis-of-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Latest Hardware</u></a></li>
+<li><a href="https://media-tips.techidaily.com/zero-cost-video-players-compatible-with-flv-and-modern-html5-streams/"><u>Zero Cost Video Players: Compatible with Flv and Modern HTML5 Streams</u></a></li>
 </ul></div>
 

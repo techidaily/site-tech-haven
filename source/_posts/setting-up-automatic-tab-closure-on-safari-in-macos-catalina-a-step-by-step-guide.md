@@ -1,7 +1,7 @@
 ---
 title: "Setting up Automatic Tab Closure on Safari in macOS Catalina: A Step-by-Step Guide"
-date: 2024-10-08T23:26:50.971Z
-updated: 2024-10-09T17:06:55.853Z
+date: 2024-10-10T03:02:57.565Z
+updated: 2024-10-15T19:24:52.144Z
 tags:
   - apple
 categories:
@@ -36,38 +36,52 @@ Let me show you how it works.
 
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
-## How to create different network locations in MacOS
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## How to create different network locations in MacOS
 
 ## Requirements
 
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open System Preferences
 
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Open Network
 
 From within System Preferences, click the Network icon to open the Network section.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Create a new network location
@@ -78,19 +92,6 @@ Creating a new Network Location in MacOS Monterey.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Configure the new location
 
 Make sure to select the new location you created from the Location drop-down. Click Advanced to open the location configuration window, where you can configure the location to meet your specific needs. For example, you can select the network to be used and then configure that network for a static IP address using the Cloudflare DNS servers.
@@ -100,13 +101,6 @@ Configuring a network for the new location in MacOS.
 Image: Jack Wallen
 
 Once you've configured the location exactly how you need it, click Apply to save everything.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Switching to a different Network Location
 
@@ -151,18 +145,22 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-cultivating-a-community-enhancing-engagement-increasing-subscribers/"><u>[New] Cultivating a Community Enhancing Engagement, Increasing Subscribers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ow-to-broadcast-your-online-meeting-via-youtube-google-meet-steps/"><u>[New] How To Broadcast Your Online Meeting via YouTube - Google Meet Steps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-subtitled-success-the-top-8-software-that-swiftly-converts-sub-to-srt-on-pcmacosx-for-2024/"><u>[New] Subtitled Success! The Top 8 Software That Swiftly Converts SUB to SRT on PC/MacOSX for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-boost-your-facebook-profile-select-8-apps-with-highest-like-potential/"><u>2024 Approved Boost Your Facebook Profile Select 8 Apps with Highest Like Potential</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/belgian-language-mix-what-are-the-officials/"><u>Belgian Language Mix: What Are The Officials?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-character-and-word-capacity-boundaries-in-chatgpt-interactions/"><u>Exploring Character and Word Capacity Boundaries in ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-how-governments-can-control-advanced-ai-applications-four-key-strategies/"><u>Exploring How Governments Can Control Advanced AI Applications: Four Key Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-differences-between-claude-pro-ai-and-chatgptplus-by-microsoft/"><u>Exploring the Differences Between Claude Pro AI and ChatGPT+ by Microsoft</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-premier-giants-in-natural-language-processing-technology/"><u>Exploring the Premier Giants in Natural Language Processing Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-creative-spark-choosing-from-the-best-6-nft-services/"><u>In 2024, Ignite Creative Spark Choosing From the Best 6 NFT Services</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/mastering-twitter-broadcast-alive-tweets-guide-for-2024/"><u>Mastering Twitter Broadcast Alive Tweets Guide for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/simplifying-social-gatherings-with-facebook-portal-tv/"><u>Simplifying Social Gatherings with Facebook Portal TV</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-issue-troubleshooting-multiversus-pc-launch-problems/"><u>Solving the Issue: Troubleshooting Multiversus PC Launch Problems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-powerful-narratives-with-these-30-video-plans/"><u>[New] Crafting Powerful Narratives with These 30 Video Plans</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-cost-breakdown-for-youtube-ads/"><u>[Updated] 2024 Approved Cost Breakdown for YouTube Ads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-mastering-viewing-on-facebook-live/"><u>[Updated] In 2024, Mastering Viewing on Facebook Live</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-sound-sculpting-on-android-the-7-ultimate-audio-editing-apps-for-2024/"><u>[Updated] Sound Sculpting on Android The 7 Ultimate Audio Editing Apps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-captivate-audiences-with-perfectly-tailored-youtube-descriptions/"><u>2024 Approved Captivate Audiences with Perfectly Tailored Youtube Descriptions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-in-class-bots-chatgpt-or-gemini-for-top-notch-programming-assistance/"><u>Best in Class Bots: ChatGPT or Gemini for Top-Notch Programming Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-writing-game-go-paperless-with-hix-and-gpt-narratives/"><u>Elevate Your Writing Game - Go Paperless with HIX and GPT-Narratives</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploiting-chatgpts-link-to-wolframalpha-in-3-ways/"><u>Exploiting ChatGPT's Link to WolframAlpha in 3 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-3d-print-designs-a-step-by-step-guide-using-chatgpt/"><u>Mastering 3D Print Designs: A Step-by-Step Guide Using ChatGPT</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ring-cost-effective-visual-integration-in-writing/"><u>Mastering Cost-Effective Visual Integration in Writing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-tutorial-guide-download-and-install-llama-2-locally/"><u>Quick Tutorial Guide: Download & Install Llama 2 Locally</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tired-of-awaiting-chatgpt-desktop-embrace-this-robust-open-source-substitute-now/"><u>Tired of Awaiting ChatGPT Desktop? Embrace This Robust Open-Source Substitute Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/visual-visionaries-top-30-conceptual-spark-plugs-from-ai-art/"><u>Visual Visionaries: Top 30 Conceptual Spark Plugs From AI Art</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/who-reigns-supreme-googles-bard-or-microsofts-bing-chat/"><u>Who Reigns Supreme? Google’s Bard or Microsoft’s Bing Chat</u></a></li>
 </ul></div>
 

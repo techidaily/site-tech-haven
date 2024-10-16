@@ -1,7 +1,7 @@
 ---
 title: "Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch From ZDNet"
-date: 2024-10-03T19:21:21.804Z
-updated: 2024-10-09T21:02:30.447Z
+date: 2024-10-13T03:16:43.928Z
+updated: 2024-10-16T06:33:32.697Z
 tags:
   - apple
 categories:
@@ -30,6 +30,19 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -39,13 +52,6 @@ To update watchOS, open the Watch app on your iPhone. Go to General, select Soft
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
 
@@ -69,18 +75,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -91,13 +97,6 @@ If you don't want to share the default details with a Check In, you can easily c
 If you still wish to use a timer for the Check In option but change the amount of time allocated, tap Timer. Tap the button for hours and use the Digital Crown to cycle through different numbers. Do the same for the number of minutes. When finished, tap Done. Tap the yellow checkmark and then send the text. When you end the Check In at the appropriate time, your recipient will be alerted as an indication that you've arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
 
@@ -113,6 +112,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
@@ -120,10 +126,10 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -162,22 +168,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-crucial-picks-the-most-influential-6-networking-websites-for-biz-for-2024/"><u>[New] Crucial Picks The Most Influential 6 Networking Websites for Biz for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-complete-kinetics-exploration/"><u>[Updated] Complete Kinetics Exploration</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-customize-twitter-video-snapshot-for-2024/"><u>[Updated] Customize Twitter Video Snapshot for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-rotating-iphone-photos-for-perfect-angles-for-2024/"><u>[Updated] Rotating iPhone Photos for Perfect Angles for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mac-os-unveiled-comprehensive-review-of-screenflow-v4/"><u>2024 Approved Mac OS Unveiled Comprehensive Review of ScreenFlow V4</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tech-picks-leading-drone-gimbals/"><u>2024 Approved Tech Picks Leading Drone Gimbals</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-13-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 13 by Name | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-implement-chatgpt-widget-for-android-devices-a-step-by-step-guide/"><u>How To Implement ChatGPT Widget For Android Devices - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/italys-sudden-ban-on-chatgpt-understanding-the-reason-behind-immediate-action/"><u>Italy's Sudden Ban on ChatGPT: Understanding the Reason Behind 'Immediate Action'</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leading-the-charge-for-ai-responsibility-ceos-perspective/"><u>Leading the Charge for AI Responsibility - CEO's Perspective</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/local-ai-fun-without-the-fuss-get-started-with-a-free-open-source-chatgpt-copy-gpt-4all-for-windows-users/"><u>Local AI Fun Without the Fuss: Get Started With a Free, Open-Source ChatGPT Copy - GPT-4All for Windows Users!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-interaction-read-digest-and-summarize-pdfs-with-ease/"><u>Mastering ChatGPT Interaction: Read, Digest, and Summarize PDFs with Ease</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-ai-world-with-these-essential-insights/"><u>Navigating the AI World with These Essential Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-volatility-5-chatgpt-solutions-for-traders/"><u>Navigating Volatility: 5 ChatGPT Solutions for Traders</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-the-most-typical-auto-gpt-installation-hurdles-a-guide/"><u>Overcoming the Most Typical Auto-GPT Installation Hurdles: A Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-strategies-how-to-quickly-download-html5-videos/"><u>Simple Strategies: How To Quickly Download HTML5 Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-powerful-book-trailer-examples/"><u>[Updated] In 2024, Powerful Book Trailer Examples</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-reassessing-manycam-search-for-a-top-contender-for-2024/"><u>[Updated] Reassessing ManyCam Search for a Top Contender for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726030133717-2024/"><u>2024年度にぴったりのニコニコ動画ダウンロードポータルベストセレクション</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-the-truth-beyond-ai-generated-summary-texts/"><u>Deciphering the Truth Beyond AI-Generated Summary Texts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-content-game-with-these-9-insights-into-using-chatgpt-as-a-creator/"><u>Elevate Your Content Game with These 9 Insights Into Using ChatGPT as a Creator</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dolby-atmos-playback-issues-on-windows-10/"><u>Fixing Dolby Atmos Playback Issues on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Civi 3 Disney 100th Anniversary Edition to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-basic-screen-capture-windows-10-version/"><u>In 2024, Basic Screen Capture, Windows 10 Version</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/instant-troubleshooting-guide-to-get-apex-legends-running-smoothly-again/"><u>Instant Troubleshooting Guide to Get Apex Legends Running Smoothly Again</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-multilingual-communication-with-chatgpt-as-your-go-to-translator/"><u>Mastering Multilingual Communication with ChatGPT as Your Go-To Translator</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/proven-ai-approaches-for-successful-innovation/"><u>Proven AI Approaches for Successful Innovation</u></a></li>
 </ul></div>
 

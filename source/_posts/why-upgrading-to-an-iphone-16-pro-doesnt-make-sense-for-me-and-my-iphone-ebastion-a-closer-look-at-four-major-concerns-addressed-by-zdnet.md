@@ -1,7 +1,7 @@
 ---
 title: Why Upgrading to an iPhone 16 Pro Doesn't Make Sense for Me and My iPhone Ebastion | A Closer Look at Four Major Concerns Addressed by ZDNET
-date: 2024-10-02T19:47:23.010Z
-updated: 2024-10-09T21:53:57.315Z
+date: 2024-10-14T00:52:20.587Z
+updated: 2024-10-15T23:04:05.408Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +81,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,16 +135,19 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-enlightening-path-to-capturing-your-mac-screens/"><u>[Updated] In 2024, Enlightening Path to Capturing Your Mac Screens</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/4-cutting-edge-artificial-intelligence-solutions-for-dynamic-storytelling/"><u>4 Cutting-Edge Artificial Intelligence Solutions for Dynamic Storytelling</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-free-ai-tools-to-generate-professional-emails-with-chatgpt-and-summarize-your-inbox/"><u>5 Free AI Tools to Generate Professional Emails With ChatGPT & Summarize Your Inbox</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722141706459-discover-top-6-free-substitutes-for-the-openais-phi-your-ultimate-guide/"><u>Discover Top 6 FREE Substitutes for the OpenAI's Phi: Your Ultimate Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-essential-elements-warning-in-windows-11/"><u>Navigating Through Essential Elements Warning in Windows 11</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-speed-up-or-slow-down-the-best-free-video-editing-apps-for-mobile-for-2024/"><u>New Speed Up or Slow Down The Best Free Video Editing Apps for Mobile for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/solution-easements-grant-rights-to-use-portions-of-a-property-for-specific-purposes-such-as-utilities-or-access-roads-impacting-where-structures-can-be-buil22/"><u>Solution: Easements Grant Rights to Use Portions of a Property for Specific Purposes, Such as Utilities or Access Roads, Impacting Where Structures Can Be Built and How Lots Are Developed.</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-hp-deskjet-d1nker-printhead-installation-problems-in-multiple-windows-os-versions/"><u>Step-by-Step Guide to Fixing HP Deskjet D1nker Printhead Installation Problems in Multiple Windows OS Versions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722147689219-transform-your-windows-computer-with-an-easy-to-install-free-clone-of-the-latest-ai-conversationalist-gpt4all/"><u>Transform Your Windows Computer with an Easy-to-Install Free Clone of the Latest AI Conversationalist, GPT4All</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-alert-dell-s3222dgm-top-ranked-monitor-now-at-an-all-time-price-drop-to-229/"><u>Unbeatable Deal Alert! Dell S3222DGM: Top-Ranked Monitor Now at an All-Time Price Drop to $229</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-iphone-shutterbug-secrets-perfecting-reflections-in-water-for-2024/"><u>[New] IPhone Shutterbug Secrets Perfecting Reflections in Water for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-complete-handbook-for-saving-movies-on-desktop-laptop-and-android-for-2024/"><u>[New] The Complete Handbook for Saving Movies on Desktop, Laptop & Android for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-techniques-for-capturing-high-quality-movies-on-all-os/"><u>[Updated] In 2024, Techniques for Capturing High-Quality Movies on All OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-chatgpt-top-alternatives-rising/"><u>Beyond ChatGPT: Top Alternatives Rising</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-the-link-between-paperclip-maximization-conundrum-and-ai-advancements/"><u>Deciphering the Link Between Paperclip Maximization Conundrum and AI Advancements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-experience-with-these-10-advanced-gpt-customizations-that-outdo-chatgpt/"><u>Elevate Your Experience with These 10 Advanced GPT Customizations That Outdo ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-enterprise-stances-top-5-reasons-to-ban-chatgpt/"><u>Exploring Enterprise Stances: Top 5 Reasons to Ban ChatGPT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-restore-iphone-flashlight-functionality-a-step-by-step-process/"><u>How To Troubleshoot and Restore iPhone Flashlight Functionality: A Step-by-Step Process</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-realme-c51-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Realme C51 Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lifetime-visual-vaults-blend-cost-free-sky-spaces-and-paid-premium-alternatives/"><u>In 2024, Lifetime Visual Vaults Blend Cost-Free Sky Spaces & Paid Premium Alternatives</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-ai-image-creation-with-chatgpt-a-comprehensive-guide/"><u>Mastering the Art of AI Image Creation with ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/mise-a-jour-de-la-bios-hereditaire-vers-le-mode-uefi-guide-complet/"><u>Mise À Jour De La BIOS Heréditaire Vers Le Mode UEFI : Guide Complet</u></a></li>
+<li><a href="https://win-able.techidaily.com/starfield-on-pc-now-smooth-sailing-after-fixing-freezing-and-crash-bugs/"><u>Starfield on PC Now Smooth Sailing After Fixing Freezing & Crash Bugs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-truthgpt-the-ai-initiative-spearheaded-by-elon-musk/"><u>Unveiling TruthGPT: The AI Initiative Spearheaded by Elon Musk</u></a></li>
 </ul></div>
 

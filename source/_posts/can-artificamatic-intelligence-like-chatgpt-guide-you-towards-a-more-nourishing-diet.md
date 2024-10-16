@@ -1,7 +1,7 @@
 ---
 title: Can Artificamatic Intelligence, Like ChatGPT, Guide You Towards a More Nourishing Diet?
-date: 2024-09-10T19:12:06.151Z
-updated: 2024-09-13T00:12:04.346Z
+date: 2024-10-09T16:38:07.400Z
+updated: 2024-10-16T01:03:02.781Z
 tags:
   - chatgpt
   - open-ai
@@ -19,35 +19,21 @@ thumbnail: https://thmb.techidaily.com/d0e5dc7a9f4a0a0154c2f5c000e872f05d1d32463
 
  Will Bing overtake Google as the best search engine now that it's equipped with an immensely powered AI model? Read on as we discuss what you can expect from Microsoft's new version of Bing.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
 
  OpenAI is the company responsible for[ChatGPT–the AI-powered chatbot](http://www.makeuseof.com/how-to-use-chatgpt-by-openai/) that can generate content, answer questions, create marketing strategies, fix code bugs, and more. The AI research lab also launched DALL-E 2 late last year, capable of[generating images based on textual prompts](https://www.makeuseof.com/how-to-use-dall-e-2/) .
 
 ![openai logo on code background feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/openai-logo-on-code-background-feature.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Microsoft recently invested nearly 10 billion dollars into OpenAI, and Bing’s new AI prowess is just the start of this long-term strategic partnership.
 
  According to[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's New in Bing?
@@ -57,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/d0e5dc7a9f4a0a0154c2f5c000e872f05d1d32463
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -72,16 +58,10 @@ thumbnail: https://thmb.techidaily.com/d0e5dc7a9f4a0a0154c2f5c000e872f05d1d32463
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's New in Microsoft Edge?
@@ -92,18 +72,18 @@ thumbnail: https://thmb.techidaily.com/d0e5dc7a9f4a0a0154c2f5c000e872f05d1d32463
 
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
  Building on the content-generation capabilities of ChatGPT,**Compose** within Microsoft Edge will let you generate content that customizes to the required tone, format, and length. You can compose emails to your coworkers, write about your new job in a post on LinkedIn, and even convert financial information into tables; the possibilities are limitless.
 
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Microsoft Bing Reinvents Web Searching
 
@@ -122,5 +102,20 @@ thumbnail: https://thmb.techidaily.com/d0e5dc7a9f4a0a0154c2f5c000e872f05d1d32463
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expertise-unlocked-in-depth-tutorial-for-apples-screen-recording-techniques/"><u>[New] 2024 Approved Expertise Unlocked In-Depth Tutorial for Apple's Screen Recording Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-15-must-try-iphone-vr-apps-for-everyday-gamers/"><u>[New] Top 15 Must-Try IPhone VR Apps for Everyday Gamers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-pvr-uno-customizable-media-solution/"><u>[Updated] 2024 Approved PVR Uno Customizable Media Solution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-googles-innovative-ai-the-revolutionary-large-scale-palm-2-system/"><u>Decoding Google’s Innovative AI: The Revolutionary Large-Scale PaLM 2 System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-the-power-of-claude-understanding-its-benefits-and-uses/"><u>Discovering the Power of Claude: Understanding Its Benefits and Uses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/global-advantage-with-current-chatgpt-info/"><u>Global Advantage with Current ChatGPT Info</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/global-tech-moguls-share-their-views-on-advancements-in-artificers-intelligence/"><u>Global Tech Moguls Share Their Views on Advancements in Artificer's Intelligence</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-oppo-find-x6-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo Find X6 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reimagining-reality-top-8-ai-stories/"><u>Reimagining Reality: Top 8 AI Stories</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/stepwise-strategy-for-infusing-fun-emojis-in-discords-display-settings/"><u>Stepwise Strategy for Infusing Fun Emojis in Discord's Display Settings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-lore-into-literature-via-chatgpt-techniques/"><u>Transforming Lore Into Literature via ChatGPT Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-f25-pro-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo F25 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-leading-gps-trackers-for-runners-2024-edition/"><u>Ultimate Guide: Leading GPS Trackers for Runners - 2024 Edition</u></a></li>
+</ul></div>
 

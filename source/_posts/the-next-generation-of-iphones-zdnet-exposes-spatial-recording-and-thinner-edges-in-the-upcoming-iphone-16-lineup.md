@@ -1,7 +1,7 @@
 ---
 title: "The Next Generation of iPhones: ZDNet Exposes Spatial Recording and Thinner Edges in the Upcoming iPhone 16 Lineup"
-date: 2024-10-02T20:15:33.326Z
-updated: 2024-10-09T16:37:09.847Z
+date: 2024-10-15T07:00:18.498Z
+updated: 2024-10-16T02:12:59.189Z
 tags:
   - apple
 categories:
@@ -45,13 +45,6 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
@@ -91,15 +84,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -110,10 +110,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -125,10 +125,10 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417993%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417993.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -165,18 +165,21 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-spherical-videos-on-the-go-iphones-social-media-blueprint-for-2024/"><u>[New] Spherical Videos on the Go IPhone's Social Media Blueprint for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-budget-friendly-backdrops-a-journey-through-tiktoks-visual-wonderland/"><u>[Updated] 2024 Approved Budget-Friendly Backdrops A Journey Through TikTok's Visual Wonderland</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-smart-7-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Smart 7 Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-chatgpt-plus-a-smart-investment-or-just-an-extra-cost/"><u>Is ChatGPT Plus a Smart Investment or Just an Extra Cost?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-compatible-drivers-for-epson-l31printers-windows-1187-free-downloads-and-update-guide/"><u>Latest Compatible Drivers for Epson L31^printers (Windows 11/8/7): Free Downloads and Update Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/masterful-use-of-ai-in-organizing-household-life/"><u>Masterful Use of AI in Organizing Household Life</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mitigating-risks-gpt-modifications-and-your-data/"><u>Mitigating Risks: GPT Modifications & Your Data</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-cyber-dangers-exploring-six-key-security-concerns-with-chatgpt/"><u>Navigating Cyber Dangers: Exploring Six Key Security Concerns with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-digital-shift-in-cbt-practices-with-chatgpt/"><u>Navigating the Digital Shift in CBT Practices with ChatGPT</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-gaming-the-impact-of-switching-to-a-curved-ultrawide-display/"><u>Revolutionizing Gaming: The Impact of Switching to a Curved Ultrawide Display</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/speed-on-thin-ice-top-performances-from-the-olympics-for-2024/"><u>Speed on Thin Ice Top Performances From the Olympics for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ditors-journey-mastering-the-art-of-youtube-cuts/"><u>The Editor's Journey Mastering the Art of Youtube Cuts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-direct-mp3-to-youtube-3-steps-for-seamless-video-posting/"><u>[New] 2024 Approved Direct MP3 to YouTube 3 Steps for Seamless Video Posting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ideal-iphone-photo-apps-for-slide-shows-xr-to-x/"><u>[Updated] Ideal iPhone Photo Apps for Slide Shows (XR to X)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-visual-voyage-amds-radeon-reborn/"><u>2024 Approved Visual Voyage AMD's Radeon Reborn</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-between-chatgpt-and-my-ai-on-the-popular-platform-snapchat/"><u>Deciding Between ChatGPT and My AI on the Popular Platform, Snapchat</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diy-developing-a-customized-chatgpt-model-powered-by-personal-data-sources/"><u>DIY: Developing a Customized ChatGPT Model Powered by Personal Data Sources</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-job-prospects-and-performance-with-chatgpt-heres-why/"><u>Enhance Your Job Prospects and Performance with ChatGPT – Here's Why</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-overwatchs-unsupported-graphics-issue/"><u>Fixing Overwatch's Unsupported Graphics Issue</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-vivo-v30-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo V30 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-se-2020-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-ai-communication-choose-from-these-top-5-leading-ai-prompt-designers-to-enhance-your-tools-interaction/"><u>Master AI Communication: Choose From These Top 5 Leading AI Prompt Designers to Enhance Your Tool's Interaction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-nutritious-dishes-with-ai-can-chatgpt-guide-you-through/"><u>Mastering Nutritious Dishes with AI: Can ChatGPT Guide You Through?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-infinix-hot-30i-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Infinix Hot 30i.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-a-persistent-loading-issue-during-discord-broadcasting/"><u>Resolved: How to Fix a Persistent 'Loading' Issue During Discord Broadcasting</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-saving-apple-maps-previews-for-offline-use-on-iphone-and-ipad/"><u>Step-by-Step Tutorial: Saving Apple Maps Previews for Offline Use on iPhone & iPad</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-potential-in-additive-layered-manufacturing-via-chatgpt/"><u>Unlock Potential in Additive Layered Manufacturing via ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-tool-rules-the-translation-game-chatgpt-vs-google-translate/"><u>Which Tool Rules the Translation Game? ChatGPT Vs. Google Translate</u></a></li>
 </ul></div>
 

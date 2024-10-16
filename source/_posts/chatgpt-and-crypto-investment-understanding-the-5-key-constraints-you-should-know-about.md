@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and Crypto Investment: Understanding the 5 Key Constraints You Should Know About"
-date: 2024-09-12T05:03:43.138Z
-updated: 2024-09-12T18:26:25.547Z
+date: 2024-10-09T02:45:24.663Z
+updated: 2024-10-16T04:24:19.124Z
 tags:
   - chatgpt
   - open-ai
@@ -27,18 +27,18 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 
  However, as we uncover here, it isn't that straightforward. There are hidden limits to the length of a ChatGPT response, but there are also some nifty and simple workarounds to help you get longer answers.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Does ChatGPT Determine the Length of a Response?
 
 [How ChatGPT works is complex](https://www.makeuseof.com/how-does-chatgpt-work/) , and the response length varies depending on what is being asked and the level of detail requested. As the next screenshot shows, ChatGPT claims there are no strict limits.
 
 ![Screenshot of ChatGPT Declaring No Limits](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-declaring-no-limits.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Of course, asking ChatGPT about itself isn't a good idea since it isn't typically objective about its abilities or has limited information. So, we ran some tests to determine the length limits of ChatGPT responses. We asked the chatbot to write a 5000-word article on the history of the FIFA World Cup. ChatGPT's assessment of itself differed from the results we found.
 
@@ -48,21 +48,22 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 
 ![Asking ChatGPT to write 2500 words article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-to-write-2500-words-article.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT still said it wasn't able to fulfill the request. We worked down to 1,000 words before the chatbot produced the article. But there was another problem: no matter how many times we tried, ChatGPT couldn't produce 1,000 words on the subject. But why? What's limiting the chatbot's ability to produce longer replies?
 
  Part of the answer as to why this happens lies in something called the token system.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What Is the Token System ChatGPT Uses?
@@ -73,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 
 ![Screenshot of ChatGPT Tokenizer tool test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-tokenizer-tool-test.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The sentence "How many words have I typed" and answer "6" were "tokenized" to a value of nine tokens. This is consistent with OpenAI's "rule of thumb" that one token is equivalent to around three-quarters of a word.
 
  Here's where things get a little bit tricky. OpenAI's GPT models come in varying token lengths. The standard GPT-4 model that comes with your ChatGPT Plus subscription offers anywhere between 4k and 8k token context length. OpenAI also provides an extended 32k token context length GPT-4 model. The GPT-3.5 series offers even more token variety. There are 4k, 8k, and 16k GPT-3.5 models. However, not all these models are publicly available.
@@ -89,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
  The base GPT 3.5 4k model is supposed to restrict user questions and replies to 4,097 tokens. Similarly, the GPT-4 8k model is supposed to deliver 8,192 tokens. By OpenAI's reckoning, this equates to about 3,000 words for the GPT-3.5 and around 5,000 to 6,000 words for the GPT-4 8k tokens. But wait a minute. With an approximate 3,000 to 6,000 words capacity on either model, why wasn't ChatGPT able to deliver a 2,500-word or even 1,500-word article when we requested? Why are ChatGPT responses much less than their advertised token count or context length?
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Are ChatGPT's Responses Limited?
@@ -117,21 +111,7 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 ![Screenshot of using a word limit for ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-using-a-word-limit-for-chatgpt-response.jpg)
 5. **Start a new conversation** : starting a new conversation gives you a clean slate to work with. Remember, ChatGPT considers past prompts and responses in a conversation. Starting a new chat gives you unused context to work with.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  These tips will help you to get more complete answers from ChatGPT and work around the unofficial limit in the length of its responses.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT: Quality Over Quantity
 
@@ -150,5 +130,23 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-a-youtube-channel-today-for-2024/"><u>[New] How to Create A YouTube Channel Today for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-metaverse-comedy-crafting-memetic-gold/"><u>2024 Approved Mastering Metaverse Comedy Crafting Memetic Gold</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-tecno-pova-5-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Tecno Pova 5 FRP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discounted-apple-macbook-air-with-m2-chip-sold-for-just-800-before-october-prime-day-find-deals-now/"><u>Discounted Apple MacBook Air with M2 Chip Sold for Just $800 Before October Prime Day - Find Deals Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-protection-why-every-iphone-user-should-consider-a-case-especially-with-the-latest-iphone-16-zdnet/"><u>Essential Protection: Why Every iPhone User Should Consider a Case, Especially With the Latest iPhone 16 (ZDNet)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-art-of-lenovos-video-screen-capture/"><u>In 2024, The Art of Lenovo's Video Screen Capture</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ios-18-unveiled-customize-and-optimize-your-iphone-control-center-with-expert-advice-from-zdnet/"><u>IOS 18 Unveiled: Customize & Optimize Your iPhone Control Center with Expert Advice From ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipads-latest-calculator-app-so-sophisticated-youll-want-the-apple-pencil-discover-how-on-zdnet/"><u>IPad's Latest Calculator App: So Sophisticated, You'll Want the Apple Pencil – Discover How on ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-communication-on-the-go-effortless-contact-with-friends-and-family-through-your-apple-watch/"><u>Mastering Communication on the Go: Effortless Contact with Friends and Family Through Your Apple Watch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-stalled-ios-upgrades-on-apple-devices-a-guide-with-6-key-fixes/"><u>Resolving Stalled iOS Upgrades on Apple Devices: A Guide With 6 Key Fixes</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-variations-between-ntsc-pal-and-secam-video-formats-how-to-switch-and-compatibility-across-regions/"><u>The Variations Between NTSC, PAL, & SECAM Video Formats: How to Switch and Compatibility Across Regions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-nubia-red-magic-9-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Nubia Red Magic 9 Pro Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-choosing-the-ideal-ipad-air-case-for-your-needs-the-2024-review-toms-hardware/"><u>Ultimate Guide to Choosing the Ideal iPad Air Case for Your Needs: The 2024 Review | Tom's Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrades-unveiled-comparing-features-of-the-latest-iphone-15-pro-to-iphone-14-pro-expert-insights/"><u>Upgrades Unveiled: Comparing Features of the Latest iPhone 15 Pro to iPhone 14 Pro - Expert Insights</u></a></li>
+</ul></div>
 

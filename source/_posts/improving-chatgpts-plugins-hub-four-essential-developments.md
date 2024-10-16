@@ -1,7 +1,7 @@
 ---
 title: "Improving ChatGPT's Plugins Hub: Four Essential Developments"
-date: 2024-09-09T04:13:08.038Z
-updated: 2024-09-12T19:49:05.670Z
+date: 2024-10-14T03:28:41.023Z
+updated: 2024-10-15T16:17:05.961Z
 tags:
   - chatgpt
   - open-ai
@@ -31,20 +31,6 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Too Many Instructions In a Single Prompt
 
  ChatGPT is capable of handling several directives within a single prompt. Yet, there's a threshold to the number of instructions it can manage simultaneously without compromising the quality of its responses. You may have encountered online prompts containing numerous instructions that appear to function well. However, this isn't always the case, and there's a nuanced approach required to ensure optimal results.
@@ -67,16 +53,10 @@ You could use:
  The second set of prompts will produce much more detailed information and relevant responses.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Being Overly Specific With Your Instructions
@@ -88,19 +68,6 @@ You could use:
  As a demonstration, we asked ChatGPT to limit its responses to any question we ask about Elon Musk's view on the subject. We asked ChatGPT about Mars, rockets, and Electric Vehicles, and the responses were good since Elon Musk has clearly said a lot on the topic. However, when we asked ChatGPT to tell us about Pizza (remember, the responses should only be Elon Musk's views on the topic), ChatGPT made up hilarious commentary.
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Not Providing Context When Necessary
 
@@ -115,10 +82,10 @@ You could use:
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
@@ -129,6 +96,19 @@ You could use:
 
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
@@ -136,6 +116,13 @@ You could use:
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
@@ -145,14 +132,14 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Not Being Clear and Specific With Your Instructions
 
@@ -161,13 +148,6 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
  "What is the meaning of life?" and "What is the best way to stay healthy?" are two examples of prompts that seem normal but are quite ambiguous. There's no definitive answer to both questions. However, ChatGPT will try to provide you with an answer that seems like hard facts. Prompts like "What is the meaning of life from a biological perspective?" or "What are some specific lifestyle changes or habits that can help improve mental health?" are good examples of specific, less ambiguous alternatives.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
 
@@ -186,5 +166,24 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-video-downloader-round-up-1-5-edition-for-2024/"><u>[New] Facebook Video Downloader Round-Up #1-5 Edition for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-the-power-of-free-copyright-free-image-repositories/"><u>2024 Approved Unleashing the Power of Free, Copyright-Free Image Repositories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-academic-achievement-how-students-can-benefit-from-chatgpt-5-key-methods/"><u>Boost Academic Achievement: How Students Can Benefit From ChatGPT (5 Key Methods)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-auto-gpt-and-chatgpt-how-do-they-contrast-in-capabilities/"><u>Comparing Auto-GPT and ChatGPT: How Do They Contrast in Capabilities?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dissecting-claude-2-its-role-and-capabilities/"><u>Dissecting Claude 2: Its Role & Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-tips-for-embarking-on-a-career-in-prompt-design/"><u>Essential Tips for Embarking on a Career in Prompt Design</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-openais-gpt-nation-gratis-with-these-five-strategies/"><u>Explore OpenAI's GPT-Nation Gratis with These Five Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-unique-characteristics-of-public-private-and-personal-ai-systems/"><u>Exploring the Unique Characteristics of Public, Private & Personal AI Systems</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-find-n3-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unlocking-income-streams-from-google-adsense-to-money-matters/"><u>In 2024, Unlocking Income Streams From Google AdSense to Money Matters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/insta-tiktik-mastery-uniting-two-social-giants-for-2024/"><u>Insta-TikTik Mastery Uniting Two Social Giants for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-new-bluetooth-drivers-for-windows-os-microsoft-edition-compatible-with-win-101187/"><u>Install New Bluetooth Drivers for Windows OS: Microsoft Edition - Compatible with Win 10/11/8/7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-best-smartphone-tools-4-must-have-applications-for-diy-painters/"><u>The Best Smartphone Tools: 4 Must-Have Applications for DIY Painters</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-implementing-gpt-3-functionality-within-python-environments/"><u>The Ultimate Guide to Implementing GPT-3 Functionality Within Python Environments</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-ranked-mobile-melody-design-experts/"><u>Top-Ranked Mobile Melody Design Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-mfc42dll-file-not-found-or-missing-issues/"><u>Ultimate Guide: Resolving 'MFC42.dll' File Not Found or Missing Issues</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/uncover-the-power-of-discords-spoiler-system/"><u>Uncover the Power of Discord's Spoiler System</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Microsoft Surface Pro # Problem
-date: 2024-10-03T21:37:47.847Z
-updated: 2024-10-09T23:58:10.529Z
+date: 2024-10-15T00:44:10.856Z
+updated: 2024-10-15T18:44:22.993Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -94,10 +87,10 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -109,16 +102,10 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -145,10 +132,10 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -160,6 +147,13 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -224,16 +218,17 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-effortless-online-transformation-ff-vids-to-mp4-in-high-definition-for-2024/"><u>[New] Effortless Online Transformation FF Vids to MP4 in High Definition for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/activate-your-printer-successfully-fixing-the-error-code-3ebra-issue/"><u>Activate Your Printer Successfully: Fixing the 'Error Code -3Ebra' Issue</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-zte-nubia-flip-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on ZTE Nubia Flip 5G?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-art-of-background-elimination-in-graphic-designs/"><u>In 2024, The Art of Background Elimination in Graphic Designs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-a-malfunctioning-bose-speaker-setup/"><u>Step-by-Step Fixes for a Malfunctioning Bose Speaker Setup</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-and-resolving-the-chatgpt-bodystream-mishap-top-7-strategies/"><u>Understanding and Resolving the ChatGPT BodyStream Mishap: Top 7 Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-top-3-privacy-dangers-of-using-chatbots/"><u>Understanding the Top 3 Privacy Dangers of Using Chatbots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-chatgpt-installing-new-features-now/"><u>Unlocking ChatGPT: Installing New Features Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-the-past-of-ai-pinpointing-when-it-first-appeared/"><u>Unraveling the Past of AI: Pinpointing When It First Appeared</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/using-chatgpt-over-vpn-does-it-enhance-privacy-and-access/"><u>Using ChatGPT Over VPN – Does It Enhance Privacy And Access?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-engineering-unique-tiktok-outro-animations/"><u>[New] Engineering Unique TikTok Outro Animations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-strategies-to-promote-vimeo-films/"><u>[New] In 2024, Strategies to Promote Vimeo Films</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-celebrity-voice-generator-tools-to-transform-your-voice-for-2024/"><u>Best Celebrity Voice Generator Tools to Transform Your Voice for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-the-language-gap-how-to-effectively-utilize-chatgpt-for-accurate-translations/"><u>Bridging the Language Gap: How to Effectively Utilize ChatGPT for Accurate Translations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-chatgpt-unveiling-the-potential-of-its-built-in-addons/"><u>Discovering ChatGPT: Unveiling the Potential of Its Built-In Addons</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-eye-candy-for-gamers-on-a-budget/"><u>Essential Eye Candy for Gamers on a Budget</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/future-forward-notion-ais-race-with-chatgpt-unveiled/"><u>Future Forward: Notion AI's Race with ChatGPT Unveiled</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-xs-max-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone XS Max Activation Lock</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-switching-back-from-macos-sierra-to-older-os-x/"><u>In 2024, Switching Back From MacOS Sierra To Older OS X</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207297876-overcome-your-screens-resistance-to-current-input-sync-settings-solved/"><u>Overcome Your Screen's Resistance to Current Input Sync Settings – Solved</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-ways-to-delete-all-previous-chats-from-the-chatgpt-platform/"><u>Secure Ways to Delete All Previous Chats From the ChatGPT Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-the-chatgpt-token-limit-and-can-you-exceed-it/"><u>What Is the ChatGPT Token Limit and Can You Exceed It?</u></a></li>
 </ul></div>
 

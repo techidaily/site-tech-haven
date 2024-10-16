@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Massive Language Model Paradigms
-date: 2024-09-11T21:21:01.786Z
-updated: 2024-09-12T23:52:59.452Z
+date: 2024-10-14T03:25:10.256Z
+updated: 2024-10-15T22:34:41.529Z
 tags:
   - chatgpt
   - open-ai
@@ -19,23 +19,9 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
  Like any technology, ChatGPT can be used for nefarious reasons. Hackers, for instance, can use it to create malicious content, like writing phony email messages to get access to your PC or even your bank account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT Can Help Cybercriminals Hack Your PC
 
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
 
@@ -48,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -59,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -78,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -105,5 +91,21 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-recharge-your-space-top-cloud-service-picks-offering-plentiful-free-storage/"><u>[New] Recharge Your Space Top Cloud Service Picks Offering Plentiful, FREE Storage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-openais-shapley-explainer-shape-features-and-uses/"><u>A Comprehensive Guide to OpenAI's Shapley Explainer (ShapE): Features & Uses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assistant-faceoff-which-reigns-supreme-chatgpt-or-hugbingchat/"><u>AI Assistant Faceoff: Which Reigns Supreme, ChatGPT or HugbingChat?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-leap-from-gpt-35-to-gpt-4-discovering-the-five-essential-differences-explored/"><u>AI Leap From GPT-3.5 to GPT-4: Discovering the Five Essential Differences Explored</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206749452-breeze-through-troubleshooting-fixing-windows-update-error-0x80070002-easily/"><u>Breeze Through Troubleshooting: Fixing Windows Update Error 0X80070002 Easily!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-hp-printer-drivers-on-windows-1011-step-by-step-guide/"><u>Download & Update HP Printer Drivers on Windows 10/11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 14 Plus | Stellar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pros-and-cons-of-virtual-reality/"><u>In 2024, Pros and Cons of Virtual Reality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-secrets-to-becoming-an-exceptional-interviewer/"><u>In 2024, Unlocking The Secrets To Becoming An Exceptional Interviewer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722184338031-no-subscriptions-for-gpt-4-however-select-plus-membership-retains-its-unique-6-features/"><u>No Subscriptions for GPT-4: However, Select Plus Membership Retains Its Unique 6 Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-complete-drone-equipment-collection-guide/"><u>The Complete Drone Equipment Collection Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722201689537-waiting-for-chatgpts-desktop-version-is-tough-heres-a-great-free-software-replacement/"><u>Waiting for ChatGPT's Desktop Version Is Tough – Here’s a Great, Free Software Replacement!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721926571623-what-is-behind-elon-musks-bold-claims-exploring-the-revolutionary-concept-of-truthgpt/"><u>What Is Behind Elon Musk's Bold Claims? Exploring the Revolutionary Concept of TruthGPT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-rotation-simplified-techniques-for-any-degree-updated-edition-for-2024/"><u>YouTube Rotation Simplified Techniques for Any Degree [Updated Edition] for 2024</u></a></li>
+</ul></div>
 
