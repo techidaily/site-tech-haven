@@ -1,7 +1,7 @@
 ---
 title: "Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch From ZDNet"
-date: 2024-10-13T03:16:43.928Z
-updated: 2024-10-16T06:33:32.697Z
+date: 2024-10-17T21:47:05.550Z
+updated: 2024-10-21T17:03:47.754Z
 tags:
   - apple
 categories:
@@ -30,19 +30,6 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -58,6 +45,13 @@ Screenshot by Lance Whitney/ZDNET
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -75,6 +69,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
@@ -82,10 +83,10 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -113,10 +114,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -124,13 +125,6 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -168,16 +162,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-powerful-book-trailer-examples/"><u>[Updated] In 2024, Powerful Book Trailer Examples</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-reassessing-manycam-search-for-a-top-contender-for-2024/"><u>[Updated] Reassessing ManyCam Search for a Top Contender for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726030133717-2024/"><u>2024年度にぴったりのニコニコ動画ダウンロードポータルベストセレクション</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-the-truth-beyond-ai-generated-summary-texts/"><u>Deciphering the Truth Beyond AI-Generated Summary Texts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-content-game-with-these-9-insights-into-using-chatgpt-as-a-creator/"><u>Elevate Your Content Game with These 9 Insights Into Using ChatGPT as a Creator</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dolby-atmos-playback-issues-on-windows-10/"><u>Fixing Dolby Atmos Playback Issues on Windows 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Civi 3 Disney 100th Anniversary Edition to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-basic-screen-capture-windows-10-version/"><u>In 2024, Basic Screen Capture, Windows 10 Version</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/instant-troubleshooting-guide-to-get-apex-legends-running-smoothly-again/"><u>Instant Troubleshooting Guide to Get Apex Legends Running Smoothly Again</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-multilingual-communication-with-chatgpt-as-your-go-to-translator/"><u>Mastering Multilingual Communication with ChatGPT as Your Go-To Translator</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/proven-ai-approaches-for-successful-innovation/"><u>Proven AI Approaches for Successful Innovation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-story-perfection-seamless-emoji-integration-techniques/"><u>[Updated] 2024 Approved Instagram Story Perfection Seamless Emoji Integration Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-live-stream-magic-setting-up-logitech-cam-for-videos-for-2024/"><u>[Updated] Live-Stream Magic Setting Up Logitech Cam for Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-bundles-for-yi-4k-videographers-for-2024/"><u>[Updated] The Ultimate Bundles for YI 4K Videographers for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-11-proplus-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dont-miss-out-pre-order-the-latest-apple-watch-series-ve-special-offers-and-guides-to-saving-money-zdnet/"><u>Don't Miss Out! Pre-Order the Latest Apple Watch Series Ve Special Offers & Guides to Saving Money | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/environmental-education-promotes-awareness-and-understanding-of-environmental-issues-among-the-public-fostering-a-culture-of-conservation/"><u>Environmental Education Promotes Awareness and Understanding of Environmental Issues Among the Public, Fostering a Culture of Conservation.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/esr-halolock-innovation-unveiled-multi-card-wallet-with-adjustable-support-ideal-for-iphones-zdnet-insider-report/"><u>ESR HaloLock Innovation Unveiled: Multi-Card Wallet with Adjustable Support, Ideal for iPhones - ZDNET Insider Report</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-12r-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus 12R Phone FRP Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-your-gadgets-uncover-the-risks-of-a-common-battery-safety-mechanism-in-airtags-and-more-solutions-inside/"><u>Protecting Your Gadgets: Uncover the Risks of a Common Battery Safety Mechanism in AirTags and More – Solutions Inside</u></a></li>
 </ul></div>
 

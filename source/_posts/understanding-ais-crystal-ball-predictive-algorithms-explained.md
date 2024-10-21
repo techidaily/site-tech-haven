@@ -1,7 +1,7 @@
 ---
 title: Understanding AI's Crystal Ball - Predictive Algorithms Explained
-date: 2024-09-07T00:17:07.525Z
-updated: 2024-09-08T00:17:07.525Z
+date: 2024-10-14T22:44:38.071Z
+updated: 2024-10-21T18:46:03.067Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Understanding AI's Crystal Ball - Predictive Alg
 thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf84d67c3864e5678ef96194e7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Emoji-Less Tweets for Clarity, Linus's Revealed Secrets, Trojans Explained, & AI Conversational Challenges
 
  In this week's podcast, we look at what Twitter's canceling of classic verification means, and explore how the Linus Tech Tips YouTube channel was hacked. Plus, we explain what Trojan malware is, and the biggest problems with OpenAI and ChatCPT.
@@ -29,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -60,17 +48,12 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -96,11 +79,12 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -126,11 +110,12 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -150,15 +135,12 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 * [Sim Racing Cheaters](https://youtu.be/rP%5FXkeF1DbU)
 
  Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,4 +149,20 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-editors-eye-reignite-the-vibrance-of-iphone-hdr-with-4-editing-masterstrokes/"><u>[New] [Editor's Eye] Reignite the Vibrance of iPhone HDR with 4 Editing Masterstrokes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-ipad-screen-capture-techniques/"><u>[Updated] Mastering iPad Screen Capture Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-hdr-workflows-for-aspiring-pros/"><u>2024 Approved Comprehensive HDR Workflows for Aspiring Pros</u></a></li>
+<li><a href="https://win-web.techidaily.com/can-want-links-retain-their-effectiveness-when-zooming-inout-on-a-website-using-flipbuilder/"><u>Can Want Links Retain Their Effectiveness When Zooming In/Out on a Website Using FlipBuilder?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-the-leader-in-ai-linguistics-bard-versus-chatgpt-against-offline-alpaca/"><u>Deciding the Leader in AI Linguistics: Bard Versus ChatGPT Against Offline Alpaca</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improve-instagram-and-twitter-posts-with-chatgpts-ai-powered-assistance/"><u>Improve Instagram and Twitter Posts with ChatGPT's AI-Powered Assistance</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-work-efficiency-the-role-of-chatgpt-as-a-personal-assistant/"><u>Maximizing Work Efficiency: The Role of ChatGPT as a Personal Assistant</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tomorrows-technology-tales-a-look-at-7-future-secrets/"><u>Tomorrow's Technology Tales: A Look at 7 Future Secrets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-10-international-technology-experts-share-their-thoughts-on-artifice-intelligence/"><u>Top 10 International Technology Experts Share Their Thoughts on Artifice Intelligence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-the-leading-gaming-systems/"><u>Ultimate Guide: The Leading Gaming Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-8-innovative-uses-for-chatgpt-in-image-generation/"><u>Unleashing Creativity: 8 Innovative Uses for ChatGPT in Image Generation</u></a></li>
+</ul></div>
 

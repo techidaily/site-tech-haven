@@ -1,7 +1,7 @@
 ---
 title: "Professional Video Production Unleashed: Apple Introduces Final Cut Pro on the iPhone - Exclusive Details From ZDNet"
-date: 2024-10-13T17:17:23.762Z
-updated: 2024-10-16T08:14:27.698Z
+date: 2024-10-19T21:05:29.851Z
+updated: 2024-10-21T17:30:18.846Z
 tags:
   - apple
 categories:
@@ -25,6 +25,13 @@ While the Apple Watch started as a [fitness tracker](https://www.zdnet.com/artic
 ## What is the best Apple Watch right now?
 
 Based on my years of testing, my pick for the best Apple Watch overall is the [Apple Watch Ultra 2](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-ultra-2-gps-cellular-49mm-titanium-case-with-orange-beige-trail-loop-medium-large-titanium%2F6574421.p%3FskuId%3D6574421&publisher_slug=itechdaily19598&exclusive=1), thanks to its large screen, 24-hour battery life, and emergency siren. Read on to find out which Apple Watch is best for you. However, the new Apple Watch Series 10 was just unveiled at [Apple's "It's Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/) on September 9 and will be available on September 20\. We'll be testing the new Apple Watch and will add our buying advice to this page as soon as we do.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best Apple Watches of 2024
 
@@ -74,13 +81,6 @@ Cons
 * Cellular connectivity costs extra
 * Not as durable as the Ultra 2
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch Series 9
 
 ### Best Apple Watch for most people
@@ -112,6 +112,13 @@ Pros
 Cons 
 * Not as durable as other Apple Watch models
 * Cellular connection requires a monthly fee
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Watch SE (2nd generation)
 
@@ -174,14 +181,14 @@ Cons
 * Expensive for what you get
 * Same features as regular Series 9
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch Hermès
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best Apple Watch for dressing up
 
@@ -221,13 +228,6 @@ Having trouble deciding between Apple Watch models? Here's a quick summary of th
 | Apple Watch Series 7           | An Apple Watch in unique blue or green colors. The Apple Watch Series 7 is for sale in many places, and you can get a refurbished model for $200 to $275\. The best reason to get it is the fact that it comes in two unique colors you can't get in the Series 9.                |
 | Apple Watch Hermès             | An Apple Watch for dressing up as well as working out. For those who love the French luxury brand, this special edition of the Apple Watch features premium bands and exclusive watch faces for those who view their timepiece as a fashion accessory.                            |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing the best Apple Watch
 
 While all the Apple Watches on this list have a slew of health-tracking features and other useful apps, their differences are what you need to consider before buying one, including: 
@@ -247,13 +247,6 @@ All of the Apple Watches included in this list were chosen based on how they per
 
 For a deeper look into our testing process, check out our comprehensive [smartwatch testing methodology](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is new in the Apple Watch 10?
 
 Apple just announced the new Apple Watch Series 10 during its September event, and there are several notable features. First, the screen sizes are bigger (42 mm and 46 mm), and Apple said this is the thinnest Apple Watch to date, meaning it should be more comfortable on your wrist. 
@@ -266,20 +259,33 @@ Finally, the Apple Watch 10 has a new jet black finish, along with "updated" ros
 
 The Apple Watch 10 costs $399 and is available Friday, September 20\. You can [preorder here](https://www.apple.com/shop/buy-watch/apple-watch). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do you need an iPhone to use an Apple Watch?
 
 Yes, you need an iPhone to set up an Apple Watch. However, with all the models on this list, you can use the [Family Setup](https://support.apple.com/en-us/HT211768) option to have one iPhone set up watches for multiple members in your Apple family group -- even if they don't have an iPhone. You cannot use an iPad, a Mac, or a non-Apple smartphone to set up an Apple Watch.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What does the Apple Watch do?
 
 Fundamentally, all Apple Watches can track your steps and fitness data, display notifications from your iPhone, show basic information like weather, start timers, send and receive text messages, answer phone calls, and download useful apps. The latest versions have additional features and functionality, including sleep tracking, advanced health monitoring, car crash detection, and international emergency calling. 
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are older versions of the Apple Watch still worth buying?
 
@@ -297,23 +303,9 @@ The best Apple Watch for fitness tracking is the Apple Watch Series 9 or the App
 
 The Apple Watch Series 9 brings a 2,000-nit display (twice as bright as the Series 8), a new hands-free double-tap gesture, and the new S9 SiP, which makes the watch run faster and smoother. The Apple Watch Series 8 introduced a more scratch-resistant crystal face, a temperature sensor, next-gen motion tracking, crash detection, and emergency SOS (all of which are also included in the Series 9). These are all features that the Series 7 doesn't include, but it features two unique colors -- blue and green -- no longer available on either the Series 9 or the Series 8.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is the Apple Watch Ultra 2 worth the extra cost for outdoor enthusiasts?
 
 If you're someone who spends time hiking, doing triathlons, and involved in outdoor activities in extreme temperatures, rugged conditions, and lots of dust and water, the Apple Watch Ultra 2 may be worth the extra cost. Its design makes it more durable and water-resistant (up to 100m) than the other Apple Watch models, and it includes an Action Button for fine-tuning workouts and hikes.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Apple Watch is best for kids?
 
@@ -323,6 +315,13 @@ While it's not made specifically with kids in mind, the Apple Watch SE is an exc
 
 In addition, you can use Apple's Family Setup to check your kid's location, set up shared contacts, implement parental controls like screen time usage, and more. Your child doesn't even need their own iPhone to have an Apple Watch -- they can [pair it up with yours](https://www.zdnet.com/article/how-to-pair-and-unpair-apple-watch/), so you're fully in control. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does Apple Watch work with Android?
 
 You cannot use an Android phone to set up and pair with an Apple Watch, and there are no good workarounds for that. However, if you have an Android phone, there are several smartwatches you can choose from that offer most of the same features as an Apple Watch. The ones below are smartwatches that ZDNET has reviewed and rated well in our testing. 
@@ -330,10 +329,10 @@ You cannot use an Android phone to set up and pair with an Apple Watch, and ther
 **More:** [**The best Android smartwatches**](https://www.zdnet.com/article/best-android-smartwatch/)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When do Apple Watches go on sale?
@@ -341,6 +340,13 @@ You cannot use an Android phone to set up and pair with an Apple Watch, and ther
 Apple is one of those brands that rarely puts its products on sale, so the best time to snag a deal on an Apple Watch is during big sales events like Black Friday weekend or Amazon Prime Day. 
 
 However, sometimes random deals pop up, so be sure to check out our [best Apple deals](https://www.zdnet.com/article/apple-deals/) roundup that we update frequently. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other Apple Watch alternatives we have tested:
 
@@ -388,19 +394,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-transform-your-social-media-experience-livestream-fb-flawlessly-for-2024/"><u>[New] Transform Your Social Media Experience Livestream FB Flawlessly for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/discovering-the-top-screen-grabber-software-win11/"><u>Discovering the Top Screen Grabber Software Win11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diving-deeper-the-key-differences-between-siri-and-chatgpt-revealed/"><u>Diving Deeper: The Key Differences Between Siri and ChatGPT Revealed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-claudes-realm-accelerating-innovation-and-efficiency/"><u>Inside Claude's Realm: Accelerating Innovation and Efficiency</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-unique-image-creation-with-microsofts-advanced-copilot-feature/"><u>Mastering the Art of Unique Image Creation with Microsoft's Advanced Copilot Feature</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/premier-6-titans-the-mega-model-arena/"><u>Premier 6 Titans: The Mega-Model Arena</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-leveraging-dall-e-on-microsoft-bing-at-no-cost/"><u>Step-by-Step Guide to Leveraging DALL-E # on Microsoft Bing at No Cost</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-crafting-audio-with-chatgpt-inside-your-digital-workstation-environment/"><u>Step-by-Step: Crafting Audio with ChatGPT Inside Your Digital Workstation Environment</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/systematic-upgrade-procedures-for-macos-sierra-users/"><u>Systematic Upgrade Procedures for macOS Sierra Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-ai-powered-pdf-tools-integrated-with-chatgpt-for-maximum-productivity/"><u>Top 10 AI-Powered PDF Tools Integrated with ChatGPT for Maximum Productivity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/understanding-bitcoins-lack-of-privacy-how-everyone-can-access-your-transaction-records/"><u>Understanding Bitcoin's Lack of Privacy: How Everyone Can Access Your Transaction Records</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-best-video-joiners-with-no-watermark-limitations/"><u>Updated 2024 Approved The Best Video Joiners with No Watermark Limitations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicated-error-12-hunt-masters-graphics-wofixed/"><u>[Eradicated] Error 12 - Hunt Master's Graphics WoFixed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mov-in-the-cloud-top-six-techniques-for-windows-11-users/"><u>[Updated] .MOV in the Cloud - Top Six Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-avoiding-darkness-with-lightrooms-dynamic-range-technique/"><u>[Updated] 2024 Approved Avoiding Darkness with Lightroom’s Dynamic Range Technique</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-polished-portraits-how-to-use-iphone-for-crisp-cuts/"><u>2024 Approved Polished Portraits How to Use iPhone for Crisp Cuts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-deep-dive-into-whatsapps-vocal-communication-tools-for-2024/"><u>A Deep Dive Into WhatsApp's Vocal Communication Tools for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/abandoning-gpt-conversation-steps-here/"><u>Abandoning GPT Conversation: Steps Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-installing-google-bard-application-potential-risk-of-malicious-software/"><u>Avoid Installing Google Bard Application: Potential Risk of Malicious Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-productivity-using-chatgpt-features-within-visual-studio-code-a-guide-to-10-key-strategies/"><u>Boost Productivity: Using ChatGPT Features Within Visual Studio Code - A Guide to 10 Key Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/bridging-social-media-and-television-with-live-streaming-for-2024/"><u>Bridging Social Media & Television with Live Streaming for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722998888931-comprehensive-guide-finding-your-perfect-match/"><u>Comprehensive Guide: Finding Your Perfect Match</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-abcs-to-spanish-abcs-kindergarten-elementary-journey/"><u>From ABCs to Spanish ABCs: Kindergarten-Elementary Journey</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-9-phony-ai-based-threats-how-these-fraudulent-chatgpt-clones-could-compromise-your-information/"><u>Top 9 Phony AI-Based Threats: How These Fraudulent ChatGPT Clones Could Compromise Your Information</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-llama-2-an-in-depth-look-at-how-to-utilize-it/"><u>Understanding Llama 2 - An In-Depth Look at How to Utilize It</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-advanced-tools-a-users-manual-on-signing-up-for-chatgpt-plugins/"><u>Unlocking Advanced Tools - A User’s Manual on Signing Up for ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-winchatgpt-a-falsehood-decoded/"><u>Unveiling WinChatGPT: A Falsehood Decoded</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/weighing-the-risks-using-chatgpt-and-bard-for-investment-advice/"><u>Weighing the Risks: Using ChatGPT and Bard for Investment Advice</u></a></li>
 </ul></div>
 

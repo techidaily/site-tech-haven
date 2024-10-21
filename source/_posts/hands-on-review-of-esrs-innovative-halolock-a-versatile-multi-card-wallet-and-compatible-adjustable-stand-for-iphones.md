@@ -1,7 +1,7 @@
 ---
 title: Hands-On Review of ESR's Innovative Halolock - A Versatile Multi-Card Wallet & Compatible Adjustable Stand for iPhones
-date: 2024-10-14T21:33:45.044Z
-updated: 2024-10-16T05:58:14.655Z
+date: 2024-10-16T17:08:23.654Z
+updated: 2024-10-21T16:24:32.809Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +60,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,16 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -121,18 +115,17 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-adventure-seekers-choice-black-hero5-or-star-sj7-in-2024/"><u>[New] Adventure Seekers Choice Black Hero5 or Star SJ7, In 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/beat-sonys-drm-security-a-comprehensive-guide-to-ripping-and-bypassing-copy-protected-discs/"><u>Beat Sony's DRM Security: A Comprehensive Guide to Ripping & Bypassing Copy-Protected Discs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-apples-most-economical-airpods-offer-with-a-40-discount-before-independence-day-exclusive-scoop/"><u>Discover Apple’s Most Economical AirPods Offer with a $40 Discount Before Independence Day - Exclusive Scoop</u></a></li>
-<li><a href="https://extra-information.techidaily.com/humor-hub-creator/"><u>Humor Hub Creator</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Itel P55 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-gastronomes-blueprint-filming-feasts/"><u>In 2024, The Gastronome’s Blueprint Filming Feasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-level-intelligence-openai-announces-advanced-gpt-4-model-for-cutting-edge-applications/"><u>Next Level Intelligence: OpenAI Announces Advanced GPT-4 Model for Cutting-Edge Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-programming-journey-with-this-powerful-guide-to-leveraging-chatgpts-coding-capabilities/"><u>Revolutionize Your Programming Journey with This Powerful Guide to Leveraging ChatGPT's Coding Capabilities</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-scheduling-your-visit-at-apple-retail-stores/"><u>Step-by-Step Guide to Scheduling Your Visit at Apple Retail Stores</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-ai-powered-applications-for-creating-stunning-presentations/"><u>Top 7 AI-Powered Applications for Creating Stunning Presentations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-ai-potential-for-beginners-explore-these-9-tool-networks/"><u>Unlocking AI Potential for Beginners - Explore These 9 Tool Networks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-therapeutic-potential-chatgpts-influence-on-cbt/"><u>Unlocking Therapeutic Potential: ChatGPT's Influence on CBT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-influence-of-ai-technology-in-transforming-the-game-industry-landscape/"><u>Unveiling the Influence of AI Technology in Transforming the Game Industry Landscape</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-windows-10-recorder-tools-a-comprehensive-updated-guide-for-2024/"><u>Free Windows 10 Recorder Tools A Comprehensive, Updated Guide for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-12-pro-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 12 Pro or iPad?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-gt-10-pro-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Infinix GT 10 Pro Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-resolve-d3dx930dll-errors-when-they-go-unfound-or-vanish/"><u>How to Correctly Resolve d3dx9_30.dll Errors When They Go Unfound or Vanish</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unlock-the-power-of-facebook-with-these-top-5-chrome-tools/"><u>In 2024, Unlock the Power of Facebook with These Top 5 Chrome Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/python-and-ai-synergy-leveraging-gpt-3-for-advanced-text-generation-tasks/"><u>Python and AI Synergy: Leveraging GPT-3 for Advanced Text Generation Tasks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/relying-on-artifice-intelligence-can-chatgpt-help-you-survive-natures-test/"><u>Relying on Artifice Intelligence: Can ChatGPT Help You Survive Nature's Test?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/rethink-ai-interaction-the-four-main-perks-of-opting-for-claude-s-instead-of-chatgpt/"><u>Rethink AI Interaction: The Four Main Perks of Opting for Claude ˈs Instead of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-bitter-truth-of-ai-dialogue-nine-problematic-aspects-of-gpt/"><u>The Bitter Truth of AI Dialogue: Nine Problematic Aspects of GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-benefits-of-mastering-chatgpt-for-career-growth/"><u>Top 6 Benefits of Mastering ChatGPT for Career Growth</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-reno-10-proplus-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Reno 10 Pro+ 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/wmaflac-windowsweb/"><u>WMAファイルからFLACへの変換: WindowsソフトウェアとWebサイトベースの解説</u></a></li>
 </ul></div>
 

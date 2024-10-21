@@ -1,7 +1,7 @@
 ---
 title: "IPhone 16: Is It Worth the Upgrade? Insights Experts on Pros & Cons"
-date: 2024-10-15T02:51:36.549Z
-updated: 2024-10-16T07:17:19.015Z
+date: 2024-10-15T18:28:11.031Z
+updated: 2024-10-21T19:10:55.916Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
@@ -87,6 +87,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
@@ -102,10 +109,10 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -116,13 +123,6 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
@@ -130,10 +130,10 @@ Sometimes it's the most obvious factors that influence our choices. The expense 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
@@ -176,19 +176,24 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-converting-graphics-to-iconic-messages-a-complete-tutorial-for-chat-apps/"><u>[New] In 2024, Converting Graphics to Iconic Messages A Complete Tutorial for Chat Apps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-chart-a-course-to-popularity-the-fundamentals-of-channel-featuring-on-youtube/"><u>[Updated] Chart a Course to Popularity The Fundamentals of Channel Featuring on Youtube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-vanguard-firefox-recording-software/"><u>[Updated] In 2024, Vanguard FireFox Recording Software</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unparalleled-mac-capture-tools-assessed-for-2024/"><u>[Updated] Unparalleled Mac Capture Tools Assessed for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-alternate-realities-through-chatgpt-a-worldbuilders-guide/"><u>Exploring Alternate Realities Through ChatGPT: A Worldbuilder's Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-capabilities-of-shapley-explanations-in-artifice-intelligence-systems/"><u>Exploring the Capabilities of Shapley Explanations in Artifice Intelligence Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-contrast-how-natural-language-processing-differs-from-machine-learning/"><u>Exploring the Contrast: How Natural Language Processing Differs From Machine Learning</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-isdonedll-issue-in-windows-10-and-11-systems/"><u>Fixing ISDone.dll Issue in Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gaming-giants-reimagined-bz-and-ms-merger-sparks-new-wave-in-ai-driven-creativity-and-translation-podcast-exploration/"><u>Gaming Giants Reimagined: BZ & MS Merger Sparks New Wave in AI-Driven Creativity and Translation [Podcast Exploration]</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-unveiling-allure-comprehensive-beauty-how-tos-on-youtube/"><u>In 2024, Unveiling Allure Comprehensive Beauty How-Tos on Youtube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/new-era-of-tech-synergy-maximizing-profits-with-chatgpt-and-whisper-apis/"><u>New Era of Tech Synergy: Maximizing Profits with ChatGPT and Whisper APIs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-walkthrough-activating-microsoft-copilot-on-your-apple-computer/"><u>Ultimate Walkthrough: Activating Microsoft Copilot on Your Apple Computer</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-techniques-for-capturing-the-perfect-verbal-note/"><u>[New] 2024 Approved Techniques for Capturing the Perfect Verbal Note</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-key-steps-for-an-optimal-chromebook-zooming-experience-for-2024/"><u>[New] Key Steps for an Optimal Chromebook Zooming Experience for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-explore-like-a-pro-with-tomtoms-actioncam-2023/"><u>2024 Approved Explore Like a Pro with TomTom's ActionCam 2023</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-browsers-ai-capabilities-with-these-7-essential-chatgpt-chrome-tools/"><u>Boost Your Browser's AI Capabilities with These 7 Essential ChatGPT Chrome Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-regulation-challenges-latest-google-news-algorithm-update-and-securing-top-tier-wifi-on-holiday-getaways/"><u>ChatGPT Regulation Challenges, Latest Google News Algorithm Update, and Securing Top-Tier WiFi on Holiday Getaways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a14-4g-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy A14 4G support AVCHD video?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-sending-and-receiving-imessages-on-windows-platforms-tips/"><u>Guide: Sending & Receiving iMessages on Windows Platforms - Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-itel-s23plus-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Itel S23+</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-motorola-moto-g04-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Motorola Moto G04 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-drivers-in-windows-11107-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your drivers in Windows 11/10/7</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-honor-magic-6-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tips-for-quicker-periscope-livestreams/"><u>In 2024, Tips for Quicker Periscope Livestreams</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-16-from-vivo-y78plus-t1-edition-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 16 from Vivo Y78+ (T1) Edition to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-safe-to-discuss-sensitive-topics-on-chatgpt-find-out-here/"><u>Is It Safe to Discuss Sensitive Topics on ChatGPT? Find Out Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/non-disclosive-keeping-ai-dialogues-undetectable/"><u>Non-Disclosive Keeping: AI Dialogues Undetectable</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-essential-ai-enhancements-for-iphones-in-ios-18-to-match-androids-capabilities-insights-from-zdnet/"><u>The Essential AI Enhancements for iPhones in iOS 18 to Match Android's Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-most-reliable-gaming-phones-a-comprehensive-review/"><u>The Most Reliable Gaming Phones - A Comprehensive Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-new-horizon-in-mobile-editing-why-final-cut-pro-for-ipad-upgrades-are-a-breakthrough-for-filmmakers-discovered/"><u>The New Horizon in Mobile Editing: Why Final Cut Pro for iPad Upgrades Are a Breakthrough for Filmmakers | Discovered</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-rise-of-accessible-sound-uncover-the-potential-of-beats-new-earbuds-as-the-ultimate-sub-1easy-to-use-alternative-to-airpods-zdnet/"><u>The Rise of Accessible Sound: Uncover the Potential of Beats' New Earbuds as the Ultimate Sub-$1easy-to-Use Alternative to AirPods | ZDNET</u></a></li>
 </ul></div>
 

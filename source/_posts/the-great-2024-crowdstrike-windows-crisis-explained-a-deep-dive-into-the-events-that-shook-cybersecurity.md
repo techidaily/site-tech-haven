@@ -1,7 +1,7 @@
 ---
 title: "The Great 2024 CrowdStrike-Windows Crisis Explained: A Deep Dive Into the Events that Shook Cybersecurity"
-date: 2024-10-11T18:03:59.574Z
-updated: 2024-10-15T21:22:31.723Z
+date: 2024-10-15T17:53:22.503Z
+updated: 2024-10-21T20:19:21.183Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,16 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +133,16 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,20 +193,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-boost-bandw-vibrancy-ps-grading-hacks/"><u>[New] 2024 Approved Boost B&W Vibrancy PS Grading Hacks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-uncovering-the-ultimate-screen-recorder-compare-and-choose-obsfraps/"><u>[Updated] Uncovering the Ultimate Screen Recorder Compare and Choose (OBS/Fraps)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unlock-the-potential-of-snapchat-boomerangs-for-2024/"><u>[Updated] Unlock the Potential of Snapchat Boomerangs for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-smooth-process-incorporating-igtv-in-stories/"><u>2024 Approved Smooth Process Incorporating IGTV in Stories</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/content-writing-with-ai-chatbots-exploring-the-top-8-reasons-why-they-may-fall-short/"><u>Content Writing with AI Chatbots – Exploring the Top 8 Reasons Why They May Fall Short</u></a></li>
-<li><a href="https://article-helps.techidaily.com/entry-level-lenses-reviewed-the-newcomers-choice-2024/"><u>Entry-Level Lenses Reviewed The Newcomer's Choice 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-advanced-ai-search-with-bing-available-for-iphone-and-android/"><u>Experience Advanced AI Search with Bing: Available for iPhone & Android</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-idea-to-audio-the-story-of-using-chatgpt-in-crafting-my-podcast-script/"><u>From Idea to Audio: The Story of Using ChatGPT in Crafting My Podcast Script</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/my-journey-into-intensive-android-gaming-essential-knowledge-for-beginners-and-enthusiasts-alike/"><u>My Journey Into Intensive Android Gaming - Essential Knowledge for Beginners and Enthusiasts Alike.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/powerdirector-elite-edition-review-the-ultimate-2024/"><u>PowerDirector Elite Edition Review - The Ultimate 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/prompt-engineering-job-prospects-assessing-essential-elements-to-consider-before-you-leap/"><u>Prompt Engineering Job Prospects: Assessing Essential Elements to Consider Before You Leap</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-find-x7-ultra-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-definitive-handbook-on-openai-cover-to-cover-knowledge-guide/"><u>The Definitive Handbook on OpenAI: Cover-to-Cover Knowledge Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-new-potentials-openais-advancement-of-chatgpt-for-vocal-command-and-prompt-handling/"><u>Unlocking New Potentials: OpenAI's Advancement of ChatGPT for Vocal Command and Prompt Handling</u></a></li>
-<li><a href="https://discover-able.techidaily.com/zurucksetzen-von-fruheren-konfigurationseinstellungen-in-windows-11-zwei-praktische-ansatze-erklart/"><u>Zurücksetzen Von Früheren Konfigurationseinstellungen in Windows 11: Zwei Praktische Ansätze Erklärt</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-echo-chambers-tech-updates-for-2024/"><u>[New] Echo Chambers Tech Updates for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/erfect-iphone-mp3-conversion-top-6-software-recommendations/"><u>[New] Perfect iPhone MP3 Conversion Top 6 Software Recommendations</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-superior-video-capture-systems-the-1-to-18-list/"><u>[Updated] In 2024, Superior Video Capture Systems - The #1 to #18 List</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-luminous-designs-examination-pinnacle-studio-audit/"><u>In 2024, Luminous Designs Examination Pinnacle Studio Audit</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ary-returns-for-one-million-youtube-watchers-for-2024/"><u>Monetary Returns for One Million YouTube Watchers for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/preserving-your-custom-flipbook-creation-setup-on-flipbuilder-for-future-projects/"><u>Preserving Your Custom Flipbook Creation Setup on FlipBuilder for Future Projects</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transform-your-workflow-with-these-tips-on-implementing-slack-in-the-office/"><u>Transform Your Workflow with These Tips on Implementing Slack in the Office</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-ai-potential-utilizing-gpt-cuffed-by-copilot-at-zero-charge/"><u>Unlock AI Potential: Utilizing GPT- Cuffed by Copilot at Zero Charge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-power-of-ai-6-practical-uses-for-chatgpt-in-telecommuting-and-independent-work/"><u>Unlock the Power of AI: 6 Practical Uses for ChatGPT in Telecommuting and Independent Work</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-secrets-play-as-an-online-investigator-with-our-curated-list-of-4-tech-infused-murder-mystery-games/"><u>Unlock the Secrets: Play as an Online Investigator with Our Curated List of #4 Tech-Infused Murder Mystery Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-opportunities-a-guide-to-participating-in-openais-bug-hunt-rewards-program/"><u>Unlocking Opportunities: A Guide to Participating in OpenAI's Bug Hunt Rewards Program</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-your-access-troubleshooting-chatgpt-errors/"><u>Unlocking Your Access: Troubleshooting ChatGPT Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-chatgpts-core-plugins-features-and-practical-uses/"><u>Unveiling ChatGPT’s Core Plugins: Features and Practical Uses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/zerogpt-myths-debunked-why-you-should-doubt-these-common-ai-detectors-with-4-proof-points/"><u>ZeroGPT Myths Debunked: Why You Should Doubt These Common AI Detectors (With 4 Proof Points)</u></a></li>
 </ul></div>
 

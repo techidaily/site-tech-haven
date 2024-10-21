@@ -1,7 +1,7 @@
 ---
 title: "Getting Notifications From Slack on the Apple Watch: An Expert Tutorial by ZDNet"
-date: 2024-10-12T01:22:45.681Z
-updated: 2024-10-15T17:10:07.400Z
+date: 2024-10-16T19:23:13.943Z
+updated: 2024-10-21T16:49:24.200Z
 tags:
   - apple
 categories:
@@ -54,16 +54,16 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -75,22 +75,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -109,19 +103,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -144,10 +125,10 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
@@ -159,6 +140,13 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -199,22 +187,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-galaxy-of-play-ultimate-list-of-the-cheapest-rpgs-online-for-2024/"><u>[New] Galaxy of Play Ultimate List of the Cheapest RPGs Online for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-crafting-captivating-chronicles-the-worlds-best-schools-top-8/"><u>[New] In 2024, Crafting Captivating Chronicles The World's Best Schools (Top 8)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-small-companys-guide-to-the-safest-online-chat-services-for-2024/"><u>[New] Small Company's Guide to the Safest Online Chat Services for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-youtube-video-dimension-standards/"><u>[Updated] In 2024, YouTube Video Dimension Standards</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nubia-red-magic-9-proplus-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-a-tool-for-banks-vulnerabilities/"><u>ChatGPT: A Tool for Banks' Vulnerabilities?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-engaging-presentations-using-chatgpts-powerful-tools/"><u>Crafting Engaging Presentations Using ChatGPT's Powerful Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/delving-into-prompt-engineering-job-opportunities-9-crucial-elements-for-your-decision/"><u>Delving Into Prompt Engineering Job Opportunities - 9 Crucial Elements for Your Decision</u></a></li>
-<li><a href="https://extra-information.techidaily.com/engaging-podcast-openers-captivating-intro-lines/"><u>Engaging Podcast Openers Captivating Intro Lines</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-excel-experience-3-powerful-chatgpt-applications/"><u>Enhancing Excel Experience: 3 Powerful ChatGPT Applications</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-influence-essential-marketing-expressions-explained/"><u>In 2024, The Art of Influence Essential Marketing Expressions Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/introduce-a-cost-free-localized-chatbot-ai-on-pc/"><u>Introduce a Cost-Free Localized Chatbot AI on PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-integrating-gpt-references-enhancing-conversations-with-personalized-ai/"><u>Mastering the Art of Integrating GPT References: Enhancing Conversations with Personalized AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-the-internet-the-impact-of-ai-on-future-search-engine-results/"><u>Transforming the Internet: The Impact of AI on Future Search Engine Results</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-baldurs-gate-3-pc-instability-effective-solutions/"><u>Troubleshooting Baldur's Gate 3 PC Instability: Effective Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-artificei-intelligence-a-beginners-guide/"><u>Understanding ArtificeI Intelligence: A Beginner's Guide</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/zwei-methoden-zum-automatisieren-der-sicherungsverschiebung-von-windows-10-auf-wd-my-cloud/"><u>Zwei Methoden Zum Automatisieren Der Sicherungsverschiebung Von Windows 10 Auf WD My Cloud</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-iphones-potential-for-detailed-photography/"><u>[New] Harnessing iPhone's Potential for Detailed Photography</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-expert-techniques-efficiently-crafting-compelling-subtitles-for-fb-video-content-for-2024/"><u>[Updated] Expert Techniques Efficiently Crafting Compelling Subtitles for FB Video Content for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-decoding-the-art-of-successful-fb-cover-videos/"><u>2024 Approved Decoding the Art of Successful FB Cover Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/deciding-between-giants-a-detailed-look-at-iphone-15-plus-and-pro-max-comparison/"><u>Deciding Between Giants: A Detailed Look at iPhone 15 Plus and Pro Max Comparison</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratuito-en-la-web-guia-paso-a-paso-para-cambiar-videos-3gp-a-3g2-con-movavi/"><u>Gratuito en La Web: Guía Paso a Paso Para Cambiar Videos 3GP a 3G2 Con Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gunstige-methode-geschutzte-dvds-mit-dem-mac-x-dvd-ripper-kostenlos-zu-extrahieren/"><u>Günstige Methode, Geschützte DVDs Mit Dem Mac X DVD Ripper Kostenlos Zu Extrahieren</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-a56s-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo A56s 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/outstanding-features-make-nixplay-seed-a-market-favorite/"><u>Outstanding Features Make Nixplay Seed a Market Favorite</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-document-creation-the-best-10-chatgpt-compatible-pdf-plugins-to-save-time-and-effort/"><u>Streamline Your Document Creation: The Best 10 ChatGPT-Compatible PDF Plugins to Save Time and Effort</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ai-leap-forward-key-differences-of-gpt-4-versus-gpt-35-decoded-for-you/"><u>The AI Leap Forward: Key Differences of GPT-4 Versus GPT-3.5 Decoded for You</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-danger-of-interacting-with-fraudgpt-tips-to-shield-your-digital-life-from-harm/"><u>The Danger of Interacting with FraudGPT - Tips to Shield Your Digital Life From Harm</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-pitfalls-of-using-ai-chatbots-to-create-genuine-windows-11-serial-codes/"><u>The Pitfalls of Using AI Chatbots to Create Genuine Windows 11 Serial Codes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-workforce-revolution-top-6-motivators-for-learning-chatgpt/"><u>The Workforce Revolution: Top 6 Motivators for Learning ChatGPT</u></a></li>
 </ul></div>
 

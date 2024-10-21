@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Purchase of Apple Vision Pro: Expert Advice on Optimal Facial Scans & Hidden Strategies"
-date: 2024-10-10T04:08:43.508Z
-updated: 2024-10-15T20:55:15.622Z
+date: 2024-10-19T19:32:22.802Z
+updated: 2024-10-21T21:12:05.001Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,19 +134,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-delving-deeply-into-obs-studios-capture-capabilities/"><u>[Updated] In 2024, Delving Deeply Into OBS Studio's Capture Capabilities</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-revolutionizing-viewer-retention-on-youtube-with-these-powerful-strategies/"><u>[Updated] Revolutionizing Viewer Retention on YouTube with These Powerful Strategies</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-the-role-of-authenticity-in-online-self-portraits-for-2024/"><u>[Updated] Unveiling the Role of Authenticity in Online Self-Portraits for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-psp-emulator-ios-top-5-picks-on-2023/"><u>2024 Approved PSP Emulator iOS Top 5 Picks on 2023</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-beginners-guide-to-editing-digits-in-tiktoks-for-2024/"><u>A Beginner’s Guide to Editing Digits in TikToks for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-binary-boundaries-exploring-hidden-online-communicators/"><u>Beyond Binary Boundaries: Exploring Hidden Online Communicators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-efficiency-in-telecommuting-a-guide-to-the-6-best-uses-of-chatgpt-for-independent-contractors/"><u>Boosting Efficiency in Telecommuting: A Guide to the 6 Best Uses of ChatGPT for Independent Contractors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-workforce-ds-30-printer-driver-for-windows-1187-free-download/"><u>Epson WorkForce DS 30 Printer Driver for Windows 11/8/7 - Free Download</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/huggingchat-decoded-an-openai-alternative-for-conversation-ai/"><u>HuggingChat Decoded: An OpenAI Alternative for Conversation AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-artificial-intelligence-prompts-try-these-top-5-online-classes/"><u>Mastering Artificial Intelligence Prompts? Try These Top 5 Online Classes!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/orchestrating-ai-harmony-with-human-intentions/"><u>Orchestrating AI: Harmony with Human Intentions</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/rapidly-speak-in-rich-french-hues/"><u>Rapidly Speak in Rich French Hues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/scam-alert-be-wary-of-chatbots/"><u>Scam Alert! Be Wary of ChatBots</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-se-2022-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone SE (2022) Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-leading-edge-webcams-and-camcorders-for-windows-11-pcs-for-2024/"><u>[New] Leading Edge Webcams & Camcorders for Windows 11 PCs for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-making-movies-magical-the-use-of-youtube-music-in-videos/"><u>[New] Making Movies Magical The Use of YouTube Music in Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-text-manipulation-software-for-ae/"><u>[New] Premier Text Manipulation Software for AE</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-watch-more-not-less-secrets-to-free-youtube-gains/"><u>[New] Watch More, Not Less Secrets to Free YouTube Gains</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bridging-caption-gaps-perfecting-word-placement-on-windowsmac-photos/"><u>2024 Approved Bridging Caption Gaps Perfecting Word Placement on Windows/Mac Photos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-challenges-top-browsers-with-unsettling-new-marketing-campaign-discover-more-here/"><u>Apple Challenges Top Browsers with Unsettling New Marketing Campaign: Discover More Here!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/automatic-tab-closure-settings-in-safari-on-macos-sierra-a-step-by-step-guide/"><u>Automatic Tab Closure Settings in Safari on macOS Sierra - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-the-best-mobile-tech-with-a-spin-team-insider-picks-for-your-next-buy/"><u>Experience the Best Mobile Tech with a Spin Team - Insider Picks for Your Next Buy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/find-the-mean-of-these-absolute-deviations-48-plus-28-plus-22-plus-82-plus-38-plus-12-6-approx-230-groop6-approx-39/"><u>Find the Mean of These Absolute Deviations: $(4.8 + 2.8 + 2.2 + 8.2 + 3.8 + 1.2) / 6 Approx 23.0 / Groop(6) Approx 3.9$</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-x-flip-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo X Flip to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/investing-in-google-drive-my-experience-with-paid-storage-and-the-worth-of-my-decision/"><u>Investing in Google Drive: My Experience with Paid Storage and the Worth of My Decision</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ios-18-update-a-comprehensive-guide-to-personalizing-and-enhancing-your-iphones-control-center/"><u>IOS 18 Update: A Comprehensive Guide to Personalizing and Enhancing Your iPhone's Control Center</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-discontinuing-your-subscription-to-apple-music-without-using-itunes-tips-and-tricks/"><u>Step-by-Step Guide: Discontinuing Your Subscription to Apple Music Without Using iTunes - Tips & Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-2024s-best-smartwatches-professional-ratings-and-in-depth-analysis-zdnet/"><u>The Ultimate Guide to 2024'S Best Smartwatches: Professional Ratings & In-Depth Analysis | ZDNet</u></a></li>
 </ul></div>
 

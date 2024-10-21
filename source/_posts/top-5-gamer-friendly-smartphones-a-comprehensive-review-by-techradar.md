@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Gamer-Friendly Smartphones : A Comprehensive Review by TechRadar"
-date: 2024-10-14T05:17:20.325Z
-updated: 2024-10-15T18:03:15.900Z
+date: 2024-10-15T19:37:19.299Z
+updated: 2024-10-21T22:04:24.942Z
 tags:
   - apple
 categories:
@@ -29,10 +29,10 @@ However, we haven't yet gotten to test the new iPhone 16 line, which was unveile
 Read on for the rest of our top picks for the best iPhones you can buy today. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best iPhones of 2024
@@ -84,7 +84,27 @@ Cons
 * Pricer than most flagship smartphones
 * No battery life improvement over prior model
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple iPhone 15
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best iPhone for most people
 
@@ -118,13 +138,6 @@ Cons
 * Need to buy refurbished
 
 ## Apple iPhone 13 Mini
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best small iPhone
 
@@ -187,13 +200,6 @@ Cons
 * Doesn't have a telephoto lens
 * U.S. customers are locked to eSIM
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple iPhone 14
 
 ### Best old-generation iPhone
@@ -223,13 +229,6 @@ After weighing out the specs and reviewer-tested experiences, the best iPhone is
 | iPhone 14                  | $699           | 128GB            | 6.1 inches  | A15           | Two                    |
 | iPhone 13 Mini             | $480           | 128GB            | 5.4 inches  | A15           | Two                    |
 | iPhone SE (3rd Generation) | $429           | 64GB             | 4.7 inches  | A15           | One                    |
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are iPhones the best smartphone?
 
@@ -265,6 +264,19 @@ ZDNET's mobile experts also liaise with industry colleagues and analysts who hav
 * **Battery life**: For how reliant we've become on smartphones, the top picks on this list are not only able to last you from morning to night but also support fast charging when it's time to top up.
 * **Price**: What you won't find on this list is a device that's not worth the money or is overcharging you for the hardware-software package you're getting.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How we test iPhones
 
 ZDNET's review team spends upwards of a year testing the ins and outs of every major iPhone release, evaluating the day-to-day performance, camera quality, battery life and endurance, and more. Here's a breakdown of every factor we consider before we make recommendations:
@@ -277,19 +289,6 @@ ZDNET's review team spends upwards of a year testing the ins and outs of every m
 * **Pricing and availability:** Beyond budget considerations, we also note if a phone is available in the US or only internationally.
 
 For a more extensive breakdown, check out our comprehensive [phone testing methodology page](https://www.zdnet.com/article/how-we-test-phones/).
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPhone FAQs
 
@@ -311,6 +310,19 @@ Like iOS 17, iPhone models as old as the XR will be eligible to receive the [iOS
 
 The latest iPhone is the [iPhone 16](https://www.zdnet.com/article/when-is-the-iphone-16-coming-out-what-to-know-and-where-to-preorder/), announced on Monday, September 9, during [Apple's "It's Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). There are four iPhone 16 models: iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max. All will come with iOS 18 and Apple Intelligence built in.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Which iPhone is better, 14 or 15?
 
 Between the two latest generations of iPhones, here are the key reasons to buy one over the other:
@@ -326,6 +338,13 @@ Between the two latest generations of iPhones, here are the key reasons to buy o
 * You can find a good deal on a used, second-hand model
 * You prefer having the lightning port
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lightning port vs. USB-C
 
 One of the biggest upgrades with the latest iPhone 15 series is the [USB-C port](https://www.zdnet.com/article/the-iphone-15s-usb-c-upgrade-may-have-serious-implications-for-the-charging-accessory-future/), a faster, more powerful, and more universal charging standard than the Lightning port on previous models. There's really no argument for the Lightning port unless you still own legacy Apple accessories, like the AirPods, and would much rather stick with the one charging standard. 
@@ -334,22 +353,15 @@ One of the biggest upgrades with the latest iPhone 15 series is the [USB-C port]
 
 Otherwise, even if you own an iPad or MacBook, or almost any other non-Apple gadget, USB-C is more widely used and truly the one-size-fits-all option for charging and transferring data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Which iPhone models support Apple's new AI features?
 
 Apple's upcoming AI features, branded as "[Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/)," are available on iPhones with at least an A17 Pro processor. That means only the iPhone 15 Pro series, excluding the standard iPhone 15 or iPhone 15 Plus, will support the new AI tools and the upcoming iPhone 16 models.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What storage size should I buy for my iPhone?
@@ -357,6 +369,13 @@ Apple's upcoming AI features, branded as "[Apple Intelligence](https://www.zdnet
 It wasn't until 2021 that Apple began selling both its non-Pro and Pro iPhones with a base storage of 128GB. The only exception here is the iPhone SE model. While not as flashy of an upgrade as larger camera sensors and 120Hz displays, this double-up of storage meant that consumers had more space than ever to store apps, photos, videos, and more.
 
 Maurice Klaehne, senior market research analyst at Counterpoint Research, suggests that higher storage options are generally better as they will help with the longevity of the device, and his firm has generally seen an uptick in postpaid customers opting for higher storage sizes when they can afford them. "Currently, the 256GB option is sufficient for most people," Klaehne adds.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I trade in my old iPhone?
 
@@ -371,13 +390,6 @@ While an iPhone case is not a necessity -- your iPhone will still function norma
 At the time of writing, the iPhone 13 is the best phone to buy for a parent. While it's not as glass-heavy or flashy as the newer iPhone 14 Pro or iPhone 15 Pro models, the iPhone 13 remains a formidable choice due to its durability, long battery life, and SIM card support. This latter feature is particularly important if your parent travels overseas or prefers the simplicity of swapping a physical SIM card to transfer contacts and data.
 
 The cameras on the iPhone 13 are reliable enough for clear video calls, the occasional outdoor photo, and capturing images of children and pets.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is eSIM?
 
@@ -463,22 +475,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-decoding-the-mystery-of-smooth-iphone-images-four-ways/"><u>[New] In 2024, Decoding the Mystery of Smooth iPhone Images (Four Ways)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unlocking-potential-exploring-ginger-valley/"><u>[New] Unlocking Potential Exploring Ginger Valley</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-a-beginners-journey-to-enhanced-gopro-adventures/"><u>[Updated] 2024 Approved A Beginner's Journey to Enhanced GoPro Adventures</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-compact-your-content-explore-the-most-admirable-33-video-reducers/"><u>2024 Approved Compact Your Content Explore the Most Admirable 33 Video Reducers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-mastering-facebooks-potential-in-health-marketing/"><u>2024 Approved Mastering Facebook's Potential in Health Marketing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/excellent-20-copy-free-pubg-thumbnail-sequences-for-2024/"><u>Excellent 20 Copy-Free PUBG Thumbnail Sequences for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-level-speed-boosts-for-microsoft-edge-on-the-horizon/"><u>Next-Level Speed Boosts for Microsoft Edge on the Horizon</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimize-performance-managing-high-cpu-use-by-microsoft-defender-antivirus-in-windows-10-devices/"><u>Optimize Performance: Managing High CPU Use by Microsoft Defender Antivirus in Windows 10 Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/patch-your-browser-protect-against-the-newest-chrome-security-flaw/"><u>Patch Your Browser: Protect Against the Newest Chrome Security Flaw</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protecting-your-identity-online-strategies-for-securing-sensitive-personal-information/"><u>Protecting Your Identity Online: Strategies for Securing Sensitive Personal Information</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protonmail-streamlines-your-communication-with-automated-email-drafting/"><u>ProtonMail Streamlines Your Communication with Automated Email Drafting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-capturing-stunning-4k-screen-images-with-a-standard-1080p-display/"><u>Step-by-Step Guide: Capturing Stunning 4K Screen Images with a Standard 1080P Display</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-how-to-set-a-new-screen-time-password-for-ios-and-macos-devices/"><u>Step-by-Step Tutorial: How to Set a New Screen Time Password for iOS & macOS Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/steps-to-remove-hidden-applications-from-your-computers-system/"><u>Steps to Remove Hidden Applications From Your Computer's System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unintentional-threats-top-seven-risks-to-your-data-security-exposed/"><u>Unintentional Threats: Top Seven Risks to Your Data Security Exposed!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-nyt-crossword-clues-solutions-and-strategies-for-july-29th-puzzle-414/"><u>Unlocking the NYT Crossword Clues: Solutions & Strategies for July 29Th Puzzle #414</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-searchgpt-your-new-go-to-web-search-platform-enhanced-with-chatgpts-powerful-capabilities/"><u>Unveiling SearchGPT – Your New Go-To Web Search Platform Enhanced with ChatGPT's Powerful Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-8-step-formula-for-captivating-your-instagram-audience-with-reels/"><u>[New] The 8-Step Formula for Captivating Your Instagram Audience with Reels</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-hack-the-system-avoid-video-ads-directly-on-fb/"><u>[Updated] 2024 Approved Hack the System Avoid Video Ads Directly on FB</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-data-collection-with-cookiebot-for-smarter-personalization-and-analytics/"><u>Automated Data Collection with Cookiebot for Smarter Personalization & Analytics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-use-an-iphone-13-case-for-iphone-14-discover-the-answer/"><u>Can You Use an iPhone 13 Case for iPhone 14? Discover the Answer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-enhancements-for-apples-vision-pro-strategies-for-business-triumph-insights-from-zdnet/"><u>Essential Enhancements for Apple's Vision Pro: Strategies for Business Triumph – Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-your-utorrent-torrent-connections-effectively/"><u>How to Restore Your uTorrent Torrent Connections Effectively</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-chill-out-guide-selecting-inviting-winter-backgrounds/"><u>In 2024, A Chill-Out Guide Selecting Inviting Winter Backgrounds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-usage-of-chatgpt-sidelining-useless-extensions/"><u>Optimal Usage of ChatGPT: Sidelining Useless Extensions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguarding-your-information-understanding-apples-approach-to-secure-ai-and-cloud-storage-practices-analysis/"><u>Safeguarding Your Information: Understanding Apple's Approach to Secure AI & Cloud Storage Practices | Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solving-your-imessage-delivery-issues-discover-why-they-went-undelivered-and-how-to-fix-them-expert-tips-by-zdnet/"><u>Solving Your iMessage Delivery Issues: Discover Why They Went Undelivered and How to Fix Them | Expert Tips by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/spotlight-on-apples-bold-move-against-leading-web-browser-through-provocative-advertisement-cnet-news/"><u>Spotlight on Apple's Bold Move Against Leading Web Browser Through Provocative Advertisement | CNET News</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-airpods-pro-enhancements-for-2023-engadget-reviews/"><u>The Ultimate Guide to AirPods Pro Enhancements for 202^[3] | Engadget Reviews</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/top-tier-custom-react-native-solutions-for-your-mobile-project-explore-creative-tims-unique-template-library/"><u>Top Tier Custom React Native Solutions for Your Mobile Project – Explore Creative Tim's Unique Template Library</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasforma-il-tuo-video-mpeg-in-wmv-su-internet-gratuitamente-tramite-movavis-converter/"><u>Trasforma Il Tuo Video MPEG in WMV Su Internet Gratuitamente Tramite Movavi's Converter</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-xiaomi-civi-3-disney-100th-anniversary-edition-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Xiaomi Civi 3 Disney 100th Anniversary Edition FRP Bypass</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-deal-on-apple-watch-series-10-beat-the-rush-and-save-big-preorder-for-only-99-at-best-buy-in-depth-review-and-steps/"><u>Unlock the Deal on Apple Watch Series 10: Beat the Rush and Save Big - Preorder for Only $99 at Best Buy | In-Depth Review & Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-apples-subtle-yet-impactful-ai-breakthrough-set-for-revelation-at-wwdc-what-you-can-expect/"><u>Unveiling Apple's Subtle Yet Impactful AI Breakthrough Set for Revelation at WWDC: What You Can Expect</u></a></li>
 </ul></div>
 

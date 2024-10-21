@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Interviews with ChatGPT's Assistance - A Step-by-Step Guide
-date: 2024-09-07T00:17:08.327Z
-updated: 2024-09-08T00:17:08.327Z
+date: 2024-10-17T22:29:31.259Z
+updated: 2024-10-21T20:24:33.921Z
 tags:
   - chatgpt
   - open-ai
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 
  With AI chatbots becoming mainstream, companies are locking their most powerful features behind subscription paywalls. However, some companies allow free users to do more things than others. As such, if you'd like to give GPT-4 Turbo a try, using Microsoft's Copilot tool is the best way to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is GPT-4 Turbo?
 
 ![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
@@ -35,59 +29,57 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
  If you want to bring Copilot up faster, you can do so by pressing**Win + C** . Or, if you're lucky enough to own a[laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , just press that to bring up the assistant at any time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
  If you're on mobile, you can download the[Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or[iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) . The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Get the Most Out of GPT-4 Turbo
 
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
 
@@ -97,14 +89,11 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 
  GPT-4 Turbo is a very powerful tool, and fortunately, you don't have to pay a cent to use it. Now you know how to use the popular chatbot model for free, whether you're on a Windows PC or otherwise.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,4 +102,24 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-premier-video-record-breakdown-and-alternatives/"><u>[New] 2024 Approved Premier Video Record Breakdown and Alternatives</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/inding-the-ideal-format-for-your-youtube-videos/"><u>[New] Finding the Ideal Format for Your YouTube Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-olympic-thrills-amidst-snowy-bliss-in-beijing-2022/"><u>[New] In 2024, Olympic Thrills Amidst Snowy Bliss in Beijing 2022</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-snapping-the-screen-top-8-compact-and-complimentary-android-recorder-software/"><u>[New] Snapping the Screen - Top 8 Compact and Complimentary Android Recorder Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-scaling-up-instagram-videos-mobile-and-desktop-approaches/"><u>[Updated] 2024 Approved Scaling Up Instagram Videos Mobile & Desktop Approaches</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1-ultimate-troubleshooting-guide-resolving-the-dvd-playback-issue-on-your-mac/"><u>1. Ultimate Troubleshooting Guide: Resolving the DVD Playback Issue on Your Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-8-websites-where-you-can-download-free-3d-text-psdfiles/"><u>Best 8 Websites Where You Can Download Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-originality-issues-how-does-it-avoid-copying-sources/"><u>ChatGPT and Originality Issues: How Does It Avoid Copying Sources?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-interview-skills-the-chatgpt-way/"><u>Elevate Interview Skills: The ChatGPT Way</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elite-selection-of-nintendo-switch-fighting-games-max-156/"><u>Elite Selection of Nintendo Switch Fighting Games (Max 156)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-impactful-relation-between-paperclip-maximization-and-advanced-ai-technology/"><u>Exploring the Impactful Relation Between Paperclip Maximization & Advanced AI Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-good-is-chatgpt-in-answering-math-related-questions/"><u>How Good Is ChatGPT in Answering Math-Related Questions?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-technological-speak-29-key-ai-concepts/"><u>Navigating Technological Speak: 29 Key AI Concepts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-whats-next-after-virtualdub-a-review-of-the-top-video-editing-alternatives/"><u>New In 2024, Whats Next After Virtualdub? A Review of the Top Video Editing Alternatives</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sifting-through-scam-rumors-about-truthcoin/"><u>Sifting Through Scam Rumors About TruthCoin</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-solving-common-complications-with-post/"><u>Step-by-Step Guide: Solving Common Complications with POST</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/storytelling-excellence-achieved-through-chatgpt-key-strategies-and-tips/"><u>Storytelling Excellence Achieved Through ChatGPT: Key Strategies and Tips</u></a></li>
+</ul></div>
 

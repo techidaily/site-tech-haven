@@ -1,7 +1,7 @@
 ---
 title: How to Ensure AI Systems Adhere to Human Values and Intentions
-date: 2024-09-07T00:17:11.820Z
-updated: 2024-09-08T00:17:11.820Z
+date: 2024-10-16T18:59:12.707Z
+updated: 2024-10-21T21:41:47.213Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes How to Ensure AI Systems Adhere to Human Values 
 thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb1ee83a9d9a5c2d8f590e22f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Effectively Acquire and Integrate Auto-Cutting-Edge GPT Into Your System
 
  With the explosion of ChatGPT, many people were impressed by the power and utility of OpenAI's GPT technology. This sparked the idea of making an automatic ChatGPT that answers and generates its prompts to achieve a specific goal, an idea that evolved into Auto-GPT.
@@ -27,12 +21,6 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
  To make things easier for you, here is a step-by-step guide on how to download and install Auto-GPT.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 1: Download Python and AutoGPT
 
  Despite what you may have read elsewhere, installing Auto-GPT is pretty straightforward.
@@ -45,17 +33,18 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
 ![A tab showing a tab to install Python ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After Installing Python, you can download Auto-GPT from GitHub.
 
 **Download** :[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT/releases/tag/v0.4.7) (Free)
 
 **Source code.zip** is for Windows, while**Source code.tar.gz** is for Linux and MacOS. First, download the file for your operating system, then copy the folder and paste it into your desired location.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 2: Configure Auto-GPT
 
@@ -67,36 +56,19 @@ After Installing Python, you can download Auto-GPT from GitHub.
 2. To create a key, click**Create new secret key** , input a name, then click**Create secret key** . You can then copy the API key by using**CTRL + C** or clicking the copy icon on the right.  
 ![Create API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-create-test-key.jpg)
 3. Now you have your API key, go to your Auto-GPT folder and open the**.env** file using Notepad.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Step 3: Install Auto-GPT Dependencies
 
  Now that you have configured Auto-GPT, it's time to install its dependencies through a terminal.
@@ -107,14 +79,23 @@ pip install -r requirements.txt
 3. Once you press enter, your terminal will download and install all the required dependencies.  
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-4.jpg)
 4. After installation, try opening Auto-GPT using:  
+
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Congratulations! You have successfully Installed Auto-GPT.
 
@@ -156,6 +137,13 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
 
 After making the recipe, our AI has now completed its task.
@@ -163,11 +151,12 @@ After making the recipe, our AI has now completed its task.
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
@@ -192,14 +181,11 @@ After making the recipe, our AI has now completed its task.
 
  With that said, Auto-GPT is still in its early development stage, and GPT-4 is still on its 8k model. As for now, Auto-GPT should not be used as a tool for any professional or business applications. Anyone using it should only be for the purpose of learning and experimentation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -208,4 +194,19 @@ After making the recipe, our AI has now completed its task.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-speech-clarity-achieved-by-googles-advanced-conversion/"><u>[New] In 2024, Speech Clarity Achieved by Google's Advanced Conversion</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mirrored-worldviews-on-insta-discover-100-reflective-captions-for-2024/"><u>[New] Mirrored Worldviews on Insta - Discover 100 Reflective Captions for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-comprehensive-guide-to-android-screenshotting/"><u>[Updated] 2024 Approved Comprehensive Guide to Android Screenshotting</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximize-your-fb-watching-with-top-firefox-addons-and-downloaders-for-2024/"><u>[Updated] Maximize Your FB Watching with Top Firefox Addons and Downloaders for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-horizon-harmony-best-online-spots-for-high-res-sky-views/"><u>2024 Approved Horizon Harmony Best Online Spots for High-Res Sky Views</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-find-x6-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Find X6 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-mastering-video-cropping-techniques-in-openshot-editor/"><u>Simple Steps: Mastering Video Cropping Techniques in OpenShot Editor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/speedy-vob-to-mkv-converter-tips-effortless-changeover-techniques-unveiled/"><u>Speedy VOB-to-MKV Converter Tips: Effortless Changeover Techniques Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-fast-m2ts-file-format-transformation/"><u>Step-by-Step Tutorial on Fast M2TS File Format Transformation</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-honor-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Honor .</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oppo-f23-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Oppo F23 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-performing-screen-capture-tools-for-smooth-pubg-streams-on-windows-10-and-11/"><u>Top Performing Screen Capture Tools for Smooth PUBG Streams on Windows 10 and 11</u></a></li>
+</ul></div>
 

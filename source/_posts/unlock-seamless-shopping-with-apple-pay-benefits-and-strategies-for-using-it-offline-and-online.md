@@ -1,7 +1,7 @@
 ---
 title: "Unlock Seamless Shopping with Apple Pay: Benefits & Strategies for Using It Offline and Online"
-date: 2024-10-09T08:02:36.385Z
-updated: 2024-10-16T05:25:26.388Z
+date: 2024-10-15T19:23:49.110Z
+updated: 2024-10-21T21:44:10.199Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 **What you need:** iPhone, banking information
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
@@ -69,6 +69,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -77,13 +90,6 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -91,13 +97,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -112,13 +111,6 @@ Once unlocked, hold your iPhone near the payment terminal to use Apple Pay.
 Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -136,10 +128,10 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is NFC?
@@ -155,6 +147,13 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 **Also: [Venmo and PayPal now offer 'Tap to Pay' on iPhone for businesses](https://www.zdnet.com/article/venmo-and-paypal-now-offer-tap-to-pay-on-iphone-for-businesses/)**
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is Apple Cash?
 
@@ -177,6 +176,19 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -212,22 +224,19 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-straightforward-recorder-app-windows/"><u>[New] In 2024, Straightforward Recorder App - Windows</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unlocking-instagrams-top-spot-in-minutes/"><u>[New] In 2024, Unlocking Instagram's Top Spot in Minutes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unearthing-your-favorites-facebook-watch-list-access/"><u>[New] Unearthing Your Favorites Facebook Watch List Access</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-video-wizardry-top-8-editing-programs-for-youtube-enthusiasts/"><u>[Updated] In 2024, Free Video Wizardry Top 8 Editing Programs for YouTube Enthusiasts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-get-laughter-in-minutes-install-and-revel-in-ifunnys-meme-world/"><u>2024 Approved Get Laughter in Minutes Install and Revel in iFunny's Meme World</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/behind-the-mic-with-chatgpt-a-game-changing-podcasting-tale/"><u>Behind the Mic with ChatGPT: A Game-Changing Podcasting Tale</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-buys-detailed-analysis-of-top-6-hdmi-monitors-for-2024/"><u>Best Buys Detailed Analysis of Top 6 HDMI Monitors for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-build-a-sustainable-career-with-ai-prompt-engineering-lets-dive-in/"><u>Can You Build a Sustainable Career with AI Prompt Engineering? Let's Dive In!</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/demystifying-ai-game-generators/"><u>Demystifying AI Game Generators</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-screen-capture-software-beyond-microsofts-snipping-capabilities/"><u>Essential Screen Capture Software Beyond Microsoft's Snipping Capabilities</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/icy-immortals-top-athletes-from-the-freeze-for-2024/"><u>Icy Immortals Top Athletes From the Freeze for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-chatgpt-secure-to-use-unpacking-6-potential-online-safety-hazards-with-openais-language-model/"><u>Is ChatGPT Secure to Use? Unpacking 6 Potential Online Safety Hazards with OpenAI's Language Model</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-chatgpt-understanding-its-link-sharing-capabilities/"><u>Navigating Through ChatGPT: Understanding Its Link Sharing Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-generation-ai-and-chatbots-what-lies-ahead-after-the-era-of-chatgpt/"><u>Next-Generation AI & Chatbots: What Lies Ahead After the Era of ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pseudo-agent-program-snaffles-facebook-sign-ins/"><u>Pseudo-Agent Program: Snaffles Facebook Sign-Ins</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-work-how-generative-ai-is-shaping-future-jobs-insights-and-predictions/"><u>Revolutionizing Work: How Generative AI Is Shaping Future Jobs - Insights and Predictions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-fix-overcoming-communication-barriers-between-chatgpt-and-plugins/"><u>Step-by-Step Fix: Overcoming Communication Barriers Between ChatGPT and Plugins</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-fireside-screen-capture-tools/"><u>[New] Fireside Screen Capture Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-screen-spectaculum-hitting-720p-with-twitter-vids/"><u>[New] In 2024, Screen Spectaculum Hitting 720P with Twitter Vids</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastery-guide-on-the-world-of-voice-recordings-for-2024/"><u>[New] Mastery Guide on the World of Voice Recordings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725286346607-winxvideo-ai/"><u>如何利用Winxvideo AI教學與指南: 進行影片編輯、拍攝和壓縮程序</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/androids-favorite-collage-crafting-software/"><u>Android's Favorite Collage Crafting Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-apples-innovative-m4-processors-integrating-advanced-ai-capabilities-across-all-mac-models-release-timeline/"><u>Discover Apple's Innovative M4 Processors: Integrating Advanced AI Capabilities Across All Mac Models - Release Timeline</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-libxml2dll-error-restoring-the-missing-dll-component/"><u>Effective Fixes for libxml2.dll Error: Restoring the Missing DLL Component</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expertly-evaluated-the-ultimate-list-of-note-taking-tablets-gadgetflow/"><u>Expertly Evaluated: The Ultimate List of Note-Taking Tablets | GadgetFlow</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecti-the-ultimate-guide-to-iphone-slideshows-xr-i/"><u>In 2024, Perfecti The Ultimate Guide to iPhone Slideshows (XR-I)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reviving-the-past-flipping-iphone-video-streams-for-2024/"><u>Reviving the Past Flipping iPhone Video Streams for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-tutorial-connecting-and-using-an-sd-card-with-your-mac-computer/"><u>Step-by-Step Tutorial: Connecting and Using an SD Card with Your Mac Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-rise-of-siri-apples-strategic-move-beyond-bing-towards-an-intelligent-ai-future-insights-on-tech-with-zdnet/"><u>The Rise of Siri: Apple's Strategic Move Beyond Bing Towards an Intelligent, AI Future | Insights on Tech with ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-im-choosing-apples-slimmer-iphone-16-pro-over-the-max-insights/"><u>Why I'm Choosing Apple's Slimmer iPhone 16 Pro Over the Max : Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/zdnets-comprehensive-evaluation-of-apples-third-generation-airpods-notable-enhancements-highlighted/"><u>ZDNet's Comprehensive Evaluation of Apple's Third-Generation AirPods: Notable Enhancements Highlighted</u></a></li>
 </ul></div>
 

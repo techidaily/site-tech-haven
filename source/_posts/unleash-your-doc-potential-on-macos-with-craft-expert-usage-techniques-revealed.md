@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Doc Potential on macOS with Craft: Expert Usage Techniques Revealed"
-date: 2024-10-09T03:10:11.184Z
-updated: 2024-10-16T05:28:57.962Z
+date: 2024-10-15T19:21:37.987Z
+updated: 2024-10-21T16:20:42.456Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,16 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +86,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,24 +140,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-navigating-the-seas-of-sponsorships-a-youtubers-playbook/"><u>[Updated] In 2024, Navigating the Seas of Sponsorships A Youtuber's Playbook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-unearthing-the-obscured-videotapes/"><u>[Updated] YouTube Unearthing the Obscured Videotapes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-mastering-spotify-advertisement-techniques/"><u>2024 Approved From Novice to Pro Mastering Spotify Advertisement Techniques</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-maximizing-your-mac-preview-experience-step-by-step/"><u>2024 Approved Maximizing Your Mac Preview Experience Step-by-Step</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-compilation-of-hd-android-video-apps/"><u>2024 Approved The Ultimate Compilation of Hd Android Video Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-you-access-chatgpt-with-a-vpn/"><u>Can You Access ChatGPT With a VPN?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-poap-exploring-the-evolution-of-memory-storage-within-the-web3-revolution/"><u>Decoding POAP: Exploring the Evolution of Memory Storage Within the Web3 Revolution</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-astonishing-applications-of-chatgpts-powerful-image-analysis-capabilities/"><u>Discover Astonishing Applications of ChatGPT's Powerful Image Analysis Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dispelling-fear-embracing-hope-top-7-reasons-to-get-excited-about-artifice-intelligence/"><u>Dispelling Fear, Embracing Hope: Top 7 Reasons to Get Excited About Artifice Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/embrace-the-future-with-essential-ai-vocabulary-top-7-must-know-terms/"><u>Embrace the Future with Essential AI Vocabulary - Top 7 Must-Know Terms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-guide-8-situations-that-require-your-devices-to-be-at-full-battery-life/"><u>Essential Guide: 8 Situations That Require Your Devices to Be at Full Battery Life</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-ethereum-20-can-this-upgrade-resolve-key-issues-in-digital-currencies/"><u>Exploring Ethereum 2.0 – Can This Upgrade Resolve Key Issues in Digital Currencies?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-perplexity-an-in-depth-guide-on-using-this-cutting-edge-chatbot-technology/"><u>Exploring Perplexity: An In-Depth Guide on Using This Cutting-Edge Chatbot Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-causes-of-chatgpts-intermittent-availability-and-how-users-can-adapt/"><u>Exploring the Causes of ChatGPT's Intermittent Availability and How Users Can Adapt</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gm-postpones-launch-of-several-planned-electric-models/"><u>GM Postpones Launch of Several Planned Electric Models</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-blur-your-background-in-google-meet/"><u>How to Blur Your Background in Google Meet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-samsung-galaxy-s24-ultra-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Samsung Galaxy S24 Ultra to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/premium-enterprise-sky-saver-guide/"><u>Premium Enterprise Sky Saver Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-beginners-besties-essential-gopro-upgrades-list/"><u>The Beginner's Besties - Essential GoPro Upgrades List</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-creative-mc-survival-habitat-concepts/"><u>[New] In 2024, Creative MC Survival Habitat Concepts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unleashing-classic-ps3-games-on-your-pc-for-2024/"><u>[Updated] Unleashing Classic PS3 Games on Your PC for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-snappycapture-windows-11-video-recording-made-simple/"><u>2024 Approved SnappyCapture - Windows 11 Video Recording Made Simple</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-beacon-of-beauty-broadcasting-launching-an-aesthetic-vlog/"><u>2024 Approved The Beacon of Beauty Broadcasting Launching an Aesthetic Vlog</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beating-apple-vision-pro-jealousy-with-budget-friendly-xr-glasses-a-zdnet-review/"><u>Beating Apple Vision Pro Jealousy with Budget-Friendly XR Glasses: A ZDNET Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breaking-news-apples-anticipated-artificial-intelligence-integration-postponed-to-october-insiders-reveal/"><u>Breaking News: Apple's Anticipated Artificial Intelligence Integration Postponed to October, Insiders Reveal</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/image-improvement-masterclass-top-apps-decoded/"><u>Image Improvement Masterclass - Top Apps Decoded</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-health-communication-winning-on-social-networks/"><u>In 2024, Health Communication Winning on Social Networks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipad-pro-rumored-for-spring-release-in-q2-of-2024-insights-from-zdnet/"><u>IPad Pro Rumored for Spring Release in Q2 of 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-your-iphone-13-case-compatible-with-the-latest-iphone-14-model-insights-and-tips-techradar/"><u>Is Your iPhone 13 Case Compatible with the Latest iPhone 14 Model? Insights & Tips | TechRadar</u></a></li>
+<li><a href="https://some-skills.techidaily.com/maximize-performance-boost-computers-with-under-8gb-ram-using-compact-local-llm-technologies/"><u>Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies</u></a></li>
+<li><a href="https://win-hot.techidaily.com/myspace-audio-capture-guide-using-myspace-music-recorder/"><u>Myspace Audio Capture Guide: Using Myspace Music Recorder</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-costly-secret-behind-the-absence-of-advanced-apple-ai-in-older-iphone-models-zdnet/"><u>The Costly Secret Behind the Absence of Advanced Apple AI in Older iPhone Models | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-mini-tablets-thoroughly-evaluated-and-recommended-by-tech-experts/"><u>Top-Rated Mini Tablets - Thoroughly Evaluated & Recommended by Tech Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-effect-of-apple-pay-later-loans-on-your-experian-credit-report-a-comprehensive-guide-news/"><u>Understanding the Effect of Apple Pay Later Loans on Your Experian Credit Report: A Comprehensive Guide News</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of AI Image Creation with ChatGPT
-date: 2024-09-07T00:17:09.494Z
-updated: 2024-09-08T00:17:09.494Z
+date: 2024-10-20T17:03:19.594Z
+updated: 2024-10-21T20:36:11.714Z
 tags:
   - chatgpt
   - open-ai
@@ -13,18 +13,6 @@ excerpt: This Article Describes Mastering the Art of AI Image Creation with Chat
 thumbnail: https://thmb.techidaily.com/f3b5fbbb41ff3e0e15766362f9082ba5609c00b8437978e5e3317dc5d76ea72c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Master the Art of Detection with These 4 Innovative AI Murder Mystery Apps
 
  Sherlock Holmes and Miss Marple had it easy. You see, when they encountered a murder mystery, they only ever had to deal with the logic of a human mind and the complexities of a human heart. But what if the murder was masterminded by artificial intelligence?
@@ -43,16 +31,30 @@ thumbnail: https://thmb.techidaily.com/f3b5fbbb41ff3e0e15766362f9082ba5609c00b84
 
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[Gron](https://www.gron.games/game) (Web): Retro RPG Game to Find Clues and Chat With Suspects
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Author Screenshot by Mihir Patkar - No attribution required
 
  You already know that[ChatGPT can create fictional characters](https://www.makeuseof.com/chatgpt-prompts-to-develop-book-characters/) to talk with or let you chat with existing famous characters once the right data is fed. Gron leverages this power to make a murder mystery game like an old-school 8-bit RPG.
@@ -62,27 +64,16 @@ thumbnail: https://thmb.techidaily.com/f3b5fbbb41ff3e0e15766362f9082ba5609c00b84
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3.[Mystery-o-Matic](https://mystery-o-matic.com/) (Web): New Murder Mystery Generated Daily Randomly
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Author Screenshot by Mihir Patkar - No attribution required
 
  Move over,[Wordle and its alternatives](https://www.makeuseof.com/best-wordle-alternatives/) . There's a new daily puzzle, and lives are at stake! Mystery-o-Matic generates a new murder mystery every day using machine-learning algorithms. It uses a few base elements and then creates permutations and combinations that set up a daily mystery.
@@ -92,33 +83,16 @@ thumbnail: https://thmb.techidaily.com/f3b5fbbb41ff3e0e15766362f9082ba5609c00b84
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4.[Murdle](https://murdle.com/) (Web): Daily Murder Mystery Logic Puzzles
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Author Screenshot by Mihir Patkar - No attribution required
 
  Hollywood mystery writer G. T. Karber offers one new murder mystery logic puzzle daily at his website Murdle. The long-running successful website has already led to three books of murder mysteries, written by Karber and generated by "Moriarty", a proprietary algorithm capable of planning a million murders a minute.
@@ -133,14 +107,11 @@ thumbnail: https://thmb.techidaily.com/f3b5fbbb41ff3e0e15766362f9082ba5609c00b84
 
  A good place to learn how to set up these prompts is Reddit. On r/ChatGPT, you'll find posts like creating a murder mystery with the characters of the sitcom Friends or the mystery inspired by the game Clue. How cool would it be to play a murder mystery based on your favorite fictional characters?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +120,18 @@ thumbnail: https://thmb.techidaily.com/f3b5fbbb41ff3e0e15766362f9082ba5609c00b84
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-2024s-blueprint-for-effortless-youtube-video-posting-on-fb/"><u>[New] 2024'S Blueprint for Effortless YouTube Video Posting on FB</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-elite-6-most-watched-shorter-video-repositories/"><u>[New] In 2024, Elite 6 Most Watched Shorter Video Repositories</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-maximizing-reach-tweeting-on-facebook/"><u>[Updated] In 2024, Maximizing Reach Tweeting on Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-precise-ways-to-check-gpt-written-function/"><u>5 Precise Ways to Check GPT’ Written Function</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beauty-and-brains-combined-a-closer-look-at-the-samsung-un65ru80qxaa-review/"><u>Beauty and Brains Combined: A Closer Look at the Samsung UN65RU80QXAA Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/excel-skills-you-possess-that-no-bot-including-chatgpt-can-match/"><u>Excel Skills You Possess that No Bot, Including ChatGPT, Can Match</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-might-advanced-language-models-challenge-the-dominance-of-search-engines/"><u>How Might Advanced Language Models Challenge the Dominance of Search Engines?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/intimate-perspectives-with-team-zooms-for-2024/"><u>Intimate Perspectives with Team Zooms for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tale-spinners-narrating-your-chatgpt-roleplay-journey/"><u>Tale Spinners: Narrating Your ChatGPT Roleplay Journey</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-age-of-inclusivity-step-into-gpt-4/"><u>The Age of Inclusivity: Step Into GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-impact-of-chatgpt-on-modern-medicine-and-patient-care/"><u>The Impact of ChatGPT on Modern Medicine and Patient Care</u></a></li>
+</ul></div>
 

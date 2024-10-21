@@ -1,7 +1,7 @@
 ---
 title: The Quintessential Elements Behind ChatGPT's Unprecedented Surging Popularity and Success
-date: 2024-09-07T00:17:08.633Z
-updated: 2024-09-08T00:17:08.633Z
+date: 2024-10-14T19:35:44.495Z
+updated: 2024-10-21T20:20:01.049Z
 tags:
   - chatgpt
   - open-ai
@@ -23,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
 
 ![man questions robot turing test example feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/man-questions-robot-turing-test-example-feature.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vector/robot-scientist-facing-turing-test-artificial-1651840888)
 
  To determine if the Turing test is outdated, you must first[understand how it works](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/) . For an AI to pass the Turing test, it must convince a human interrogator that it's a human. But there is a catch—the AI is evaluated alongside a human, and it must respond using text.
@@ -40,11 +34,12 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
  However, the current AI models like ChatGPT-4 and Google Bard haven't yet advanced to a point they can consistently pass the Turing test. In fact, if you're familiar with AI, you can[spot AI-generated text](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) .
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The 5 Best Turing Test Alternatives
 
  It's possible that[future AI models like ChatGPT-5](https://www.makeuseof.com/when-will-gpt5-launch/) could pass the Turing test. If that happens, we would need different tests combined with the Turing test to identify if we're talking to an AI or a human. Here are the best Turing test alternatives:
@@ -53,38 +48,21 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the[New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can[identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
@@ -92,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
@@ -107,25 +92,26 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -133,14 +119,11 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
 
  However, with the recent development of AI models with speech, visual, and hearing interactive capabilities, the Turing test falls short since it's limited to text conversation. The most effective solution would be to introduce Turing test alternatives that further differentiate AI models from humans.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +132,22 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/obile-editing-hacks-select-top-10-short-form-apps/"><u>[New] Mobile Editing Hacks Select Top 10 Short Form Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-definition-magic-cutting-edge-camcorders-reviewed/"><u>[Updated] High-Definition Magic Cutting-Edge Camcorders Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/auditory-accents-integrating-tracks-into-video-on-modern-windows-for-2024/"><u>Auditory Accents Integrating Tracks Into Video on Modern Windows for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-downsides-7-key-arguments-against-generative-ai-integration-in-messengers/"><u>Exploring the Downsides: 7 Key Arguments Against Generative AI Integration in Messengers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ffmpeg-analysis-maintaining-audio-format-integrity/"><u>FFmpeg Analysis Maintaining Audio Format Integrity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-moto-g23-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Moto G23 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-elevate-your-social-story-essential-tactics-for-facebook-profiles/"><u>In 2024, Elevate Your Social Story Essential Tactics for Facebook Profiles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-monetizing-mastery-harness-the-power-of-your-youtube-content-on-mobile/"><u>In 2024, Monetizing Mastery Harness the Power of Your YouTube Content on Mobile</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-chatgpt-experience-on-macos/"><u>Maximizing ChatGPT Experience on macOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-privacy-in-ai-communication-protecting-or-concealing-your-chatgpt-messages-efficiently/"><u>Navigating Privacy in AI Communication: Protecting or Concealing Your ChatGPT Messages Efficiently</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-best-chatgpt-tools-to-revolutionize-your-crypto-journey/"><u>Navigating the Best ChatGPT Tools to Revolutionize Your Crypto Journey</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-iphones-phantom-tap-problem-with-these-10-proven-techniques/"><u>Resolve iPhone's Phantom Tap Problem with These 10 Proven Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/save-money-and-enhance-productivity-with-these-6-free-options-similar-to-openais-sora/"><u>Save Money & Enhance Productivity with These 6 FREE Options Similar to OpenAI’s Sora</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-your-chatgpt-experience-a-plugin-journey/"><u>Transforming Your ChatGPT Experience: A Plugin Journey</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-these-9-compelling-advantages-by-upgrading-to-chatgpt-plus/"><u>Unlock These 9 Compelling Advantages by Upgrading to ChatGPT Plus</u></a></li>
+</ul></div>
 

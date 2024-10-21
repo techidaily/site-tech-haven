@@ -1,7 +1,7 @@
 ---
 title: "Understanding Large Language Models: Functionality & Applications"
-date: 2024-09-07T00:17:12.112Z
-updated: 2024-09-08T00:17:12.112Z
+date: 2024-10-17T16:39:28.352Z
+updated: 2024-10-21T18:34:49.273Z
 tags:
   - chatgpt
   - open-ai
@@ -45,12 +45,6 @@ thumbnail: https://thmb.techidaily.com/380c0bd99725d564144c554e3495dbd9ae260fd18
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
  By default, Google collects your conversations and your general location based on your IP address, your feedback, and usage information. This information is stored in your Google account for up to 18 months. Although you can pause saving your Bard activity, you should be aware that "to help with quality and improve our products, human reviewers read, annotate, and process your Bard conversations."
@@ -78,14 +72,22 @@ thumbnail: https://thmb.techidaily.com/380c0bd99725d564144c554e3495dbd9ae260fd18
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
@@ -99,48 +101,25 @@ thumbnail: https://thmb.techidaily.com/380c0bd99725d564144c554e3495dbd9ae260fd18
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
  Fortunately for comedians everywhere and the human race at large, none of the models were capable of generating an original joke.
@@ -154,11 +133,12 @@ thumbnail: https://thmb.techidaily.com/380c0bd99725d564144c554e3495dbd9ae260fd18
 You read it here first, folks.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## No Chatbot Is Perfect
 
  We found that while all three large language models have their advantages and disadvantages, none of them can replace the real expertise of a human being with specialized knowledge.
@@ -167,14 +147,11 @@ You read it here first, folks.
 
  If you'd like to create great AI art without worrying that somebody's looking over your shoulder, it's easy to run an art AI model on your local machine, too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,4 +160,24 @@ You read it here first, folks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-soundtrack-your-life-a-complete-guide-to-adding-personalized-ringtones-and-sounds/"><u>[Updated] 2024 Approved Soundtrack Your Life A Complete Guide to Adding Personalized Ringtones & Sounds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-blur-background-of-your-youtube-video/"><u>[Updated] How to Blur Background of Your YouTube Video</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-accelerate-audience-engagement-with-high-impact-hash-tags/"><u>[Updated] In 2024, Accelerate Audience Engagement with High-Impact Hash Tags</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-effortless-guide-converting-ogv-files-to-avi-format-top-methods/"><u>1. Effortless Guide: Converting OGV Files to AVI Format - Top Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-unlock-flawless-gaming-top-tools-for-converting-videos-to-playable-formats-on-the-nintendo-wii/"><u>1. Unlock Flawless Gaming: Top Tools for Converting Videos to Playable Formats on the Nintendo Wii</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-holistic-evaluation-full-screenflow-for-mac-functionality/"><u>2024 Approved Holistic Evaluation Full ScreenFlow for Mac Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029305320-4k/"><u>4Kビデオ品質向上テクニック：高解像度映像ダウンサイジング</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027691761-mp3mp4/"><u>無料MP3/MP4ビットレート変更ツールを勧める - 最適な選び方</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-etude-le-phenomene-dautomatisation-chez-les-entreprises-francaises-en-2019-la-quete-pour-une-strategie-et-des-competences-optimales/"><u>ABBYY Étude : Le Phénomène D'Automatisation Chez Les Entreprises Françaises en 2019 - La Quête Pour Une Stratégie Et Des Compétences Optimales</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exclusive-lineup-of-photo-backdrop-alternatives/"><u>Exclusive Lineup of Photo Backdrop Alternatives</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-go-beyond-basic-10-advanced-whatsapp-tips-and-tricks-you-must-try/"><u>In 2024, Go Beyond Basic 10 Advanced WhatsApp Tips and Tricks You Must Try</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-tecno-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Tecno Phone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-screens-sole-contender-software-or-hardware-triumph/"><u>In 2024, The Screen's Sole Contender Software or Hardware Triumph?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028106062-movwav/"><u>MOV動画から直接WAVオーディオ抽出方法【変換ガイド】</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028396986-tiktok/"><u>TikTokビデオに最適なアスペクト比と制作手法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-guide-capturing-high-quality-video-in-mp4-format/"><u>Windows Guide: Capturing High-Quality Video in MP4 Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028061863-dvd/"><u>クラウド上にDVDファイルを安全に保管する効果的な方法</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices To Avoid Purchasing at This Moment: Insights From ZDNet"
-date: 2024-10-11T21:18:10.736Z
-updated: 2024-10-16T00:27:30.062Z
+date: 2024-10-16T20:40:43.208Z
+updated: 2024-10-21T19:27:46.624Z
 tags:
   - apple
 categories:
@@ -57,13 +57,20 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **The 'Nice' list**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
@@ -83,10 +90,10 @@ Kerry Wan/ZDNET
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
@@ -118,10 +125,10 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
@@ -138,13 +145,6 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 **Also: [M3 MacBook Pro buying advice: Who it's really for (and who should stick with M2 MacBook Air)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/)**
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Apple's 24-inch iMac**
 
@@ -222,24 +222,21 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-extract-and-play-fb-soundtracks/"><u>[New] 2024 Approved Extract and Play FB Soundtracks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ow-to-make-a-striking-yt-preview-with-optimal-thumbnail-sizing/"><u>[New] How to Make a Striking YT Preview with Optimal Thumbnail Sizing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-navigate-through-creating-stellar-educational-video-content-for-online-platforms/"><u>[New] In 2024, Navigate Through Creating Stellar Educational Video Content for Online Platforms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-tonal-terrain-mac-audio-artistry-for-2024/"><u>[New] Tonal Terrain Mac Audio Artistry for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevating-video-view-count-top-hashtag-trends-guide/"><u>[Updated] 2024 Approved Elevating Video View Count Top Hashtag Trends Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-navigating-the-process-of-enlisting-videos-on-youtube-shelves/"><u>[Updated] 2024 Approved Navigating the Process of Enlisting Videos on YouTube Shelves</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-unmatched-performance-the-newly-revealed-electric-escalade-iq-from-cadillac-boasting-a-remarkable-450-mile-range/"><u>Experience Unmatched Performance: The Newly Revealed Electric Escalade IQ From Cadillac, Boasting a Remarkable 450-Mile Range</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-midjourneys-prowess-in-generating-ai-powered-artworks-a-comparative-analysis-of-models/"><u>Exploring Midjourney's Prowess in Generating AI-Powered Artworks: A Comparative Analysis of Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-metaverse-beyond-virtual-reality-a-comprehensive-overview/"><u>Exploring the Metaverse: Beyond Virtual Reality - A Comprehensive Overview</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/get-your-own-adult-smoosat-e-scooter-with-the-bonus-of-a-complimentary-kids-model/"><u>Get Your Own Adult SmooSat E-Scooter with the Bonus of a Complimentary Kids Model!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gms-massive-initiative-rolling-out-40000plus-ev-chargers-across-north-america/"><u>GM's Massive Initiative: Rolling Out 40,000+ EV Chargers Across North America</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-access-openai-tools-when-they-arent-offered-in-your-region/"><u>How to Access OpenAI Tools When They Aren't Offered in Your Region</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Samsung Galaxy F34 5G.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/intel-develops-new-processor-optimized-for-cryptocurrency-mining/"><u>Intel Develops New Processor Optimized for Cryptocurrency Mining</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-bings-ai-image-generator-tips-and-tricks-for-creating-your-perfect-visual/"><u>Mastering Bing's AI Image Generator: Tips & Tricks for Creating Your Perfect Visual</u></a></li>
-<li><a href="https://win11.techidaily.com/merging-windows-credentials-with-microsoft-identity-hub/"><u>Merging Windows Credentials with Microsoft Identity Hub</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/meta-quest-3-the-affordable-alternative-to-apple-vision-pro-17th-of-the-cost/"><u>Meta Quest 3: The Affordable Alternative To Apple Vision Pro - 1/7Th Of The Cost</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques-for-2024/"><u>Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-keyframes-interval-everything-you-need-to-know-filmora/"><u>Updated In 2024, Keyframes Interval Everything You Need To Know | Filmora</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-expert-recommendations-best-phonespcs-for-chatting-online/"><u>[New] Expert Recommendations Best Phones/PCs for Chatting Online</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-leading-tools-top-6-fb-lite-video-extractors/"><u>[Updated] In 2024, Leading Tools TOP 6 FB Lite Video Extractors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-professional-picture-taking-within-microsoft-teams/"><u>[Updated] Professional Picture Taking Within Microsoft Teams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hand-in-the-wind-understanding-its-types/"><u>2024 Approved Hand-In-The-Wind Understanding Its Types</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-learn-to-extract-twitter-media-as-audible-files/"><u>2024 Approved Learn to Extract Twitter Media as Audible Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-apples-fall-lineup-enhancements-for-iphone-ipad-mac-embrace-the-future-with-advanced-ai-integration-tech-insights/"><u>Discover Apple's Fall Lineup Enhancements for iPhone, iPad, Mac - Embrace the Future with Advanced AI Integration | Tech Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-how-the-latest-iphone-sixteen-elevates-photography-with-its-exclusive-camera-feature/"><u>Discover How the Latest iPhone ˈSixteen Elevates Photography with Its Exclusive Camera Feature</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-ios-174s-new-capabilities-including-emoji-updates-and-podcast-text-for-accessibility-in-the-eu-exclusive-coverage-by-zdnet/"><u>Discover iOS 17.4'S New Capabilities Including Emoji Updates & Podcast Text for Accessibility in the EU | Exclusive Coverage by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expand-your-workspace-seamlessly-set-up-a-second-monitor-on-your-m1-mac-mini-with-ease-insights-by-zdnet/"><u>Expand Your Workspace: Seamlessly Set Up a Second Monitor on Your M1 Mac Mini with Ease | Insights by ZDNET</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-vivo-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Vivo .</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-enhanced-interaction-making-skype-calls-on-your-phone/"><u>In 2024, Enhanced Interaction Making Skype Calls on Your Phone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mobile-methods-for-capturing-snapchat-content/"><u>In 2024, Mobile Methods for Capturing Snapchat Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-analysis-microsoft-surface-pro-8-the-ultimate-laptop-replacement-for-professionals/"><u>In-Depth Analysis: Microsoft Surface Pro 8 - The Ultimate Laptop Replacement for Professionals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/setting-up-slack-alerts-directly-on-your-apple-watch-a-step-by-step-guide/"><u>Setting Up Slack Alerts Directly on Your Apple Watch - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-ranked-mac-maintenance-tools-of-2022-expert-picks-and-reviews-techradar/"><u>Top-Ranked Mac Maintenance Tools of 2022: Expert Picks and Reviews | TechRadar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Next Generation of iPhones: ZDNet Exposes Spatial Recording and Thinner Edges in the Upcoming iPhone 16 Lineup"
-date: 2024-10-15T07:00:18.498Z
-updated: 2024-10-16T02:12:59.189Z
+date: 2024-10-14T19:57:20.254Z
+updated: 2024-10-21T18:20:16.754Z
 tags:
   - apple
 categories:
@@ -57,6 +57,19 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -64,6 +77,13 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -83,23 +103,9 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -110,10 +116,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -125,10 +131,10 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417993%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417993.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -165,21 +171,21 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-direct-mp3-to-youtube-3-steps-for-seamless-video-posting/"><u>[New] 2024 Approved Direct MP3 to YouTube 3 Steps for Seamless Video Posting</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ideal-iphone-photo-apps-for-slide-shows-xr-to-x/"><u>[Updated] Ideal iPhone Photo Apps for Slide Shows (XR to X)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-visual-voyage-amds-radeon-reborn/"><u>2024 Approved Visual Voyage AMD's Radeon Reborn</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciding-between-chatgpt-and-my-ai-on-the-popular-platform-snapchat/"><u>Deciding Between ChatGPT and My AI on the Popular Platform, Snapchat</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diy-developing-a-customized-chatgpt-model-powered-by-personal-data-sources/"><u>DIY: Developing a Customized ChatGPT Model Powered by Personal Data Sources</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-job-prospects-and-performance-with-chatgpt-heres-why/"><u>Enhance Your Job Prospects and Performance with ChatGPT – Here's Why</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-overwatchs-unsupported-graphics-issue/"><u>Fixing Overwatch's Unsupported Graphics Issue</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-vivo-v30-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo V30 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-se-2020-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-ai-communication-choose-from-these-top-5-leading-ai-prompt-designers-to-enhance-your-tools-interaction/"><u>Master AI Communication: Choose From These Top 5 Leading AI Prompt Designers to Enhance Your Tool's Interaction</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-nutritious-dishes-with-ai-can-chatgpt-guide-you-through/"><u>Mastering Nutritious Dishes with AI: Can ChatGPT Guide You Through?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-infinix-hot-30i-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Infinix Hot 30i.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-a-persistent-loading-issue-during-discord-broadcasting/"><u>Resolved: How to Fix a Persistent 'Loading' Issue During Discord Broadcasting</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-saving-apple-maps-previews-for-offline-use-on-iphone-and-ipad/"><u>Step-by-Step Tutorial: Saving Apple Maps Previews for Offline Use on iPhone & iPad</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-potential-in-additive-layered-manufacturing-via-chatgpt/"><u>Unlock Potential in Additive Layered Manufacturing via ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-tool-rules-the-translation-game-chatgpt-vs-google-translate/"><u>Which Tool Rules the Translation Game? ChatGPT Vs. Google Translate</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-crafting-inspiring-interview-experiences/"><u>[Updated] 2024 Approved Crafting Inspiring Interview Experiences</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-melodic-minutes-streamlined-strategies-for-viral-music-on-youtub/"><u>[Updated] Melodic Minutes Streamlined Strategies for Viral Music on YouTub</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tap-into-endless-stock-imagery-through-favorite-4-youtube-vids/"><u>2024 Approved Tap Into Endless Stock Imagery Through Favorite 4 Youtube Vids</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-start-up-sequence-of-windows-os/"><u>Decoding the Start-Up Sequence of Windows OS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-5-youtube-link-shortener-you-must-try/"><u>In 2024, Top 5 YouTube Link Shortener You Must Try</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-iphone-connectivity-problems-with-chatgpt-a-guide-to-9-key-tips/"><u>Overcoming iPhone Connectivity Problems with ChatGPT: A Guide to 9 Key Tips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/perfect-drone-companions-for-skilled-pilots-top-5/"><u>Perfect Drone Companions for Skilled Pilots (Top 5)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/proton-vpn-extension-your-gateway-to-secure-browsing/"><u>Proton VPN Extension: Your Gateway to Secure Browsing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguard-your-information-the-importance-of-not-relying-on-chatgpt-for-personal-details/"><u>Safeguard Your Information: The Importance of Not Relying on ChatGPT for Personal Details</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/scam-alert-fake-gpt-programs-may-lead-to-privacy-breaches/"><u>Scam Alert: Fake GPT Programs May Lead to Privacy Breaches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-activating-ai-capabilities-in-bing-app-on-android-platforms/"><u>Step-by-Step Tutorial: Activating AI Capabilities in Bing App on Android Platforms</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/streaming-showdown-netflix-apple-tvplus-and-disneyplus-compared-who-takes-the-crown/"><u>Streaming Showdown: Netflix, Apple TV+ & Disney+ Compared - Who Takes the Crown?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-routine-with-chatgpt-explore-9-key-methods/"><u>Streamline Your Routine with ChatGPT: Explore 9 Key Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-artisans-companion-how-chatgpt-enhances-your-story-crafting-abilities/"><u>The Artisan's Companion: How ChatGPT Enhances Your Story Crafting Abilities</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-2024-scanners-polices-choice-revealed/"><u>Top 2024 Scanners: Police's Choice Revealed</u></a></li>
 </ul></div>
 

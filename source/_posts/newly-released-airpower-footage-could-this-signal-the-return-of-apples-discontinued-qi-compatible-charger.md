@@ -1,7 +1,7 @@
 ---
 title: "Newly Released AirPower Footage: Could This Signal the Return of Apple's Discontinued Qi-Compatible Charger?"
-date: 2024-10-13T18:18:49.635Z
-updated: 2024-10-15T23:37:21.869Z
+date: 2024-10-19T20:50:23.411Z
+updated: 2024-10-21T16:56:14.384Z
 tags:
   - apple
 categories:
@@ -41,16 +41,10 @@ I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 With configurations ranging from $999 to $2,599, keep in mind that the higher storage tiers (1TB and 2TB) also come with double the RAM (16GB vs. 8GB) and an extra CPU core. It's a subtle, under-the-hood difference that's easy to miss, especially when cross-shopping [between iPad models](https://www.zdnet.com/article/best-ipad/). If you can use the greater compute, have an offline-heavy workflow, and/or want the most future-proofed iPad on the market, it's worth the upcharge. Otherwise, the base 11- or 13-inch model will serve you just fine, as they have for me.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -68,10 +62,10 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the iPad Pro (2024)
@@ -79,13 +73,6 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 Over the past week and a half, I've used (or attempted to use) the 11-inch iPad Pro as my primary computer for work and as a secondary, entertainment-only device. When it wasn't paired to a Wi-Fi connection 90% of the time, it ran off my phone's T-Mobile hotspot. While Apple sells an [LTE version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) of the iPad Pro, my primary testing grounds for the device have been at home, a local café, and my work office -- nowhere adventurous enough to justify the always-connected upgrade.
 
 I also paired the iPad with Apple's revamped [Magic Keyboard](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR03LL%2FA%2Fmagic-keyboard-for-ipad-pro-11%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The $299 starting price gave me pause when I first checked out the accessory, but the thinner, lighter aluminum form factor, larger trackpad, and a new row of function keys this year make the keyboard case more essential than ever for the full iPad experience.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What are the best features of the iPad Pro (2024)?
 
@@ -125,6 +112,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What I'd like to see in the next model
 
 **More flexible software:** The limitations of iPadOS remain with every generation of iPad reviewed; I can talk all day about how lovely it'd be to have native apps that give me something remotely close to their desktop counterparts or how every iPadOS update feels like another small step towards an ever-distant [touchscreen MacBook dream](https://www.zdnet.com/article/touchscreen-macbook-4-reasons-why-we-love-the-idea-and-4-reasons-why-we-dont/).
@@ -150,16 +144,10 @@ Apple's tablet lineup is ultimately (and has always been) confined by an operati
 Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) is, for all intents and purposes, an iPad -- a tablet you carry around for getting certain tasks done and for consuming content. For many, being the [best tablet](https://www.zdnet.com/article/best-tablet/) on the market -- not the [best laptop or PC](https://www.zdnet.com/article/best-laptop/) \-- is more than enough.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -196,22 +184,19 @@ Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-smooth-processes-for-recording-online-meetings-with-gotomeeting/"><u>[New] 2024 Approved Smooth Processes for Recording Online Meetings with GoToMeeting</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/amers-sound-showdown-the-top-5-headset-list-for-2024/"><u>[New] Gamers' Sound Showdown The Top 5 Headset List for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-best-asmr-apps-for-android-and-ios-you-should-know/"><u>2024 Approved Best ASMR Apps for Android and iOS You Should Know</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-muse-tips-for-writing-and-publishing-a-book-of-poems/"><u>ChatGPT as Your Muse: Tips for Writing and Publishing a Book of Poems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-unavailable-discover-top-5-methods-to-confirm-its-status/"><u>ChatGPT Unavailable? Discover Top 5 Methods to Confirm Its Status</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-smart-ai-solutions-with-gpt-3-in-the-realm-of-openai-playground/"><u>Crafting Smart AI Solutions with GPT-3 in the Realm of OpenAI Playground</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-office-email-efficacy-the-ultimate-guide-to-using-chatgpt-for-challenging-duty-communications/"><u>Enhancing Office Email Efficacy: The Ultimate Guide to Using ChatGPT for Challenging Duty Communications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/grasping-ai-vulnerability-demystifying-prompt-injections/"><u>Grasping AI Vulnerability: Demystifying Prompt Injections</u></a></li>
-<li><a href="https://driver-download.techidaily.com/improve-your-workstation-by-updating-lenovos-tb3-docking-solutions/"><u>Improve Your Workstation by Updating Lenovo's TB3 Docking Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcome-iphones-obstacles-with-these-chatgpt-fixes/"><u>Overcome iPhone's Obstacles with These ChatGPT Fixes</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-google-pixel-8-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Google Pixel 8 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/snapchat-my-ai-the-6-significant-aspects-you-overlooked/"><u>Snapchat My AI: The 6 Significant Aspects You Overlooked</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/idden-dynamics-of-live-video-images-on-youtube/"><u>The Hidden Dynamics of Live Video Images on YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-comparative-showdown-for-creativity-in-bots/"><u>The Ultimate Comparative Showdown for Creativity in Bots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/to-write-creatively-with-chatgpt-examining-its-strengths-and-weaknesses/"><u>To Write Creatively with ChatGPT: Examining Its Strengths and Weaknesses</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-analysis-of-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Latest Hardware</u></a></li>
-<li><a href="https://media-tips.techidaily.com/zero-cost-video-players-compatible-with-flv-and-modern-html5-streams/"><u>Zero Cost Video Players: Compatible with Flv and Modern HTML5 Streams</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/iy-movie-making-youtubes-boutique-method-for-2024/"><u>[New] DIY Movie Making YouTube's Boutique Method for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-cut-rate-video-upgrade-turning-fb-videos-into-mp4-hd1080p/"><u>2024 Approved Cut-Rate Video Upgrade Turning FB Videos Into MP4 HD/1080P</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-snapchat-zooming-in-photos-and-videos/"><u>2024 Approved Mastering Snapchat Zooming in Photos & Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-of-radio-drama-crafting/"><u>2024 Approved Pinnacle of Radio Drama Crafting</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-mobile-charger-alternatives-2024s-handy-companion-devices-ranked/"><u>Best Mobile Charger Alternatives - 2024'S Handy Companion Devices Ranked</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-the-power-of-fresh-data-understanding-its-consequences-for-everyone/"><u>ChatGPT and the Power of Fresh Data: Understanding Its Consequences for Everyone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-guide-to-consistent-meditation-habits/"><u>ChatGPT as a Guide to Consistent Meditation Habits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-powered-solutions-overcoming-spreadsheet-anxiety-and-excelling-at-excel/"><u>ChatGPT-Powered Solutions: Overcoming Spreadsheet Anxiety & Excelling at Excel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-crafting-protective-custom-exercise-regimens/"><u>ChatGPT: Crafting Protective, Custom Exercise Regimens</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-right-language-ai-deciding-between-bing-and-gpt-3/"><u>Choosing the Right Language AI: Deciding Between Bing and GPT-3</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/direct-video-access-top-5-ways-to-transfer-igtv-content-for-2024/"><u>Direct Video Access Top 5 Ways to Transfer IGTV Content for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-clean-install-windows-8-pro-upgrade/"><u>How to Clean Install Windows 8 Pro Upgrade</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-t2x-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo T2x 5G</u></a></li>
 </ul></div>
 

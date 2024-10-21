@@ -1,7 +1,7 @@
 ---
 title: "High-End LAPTOP Clash: Samsung Galaxy Book 2 Ultra versus Apple MacBook Pro - In-Depth Comparison on ZDNet"
-date: 2024-10-11T04:40:29.899Z
-updated: 2024-10-16T01:30:15.132Z
+date: 2024-10-17T18:43:20.253Z
+updated: 2024-10-21T19:32:04.326Z
 tags:
   - apple
 categories:
@@ -49,6 +49,13 @@ There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic
 
 Samsung
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  1\. You're committed to Samsung's ecosystem
 
 ### Samsung Unpacked
@@ -82,15 +89,22 @@ The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook 
 Apple
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You, or your family, are committed to Apple's ecosystem
 
 This is the other side of the coin. Apple was among the first, and might still be the best, at giving you reasons to stay locked into its ecosystem. On an individual level, this includes things like the ability to share screens and inputs across devices and tricks like [Continuity Camera, which lets you use your iPhone as an advanced webcam](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/), or Apple's excellent cross-device messaging. 
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -108,28 +122,15 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 **Also:** [**Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which Android flagship is king?**](https://www.zdnet.com/article/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're a content creator looking for a mobile desktop replacement
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  3\. You need a ton of RAM or storage
 
@@ -138,13 +139,6 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 **Also: [Apple's new MacBook Pro with M2 Pro chip is a compelling package](https://www.zdnet.com/article/apples-new-macbook-pro-with-m2-pro-chip-is-a-compelling-package/)**
 
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -199,24 +193,14 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-breaking-down-sony-bdp-s6700-updates-for-2024/"><u>[Updated] Breaking Down Sony BDP-S6700 Updates for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-a-guide-to-vimeo-video-host-and-share-site/"><u>[Updated] In 2024, A Guide to Vimeo Video Host & Share Site</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-stepwise-guide-to-establishing-a-seamless-skype-discussion-among-multiple-users-in-different-systems/"><u>[Updated] Stepwise Guide to Establishing a Seamless Skype Discussion Among Multiple Users in Different Systems</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-clarity-crusade-enhancing-video-in-zoom-meetings/"><u>2024 Approved Clarity Crusade Enhancing Video in Zoom Meetings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-unleash-your-videos-full-potential-with-these-seo-mastery-tips/"><u>2024 Approved Unleash Your Videos' Full Potential with These SEO Mastery Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-ai-language-models-like-chatgpt-be-manipulated-for-generating-harmful-software/"><u>Can AI Language Models Like ChatGPT Be Manipulated for Generating Harmful Software?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbots-explained-the-tech-thats-shaping-interactive-futures/"><u>Chatbots Explained: The Tech That's Shaping Interactive Futures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creative-tips-infusing-your-dandd-campaigns-with-ai-assistance-from-chatgpt/"><u>Creative Tips: Infusing Your D&D Campaigns with AI Assistance From ChatGPT</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/editing-videos-on-mac-os-x-yosemite-a-beginners-guide-for-2024/"><u>Editing Videos on Mac OS X Yosemite A Beginners Guide for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-tech-with-openai-introducing-the-cutting-edge-gpt-4-artificial-intelligence-solution/"><u>Elevate Tech with OpenAI - Introducing the Cutting-Edge GPT-4 Artificial Intelligence Solution</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-eq-through-ais-perspective-on-social-dynamics/"><u>Enhance EQ Through AI's Perspective on Social Dynamics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-ultimate-10-replacements-for-chatgpt-in-ai-communication/"><u>Exploring the Ultimate 10 Replacements for ChatGPT in AI Communication</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/five-notorious-chatgpt-schemes-you-should-know-about/"><u>Five Notorious ChatGPT Schemes You Should Know About</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-text-to-talk-chatgpt-podcast-creation/"><u>From Text to Talk: ChatGPT Podcast Creation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-secure-your-website-from-automated-crawlers-like-openai/"><u>How to Secure Your Website From Automated Crawlers Like OpenAI</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-v30-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo V30 Pro Phone FRP Lock</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/kids-and-newbies-the-best-10-drones-out-there/"><u>Kids and Newbies The Best 10 Drones Out There</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-quick-epson-xp-440-driver-download-and-versioning-tips/"><u>Step-by-Step: Quick Epson XP-440 Driver Download & Versioning Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transforming-zoom-calls-enhance-your-visuals-here-for-2024/"><u>Transforming Zoom Calls Enhance Your Visuals Here for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-tonal-transformation-for-android-users/"><u>[New] The Ultimate Tonal Transformation for Android Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-learning-leaders-list-discovering-the-top-10-teacher-tools/"><u>2024 Approved Learning Leaders’ List Discovering the Top 10 Teacher Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-motorola-edge-40-neo-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Motorola Edge 40 Neo Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-teamwork-on-apple-pages-using-icloud-insights/"><u>Effective Strategies for Teamwork on Apple Pages Using iCloud - Insights</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-from-noisy-to-nice-a-comprehensive-guide-to-audio-post-production-in-fcpx/"><u>New In 2024, From Noisy to Nice A Comprehensive Guide to Audio Post-Production in FCPX</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-overcoming-iphone-voicemail-malfunctions-in-9-easy-steps/"><u>Quick Fixes: Overcoming iPhone Voicemail Malfunctions in 9 Easy Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-essential-benefits-of-using-apples-official-support-pages-insights/"><u>Top 5 Essential Benefits of Using Apple's Official Support Pages: Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-vpn-apps-for-apple-devices-comprehensive-reviews-and-comparisons-by-experts-zdnet/"><u>Top-Rated VPN Apps for Apple Devices: Comprehensive Reviews & Comparisons by Experts - ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-wireless-charging-pads-thoroughly-reviewed-by-tech-experts/"><u>Top-Rated Wireless Charging Pads : Thoroughly Reviewed by Tech Experts</u></a></li>
 </ul></div>
 

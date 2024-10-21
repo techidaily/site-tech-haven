@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: How One Simple Tactic Can Clear Out Clutter Without Creating New Accounts or Strict Filters – Learn the Secrets with ZDNet"
-date: 2024-10-15T01:37:45.829Z
-updated: 2024-10-16T06:22:33.699Z
+date: 2024-10-19T22:07:35.356Z
+updated: 2024-10-21T17:54:32.911Z
 tags:
   - apple
 categories:
@@ -61,16 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -82,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -99,10 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -116,10 +110,16 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -160,21 +160,18 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapstreak-savvy-guidance-to-prevent-interruptions/"><u>[New] In 2024, Snapstreak Savvy Guidance to Prevent Interruptions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-math-behind-making-money-youtubes-viewer-insights/"><u>[New] In 2024, The Math Behind Making Money YouTube’s Viewer Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unrivaled-gaming-monitors-at-4k-quality/"><u>[New] Unrivaled Gaming Monitors at 4K Quality</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-masterful-digital-brushstrokes-essential-top-10-android-graphics-apps/"><u>[Updated] 2024 Approved Masterful Digital Brushstrokes Essential Top 10 Android Graphics Apps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-transform-speeches-into-animated-videos/"><u>[Updated] In 2024, Transform Speeches Into Animated Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-artificial-intelligence-discover-3-excel-mastery-moves-chatgpt-fails-at/"><u>Beyond Artificial Intelligence: Discover 3 Excel Mastery Moves ChatGPT Fails At</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-communication-with-bing-ai-quick-install-tutorial-for-android-keyboards/"><u>Boost Communication with Bing AI: Quick Install Tutorial for Android Keyboards</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-deceptive-chrome-add-on-that-hijacks-your-facebook-credentials/"><u>Discover the Deceptive Chrome Add-On That Hijacks Your Facebook Credentials!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discovering-the-latest-innovation-the-dell-p2715q-monitor/"><u>Discovering the Latest Innovation - The Dell P2715Q Monitor</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-these-superior-open-source-platforms-to-craft-stunning-ai-imagery/"><u>Explore These Superior Open Source Platforms to Craft Stunning AI Imagery</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-contrasts-myai-on-snapchat-vs-bing-ai-on-skype-key-differences-unveiled/"><u>Exploring the Contrasts: MyAI on Snapchat Vs. Bing AI on Skype - Key Differences Unveiled</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g13-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G13 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quit-comparing-siri-with-chatgpt-contrast-revealed/"><u>Quit Comparing Siri with ChatGPT: Contrast Revealed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sculpt-your-own-ai-dialogues/"><u>Sculpt Your Own AI Dialogues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/x/"><u>X(以前のツイッター)スペース動画記録に成功しましょう - 誰も気づかないように</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boosting-zoom-screen-sharpness-essential-tips/"><u>[Updated] Boosting Zoom Screen Sharpness Essential Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-transforming-vision-the-astounding-progress-in-mobile-photography-enhanced-by-artificial-intelligence/"><u>1. Transforming Vision: The Astounding Progress in Mobile Photography Enhanced by Artificial Intelligence</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/elite-gaming-recorders-that-offer-more-than-just-fbx-files/"><u>Elite Gaming Recorders That Offer More Than Just FBX Files</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-nokia-c12-plus-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia C12 Plus Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/from-novice-to-pro-the-ultimate-guide-to-gaming-with-kinemaster-app-for-2024/"><u>From Novice to Pro The Ultimate Guide to Gaming with KineMaster App for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oneplus-12r-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass OnePlus 12R FRP</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-leverage-social-blades-platform-for-in-depth-video-analytics/"><u>In 2024, Leverage Social Blade's Platform for In-Depth Video Analytics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-there-a-cost-free-version-of-microsoft-word-available/"><u>Is There a Cost-Free Version of Microsoft Word Available?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-wireless-earbuds-explore-apples-latest-airpods-upgrades-with-cutting-edge-speaker-locator-and-usb-c-compatibility-gizmocentral-report/"><u>Revolutionizing Wireless Earbuds: Explore Apple's Latest AirPods Upgrades with Cutting-Edge Speaker Locator and USB-C Compatibility | GizmoCentral Report</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-iphone-apple-watch-and-ipad-discounts-in-july-2024-exclusive-offers-on-tech-gadgets-zdnet/"><u>Top-Rated iPhone, Apple Watch & iPad Discounts in July 2024 - Exclusive Offers on Tech Gadgets | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-magsafe-wallets-comprehensive-reviews-and-ratings-by-tech-experts/"><u>Top-Rated MagSafe Wallets - Comprehensive Reviews & Ratings by Tech Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-treasure-chest-a-step-by-step-guide-to-split-apples-25-million-dollar-family-sharing-fortune/"><u>Unlocking the Treasure Chest: A Step-by-Step Guide to Split Apple’s 25 Million Dollar Family Sharing Fortune</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-upgrade-unveiling-the-standout-features-of-apples-new-iphone/"><u>Why Upgrade? Unveiling the Standout Features of Apple's New iPhone</u></a></li>
 </ul></div>
 

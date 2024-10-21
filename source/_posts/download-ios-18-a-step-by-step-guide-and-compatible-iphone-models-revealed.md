@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: A Step-by-Step Guide and Compatible iPhone Models Revealed"
-date: 2024-10-10T05:39:48.146Z
-updated: 2024-10-15T20:57:05.817Z
+date: 2024-10-18T22:01:48.604Z
+updated: 2024-10-21T18:38:17.015Z
 tags:
   - apple
 categories:
@@ -33,15 +33,22 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -63,24 +70,18 @@ After installing the latest iOS update, your iPhone will restart.
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -89,13 +90,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -125,10 +119,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -175,17 +169,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-exploring-funimates-full-potential-for-2024/"><u>[Updated] Exploring Funimate's Full Potential for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-an-insiders-view-on-creating-effective-slug-lines/"><u>2024 Approved An Insider's View on Creating Effective Slug Lines</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills/"><u>2024 Approved Speaking Like a Pro Tips to Upgrade Your Google Meet Skills</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/cookiebot-enhanced-optimized-site-performance-through-advanced-tracking/"><u>Cookiebot-Enhanced: Optimized Site Performance Through Advanced Tracking</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-claude-2-a-comprehensive-guide-on-its-capabilities/"><u>Exploring Claude 2: A Comprehensive Guide on Its Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-truthgpts-launch-inside-a-police-search-at-mullvad-vpn-and-top-free-gaming-on-pc-with-mechanical-keyboard-insights/"><u>Exploring TruthGPT's Launch: Inside a Police Search at Mullvad VPN & Top FREE Gaming on PC with Mechanical Keyboard Insights</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-magic-5-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor Magic 5 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-simplified-customization-for-your-youtube-channel-url/"><u>In 2024, Simplified Customization for Your YouTube Channel URL</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-writing-tips-11-powerful-gpt-3-queries-to-shape-book-characters/"><u>Innovative Writing Tips: 11 Powerful GPT-3 Queries to Shape Book Characters</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-tier-android-video-and-image-recording-tools-reviewed/"><u>Top-Tier Android Video & Image Recording Tools Reviewed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-gptjailbreaking-failures-7-insights/"><u>Unraveling GPTJailbreaking Failures: 7 Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-is-ai-transfer-learning-and-how-does-it-work/"><u>What Is AI Transfer Learning and How Does It Work?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-cityscapes-and-nature-the-role-of-green-spaces-for-2024/"><u>[New] Harmonizing Cityscapes and Nature The Role of Green Spaces for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-effective-methods-to-document-facetime-calls/"><u>[New] In 2024, Effective Methods to Document FaceTime Calls</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-preventing-frames-gaps-for-flawless-video-captures-for-2024/"><u>[New] Preventing Frames Gaps for Flawless Video Captures for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revamped-podcast-chats-attracting-true-fans/"><u>2024 Approved Revamped Podcast Chats Attracting True Fans</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/2024s-elite-iphone-selection-in-depth-expert-analysis-and-ratings/"><u>2024'S Elite iPhone Selection: In-Depth Expert Analysis and Ratings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/affordable-refurbished-apple-tv-and-siri-remote-setup-at-just-75-insider-look-from-zdnet-ahead-of-festive-rush/"><u>Affordable Refurbished Apple TV and Siri Remote Setup at Just $75 – Insider Look From ZDNET Ahead of Festive Rush</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-iphone-performance-by-clearing-clutter-master-these-tricks-and-save-precious-memory-space-now/"><u>Boosting iPhone Performance by Clearing Clutter: Master These Tricks & Save Precious Memory Space Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-the-latest-choosing-between-m3-and-m2-macbook-air-models-your-ultimate-guide/"><u>Comparing the Latest: Choosing Between M3 and M2 MacBook Air Models - Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-7-key-attractions-that-keep-people-coming-back-for-more-apple-vision-pro-as-revealed-on-reddit/"><u>Discover the 7 Key Attractions That Keep People Coming Back for More Apple Vision Pro, as Revealed on Reddit</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-code-8014-in-dead-by-daylight-quick-fixes-and-solutions/"><u>Error Code 8014 in Dead by Daylight - Quick Fixes and Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exclusive-offer-alert-get-an-apple-watch-series-10-at-only-99-with-a-preorder-from-best-buy-the-step-by-step-tutorial-zdnet/"><u>Exclusive Offer Alert! Get an Apple Watch Series 10 at Only $99 with a Preorder From Best Buy – The Step-by-Step Tutorial | ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-lava-storm-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Lava Storm 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitech-g613-software-latest-version-download-and-installation-guide-for-windows-os/"><u>Logitech G613 Software: Latest Version Download and Installation Guide for Windows OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-purchase-of-apple-vision-pro-expert-advice-on-optimal-facial-scans-and-hidden-strategies/"><u>Mastering the Purchase of Apple Vision Pro: Expert Advice on Optimal Facial Scans & Hidden Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/pioneering-easy-audio-alterations-for-competitive-play/"><u>Pioneering Easy Audio Alterations for Competitive Play</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/preserve-your-health-a-step-by-step-tutorial-on-deep-cleansing-and-disinfecting-your-airpods-why-its-crucial/"><u>Preserve Your Health: A Step-by-Step Tutorial on Deep Cleansing and Disinfecting Your AirPods (Why It's Crucial)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-innovative-power-of-the-mobvoi-ticwatch-pro-4g-your-go-to-smartwatch-reviewed/"><u>The Innovative Power of the Mobvoi Ticwatch Pro 4G: Your Go-To Smartwatch Reviewed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-gamer-friendly-smartphones-a-comprehensive-review-by-techradar/"><u>Top 5 Gamer-Friendly Smartphones : A Comprehensive Review by TechRadar</u></a></li>
 </ul></div>
 

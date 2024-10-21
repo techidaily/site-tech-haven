@@ -1,7 +1,7 @@
 ---
 title: "Fitness Meets Tech: Discover How the New AirPods Pro Track Your Workout Heart Rate - Insights"
-date: 2024-10-13T23:18:18.119Z
-updated: 2024-10-16T02:28:28.074Z
+date: 2024-10-15T16:22:51.347Z
+updated: 2024-10-21T22:41:58.886Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ How and why did I come to those conclusions? Let's dig in.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Familiar design, with one exception
 
 Aside from the color options, the iPhone 14 is nearly identical to the iPhone 13 in design. There's really only one noticeable change to my eye, and that's the lack of a SIM card tray on the iPhone 14\. Apple has made the decision to go all-in on [eSIM, the digital version](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/) of the small plastic card we've all moved between phones. 
@@ -79,28 +86,15 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance and battery life
 
 If you visit [Apple's comparison tool](https://www.apple.com/iphone/compare/?modelList=iphone13,iphone14,iphone14plus), pitting the [iPhone 13 against the iPhone 14](https://www.zdnet.com/article/iphone-13-vs-iphone-14/), you'll notice that the phones use the same A15 Bionic processor. This is the first time Apple has used the previous-generation processor in a new iPhone model, with the iPhone maker relying on the already solid performance the A15 Bionic brought to the iPhone 13\. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -122,6 +116,13 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Camera upgrades
 
 The biggest changes Apple made to the iPhone 14 all have to do with the camera. Apple calls the iPhone 14's camera system an "advanced dual-camera system," thanks in part to some hardware upgrades but also because of some [iOS camera software features](https://www.zdnet.com/article/ios-16-has-a-hidden-photoshop-like-feature-where-to-find-it-and-how-to-use-it-and-why-youre-going-to-love-it/) that are new this year. 
@@ -141,10 +142,10 @@ Jason Cipriani/ZDNET
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Safety first
@@ -156,19 +157,6 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 [Buy the Apple iPhone 14 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-14%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -206,20 +194,24 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-boomerangs-demystified-your-comprehensive-guide/"><u>[New] Snapchat Boomerangs Demystified Your Comprehensive Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-use-of-snap-in-zoom-webinar-for-2024/"><u>[Updated] Efficient Use of Snap in Zoom Webinar for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/best-complimentary-applications-for-reliable-data-backup-on-windows-preinstall-assistant/"><u>Best Complimentary Applications for Reliable Data Backup on Windows Preinstall Assistant</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-between-copybot-basic-and-pro-key-features-compared/"><u>Choosing Between Copybot Basic & Pro: Key Features Compared</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-the-world-how-facebook-twitter-instagram-and-youtube-shape-our-online-experiences/"><u>Connecting the World: How Facebook, Twitter, Instagram & YouTube Shape Our Online Experiences</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-the-legitimacy-of-truthgpt-tokens/"><u>Evaluating the Legitimacy of TruthGPT Tokens</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-superior-functionalities-chatgpt-on-pc-beats-website-experience/"><u>Exploring Superior Functionalities: ChatGPT on PC Beats Website Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-9-secrets-to-unlocking-the-full-potential-of-window-11/"><u>In 2024, 9 Secrets to Unlocking the Full Potential of WINDOW 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-samsung-galaxy-a14-4g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Samsung Galaxy A14 4G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-experience-a-bundle-of-9-whole-film-christmas-treasures-for-free/"><u>In 2024, Experience a Bundle of 9 Whole-Film Christmas Treasures for Free</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-10-best-apps-to-create-mind-bending-glitch-art-videos-on-mobile-for-2024/"><u>New 10 Best Apps to Create Mind-Bending Glitch Art Videos on Mobile for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reliable-methods-for-assessing-health-information-sourced-from-chatbots-and-ai-entities/"><u>Reliable Methods for Assessing Health Information Sourced From Chatbots and AI Entities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/trustworthy-health-insights-ensuring-accuracy-when-interacting-with-chatgpt-and-similar-tools/"><u>Trustworthy Health Insights: Ensuring Accuracy when Interacting with ChatGPT & Similar Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-6-free-substitutes-for-the-popular-openai-sora-platform/"><u>Unveiling 6 Free Substitutes for the Popular OpenAI Sora Platform</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-seamless-instagram-to-mp4-conversion-on-any-operating-system/"><u>[New] Seamless Instagram to MP4 Conversion on Any Operating System</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-insightful-comparison-of-triller-and-tiktoks-content-models-max-156-chars/"><u>2024 Approved Insightful Comparison of Triller and TikTok's Content Models (Max 156 Chars)</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comment-connecter-votre-explorateur-de-fichiers-avec-google-drive/"><u>Comment Connecter Votre Explorateur De Fichiers Avec Google Drive</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experts-choice-of-ultimate-small-tablets-in-2-2024-in-depth-analysis-and-ratings-zdnet/"><u>Experts' Choice of Ultimate Small Tablets in 2# # 2024: In-Depth Analysis and Ratings | ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/features-face-off-deciding-between-the-latest-ipad-pro-models-for-optimal-performance-cnet-news/"><u>Features Face-Off: Deciding Between the Latest iPad Pro Models for Optimal Performance | CNET News</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/global-sales-rankings-reveal-iphones-unprecedented-sweep-of-top-7-slots-analyzed-by-zdnet/"><u>Global Sales Rankings Reveal iPhone's Unprecedented Sweep of Top 7 Slots, Analyzed by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-apple-maintains-tight-regulations-on-european-iphone-customizations-insights/"><u>How Apple Maintains Tight Regulations on European iPhone Customizations: Insights</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-14-pro-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 14 Pro?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-how-to-maximize-your-virtual-engagements-using-obs-and-zoom/"><u>In 2024, How to Maximize Your Virtual Engagements Using OBS & Zoom</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-compatible-drivers-for-your-nvidia-geforce-rtx-2070-windows-supported-versions/"><u>Latest Compatible Drivers for Your NVIDIA Geforce RTX 2070 - Windows Supported Versions.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/strategic-steps-to-elevate-your-podcast-imagery/"><u>Strategic Steps to Elevate Your Podcast Imagery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-expert-insights-on-computer-components/"><u>Tom's Tech Review: Expert Insights on Computer Components</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-gadget-insights-t17239724901692/"><u>Tom's Tech Reviews: Comprehensive Gadget Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-iphone-12-and-12-pro-protectors-2023s-ultimate-guide-by-zdnet/"><u>Top-Rated iPhone 12 & 12 Pro Protectors: 2023'S Ultimate Guide by ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-protective-covers-for-iphone-12-and-12-pro-exclusive-picks-from-2023-featured/"><u>Top-Rated Protective Covers for iPhone 12 & 12 Pro: Exclusive Picks From 2023 - Featured</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-activating-and-utilizing-macs-hot-corners-benefits-explained/"><u>Ultimate Guide: Activating & Utilizing Mac's Hot Corners - Benefits Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-of-new-airpower-video-sparks-questions-about-revival-of-apples-discontinued-wireless-charging-pad-with-qi-technology-zdnet/"><u>Unveiling of New AirPower Video Sparks Questions About Revival of Apple's Discontinued Wireless Charging Pad with Qi Technology | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-ultimate-protection-testing-apples-strongest-iphone-case-with-an-innovative-safety-mechanism-a-deep-dive-by-zdnet/"><u>Unveiling the Ultimate Protection: Testing Apple's Strongest iPhone Case with an Innovative Safety Mechanism - A Deep Dive by ZDNet</u></a></li>
 </ul></div>
 

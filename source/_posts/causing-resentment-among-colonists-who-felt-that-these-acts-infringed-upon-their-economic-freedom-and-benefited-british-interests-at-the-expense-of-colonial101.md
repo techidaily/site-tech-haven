@@ -1,7 +1,7 @@
 ---
 title: Causing Resentment Among Colonists Who Felt that These Acts Infringed upon Their Economic Freedom and Benefited British Interests at the Expense of Colonial Development.
-date: 2024-10-15T07:26:51.648Z
-updated: 2024-10-16T08:15:20.236Z
+date: 2024-10-20T17:19:43.154Z
+updated: 2024-10-21T16:49:26.462Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,13 +67,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -99,6 +85,19 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -125,10 +124,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -141,6 +140,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -159,13 +165,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -173,6 +172,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,24 +224,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-picsart-edge-perfecting-face-movements-with-blur-techniques/"><u>[New] Picsart Edge Perfecting Face Movements with Blur Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-9-steps-to-combat-chromes-video-blackout/"><u>[Updated] 9 Steps to Combat Chrome's Video Blackout</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-creating-cohesive-content-with-soundtracks-on-instagram-for-2024/"><u>[Updated] Creating Cohesive Content with Soundtracks on Instagram for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-podcasts-for-apple-podcasts/"><u>[Updated] Streamline Your Podcasts for Apple Podcasts</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-poco-m6-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Poco M6 5G</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/begin-using-microsofts-bing-with-ai-step-by-step-registration-guide/"><u>Begin Using Microsoft's Bing with AI: Step-by-Step Registration Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/behind-the-screen-9-debunked-beliefs-about-artificial-intelligence-bots/"><u>Behind the Screen: 9 Debunked Beliefs About Artificial Intelligence Bots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-gpt-the-best-programming-aids-outside-chatgpt/"><u>Beyond GPT: The Best Programming Aids Outside ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-free-travel-arranger-applications-get-swift-smart-itineraries-now/"><u>Essential Free Travel Arranger Applications: Get Swift, Smart Itineraries Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gptzero-demystified-how-this-innovation-helps-you-detect-fake-written-content/"><u>GPTZero Demystified – How This Innovation Helps You Detect Fake Written Content</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-download-of-latest-drivers-for-lenovo-thinkpad-t430-on-windows-1187-platforms-comprehensive-guide/"><u>Hassle-Free Download of Latest Drivers for Lenovo ThinkPad T430 on Windows 11/8/7 Platforms – Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-chatgpt-impact-the-future-of-search-engine-dominance/"><u>How Does ChatGPT Impact the Future of Search Engine Dominance?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-avoid-the-quake-optimal-tripod-placement-for-stellar-vlogs/"><u>In 2024, Avoid the Quake Optimal Tripod Placement for Stellar Vlogs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-overwatch-the-ultimate-guide-to-recording-gameplay/"><u>In 2024, Overwatch The Ultimate Guide to Recording Gameplay</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-nokia-c110-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Nokia C110 Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/malware-mayhem-spot-and-skip-googles-misleading-bard-app/"><u>Malware Mayhem: Spot and Skip Google's Misleading Bard App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/predictive-powers-how-does-chatgpt-compare-with-magazine-zodiac-readings/"><u>Predictive Powers: How Does ChatGPT Compare with Magazine Zodiac Readings?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/preserve-privacy-with-ease-a-guide-to-discreetly-managing-your-chatgpt-conversations/"><u>Preserve Privacy with Ease: A Guide to Discreetly Managing Your ChatGPT Conversations</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-s17t-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo S17t</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-maximizing-engagement-the-power-of-tailored-cards-and-ends-on-yt/"><u>[New] Maximizing Engagement The Power of Tailored Cards & Ends on YT</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-youtube-comeback-kid-jake-pauls-story/"><u>[New] The YouTube Comeback Kid Jake Paul’s Story</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expeditious-approaches-to-slide-storage/"><u>[Updated] 2024 Approved Expeditious Approaches to Slide Storage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-co-marketing-brands-and-youtubes-dynamic-duo/"><u>In 2024, Co-Marketing Brands and YouTube's Dynamic Duo</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-14-ultrafrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 14 UltraFRP Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/organizing-chatgpt-discussions-mastering-the-art-of-folder-management/"><u>Organizing ChatGPT Discussions: Mastering the Art of Folder Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-battle-of-titans-how-gpt-stands-against-bert-in-ai-language-modeling/"><u>The Battle of Titans: How GPT Stands Against BERT in AI Language Modeling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-dawn-of-accessible-ai-with-gpt-4-still-holding-6-strengths-for-plus-members/"><u>The Dawn of Accessible AI with GPT-4, Still Holding 6 Strengths for Plus Members.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-major-pitfalls-of-interacting-with-chatgpt-by-openai/"><u>The Major Pitfalls of Interacting with ChatGPT by OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-tools-for-sharing-and-exporting-your-conversations-with-chatgpt/"><u>Top Tools for Sharing & Exporting Your Conversations with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/turbocharged-ai-how-copilot-makes-it-accessible-and-powerful/"><u>Turbocharged AI: How Copilot Makes It Accessible and Powerful</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-stuck-exe-files-in-windows-systems/"><u>Unlocking Stuck .exe Files in Windows Systems</u></a></li>
 </ul></div>
 

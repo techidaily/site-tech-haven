@@ -1,7 +1,7 @@
 ---
 title: "1. Step-by-Step Guide: Discontinuing Your Apple Music Subscription Independent of iTunes"
-date: 2024-10-11T00:33:12.874Z
-updated: 2024-10-15T18:15:34.612Z
+date: 2024-10-14T22:07:39.808Z
+updated: 2024-10-21T22:28:49.288Z
 tags:
   - apple
 categories:
@@ -36,10 +36,16 @@ But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Ap
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
@@ -59,10 +65,10 @@ David Gewirtz/Screenshot
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
@@ -123,22 +129,24 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-crescendo-to-calmness-premier-asmr-artists/"><u>[New] Crescendo to Calmness Premier ASMR Artists</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-supercharge-your-social-media-experience-with-the-best-chrome-vids-extensions/"><u>[New] In 2024, Supercharge Your Social Media Experience with the Best Chrome Vids Extensions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-secrets-to-finding-excellent-economic-pictures-online/"><u>2024 Approved Secrets to Finding Excellent, Economic Pictures Online</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-the-path-to-profitable-partnership-with-your-audience/"><u>2024 Approved The Path to Profitable Partnership with Your Audience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-impact-are-traditional-student-papers-becoming-redundant/"><u>ChatGPT's Impact: Are Traditional Student Papers Becoming Redundant?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/examining-chatgpt-for-honesty-how-to-tell-if-its-lying-or-telling-you-the-truth/"><u>Examining ChatGPT for Honesty – How to Tell if It's Lying or Telling You the Truth</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-concept-to-characters-integrating-chatgpt-into-game-development/"><u>From Concept to Characters: Integrating ChatGPT Into Game Development</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-apple-iphone-12-pro-max-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Fake GPS On Apple iPhone 12 Pro Max For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-your-job-at-risk-exploring-the-impact-of-chatgpt-in-various-workplace-scenarios/"><u>Is Your Job at Risk? Exploring the Impact of ChatGPT in Various Workplace Scenarios</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/outriders-troubleshooting-addressing-and-correcting-in-game-lags-efficiently/"><u>Outriders Troubleshooting: Addressing and Correcting In-Game Lags Efficiently</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/pro-camera-professional-shots-fixing-shaky-gopro-recording-for-2024/"><u>Pro Camera, Professional Shots Fixing Shaky GoPro Recording for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-flaws-how-not-to-depend-exclusively-on-tools-like-zerogpt-for-ai-verification/"><u>Understanding the Flaws: How Not to Depend Exclusively on Tools Like ZeroGPT for AI Verification</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-gpt-to-streamline-operations/"><u>Utilizing GPT to Streamline Operations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/"><u>Why Is ChatGPT-4 So Slow Compared to ChatGPT-3.5?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zerogpts-shortcomings-how-relying-on-ai-for-deception-detection-fails-in-4-scenarios/"><u>ZeroGPT's Shortcomings: How Relying on AI for Deception Detection Fails in 4 Scenarios</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-best-instagram-highlights-covers-apps-for-2024/"><u>[New] Best Instagram Highlights Covers Apps for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-frontiers-in-3d-visualization-tech/"><u>[New] Frontiers in 3D Visualization Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-best-tools-in-magix-video-pro-x-for-editors/"><u>[Updated] The Best Tools in Magix Video Pro X for Editors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-the-new-era-of-editing-with-powerdirector-24-edition/"><u>2024 Approved Mastering the New Era of Editing with PowerDirector '24 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-video-driver-crash-on-win1110/"><u>Addressing Video Driver Crash on Win11/10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-google-chrome-to-life-with-windows-11/"><u>Bringing Google Chrome to Life with Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ideal-kids-ipads-our-ultimate-2022-selection-based-on-user-ratings-and-features/"><u>Discover the Ideal Kids' IPads: Our Ultimate 2022 Selection Based on User Ratings and Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-selection-of-prime-deals-save-big-on-hp-apple-and-razer-laptops-in-our-18-pick-guide-zdnets-tech-savvy-picks/"><u>Discover the Ultimate Selection of Prime Deals: Save Big on HP, Apple, and Razer Laptops in Our 18-Pick Guide | ZDNET's Tech Savvy Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/extend-your-apple-watchs-lifespan-with-these-essential-configuration-adjustments-insights/"><u>Extend Your Apple Watch's Lifespan with These Essential Configuration Adjustments, Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fitness-meets-tech-discover-how-the-new-airpods-pro-track-your-workout-heart-rate-insights/"><u>Fitness Meets Tech: Discover How the New AirPods Pro Track Your Workout Heart Rate - Insights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-plot-to-post-a-detailed-guide-to-writing-youtube-videos-for-2024/"><u>From Plot to Post A Detailed Guide to Writing YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-optimizing-your-browsing-mastering-firefoxs-pip/"><u>In 2024, Optimizing Your Browsing Mastering Firefox's PIP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/latest-vs-previous-a-comprehensive-review-of-iphone-16-versus-iphone-e-should-you-update-to-apples-new-model/"><u>Latest Vs. Previous: A Comprehensive Review of iPhone 16 Versus iPhone E - Should You Update to Apple's New Model?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prepare-to-power-up-your-apple-devices-top-anker-chargers-reviewed-by-zdnets-experts/"><u>Prepare to Power Up Your Apple Devices: Top Anker Chargers Reviewed by ZDNet's Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1727785718828-seamless-transfer-of-images-from-google-photos-to-icloud-a-simple-guide/"><u>Seamless Transfer of Images From Google Photos to iCloud – A Simple Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/start-live-webcam-recording-with-vlc-media/"><u>Start Live Webcam Recording with VLC Media</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-keyboards-comprehensive-testing-and-reviews-by-tech-experts-zdnets-selection/"><u>Top-Rated Keyboards : Comprehensive Testing & Reviews by Tech Experts - ZDNet's Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trasforma-i-tuoi-file-m1v-in-mpeg-gratuitamente-con-movavi/"><u>Trasforma I Tuoi File M1V in MPEG Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-prominent-applications-wont-make-it-to-the-apple-vision-pro-lineup-discover-now/"><u>Which Prominent Applications Won't Make It to the Apple Vision Pro Lineup – Discover Now</u></a></li>
 </ul></div>
 

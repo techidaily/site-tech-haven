@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Customize & Optimize Your iPhone Control Center with Expert Advice From ZDNET"
-date: 2024-10-14T00:40:37.304Z
-updated: 2024-10-16T08:17:57.480Z
+date: 2024-10-14T16:08:13.940Z
+updated: 2024-10-21T16:57:30.481Z
 tags:
   - apple
 categories:
@@ -29,15 +29,28 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -47,13 +60,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -61,6 +67,13 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -78,13 +91,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -100,10 +106,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,20 +154,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/1716069580706-updated-2024-approved-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>[Updated] 2024 Approved PC Games Memory - Freeze and Capture 6 Ways to Win!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-disrupted-microphone-input-in-valorant-windows/"><u>Addressing Disrupted Microphone Input in Valorant (Windows)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-grok-ai-insights-intentions-and-investment-from-elon/"><u>Breaking Down Grok AI: Insights, Intentions & Investment From Elon</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/curtailing-fictional-insights-from-ai-through-precise-prompting/"><u>Curtailing Fictional Insights From AI Through Precise Prompting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-top-7-real-world-applications-of-chatgpt-today/"><u>Discover the Top 7 Real-World Applications of ChatGPT Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-enroll-in-chatgpt-plugin-upgrades-now/"><u>How to Enroll in ChatGPT Plugin Upgrades Now!</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-pro-tips-for-efficient-message-reactions-on-discord/"><u>In 2024, Pro Tips for Efficient Message Reactions on Discord</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/inexpensive-pc-display-recorder-apps/"><u>Inexpensive PC Display Recorder Apps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/market-leading-6-social-channels-for-business-advancement-for-2024/"><u>Market-Leading 6 Social Channels for Business Advancement for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-ai-communication-best-tools-for-crafting-ideal-ai-prompts/"><u>Mastering AI Communication: Best Tools for Crafting Ideal AI Prompts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategic-advancement-in-the-office-how-chatgpt-can-revamp-your-work-processes/"><u>Strategic Advancement in the Office: How ChatGPT Can Revamp Your Work Processes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-emergence-of-ai-powered-search-shifting-paradigms-in-website-visibility-and-online-traffic-generation/"><u>The Emergence of AI-Powered Search: Shifting Paradigms in Website Visibility and Online Traffic Generation</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-revolutionary-gamepad-repair-new-rog-x/"><u>The Revolutionary Gamepad Repair: New RoG X</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-truth-about-chatgpt-on-windows-understanding-the-lack-of-legitimate-clients/"><u>The Truth About ChatGPT on Windows – Understanding the Lack of Legitimate Clients</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/worst-case-scenario-solutions-wiping-data-from-locked-iphones/"><u>Worst Case Scenario Solutions: Wiping Data From Locked iPhones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ultimate-ios-simulators-for-virtual-playstation-experience/"><u>[Updated] 2024 Approved Ultimate iOS Simulators for Virtual PlayStation Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficiently-harnessing-gpt-3-in-your-python-projects-step-by-step-tutorial/"><u>Efficiently Harnessing GPT-3 in Your Python Projects: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-professional-game-with-chatgpt-the-definitive-guide-to-an-intelligent-personal-assistant-at-work/"><u>Elevate Your Professional Game with ChatGPT: The Definitive Guide to an Intelligent Personal Assistant at Work</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/europes-ai-governance-and-its-influence-on-ai-driven-interactive-tools-such-as-gpt/"><u>Europe's AI Governance & Its Influence on AI-Driven Interactive Tools Such as GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-our-picked-top-10-best-tools-similar-to-chatgpt/"><u>Explore Our Picked Top 1^0 Best Tools Similar to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-anthropics-ai-creative-suite/"><u>Exploring Anthropic's AI Creative Suite</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-bert-vs-gpt-insights-into-advanced-language-models-for-ai-enthusiasts/"><u>Exploring BERT Vs. GPT: Insights Into Advanced Language Models for AI Enthusiasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-htc-u23-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From HTC U23 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-enhance-networked-stream-quality-with-vlc-for-2024/"><u>How to Enhance Networked Stream Quality with VLC for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/important-factors-for-acquiring-secondhand-ipads-5-must-know-tips/"><u>Important Factors for Acquiring Secondhand iPads - 5 Must-Know Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/introducing-virtual-reality-to-messaging-on-fb-platform/"><u>Introducing Virtual Reality to Messaging on FB Platform</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-safe-termination-of-drives-while-preserving-ongoing-tasks/"><u>Resolved: Safe Termination of Drives While Preserving Ongoing Tasks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/syma-x5c-in-depth-guide-optimal-choice-to-lift-off-as-a-beginner-for-2024/"><u>Syma X5C In-Depth Guide Optimal Choice to Lift Off as a Beginner for 2024</u></a></li>
 </ul></div>
 

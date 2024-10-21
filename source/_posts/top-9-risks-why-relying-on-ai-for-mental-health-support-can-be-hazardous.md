@@ -1,7 +1,7 @@
 ---
 title: "Top 9 Risks: Why Relying on AI for Mental Health Support Can Be Hazardous"
-date: 2024-09-07T00:17:06.953Z
-updated: 2024-09-08T00:17:06.953Z
+date: 2024-10-19T20:43:19.737Z
+updated: 2024-10-21T19:54:08.993Z
 tags:
   - chatgpt
   - open-ai
@@ -13,30 +13,12 @@ excerpt: "This Article Describes Top 9 Risks: Why Relying on AI for Mental Healt
 thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Experience Cutting-Edge AI Search on the Go with Bing's New App Support for Android and iOS
 
  Microsoft has launched three new AI-powered apps for smartphones. Bing, Edge, and a new version of Skype have launched for Android and iPhone, all with ChatGPT integration.
 
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -45,18 +27,6 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
  The Bing app has a whole new look, and perhaps the most interesting part is that it now supports voice to help make your prompts and searches even more intuitive.
@@ -66,17 +36,12 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -86,11 +51,18 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to[join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -102,11 +74,18 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -115,14 +94,11 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
  And in its mobile form, it is still very much a search tool, so is not something that's going to be replacing Google Assistant, Siri, Bixby, or any other voice assistant any time soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +107,23 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-flawless-sound-overlap-exploring-crossfade-for-2024/"><u>[New] Flawless Sound Overlap Exploring Crossfade for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-foundations-of-a-youtube-venture-a-comprehensive-guide-for-2024/"><u>[Updated] The Foundations of a YouTube Venture A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-virtual-vanguard-over-a-hundred-games-galore/"><u>[Updated] Virtual Vanguard Over a Hundred Games Galore</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-top-rated-non-apple-non-tile-wallet-airtag-reviewed-a-surprising-contender-for-smart-tracking-devices/"><u>1. Top-Rated Non-Apple, Non-Tile Wallet AirTag Reviewed: A Surprising Contender for Smart Tracking Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-secret-to-a-streamlined-tiktok-bio-with-linktree/"><u>2024 Approved Unlocking the Secret to a Streamlined TikTok Bio with Linktree</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-virtual-world-laughter-excavating-the-best-metaverse-jokes/"><u>2024 Approved Virtual World Laughter Excavating the Best Metaverse Jokes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/amazons-labor-day-discount-grab-your-new-ipad-for-only-199-exclusive-deal-insights/"><u>Amazon's Labor Day Discount: Grab Your New iPad For Only $199 - Exclusive Deal Insights</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/compreendemos-gritos-de-alegria-e-felicidade-no-portugues/"><u>Compreendemos Gritos De Alegria E Felicidade No Português</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-the-latest-exploring-the-distinctions-of-apple-airpods-pro-and-airpods-max-a-comparison-guide/"><u>Discovering the Latest: Exploring the Distinctions of Apple AirPods Pro and AirPods Max - A Comparison Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-upcoming-apple-pay-later-transactions-could-impact-your-experian-credit-score-insights/"><u>How Upcoming 'Apple Pay Later' Transactions Could Impact Your Experian Credit Score – Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-poco-c55-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Poco C55 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-final-solution-to-rectify-visual-distortion-in-rust-programming/"><u>The Final Solution to Rectify Visual Distortion in Rust Programming</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-secret-superpower-of-this-awesome-iphone-case-with-a-physical-keyboard/"><u>Unveiling the Top Secret Superpower of This Awesome iPhone Case with a Physical Keyboard!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upcoming-autumn-release-discover-all-the-latest-innovations-from-apple-for-iphone-ipad-mac-and-beyond-spotlight-on-ai-features-techzooming/"><u>Upcoming Autumn Release: Discover All the Latest Innovations From Apple for iPhone, iPad, Mac, and Beyond - Spotlight on AI Features | TechZooming</u></a></li>
+<li><a href="https://win-help.techidaily.com/windows-10boot-uefilegacyfactor-usb/"><u>Windows 10でBoot用 UEFI/LegacyフォームFactor USB作り方 -ステップバイステップガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/zdnets-ultimate-strategy-for-uncovering-and-eradicating-spy-applications-on-your-smartphone/"><u>ZDNet's Ultimate Strategy for Uncovering and Eradicating Spy Applications on Your Smartphone</u></a></li>
+</ul></div>
 

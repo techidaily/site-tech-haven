@@ -1,7 +1,7 @@
 ---
 title: "From Ideas to Verses: Empower Yourself to Compose a Book of Poems via ChatGPT"
-date: 2024-09-07T00:17:07.485Z
-updated: 2024-09-08T00:17:07.485Z
+date: 2024-10-19T21:30:55.833Z
+updated: 2024-10-21T17:11:43.069Z
 tags:
   - chatgpt
   - open-ai
@@ -17,22 +17,10 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
  ChatGPT has become a mainstream tool around the world, offering an AI chatbot service to billions. But the popularity of this chatbot is now being capitalized upon by cybercriminals looking to swindle unsuspecting users. So, what kinds of ChatGPT scams should you be looking out for?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. ChatGPT Email Scams
 
 ![picture of mail app icon on iphone menu screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-mail-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Email has been used as a scam vector for many years, be it to spread malware, blackmail victims, or steal valuable information. Now, ChatGPT's name is being used in email scams to trick recipients.
 
  In April 2023, many news publications began reporting a wave of phishing emails written specifically by ChatGPT. Because ChatGPT can write content upon a user's request, cybercriminals have begun using the AI chatbot to write phishing emails that they can then use in their malicious campaigns.
@@ -45,12 +33,6 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
 ![chatgpt open on computer monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-open-monitor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Browser extensions are a popular and convenient tool used by millions, but malicious, phony versions of this software are also used to install malware and steal data. The case is no different for ChatGPT.
 
  While there are ChatGPT-focused extensions out there (such as Merlin and Enhanced ChatGPT), not every extension that you see on your browser's app store is safe. For example, a ChatGPT extension named "Chat GPT for Google" began spreading from device to device in March 2023\. But while spreading, the[phony ChatGPT extension was stealing thousands of users' Facebook information](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/) .
@@ -60,26 +42,35 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
  So, it's crucial that you verify the legitimacy of a ChatGPT extension before downloading it. Also keep an eye out for discrete differences in the names of extensions, as a malicious extension can be listed under a very similar name in order to trick users.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Fake ChatGPT Apps
 
 ![app store application open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-store-smartphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Like browser extensions, cybercriminals can also use ChatGPT's name to spread malicious apps. Malicious apps are nothing new and have been used for years to deploy malware, steal data, and monitor device activity. Now, ChatGPT's well-known name is being used to push malicious apps.
 
  In February 2023, it was found that cybercriminals had developed a fake ChatGPT app to spread Windows and Android malware. As reported by[Bleeping Computer](https://www.bleepingcomputer.com/news/security/hackers-use-fake-chatgpt-apps-to-push-windows-android-malware/) , malicious actors capitalized on OpenAI's ChatGPT Plus to convince users that they could sign up for a free version of the typically premium tool. The cybercriminals' goal here is to either steal credentials or deploy malware.
 
  To keep yourself safe from these apps, it's important to do background research on any given kind of software program to see if it has a positive reputation, or any reputation at all. Even if an app looks enticing, it's not worth the installation if you can't verify whether it is safe. Stick to trusted app stores and check user reviews before downloading any kind of app.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Malware Created by ChatGPT
 
@@ -90,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
  This is by no means an unrealistic worry, as[ChatGPT can be used in malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) . It didn't take long after the launch of ChatGPT for illicit individuals to start writing malicious code using the popular tool. In early 2023, a form of[Python-based malware was allegedly created using ChatGPT](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , as stated in a hacking forum post.
 
  This malware was not highly complex, and no severely dangerous malware, such as ransomware, has been identified as a product of ChatGPT. But ChatGPT's ability to write even simple malware programs opens a door to people who want to get into cybercrime but do not have much, or any, technical expertise. In any case, this new AI-powered capability may prove to be a big issue in the near future.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. ChatGPT Phishing Sites
 
@@ -103,24 +101,15 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
  In reality, the link you click on leads to a malicious webpage that can steal any data you enter, including your login credentials. Now, another person can access your ChatGPT account and view your prompt history, account details, and other sensitive data. It's important to know[how to spot phishing scams](https://www.makeuseof.com/top-signs-phishing-scams/) in order to avoid this kind of cybercrime.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Scams Are Worryingly Common
 
  As ChatGPT continues to grow in prevalence, it is likely that cybercriminals will continue to leverage its popularity to target users, be it for their devices, their activity, or their sensitive data. So, if you're interested in using ChatGPT, or you want to stay updated on how to protect yourself online, be mindful of the various types of scams and attacks.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,4 +118,22 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/he-secret-sauce-to-outstanding-online-identity-creation-for-2024/"><u>[New] The Secret Sauce to Outstanding Online Identity Creation for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-ensuring-effectiveness-and-risk-in-exerrances/"><u>ChatGPT: Ensuring Effectiveness & Risk in Exerrances</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/defending-against-data-breaches-in-personalized-ai-systems/"><u>Defending Against Data Breaches in Personalized AI Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/desktop-advantage-how-chatgpts-standalone-application-surpasses-the-web-version/"><u>Desktop Advantage: How ChatGPT's Standalone Application Surpasses the Web Version</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/from-download-to-usage-setting-up-obs-on-a-mac/"><u>From Download to Usage Setting Up OBS on a Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-blueprint-custom-chatgpt-crafting-guide/"><u>GPT Blueprint: Custom ChatGPT Crafting Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/high-end-ai-requests-return-on-investment-analysis/"><u>High-End AI Requests - Return on Investment Analysis</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-12-4g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi Redmi Note 12 4G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-y100-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo Y100 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/live-on-air-how-to-broadcast-on-youtube-and-twitch-using-obs-for-2024/"><u>Live on Air How to Broadcast on YouTube & Twitch Using OBS for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-psychological-support-the-ultimate-guide-to-ai-therapist-bots-and-mental-health-applications-5-picks/"><u>Navigating Psychological Support: The Ultimate Guide to AI Therapist Bots and Mental Health Applications (5 Picks)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pexels-101-finding-the-picture-of-your-dreams/"><u>Pexels 101 Finding the Picture of Your Dreams</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/streamline-server-maintenance-with-these-two-simple-techniques-for-dism-offline-repair-in-windows-server-2016/"><u>Streamline Server Maintenance with These Two Simple Techniques for DISM Offline Repair in Windows Server 2016</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-9-risks-why-you-shouldnt-rely-on-ai-for-mental-health-counseling/"><u>Top 9 Risks: Why You Shouldn't Rely on AI for Mental Health Counseling</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Updated 2024 Approved Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Every iPhone 16 Owner Should Consider Getting a Durable Case - Insights & Tips [ZDNet]
-date: 2024-10-08T21:45:10.043Z
-updated: 2024-10-15T19:19:36.934Z
+date: 2024-10-18T18:49:14.033Z
+updated: 2024-10-21T18:19:25.397Z
 tags:
   - apple
 categories:
@@ -39,10 +39,16 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +62,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +87,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,14 +135,24 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-archive-of-awe-high-quality-gif-preservation-for-tweeters-for-2024/"><u>[Updated] Archive of Awe High-Quality GIF Preservation for Tweeters for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-reimagine-the-way-you-take-notes-with-mematic/"><u>[Updated] Reimagine the Way You Take Notes with Mematic</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cost-effective-high-performance-asmr-microphones-guide-for-2024/"><u>Cost-Effective, High-Performance ASMR Microphones Guide for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-innovation-in-stories-top-4-artificial-intelligence-wizards/"><u>Discovering Innovation in Stories: Top 4 Artificial Intelligence Wizards</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-blurred-to-bold-a-comprehensive-approach-to-buying-high-resolution-monitors/"><u>From Blurred to Bold A Comprehensive Approach to Buying High-Resolution Monitors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-synergy-mac-and-openais-chatgpt-partnership/"><u>Seamless Synergy: Mac and OpenAI's ChatGPT Partnership</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-the-best-5-text-generation-ais-for-writers/"><u>Unleashing Creativity: The Best 5 Text Generation AIs for Writers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-quintet-of-reasons-why-companies-prohibit-chatgpt-usage/"><u>Unveiling the Quintet of Reasons Why Companies Prohibit ChatGPT Usage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-metadata-title-and-description-for-youtube-traction/"><u>[New] Mastering Metadata Title and Description for YouTube Traction</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-guardianship-against-oculus-induced-discomfort/"><u>2024 Approved Guardianship Against Oculus-Induced Discomfort</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-chatgpt-discover-7-robust-programming-alternatives-with-ai-capabilities/"><u>Beyond ChatGPT: Discover 7 Robust Programming Alternatives with AI Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-co-pilot-for-car-modifications-how-to-get-started/"><u>ChatGPT as a Co-Pilot for Car Modifications: How to Get Started</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-top-six-troubleshooting-tips-fixing-the-most-common-gaffes/"><u>ChatGPT's Top Six Troubleshooting Tips: Fixing the Most Common Gaffes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/coding-in-the-age-of-artificial-intelligence/"><u>Coding in the Age of Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-a-unique-experience-with-chatgpts-directive-capabilities/"><u>Crafting a Unique Experience with ChatGPT's Directive Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/developing-an-ai-powered-conversation-agent-using-your-private-information/"><u>Developing an AI-Powered Conversation Agent Using Your Private Information</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-6-premier-chatbot-extensions-elevating-visual-studio-code-development/"><u>Discover the 6 Premier Chatbot Extensions Elevating Visual Studio Code Development</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-setup-instructions-for-enabling-automated-gpt-on-ubuntu-os/"><u>Easy Setup Instructions for Enabling Automated GPT on Ubuntu OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/educating-kids-on-chatgpt-and-generative-ai/"><u>Educating Kids on ChatGPT & Generative AI</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-arlo-video-doorbell-overview-combining-security-with-visual-alerts/"><u>Exclusive Arlo Video Doorbell Overview: Combining Security with Visual Alerts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-the-workplace-with-elegance-and-support-the-ultimate-guide-to-the-x-chair-x4-office-chair-review/"><u>Mastering the Workplace with Elegance and Support - The Ultimate Guide to the X-Chair X4 Office Chair Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-dualsense-masterclass-2024/"><u>PlayStation DualSense Masterclass 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/protecting-our-social-space-choices/"><u>Protecting Our Social Space Choices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-realme-c55-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Realme C55 FRP Bypass</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-poco-f5-pro-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Poco F5 Pro 5G Phones</u></a></li>
 </ul></div>
 

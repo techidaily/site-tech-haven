@@ -1,7 +1,7 @@
 ---
 title: Navigating Beginnings in AI Interactive Design
-date: 2024-09-07T00:17:10.238Z
-updated: 2024-09-08T00:17:10.238Z
+date: 2024-10-15T21:50:25.301Z
+updated: 2024-10-21T16:37:18.138Z
 tags:
   - chatgpt
   - open-ai
@@ -15,12 +15,6 @@ thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6
 
 ## Top 7 Effective Strategies for Mastering AI Prompts: Proven Techniques Inside
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Be as Specific as Possible](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#be-as-specific-as-possible)
@@ -37,12 +31,6 @@ thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -55,14 +43,22 @@ thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The more context you provide your AI tool, the better of a response you'll receive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -71,22 +67,10 @@ thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
@@ -97,28 +81,17 @@ thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
 [Avoiding common mistakes when using AI prompting tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) isn't always easy, but one of the main issues you'll encounter is trying to make the tool multitask. AI programs will often generate your results within a few minutes, but they can only do one thing at a time. If you try to ask too many things in one go, you won't get the results you want.
@@ -135,7 +108,27 @@ thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -155,14 +148,11 @@ thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -171,4 +161,18 @@ thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-boost-your-gaming-presence-with-these-top-14-video-ideas/"><u>[Updated] Boost Your Gaming Presence with These Top 14 Video Ideas</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-tutorial-transforming-m3u8-files-into-mp4-format/"><u>Comprehensive Tutorial: Transforming M3U8 Files Into MP4 Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/convert-your-wav-files-to-high-quality-m4a-without-cost-a-step-by-step-guide/"><u>Convert Your WAV Files to High-Quality M4A Without Cost - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/direct-conversion-transforming-mp4-files-into-mp3-a-simple-guide/"><u>Direct Conversion: Transforming MP4 Files Into MP3 - A Simple Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-the-latest-free-mov-codec-for-windows-10-installation-guide/"><u>Download the Latest Free Mov Codec for Windows 10 - Installation Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/downloadable-tutorial-convert-your-3gp-audio-to-premium-m4a-at-no-cost/"><u>Downloadable Tutorial: Convert Your 3GP Audio to Premium M4A at No Cost</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/effortlessly-upload-and-convert-your-3gp-videos-to-high-quality-mpeg-no-cost-solution/"><u>Effortlessly Upload and Convert Your 3GP Videos to High-Quality MPEG - No Cost Solution!</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/flvwma/"><u>FLVとWMAファイルを完全自由で簡単にオンライン変換 - ムーヴァヴィ</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionizing-presentation-content-with-automated-transcription/"><u>In 2024, Revolutionizing Presentation Content with Automated Transcription</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-windows-with-these-5-firewall-adjustments/"><u>Secure Windows with These 5 Firewall Adjustments</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on OnePlus Ace 3? | Dr.fone</u></a></li>
+</ul></div>
 

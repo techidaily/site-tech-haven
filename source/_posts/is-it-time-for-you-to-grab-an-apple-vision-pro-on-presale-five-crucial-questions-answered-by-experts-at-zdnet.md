@@ -1,7 +1,7 @@
 ---
 title: Is It Time for You to Grab an Apple Vision Pro on Presale? Five Crucial Questions Answered by Experts at ZDNet
-date: 2024-10-11T19:43:03.747Z
-updated: 2024-10-16T03:18:12.585Z
+date: 2024-10-14T22:15:13.627Z
+updated: 2024-10-21T17:01:38.591Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. The camera
 
 Perhaps one of the most important features of any smartphone these days is the camera, so it is no surprise that camera quality is a big consideration for ZDNET editors. It probably is for you, too. The iPhone 16 lineup includes a new [Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/) feature that works in landscape or portrait mode with a button on the side of the iPhone. In addition, you can lightly press the button to show camera functions you can choose from, such as zoom, exposure, or focal lengths, by swiping between the options. 
@@ -45,13 +52,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 **Also:** [**I want to be excited about the iPhone 16's new camera button, but can't (for now)**](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/)
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
 
@@ -66,10 +66,10 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -94,16 +94,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -114,6 +114,13 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 **Also: [iOS 18 update: Every iPhone model that will support Apple's new AI features (for now)](https://www.zdnet.com/article/ios-18-1-update-every-iphone-model-that-will-support-apples-new-ai-features-for-now/)**
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
 
@@ -128,19 +135,6 @@ Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am st
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -182,16 +176,15 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photography-refinement-removing-backgrounds-and-blurring-effectively/"><u>2024 Approved Photography Refinement Removing Backgrounds & Blurring Effectively</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-top-choices-for-enhancing-drone-functionality-and-flexibility/"><u>2024 Approved Top Choices for Enhancing Drone Functionality and Flexibility</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-how-does-gemini-advanced-stack-up-against-chnagpt-plus/"><u>Chatbot Face-Off: How Does Gemini Advanced Stack Up Against Chnagpt Plus?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/essential-screen-recording-software-list-for-vloggers-for-2024/"><u>Essential Screen Recording Software List for Vloggers for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-realm-of-predictive-ai-mechanisms-and-processes-unveiled/"><u>Exploring the Realm of Predictive AI: Mechanisms and Processes Unveiled</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-chatgpt-an-exploration-of-capabilities-within-generative-ai-systems/"><u>Navigating the World of ChatGPT – An Exploration of Capabilities Within Generative AI Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/plants-vs-zombies-neighborville-a-playful-shooting-game-overview-and-critique/"><u>Plants Vs. Zombies: Neighborville - A Playful Shooting Game Overview and Critique</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-your-pc-experience-on-windows-11-devices/"><u>Tailoring Your PC Experience on Windows 11 Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/travel-without-expenses-identify-your-ultimate-trips-with-these-7-free-ai-apps/"><u>Travel Without Expenses – Identify Your Ultimate Trips with These 7 Free AI Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/opus-mp3-mp3/"><u>인터넷을 통해 OPUS MP3에서 MP3로의 오늘은 친절한 성공으로 이어지는 무료 변환</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-implementing-windows-11s-automatic-hdr-feature-for-2024/"><u>[Updated] The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-your-phone-experience-with-apples-underrated-iphone-advantage-uncovered/"><u>Ace Your Phone Experience with Apple’s Underrated iPhone Advantage - Uncovered !</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-just-typing-discover-how-this-iphone-cases-leading-edge-technology-outshines-its-physical-keyboard-exclusive-review-by-zdnet/"><u>Beyond Just Typing: Discover How This iPhone Case's Leading-Edge Technology Outshines Its Physical Keyboard | Exclusive Review by ZDNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dota-nixing-game-crashes-a-comprehensive-guide-to-a-smooth-play-experience/"><u>Dota Nixing Game Crashes: A Comprehensive Guide to a Smooth Play Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-updated-drivers-for-the-hp-deskjet-3050a-compatible-with-any-version-of-windows-beginner-friendly-download-tutorials/"><u>Free, Updated Drivers for the HP Deskjet 3050A - Compatible with Any Version of Windows | Beginner-Friendly Download Tutorials</u></a></li>
+<li><a href="https://win-blog.techidaily.com/getting-elden-ring-online-play-up-and-running-again-expert-advice/"><u>Getting Elden Ring Online Play Up & Running Again – Expert Advice!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-setup-focusrite-scarlett-solo-2i4-driver-pack-in-windows-os/"><u>How to Download & Setup Focusrite Scarlett Solo 2I4 Driver Pack in Windows OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-mastering-the-art-of-airpods-resetting-and-optimal-timing-tips/"><u>Step-by-Step Guide: Mastering the Art of AirPods Resetting & Optimal Timing Tips!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-seamless-shift-in-music-production/"><u>The Seamless Shift in Music Production</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transition-made-simple-how-to-shift-your-photograph-collection-from-google-photos-to-icloud-services/"><u>Transition Made Simple: How to Shift Your Photograph Collection From Google Photos to iCloud Services</u></a></li>
 </ul></div>
 

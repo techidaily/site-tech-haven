@@ -1,7 +1,7 @@
 ---
 title: Transform Your Windows PC Into a Hub for Cutting-Edge Conversations – Try Our Zero-Cost Local Clone of ChatGPT Using GPT4All
-date: 2024-09-07T00:17:12.384Z
-updated: 2024-09-08T00:17:12.384Z
+date: 2024-10-20T17:01:02.872Z
+updated: 2024-10-21T16:57:52.875Z
 tags:
   - chatgpt
   - open-ai
@@ -13,22 +13,10 @@ excerpt: This Article Describes Transform Your Windows PC Into a Hub for Cutting
 thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680a77e468de6afed425dad313.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Exploring the Potential of Generative AI as a Modern Conduit for False Information Dissemination
 
  Artificial Intelligence (AI) now plays a role in various aspects of our lives. Specifically, generative AI tools such as ChatGPT and others have grown significantly. This means that there will be an abundance of AI-generated content in the future.However, generative AI also introduces the risk of AI-generated disinformation. Its features make it easier for opportunistic individuals to spread false information. So, let's explore how generative AI is being utilized for disinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Potential Risks of Generative AI to Spread Disinformation
 
  Generative AI poses many threats to people, like taking away jobs, more surveillance, and cyberattacks. And the[security problems with AI will get even worse](https://www.makeuseof.com/reasons-generative-ai-security-issues-will-worsen/) . But there's another worry: people can use it to spread lies. Deceptive individuals can use generative AI to share fake news through visual, auditory, or textual content.
@@ -46,11 +34,12 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
@@ -65,13 +54,14 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -84,6 +74,19 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -93,11 +96,12 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -117,26 +121,17 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,4 +140,21 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-digital-recorders-companion-pc-mac-phone-edition/"><u>[New] Digital Recorder's Companion PC, Mac, Phone Edition</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-fusion-feats-mixing-genres-in-the-worlds-most-engaging-tiktoks-for-2024/"><u>[New] Fusion Feats Mixing Genres in the World's Most Engaging TikToks for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44cm5yuv55s744ov44kh44kk44or44gr6zplusz5aow44oi44op44od44kv44ks57wx5zci44gz44kl44kz44oe44cn/"><u>「動画ファイルに音声トラックを統合するコツ」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030643732-dvdiso/"><u>「DVDをISOに転換する方法：使いやすいソフトウェアガイドランキング」</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-your-hidden-reels-a-guide-to-locating-archived-content-on-instagram/"><u>Discovering Your Hidden Reels: A Guide to Locating Archived Content on Instagram</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-recurring-disconnections-with-your-pcs-wirelesswired-mouse/"><u>Effective Fixes for Recurring Disconnections with Your PC's Wireless/Wired Mouse</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-ubisoft-connect-not-responding-errors-for-gamers/"><u>How to Resolve 'Ubisoft Connect Not Responding' Errors for Gamers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-plus-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029568836-premiere-pro/"><u>Premiere Proを使った簡単な動画編集テクニック：シームレスなトランジション加工【入門レベル】</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/static-screen-flip-mastery-how-to-change-iphoneipad-orientation-easily/"><u>Static Screen Flip Mastery: How to Change iPhone/iPad Orientation Easily</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028763292-youtube/"><u>YouTubeビデオで効果的なナレーション作り方 - 最適化戦略</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44gv44gplus44gw44gplus44gq5b2i5byp44g46zplusz5qw9lplusocquodvoodhplusocoplusocquodleocoeocpoodqpluswkieapmyatios4goimpplusihqa/"><u>さまざまな形式へ音楽/オーディオファイル変換 - 一覧表</u></a></li>
+</ul></div>
 

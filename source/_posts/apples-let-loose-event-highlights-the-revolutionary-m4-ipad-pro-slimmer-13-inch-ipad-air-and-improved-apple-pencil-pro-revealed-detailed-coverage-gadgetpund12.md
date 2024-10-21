@@ -1,7 +1,7 @@
 ---
 title: "Apple's 'Let Loose' Event Highlights: The Revolutionary M4 iPad Pro, Slimmer 13-Inch iPad Air & Improved Apple Pencil Pro Revealed - Detailed Coverage | GadgetPundit."
-date: 2024-10-14T19:50:23.434Z
-updated: 2024-10-15T21:44:34.848Z
+date: 2024-10-16T18:56:30.406Z
+updated: 2024-10-21T18:45:49.086Z
 tags:
   - apple
 categories:
@@ -33,16 +33,10 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -65,6 +59,13 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -80,13 +81,6 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -104,29 +98,22 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -139,6 +126,13 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -174,18 +168,17 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-step-by-step-adding-subsections-and-chapters-to-your-youtube-tutorials/"><u>[New] 2024 Approved Step-by-Step Adding Subsections and Chapters to Your YouTube Tutorials</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-seamless-shifts-revitalizing-vhs-graphics-with-computer-magic-for-2024/"><u>[New] Seamless Shifts Revitalizing VHS Graphics with Computer Magic for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-vivid-color-equilibrium/"><u>[New] Vivid Color Equilibrium</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-evolution-interactive-dialogue-unleashed/"><u>ChatGPT's Evolution: Interactive Dialogue Unleashed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparative-analysis-distinctive-features-of-chatgpt-and-microsoft-bings-ai/"><u>Comparative Analysis: Distinctive Features of ChatGPT and Microsoft Bing's AI</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-not-launching-error-in-call-of-duty-warzone/"><u>Fixing the 'Not Launching' Error in Call of Duty: Warzone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-xiaomi-redmi-a2plus-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Xiaomi Redmi A2+ Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722960200061-instant-upgrade-secure-the-newest-intel-thunderbolt-controller-program-with-this-quick-download-link/"><u>Instant Upgrade! Secure the Newest Intel Thunderbolt Controller Program with This Quick Download Link.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatbot-management-leveraging-folders-in-chatgpt-sessions/"><u>Mastering Chatbot Management: Leveraging Folders in ChatGPT Sessions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/stay-ahead-of-threats-with-our-comprehensive-guide-to-7-key-cyber-predictions/"><u>Stay Ahead of Threats with Our Comprehensive Guide to 7 Key Cyber Predictions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/tail-wags-and-whispers-dognoise-auditory-experience/"><u>Tail Wags & Whispers Dognoise Auditory Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-work-utilizing-gpt-as-a-personal-aide/"><u>The Future of Work: Utilizing GPT as a Personal Aide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/weaving-time-anomalies-into-visual-storytelling-for-2024/"><u>Weaving Time Anomalies Into Visual Storytelling for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>[New] 2024 Approved How to Block YouTube Channels on Computer and Mobile Phones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-top-10-wave-capturing-cams/"><u>[New] The Top 10 Wave-Capturing Cams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-inshot-a-guide-to-video-transition-techniques/"><u>2024 Approved Mastering Inshot A Guide to Video Transition Techniques</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/authenticating-your-youtube-username-and-email-for-2024/"><u>Authenticating Your YouTube Username & Email for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-choice-our-selection-for-leading-mp3-devices-of-202n4/"><u>Discover the Ultimate Choice: Our Selection for Leading MP3 Devices of 202N4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-switch-relocating-your-whatsapp-from-android-to-ios-devices/"><u>Seamless Switch: Relocating Your WhatsApp From Android to iOS Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-converting-video-from-avi-format-for-your-iphone-viewing-pleasure/"><u>Step-by-Step Tutorial: Converting Video From AVI Format for Your iPhone Viewing Pleasure</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/still-a-smart-investment-the-airpods-pro-reviewed-insights-from-an-early-adopter/"><u>Still a Smart Investment? The AirPods Pro Reviewed - Insights From an Early Adopter</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/mlining-youtube-edits-with-advanced-sony-vegas-techniques-for-2024/"><u>Streamlining YouTube Edits with Advanced Sony Vegas Techniques for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tech-redemption-story-strategies-for-apple-to-support-dissatisfied-customers-of-sonos-products/"><u>Tech Redemption Story: Strategies for Apple to Support Dissatisfied Customers of Sonos Products</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/televersement-facile-de-votre-contenu-video-discoverez-movavi-loutil-free-to-use-pour-les-conversions-video-efficaces/"><u>Téléversement Facile De Votre Contenu Vidéo : Discoverez Movavi, L'outil Free-to-Use Pour Les Conversions Vidéo Efficaces !</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-magsafe-power-solutions-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MagSafe Power Solutions : Comprehensive Reviews by Tech Experts</u></a></li>
 </ul></div>
 

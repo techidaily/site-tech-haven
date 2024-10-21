@@ -1,7 +1,7 @@
 ---
 title: "Understanding Transformers: BERT vs GPT Comparison"
-date: 2024-09-07T00:17:09.090Z
-updated: 2024-09-08T00:17:09.090Z
+date: 2024-10-19T18:24:18.674Z
+updated: 2024-10-21T16:55:41.671Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Understanding Transformers: BERT vs GPT Compari
 thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b474ce8b9b8af13ad1eeef19a7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Understanding the Constraints: 5 Key Factors Against Using ChatGPT for Bitcoin & Co
 
  Trading crypto is and always has been a risky game, so it makes sense to pursue avenues that may make it a little easier. In 2023, the use of ChatGPT in crypto trading became evident, as this chatbot is a hub of information. However, there are some reasons why using ChatGPT to trade cryptocurrency may be a bad idea.
@@ -30,17 +24,12 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. AI Hallucinations and Potential Biases
 
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
@@ -59,22 +48,17 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
 
  ChatGPT knows more than any one human could ever know. But ChatGPT wasn't specifically designed to provide financial advice. ChatGPT is a jack-of-all-trades chatbot, meaning it can answer questions on almost any topic. But this also means the tool is not fully equipped for hyper-specific or niche prompts.
@@ -83,16 +67,17 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Relies Heavily on Historical Data
 
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
 
  ChatGPT doesn't use common sense when answering a question, as it isn't advanced enough to make decisions based on its own opinion. What ChatGPT can do is interpret what you're saying and provide you with an interpretable response using its training data.
@@ -102,11 +87,12 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
  The crypto market is tied to the traditional market in ways you'd never expect. If something big goes wrong in the traditional financial industry, chances are the ripples will be felt by the crypto industry. After all, people use traditional money to buy crypto, so it's natural for the two markets to interlink.
@@ -119,24 +105,15 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Is Revolutionary but Far From Perfect
 
  There's no denying that ChatGPT can help you in a myriad of ways, be it in research, writing, idea generation, or creativity. But if you want to use this chatbot in your crypto trading venture, it's paramount that you consider the risks and downsides listed above.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,4 +122,18 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-guide-top-15-innovative-snapchat-ideas/"><u>[New] The Ultimate Guide Top 15 Innovative Snapchat Ideas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-the-power-of-color-difference-keying-methods/"><u>[Updated] In 2024, Harnessing the Power of Color Difference Keying Methods</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-risoluzione-dei-problemi-con-lo-schermo-touch-delliphone-non-reattivo-dopo-laggiornamento-a-ios-15-e-ios-16/"><u>1. Risoluzione Dei Problemi Con Lo Schermo Touch Dell'iPhone Non Reattivo Dopo L'aggiornamento a iOS 15 E iOS 16</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-top-ai-chatbot-how-does-chatgpt-plus-stack-up-against-perplexity/"><u>Choosing the Top AI Chatbot: How Does ChatGPT Plus Stack Up Against Perplexity?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-and-easy-the-five-best-techniques-for-enjoying-chatgpt-without-opening-an-account-with-openai/"><u>Free and Easy: The Five Best Techniques for Enjoying ChatGPT Without Opening an Account with OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guard-your-data-countering-fraudgpt-intrusion/"><u>Guard Your Data: Countering FraudGPT Intrusion</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-xiaomi-redmi-note-12-proplus-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Xiaomi Redmi Note 12 Pro+ 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocket-beyond-wired-speed-limit-in-windows-environment/"><u>Skyrocket Beyond Wired Speed Limit in Windows Environment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-battle-of-ais-unveiling-the-contrast-between-strong-vs-weak-ai/"><u>The Battle of AIs: Unveiling the Contrast Between Strong Vs. Weak AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-strategies-for-enhancing-chatgpt-conversations/"><u>Top 7 Strategies for Enhancing ChatGPT Conversations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gif-online-webm-movavi-gif-to-webm/"><u>무료 GIF 편집기: Online 대화형 WEBM 변환 - Movavi에서 다음 수준의 비주얼 경험을 위한 GIF to WebM</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them?
-date: 2024-10-10T22:43:31.392Z
-updated: 2024-10-16T05:28:38.433Z
+date: 2024-10-16T20:38:58.265Z
+updated: 2024-10-21T18:15:03.397Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 * [iPad Air 13-inch Wi-Fi (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J7GPRX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C736770ae-86a5-4d69-8240-565df015c0d7%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
 * [iPad Air 11-inch Wi-Fi & Cellular (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J61DQ4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C736770ae-86a5-4d69-8240-565df015c0d7%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Macs with a Thread radio:
 
 * [MacBook Pro 16-inch (M3 Pro or M3 Max)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5BL45N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C736770ae-86a5-4d69-8240-565df015c0d7%7Cdtp&dtb=1) \-[_FCC report_](https://fcc.report/FCC-ID/BCGA2991/6866513.pdf)
@@ -65,16 +58,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to check if your iPad or Mac has a Thread radio
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Find your device's model number or FCC ID
 
@@ -99,10 +92,10 @@ Clicking on the device's report will bring up a list of all the reports created 
 **Also: [iPad Air (2024) review: Apple's M2 tablet is even better than my $1,200 Android](https://www.zdnet.com/article/ipad-air-2024-review/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Find the Thread testing report
@@ -112,10 +105,10 @@ Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -160,6 +153,13 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is the iPad a smart home hub?
 
 Not currently. The iPad used to be a smart home hub for HomeKit, but iPadOS 16 removed this capability. With that software update, Apple upgraded the Home app significantly and stopped supporting the iPad for new HomeKit features and automations. 
@@ -173,10 +173,10 @@ Giving newer iPads Thread support would bring back its smart home hub functional
 If users want to keep an older iPad as a smart home hub, it cannot have iOS 16 and will work only with basic HomeKit functionality, as new features and enhancements introduced after iOS 16 won't be supported.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Would Thread replace Bluetooth for Apple peripherals?
@@ -219,18 +219,20 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-full-examination-samsungs-complete-360-camera-experience/"><u>[New] 2024 Approved Full Examination Samsung's Complete 360° Camera Experience</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-photo-masters-list-the-best-6-4k-dslr-cameras-today/"><u>[Updated] 2024 Approved Photo Masters List The Best 6 4K DSLR Cameras Today</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-seamless-tiktok-integration-on-your-macbook/"><u>[Updated] In 2024, Seamless TikTok Integration on Your MacBook</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-photoshops-stabilization-an-essential-tool-or-overrated-feature/"><u>[Updated] Photoshop's Stabilization An Essential Tool or Overrated Feature?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/changing-your-email-in-protonvpn-made-simple-plus-is-the-windows-version-of-chatgpt-genuine-or-faux/"><u>Changing Your Email in ProtonVPN Made Simple – Plus, Is the Windows Version of ChatGPT Genuine or Faux?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparative-insights-what-sets-natural-language-processing-apart-from-general-ml-concepts/"><u>Comparative Insights: What Sets Natural Language Processing Apart From General ML Concepts?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-scales-public-vs-private-ai-systems/"><u>Comparing Scales: Public Vs. Private AI Systems</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-efficient-chrome-os-snaps-4-techniques-to-try/"><u>In 2024, Efficient Chrome OS Snaps - 4 Techniques to Try</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-voice-recording-access-review-and-evaluate/"><u>In 2024, Voice Recording Access, Review & Evaluate</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphones-internet-service-expert-advice-on-10-fixes/"><u>Revive Your iPhone’s Internet Service: Expert Advice on 10 Fixes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-doesnt-strike-the-gpt-core/"><u>What Doesn't Strike the GPT Core?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-chatgpt-plus-is-your-next-big-leap-discover-9-key-motivators/"><u>Why ChatGPT Plus Is Your Next Big Leap – Discover 9 Key Motivators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-10-best-youtube-keyword-tools-to-get-more-views/"><u>[New] 2024 Approved 10 Best YouTube Keyword Tools to Get More Views</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-free-find-instagram-influencers-in-your-niche/"><u>[New] 2024 Approved How to Free Find Instagram Influencers in Your Niche</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-ace-the-social-game-10-essential-insta-tools-reviewed-for-2024/"><u>[New] Ace the Social Game 10 Essential Insta-Tools Reviewed for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-high-definition-spectrum-selecting-best-screen-recorders/"><u>[Updated] 2024 Approved High Definition Spectrum Selecting Best Screen Recorders</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-ultimate-insight-into-dji-inspire-2/"><u>[Updated] 2024 Approved The Ultimate Insight Into DJI Inspire 2</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1725288347291-windowsmachd4k/"><u>關於在Windows和Mac電腦上提升影片解析度到HD/4K的方法</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a18-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A18 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/learn-the-tricks-of-the-trade-for-flipping-films-in-vlc/"><u>Learn the Tricks of the Trade for Flipping Films in VLC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-bing-ai-chat-feature-an-android-users-guide/"><u>Mastering the Bing AI Chat Feature: An Android User's Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-your-education-leveraging-chatgpts-power-through-these-5-methods-for-students/"><u>Mastering Your Education: Leveraging ChatGPT's Power Through These 5 Methods for Students</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/microsofts-strategic-move-to-acquire-blizzard-and-advances-in-ai-for-artistic-expression-explore-with-us-podcast/"><u>Microsoft's Strategic Move to Acquire Blizzard & Advances in AI for Artistic Expression - Explore with Us [Podcast]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimize-tasks-effortlessly-5-key-tactics-for-chatgpt-and-wolfram-alpha-users/"><u>Optimize Tasks Effortlessly: 5 Key Tactics for ChatGPT & Wolfram Alpha Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/securing-personal-chats-from-chatgpt-saving-mechanisms-essential-advice/"><u>Securing Personal Chats From ChatGPT Saving Mechanisms: Essential Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlining-your-dialogue-flow-the-role-of-folders-in-chatgpt-conversations/"><u>Streamlining Your Dialogue Flow: The Role of Folders in ChatGPT Conversations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726222855910-m4am4b/"><u>오독 동영상을 M4A/M4B로 자유성 전환: 웹사이트 가장고의 방법</u></a></li>
 </ul></div>
 

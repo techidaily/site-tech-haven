@@ -1,7 +1,7 @@
 ---
 title: Top 10 Methods to Integrate ChatGPT with Visual Studio Code
-date: 2024-09-07T00:17:08.062Z
-updated: 2024-09-08T00:17:08.062Z
+date: 2024-10-16T16:39:52.375Z
+updated: 2024-10-21T16:32:48.689Z
 tags:
   - chatgpt
   - open-ai
@@ -19,18 +19,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
  With OpenAI's release of the highly anticipated GPT-4 large language model, ChatGPT has become significantly more powerful. But how can you get your hands on GPT-4? How can you use GPT-4 on ChatGPT right now?
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is GPT-4?
 
  GPT-4, short for[Generating Pre-trained Transformer 4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) , is the fourth iteration of the GPT family of large language models developed by OpenAI. It is the successor of the GPT-3 model, which powers the viral AI chatbot ChatGPT. GPT-4, like its predecessor, GPT-3, is designed to generate human-like text, complete tasks such as summarization and language translation, and even generate creative writing such as poetry, lyrics for music, and fiction.
@@ -39,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
  Before its public launch, the prospect of GPT-4 generated huge excitement in the AI community due to its touted capabilities and potential applications in various fields. Now, GPT-4 is here, but how can you access it?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Access GPT-4 on ChatGPT
 
 ![chatgpt openai logos smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-openai-logos-smartphone-feature.jpg)
@@ -57,18 +39,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
  For the free tier users, to get started with GPT-4, you'll need a ChatGPT Plus subscription. So, how do you upgrade to ChatGPT Plus?
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Upgrade to ChatGPT Plus
 
 To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
@@ -77,6 +47,14 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 2. On the bottom of the left sidebar of the chat interface, locate and click on**Upgrade to Plus** .  
 ![Upgrade to ChatGPT+](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/upgrade-to-chatgpt.jpg)
 3. You'll get a pop-up comparing the free plan and the ChatGPT Plus plan. Tap on the green**Upgrade Plan** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT plus comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-comparison.jpg)
 4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
 5. Once your payment has been confirmed, you should now have access to the OpenAI GPT-4 model alongside the older GPT-3.5 default and GPT-3.5 legacy models.
@@ -90,17 +68,12 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  GPT-4 stands out from previous versions in two major ways: it demonstrates considerably enhanced capabilities, yet it imposes an unpopular, restrictive message quota.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Performance Improvement
 
  GPT-4 significantly improves over GPT-3.5 in areas like commonsense reasoning, mathematics, creativity, and generating code. For instance, GPT-4 performs remarkably well on simulated bar exams, scoring in the top 10% of test takers, a dramatic improvement over GPT-3.5, which scored in the bottom 10%.
@@ -110,16 +83,30 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  GPT-4 is a multimodal AI model with a significantly larger context window, able to process both text and image inputs. Its full capabilities were demoed during the official GPT-4 announcement event but have not been pushed to the public, likely due to a shortage of computer chips needed to back the massive amount of compute power required for such features.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Usage Cap
 
  Despite the improvements that come with GPT-4, access to the model comes with an inconvenient limitation—a usage cap. Unlike GPT-3.5, with which you can prompt all day long, GPT-4 users are restricted to anywhere from 25 to 200 messages every three hours. We are not sure how OpenAI decides who gets a higher cap, but it seems, at least for now, to be arbitrarily or by the luck of the draw. Once again, a limited supply of GPUs and the need to adequately balance server loads might be behind the mandatory usage cap.
 
  Notwithstanding, GPT-4 is an exciting and powerful model worth the $20 you'll need to pay for a ChatGPT Plus plan. But what if you don't want to upgrade to ChatGPT Plus? Is this the end of the road for free-tier users? Not really. Here's how to use GPT-4 for free.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use GPT-4 for Free
 
@@ -129,26 +116,17 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
  Bing Chat aside, whether GPT-4 will ever be available for ChatGPT free tier users is unclear. GPT-4 is already several months post-release, and there is no indication that OpenAI will make GPT-4 generally available as a free offering. However, since OpenAI is already making the GPT-4 model available to third-party developers, you can use GPT-4 in a limited capacity through third-party apps powered by GPT-4.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## GPT-4: Is It Worth the Hype?
 
  GPT-4 didn't come with all the features that a part of the AI community had hoped it would come with. There were speculations that the GPT-4 model would be significantly larger than GPT-3, supercharging its performance. As it turns out, OpenAI has not released any information in that regard, and some commentators believe that the model isn't much larger than the GPT-3.5 series.
 
  However, despite the absence of some rumored capabilities, like video analysis, GPT-4 still packs the punch to impress even the most advanced users of ChatGPT.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +135,26 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-forget-your-finstas-quickly-iosandroid-advice-for-2024/"><u>[New] Forget Your Finstas Quickly IOS/Android Advice for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-youtubes-potential-subscriber-triumph-tactics/"><u>[New] Unlocking YouTube's Potential Subscriber Triumph Tactics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-creating-immersive-iphone-360-reels-for-social-media-for-2024/"><u>[Updated] Creating Immersive iPhone 360 Reels for Social Media for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-aesthetic-almanac-makeup-hair-and-more-on-youtube/"><u>[Updated] In 2024, The Aesthetic Almanac Makeup, Hair & More on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/charting-the-course-top-8-reasons-for-teacher-ai-synergy/"><u>Charting the Course: Top 8 Reasons for Teacher-AI Synergy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cyber-threats-evolving-chatgpts-emergence-as-a-potential-risk/"><u>Cyber Threats Evolving: ChatGPT's Emergence as a Potential Risk</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/empowering-minds-explore-5-advanced-robot-bots/"><u>Empowering Minds: Explore 5 Advanced Robot Bots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-strategies-for-seamless-chatgpt-extension-functionality/"><u>Expert Strategies for Seamless ChatGPT Extension Functionality</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expertly-selected-navigating-through-top-storm-tracker-apps-for-enhanced-safety/"><u>Expertly Selected: Navigating Through Top Storm Tracker Apps for Enhanced Safety</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-ai-perception-errors-how-to-detect-when-machines-see-wrongly/"><u>Exploring AI Perception Errors - How to Detect When Machines See Wrongly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-landscape-of-interactive-content-development/"><u>Exploring the Landscape of Interactive Content Development</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-top-7-ai-integrations-inside-the-functionality-of-gpt-4-powered-apps/"><u>Exploring the Top 7 AI Integrations: Inside the Functionality of GPT-4 Powered Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-how-to-circulate-your-chatgpt-dialogues-with-others-online/"><u>Guide: How to Circulate Your ChatGPT Dialogues with Others Online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-magic5-ultimate-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor Magic5 Ultimate?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-guide-diagnosing-and-repairing-a-502-bad-gateway-issue/"><u>Quick Guide: Diagnosing & Repairing a 502 Bad Gateway Issue</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-guide-to-cost-free-camera-screen-capture-tools/"><u>The Ultimate Guide to Cost-Free Camera Screen Capture Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-large-language-models-functionality-and-applications/"><u>Understanding Large Language Models: Functionality & Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/using-a-vpn-is-it-possible-to-connect-to-chatgpt/"><u>Using a VPN: Is It Possible To Connect To ChatGPT?</u></a></li>
+</ul></div>
 

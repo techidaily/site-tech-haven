@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice on Mastering Your iPad: 10 Must-Know Settings and Tricks for Apple Enthusiasts | Featured by ZDNET"
-date: 2024-10-14T06:40:11.273Z
-updated: 2024-10-15T17:23:37.004Z
+date: 2024-10-15T21:42:19.360Z
+updated: 2024-10-21T21:05:41.050Z
 tags:
   - apple
 categories:
@@ -54,6 +54,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -74,6 +87,13 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Low Power Mode can quickly become your best friend
 
 There's no doubt that iPads (especially some of the more recent models) have great battery life. My iPad cruises easily through a full day of use before conking out at bedtime. But that's only true if you limit the amount of heavy lifting you put your iPad through. If you're editing photos or videos, playing lots of games, or using it on a spotty Wi-Fi network for very long, it's going to die sooner than you expect.
@@ -91,10 +111,10 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
@@ -111,13 +131,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -125,13 +138,6 @@ Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increa
 Of course, while the feature is enabled out of the box, there's always a chance you aren't taking advantage of it on your iPad Pro, and I wouldn't be doing my due diligence if I didn't ask you to check the setting.
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
 
@@ -142,10 +148,10 @@ I've always felt like the Control Center is slightly underrated for all the stuf
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
@@ -188,20 +194,15 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-best-20-facebook-jail-memes-to-brighten-up-your-day/"><u>[New] 2024 Approved Best 20 Facebook Jail Memes to Brighten Up Your Day</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-achieve-more-engagement-on-youtube-learn-the-best-thumbnail-size-for-2024/"><u>[New] Achieve More Engagement on YouTube Learn the Best Thumbnail Size for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-immersive-horizon-the-rise-of-virtual-reality/"><u>[Updated] 2024 Approved Immersive Horizon The Rise of Virtual Reality</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-trimming-the-tremble-a-guide-to-smoother-gopro-videos/"><u>[Updated] Trimming the Tremble A Guide to Smoother GoPro Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-package-adventure-for-all/"><u>2024 Approved Perfecting Package Adventure for All</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cook-like-a-pro-leveraging-chatgpt-as-your-personal-cooking-guide/"><u>Cook Like a Pro: Leveraging ChatGPT as Your Personal Cooking Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-gaming-experience-addressing-continuous-glitches-in-psychonauts-2-on-personal-computers/"><u>Enhancing Gaming Experience: Addressing Continuous Glitches in Psychonauts 2 on Personal Computers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-ai-transformation-unlocking-8-capabilities-of-chatgpt-technology/"><u>Experience AI Transformation: Unlocking 8 Capabilities of ChatGPT Technology</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-meizu-21-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Meizu 21 Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-gpt-my-bot-a-guide-for-learning-games-and-art/"><u>Mastering GPT-My Bot: A Guide for Learning Games & Art</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/mov-video-rotator-top-5-free-downloads-for-2024/"><u>MOV Video Rotator Top 5 Free Downloads for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-risk-of-using-advanced-language-models-could-hackers-exploit-chatgpt-against-banks-or-pcs/"><u>The Risk of Using Advanced Language Models: Could Hackers Exploit ChatGPT Against Banks or PCs?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ai-an-easy-to-grasp-guide/"><u>Understanding AI: An Easy-to-Grasp Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oneplus-nord-n30-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from OnePlus Nord N30 5G? Here is How | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-leads-in-translation-accuracy-a-detailed-look-at-chatgpt-and-google-translate/"><u>Which Leads in Translation Accuracy? A Detailed Look at ChatGPT and Google Translate</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-choosing-your-gopro-an-exhaustive-comparison/"><u>2024 Approved Choosing Your GoPro An Exhaustive Comparison</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-revolution-in-microsofts-bing-search/"><u>AI Revolution in Microsoft's Bing Search</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/architectural-marvels-for-your-blocky-oasis-for-2024/"><u>Architectural Marvels for Your Blocky Oasis for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crossing-the-streams-moving-your-favorite-tunes-from-apple-to-youtube-music-and-back-again/"><u>Crossing the Streams: Moving Your Favorite Tunes From Apple to YouTube Music and Back Again</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-apples-latest-visionos-enhancements-a-transformation-of-user-personalization-and-more-insights-from-zdnet/"><u>Exploring Apple's Latest VisionOS Enhancements: A Transformation of User Personalization and More | Insights From ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-ace-2-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Ace 2 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-vital-criteria-for-assessing-the-best-mac-based-audio-editors/"><u>New Vital Criteria for Assessing the Best Mac-Based Audio Editors</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-5-comfortable-and-supportive-ergonomic-office-chairs-recommended-by-tech-experts/"><u>Top 5 Comfortable and Supportive Ergonomic Office Chairs - Recommended by Tech Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-nomad-iphone-cases-on-sale-bogo-offer-available-today-shop-at-yourwebsitecom/"><u>Top Nomad iPhone Cases on Sale - BOGO Offer Available Today! Shop at [YourWebsite.com]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-new-potential-how-apple-enables-third-party-integration-with-iphones-nfc-features-insights-from-zdnet/"><u>Unlocking New Potential: How Apple Enables Third-Party Integration with iPhone's NFC Features | Insights From ZDNet</u></a></li>
 </ul></div>
 

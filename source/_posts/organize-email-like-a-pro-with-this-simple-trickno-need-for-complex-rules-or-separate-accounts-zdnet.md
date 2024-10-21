@@ -1,7 +1,7 @@
 ---
 title: Organize Email Like a Pro with This Simple Trick—No Need for Complex Rules or Separate Accounts | ZDNET
-date: 2024-10-12T18:30:04.532Z
-updated: 2024-10-16T00:07:31.678Z
+date: 2024-10-14T22:55:33.087Z
+updated: 2024-10-21T20:51:10.791Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +93,16 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,10 +116,10 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -154,20 +160,21 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-create-magic-download-premium-soundscapes-now/"><u>[New] In 2024, Create Magic Download Premium Soundscapes Now</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cutting-edge-editing-tiktok-edition-unveiled/"><u>[Updated] 2024 Approved Cutting-Edge Editing TikTok Edition Unveiled</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-essential-guide-to-webcam-assisted-presentations-for-2024/"><u>[Updated] The Essential Guide to Webcam-Assisted Presentations for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/conversion-facile-transformer-votre-dvd-en-fichiers-videos-numeriques-pour-pc-et-mac-avec-windows-10mac/"><u>Conversion Facile : Transformer Votre DVD en Fichiers Vidéos Numériques Pour PC Et Mac Avec Windows 10/Mac</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-ai-types-the-key-differences-between-public-private-and-personal-artificial-intelligence/"><u>Decoding AI Types: The Key Differences Between Public, Private and Personal Artificial Intelligence</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/disabling-incognito-on-chrome-for-enhanced-security-using-malwarefox-software/"><u>Disabling Incognito on Chrome for Enhanced Security Using MalwareFox Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-elite-6-cutting-edge-ai-in-text-processing-and-generation/"><u>Exploring the Elite 6: Cutting-Edge AI in Text Processing and Generation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-leading-edge-the-best-new-ai-hardware-tech/"><u>Exploring the Leading Edge: The Best New AI Hardware Tech</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exposing-false-beliefs-in-ai-chatbot-technology-an-insightful-look-at-9-popular-fallacies/"><u>Exposing False Beliefs in AI Chatbot Technology: An Insightful Look at 9 Popular Fallacies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-for-young-minds-ensuring-a-secure-and-supportive-environment-in-5-steps/"><u>GPT for Young Minds: Ensuring a Secure and Supportive Environment in 5 Steps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premium-360-camera-options-for-social-media-broadcasts-for-2024/"><u>Premium 360° Camera Options for Social Media Broadcasts for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/steering-ai-innovation-the-five-regulatory-strategies-employed-by-government-bodies/"><u>Steering AI Innovation: The Five Regulatory Strategies Employed by Government Bodies</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/swift-email-restoration-exchanging-success-stories/"><u>Swift Email Restoration: Exchanging Success Stories</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-auto-gpt-blueprint-in-contrast-to-chatgpts-design/"><u>The Auto-GPT Blueprint in Contrast to ChatGPT's Design</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-innovative-approaches-to-documenting-gaming-on-ps4/"><u>[New] In 2024, Innovative Approaches to Documenting Gaming on PS4</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-sonic-enhancements-for-whatsapp-updates-for-2024/"><u>[New] Sonic Enhancements for WhatsApp Updates for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-brighter-horizons-is-intense-light-for-hdr-right/"><u>[Updated] Brighter Horizons Is Intense Light for HDR Right?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-online-safety-what-are-the-top-6-security-risks-to-watch-out-for/"><u>ChatGPT and Online Safety - What Are the Top 6 Security Risks to Watch Out For?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-building-dynamic-web-apps-from-scratch/"><u>ChatGPT Mastery: Building Dynamic Web Apps From Scratch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/confidentiality-concerns-evaluating-the-safety-of-sharing-sensitive-data-with-ai-like-chatgpt/"><u>Confidentiality Concerns: Evaluating the Safety of Sharing Sensitive Data with AI Like ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-distinctive-ai-art-with-microsoft-copilot-a-step-by-step-guide/"><u>Creating Distinctive AI Art with Microsoft Copilot: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-claude-pro-and-its-place-among-gpt-enhancements/"><u>Decoding Claude Pro and Its Place Among GPT Enhancements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decreasing-phantom-data-from-ai-through-precision-prompts/"><u>Decreasing Phantom Data From AI Through Precision Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-gpt4alls-complex-processes/"><u>Demystifying GPT4All's Complex Processes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discover-answers-expert-faq-insights-for-digiarty-softwares-winx-dvd-on-windows-platforms/"><u>Discover Answers: Expert FAQ Insights for Digiarty Software's WinX DVD on Windows Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/francesco-del-vecchios-visionary-filmography-showcased-on-movavi/"><u>Francesco Del Vecchio's Visionary Filmography Showcased on Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-web-research-with-leading-artifice-intelligence-based-search-platforms/"><u>Master Web Research with Leading Artifice Intelligence Based Search Platforms</u></a></li>
 </ul></div>
 

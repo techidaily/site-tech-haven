@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Microsoft Surface Pro # Problem
-date: 2024-10-15T00:44:10.856Z
-updated: 2024-10-15T18:44:22.993Z
+date: 2024-10-14T21:26:32.346Z
+updated: 2024-10-21T21:42:05.712Z
 tags:
   - apple
 categories:
@@ -70,6 +70,13 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -86,13 +93,6 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -100,13 +100,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -131,13 +124,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -149,10 +135,10 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
@@ -167,6 +153,13 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -178,6 +171,19 @@ So, iPad or Surface Pro 8? With so much uncertainty over the future of iPadOS, I
 If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro, I'll say this: you can't go wrong with either device, as long as you know what you're getting yourself into. The iPad Pro can do a lot of things, but only a few things really well. Whereas the Surface Pro 8 can do a lot of things really well, but it has its fair share of hiccups and gotchas as well.
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -218,17 +224,24 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-engineering-unique-tiktok-outro-animations/"><u>[New] Engineering Unique TikTok Outro Animations</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-strategies-to-promote-vimeo-films/"><u>[New] In 2024, Strategies to Promote Vimeo Films</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-celebrity-voice-generator-tools-to-transform-your-voice-for-2024/"><u>Best Celebrity Voice Generator Tools to Transform Your Voice for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bridging-the-language-gap-how-to-effectively-utilize-chatgpt-for-accurate-translations/"><u>Bridging the Language Gap: How to Effectively Utilize ChatGPT for Accurate Translations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-chatgpt-unveiling-the-potential-of-its-built-in-addons/"><u>Discovering ChatGPT: Unveiling the Potential of Its Built-In Addons</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-eye-candy-for-gamers-on-a-budget/"><u>Essential Eye Candy for Gamers on a Budget</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/future-forward-notion-ais-race-with-chatgpt-unveiled/"><u>Future Forward: Notion AI's Race with ChatGPT Unveiled</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-xs-max-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone XS Max Activation Lock</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-switching-back-from-macos-sierra-to-older-os-x/"><u>In 2024, Switching Back From MacOS Sierra To Older OS X</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207297876-overcome-your-screens-resistance-to-current-input-sync-settings-solved/"><u>Overcome Your Screen's Resistance to Current Input Sync Settings – Solved</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secure-ways-to-delete-all-previous-chats-from-the-chatgpt-platform/"><u>Secure Ways to Delete All Previous Chats From the ChatGPT Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-is-the-chatgpt-token-limit-and-can-you-exceed-it/"><u>What Is the ChatGPT Token Limit and Can You Exceed It?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-underwater-video-action-cameras-reviewed-and-rated/"><u>[New] Mastering Underwater Video Action Cameras Reviewed & Rated</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-melody-match-maker-audio-ambience-for-videos/"><u>[New] Melody Match-Maker Audio Ambience For Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expert-group-chat-options-for-virtual-gatherings/"><u>2024 Approved Expert Group Chat Options for Virtual Gatherings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/amplifying-the-role-of-it-professionals-in-shaping-customer-satisfaction-expert-analysis-by-zdnet/"><u>Amplifying the Role of IT Professionals in Shaping Customer Satisfaction | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bridging-audio-and-web-mastering-the-podcast-rss-format/"><u>Bridging Audio & Web Mastering the Podcast RSS Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/directive-design-mastery-top-7-online-learning-resources/"><u>Directive Design Mastery: Top 7 Online Learning Resources</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-ways-to-distribute-access-to-your-chatgpt-sessions/"><u>Easy Ways to Distribute Access to Your ChatGPT Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/educators-ai-scrutiny-guide-for-chatgpt/"><u>Educator's AI-Scrutiny Guide for ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-machine-learning-identifying-the-top-5-ai-prompt-generators/"><u>Elevating Machine Learning: Identifying the Top 5 AI Prompt Generators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-siris-capabilities-on-your-iphone-through-chatgpt-integration/"><u>Enhancing Siri's Capabilities on Your iPhone Through ChatGPT Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-the-performance-of-integrated-editing-tools-in-dall-e-3-version/"><u>Evaluating the Performance of Integrated Editing Tools in DALL-E 3 Version</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-four-key-methods-of-ai-regulation-by-authorities/"><u>Exploring Four Key Methods of AI Regulation by Authorities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-digital-inspiration-to-print-perfection-using-chatgpt-for-poetry-book-authorship/"><u>From Digital Inspiration to Print Perfection: Using ChatGPT for Poetry Book Authorship</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-gpt-to-greatness-can-claude-take-over/"><u>From GPT to Greatness: Can Claude Take Over?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-upgrade-intelligent-hd-graphics-support-in-windows/"><u>How to Upgrade Intelligent HD Graphics Support in Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-powerpoint-tips-adding-and-capturing-speech-sounds/"><u>In 2024, PowerPoint Tips Adding and Capturing Speech Sounds</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-secrets-to-superior-youtube-videos-mastering-post-upload-editing/"><u>In 2024, Secrets to Superior YouTube Videos Mastering Post-Upload Editing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-time-capsule-converting-single-photographs-to-video/"><u>In 2024, Time Capsule Converting Single Photographs to Video</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-incorporating-soundtracks-into-your-instagram-videos/"><u>Ultimate Guide to Incorporating Soundtracks Into Your Instagram Videos</u></a></li>
 </ul></div>
 

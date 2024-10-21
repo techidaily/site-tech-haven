@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Making It Easier for iOS Users to Switch to Android - Apple's New Initiative | CNET News"
-date: 2024-10-10T03:53:09.670Z
-updated: 2024-10-15T20:37:11.337Z
+date: 2024-10-18T18:13:57.125Z
+updated: 2024-10-21T17:57:10.361Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -58,13 +65,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -82,10 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -97,10 +97,16 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +126,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,20 +172,14 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-experience-like-never-before-leading-10-vr-devices/"><u>[Updated] Experience Like Never Before Leading 10 VR Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027051346-windows-11/"><u>最新Windows 11で音声・音楽ファイル編集を習得する - 使えるソフトウェア一覧</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-tips-perfecting-photos-with-onscreen-cropping-for-2024/"><u>Advanced Tips Perfecting Photos with Onscreen Cropping for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/androids-favorite-is-pickup-superior-to-other-photo-editors-for-2024/"><u>Android’s Favorite Is PickUp Superior to Other Photo Editors for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/galaxy-s20-video-playback-compatible-audio-and-video-codecs/"><u>Galaxy S20 Video Playback: Compatible Audio & Video Codecs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-10-collage-apps-for-android-top-picks/"><u>In 2024, Best 10 Collage Apps for Android ​ (Top Picks)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-unraveling-the-meaning-and-usage-of-blue-emoji-in-fb-messages/"><u>In 2024, Unraveling the Meaning and Usage of Blue Emoji in FB Messages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/new-era-begins-with-chatgpts-significant-upgrades/"><u>New Era Begins with ChatGPT’s Significant Upgrades</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-auto-gpt-snags-solutions-for-top-6-hurdles/"><u>Overcoming Auto-GPT Snags: Solutions for Top 6 Hurdles</u></a></li>
-<li><a href="https://games-able.techidaily.com/secrets-to-procuring-and-planting-minecraft-realms/"><u>Secrets to Procuring & Planting Minecraft Realms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-business-perspective-5-main-arguments-against-ais-invasion/"><u>The Business Perspective: 5 Main Arguments Against AI's Invasion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-role-of-ai-in-shaping-the-future-of-mental-health-services-boon-or-bane/"><u>The Role of AI in Shaping the Future of Mental Health Services: Boon or Bane?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-waterproof-wearables-comprehensive-gadget-reviews-by-tech-experts/"><u>Top-Rated Waterproof Wearables - Comprehensive Gadget Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-mobile-experience-with-the-latest-chatgpt-ios-application-launch/"><u>Transform Your Mobile Experience with the Latest ChatGPT iOS Application Launch</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-you-need-to-know-about-fraudgpt-a-preventive-approach-to-staying-secure-online/"><u>What You Need to Know About FraudGPT: A Preventive Approach to Staying Secure Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-wander-in-wealthy-web-words-worlds/"><u>[Updated] Wander in Wealthy Web Words Worlds</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-into-success-mastering-tagging-for-engaging-content/"><u>2024 Approved Step Into Success Mastering Tagging for Engaging Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-streamlining-social-media-interactions-tiktok-to-fb/"><u>2024 Approved Streamlining Social Media Interactions TikTok to FB</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-toshiba-software-ultimate-guide-for-windows-users/"><u>Download & Update Toshiba Software: Ultimate Guide for Windows Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-data-protection-for-ios-devices-mastering-the-art-of-icloud-and-mac-integration-insights-by-zdnet/"><u>Effortless Data Protection for iOS Devices: Mastering the Art of iCloud and Mac Integration | Insights by ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-workplace-technology-how-apples-vision-pro-enables-efficient-enterprise-devices-management-featured/"><u>Revolutionizing Workplace Technology: How Apple's Vision Pro Enables Efficient Enterprise Devices Management - Featured</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-crafting-and-sharing-your-custom-contact-poster-via-ios-17s-namedrop-feature-tech-insights/"><u>Step-by-Step Guide: Crafting and Sharing Your Custom Contact Poster via iOS 17'S NameDrop Feature | Tech Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-guide-sending-and-receiving-imessage-texts-like-a-pro-tips/"><u>Windows Guide: Sending & Receiving iMessage Texts Like a Pro - Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Management System - A Comprehensive Guide"
-date: 2024-10-12T08:14:06.546Z
-updated: 2024-10-16T08:17:35.465Z
+date: 2024-10-15T20:38:26.224Z
+updated: 2024-10-21T16:51:57.005Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,16 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +86,16 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,19 +146,24 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-create-memes-for-free-with-the-meme-maker-tools/"><u>[New] 2024 Approved Create Memes for Free with the Meme Maker Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-essential-tips-for-leveraging-azure-speech-to-text-service/"><u>[Updated] 2024 Approved Essential Tips for Leveraging Azure Speech to Text Service</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-action-cam-showdown-gopro-vs-yi-technology-review-for-2024/"><u>[Updated] Action Cam Showdown GoPro Vs. Yi Technology Review for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-photo-cropping-apps-how-to-crop-photos-on-iphone-for-2024/"><u>[Updated] Photo Cropping Apps How to Crop Photos on iPhone for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bypassing-limits-gpts-hidden-potentials/"><u>Bypassing Limits: GPT's Hidden Potentials</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/claudes-edge-over-gpt-identifying-the-top-4-differentiators/"><u>Claude’s Edge Over GPT: Identifying the Top 4 Differentiators</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/expert-steps-for-using-win3n-disk-image-tool-on-sd-cards-plus-reliable-alternatives-revealed/"><u>Expert Steps for Using Win3n Disk Image Tool on SD Cards + Reliable Alternatives Revealed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-best-ai-powered-therapy-bots-for-overcoming-emotional-hurdles/"><u>Explore the Best AI-Powered Therapy Bots for Overcoming Emotional Hurdles</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-how-to-optimize-solo-streaming-with-flawless-execution/"><u>In 2024, How to Optimize Solo Streaming with Flawless Execution</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/perfecting-the-pathway-of-imovie-content-to-youtube-for-2024/"><u>Perfecting the Pathway of iMovie Content to YouTube for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/quick-and-simple-conversion-change-mov-videos-to-mp3-audio-on-macos/"><u>Quick and Simple Conversion: Change MOV Videos to MP3 Audio on macOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-5-tactics-for-enhancing-your-experience-with-chatgpt-via-custom-orders/"><u>The Ultimate 5 Tactics for Enhancing Your Experience with ChatGPT via Custom Orders</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/top-4-methods-for-capturing-screen-and-sound-on-windows-11/"><u>Top 4 Methods for Capturing Screen & Sound on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-procedure-for-deactivating-your-chatgpt-account/"><u>Ultimate Procedure for Deactivating Your ChatGPT Account</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-get-close-or-farther-with-ease-on-instagram-stories-for-2024/"><u>[Updated] Get Close or Farther with Ease on Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-telegrams-wonders-for-marketers-beginning-their-journey/"><u>[Updated] Telegram’s Wonders for Marketers Beginning Their Journey</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unraveling-the-secrets-to-gently-fading-audio-in-audacity/"><u>[Updated] Unraveling the Secrets to Gently Fading Audio in Audacity</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensible-guide-to-reviving-stuck-windows-itunes/"><u>A Comprehensible Guide to Reviving Stuck Windows iTunes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-improved-in-store-trials-of-apple-vision-pro-insider-tips-on-scheduling-yours-zdnet/"><u>Discover Improved In-Store Trials of Apple Vision Pro - Insider Tips on Scheduling Yours | ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-new-possibilities-the-best-5-experiments-to-enjoy-with-ios-18-public-preview/"><u>Discover New Possibilities: The Best 5 Experiments to Enjoy with iOS 18 Public Preview!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-a-bargain-elevate-your-apple-watch-style-with-the-discounted-powerband-at-just-40-featured-in-zdnet/"><u>Get a Bargain: Elevate Your Apple Watch Style with the Discounted PowerBand at Just $40 - Featured in ZDNet!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-track-to-optimizing-adobe-and-selective-non-adobe-solutions/"><u>In 2024, Inside Track to Optimizing Adobe and Selective Non-Adobe Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-examination-of-the-ergohead-anti-fatigue-standing-desk-accessory-for-durable-comfort/"><u>In-Depth Examination of the Ergohead Anti Fatigue Standing Desk Accessory for Durable Comfort</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-ears-ahead-apples-potential-airpods-with-cameras-set-for-a-futuristic-launch-in-2026-exclusive-zdnet-report/"><u>Innovative Ears Ahead? Apple's Potential AirPods with Cameras Set for a Futuristic Launch in 2026 - Exclusive ZDNet Report</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-iphone-long-exposure-a-comprehensive-guide-for-2024/"><u>Mastering iPhone Long Exposure A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimal-mac-management-software-of-the-year-expertly-curated-selections-for-peak-performance/"><u>Optimal Mac Management Software of the Year: Expertly Curated Selections for Peak Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tech-update-how-apple-is-pioneering-budget-friendly-vision-headsets-and-ar-glasses-according-to-zdnet-research/"><u>Tech Update: How Apple Is Pioneering Budget-Friendly Vision Headsets and AR Glasses, According to ZDNet Research</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-asus-rog-phone-7-ultimate-frp-by-drfone-android/"><u>The Updated Method to Bypass Asus ROG Phone 7 Ultimate FRP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-apple-watch-models-comprehensive-testing-and-reviews-by-professionals-techradar/"><u>Top Rated Apple Watch Models : Comprehensive Testing & Reviews by Professionals | TechRadar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-ranking-wet-proof-smart-timepieces-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking Wet-Proof Smart Timepieces : Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-mini-tablet-picks-comprehensive-comparisons-and-reviews-by-tech-experts-at-zdnet/"><u>Top-Rated Mini Tablet Picks - Comprehensive Comparisons & Reviews by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-users-save-your-keys-from-failure/"><u>Windows Users: Save Your Keys From Failure</u></a></li>
 </ul></div>
 

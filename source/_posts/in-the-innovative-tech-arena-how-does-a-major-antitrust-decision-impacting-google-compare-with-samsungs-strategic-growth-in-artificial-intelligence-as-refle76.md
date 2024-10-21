@@ -1,7 +1,7 @@
 ---
 title: In the Innovative Tech Arena, How Does a Major Antitrust Decision Impacting Google Compare with Samsung's Strategic Growth in Artificial Intelligence as Reflected on the Innovation Index?
-date: 2024-10-13T16:31:47.044Z
-updated: 2024-10-15T19:46:36.278Z
+date: 2024-10-16T22:14:18.918Z
+updated: 2024-10-21T17:30:09.132Z
 tags:
   - apple
 categories:
@@ -71,34 +71,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-step-by-step-guide-to-excelling-at-final-cut-pro/"><u>[New] In 2024, Step-by-Step Guide to Excelling at Final Cut Pro</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-from-setup-to-sharing-comprehensive-guide-for-instagram-and-obs-integration-for-2024/"><u>[Updated] From Setup to Sharing Comprehensive Guide for Instagram & OBS Integration for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-iconic-quests-and-thrills-a-curated-list-of-classics/"><u>[Updated] Iconic Quests & Thrills A Curated List of Classics</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-guide-to-gathering-creative-themes-using-google-trends/"><u>[Updated] In 2024, A Guide to Gathering Creative Themes Using Google Trends</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-professional-webcam-recording-solutions-explored-for-2024/"><u>[Updated] Professional WebCam Recording Solutions Explored for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-infinix-note-30-vip-racing-edition-frp-bypass-by-drfone-android/"><u>About Infinix Note 30 VIP Racing Edition FRP Bypass</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-i-master-healthy-cooking-through-chatgpts-lessons/"><u>Can I Master Healthy Cooking Through ChatGPT's Lessons?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-champions-emerge-gpt-vs-bing-showdown/"><u>Chatbot Champions Emerge: GPT Vs. Bing Showdown</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-unresponsive-try-these-5-tactics-to-determine-availability/"><u>ChatGPT Unresponsive? Try These 5 Tactics To Determine Availability</u></a></li>
-<li><a href="https://discover-help.techidaily.com/effortlessly-copy-songs-from-iphone-to-ipod-touch-shuffle-or-nano-a-comprehensive-walkthrough/"><u>Effortlessly Copy Songs From iPhone to iPod Touch, Shuffle or Nano - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhanced-ai-communication-unveil-top-9-pluses-for-chatgpt/"><u>Enhanced AI Communication: Unveil Top 9 Pluses for ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guiding-your-childs-safe-engagement-with-chatgpt-a-parents-handbook/"><u>Guiding Your Child's Safe Engagement with ChatGPT: A Parent’s Handbook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-connect-to-chatgpt-via-virtual-private-network-vpn/"><u>How To Connect To ChatGPT Via Virtual Private Network (VPN)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-tier-165hz-gamespeed-displays/"><u>Top-Tier 165Hz Gamespeed Displays</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-tool-reigns-supreme-in-translations-analyzing-chatgpt-against-google-translate/"><u>Which Tool Reigns Supreme in Translations? Analyzing ChatGPT Against Google Translate</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-auditory-cataloguing-pc-noises-and-speech-recordings-for-2024/"><u>[New] Auditory Cataloguing PC Noises & Speech Recordings for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-simple-steps-to-master-no-cost-time-tracking-for-2024/"><u>[New] Simple Steps to Master No-Cost Time Tracking for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-soothing-games-to-ease-anxiety/"><u>[New] Top 10 Soothing Games to Ease Anxiety</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/capture-abc-news-footage-quickly-with-the-abcnews-video-downloader-app/"><u>Capture ABC News Footage Quickly with the ABCNews Video Downloader App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-macbook-enhancements-for-2aturate-your-laptop-expertly-tested-gear-of-2024/"><u>Essential MacBook Enhancements for 2Aturate Your Laptop | Expertly Tested Gear of 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/e-curiosity-with-a-personal-touch-anime-subscribe-buttons-for-filmmakers-filmora-for-2024/"><u>Ignite Curiosity with a Personal Touch - Anime Subscribe Buttons for Filmmakers (Filmora) for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-accelerating-your-creative-process-high-quality-3d-models-tools/"><u>In 2024, Accelerating Your Creative Process High-Quality 3D Models Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-15-insider-analysis-exceptional-performance-and-features-that-impress-both-novices-and-experts-exclusive/"><u>IPhone 15 Insider Analysis: Exceptional Performance & Features That Impress Both Novices and Experts Exclusive</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-call-recording-guide-is-it-legal-step-by-step-process-covered/"><u>IPhone Call Recording Guide: Is It Legal? Step-by-Step Process Covered</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-steam-deck-input-a-guide-to-the-keyboard/"><u>Perfecting Steam Deck Input: A Guide to the Keyboard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-top-five-ios-18-highlights-from-apples-2024-wwdc-keynote-with-a-spotlight-on-revolutionary-ai-features-techcrunch/"><u>Unveiling Top Five iOS 18 Highlights From Apple's 2024 WWDC Keynote, with a Spotlight on Revolutionary AI Features | TechCrunch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/zdnets-expert-selection-of-top-stylus-tablets-for-202n4-in-depth-analysis-and-ratings-best-of-the-year/"><u>ZDNet's Expert Selection of Top Stylus Tablets for 202N4: In-Depth Analysis and Ratings | Best of the Year</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Combatting Fake ChatGPT Pages: A Practical Guide"
-date: 2024-09-07T00:17:12.939Z
-updated: 2024-09-08T00:17:12.939Z
+date: 2024-10-20T20:40:32.655Z
+updated: 2024-10-21T16:50:46.470Z
 tags:
   - chatgpt
   - open-ai
@@ -35,30 +35,12 @@ thumbnail: https://thmb.techidaily.com/9986a0298b6ed41baf9ff52abd2373f4874f20858
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
@@ -74,21 +56,16 @@ thumbnail: https://thmb.techidaily.com/9986a0298b6ed41baf9ff52abd2373f4874f20858
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -101,12 +78,6 @@ thumbnail: https://thmb.techidaily.com/9986a0298b6ed41baf9ff52abd2373f4874f20858
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
@@ -123,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/9986a0298b6ed41baf9ff52abd2373f4874f20858
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
@@ -132,11 +110,12 @@ thumbnail: https://thmb.techidaily.com/9986a0298b6ed41baf9ff52abd2373f4874f20858
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
@@ -154,11 +133,12 @@ thumbnail: https://thmb.techidaily.com/9986a0298b6ed41baf9ff52abd2373f4874f20858
 You read it here first, folks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## No Chatbot Is Perfect
 
  We found that while all three large language models have their advantages and disadvantages, none of them can replace the real expertise of a human being with specialized knowledge.
@@ -167,14 +147,11 @@ You read it here first, folks.
 
  If you'd like to create great AI art without worrying that somebody's looking over your shoulder, it's easy to run an art AI model on your local machine, too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,4 +160,19 @@ You read it here first, folks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-innovative-methods-for-straightforward-ios-screenshots-for-2024/"><u>[New] Innovative Methods for Straightforward IOS Screenshots for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleash-the-potential-customizing-your-youtube-channel-url/"><u>[Updated] Unleash the Potential Customizing Your YouTube Channel Url</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-complete-walkthrough-deactivating-microsofts-new-ai-tool-from-windows-11/"><u>A Complete Walkthrough: Deactivating Microsoft's New AI Tool From Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-emoji-trends-addressing-cybersecurity-with-activision-hack-incident-and-protecting-jobs-from-chatgpt-powered-ai-intrusions/"><u>Deciphering Emoji Trends, Addressing Cybersecurity with Activision Hack Incident, and Protecting Jobs From ChatGPT-Powered AI Intrusions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hydro-durable-cams-of-the-week-7-edition-revealed/"><u>Hydro-Durable Cams of the Week – #7 Edition Revealed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-assessing-tseries-financial-outcomes-from-youtube-presence/"><u>In 2024, Assessing TSeries’ Financial Outcomes From YouTube Presence</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-honor-v-purse-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor V Purse ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-prime-lenses-for-top-tier-film-projects/"><u>In 2024, Innovative Prime Lenses for Top-Tier Film Projects</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/strating-a-journey-through-hidden-youtube-archives-for-2024/"><u>Orchestrating a Journey Through Hidden YouTube Archives for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/penning-poetic-wonders-how-to-harness-chatgpt-for-crafting-your-dream-book-of-poems/"><u>Penning Poetic Wonders: How to Harness ChatGPT for Crafting Your Dream Book of Poems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tailoring-twitter-threads-for-maximum-impact-chatgpt/"><u>Tailoring Twitter Threads for Maximum Impact (ChatGPT)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-artificeal-intelligence-will-machines-triumph-in-the-turing-challenge/"><u>The Future of Artificeal Intelligence: Will Machines Triumph in the Turing Challenge?</u></a></li>
+</ul></div>
 

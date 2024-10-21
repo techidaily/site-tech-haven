@@ -1,7 +1,7 @@
 ---
 title: Black Friday Alert! Snatch Up a Steep Discount on Apple's Magic Keyboard for Just $90 Less – Your Guide to Savings Starts Here at ZDNet.
-date: 2024-10-09T06:33:39.896Z
-updated: 2024-10-16T07:48:41.202Z
+date: 2024-10-19T20:51:48.311Z
+updated: 2024-10-21T22:20:03.069Z
 tags:
   - apple
 categories:
@@ -73,29 +73,31 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-hd-cameras-for-wildlife-enthusiasts/"><u>[New] 2024 Approved Top HD Cameras For Wildlife Enthusiasts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-superior-video-capture-systems-the-1-to-18-list/"><u>[New] Superior Video Capture Systems - The #1 to #18 List</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-streamlining-whiteboard-interactions-with-google-meet-across-multiple-platforms/"><u>[Updated] 2024 Approved Streamlining Whiteboard Interactions with Google Meet Across Multiple Platforms</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726029847038-dvdusb/"><u>「対面レンダリングとの比較: DVDからUSBへデータ移行の新手法 - 無料ソフト推薦」</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-convert-textbooks-into-searchable-pdfs-easily-with-vitalsource/"><u>1. Convert Textbooks Into Searchable PDFs Easily with Vitalsource</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-free-digital-ebook-readers-top-5-choices/"><u>Best Free Digital eBook Readers: Top 5 Choices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/complete-guide-to-unlocking-digital-books-drm-free-conversion-from-epub-pdf-azw-formats/"><u>Complete Guide to Unlocking Digital Books: DRM-Free Conversion From EPUB, PDF, AZW Formats</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-elite-game-lineup-2023s-top-titles-for-your-steam-deck/"><u>Discover the Elite Game Lineup: 2023'S Top Titles for Your Steam Deck</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-civi-3-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Civi 3.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhancing-font-clarity-on-windows-11-a-step-by-step-solution-guide/"><u>Enhancing Font Clarity on Windows 11 - A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-oneplus-open-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on OnePlus Open</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/slow-motion-magic-how-to-use-windows-live-movie-makers-advanced-features/"><u>Slow Motion Magic How to Use Windows Live Movie Makers Advanced Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/steps-to-change-ebooks-in-audible-aa-format-into-a-playable-mp3-version/"><u>Steps to Change Ebooks in Audible .aa Format Into a Playable MP3 Version</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategies-for-distributing-digital-reads-from-kindle-tips-for-gifting-stories-to-kin-and-companions/"><u>Strategies for Distributing Digital Reads From Kindle: Tips for Gifting Stories to Kin and Companions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-definitive-guide-effortless-drm-free-audio-downloads/"><u>The Definitive Guide: Effortless DRM-Free Audio Downloads</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-optimal-ebook-management-software-solutions/"><u>Top 5 Optimal Ebook Management Software Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/uncover-hidden-secrets-essential-amazon-kindle-paperwhite-shortcuts-and-guides/"><u>Uncover Hidden Secrets: Essential Amazon Kindle Paperwhite Shortcuts & Guides</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-internet-extension-fb-stories-grabber/"><u>[New] 2024 Approved Internet Extension Fb Stories Grabber</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-game-sounds-ps5-and-ps4-adjustments/"><u>[Updated] Perfecting Game Sounds PS5 & PS4 Adjustments</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-tech-at-its-best-why-the-moto-g-stylus-deserves-your-attention-a-full-length-review/"><u>Affordable Tech at Its Best – Why the Moto G Stylus Deserves Your Attention: A Full-Length Review</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-redmi-k70-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi Redmi K70? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-smartphones-cherished-staff-a-behind-the-scenes-look/"><u>Discover the Smartphones Cherished Staff - A Behind-the-Scenes Look</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-drivers-no-speaker-or-headphone-connections-recognized-in-windows-1187/"><u>Fixing Audio Drivers: No Speaker or Headphone Connections Recognized in Windows 11/8/7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-android-can-step-up-its-game-against-ios-a-deep-dive-into-key-improvements-for-greater-compatibility-suggested/"><u>How Android Can Step Up Its Game Against iOS: A Deep Dive Into Key Improvements for Greater Compatibility, Suggested</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-for-the-digital-novice-a-beginners-guide-to-visual-clarity-and-pixel-perfect-images/"><u>In 2024, For the Digital Novice A Beginner's Guide to Visual Clarity and Pixel-Perfect Images</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipad-pro-analysis-why-apples-premier-tablet-excels-in-its-own-right-distinct-from-the-macbook-insights-by-zdnet/"><u>IPad Pro Analysis: Why Apple's Premier Tablet Excels in Its Own Right, Distinct From the MacBook | Insights by ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-move-top-strategies-for-a-hassle-free-upgrade-to-an-iphone-featured/"><u>Mastering the Move: Top Strategies for a Hassle-Free Upgrade to an iPhone, Featured</u></a></li>
+<li><a href="https://fox-place.techidaily.com/most-effective-redo-backup-software-compared-for-windows-10-users/"><u>Most Effective Redo Backup Software Compared for Windows 10 Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-cross-platform-streaming-transfer-dlna-content-from-android-devices-to-pcs-and-macs-including-connections-with-smart-tvs/"><u>Seamless Cross-Platform Streaming: Transfer DLNA Content From Android Devices to PCs and Macs, Including Connections with Smart TVs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/setting-up-automatic-tab-closure-on-safari-in-macos-catalina-a-step-by-step-guide/"><u>Setting up Automatic Tab Closure on Safari in macOS Catalina: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-detecting-and-eliminating-mobile-phone-spyware-tips-from-zdnet/"><u>Step-by-Step Guide: Detecting & Eliminating Mobile Phone Spyware - Tips From ZDNet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/transform-your-visual-storytelling-with-luts-in-ae/"><u>Transform Your Visual Storytelling with LUTs in AE</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-choosing-the-perfect-small-tablets-in-202-cued-industry-experts-weigh-in/"><u>Ultimate Guide to Choosing the Perfect Small Tablets in 202 Cued: Industry Experts Weigh In</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-smallest-high-performance-tablets-of-2024-vetted-and-analyzed-by-industry-experts-choice/"><u>Ultimate Guide to the Smallest High-Performance Tablets of 2024 - Vetted and Analyzed by Industry Experts Choice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrade-your-handling-skills-for-iphone-and-airpods-with-our-ultimate-guide/"><u>Upgrade Your Handling Skills for iPhone & AirPods with Our Ultimate Guide!</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

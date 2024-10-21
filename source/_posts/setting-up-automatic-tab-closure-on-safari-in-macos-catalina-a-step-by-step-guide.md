@@ -1,7 +1,7 @@
 ---
 title: "Setting up Automatic Tab Closure on Safari in macOS Catalina: A Step-by-Step Guide"
-date: 2024-10-10T03:02:57.565Z
-updated: 2024-10-15T19:24:52.144Z
+date: 2024-10-17T21:12:07.420Z
+updated: 2024-10-21T20:30:20.375Z
 tags:
   - apple
 categories:
@@ -36,24 +36,24 @@ Let me show you how it works.
 
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to create different network locations in MacOS
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Requirements
 
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open System Preferences
@@ -61,28 +61,15 @@ The only thing you'll need is a device running an updated version of MacOS. This
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Open Network
 
 From within System Preferences, click the Network icon to open the Network section.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Create a new network location
 
@@ -91,6 +78,13 @@ From the Location drop-down, select Edit Locations. In the resulting pop-up, cli
 Creating a new Network Location in MacOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Configure the new location
 
@@ -145,22 +139,14 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-powerful-narratives-with-these-30-video-plans/"><u>[New] Crafting Powerful Narratives with These 30 Video Plans</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-cost-breakdown-for-youtube-ads/"><u>[Updated] 2024 Approved Cost Breakdown for YouTube Ads</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-mastering-viewing-on-facebook-live/"><u>[Updated] In 2024, Mastering Viewing on Facebook Live</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-sound-sculpting-on-android-the-7-ultimate-audio-editing-apps-for-2024/"><u>[Updated] Sound Sculpting on Android The 7 Ultimate Audio Editing Apps for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-captivate-audiences-with-perfectly-tailored-youtube-descriptions/"><u>2024 Approved Captivate Audiences with Perfectly Tailored Youtube Descriptions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-in-class-bots-chatgpt-or-gemini-for-top-notch-programming-assistance/"><u>Best in Class Bots: ChatGPT or Gemini for Top-Notch Programming Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-writing-game-go-paperless-with-hix-and-gpt-narratives/"><u>Elevate Your Writing Game - Go Paperless with HIX and GPT-Narratives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploiting-chatgpts-link-to-wolframalpha-in-3-ways/"><u>Exploiting ChatGPT's Link to WolframAlpha in 3 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-3d-print-designs-a-step-by-step-guide-using-chatgpt/"><u>Mastering 3D Print Designs: A Step-by-Step Guide Using ChatGPT</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-cost-effective-visual-integration-in-writing/"><u>Mastering Cost-Effective Visual Integration in Writing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-tutorial-guide-download-and-install-llama-2-locally/"><u>Quick Tutorial Guide: Download & Install Llama 2 Locally</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tired-of-awaiting-chatgpt-desktop-embrace-this-robust-open-source-substitute-now/"><u>Tired of Awaiting ChatGPT Desktop? Embrace This Robust Open-Source Substitute Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/visual-visionaries-top-30-conceptual-spark-plugs-from-ai-art/"><u>Visual Visionaries: Top 30 Conceptual Spark Plugs From AI Art</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/who-reigns-supreme-googles-bard-or-microsofts-bing-chat/"><u>Who Reigns Supreme? Google’s Bard or Microsoft’s Bing Chat</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-quieter-skype-talks/"><u>[New] In 2024, The Ultimate Guide to Quieter Skype Talks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-discover-top-tier-clicker-games-for-a-fulfilling-pc-experience/"><u>[Updated] Discover Top-Tier Clicker Games for a Fulfilling PC Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-what-is-the-best-video-format-for-youtube-in-2024/"><u>[Updated] What Is the Best Video Format for YouTube, In 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-complexities-of-artificial-intelligences-effect-on-psychological-support-systems/"><u>Navigating the Complexities of Artificial Intelligence's Effect on Psychological Support Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-privacy-methods-to-prevent-chatgpt-from-storing-your-dialogues/"><u>Protecting Privacy: Methods to Prevent ChatGPT From Storing Your Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-visual-content-game-generating-ai-photos-through-chatgpt-explained/"><u>Transform Your Visual Content Game: Generating AI Photos Through ChatGPT Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-bert-ai-key-differences-from-gpts-approach-to-nlp/"><u>Understanding the BERT AI: Key Differences From GPT's Approach to NLP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-usechatgpt-copilot-add-on-features-and-capabilities/"><u>Understanding the UseChatGPT Copilot Add-On: Features & Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-innovative-conversations-integrating-nvidias-rtx-powered-ai-chat-assistant-into-your-pc/"><u>Unleashing Innovative Conversations: Integrating Nvidia's RTX-Powered AI Chat Assistant Into Your PC</u></a></li>
 </ul></div>
 

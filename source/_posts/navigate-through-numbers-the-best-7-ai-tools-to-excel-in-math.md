@@ -1,7 +1,7 @@
 ---
 title: "Navigate Through Numbers: The Best 7 AI Tools to Excel in Math"
-date: 2024-09-07T00:17:08.427Z
-updated: 2024-09-08T00:17:08.427Z
+date: 2024-10-19T22:40:38.112Z
+updated: 2024-10-21T16:28:49.944Z
 tags:
   - chatgpt
   - open-ai
@@ -31,12 +31,6 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -49,20 +43,15 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The more context you provide your AI tool, the better of a response you'll receive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -75,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
@@ -86,11 +82,18 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
@@ -111,20 +114,8 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -134,17 +125,12 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
@@ -153,16 +139,20 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
- AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+ AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -171,4 +161,26 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-advanced-techniques-for-youtube-card-use/"><u>[New] 2024 Approved Advanced Techniques for YouTube Card Use</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-5-efficient-ways-to-store-movies-and-videos-mov-in-windows/"><u>[Updated] 2024 Approved 5 Efficient Ways to Store Movies & Videos (.mov) in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-current-updates-wide-usefulness/"><u>ChatGPT's Current Updates: Wide Usefulness</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/drive-traffic-and-growth-with-youtube-analytic-insights-for-2024/"><u>Drive Traffic and Growth with YouTube Analytic Insights for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-veuillez-convertir-votre-fichier-caf-en-format-ogg-conversion-video-professionnelle-avec-movavi/"><u>Gratuit Veuillez Convertir Votre Fichier CAF en Format OGG - Conversion Vidéo Professionnelle Avec Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-address-chatgpt-full-capacity-warnings-on-your-pc-with-windows/"><u>How to Address ChatGPT Full Capacity Warnings on Your PC with Windows</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-to-create-interactive-flipbooks-from-paper-books-emulate-the-real-page-turning-experience-online/"><u>How to Create Interactive FlipBooks From Paper Books: Emulate the Real Page-Turning Experience Online</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-best-performance-from-your-logiteein-g29-wheel-with-updated-drivers-for-all-windows-versions-11107/"><u>How to Get the Best Performance From Your Logiteein G29 Wheel with Updated Drivers for All Windows Versions (11/10/7)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-x-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone X to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-tune-treasure-trove-save-and-study-sound-files/"><u>In 2024, Tune Treasure Trove Save & Study Sound Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/online-privacy-prevent-openai-scrape-attempts/"><u>Online Privacy: Prevent OpenAI Scrape Attempts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlining-your-watchlist-with-chatgpt-insights/"><u>Streamlining Your Watchlist with ChatGPT Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/tapestry-transitions-loom-recording-steps/"><u>Tapestry Transitions Loom Recording Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tech-driven-tickles-ais-role-in-humor-development/"><u>Tech-Driven Tickles: AI's Role in Humor Development</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-technique-to-create-stunning-poems-via-chatgpt/"><u>The Ultimate Technique to Create Stunning Poems via ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-security-risks-when-to-keep-confidential-matters-off-chatgpts-radar/"><u>Understanding Security Risks: When to Keep Confidential Matters Off ChatGPT's Radar</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-screen-and-webcam-recording-the-top-10-windows-10-tools-for-2024/"><u>Updated Screen and Webcam Recording The Top 10 Windows 10 Tools for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-potential-security-threats-exist-in-interacting-with-chatgpt/"><u>What Potential Security Threats Exist in Interacting with ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/winning-hearts-and-minds-persuasive-writing-techniques-and-gpt-assistance/"><u>Winning Hearts and Minds: Persuasive Writing Techniques & GPT Assistance</u></a></li>
+</ul></div>
 

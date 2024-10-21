@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Upgraded with macOS 1N Sequoia Beta Version - Step-by-Step Instructions!
-date: 2024-10-15T03:56:30.428Z
-updated: 2024-10-16T04:42:10.996Z
+date: 2024-10-20T18:40:56.858Z
+updated: 2024-10-21T22:41:21.139Z
 tags:
   - apple
 categories:
@@ -28,22 +28,15 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -53,6 +46,13 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -79,10 +79,16 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -100,10 +106,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,17 +154,17 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-practices-for-unshaky-phone-videos/"><u>[New] Best Practices for Unshaky Phone Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-deciding-the-right-direction-fb-video-posts/"><u>[New] Deciding the Right Direction FB Video Posts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-10-record-screen-and-upload-to-youtube-tools-pc-mac-online/"><u>[New] In 2024, 10 Record Screen and Upload to YouTube Tools [PC, Mac, Online]</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/advanced-techniques-for-azure-speech-to-text-use-for-2024/"><u>Advanced Techniques for Azure Speech to Text Use for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-xiaomi-redmi-k70-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Xiaomi Redmi K70</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-crucial-links-in-the-nyts-latest-piece-connect-and-comprehend-august-12-update-427/"><u>Discover Crucial Links in the NYT's Latest Piece - Connect and Comprehend August 12 Update (#427)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-how-to-secretly-text-friends-on-whatsapp-before-they-save-you/"><u>Discover How to Secretly Text Friends on WhatsApp Before They Save You!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-insights-with-the-august-16-new-york-times-connections-puzzle-solution-431-available-now/"><u>Discover Insights with the August 16 New York Times Connections Puzzle - Solution #431 Available Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-superior-online-information-retrieval-and-real-time-sports-updates-on-the-newly-revamped-google-chrome-browser/"><u>Discover Superior Online Information Retrieval & Real-Time Sports Updates on the Newly Revamped Google Chrome Browser</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme C53? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-the-crashes-expert-advice-on-making-helldivers-2-work-flawlessly-on-your-computer/"><u>Stop the Crashes: Expert Advice on Making Helldivers 2 Work Flawlessly on Your Computer</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-13-pro-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 13 Pro Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-narzo-60-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme Narzo 60 5G Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-introduces-a-revolutionary-app-for-conducting-work-calls-from-comfort-of-your-couch/"><u>Apple Introduces a Revolutionary App for Conducting Work Calls From Comfort of Your Couch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-watch-series-7-vs-series-10-one-compelling-reason-im-not-swapping-in/"><u>Apple Watch Series 7 Vs. Series 10: One Compelling Reason I'm Not Swapping In</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-nlp-giants-deep-dive-into-gpt-vs-bert/"><u>Deconstructing NLP Giants: Deep Dive Into GPT Vs. BERT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-elite-durability-and-style-with-top-rated-titanium-apple-watch-bands/"><u>Discover Elite Durability & Style with Top-Rated Titanium Apple Watch Bands</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/find-the-ultimate-tablets-at-rock-bottom-prices-during-amazons-202n-prime-day-hot-deals-curated/"><u>Find the Ultimate Tablets at Rock-Bottom Prices During Amazon's 202N Prime Day - Hot Deals Curated</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-mobile-video-preservation-the-optimal-strategies-for-saving-content-on-iphones-and-androids/"><u>Mastering Mobile Video Preservation: The Optimal Strategies for Saving Content on iPhones & Androids</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/polity-playground-quintessential-politic-simulators-review/"><u>Polity Playground Quintessential Politic Simulators Review</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-explained-how-fb-twtr-ig-and-yt-shape-our-connections/"><u>Social Media Titans Explained: How FB, TWTR, IG and YT Shape Our Connections</u></a></li>
+<li><a href="https://ai-video.techidaily.com/the-ultimate-tutorial-on-managing-photo-quality-and-size-before-printing-in-photoshop/"><u>The Ultimate Tutorial on Managing Photo Quality & Size Before Printing in Photoshop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-apples-revamped-icloud-experience-for-windows-users-in-depth-look-at-new-features-zdnet/"><u>Unveiling Apple's Revamped iCloud Experience for Windows Users: In-Depth Look at New Features - ZDnet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-gaming-experience-with-nextorages-new-8tb-ssd-fast-speeds-and-abundant-space-only-849-perfect-for-pc-and-ps5-gamers/"><u>Upgrade Your Gaming Experience with Nextorage's New 8TB SSD - Fast Speeds & Abundant Space! Only $849 – Perfect for PC and PS5 Gamers</u></a></li>
 </ul></div>
 

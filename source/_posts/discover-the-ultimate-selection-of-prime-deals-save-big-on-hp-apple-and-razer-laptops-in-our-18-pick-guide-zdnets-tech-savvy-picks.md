@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Selection of Prime Deals: Save Big on HP, Apple, and Razer Laptops in Our 18-Pick Guide | ZDNET's Tech Savvy Picks"
-date: 2024-10-08T21:19:59.739Z
-updated: 2024-10-15T16:31:41.037Z
+date: 2024-10-16T22:45:19.400Z
+updated: 2024-10-21T16:25:05.032Z
 tags:
   - apple
 categories:
@@ -75,13 +75,6 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41726830000000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -90,6 +83,13 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -97,13 +97,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M2) for $799 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): [The MacBook Air (M2)](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) combines performance and portability. It's one of our favorite laptops at ZDNET and our Product of the Year -- and it's on sale for just $799, the lowest price we've ever seen.
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
 
@@ -129,6 +122,13 @@ Kyle Kucharski/ZDNET
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -140,16 +140,10 @@ Kyle Kucharski/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -160,16 +154,16 @@ Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals con
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -177,16 +171,16 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -251,24 +245,20 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-tunetruthseeker-reaction-to-songs-and-speech/"><u>[Updated] 2024 Approved TuneTruthseeker Reaction to Songs and Speech</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-honor-100-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Honor 100 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-x100-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo X100</u></a></li>
-<li><a href="https://app-tips.techidaily.com/adapting-cyber-defense-tactics-modernizing-security-expertise-amidst-outdated-infrastructure-challenges/"><u>Adapting Cyber Defense Tactics: Modernizing Security Expertise Amidst Outdated Infrastructure Challenges</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoiding-content-creation-missteps-use-of-chatgpt/"><u>Avoiding Content Creation Missteps: Use of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-plus-unveiled-weighing-its-advantages-and-disadvantages/"><u>ChatGPT Plus Unveiled: Weighing Its Advantages and Disadvantages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-chatgpts-business-centric-features/"><u>Decoding ChatGPT's Business-Centric Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-textual-constructs-in-pdfs-through-chatgpts-insights/"><u>Demystifying Textual Constructs in PDFs Through ChatGPT's Insights</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/diskdefender-guarding-against-raid-failures/"><u>DiskDefender: Guarding Against RAID Failures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/freelancers-guide-to-selecting-a-bot-is-bing-or-gpt-3-better/"><u>Freelancer's Guide to Selecting a Bot: Is Bing or GPT-3 Better?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guia-simple-para-conversion-libre-de-mp4-a-mkv-online-con-movavi/"><u>Guía Simple Para Conversión Libre De MP4 a MKV Online Con Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-look-the-revolutionary-ai-features-introduced-by-apple-during-the-wwdc-event-of-2024/"><u>Inside Look: The Revolutionary AI Features Introduced by Apple During the WWDC Event of 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-the-art-of-business-communication-using-these-5-free-ai-platforms-generate-sophisticated-emails-and-summarize-inboxes-with-chatgpt/"><u>Master the Art of Business Communication: Using These 5 FREE AI Platforms, Generate Sophisticated Emails & Summarize Inboxes With ChatGPT</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/my-journey-towards-a-fully-integrated-smart-house-on-prime-day/"><u>My Journey Towards a Fully-Integrated Smart House on Prime Day</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/synchronize-your-files-quickly-mastering-folder-sync-on-windows-11-with-dropbox/"><u>Synchronize Your Files Quickly: Mastering Folder Sync on Windows 11 with Dropbox</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-artificial-intelligence-strategies-to-boost-academic-study/"><u>Top 4 Artificial Intelligence Strategies to Boost Academic Study</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-methods-how-you-can-use-gpt-4-at-no-cost/"><u>Top 5 Methods: How You Can Use GPT-4 at No Cost</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-strategies-for-crafting-successful-gpt-3-prompts-achieve-optimal-ai-responses/"><u>Top 5 Strategies for Crafting Successful GPT-3 Prompts: Achieve Optimal AI Responses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-for-higher-frame-rates-in-cs-go/"><u>Ultimate Guide for Higher Frame Rates in CS GO</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-switching-from-snippet-to-live-play-in-yt-for-2024/"><u>[New] Switching From Snippet to Live Play in YT for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-arctic-athleticism-revealed-the-top-of-the-line-in-olympic-snowboard-cross/"><u>[Updated] 2024 Approved Arctic Athleticism Revealed The Top of the Line in Olympic Snowboard Cross</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-expert-picks-ideal-software-for-screenshots-and-recordings/"><u>[Updated] Expert Picks Ideal Software for Screenshots & Recordings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-connecting-consciously-with-content-craftsmen-of-your-realm/"><u>[Updated] In 2024, Connecting Consciously with Content Craftsmen of Your Realm</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-improved-ease-of-repair-for-the-new-iphone-cuffs-in-depth-analysis-by-apple-experts-at-zdnet/"><u>Discover Improved Ease of Repair for the New iPhone Cuffs | In-Depth Analysis by Apple Experts at ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-android-to-apple-the-iphone-16-attributes-that-may-just-persuade-me/"><u>From Android to Apple? The iPhone 16 Attributes That May Just Persuade Me!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-handle-liquid-found-in-iphone-usb-c-or-lightning-charger-port-top-2-remedies/"><u>How to Handle Liquid Found in iPhone USB-C or Lightning Charger Port: Top 2 Remedies</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-k70e-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi K70E to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Edge 40with/without a PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-your-instagram-memories-unchained-and-safe/"><u>In 2024, Your Instagram Memories, Unchained & Safe</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-the-groundbreaking-feature-the-google-pixel-9-your-lifeline-with-satellite-based-emergency-messaging/"><u>Introducing the Groundbreaking Feature: The Google Pixel 9 - Your Lifeline with Satellite-Based Emergency Messaging</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-note-13-pro-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi Note 13 Pro 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/switching-upgrades-why-i-opted-for-affordable-alternatives-over-the-apple-vision-pro-and-meta-quest-3/"><u>Switching Upgrades: Why I Opted for Affordable Alternatives Over the Apple Vision Pro & Meta Quest 3</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-price-of-your-carriers-complimentary-smartphone-a-deep-dive-into-the-real-cost/"><u>The Hidden Price of Your Carrier's Complimentary Smartphone: A Deep Dive Into the Real Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-cutting-edge-ipad-peripherals-insights/"><u>The Ultimate Guide to Cutting-Edge iPad Peripherals : Insights</u></a></li>
 </ul></div>
 

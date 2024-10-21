@@ -1,7 +1,7 @@
 ---
 title: "Comparing ChatGPT and Gemini: Who Excels in Programming Assistance?"
-date: 2024-09-07T00:17:09.418Z
-updated: 2024-09-08T00:17:09.418Z
+date: 2024-10-20T16:50:55.311Z
+updated: 2024-10-21T17:56:45.746Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Comparing ChatGPT and Gemini: Who Excels in Pro
 thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533edda16b2785562f97192408.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Decoding the Differences: Microsoft's Bing and ChatGPT on a Comparative Scale
 
  At a glance, ChatGPT and Bing's implementation of the AI chatbot seem identical. While they perform similar tasks, the distinction between their language models creates varying results. You’ll trigger new responses even if you repeat your prompts.
@@ -34,17 +28,12 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  Despite these nuances, ChatGPT and Bing execute similar functions. With the correct prompts, they could write essays, answer general knowledge queries, recap books, and scrutinize arguments, among other tasks. Just expect varied responses based on their trained datasets.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Conversational Language
 
  ChatGPT and Bing both use the GPT model. This advanced natural language processing (NLP) system responds to prompts with human-like text. It answers follow-up questions, analyzes problems, and challenges non-factual statements.
@@ -55,52 +44,29 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![Having a Casual, Normal Conversation With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-normal-conversation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the other hand,[Bing AI uses GPT-4](https://blogs.bing.com/search/march%5F2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4) , an iteration of ChatGPT’s language model. Its output sounds casual and genuine.
 
 ![Generating Creative Responses from Microsoft Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-bing-creative-responses.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Currently, you can only[access GPT-4 on ChatGPT](https://www.makeuseof.com/how-to-use-gpt4/) by upgrading to ChatGPT Plus for $20 a month.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Data Accuracy
 
  ChatGPT has explicit disclaimers about data inaccuracy. The platform occasionally produces incorrect information since it carries limited knowledge of events after 2021\. It doesn’t even know its own release date.
 
 ![Asking ChatGPT About Its Launch Date](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-making-precise-answers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Whereas Bing AI’s advanced language model and integrated search engine produce more reliable, precise data. Unlike ChatGPT, Microsoft didn’t train Bing on limited datasets. Instead, it uses its search engine to pull timely, relevant information about world events and general knowledge questions.
 
 ![Asking Bing AI About ChatGPT Launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-giving-precise-dates.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It’s also worth noting that Bing's AI cites sources. Neither platform guarantees 100% accuracy, but knowing which resources to double-check streamlines fact-checking.
 
 ## 4\. Mathematical Precision
@@ -113,16 +79,24 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![ChatGPT Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solving-physics-questions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bing AI answers the same physics question correctly.
 
 ![Bing AI Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bing-ai-solving-physics-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Security Measures
 
  Cybercriminals started misusing ChatGPT almost immediately. Consequently, some saw[ChatGPT as a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) that lets crooks write spam emails, develop malware, and build phishing links.
@@ -136,17 +110,12 @@ Bing AI answers the same physics question correctly.
 ![Bing AI Ends Conversation for Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bingai-security-feature.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Accessibility
 
  One of the first complaints about ChatGPT was its lack of accessibility—it initially only had a web app. OpenAI only released the[official iOS and mobile versions of ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-on-android-and-ios/) in mid-2023.
@@ -154,6 +123,13 @@ Bing AI answers the same physics question correctly.
  Alternatively, Bing AI offered cross-platform accessibility right from the get-go. Its chat feature is available on the[Bing](https://www.bing.com) website, a Microsoft Edge browser extension, and Bing’s mobile app. You could even[use Bing Chat on Skype](https://www.makeuseof.com/use-bing-chat-on-skype/) by adding it to your contacts.
 
  Perhaps the only limitation of Bing AI is that it doesn’t run on third-party browsers, like Mozilla Firefox, Safari, and Google Chrome. You’ll have to download Microsoft Edge. Although seemingly trivial, you might find it inconvenient if Edge isn’t your default browser.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Sign-Up Process
 
@@ -165,12 +141,6 @@ Bing AI answers the same physics question correctly.
 
  Thankfully, Microsoft since lifted the waitlist. Users gain instant access after creating an email account and downloading Microsoft Edge.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Functionality
 
 ![Setting Custom Instructions for Prompts on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/custom-instructions-on-chatgpt.jpg)
@@ -195,6 +165,13 @@ Bing AI answers the same physics question correctly.
 
  Although affordable, subscription fees are unnecessary expenses. Instead of losing $240 per year on ChatGPT Plus, explore Bing's AI first. It already runs on GPT-4, and since[Microsoft plans to monetize Bing through advertisements](https://www.reuters.com/technology/microsofts-bing-plans-ai-ads-early-pitch-advertisers-2023-02-17/) , the platform will likely stay free.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Token Limits
 
  AI-driven chatbots like[ChatGPT learn from user chats through contextual memory](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) . It enables them to reference previous inputs, thus improving output accuracy and relevance as the conversation goes on. The responses improve as you provide information.
@@ -203,24 +180,15 @@ Bing AI answers the same physics question correctly.
 
  These restrictions vary per platform.[ChatGPT has a high upper limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) that can process around 3,000 words per turn, assuming they’re all relevant and related. Meanwhile, Bing AI has a much smaller limit. It caps users to 30 turns, after which you must start a new conversation or restate your custom instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Use Bing's AI or ChatGPT?
 
  Use the above points to make informed assessments, but note that they could change at the drop of a hat. AI technologies are constantly evolving. ChatGPT and Bing AI offer dynamic features that will change as their NLP technologies mature. Expect sudden developments in the tech.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -229,4 +197,21 @@ Bing AI answers the same physics question correctly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-8-engaging-exercise-routines-for-active-viewership/"><u>[New] In 2024, 8 Engaging Exercise Routines for Active Viewership</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/achieve-fluency-in-finnish-with-expert-online-guidance/"><u>Achieve Fluency in Finnish with Expert Online Guidance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/affordable-excellence-zte-blade-a3y-performance-analysis-and-review/"><u>Affordable Excellence: ZTE Blade A3Y Performance Analysis and Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Xiaomi Redmi 12</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/content-creation-revolutionized-by-chatgpt-explore-the-9-most-impactful-features-for-writers/"><u>Content Creation Revolutionized by ChatGPT - Explore the 9 Most Impactful Features for Writers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-superiority-of-netgear-orbi-a-detailed-review-for-unmatched-wireless-performance/"><u>Discover the Superiority of Netgear Orbi - A Detailed Review for Unmatched Wireless Performance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-vivo-y27-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Vivo Y27 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-openais-grip-on-chatgpt-starting-to-slip-away/"><u>Is OpenAI's Grip on ChatGPT Starting to Slip Away?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-gen-gpt-4-poised-to-reinvent-do-it-yourself-industry-innovations/"><u>Next-Gen GPT-4 Poised to Reinvent Do-It-Yourself Industry Innovations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-level-ai-solutions-10-unique-gpt-variants-surpassing-chatgpts-functionality/"><u>Next-Level AI Solutions: 10 Unique GPT Variants Surpassing ChatGPT's Functionality</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/simplify-your-sql-safety-with-auto-backups-from-mysql-dbs-to-amazon-s3-storage/"><u>Simplify Your SQL Safety with Auto-Backups From MySQl DBs to Amazon S3 Storage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-ai-tasks-beginning-with-auto-gpt/"><u>Streamline AI Tasks: Beginning with Auto-GPT</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-essential-guide-to-the-omnicharge-omni-e-a-hybrid-power-bank-revolutionizing-on-the-go-charging/"><u>The Essential Guide to the Omnicharge Omni E - A Hybrid Power Bank Revolutionizing On-the-Go Charging</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-essential-chatgpt-tools-boosting-health-and-well-being/"><u>Top 8 Essential ChatGPT Tools Boosting Health & Well-Being</u></a></li>
+</ul></div>
 

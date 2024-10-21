@@ -1,7 +1,7 @@
 ---
 title: "IPhone Discoverability Alert: Journals Can Expose You by Default - Learn To Turn Off This Feature"
-date: 2024-10-12T22:39:56.050Z
-updated: 2024-10-16T06:19:55.447Z
+date: 2024-10-19T18:31:49.733Z
+updated: 2024-10-21T18:58:53.043Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to your iPhone Settings
 
 To find the Journal app setting, open your Settings app on your iPhone.
@@ -56,13 +63,6 @@ Scroll down and open Privacy & Security within your Apple device's Settings app.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Tap on Journaling Suggestions
 
 Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverable by Others" setting will be enabled until you disable it.
@@ -70,10 +70,10 @@ Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverabl
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
@@ -84,18 +84,18 @@ Maria Diaz/ZDNET
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **FAQ**
 
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
 
@@ -112,10 +112,10 @@ However, some people feel uncomfortable about the app tracking who you've been m
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
@@ -156,19 +156,20 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-bring-forth-forgotten-vids-unlock-the-power-of-these-12-secrets-fb-2023/"><u>[New] In 2024, Bring Forth Forgotten Vids Unlock the Power of These 12 Secrets, FB, 2023</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-insights-on-effective-spotify-ad-targeting-for-2024/"><u>[New] Insights on Effective Spotify Ad Targeting for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-phantom-3-vs-phantom-4/"><u>[Updated] 2024 Approved Phantom 3 Vs Phantom 4</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-iphone-plus-android-tutorial-screen-recording-google-meets-for-2024/"><u>[Updated] IPhone + Android Tutorial Screen Recording Google Meets for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-common-issues-in-youtube-shorts/"><u>2024 Approved Mastering Common Issues in YouTube Shorts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-propel-innovative-expression-ultimate-guide-to-best-android-drawing-tools/"><u>2024 Approved Propel Innovative Expression Ultimate Guide to Best Android Drawing Tools</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/emeditor-the-ultimate-text-editing-software-with-support-until-long-date/"><u>EmEditor: The Ultimate Text Editing Software with Support Until [Long Date]</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/feast-on-a-gallery-ios-top-10-free-stunning-photo-collage-apps/"><u>Feast on a Gallery IOS’ Top 10 FREE, Stunning Photo Collage Apps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fixes-for-cod-vanguard-when-voice-chat-fails/"><u>Fixes for Cod: Vanguard When Voice Chat Fails</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guia-paso-a-paso-sobre-como-convertir-facilmente-tus-archivos-m4b-en-formatos-de-video-mkv-utilizando-herramientas-online-gratuitas/"><u>Guía Paso a Paso Sobre Cómo Convertir Fácilmente Tus Archivos M4B en Formatos De Video MKV Utilizando Herramientas Online Gratuitas</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reimagine-your-interactions-with-this-chrome-gpt-companion/"><u>Reimagine Your Interactions with This Chrome GPT Companion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-activation-of-chatgpt-on-linux-a-comprehensive-bavarder-walkthrough/"><u>Seamless Activation of ChatGPT on Linux: A Comprehensive Bavarder Walkthrough</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-microsoft-copilot-on-a-macos-system/"><u>Step-by-Step Guide: Setting Up Microsoft Copilot on a macOS System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-refreshing-ati-radeon-graphics-card-software-on-microsoft-windows-systems/"><u>Ultimate Tutorial: Refreshing ATI Radeon Graphics Card Software on Microsoft Windows Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-5-essential-browser-recording-apps-unveiled/"><u>[New] 2024 Approved 5 Essential Browser Recording Apps Unveiled</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-best-apps-to-go-live-on-youtube-from-iphone-or-android-for-2024/"><u>[New] 7 Best Apps to Go Live on YouTube From iPhone or Android for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-bloodthirsty-horror-your-go-to-8-zombie-titles/"><u>2024 Approved Bloodthirsty Horror Your Go-To 8 Zombie Titles</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-motorola-moto-g-stylus-2023-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Motorola Moto G Stylus (2023) Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-myths-about-gpt-and-the-world-of-digital-assets/"><u>5 Myths About GPT and the World of Digital Assets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-new-era-of-accessibility-with-gpt-4/"><u>A New Era of Accessibility with GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-comedy-lab-testing-if-machines-can-make-us-laugh/"><u>AI's Comedy Lab: Testing if Machines Can Make Us Laugh</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-the-limits-4-futuristic-features-for-gpt-5/"><u>Beyond the Limits: 4 Futuristic Features for GPT-5</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-asus-zephyrus-g14-analysis-the-ultimate-gamers-choice/"><u>Comprehensive Asus Zephyrus G14 Analysis: The Ultimate Gamer's Choice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722095508827-gpt-4-and-copilot-unite-revolutionize-your-tech-skills-for-free/"><u>GPT-4 and Copilot Unite: Revolutionize Your Tech Skills for Free</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-realme-gt-3-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme GT 3 FRP Bypass</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>New 2024 Approved A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://fox-making.techidaily.com/resolve-unable-to-perform-a-system-restore-on-the-necessary-drive-partition-error-5-effective-solutions/"><u>Resolve 'Unable to Perform a System Restore on the Necessary Drive Partition' Error: 5 Effective Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/would-chatgpt-plus-enhance-your-ai-experience-worth-it/"><u>Would ChatGPT Plus Enhance Your AI Experience Worth It?</u></a></li>
 </ul></div>
 

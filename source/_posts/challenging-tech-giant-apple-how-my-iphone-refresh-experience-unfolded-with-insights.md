@@ -1,7 +1,7 @@
 ---
 title: "Challenging Tech Giant Apple: How My iPhone Refresh Experience Unfolded with Insights"
-date: 2024-10-10T00:08:34.214Z
-updated: 2024-10-15T19:14:04.863Z
+date: 2024-10-20T21:13:39.538Z
+updated: 2024-10-21T21:44:07.958Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -47,10 +54,10 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -70,10 +77,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -106,13 +113,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
@@ -120,10 +120,10 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -162,17 +162,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-your-starting-guide-to-tiktok-macos-basics/"><u>[New] 2024 Approved Your Starting Guide to TikTok (macOS) Basics</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-techniques-to-apply-watermarks-on-fb-content/"><u>[Updated] 2024 Approved Techniques to Apply Watermarks on FB Content</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-why-trust-matters-more-than-just-numbers-on-feeds/"><u>[Updated] In 2024, Why Trust Matters More Than Just Numbers on Feeds</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/begin-your-journey-with-the-advanced-ai-powered-search-tool-bing-by-microsoft/"><u>Begin Your Journey with the Advanced AI-Powered Search Tool – Bing by Microsoft</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-your-videos-youtube-trailers-through-filmora-for-2024/"><u>Elevate Your Videos YouTube Trailers Through Filmora for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-missing-cygwin1dll-files-tips-and-techniques-that-work/"><u>Fixing Missing cygwin1.dll Files: Tips and Techniques That Work</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/groundbreaking-release-openai-unveils-revolutionary-gpt-4-ai/"><u>Groundbreaking Release: OpenAI Unveils Revolutionary GPT-4 AI</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-profiling-perfection-a-visual-guide/"><u>In 2024, Profiling Perfection A Visual Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-motorola-edgeplus-2023-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-unveiling-simplicity-in-ipad-screen-saving-tactics/"><u>In 2024, Unveiling Simplicity in iPad Screen Saving Tactics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-in-rpgs-how-to-employ-chatgpt-and-dall-e-for-custom-dungeons-and-dragons-figures/"><u>Unleashing Creativity in RPGs: How to Employ ChatGPT & DALL-E for Custom Dungeons & Dragons Figures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-5-promising-technologies-in-ai-hardware/"><u>Unveiling the Top 5 Promising Technologies in AI Hardware</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-honing-skills-for-hiring-best-filmmakers/"><u>2024 Approved Honing Skills for Hiring Best Filmmakers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-my-top-travel-accessory-choice-the-versatile-3-in-1-magsafe-charger-supporting-qi2-technology-gadgetzone/"><u>Discover My Top Travel Accessory Choice: The Versatile 3-in-1 MagSafe Charger Supporting Qi2 Technology | GadgetZone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-art-of-windows-11-theme-adaptation-and-enhancement/"><u>Discover the Art of Windows 11 Theme Adaptation and Enhancement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-leading-mac-applications-of-2023-as-ranked-by-experts/"><u>Discover the Leading Mac Applications of 2023 as Ranked by Experts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/dominating-viewership-tips-for-your-video-to-be-a-staff-choice/"><u>Dominating Viewership Tips for Your Video to Be a Staff Choice</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/downloading-cinema-favorites-to-kindle-fire-gratis-and-subscriber-only-content/"><u>Downloading Cinema Favorites to Kindle Fire - Gratis & Subscriber-Only Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sifting-through-media-options-vlc-versus-mx/"><u>In 2024, Sifting Through Media Options VLC Versus MX</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-path-from-conceptualization-to-consuming-your-mukbang-masterpiece/"><u>In 2024, The Path From Conceptualization to Consuming Your Mukbang Masterpiece</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovation-alert-apple-delves-into-ai-enhanced-domestic-robots-showcasing-two-revolutionary-products-update/"><u>Innovation Alert: Apple Delves Into AI-Enhanced Domestic Robots, Showcasing Two Revolutionary Products Update</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipad-air-vs-ipad-pro-showdown-the-stunning-comparison-you-need-to-see/"><u>IPad Air Vs. IPad Pro Showdown: The Stunning Comparison You Need to See</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/novices-guide-to-easy-use-of-windows-accessibility/"><u>Novices' Guide to Easy Use of Windows Accessibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-mobile-editing-how-the-latest-fcpx-update-elevates-film-production-on-ipad-techcrunch/"><u>Revolutionizing Mobile Editing: How the Latest FCPx Update Elevates Film Production on iPad | TechCrunch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unbelievable-bargain-alert-iphone-problem-how-many-ways-can-you-arrange-n-distinct-objects-in-groups-of-r-with-no-two-groups-being-alike-this-is-known-as-th198/"><u>Unbelievable Bargain Alert! IPhone # Problem: How Many Ways Can You Arrange N Distinct Objects in Groups of R, with No Two Groups Being Alike? (This Is Known as the Number of Combinations.)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-the-potential-a-thorough-review-of-the-netgear-c3700-gateway/"><u>Unlocking the Potential: A Thorough Review of the Netgear C3700 Gateway</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrading-from-apple-vision-prometa-quest-3-check-these-budget-friendly-xr-wearables/"><u>Upgrading From Apple Vision Pro/Meta Quest 3? Check These Budget-Friendly XR Wearables</u></a></li>
 </ul></div>
 

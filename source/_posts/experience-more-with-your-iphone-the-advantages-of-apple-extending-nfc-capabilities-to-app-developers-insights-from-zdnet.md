@@ -1,7 +1,7 @@
 ---
 title: "Experience More with Your iPhone: The Advantages of Apple Extending NFC Capabilities to App Developers - Insights From ZDNet"
-date: 2024-10-13T03:10:03.910Z
-updated: 2024-10-15T23:06:16.302Z
+date: 2024-10-18T20:47:25.323Z
+updated: 2024-10-21T19:39:07.407Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -71,6 +71,13 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
@@ -87,13 +94,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -103,10 +103,10 @@ Screenshot by David Gewirtz/ZDNET
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
@@ -120,10 +120,10 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -179,24 +179,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-playback-speed-control-in-youtube/"><u>[New] 2024 Approved Harness the Power of Playback Speed Control in YouTube</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-step-into-fame-the-essential-blueprint-for-adding-channels-as-features-on-youtube/"><u>[New] 2024 Approved Step Into Fame The Essential Blueprint for Adding Channels as Features on Youtube</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-breakthrough-ways-to-amplify-your-video-content-reach/"><u>[New] Breakthrough Ways to Amplify Your Video Content Reach</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-speed-photography-showdown-gopro-hero-4-vs-ghost-s-drift/"><u>[New] In 2024, Speed Photography Showdown GoPro Hero 4 VS Ghost-S Drift</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-vectors-demystified-starting-point-and-software-selection-tips/"><u>[Updated] 2024 Approved Vectors Demystified Starting Point & Software Selection Tips</u></a></li>
-<li><a href="https://ai-video.techidaily.com/2024-approved-translate-video-from-japanese-to-english-online-for-free/"><u>2024 Approved Translate Video From Japanese to English Online for Free</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/advanced-messaging-platforms-redefining-digital-correspondence-and-mail-services/"><u>Advanced Messaging Platforms: Redefining Digital Correspondence and Mail Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-aaaac-to-mp3-transcoders-top-5-reviews-and-comparison/"><u>Best AA/AAC to MP3 Transcoders - Top 5 Reviews & Comparison</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-headsets-ultimate-vr-gear-guide-for-2024/"><u>Beyond Headsets Ultimate VR Gear Guide for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/convert-and-enjoy-how-to-switch-from-audibles-aax-format-to-compatible-m4b-playback-on-any-device/"><u>Convert and Enjoy: How to Switch From Audible's AAX Format to Compatible M4B Playback on Any Device</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-camon-20-premier-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Camon 20 Premier 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x7-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X7 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-13-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 13 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-removing-drm-from-your-google-play-books/"><u>Step-by-Step Guide: Removing DRM From Your Google Play Books</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-removing-digital-rights-management-from-your-ebook-files/"><u>Step-by-Step Tutorial for Removing Digital Rights Management From Your eBook Files</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-android-audiobook-players-ultimate-list-of-app-recommendations/"><u>Top 7 Android Audiobook Players: Ultimate List of App Recommendations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-a-5-step-guide-to-writing-and-publishing-your-first-ebook/"><u>Unlocking the Secrets: A 5-Step Guide to Writing and Publishing Your First eBook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-the-differences-between-kindle-fire-models-a-comprehensive-guide/"><u>Unraveling the Differences Between Kindle Fire Models: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-6-critical-issues-affecting-your-kindle-fire-experience/"><u>Unveiling the Top 6 Critical Issues Affecting Your Kindle Fire Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-swiftswirl-momentmirror-recording/"><u>[New] 2024 Approved SwiftSwirl MomentMirror Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-thankful-compilation-professional-and-personalized-otus/"><u>2024 Approved Thankful Compilation Professional & Personalized OTUs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-20-inspiring-ideas-for-instagram-photos/"><u>2024 Approved Top 20 Inspiring Ideas for Instagram Photos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/accelerate-apple-esr-releases-cutting-edge-qi2-magsafe-battery-tech-for-swift-iphone-16-charging-without-overheating-insights-from-zdnet/"><u>Accelerate Apple: ESR Releases Cutting-Edge Qi2 MagSafe Battery Tech for Swift iPhone 16 Charging Without Overheating – Insights From ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/access-premium-behringer-drives-exclusive-free-download-offer/"><u>Access Premium Behringer Drives: Exclusive Free Download Offer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-innovations-discover-the-advantages-of-apples-broadened-nfc-capabilities-for-iphone-users-and-partner-applications-zdnet/"><u>Empowering Innovations: Discover the Advantages of Apple's Broadened NFC Capabilities for iPhone Users and Partner Applications | ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a60s-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel A60s Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-productivity-on-your-macbook-explore-the-best-upgrades-in-macos-15/"><u>Maximize Productivity on Your MacBook: Explore the Best Upgrades in MacOS 15</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/perfecting-webp-conversion-to-jpeg-format-for-2024/"><u>Perfecting WebP Conversion to JPEG Format for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/seamless-file-and-directory-synchronization-across-windows-systems-versions-11-8-and-erse/"><u>Seamless File and Directory Synchronization Across Windows Systems (Versions 11, 8, and Erse)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-your-early-access-get-the-latest-apple-watch-series-10-in-advance-tips-for-savings-and-pre-ordering-process-insights-from-zdnet/"><u>Secure Your Early Access: Get the Latest Apple Watch Series 10 in Advance! Tips for Savings & Pre-Ordering Process - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-non-apple-non-tile-wallet-airtag-reviews-discover-the-market-leaders/"><u>Top Non-Apple, Non-Tile Wallet AirTag Reviews: Discover the Market Leaders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-selection-of-airtag-wallet-brands-expert-evaluations-by-zdnet/"><u>Ultimate Selection of AirTag Wallet Brands : Expert Evaluations by ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unmissable-amazon-offer-grab-the-apple-vision-pro-for-only-200-off-limited-time-opportunity/"><u>Unmissable Amazon Offer: Grab the Apple Vision Pro for Only $200 Off - Limited Time Opportunity</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Use iMessages on a Windows Computer | Tech Tips by ZDNet
-date: 2024-10-14T21:19:28.656Z
-updated: 2024-10-15T16:37:32.924Z
+date: 2024-10-19T18:03:52.860Z
+updated: 2024-10-21T16:20:57.139Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -70,10 +63,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -86,11 +79,25 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -99,16 +106,16 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -122,13 +129,6 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -158,18 +158,18 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -213,22 +213,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-uncover-all-about-instagrams-video-cap/"><u>[New] 2024 Approved Uncover All About Instagram's Video Cap</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-a-deeper-dive-into-high-definition-online-visibility/"><u>[New] A Deeper Dive Into High Definition Online Visibility</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-blueprint-for-social-success-six-proven-steps-toward-verification-and-growth/"><u>[New] In 2024, The Blueprint for Social Success Six Proven Steps Toward Verification and Growth</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-max-360-or-hero-11-decoding-the-superior-gopro-video-quality/"><u>[Updated] Max 360 or Hero 11? Decoding the Superior GoPro Video Quality</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-sound-sculpting-on-android-the-7-ultimate-audio-editing-apps-for-2024/"><u>[Updated] Sound Sculpting on Android The 7 Ultimate Audio Editing Apps for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/begin-immediate-use-of-8-tailored-generative-pre-trained-transformer-models/"><u>Begin Immediate Use of 8 Tailored Generative Pre-Trained Transformer Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-unveiled-a-comprehensive-ai-handbook-for-parents/"><u>ChatGPT Unveiled: A Comprehensive AI Handbook for Parents</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/critical-faux-pas-to-watch-out-for-in-the-world-of-generative-artifice-intelligence-tools/"><u>Critical Faux Pas to Watch Out For in the World of Generative Artifice Intelligence Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-machine-learning-the-black-box-phenomenon/"><u>Deciphering Machine Learning: The Black Box Phenomenon</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-ai-tools-the-10-next-best-options-beyond-chatgpt/"><u>Essential AI Tools: The 10 Next-Best Options Beyond ChatGPT</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-m6-pro-4g-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oneplus-nord-n30-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass OnePlus Nord N30 5G FRP</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-job-searches-utilizing-chatgpts-edge-to-achieve-professional-goals/"><u>Navigating Job Searches : Utilizing ChatGPT's Edge to Achieve Professional Goals</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ranking-the-best-artificial-intelligence-prompt-providers-for-your-needs/"><u>Ranking the Best Artificial Intelligence Prompt Providers for Your Needs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/shimmer-shots-the-art-of-setting-the-scene-with-light-for-2024/"><u>Shimmer Shots The Art of Setting the Scene with Light for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/sidestep-recurring-spending-unsubscribe-from-steam/"><u>Sidestep Recurring Spending: Unsubscribe From Steam</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/writing-a-stellar-resume-with-chatgpt-a-step-by-step-guide/"><u>Writing a Stellar Resume with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capture-creativity-iosandroids-best-caption-apps/"><u>[New] Capture Creativity IOS/Android’s Best Caption Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-quick-content-in-a-facebook-frame-for-2024/"><u>[Updated] Quick Content in a Facebook Frame for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/guide-to-effective-video-capturing-via-screencastify-for-2024/"><u>Guide to Effective Video Capturing via Screencastify for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-boosting-roi-in-fb-ads-through-animation-techniques/"><u>In 2024, Boosting ROI in FB Ads Through Animation Techniques</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-7-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 7 in the Best Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimal-plug-ins-for-unmatched-gpt-and-vs-code-performance/"><u>Optimal Plug-Ins for Unmatched GPT & VS Code Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/peering-into-predictive-ais-functioning-mechanism/"><u>Peering Into Predictive AI's Functioning Mechanism</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/predictions-for-increasing-vulnerabilities-with-generative-ai-technologies/"><u>Predictions for Increasing Vulnerabilities with Generative AI Technologies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-yourself-from-5-common-chatgpt-deception-techniques/"><u>Protect Yourself From 5 Common ChatGPT Deception Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-guide-to-shoot-and-upload-immersive-footage-on-fb-for-2024/"><u>The Ultimate Guide to Shoot & Upload Immersive Footage on FB for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/time-saving-tactics-for-saving-google-voice-speeches/"><u>Time-Saving Tactics for Saving Google Voice Speeches</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-v30-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme V30 | Dr.fone</u></a></li>
 </ul></div>
 

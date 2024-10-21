@@ -1,7 +1,7 @@
 ---
 title: Evaluating Authenticity in Machine-Generated Text
-date: 2024-09-07T00:17:12.095Z
-updated: 2024-09-08T00:17:12.095Z
+date: 2024-10-14T21:20:35.899Z
+updated: 2024-10-21T16:28:51.662Z
 tags:
   - chatgpt
   - open-ai
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/8dc75739a23faa00dc51d8707591eb801ba8ab3b3
 
  Artificial Intelligence (AI) now plays a role in various aspects of our lives. Specifically, generative AI tools such as ChatGPT and others have grown significantly. This means that there will be an abundance of AI-generated content in the future.However, generative AI also introduces the risk of AI-generated disinformation. Its features make it easier for opportunistic individuals to spread false information. So, let's explore how generative AI is being utilized for disinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Potential Risks of Generative AI to Spread Disinformation
 
  Generative AI poses many threats to people, like taking away jobs, more surveillance, and cyberattacks. And the[security problems with AI will get even worse](https://www.makeuseof.com/reasons-generative-ai-security-issues-will-worsen/) . But there's another worry: people can use it to spread lies. Deceptive individuals can use generative AI to share fake news through visual, auditory, or textual content.
@@ -39,16 +33,24 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -59,12 +61,6 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -79,11 +75,12 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -101,11 +98,12 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -117,32 +115,17 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +134,19 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-stealth-watch-instagram-stories-without-profile-links-pc-android-ios/"><u>[New] Mastering Stealth Watch Instagram Stories Without Profile Links [PC, Android, iOS]</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-learn-the-art-of-adding-borders-on-insta-videos-for-2024/"><u>[Updated] Learn the Art of Adding Borders on Insta Videos for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-keep-your-snaps-alive-strategies-for-longevity/"><u>2024 Approved Keep Your Snaps Alive – Strategies for Longevity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-vs-blu-ray-vs-4k-uhd-a-detailed-breakdown-of-key-differences-for-home-cinema-enthusiasts/"><u>DVD Vs. Blu-Ray Vs. 4K UHD: A Detailed Breakdown of Key Differences for Home Cinema Enthusiasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/flipping-photo-lightness-for-an-alternate-look/"><u>Flipping Photo Lightness for an Alternate Look</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-sculpt-striking-signs-with-stock-designs-at-no-cost/"><u>In 2024, Sculpt Striking Signs with Stock Designs at No Cost</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-fix-itunesfinder-recognizing-problems-with-your-iphone/"><u>Step-by-Step Guide to Fix iTunes/Finder Recognizing Problems with Your iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-on-switching-from-prores-to-avi-video-encoding/"><u>The Ultimate Tutorial on Switching From ProRes to AVI Video Encoding</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-simple-tools-to-undo-youtube-videos-with-a-click/"><u>Top 4 Simple Tools to Undo YouTube Videos with a Click</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-premium-free-movies-of-2024-your-ultimate-download-guide-without-signing-up/"><u>Top 7 Premium-Free Movies of 2024: Your Ultimate Download Guide Without Signing Up!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-on-unlocking-full-features-of-hd-video-converter-factory-pro-without-cost/"><u>Ultimate Tutorial on Unlocking Full Features of HD Video Converter Factory Pro Without Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/vlcts-tips-for-seamlessly-combining-ts-files-in-vlc/"><u>シームレスな経験:VLCでTSファイルを効果的に結合するコツ - Tips for Seamlessly Combining TS Files in VLC</u></a></li>
+</ul></div>
 

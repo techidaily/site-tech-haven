@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Apple's 'Glowtime': A Comprehensive Guide to New Features, Devices, and Specs Announced for the iPhone 16 Event"
-date: 2024-10-15T03:53:05.683Z
-updated: 2024-10-15T17:07:08.246Z
+date: 2024-10-18T17:12:18.965Z
+updated: 2024-10-21T19:08:19.316Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -88,10 +88,10 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -119,10 +119,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -140,10 +140,10 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -192,24 +192,21 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-finest-global-virtual-learning-hubs-outside-udemy/"><u>[New] 2024 Approved The Finest Global Virtual Learning Hubs Outside Udemy</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-easy-steps-to-record-and-screen-capture-ios-2023/"><u>[Updated] Easy Steps to Record and Screen Capture [iOS, 2023]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/connect-your-pc-effortlessly-to-any-bluetooth-speaker-a-step-by-step-guide/"><u>Connect Your PC Effortlessly to Any Bluetooth Speaker – A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-top-9-streaming-platforms-with-no-cost-trial-periods-available-now/"><u>Discover the Top 9 Streaming Platforms with No-Cost Trial Periods Available Now</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ease-down-mix-levels-with-fl/"><u>Ease Down Mix Levels with FL</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-to-implement-chatgpt-widget-in-your-android-device/"><u>Effective Strategies to Implement ChatGPT Widget in Your Android Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/go-anywhere-talk-ai-mastering-the-use-of-chatgpt-and-chatgpt-everywhere-on-the-go/"><u>Go Anywhere, Talk AI: Mastering the Use of ChatGPT and ChatGPT Everywhere on the Go</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/google-bard-app-a-hidden-danger-protect-your-device-from-possible-malware/"><u>Google Bard App - A Hidden Danger: Protect Your Device From Possible Malware</u></a></li>
-<li><a href="https://discover-able.techidaily.com/guia-paso-a-paso-como-hacer-que-tu-video-sean-perfectamente-estable-con-movavi/"><u>Guía Paso a Paso: Cómo Hacer Que Tu Video Sean Perfectamente Estable Con Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a24-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A24 to PC? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-stream-it-record-it-facebook-live-tips-and-tricks/"><u>In 2024, Stream It, Record It Facebook Live Tips & Tricks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-top-ranked-android-song-curator/"><u>In 2024, Top-Ranked Android Song Curator</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-legislation-key-strategies-for-government-control-over-ai-systems/"><u>Navigating Legislation: Key Strategies for Government Control Over AI Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pinnacle-extensions-combining-chatgpt-with-vs-code/"><u>Pinnacle Extensions: Combining ChatGPT with VS Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-mobile-connectivity-for-globe-trotters/"><u>Seamless Mobile Connectivity for Globe-Trotters</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-intrigue-of-ai-hackers-focus-on-chatgpt/"><u>The Intrigue of AI: Hackers' Focus on ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-potential-stepwise-setup-of-auto-gpt/"><u>Unleash Potential: Stepwise Setup of Auto-GPT</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726029225869-windows-pc/"><u>Windows PC上でビデオへのテキスト追加手順</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ultimate-selection-of-video-capture-tools-for-streaming/"><u>[New] Ultimate Selection of Video Capture Tools for Streaming</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unmissable-gameplay-in-virtual-realms-for-2024/"><u>[Updated] Unmissable Gameplay in Virtual Realms for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-ensuring-accurate-earnings-tracking-for-creators/"><u>2024 Approved Ensuring Accurate Earnings Tracking for Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-seamless-integration-of-snapchat-on-apples-laptops/"><u>2024 Approved Seamless Integration of Snapchat on Apple's Laptops</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apples-newest-release-should-you-switch-from-your-iphone-13-pro-to-the-iphone-15-pro-insights-and-analysis/"><u>Apple's Newest Release: Should You Switch From Your iPhone 13 Pro to the iPhone 15 Pro? Insights and Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-strategies-for-enhancing-complexity-on-your-apple-watch-tips-from-zdnet/"><u>Effortless Strategies for Enhancing Complexity on Your Apple Watch - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expand-your-connectivity-options-with-additional-location-setups-in-macos-tech-tips/"><u>Expand Your Connectivity Options with Additional Location Setups in macOS | Tech Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-apples-latest-visionos-enhancements-a-transformation-of-user-personalization-and-more-insights/"><u>Exploring Apple's Latest VisionOS Enhancements: A Transformation of User Personalization and More | Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oppo-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Oppo ?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-tecno-spark-go-2023-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/modulate-your-message-a-top-tier-list-of-voice-change-mobile-apps-for-2024/"><u>Modulate Your Message A Top-Tier List of Voice Change Mobile Apps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pixel-vs-apple-the-ultimate-showdown-between-the-google-pixel-watch-and-apple-watch-series-9-determining-the-best-investment-for-tech-enthusiasts/"><u>Pixel Vs. Apple: The Ultimate Showdown Between the Google Pixel Watch and Apple Watch Series 9 - Determining the Best Investment for Tech Enthusiasts</u></a></li>
+<li><a href="https://fox-search.techidaily.com/resolving-the-dreaded-critical-error-102-in-your-actions/"><u>Resolving the Dreaded Critical Error #102 in Your Actions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-review-of-alienware-aurora-r7-exceptional-power-comes-at-a-price/"><u>The Ultimate Review of Alienware Aurora R7: Exceptional Power Comes at a Price</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-tips-for-optimizing-uiux-on-apples-visionos-insights-from-zdnet/"><u>Top 7 Tips for Optimizing UI/UX on Apple's VisionOS - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-picks-the-ultimate-list-of-2024s-leading-mac-models-featured/"><u>Top Picks: The Ultimate List of 2024'S Leading Mac Models - Featured</u></a></li>
 </ul></div>
 

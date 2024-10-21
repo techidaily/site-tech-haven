@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Apple's Latest AI Features Fall Short, Overlooking 2 Major Breakthroughs - Will They Address Them Soon?"
-date: 2024-10-11T21:59:00.316Z
-updated: 2024-10-15T19:59:21.433Z
+date: 2024-10-14T20:09:15.724Z
+updated: 2024-10-21T17:15:44.051Z
 tags:
   - apple
 categories:
@@ -79,10 +79,10 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -124,10 +124,10 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -193,21 +193,18 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-acquiring-large-format-fb-videos-effortlessly/"><u>[New] 2024 Approved Acquiring Large-Format FB Videos Effortlessly</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-expert-techniques-for-crafting-high-end-gopro-vlogs/"><u>[Updated] In 2024, Expert Techniques for Crafting High-End GoPro Vlogs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-foremost-9-digital-mic-recorders-for-high-fidelity-capture/"><u>[Updated] In 2024, The Foremost 9 Digital Mic Recorders for High-Fidelity Capture</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725287984819-winx-dvd-ripper-video-converter/"><u>如何在線解決WinX DVD Ripper 與 Video Converter 使用中常見問題: 線上客服指南</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-stellar-resumes-tips-and-techniques-chatgpt/"><u>Crafting Stellar Resumes: Tips and Techniques (ChatGPT)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/does-chatgpt-compromise-our-privacy/"><u>Does ChatGPT Compromise Our Privacy?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-bootable-usb-creation-your-window-to-install-windows-7-smoothly/"><u>Effortless Bootable USB Creation: Your Window to Install Windows 7 Smoothly</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/has-ais-rise-with-chatgpt-revolutionized-academic-writing-for-students/"><u>Has AI's Rise with ChatGPT Revolutionized Academic Writing for Students?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/implementing-advanced-ai-access-our-selection-of-8-ready-made-gpt-solutions/"><u>Implementing Advanced AI: Access Our Selection of 8 Ready-Made GPT Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-study-hero4-black-mechanics/"><u>In 2024, Comprehensive Study Hero4 Black Mechanics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/love-algorithms-how-gpt-transforms-relationships/"><u>Love Algorithms: How GPT Transforms Relationships</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/messaging-and-ai-exploring-the-reasons-why-generative-technology-might-not-be-ideal/"><u>Messaging and AI: Exploring the Reasons Why Generative Technology Might Not Be Ideal</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/replacing-the-turing-benchmark-unveiling-5-cutting-edge-artificial-intelligence-tests/"><u>Replacing the Turing Benchmark: Unveiling 5 Cutting-Edge Artificial Intelligence Tests</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-miniature-dream-dwellings-exploring-stylish-micro-homes-techradar/"><u>Top 5 Miniature Dream Dwellings - Exploring Stylish Micro-Homes | TechRadar</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-a-strategy-to-resolve-locked-windows-update/"><u>Unveiling a Strategy to Resolve Locked Windows Update</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-process-for-clearing-backdrops-using-picsart/"><u>[New] Step-By-Step Process for Clearing Backdrops Using Picsart</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-uniting-windows-and-mac-users-with-skype-groups/"><u>[Updated] 2024 Approved Uniting Windows & Mac Users with Skype Groups</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-bandicam-unveiled-a-comprehensive-screen-recorder-analysis/"><u>2024 Approved Bandicam Unveiled A Comprehensive Screen Recorder Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/converting-dall-e-3-creations-an-easy-method-for-switching-from-webp-to-jpgpng/"><u>Converting DALL-E 3 Creations: An Easy Method for Switching From WebP to JPG/PNG</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-artificial-intelligence-and-its-risks/"><u>Deciphering Artificial Intelligence & Its Risks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-facts-the-real-deal-on-truthgpt-cryptocurrency/"><u>Decoding the Facts: The Real Deal on TruthGPT Cryptocurrency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/desktop-dominance-how-chatgpts-application-exceeds-website-capabilities/"><u>Desktop Dominance: How ChatGPT's Application Exceeds Website Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/desktop-vs-website-why-choose-the-enhanced-chatgpt-app/"><u>Desktop Vs. Website: Why Choose the Enhanced ChatGPT App?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-harmonyheed-evaluating-audio-artifacts/"><u>In 2024, HarmonyHeed Evaluating Audio Artifacts</u></a></li>
+<li><a href="https://facebook.techidaily.com/intentionally-decreasing-social-media-intake-for-better-focus/"><u>Intentionally Decreasing Social Media Intake for Better Focus</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-romantic-gestures-how-to-make-a-stunning-valentines-day-video-for-your-partner/"><u>New 2024 Approved Romantic Gestures How to Make a Stunning Valentines Day Video for Your Partner</u></a></li>
+<li><a href="https://techtrends.techidaily.com/regain-sharp-vision-how-to-restore-autofocus-functionality-in-your-iphones-camera/"><u>Regain Sharp Vision: How to Restore Autofocus Functionality in Your iPhone's Camera</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-s23-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy S23 Running Slow and Freezing | Dr.fone</u></a></li>
 </ul></div>
 

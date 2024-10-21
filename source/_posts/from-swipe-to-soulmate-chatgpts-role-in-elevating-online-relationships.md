@@ -1,7 +1,7 @@
 ---
 title: "From Swipe to Soulmate: ChatGPT's Role in Elevating Online Relationships"
-date: 2024-09-07T00:17:09.193Z
-updated: 2024-09-08T00:17:09.193Z
+date: 2024-10-20T21:18:20.703Z
+updated: 2024-10-21T19:36:05.889Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. ChatGPT Prompt Genius
 
  ChatGPT can seem magical when you see screenshots of some of the answers it gives people. But those screenshots don't show the prompts users have typed to make ChatGPT better. Like[learning the best Google search operators](https://www.makeuseof.com/tag/best-google-search-tips-pdf/) , you need to know how to frame the right prompts for ChatGPT. And this extension can help.
@@ -49,18 +56,6 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. ChatGPT Writer
 
  When someone sends a professional email your way for something like a meeting or a job opportunity, it's bad form to reply with a one or two-line email (even if that sums up everything you want to say). ChatGPT Writer takes your intended reply and generates a long, professional-sounding email message.
@@ -71,12 +66,6 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
 
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
 
  The first time you use ChatpGPT Writer, you'll need to log in to your OpenAI account with it. The extension works with any Chromium browser such as Chrome, Brave, or Edge. While it's currently best for replying to professional emails, you can also give it non-work prompts to write casual and personal email messages.
@@ -84,11 +73,12 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. YouTube Summary With ChatGPT
 
  YouTube creators have the option to add a transcript of their full video or not. As a user, you have no control over this. Many times, all you want is a transcript to quickly browse through what the video is going to say so that you can know if it's worth your time.
@@ -99,17 +89,18 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
 
@@ -133,18 +124,6 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
  Perplexity AI can help you cut the misinformation out. Indeed, as the developers put it, the tool works as a combination of Google and ChatGPT. Simply type in your query in the extension and the tool will summarize you the best possible result—along with the legitimate cited sources. The last part here is very important.
@@ -154,25 +133,23 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ChatGPT Is Awesome, But Be Realistic…
 
  With these extensions including search results in ChatGPT, showing you how to use the right prompts, and using AI to improve YouTube or Gmail, you might think it's time to offload a majority of your work to ChatGPT. But take a breath.
 
  Yes, the AI capabilities are amazing compared to what has existed before this, but ChatGPT isn't ready for prime-time yet. It still has a long way to go and depends largely upon the user keying in the right prompts. The data that it bases its answers on can also leave a lot to be desired in certain cases. For now, feel free to use it, but don't rely wholly on it, and take those results with a pinch of salt.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,4 +158,24 @@ thumbnail: https://thmb.techidaily.com/a2ae0e9b349bfae6598135f3a2f084fcd5a624b33
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/astering-tags-a-must-read-before-uploading-for-2024/"><u>[New] Mastering Tags A Must-Read Before Uploading for 2024</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/54mb5lmz5l244ge44gz44go6ziy5q2i77yf5paw5z6l44kz44ot44ok5pmc5luj44gr44gk44gz44gz44kb44gz44ga44kk44kw44or44oh44op44oz44kt44oz44kw/"><u>牛乳使いすぎ防止？新型コロナ時代におすすめすずりグルメランキング</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creative-synergy-merging-mindmap-strategies-and-chatgpt-for-idea-generation-success/"><u>Creative Synergy: Merging Mindmap Strategies and ChatGPT for Idea Generation Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/customized-exercise-plans-chatgpts-potential-impact/"><u>Customized Exercise Plans: ChatGPT's Potential Impact</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-the-perfect-fusion-of-aesthetics-and-functionality-with-lamicall-s-tablet-stand-review/"><u>Experience the Perfect Fusion of Aesthetics & Functionality with Lamicall S Tablet Stand Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-auto-gpt-stand-out-against-the-renowned-chatgpt/"><u>How Does Auto-GPT Stand Out Against the Renowned ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-is-ai-revolutionizing-the-medical-field-with-tools-like-chatgpt/"><u>How Is AI Revolutionizing the Medical Field with Tools Like ChatGPT?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bring-your-photos-to-life-adding-radial-focus-effects-ps/"><u>In 2024, Bring Your Photos to Life Adding Radial Focus Effects PS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-flawless-sound-engineering-in-audacity/"><u>In 2024, The Ultimate Guide to Flawless Sound Engineering in Audacity</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/insightful-guide-to-the-top-10-low-cost-online-channels-for-photo-editing-artists-for-2024/"><u>Insightful Guide to the Top 10 Low-Cost Online Channels for Photo Editing Artists for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-sas-driver-updates-and-downloads-compatible-with-windows-11-8-and-7/"><u>Latest SAS Driver Updates & Downloads: Compatible with Windows 11, 8, and 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-screen-captures-on-hewlett-packard-laptops/"><u>Mastering the Art of Screen Captures on Hewlett-Packard Laptops</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-the-art-of-youtube-music-reactions-essential-tips-for-2024/"><u>Mastering the Art of YouTube Music Reactions - Essential Tips for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-productivity-leveraging-chatgpt-for-on-the-job-assistance/"><u>Maximizing Productivity: Leveraging ChatGPT for On-the-Job Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revealed-what-happens-when-you-speak-into-the-void-of-cyberspace/"><u>Revealed: What Happens When You Speak Into the Void of Cyberspace</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/setting-up-and-using-chatgpt-from-ubuntus-terminal-with-shell-integration-techniques/"><u>Setting Up and Using ChatGPT From Ubuntu's Terminal with Shell Integration Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-mystery-uncovered-deciphering-the-secrets-of-virtual-conversations/"><u>The Mystery Uncovered: Deciphering the Secrets of Virtual Conversations</u></a></li>
+</ul></div>
 

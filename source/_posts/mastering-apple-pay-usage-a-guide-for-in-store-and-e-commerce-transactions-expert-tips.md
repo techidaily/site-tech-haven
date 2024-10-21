@@ -1,7 +1,7 @@
 ---
 title: "Mastering Apple Pay Usage: A Guide for In-Store and E-Commerce Transactions - Expert Tips"
-date: 2024-10-13T03:46:52.377Z
-updated: 2024-10-16T03:57:18.083Z
+date: 2024-10-14T22:23:40.446Z
+updated: 2024-10-21T17:35:35.269Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 **What you need:** iPhone, banking information
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
@@ -69,13 +69,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -85,16 +78,10 @@ Double-press the iPhone's right-side button to access Apple Pay.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
@@ -120,13 +107,20 @@ Apple
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do I set up Apple Pay from my iPhone Settings?
 
@@ -140,13 +134,6 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is NFC?
 
@@ -169,6 +156,13 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -218,21 +212,22 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-essential-igtv-feeds-for-modern-viewers/"><u>[Updated] Essential IGTV Feeds for Modern Viewers</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/1-mastering-flipbook-changing-hyperlink-colors-on-hover-using-flipbuilder/"><u>1) Mastering FlipBook: Changing Hyperlink Colors on Hover Using FlipBuilder</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-breaking-the-norm-eye-catching-talents-amongst-female-youtube-stars/"><u>2024 Approved Breaking the Norm Eye-Catching Talents Amongst Female YouTube Stars</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-future-sighted-the-foremost-cameras-excellence/"><u>2024 Approved Future Sighted The Foremost Cameras Excellence</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-iphoneandroid-users-add-soundtracks-to-their-profile/"><u>2024 Approved How iPhone/Android Users Add Soundtracks to Their Profile</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-integration-of-ai-tools-using-agentgpt-on-any-browser-platform/"><u>Easy Integration of AI Tools Using AgentGPT on Any Browser Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-user-experience-by-leveraging-chatgpts-4-elements/"><u>Enhance User Experience by Leveraging ChatGPT's 4 Elements</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guiding-kids-through-ai-dialogues-safely-the-top-5-advice/"><u>Guiding Kids Through AI Dialogues Safely: The Top 5 Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/identifying-and-handling-chatgpt-phishing-sites-safely/"><u>Identifying and Handling ChatGPT Phishing Sites Safely</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-motorola-moto-g73-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Motorola Moto G73 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-advanced-ai-insights-into-using-claude/"><u>Navigating the World of Advanced AI: Insights Into Using Claude</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-loneliness-with-the-help-of-chatgpt-innovation/"><u>Overcoming Loneliness with the Help of ChatGPT Innovation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-adjusting-handbrake-sound-settings-for-top-quality-experience-with-movies-and-tv-shows-across-different-media-types/"><u>Ultimate Guide to Adjusting Handbrake Sound Settings for Top Quality Experience with Movies and TV Shows Across Different Media Types</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-cognitive-abilities-fact-check-by-openai/"><u>Understanding ChatGPT's Cognitive Abilities: Fact-Check by OpenAI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-is-ai-regulation-who-should-regulate-ai/"><u>What Is AI Regulation? Who Should Regulate AI?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-professionalizing-your-youtube-income-with-universal-tech-tips/"><u>[New] 2024 Approved Professionalizing Your YouTube Income with Universal Tech Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-tier-cinematic-peeks-album/"><u>[New] In 2024, Top-Tier Cinematic Peeks Album</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-instantly-design-custom-coverage-for-your-short-videos-for-2024/"><u>[Updated] How To Instantly Design Custom Coverage For Your Short Videos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/avoiding-the-samsung-gear-360-hurdle-top-camera-alternatives-of-2023-for-2024/"><u>Avoiding the Samsung Gear 360 Hurdle - Top Camera Alternatives of 2023 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/sma-in-characters-two-ways-to-enliven-text-for-2024/"><u>Charisma in Characters Two Ways to Enliven Text for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/giggle-galaxy-most-shared-content-on-both-platforms-for-2024/"><u>Giggle Galaxy Most Shared Content on Both Platforms for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/global-smartphone-market-rankings-apple-surpasses-samsung-in-recent-shipment-figures-insights/"><u>Global Smartphone Market Rankings: Apple Surpasses Samsung in Recent Shipment Figures - Insights</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-7-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 7 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/migrating-whatsapp-from-android-to-iphone-a-step-by-step-guide/"><u>Migrating WhatsApp From Android to iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/my-spontaneous-buy-of-apples-latest-17-usb-c-earpods-during-amazon-prime-day-insights-and-reviews/"><u>My Spontaneous Buy of Apple's Latest $17 USB-C EarPods During Amazon Prime Day - Insights & Reviews</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-safe-screen-time-expert-advice-on-video-call-etiquette-and-protection/"><u>New Mastering Safe Screen Time Expert Advice on Video Call Etiquette and Protection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimize-battery-life-with-macos-montereys-low-power-feature-expert-advice-by-zdnet/"><u>Optimize Battery Life with macOS Monterey's Low Power Feature: Expert Advice by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protected-areas-such-as-national-parks-and-wildlife-reserves-safeguard-habitats-from-destructive-activities-like-deforestation-and-overfishing/"><u>Protected Areas Such as National Parks and Wildlife Reserves Safeguard Habitats From Destructive Activities Like Deforestation and Overfishing.</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-out-as-an-elite-gamer-on-youtube-for-2024/"><u>Stand Out as an Elite Gamer on Youtube for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-terminating-your-apple-music-subscription-independently-of-itunes-insights-from-zdnet/"><u>Step-by-Step Guide: Terminating Your Apple Music Subscription Independently of iTunes - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-showdown-apple-mac-mini-m2-versus-mac-studio-is-there-a-true-winner-over-m1-zdnet-insights/"><u>The Ultimate Showdown: Apple Mac Mini (M2) Versus Mac Studio - Is There a True Winner Over M1? | ZDNET Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-apples-definition-of-vintage-and-obsolete-implications-for-your-devices-tech-insights/"><u>Understanding Apple's Definition of 'Vintage' And 'Obsolete': Implications for Your Devices | Tech Insights</u></a></li>
 </ul></div>
 

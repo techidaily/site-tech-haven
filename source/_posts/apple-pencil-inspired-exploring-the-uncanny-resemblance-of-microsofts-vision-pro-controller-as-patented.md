@@ -1,7 +1,7 @@
 ---
 title: Apple Pencil Inspired? Exploring the Uncanny Resemblance of Microsoft's Vision Pro Controller as Patented
-date: 2024-10-14T07:54:53.978Z
-updated: 2024-10-15T17:02:26.455Z
+date: 2024-10-17T18:11:20.548Z
+updated: 2024-10-21T19:15:41.517Z
 tags:
   - apple
 categories:
@@ -75,26 +75,29 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-ios-screenshoting-hack/"><u>[New] The Ultimate iOS Screenshoting Hack</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/outubes-top-tools-to-reduce-long-link-lengths/"><u>[New] Youtube's Top Tools to Reduce Long Link Lengths</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-filming-flair-with-free-green-screen-insights-from-4-youtube-authorities/"><u>[Updated] 2024 Approved Elevate Your Filming Flair with Free Green Screen Insights From 4 YouTube Authorities</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/conversing-with-computers-mistrals-challenge-to-gpt-3/"><u>Conversing with Computers: Mistral's Challenge to GPT-3</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-15-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 15 Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ensuring-artificial-agents-align-with-human-ethos/"><u>Ensuring Artificial Agents Align with Human Ethos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-humor-capabilities-of-ai-does-chatgpt-deliver-real-amusement/"><u>Exploring the Humor Capabilities of AI: Does ChatGPT Deliver Real Amusement?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-canon-mf743cdw-ready-find-and-install-compatible-windows-printer-drivers-with-ease/"><u>Get Your Canon MF743CDW Ready: Find and Install Compatible Windows Printer Drivers with Ease</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-ai-on-mobile-find-the-top-8-best-intelligent-applications-for-ios-and-android-devices/"><u>Harnessing AI on Mobile: Find the Top 8 Best Intelligent Applications for iOS & Android Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-c65-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Poco C65 Pictures An Easy Method Explained.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-time-settings-the-ultimate-tutorial-for-amazons-kindle-paperwhite/"><u>Mastering Time Settings: The Ultimate Tutorial for Amazon's Kindle Paperwhite</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-privacy-hazards-the-three-major-concerns-with-chatbot-use/"><u>Navigating Privacy Hazards: The Three Major Concerns with Chatbot Use</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/unlocking-gameplay-success-with-ps3-screen-recording-for-2024/"><u>Unlocking Gameplay Success with PS3 Screen Recording for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-tips-for-using-google-meets-built-in-photo-functionality-for-2024/"><u>[Updated] Tips for Using Google Meet's Built-In Photo Functionality for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sculpt-satirical-gifs-via-giphy/"><u>2024 Approved Sculpt Satirical Gifs via Giphy</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-the-ultimate-list-of-no-cost-music-downloaders-on-your-iphone-ipad-or-android-device/"><u>Discover the Ultimate List of No-Cost Music Downloaders on Your iPhone, iPad or Android Device!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/download-now-premier-and-free-data-restoration-apps-for-seamless-file-retrieval/"><u>Download Now: Premier and Free Data Restoration Apps for Seamless File Retrieval</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-intelligent-systems-are-redefining-game-creation-and-consumption/"><u>How Intelligent Systems Are Redefining Game Creation and Consumption</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-data-retrieval-tool-restore-lost-data-from-infinix-zero-5g-2023-turbo-by-fonelab-android-recover-data/"><u>Infinix Data Retrieval tool – restore lost data from Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-interaction-by-dodging-these-critical-writing-errors/"><u>Mastering ChatGPT Interaction by Dodging These Critical Writing Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-linkedin-posts-with-chatgpt-techniques/"><u>Optimizing LinkedIn Posts with ChatGPT Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-sailing-through-appalachia-eradicating-stutter-frames-in-fallout-76/"><u>Smooth Sailing Through Appalachia: Eradicating Stutter Frames in Fallout 76</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-content-creation-boost-productivity-using-hix-ai-and-gpt-4/"><u>Streamline Content Creation: Boost Productivity Using HIX AI & GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-limits-of-turing-test-in-todays-ai-lands-market/"><u>The Limits of Turing Test in Today's AI Lands Market</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-secret-behind-artificnial-intelligence-black-boxes-explained/"><u>The Secret Behind Artificnial Intelligence Black Boxes Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-plan-for-chatgpt-plug-in-success/"><u>The Ultimate Plan for ChatGPT Plug-In Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-iphone-video-capture-apps/"><u>Top 10 iPhone Video Capture Apps</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-2-methods-for-exporting-your-outlook-365-inboxes-as-files-onto-your-pc-or-mac/"><u>Top 2 Methods for Exporting Your Outlook 365 Inboxes as Files Onto Your PC or Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-a-more-successful-dating-experience-through-chatgpt-technology/"><u>Unlocking a More Successful Dating Experience Through ChatGPT Technology</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

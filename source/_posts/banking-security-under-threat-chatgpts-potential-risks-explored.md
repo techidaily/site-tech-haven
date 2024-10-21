@@ -1,7 +1,7 @@
 ---
 title: Banking Security Under Threat? ChatGPT’s Potential Risks Explored
-date: 2024-09-07T00:17:08.510Z
-updated: 2024-09-08T00:17:08.510Z
+date: 2024-10-14T21:48:18.351Z
+updated: 2024-10-21T16:17:51.664Z
 tags:
   - chatgpt
   - open-ai
@@ -31,12 +31,6 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -45,15 +39,16 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. chatgpt-go.online
 
@@ -63,24 +58,26 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
@@ -89,13 +86,14 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -107,18 +105,6 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
  Malicious actors are using ChatGPT-themed mobile apps and desktop clients to spread malware on computing devices. These apps often pose as free versions of premium ChatGPT and are commonly promoted through social media and email campaigns.
@@ -131,14 +117,11 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
  Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +130,26 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-funny-photos-for-iphones/"><u>[New] Funny Photos for IPhones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-digital-dollar-first-steps-in-youtubers-revenue/"><u>[New] In 2024, Digital Dollar First Steps in YouTubers' Revenue</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-11-cheap-vlogging-cameras/"><u>[Updated] 2024 Approved Top 11 Cheap Vlogging Cameras</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-maximizing-your-media-library-with-mov-on-windows-10/"><u>[Updated] In 2024, Maximizing Your Media Library with .mov on Windows 10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/aesthetic-alchemy-transforming-youtube-videos-for-2024/"><u>Aesthetic Alchemy Transforming YouTube Videos for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-chatgpt-and-gemini-who-excels-in-programming-assistance/"><u>Comparing ChatGPT and Gemini: Who Excels in Programming Assistance?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cultivating-respectful-dialogue-with-voice-assistants-and-ai/"><u>Cultivating Respectful Dialogue With Voice Assistants & AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/customize-your-own-ai-with-chatgpts-newest-feature-tailored-generative-models-now/"><u>Customize Your Own AI with ChatGPT's Newest Feature - Tailored Generative Models Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-finest-5-ai-prompt-generators-to-maximize-your-use-of-any-ai-device/"><u>Discover the Finest 5 AI Prompt Generators to Maximize Your Use of Any AI Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/global-ai-dialogue-what-experts-say/"><u>Global AI Dialogue: What Experts Say</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-vs-bert-dissecting-modern-nlp-giants-distinctions/"><u>GPT vs BERT: Dissecting Modern NLP Giants' Distinctions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-zero-5g-2023-turbo-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Infinix Zero 5G 2023 Turbo Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-find-x7-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo Find X7 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-navigate-your-projects-faster-speed-control-essentials/"><u>In 2024, Navigate Your Projects Faster Speed Control Essentials</u></a></li>
+<li><a href="https://media-tips.techidaily.com/is-viewing-4k-signals-via-over-the-air-broadcast-feasible-a-detailed-insight/"><u>Is Viewing 4K Signals via Over-the-Air Broadcast Feasible? A Detailed Insight</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-ai-image-creation-with-chatgpt/"><u>Mastering the Art of AI Image Creation with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-new-code-horizons-developers-and-the-impact-of-machine-learning/"><u>Navigating New Code Horizons: Developers and the Impact of Machine Learning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/shaping-a-safe-ai-space-openais-head-of-policy-addresses-need/"><u>Shaping a Safe AI Space - OpenAI’s Head of Policy Addresses Need</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-itel-p55-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Itel P55? | Dr.fone</u></a></li>
+</ul></div>
 

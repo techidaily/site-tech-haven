@@ -1,7 +1,7 @@
 ---
 title: "Jokes and Artificnial Intelligence: How Effective Is ChatGPT at Making You Laugh?"
-date: 2024-09-07T00:17:11.498Z
-updated: 2024-09-08T00:17:11.498Z
+date: 2024-10-20T18:54:25.804Z
+updated: 2024-10-21T21:53:50.778Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Jokes and Artificnial Intelligence: How Effecti
 thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd549da1507965a6ba4039d0e6.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Generative Intelligence Showdown: Evaluating the Pros and Cons of ChatGPT Against Notion AI
 
  At the end of 2022 and the start of 2023, conversations surrounding artificial intelligence (AI) grew louder. ChatGPT gained significant attention, and Notion also launched Notion AI—a feature it had been experimenting with for a few months before it rolled the tool out to everyone.
@@ -33,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 
  You can use[ChatGPT](https://chat.openai.com/) ’s basic features for free, and you can type numerous responses into the app. On top of that, you can get ChatGPT Plus—which costs $20 per month. ChatGPT Plus offers access during periods when lots of other people are using the platform, along with other useful features.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Drafting Ideas
 
  You’ll find many[online AI tools for content creation](https://www.makeuseof.com/best-online-ai-tools-content-creation/) , so how do Notion AI and ChatGPT compare in this respect? Notion AI has several tools to help you draft ideas for articles, videos, podcasts, and more.
@@ -47,12 +35,6 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 
 ![Notion AI Brainstorm Idea Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-brainstorm-idea.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can see from the example below, we’ve asked Notion AI to brainstorm ideas related to sports.
 
 ![Notion AI Sport Ideas Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-sport-ideas.jpg)
@@ -65,18 +47,6 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 
 ![Blog Topics ChatGPT Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/blog-topics-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [You can do several useful things in Notion](https://www.makeuseof.com/useful-things-to-do-notion/) , such as making pages that enable you to organize all of your projects better. As you use the app more frequently, keeping your notes together will become more important— and you’ll also want to make what you’ve written easy for others to understand. Notion AI can help you in this respect.
 
  Notion AI quickly summarizes what your existing pages are about in a short paragraph; all you have to do is select the**Summarize** tool. It’s worth noting that this feature still felt a little rough around the edges when using it, so you may need to be more descriptive to ensure that you have a better summary.
@@ -84,12 +54,20 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 ![Notion AI Page Summary Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-page-summary.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  When using ChatGPT, you can ask the tool to provide summaries on different topics. If you’ve created a conversation, you can get it to provide an overview by typing**“summarize this conversation so far”** .
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Finding Answers to Questions
 
@@ -97,15 +75,16 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 
 ![Question Asked in ChatGPT Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/question-asked-in-chatgpt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also use ChatGPT to find out which movements are most frequently used in certain exercise regimens, along with things to do on your travels and more. However, you should double-check the accuracy of everything you see; as ChatGPT mentions, the feature sometimes has inaccuracies.
 
  When using Notion AI, you can ask the tool to explain certain parts of the text on your pages. But in terms of finding answers to random questions you may have, it’s not really designed for that.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Translation
 
@@ -114,21 +93,16 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 ![Translate Notion AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/translate-notion-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  With ChatGPT, you also have the option to translate different things. You can ask the tool how you can say various words and phrases in other languages, and it’s also possible to translate your entire conversation. To do this, type**“translate this entire conversation into \[language\]”** at the bottom of your screen.
 
 ![ChatGPT Page Translation Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-page-translation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Stability
 
  When choosing any AI tool, you want to ensure that you can rely on it whenever you need the service. And when it comes to stability, Notion AI and ChatGPT slightly differ.
@@ -145,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 
 ![Notion Create To-Do List AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-create-to-do-list-ai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also ask ChatGPT to create to-do lists, but you’ll have to provide it with enough context to make your list personalized. If you’ve already got information written somewhere, Notion AI is probably a better option for tasks of this nature.
 
 ## Notion AI and ChatGPT: Two Different Forms of Generative AI
@@ -153,14 +134,11 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
 
  On the flip side, ChatGPT excels in the research side of things. While Notion AI lets you generate ideas and draft documents, ChatGPT goes into more depth to provide information on different topics and answers to questions you may have.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,4 +147,24 @@ thumbnail: https://thmb.techidaily.com/94367d0839b4e8bd552f4ff0b46203c6692aa9dd5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-astronomys-best-showcase-10-prime-hd-sky-archives/"><u>[New] Astronomy's Best Showcase - 10 Prime HD Sky Archives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-streamline-your-show-entry-on-apple-media/"><u>[New] In 2024, Streamline Your Show Entry on Apple Media</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-soundtrack-switch-up-effortlessly-moving-your-music-queue/"><u>[New] Soundtrack Switch-Up Effortlessly Moving Your Music Queue</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-guide-to-enable-dynamic-hdr-in-windows-11/"><u>[Updated] Guide to Enable Dynamic HDR in Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-stepwise-strategy-for-perfectly-curating-videos-in-your-youtube-playlists/"><u>[Updated] Stepwise Strategy for Perfectly Curating Videos in Your YouTube Playlists</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-synchronized-group-challenges-in-anime-inspired-tiktok-videos-for-2024/"><u>[Updated] Synchronized Group Challenges in Anime-Inspired TikTok Videos for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/2-effortless-and-cost-effective-techniques-to-refine-your-screen-recordings-learn-how/"><u>2. 'Effortless and Cost-Effective Techniques to Refine Your Screen Recordings - Learn How!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030154795-3/"><u>人気の動画ロゴ削除ウェブサイトベスト3</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-free-audio-enhancers-for-windows-11-top-7-choices/"><u>Best FREE Audio Enhancers for Windows 11: Top 7 Choices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-video-file-converter-suite-seamless-editing-from-mpeg-to-various-formats-made-easy/"><u>Complete Video File Converter Suite: Seamless Editing From MPEG to Various Formats Made Easy.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-steps-to-transforming-m3u8-streams-into-mp4-format-with-vlc-media-player/"><u>Comprehensive Steps to Transforming M3U8 Streams Into MP4 Format with VLC Media Player</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/create-backups-of-your-dvds-using-mud-software-a-step-by-step-guide/"><u>Create Backups of Your DVDs Using Mud Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-intels-official-usb-30-drivers-for-seamless-integration-with-windows-11/"><u>Download Intel's Official USB 3.0 Drivers for Seamless Integration with Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ce-your-videography-youtube-studio-edition-techniques/"><u>Enhance Your Videography YouTube Studio Edition Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-oppo-find-x6-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Oppo Find X6 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030225956-powerdirector/"><u>PowerDirector 使い方: 高品質な音声を抽出するビデオ編集術</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44or44k944kz44oz44gn44oe44kk44kt44oj44k544ot44oh44kq44ks6kiy6yyy44gx44gm44gk44gp5pa55rov44cq6kaw6ig06icf44gr5b2556ul44gk44cr/"><u>パソコンでツイキャスビデオを記録しておく方法【視聴者に役立つ】</u></a></li>
+</ul></div>
 

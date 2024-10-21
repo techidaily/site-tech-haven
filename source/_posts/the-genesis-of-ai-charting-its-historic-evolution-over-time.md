@@ -1,7 +1,7 @@
 ---
 title: The Genesis of AI - Charting Its Historic Evolution Over Time
-date: 2024-09-07T00:17:11.082Z
-updated: 2024-09-08T00:17:11.082Z
+date: 2024-10-14T16:52:36.761Z
+updated: 2024-10-21T18:54:34.542Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes The Genesis of AI - Charting Its Historic Evolut
 thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b4726dfe5cba10ba2bbf753775f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Exploring the Implications of AI Assistants on Future Search Engine Technologies
 
  With the arrival of OpenAI's AI-powered chatbot, ChatGPT, in late November 2022, search engines now face tough competition. Since its release, Google and other search engine companies have stepped up their efforts to combat it.
@@ -35,25 +29,27 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
 
 ![Comparing Response of ChatGPT With Google Search Engine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/comparing-response-of-chatgpt-with-google-search-engine.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Shortly put, ChatGPT can help you find a definite answer to any question without having to search through numerous web pages on search engines. So, the chatbot eliminates additional effort, answers your question more precisely, and saves you time.
 
  However, it's important to understand[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) so that you can use it efficiently. By having a better understanding of how it was created and trained and how it generates responses, you will be able to make the most of it.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why Hasn't ChatGPT Affected the Search Engines So Far?
 
  Despite ChatGPT's immense popularity, it's still not ready to significantly impact the search engine industry for several reasons. Here are a few of them:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. ChatGPT Is Trained on a Limited Set of Data
 
@@ -61,44 +57,14 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
 
 ![ChatGPT Apologizing For Not Having any Information About Events Happened in 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-apologizing-for-not-having-information-about-events-happened-in-2022.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. ChatGPT Can Generate Incorrect Response
 
  Despite being AI-driven, ChatGPT often gives inaccurate responses. OpenAI, the parent company of ChatGPT, admits that the chatbot sometimes generates inaccurate answers. The company has listed this shortcoming as one of the limitations of its product on its official blog.
 
 ![ChatGPT Saying It Can Also Generate Wrong Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-also-generate-wrong-answers-and-explains-why-it-does-so.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. ChatGPT Is Less Credible
 
  On search engines, you know where information is coming from. Each time you search for something, you know the source of the webpage (i.e., brand or website). By putting in some effort, you can also check the authenticity of authors.
@@ -123,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
 
  On the other hand, search engines give you results based on your queries, so you need to fine-tune your keyword selection to get the best results.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Soon Could ChatGPT Significantly Impact the Search Engine Industry?
 
  Despite ChatGPT's potential to take a significant chunk of search engine traffic, it still has a long way to go to overcome its limitations.
@@ -138,11 +111,12 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
 ![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Let ChatGPT Evolve
 
  It will take time before people trust ChatGPT as they do on search engine results; it will be fascinating to see how this technology evolves.
@@ -151,14 +125,11 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
 
  Have you tried ChatGPT? If you haven't tried it yet, you should. Whether you need help writing an essay, generating code, composing an engaging email, or breaking down a complex topic, ChatGPT can take care of it all.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,4 +138,17 @@ thumbnail: https://thmb.techidaily.com/943f842d3159d7c62db6db70d1cc358ee65b1b472
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-ideal-apps-for-editing-and-mixing-dji-video-tapes-for-2024/"><u>[New] Ideal Apps for Editing and Mixing DJi Video Tapes for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-chaptering-organizing-video-sections-for-2024/"><u>[New] Vimeo Chaptering Organizing Video Sections for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-making-the-most-of-your-ginger-island-venture-for-2024/"><u>[Updated] Making the Most of Your Ginger Island Venture for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top5/"><u>最新動画合成ツールが入手できる！今年のおすすめフリーソフトウェアランキングTOP5</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-poco-f5-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Poco F5 5G Phone Screen?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oneplus-12-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from OnePlus 12 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/legends-of-warfare-the-top-7-total-war-game-series-for-2024/"><u>Legends of Warfare The Top 7 Total War Game Series for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-art-of-melody-recognition-easily-identifying-songs-through-hum-sing-or-whistle/"><u>The Art of Melody Recognition: Easily Identifying Songs Through Hum, Sing or Whistle</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-battle-of-mobile-os-a-closer-look-at-android-iphone-and-symbian/"><u>The Battle of Mobile OS: A Closer Look at Android, iPhone, and Symbian</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-converting-videoclips-to-m4a-with-minimal-hustle/"><u>The Ultimate Tutorial: Converting Videoclips to M4A with Minimal Hustle</u></a></li>
+</ul></div>
 

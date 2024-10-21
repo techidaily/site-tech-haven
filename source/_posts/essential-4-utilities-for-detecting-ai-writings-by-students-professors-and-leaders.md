@@ -1,7 +1,7 @@
 ---
 title: Essential 4 Utilities for Detecting AI Writings by Students, Professors & Leaders
-date: 2024-09-07T00:17:10.257Z
-updated: 2024-09-08T00:17:10.257Z
+date: 2024-10-17T16:56:57.297Z
+updated: 2024-10-21T21:22:19.894Z
 tags:
   - chatgpt
   - open-ai
@@ -33,22 +33,17 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -59,26 +54,15 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -89,6 +73,13 @@ Here's the fictitious article that ChatGPT came up with:
 * **Targeted personalization** : Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -107,17 +98,12 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -129,26 +115,17 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +134,22 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-gamers-selection-top-livestraning-tech-picks/"><u>[Updated] 2024 Approved Gamer's Selection Top Livestraning Tech Picks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-50-essential-screen-savers-for-online-video-calls/"><u>[Updated] 50 Essential Screen Savers for Online Video Calls</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-color-correction-mastering-luts-in-after-effects/"><u>2024 Approved Advanced Color Correction Mastering LUTs in After Effects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-to-converting-trp-files-into-popular-formats-like-mp4-avi-mkv/"><u>Easy Guide to Converting TRP Files Into Popular Formats Like MP4, AVI, MKV</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-to-recording-live-tv-and-streams-on-your-computer/"><u>Easy Guide to Recording Live TV & Streams on Your Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-methods-for-converting-your-youtube-videos-into-high-quality-flac-files/"><u>Easy Methods for Converting Your YouTube Videos Into High-Quality FLAC Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-conversion-of-mlp-recordings-to-multiple-audio-types-mp3-wav-and-more/"><u>Effortless Conversion of MLP Recordings to Multiple Audio Types: MP3, WAV & More!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/expert-tips-for-fluid-ifv-file-management-transform-your-videos-into-mp4avi-with-ease/"><u>Expert Tips for Fluid IFV File Management - Transform Your Videos Into MP4/AVI with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fix-video-editor-extension-issues-on-windows-a-step-by-step-guide-for-windows-1011-users/"><u>Fix Video Editor Extension Issues on Windows - A Step-by-Step Guide for Windows 10/11 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-mp4-playback-errors-on-sony-ps4-step-by-step-guide/"><u>Fixing MP4 Playback Errors on Sony PS4 - Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/flawless-mvi-to-avi-transformation-effortlessly-edit-and-stream-on-any-device-without-hitches/"><u>Flawless MVI to AVI Transformation - Effortlessly Edit and Stream on Any Device Without Hitches</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-solutions-to-unlock-nubia-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>In 2024, 6 Solutions to Unlock Nubia Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-your-horizon-zero-dawn-experience-with-optimal-fps-and-speed-tweaks/"><u>Maximize Your Horizon Zero Dawn Experience with Optimal FPS and Speed Tweaks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezes-effective-solutions-for-persistent-crashes-in-metro-exodus-enhanced-edition/"><u>No More Freezes! Effective Solutions for Persistent Crashes in Metro Exodus (Enhanced Edition)</u></a></li>
+</ul></div>
 

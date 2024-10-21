@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Mobile Filmmaking: Final Cut Now Available on iPhone, According to ZDNET"
-date: 2024-10-14T07:48:08.532Z
-updated: 2024-10-15T22:54:32.530Z
+date: 2024-10-15T18:52:28.217Z
+updated: 2024-10-21T18:17:31.643Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ Ever since, those attributes have defined all smartphones, save for one common s
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pre-modern smartphones
@@ -83,19 +83,6 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2010: Smartphones meet narcism, a match made in heaven
 
 Smartphones have evolved with a cadence we're all familiar with. Each year, new capabilities have been added and features improved. Cameras evolved from 3.0MP cameras to 48-50MP monsters like the [iPhone 15 Pro Max](https://www.zdnet.com/article/should-you-buy-an-iphone-15-heres-how-my-wife-and-i-are-deciding/), [Google Pixel 8](https://www.zdnet.com/article/pixel-8-pro-vs-pixel-7-pro/), [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and [Asus ROG Phone 8](https://rog.asus.com/articles/smartphones/the-rog-phone-8-and-rog-phone-8-pro-beyond-gaming-with-a-slim-new-design/).
@@ -116,6 +103,13 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2017: The start of the AI/ML smartphone era
 
 It's difficult to nail down exactly when machine learning found its way into smartphones, but a good case can be made for 2017\. That year, [Google released the Pixel 2](https://blog.google/products/pixel/pixel-visual-core-image-processing-and-machine-learning-pixel-2/), which got a portrait mode that blurred backgrounds, and improved processing for HDR images.
@@ -125,13 +119,6 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 **Also: [How the iPhone 15 Pro Max challenges mirrorless cameras: We compare price and performance](https://www.zdnet.com/article/how-the-iphone-15-pro-max-challenges-mirrorless-cameras-we-compare-price-and-performance/)**
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
 
@@ -148,6 +135,13 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 "But the conversation has moved to the different ways cameras like the iPhone can be used," he continued. "I think AI and machine learning features -- like the iPhone 15's scene, skin and sky segmentation and detection, periscope zoom lens, and Portrait Mode -- have opened up the possibilities of how smartphones can be used by everyone."
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Image quality
 
@@ -183,6 +177,13 @@ This technique pits a "generator" algorithm against a "discriminator" algorithm 
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Quality-of-life enhancements
 
 Smartphone cameras are not only taking better and better pictures and videos, but they're also becoming easier to use at the same time. Here are a few quality-of-life enhancements that make smartphone cameras more helpful to their users. 
@@ -204,13 +205,6 @@ Predictive algorithms and object detection models are often used for real-time t
 One thing that's important to note: [Generative AI](https://www.zdnet.com/article/generative-ai-filled-us-with-wonder-in-2023-but-all-magic-comes-with-a-price/) is something that occurs _outside_ of the camera.
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Looking to the future
 
@@ -268,21 +262,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-efficient-route-for-vimeo-uploads-from-window-media-tools/"><u>[Updated] In 2024, Efficient Route for Vimeo Uploads From Window Media Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pioneering-performance-exclusive-insights-into-oculus-headsets/"><u>[Updated] Pioneering Performance Exclusive Insights Into Oculus Headsets</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-seamless-songstreaming-the-best-free-apps-for-youtube-music-on-android/"><u>2024 Approved Seamless Songstreaming The Best Free Apps for YouTube Music on Android</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/asmr-and-you-understanding-its-healing-power/"><u>ASMR and You Understanding Its Healing Power</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-brainstorm-sessions-using-mind-maps-and-ai-insights-from-chatgpt/"><u>Boost Your Brainstorm Sessions Using Mind Maps and AI Insights From ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-on-your-computer-why-its-superior-to-the-website-experience/"><u>ChatGPT on Your Computer: Why It's Superior to the Website Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatlaw-assessing-gpt-in-legal-discussions/"><u>ChatLaw: Assessing GPT in Legal Discussions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/iance-in-recording-video-streams-on-youtube/"><u>Compliance in Recording Video Streams on YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-imaginative-tales-using-chatgpt-strategies-for-success/"><u>Crafting Imaginative Tales Using ChatGPT: Strategies for Success</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/empowered-by-poe-to-tap-into-ai-botsllms/"><u>Empowered by PoE to Tap Into AI Bots/LLMs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-googles-latest-venture-unveiling-the-mysteries-of-artific/"><u>Exploring Google's Latest Venture: Unveiling the Mysteries of Artific</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-honor-magic-vs-2-lock-screen-pattern-pin-or-password-heres-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Honor Magic Vs 2 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-by-drfone-ios/"><u>How to Unlock Apple iPhone SE?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a58-4g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo A58 4G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-digital-artisans-guide-mastering-screen-recordings-in-macos/"><u>The Digital Artisan's Guide Mastering Screen Recordings in macOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-ai-assistance-a-comprehensive-guide-to-using-chatgpt-with-macos/"><u>Unleashing AI Assistance: A Comprehensive Guide to Using ChatGPT with macOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-mastering-image-curves-in-adobe-photoshop/"><u>[New] In 2024, Mastering Image Curves in Adobe Photoshop</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-exploring-the-features-of-vimeos-innovative-recorder-for-2024/"><u>[Updated] Exploring the Features of Vimeo's Innovative Recorder for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-streamline-your-roblox-recording-mac-guide/"><u>2024 Approved Streamline Your Roblox Recording Mac Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-huawei-nova-y91-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Huawei Nova Y91 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/becoming-a-pro-at-prompt-engineering-strategies-and-insights/"><u>Becoming a Pro at Prompt Engineering: Strategies and Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/begin-using-the-enhanced-ai-version-of-bing-with-easy-registration-steps/"><u>Begin Using the Enhanced AI Version of Bing with Easy Registration Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-performance-is-it-declining-or-not-according-to-openai/"><u>ChatGPT's Performance: Is It Declining or Not According To OpenAI?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-lg-stylo-6-sleek-design-meets-precision-stylus/"><u>Comprehensive Review: LG Stylo 6 – Sleek Design Meets Precision Stylus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-ai-for-everyone/"><u>Decoding AI for Everyone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/deep-dive-android-edition-of-adobe-lightroom-review-for-2024/"><u>Deep Dive Android Edition of Adobe Lightroom Review for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-conversational-ai-discover-6-innovative-ways-to-use-chatgpts-code-interpretation-skills/"><u>Harnessing Conversational AI: Discover 6 Innovative Ways to Use ChatGPT's Code Interpretation Skills</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-call-of-duty-modern-warfare-3s-fps-stuttering-issue-in-early-2024/"><u>How to Fix Call of Duty Modern Warfare 3'S FPS Stuttering Issue in Early 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-x9a-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor X9a Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-site-creation-with-these-4-insights-on-leveraging-chatgpt/"><u>Revolutionize Your Site Creation with These 4 Insights on Leveraging ChatGPT</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revolutionizing-bookkeeping-stellar-fixes-corrupted-quickbooks-files/"><u>Revolutionizing Bookkeeping: Stellar Fixes Corrupted QuickBooks Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-to-combat-emotional-seclusion-with-chatai/"><u>Strategies to Combat Emotional Seclusion with ChatAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/uncover-the-power-of-ai-boost-your-crypto-trade-game-with-these-5-chatgpt-strategies/"><u>Uncover the Power of AI: Boost Your Crypto Trade Game With These 5 ChatGPT Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/uninterrupted-youtube-how-to-block-ads-in-popular-browsers-for-2024/"><u>Uninterrupted YouTube How to Block Ads in Popular Browsers for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-prompt-engineering-and-is-it-a-viable-job-opportunity-top-aspects/"><u>What Is Prompt Engineering and Is It a Viable Job Opportunity? Top Aspects</u></a></li>
 </ul></div>
 

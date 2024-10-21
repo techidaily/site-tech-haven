@@ -1,7 +1,7 @@
 ---
 title: Effective Proposal Techniques Enhanced by ChatGPT Tools
-date: 2024-09-07T00:17:08.806Z
-updated: 2024-09-08T00:17:08.806Z
+date: 2024-10-15T18:08:34.339Z
+updated: 2024-10-21T19:16:01.663Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Effective Proposal Techniques Enhanced by ChatGP
 thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Evaluating ChatGPT'cu Ability to Formulate Secure and Effective Personal Training Programs Suited to You
 
  ChatGPT generates responses to word prompts with a staggering amount of speed and accuracy (for the most part). With seemingly so much power, can it design effective workouts for you, as well?
@@ -35,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 
 ![ChatGPT workout plan for beginners prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-beginners-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For the first prompt, I asked ChatGPT to create a workout plan for beginners. The basic workout plan it generated allotted time for cardio, resistance training, warm-ups, and cool-downs.
 
  For the most part, it looks like a solid plan that you might find on any[beginner-friendly workout app](https://www.makeuseof.com/best-beginner-workout-apps-fitness-newbies/) , such as the J&J Official 7 Minute Workout. There's even a note at the end to increase your duration slowly over time and stay hydrated, which is excellent advice for any athlete.
@@ -42,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
  In this instance, ChatGPT responded to the prompt with a standard list of exercises that would work well for many people. If you're interested in a simple, straightforward fitness routine, then its suggestions are legitimate.
 
 ![ChatGPT workout plan for advanced athletes prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-advanced-athletes-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Meanwhile, a second plan for more seasoned athletes follows a similar format, including plenty of examples for cardio, core, and resistance training. Each section includes many options.
 
@@ -51,12 +59,6 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 
 ![Chat GPT injury recovery prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chat-gpt-injury-recovery-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What if you are recovering from an injury? It's safest (and always recommended) to consult your doctor for any specific questions about how you can exercise with an injury or other health concern, but I wanted to see how the bot would respond.
 
  Wisely, this response also includes a prompt to listen to your healthcare provider, so ChatGPT covers its bases in that way. It also encourages you to stretch gently, incorporate low-impact activities where appropriate, and avoid pushing too hard right away.
@@ -67,22 +69,17 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 
 ![ChatGPT running plan question screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-running-plan-question-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
 
 ![ChatGPT 10K running plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-10k-running-plan-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  I responded to the questions in order, and it provided a multi-week plan. The plan is actually pretty solid, even taking potential injuries into account, but it didn't get into more granular details like pacing.
 
  If your goal focuses on speed (such as running a 10K in less than an hour), then you may want a plan that targets a certain pace. In this example, you'd need to hold around a 9:30/mile pace to complete the 10K in under one hour.
@@ -91,32 +88,21 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 
 ![ChatGPT Boston qualifier prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-boston-qualifier-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, there is some level of self-awareness with ChatGPT's advice on this topic (if you can say such a thing about AI technology). For instance, if you ask it to create a running plan that will help you qualify for the Boston Marathon, then it directs you to find an online plan that already addresses this ambition. It's a huge, years-long goal, even for many talented runners, and the app rightly doesn't attempt to offer a pat response.
 
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Strength Training Plans From ChatGPT
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Likewise, ChatGPT’s general strength training plan is also pretty dependable, calling for bodyweight exercises like squats and push-ups as well as dumbbell rows. It’s similar to what you might find from[top strength-training apps](https://www.makeuseof.com/best-weightlifting-apps/) .
 
  What if you have more specific questions about how to perform the exercises correctly? The chatbot can help with that, too.
@@ -131,14 +117,11 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 
  Although ChatGPT can’t replace the role of an experienced personal trainer or coach, it can provide accurate and usable training plans for anyone who’s just looking for the basics. If you want to start a new workout habit or shake up your current routine, then the AI tool offers concise, quick responses for your exercise plans. It will be exciting to see how this technology continues to evolve and impact the fitness world in the future.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +130,17 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-top-10-places-for-accessible-photography-loot/"><u>[New] Top 10 Places for Accessible Photography Loot</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-poco-f5-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Poco F5 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-to-optimizing-the-smart-bing-application-on-andriod-systems/"><u>Guide to Optimizing the Smart Bing Application on Andriod Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/las-9-formas-mas-exitosas-de-minimizar-videos-para-optimizacion-de-correos-electronicos-guia-completa/"><u>Las 9 Formas Más Exitosas De Minimizar Videos Para Optimización De Correos Electrónicos: Guía Completa</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/opening-doors-to-universal-ai-with-gpt-4/"><u>Opening Doors to Universal AI with GPT-4</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/tech-tutorial-saving-screen-movies-from-your-gadgets/"><u>Tech Tutorial Saving Screen Movies From Your Gadgets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-wearables-explore-6-revolutionary-uses-of-chatgpt-with-your-smartwatch/"><u>The Future of Wearables: Explore 6 Revolutionary Uses of ChatGPT with Your Smartwatch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/uncovering-six-affordable-models-in-the-ai-realm/"><u>Uncovering Six Affordable Models in the AI Realm</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-asus-rog-phone-8s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Asus ROG Phone 8s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/when-creativity-meets-copyrights-understanding-why-sarah-silverman-and-fellow-artists-are-challenging-openais-practices-in-court/"><u>When Creativity Meets Copyrights: Understanding Why Sarah Silverman and Fellow Artists Are Challenging OpenAI's Practices in Court</u></a></li>
+</ul></div>
 

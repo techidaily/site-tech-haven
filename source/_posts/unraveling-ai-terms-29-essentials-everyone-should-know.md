@@ -1,7 +1,7 @@
 ---
 title: "Unraveling AI Terms: 29 Essentials Everyone Should Know"
-date: 2024-09-07T00:17:10.880Z
-updated: 2024-09-08T00:17:10.880Z
+date: 2024-10-18T18:27:00.359Z
+updated: 2024-10-21T16:04:36.487Z
 tags:
   - chatgpt
   - open-ai
@@ -19,12 +19,6 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
  So, here are five ChatGPT features you're not using but absolutely should be.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1 Read Aloud
 
  In March 2024, OpenAI launched ChatGPT's Read Aloud feature, enabling the AI tool to read its responses to you. It can be handy if you're working on a long piece of text and want to hear how it sounds spoken, but it also means that you can now effectively converse with ChatGPT (using ChatGPT's voice input feature).
@@ -39,11 +33,12 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2 Personalized Responses
 
  ChatGPT's Custom Instructions give you greater control over how the AI chatbot responds to your inputs.[ChatGPT's custom instructions can range](https://www.makeuseof.com/best-ways-to-use-chatgpt-custom-instructions/) from in-depth information about your life, business, or otherwise, to simple instructions, such as making sure it only uses imperial measurements or always responds with your name.
@@ -57,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 * Always take a deep breath and think before answering questions and requests
 
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 ChatGPT Memory and Temporary Chat
 
@@ -74,17 +76,18 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
 
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 
@@ -92,18 +95,6 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
  Unfortunately, at the time of writing, Temporary Chat mode is only available to a small number of users, limiting the amount of people using it. However, when it arrives, it'll be a useful tool for those moments you want to ask ChatGPT a question but don't want it linked to your profile forever more.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Free Trial Invites
 
  Want to share ChatGPT Plus with your buddies, but they don't have the cash for the subscription? Well, you can use a ChatGPT Plus free trial invite to grant them a 14-day free ChatGPT Plus experience, with access to every feature.
@@ -111,33 +102,25 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
  The only real downside to the ChatGPT Plus free trial is that anyone taking it has to sign up for an account using a credit or debit card—which means the card will be charged straight away when the trial ends.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5 Shared Links
 
  If the person you invite to trial ChatGPT is put off by the credit card sign-up, you could share your ChatGPT conversation with them instead.[ChatGPT's shared links launched in May 2023](https://www.makeuseof.com/what-are-chatgpt-shared-links-how-do-they-work/) and offer a way for ChatGPT users to share conversations outside the confines of the web interface or the smartphone app.
 
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +129,20 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-facebook-ads-game-no-price-tag-for-video-kit-for-2024/"><u>[New] Elevate Your Facebook Ads Game - No Price Tag for Video Kit for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-want-to-see-all-the-photos-and-videos-my-contacts-share-in-messages/"><u>[New] Want to See All the Photos & Videos My Contacts Share in Messages</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y100t-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-7ipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 7/iPad | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-blog-the-five-biggest-challenges-facing-developers-with-receipt-ocr-technology/"><u>ABBYY Blog: The Five Biggest Challenges Facing Developers with Receipt OCR Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-guide-to-video-rotation-mastering-the-technique-with-vlc/"><u>Complete Guide to Video Rotation: Mastering the Technique with VLC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-kodi-tutorial-mastering-all-features-and-functions-lesson-2/"><u>Comprehensive Kodi Tutorial: Mastering All Features & Functions - Lesson 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dvd-macmacbook-proairimac/"><u>DVDビデオ再生・視聴ガイド - Mac/MacBook Pro/AirおよびiMac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-techniques-for-recording-satellite-music-from-siriusxm-on-laptop-and-smartphone/"><u>Easy Techniques for Recording Satellite Music From SiriusXM on Laptop and Smartphone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-tutorial-on-how-to-transform-dvd-content-into-compact-and-clear-aac-files/"><u>Easy Tutorial on How to Transform DVD Content Into Compact and Clear AAC Files</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-secrets-to-designing-impactful-igtv-thumbnails/"><u>In 2024, Secrets to Designing Impactful IGTV Thumbnails</u></a></li>
+</ul></div>
 

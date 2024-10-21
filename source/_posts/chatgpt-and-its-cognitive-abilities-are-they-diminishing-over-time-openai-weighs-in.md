@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and Its Cognitive Abilities: Are They Diminishing Over Time? OpenAI Weighs In"
-date: 2024-09-07T00:17:11.044Z
-updated: 2024-09-08T00:17:11.044Z
+date: 2024-10-16T20:27:55.944Z
+updated: 2024-10-21T20:30:33.225Z
 tags:
   - chatgpt
   - open-ai
@@ -21,18 +21,6 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 
 ![Unriddle is the best app to analyze your documents and then talk with them using ChatGPT, but the free tier is severely limited](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-unriddle.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * **File Formats Supported:** PDF, DOC, URL
 * **Page Limit:** 120 pages (Free) | 4,000 pages (Paid)
 * **File Size Limit:** No Information Available
@@ -47,16 +35,17 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 
 **Download:** Unriddle Summarize for[Chrome](https://chrome.google.com/webstore/detail/unriddle-ai-generated-sum/iinmigjlcpeckfihbbfajpkiilfmakff) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[Chatterdocs](https://chatterdocs.ai/tools/chat-with-pdf) (Web): Create Chatbots Sourcing From Multiple Documents
 
 ![Chatterdocs can analyze multiple documents at the same time while you chat with a bot and ask questions like ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-chatterdocs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * **File Formats Supported:** PDF, DOC, TXT, JPEG, PNG
 * **Page Limit:** No Information Available
 * **File Size Limit:** No Information Available
@@ -69,22 +58,17 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 
  Unregistered users can also use[Chatterdocs to analyze PDF files](https://chatterdocs.ai/tools/chat-with-pdf) . It's a free tool to see how much Chatterdocs can do.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3.[Klavier](https://klavier.ai/) (Web): Free and Limitless Tool to Chat With Your Documents
 
 ![Klavier is a completely free way to have AI scan your documents and then use ChatGPT to find information within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-klavier.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * **File Formats Supported:** PDF, DOCX, TXT, HTML
 * **Page Limit:** No Information Available
 * **File Size Limit:** No Information Available
@@ -97,12 +81,6 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 
  Currently, you cannot create an account on Klavier to store analyzed files. In fact, you can only work with one source material at a time and will lose any progress if you add a new source for Klavier to analyze.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4.[LXI.ai](https://lxi.ai/) (Web): Chat With Your Documents and Pay Per Usage
 
 ![LXI.ai has an innovative system to chat with your documents and pay only per your usage, not lumpsum tiers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-lxi-ai.jpg)
@@ -121,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 
 ![Docalysis provides one of the most impressive ChatGPT bots for your PDF documents, and having the PDF open alongside is a bonus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-docalysis.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **File Formats Supported:** PDF
 * **Page Limit:** 150 pages (Free) | 1500 pages (Paid)
 * **File Size Limit:** 5MB (Free) | 50MB (Paid)
@@ -138,11 +123,12 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 ![ChatPDF is a simple way to run ChatGPT on your PDF documents and chat with a bot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-chatpdf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * **File Formats Supported:** PDF
 * **Page Limit:** 120 pages (Free) | 2,000 pages (Paid)
 * **File Size Limit:** 10MB (Free) | 32MB (Paid)
@@ -151,24 +137,15 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
 
  ChatPDF is one of the[coolest new apps to work with PDF files](https://www.makeuseof.com/free-pdf-editing-web-apps-to-fix-common-problems-with-pdfs/) , and performs shockingly well for all text. It had trouble reading images and data from tables in our tests, where we uploaded files from our drive as well as direct URLs. The developers say that while they currently use ChatGPT 3.5, they are looking into how to incorporate the newer ChatGPT 4.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Learn Prompts to Make Chat Memory Easier
 
  You'll find that in all these apps, ChatGPT doesn't remember what you talked about after a session is finished. In fact, in some apps, it'll treat each question separately without using the previous query's context. To get around this problem, try and learn how to use prompts for ChatGPT in the app you're using. With a little trial and error, you will be able to figure out how to frame a question so that answers use the context of what you've chatted about before.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,4 +154,26 @@ thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-direct-access-to-streams-how-to-download-youtube-videos-to-your-ios-device/"><u>[Updated] In 2024, Direct Access to Streams How to Download YouTube Videos to Your iOS Device</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-maximizing-video-quality-in-zoom-conferences-on-win11/"><u>[Updated] In 2024, Maximizing Video Quality in Zoom Conferences on Win11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-rapidly-increase-views-effective-growth-hacks-for-channels/"><u>[Updated] In 2024, Rapidly Increase Views Effective Growth Hacks for Channels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-holo-health-interventions/"><u>2024 Approved Holo-Health Interventions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/m4-a-web-4/"><u>最高の無料 M4-A 統合ソフトウェアとWebサイト 上位4選択: 専門家がお薦め!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-face-off-is-it-chatgpt-plus-or-perplexity-that-outperforms-in-ai-conversations/"><u>Chatbot Face-Off: Is It ChatGPT Plus or Perplexity that Outperforms in AI Conversations?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100a-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100A to Outlook | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/e-expertise-continuous-video-play-for-2024/"><u>IPhone Expertise Continuous Video Play for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/itunesdvd/"><u>ITunesで簡単な手順でDVD動画のインポートガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/jpegmovwindows-11/"><u>JPEG形式へMOV動画を変換するためのWindows 11ガイド</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/kindle-vs-fire-tablet-whats-the-difference/"><u>Kindle Vs. Fire Tablet: What's the Difference?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mmfmp3/"><u>MMFファイルからMP3への完全な変換ガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/most-effective-hd-dvd-ripper-tools-for-windows-11-expert-picks-2024/"><u>Most Effective HD DVD Ripper Tools for Windows 11 - Expert Picks 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prores-video-format-compatible-download-and-installation-for-windows-10-and-11/"><u>ProRes Video Format: Compatible Download and Installation for Windows 10 & 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-tips-to-switch-input-languages-within-the-kodi-media-center/"><u>Quick Tips to Switch Input Languages Within the Kodi Media Center</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-fix-for-your-footage-discover-the-ultimate-fast-compression-softwares-for-gopro-videos/"><u>Quick-Fix for Your Footage: Discover the Ultimate Fast-Compression Softwares for GoPro Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-issues-with-non-playing-instagram-footage-a-step-by-step-guide/"><u>Resolving Issues with Non-Playing Instagram Footage: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-update-issue-error-code-0xc004f050/"><u>Resolving Windows Update Issue: Error Code 0xC004F050</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-h2e3-video-files-into-avi/"><u>Step-by-Step Guide: Converting H.2e3 Video Files Into AVI</u></a></li>
+</ul></div>
 

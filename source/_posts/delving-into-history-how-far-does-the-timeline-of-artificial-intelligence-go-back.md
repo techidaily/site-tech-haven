@@ -1,7 +1,7 @@
 ---
 title: "Delving Into History: How Far Does the Timeline of Artificial Intelligence Go Back?"
-date: 2024-09-07T00:17:08.530Z
-updated: 2024-09-08T00:17:08.530Z
+date: 2024-10-20T17:32:40.611Z
+updated: 2024-10-21T20:53:41.785Z
 tags:
   - chatgpt
   - open-ai
@@ -21,28 +21,10 @@ thumbnail: https://thmb.techidaily.com/ad2e7cdaba5152cc65afbc2503b95057d5e6fc76b
 
  Your browser does not support the video tag.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1.[Decktopus AI](https://www.decktopus.com/)
 
 ![A Screenshot of Decktopus AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/decktopus-ai-presentation-generator-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Decktopus is an AI-powered presentation generator that aims to simplify the process of making presentations for any situation, and getting started with it couldn't be easier. All you have to do is type out a description of what you want your presentation to be about. If you’re not sure, Decktopus can often provide some useful suggestions.
 
  From there, Decktopus will help ask you several questions to generate a presentation tailored to your needs. Who the presentation is aimed at, what the aim of the presentation is, how long you want to be presenting for, and what template to use for the presentation are all questions you may receive.
@@ -50,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/ad2e7cdaba5152cc65afbc2503b95057d5e6fc76b
  Each of these questions comes with several pre-generated responses, but you can always input your own by typing out what it is that you want. Then, Decktopus will then have your presentation entirely generated based on your inputs. The results look good on their own, but you can also adjust the themes and colors.
 
  On top of this, Decktopus also generates multiple layouts for its slides, so you can adjust it that way. If you really don’t like what Decktopus has created, you can also regenerate the presentation in its entirety to get a new AI response.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2.[SlidesAI.io](https://www.slidesai.io/)
 
@@ -63,47 +52,51 @@ thumbnail: https://thmb.techidaily.com/ad2e7cdaba5152cc65afbc2503b95057d5e6fc76b
 
  Alternatively, you can ask SlidesAI.io to create a presentation using just a simple title. The process here is much the same. There are also options to customize the look of SlidesAI.io within the add-on, though you can always adjust the look using Google Slides' in-built tools as well if you so wish.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3.[Tome](https://tome.app/)
 
 ![A Screenshot of Tome s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tome-ai-presentation-generator-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you’re looking for a comprehensive presentation tool full of features, then Tome might just be exactly what you’re looking for. Features such as custom themes, fonts, and logos, are all present with Tome. If you’re looking for collaborative tools or[how to make a presentation more interactive](https://www.makeuseof.com/make-presentations-interactive-google-slides-presenter-view/) , then you can find that too.
 
  Tome has a ton of features to make your own presentations from scratch, but where Tome really excels is in its AI features. At the bottom of the presentation generation interface, you can access a ton of AI features.
 
  This includes creating AI images to match your content, creating a new slide with your content, converting a document into a presentation, or simply making one from scratch. Tome works quickly and efficiently with these AI tools, and you can easily make impressive presentations in mere moments.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4.[GPT_PPT](https://gpt-ppt.neftup.app/)
 
 ![A Screenshot of GPT PPT s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_ppt-presentation-generator-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you’re looking for something that can quickly generate a functioning presentation or slide show, then GPT\_PPT is a great little tool for doing just that. To use GPT\_PPT, all you have to do is sign up and type out what you want your presentation to be. From there, GPT\_PPT will automatically create a brief PowerPoint covering the points that you laid out.
 
  As you might imagine, GPT\_PPT generates PowerPoint files. The results aren’t always the cleanest, and there’s no way to edit them from within the web page. Fortunately, you can always open them in PowerPoint to edit them yourself and tidy them up. If you already know some of[these advanced Microsoft PowerPoint features that everyone must know](https://www.makeuseof.com/advanced-microsoft-powerpoint-features/) , then making a stunning presentation out of them shouldn’t be hard.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5.[Presentations.AI](https://www.presentations.ai/)
 
@@ -115,18 +108,6 @@ thumbnail: https://thmb.techidaily.com/ad2e7cdaba5152cc65afbc2503b95057d5e6fc76b
 
  If there’s anything you don’t like about the slides, there are options to change the type or style of the slides, and you can add points and edit what Presentations.AI has created as well.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6.[ChatBA](https://www.chatba.com)
 
 ![A Screenshot of ChatBA s AI Presentation Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatba-ai-presentation-generator-screenshot.jpg)
@@ -137,18 +118,6 @@ thumbnail: https://thmb.techidaily.com/ad2e7cdaba5152cc65afbc2503b95057d5e6fc76b
 
  ChatBA supports exporting in both PPTX and PDF file types, which is great if you already work in PowerPoint or are looking to present directly and want a PDF that you can easily share or present from.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7.[MagicSlides](https://www.magicslides.app)
 
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
@@ -159,30 +128,15 @@ thumbnail: https://thmb.techidaily.com/ad2e7cdaba5152cc65afbc2503b95057d5e6fc76b
 
  The looks, however, leave a little to be desired. There are options to adjust the theme when the presentation is generated, but they're not super easy to use. You can always use the theme features that are already present in Google Slides to fix this, however.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Make a Presentation Like Never Before
 
  There are plenty of AI tools out there that can create presentations for you entirely from scratch. Whether you’re looking for a presentation you can bring up at your next meeting, a way to engage your colleagues, or just a faster way of making that next slideshow, there’s an AI presentation generator out there for you.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -191,4 +145,22 @@ thumbnail: https://thmb.techidaily.com/ad2e7cdaba5152cc65afbc2503b95057d5e6fc76b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-5-best-gba-emulators-for-ios-you-can-find-for-2024/"><u>[New] 5 Best GBA Emulators for iOS You Can Find for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-high-speed-photo-inspector-for-windows-11/"><u>[New] High-Speed Photo Inspector for Windows 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-protecting-data-while-transforming-youtube-videos-into-mp3-files/"><u>[New] Protecting Data While Transforming YouTube Videos Into MP3 Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-become-an-fcp-virtuoso-with-this-guide/"><u>2024 Approved Become an FCP Virtuoso with This Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-pathways-to-accumulate-free-photo-frame-media/"><u>2024 Approved Pathways to Accumulate Free Photo Frame Media</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cgp-and-the-quest-for-reliable-medical-info/"><u>CGP and the Quest for Reliable Medical Info</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/customizing-chatgpt-with-generative-pre-training-gpt-techniques-and-tips/"><u>Customizing ChatGPT with Generative Pre-Training (GPT): Techniques and Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elon-unveils-ai-understanding-groks-purpose-and-price/"><u>Elon Unveils AI: Understanding Grok's Purpose & Price</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-v-purse-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor V Purse Phone without Google Account?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-efficient-facebook-video-extraction-procedures/"><u>In 2024, Efficient Facebook Video Extraction Procedures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-ideation-strategies-leveraging-mind-mapping-and-chatgpt-synergy/"><u>Innovative Ideation Strategies: Leveraging Mind Mapping and ChatGPT Synergy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-look-the-complete-breakdown-of-apples-new-ai-innovations-from-wwdc/"><u>Inside Look: The Complete Breakdown of Apple's New AI Innovations From WWDC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-termination-legal-with-chatgpt-usage-examining-ten-cases/"><u>Is Termination Legal with ChatGPT Usage? Examining Ten Cases</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-of-amd-radeon-pro-w5700-drivers-for-optimal-performance-on-windows-platforms-11-10-7/"><u>Latest Version of AMD Radeon Pro W5700 Drivers for Optimal Performance on Windows Platforms (11, 10, 7)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-mystery-why-does-chatgpt-fail-to-spot-text-it-generates/"><u>Unraveling the Mystery: Why Does ChatGPT Fail to Spot Text It Generates?</u></a></li>
+</ul></div>
 

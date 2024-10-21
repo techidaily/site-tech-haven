@@ -1,7 +1,7 @@
 ---
 title: "Prime Day's Hottest Apple Offers: Explore the Top 36 Deals Still on Sale at ZDNET!"
-date: 2024-10-12T02:07:32.575Z
-updated: 2024-10-16T01:37:22.129Z
+date: 2024-10-20T18:57:45.844Z
+updated: 2024-10-21T21:54:29.314Z
 tags:
   - apple
 categories:
@@ -84,10 +84,10 @@ Asus/ZDNET
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prime Day MacBook deals
@@ -97,6 +97,19 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M2) for $799 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): [The MacBook Air (M2)](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) combines performance and portability. It's one of our favorite laptops at ZDNET and our Product of the Year -- and it's on sale for just $799, the lowest price we've ever seen.
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
 
@@ -112,6 +125,13 @@ Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -132,13 +152,6 @@ Kyle Kucharski/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
@@ -148,22 +161,15 @@ Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals con
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -171,16 +177,16 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -245,24 +251,19 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-perfect-your-android-experience-with-screen-and-video-tech/"><u>[New] 2024 Approved Perfect Your Android Experience with Screen & Video Tech</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-essential-tactics-for-effective-fb-giveaway-campaigns/"><u>[New] Essential Tactics for Effective FB Giveaway Campaigns</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-premier-virtual-seminar-title-craftsman/"><u>2024 Approved Premier Virtual Seminar TITLE CRAFTSMAN</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/closedsubsquery-time-to-reengage-in-dialogue/"><u>ClosedSubsQuery: Time to Reengage in Dialogue?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-guide-to-crafting-perfect-chatgpt-personalized-prompts-top-5-methods/"><u>Expert Guide to Crafting Perfect ChatGPT Personalized Prompts (Top 5 Methods)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-depths-of-googles-artificve-intelligence-unveiling-gemini/"><u>Exploring the Depths of Google's Artificve Intelligence: Unveiling Gemini</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-and-install-new-firmware-brother-hl-l2370dw-driver-guide/"><u>Get & Install New Firmware: Brother HL-L2370DW Driver Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-recognize-and-deal-with-phishing-sites-using-chatgpt/"><u>How to Recognize and Deal with Phishing Sites Using ChatGPT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-grasping-core-principles-in-narrative-designs/"><u>In 2024, Grasping Core Principles in Narrative Designs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-playlist-to-share-on-fb-stories/"><u>In 2024, The Ultimate Playlist to Share on FB Stories</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-strategies-to-perfect-your-resume-with-ai/"><u>Innovative Strategies to Perfect Your Resume with AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-anthropics-ai-for-creative-prowess/"><u>Leveraging Anthropic's AI for Creative Prowess</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mac-stellar-file-shredder-essential-security-software-with-automatic-cleanup/"><u>Mac Stellar File Shredder: Essential Security Software with Automatic Cleanup</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/starting-with-langchain-llm-the-essential-starter-kit/"><u>Starting with LangChain LLM: The Essential Starter Kit</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-effective-strategies-integrating-chatgpt-into-your-job-hunt/"><u>Top 6 Effective Strategies: Integrating ChatGPT Into Your Job Hunt</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-three-methods-leveraging-chatgpt-with-the-wolfram-alpha-add-on/"><u>Top Three Methods: Leveraging ChatGPT with the Wolfram Alpha Add-On</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upcycle-your-aged-phones-into-awesome-audio-gadgets-for-childrens-entertainment/"><u>Upcycle Your Aged Phones Into Awesome Audio Gadgets for Children's Entertainment</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-nvidia-mx150-drivers-on-windows-with-our-comprehensive-guide/"><u>Update Your NVIDIA MX150 Drivers on Windows with Our Comprehensive Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-augmenting-your-stardew-experience-with-seven-top-mods-for-2024/"><u>[Updated] Augmenting Your Stardew Experience with Seven Top Mods for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-gpt-4-but-platinum-plan-holds-6-significant-perks-still-intact/"><u>Free GPT-4, but Platinum Plan Holds 6 Significant Perks Still Intact</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/googles-palm-2-meets-openais-gpt-4-what-sets-them-aside/"><u>Google's PaLM 2 Meets OpenAI's GPT-4: What Sets Them Aside?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-these-10-custom-gpt-variants-outshine-original-chatgpt-features/"><u>How These 10 Custom GPT Variants Outshine Original ChatGPT Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-division-2-not-launching-2024-tips/"><u>How to Fix Division 2 Not Launching – 2024 Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-13-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-strategies-for-effective-content-promotion-on-youtube/"><u>In 2024, Strategies for Effective Content Promotion on YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ios-revolutionized-with-chatgpt-innovation/"><u>IOS Revolutionized with ChatGPT Innovation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-claude-ai-superior-to-chatgpt-in-the-world-of-advanced-chatbots/"><u>Is Claude AI Superior to ChatGPT in the World of Advanced Chatbots?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-truthgpt-coin-the-real-deal-investigating-its-legitimacy-and-potential-scams/"><u>Is TruthGPT Coin the Real Deal? Investigating Its Legitimacy and Potential Scams</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ting-prime-apps-for-iphoneandroid-intro-videos/"><u>Selecting Prime Apps for iPhone/Android Intro Videos</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-magic-5-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Magic 5 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-6-fixes-for-unresponsive-microphone-issues/"><u>Top 6 Fixes for Unresponsive Microphone Issues</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725289325437-winxvideo-ai/"><u>Winxvideo AI - 지급학자 최적화: 모든 영상, 음성 증강에 대한 속도와 구조</u></a></li>
 </ul></div>
 

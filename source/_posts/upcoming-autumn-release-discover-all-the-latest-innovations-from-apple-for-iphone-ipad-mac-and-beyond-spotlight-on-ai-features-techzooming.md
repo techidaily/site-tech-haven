@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Autumn Release: Discover All the Latest Innovations From Apple for iPhone, iPad, Mac, and Beyond - Spotlight on AI Features | TechZooming"
-date: 2024-10-14T05:24:35.298Z
-updated: 2024-10-16T08:05:29.795Z
+date: 2024-10-18T19:58:17.421Z
+updated: 2024-10-21T20:48:25.957Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,13 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -114,6 +107,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,13 +123,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -143,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,18 +218,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-essential-techniques-5-methods-for-superior-tiktok-captioning/"><u>[New] 2024 Approved Essential Techniques 5 Methods for Superior TikTok Captioning</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-demystifying-viewer-statistics-on-instagram-images-for-2024/"><u>[New] Demystifying Viewer Statistics on Instagram Images for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-analyzing-the-frequency-of-youtube-payments/"><u>[New] In 2024, Analyzing the Frequency of YouTube Payments</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-top-30-tiktok-names-for-higher-engagement-and-visibility-for-2024/"><u>[New] Top 30 TikTok Names for Higher Engagement and Visibility for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-youtube-movie-maker-tutorial-and-alternatives/"><u>[Updated] YouTube Movie Maker Tutorial and Alternatives</u></a></li>
-<li><a href="https://win-top.techidaily.com/formatierung-und-dateneinbussen-kann-man-alles-wiederherstellen/"><u>Formatierung Und Dateneinbussen: Kann Man Alles Wiederherstellen?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-step-by-step-guide-to-add-personalized-soundfilters-on-windows-photos/"><u>In 2024, Step-by-Step Guide to Add Personalized Sound/Filters on Windows Photos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/influencer-stemmen-movavi-beste-softwarerezensies-and-beoordelingen/"><u>Influencer-Stemmeĳn Movavi - Beste SoftwareRezensies & Beoordelingen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-handling-rar-compressed-files-using-linux-commands/"><u>Step-by-Step Tutorial: Handling RAR Compressed Files Using Linux Commands</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-your-tunes-effortless-music-management-using-mp3tag-version-327/"><u>Streamline Your Tunes: Effortless Music Management Using Mp3Tag Version 3.27</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-3-essential-pc-game-metrics-trackers-my-top-tool-picks-for-gamers/"><u>Top 3 Essential PC Game Metrics Trackers: My Top Tool Picks for Gamers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-arguments-in-favor-of-apples-return-to-the-wireless-router-market/"><u>Top 5 Arguments in Favor of Apple's Return to the Wireless Router Market</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-pc-with-style-a-comprehensive-guide-to-crafting-dazzling-interfaces-using-rainmeter/"><u>Transform Your PC with Style: A Comprehensive Guide to Crafting Dazzling Interfaces Using Rainmeter</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-convenient-steps-upside-down-video-via-vlc-application-for-2024/"><u>[New] Convenient Steps Upside Down Video via VLC Application for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-srt-soundfile-compatibility-pc-and-mac/"><u>[New] In 2024, SRT Soundfile Compatibility PC & Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725284320766-dvddvd/"><u>効果的な手順でDVDレコーダーを活用して新旧DVD間でデュアル複写方法</u></a></li>
+<li><a href="https://driver-download.techidaily.com/asus-notebook-driver-software-free-download-and-updating-guide/"><u>ASUS Notebook Driver Software: Free Download & Updating Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cultivate-creativity-best-video-concepts-for-viewers/"><u>Cultivate Creativity Best Video Concepts for Viewers</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/download-vevo-songs-in-high-quality-formats-mp4-mp3-avi-for-mac-and-pc/"><u>Download Vevo Songs in High-Quality Formats (MP4, MP3, AVI) for Mac & PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-audio-understanding-discover-tvos-18s-features-to-boost-dialogue-recognition-on-your-apple-tv/"><u>Elevate Audio Understanding - Discover tvOS 18'S Features to Boost Dialogue Recognition on Your Apple TV</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-acer-touchpad-driver-upgrades-for-seamless-windows-11-experience-download-today/"><u>Essential Acer Touchpad Driver Upgrades for Seamless Windows 11 Experience - Download Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exclusive-analysis-how-apple-bypassed-crucial-ai-breakthroughs-in-latest-event-zdnet/"><u>Exclusive Analysis: How Apple Bypassed Crucial AI Breakthroughs in Latest Event | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-latest-features-top-5-must-see-updates-in-the-ios-18-developer-preview-insights/"><u>Explore the Latest Features: Top 5 Must-See Updates in the iOS 18 Developer Preview - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-artificial-intelligence-in-music-creation-with-apples-updated-logic-pro-your-ipad-and-macs-new-virtual-band-members/"><u>Harness the Power of Artificial Intelligence in Music Creation with Apple's Updated Logic Pro – Your iPad and Mac's New Virtual Band Members</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-professional-tips-designing-youtube-trailers-in-filmora/"><u>In 2024, Professional Tips Designing YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-15-ultimate-guide-pros-and-cons-explained-ideal-or-not-techwise/"><u>IPhone 15 Ultimate Guide - Pros and Cons Explained, Ideal or Not? | TechWise</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/labor-day-sale-save-up-to-700-on-the-amazing-new-2022-ipad-pro-exclusive-deals-from-zdnet/"><u>Labor Day Sale: Save Up To $700 on the Amazing New 2022 iPad Pro - Exclusive Deals From ZDNet!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-ipad-air-top-4-convincing-arguments-why-you-should-upgrade-now-insights-from-tech-expert/"><u>New iPad Air: Top 4 Convincing Arguments Why You Should Upgrade Now - Insights From Tech Expert</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pros-and-cons-is-it-time-to-switch-to-the-iphone-16-insights-from-leading-zdnet-editors/"><u>Pros & Cons: Is It Time to Switch to the iPhone 16? Insights From Leading ZDNet Editors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-display-on-win11-fixed-release/"><u>Restore Display on Win11 Fixed Release</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-the-iphone-16-pro-isnt-a-necessary-upgrade-from-iphone-14-insights-by-zdnet/"><u>Why the iPhone 16 Pro Isn't a Necessary Upgrade From iPhone 14 | Insights by ZDNet</u></a></li>
 </ul></div>
 
