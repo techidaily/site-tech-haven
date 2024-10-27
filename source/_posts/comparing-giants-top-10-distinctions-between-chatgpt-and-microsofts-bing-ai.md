@@ -1,7 +1,7 @@
 ---
 title: "Comparing Giants: Top 10 Distinctions Between ChatGPT and Microsoft's Bing AI"
-date: 2024-09-02T12:17:38.550Z
-updated: 2024-09-03T12:17:38.550Z
+date: 2024-10-22T17:34:32.375Z
+updated: 2024-10-27T17:16:42.541Z
 tags:
   - chatgpt
   - open-ai
@@ -39,23 +39,28 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  During the GPT-4 announcement live stream, an OpenAI engineer fed the model with a screenshot of a Discord server. GPT-4 could describe every detail on it, including the names of users online at the time. An image of a hand-drawn mockup of a joke website was also fed to the model with instructions to turn it into a website, and amazingly, GPT-4 provided a working code for a website that matched the image.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
@@ -66,16 +71,17 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
 
  In practical terms, this means that GPT-4 can better remember the context of a conversation for longer, as well as the instructions given during the conversation.
@@ -85,20 +91,21 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## GPT-4: A Step Up from GPT-3.5
 
  Undoubtedly, GPT-4 is a significant step up from its predecessor models. While it is still plagued with some of the limitations of GPT-3.5, significant improvements in several areas and the addition of new capabilities make the model an exciting new step in the pursuit of truly intelligent AI language models.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +114,21 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-10-leading-budget-friendly-quality-webcall-providers/"><u>[New] In 2024, 10 Leading Budget-Friendly, Quality Webcall Providers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-ultimate-speed-boost-for-vimeo-videos/"><u>[Updated] In 2024, Ultimate Speed Boost for Vimeo Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-guide-to-the-best-9-video-call-apps-androidios-for-2024/"><u>[Updated] Ultimate Guide to the Best 9 Video Call Apps Android/iOS for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-7-top-budget-friendly-digital-camera-editing-tools/"><u>2024 Approved 7 Top Budget-Friendly Digital Camera Editing Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-crafting-personalized-user-archetypes-using-chatgpt/"><u>Effective Strategies for Crafting Personalized User Archetypes Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-academic-success-using-chatgpt-as-a-tool-for-research-and-essay-crafting/"><u>Empowering Academic Success: Using ChatGPT as a Tool for Research and Essay Crafting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhanced-output-discover-seven-productivity-secrets-powered-by-chatgpt/"><u>Enhanced Output: Discover Seven Productivity Secrets Powered by ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-artificial-intelligence-tools-for-beginners-club/"><u>Essential Artificial Intelligence Tools for Beginner's Club</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expanding-language-reach-with-chatgpt-capabilities/"><u>Expanding Language Reach with ChatGPT Capabilities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-the-missing-msvbvm50dll-file-and-fix-related-problems/"><u>How to Restore the Missing 'msvbvm50.dll' File and Fix Related Problems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-your-media-best-6-video-apps-for-macos-big-sur-users/"><u>In 2024, Master Your Media Best 6 Video Apps for macOS Big Sur Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-poco-c55-by-drfone-android/"><u>Top 10 Password Cracking Tools For Poco C55</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/triple-display-setup-made-simple-how-the-ugreen-dock-enhances-your-m1-mac-experience-zdnet-guide/"><u>Triple Display Setup Made Simple: How the Ugreen Dock Enhances Your M1 Mac Experience - ZDNet Guide</u></a></li>
+</ul></div>
 

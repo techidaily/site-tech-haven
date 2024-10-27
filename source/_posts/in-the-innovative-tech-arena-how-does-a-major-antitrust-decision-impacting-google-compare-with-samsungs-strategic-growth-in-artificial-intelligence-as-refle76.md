@@ -1,7 +1,7 @@
 ---
 title: In the Innovative Tech Arena, How Does a Major Antitrust Decision Impacting Google Compare with Samsung's Strategic Growth in Artificial Intelligence as Reflected on the Innovation Index?
-date: 2024-10-16T22:14:18.918Z
-updated: 2024-10-21T17:30:09.132Z
+date: 2024-10-25T17:40:42.297Z
+updated: 2024-10-27T19:02:09.174Z
 tags:
   - apple
 categories:
@@ -71,24 +71,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-auditory-cataloguing-pc-noises-and-speech-recordings-for-2024/"><u>[New] Auditory Cataloguing PC Noises & Speech Recordings for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-simple-steps-to-master-no-cost-time-tracking-for-2024/"><u>[New] Simple Steps to Master No-Cost Time Tracking for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-soothing-games-to-ease-anxiety/"><u>[New] Top 10 Soothing Games to Ease Anxiety</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/capture-abc-news-footage-quickly-with-the-abcnews-video-downloader-app/"><u>Capture ABC News Footage Quickly with the ABCNews Video Downloader App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-macbook-enhancements-for-2aturate-your-laptop-expertly-tested-gear-of-2024/"><u>Essential MacBook Enhancements for 2Aturate Your Laptop | Expertly Tested Gear of 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/e-curiosity-with-a-personal-touch-anime-subscribe-buttons-for-filmmakers-filmora-for-2024/"><u>Ignite Curiosity with a Personal Touch - Anime Subscribe Buttons for Filmmakers (Filmora) for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-accelerating-your-creative-process-high-quality-3d-models-tools/"><u>In 2024, Accelerating Your Creative Process High-Quality 3D Models Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone-15-insider-analysis-exceptional-performance-and-features-that-impress-both-novices-and-experts-exclusive/"><u>IPhone 15 Insider Analysis: Exceptional Performance & Features That Impress Both Novices and Experts Exclusive</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone-call-recording-guide-is-it-legal-step-by-step-process-covered/"><u>IPhone Call Recording Guide: Is It Legal? Step-by-Step Process Covered</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfecting-steam-deck-input-a-guide-to-the-keyboard/"><u>Perfecting Steam Deck Input: A Guide to the Keyboard</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-top-five-ios-18-highlights-from-apples-2024-wwdc-keynote-with-a-spotlight-on-revolutionary-ai-features-techcrunch/"><u>Unveiling Top Five iOS 18 Highlights From Apple's 2024 WWDC Keynote, with a Spotlight on Revolutionary AI Features | TechCrunch</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zdnets-expert-selection-of-top-stylus-tablets-for-202n4-in-depth-analysis-and-ratings-best-of-the-year/"><u>ZDNet's Expert Selection of Top Stylus Tablets for 202N4: In-Depth Analysis and Ratings | Best of the Year</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-navigating-mov-saving-in-windows-11-top-six-methods-reviewed/"><u>[New] Navigating .MOV Saving in Windows 11 - Top Six Methods Reviewed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-discover-the-elite-ranked-10-tv-streaming-platforms/"><u>[Updated] Discover the Elite Ranked 10 TV Streaming Platforms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-tactics-for-transforming-youtube-list-layouts/"><u>[Updated] Tactics for Transforming YouTube List Layouts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-gpt-plugins-and-their-functions/"><u>Essential GPT Plugins & Their Functions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-impact-of-artificial-intelligence-on-microsofts-bing-search-engine/"><u>Exploring the Impact of Artificial Intelligence on Microsoft's Bing Search Engine</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-speed-difference-understanding-why-chatgpt-4-lags-behind-its-predecessor-chatgpt-35/"><u>Exploring the Speed Difference: Understanding Why ChatGPT-4 Lags Behind Its Predecessor, ChatGPT-3.5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fantasy-fused-with-fact-leading-ai-trajectories/"><u>Fantasy Fused with Fact: Leading AI Trajectories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-chatgpts-memory-glitches-for-persistent-conversations/"><u>Fixing ChatGPT's Memory Glitches for Persistent Conversations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-the-non-responsive-chatgpt-app-for-iphone-users-a-step-by-nstep-guide/"><u>Fixing the Non-Responsive ChatGPT App for iPhone Users - A Step-by-nStep Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/freedom-at-fingertips-implementing-a-free-and-open-source-gpt-competitor-on-windows-using-freedomgpt-solutions/"><u>Freedom at Fingertips: Implementing a Free and Open-Source GPT Competitor on Windows Using FreedomGPT Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-novice-to-pro-in-board-games-with-chatgpt-the-ultimate-guide-to-leveraging-my-gpt-bot-skills/"><u>From Novice to Pro in Board Games with ChatGPT: The Ultimate Guide to Leveraging My GPT Bot Skills</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpts-role-in-crafting-my-podcast-script/"><u>GPT's Role in Crafting My Podcast Script</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oneplus-11r-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your OnePlus 11R Phone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor ?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-2023s-leading-skype-capture-tools-the-ultimate-ranking/"><u>In 2024, 2023'S Leading Skype Capture Tools The Ultimate Ranking</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-x50-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor X50 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/screensnap-sage-mastering-captures-technology/"><u>ScreenSnap Sage Mastering Captures Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-when-dsounddll-cant-be-found-on-windows/"><u>Troubleshooting Steps for When dsound.dll Can't Be Found on Windows</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

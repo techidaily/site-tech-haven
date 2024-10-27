@@ -1,7 +1,7 @@
 ---
 title: "Tomorrow's Technology Tales: A Look at 7 Future Secrets"
-date: 2024-09-02T12:16:13.513Z
-updated: 2024-09-03T12:16:13.513Z
+date: 2024-10-23T18:12:57.213Z
+updated: 2024-10-27T19:05:05.906Z
 tags:
   - chatgpt
   - open-ai
@@ -45,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
  By default, Google collects your conversations and your general location based on your IP address, your feedback, and usage information. This information is stored in your Google account for up to 18 months. Although you can pause saving your Bard activity, you should be aware that "to help with quality and improve our products, human reviewers read, annotate, and process your Bard conversations."
@@ -63,17 +60,18 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -86,16 +84,10 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
  Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
@@ -108,24 +100,32 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
  Fortunately for comedians everywhere and the human race at large, none of the models were capable of generating an original joke.
@@ -138,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 
 You read it here first, folks.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## No Chatbot Is Perfect
 
  We found that while all three large language models have their advantages and disadvantages, none of them can replace the real expertise of a human being with specialized knowledge.
@@ -146,14 +153,11 @@ You read it here first, folks.
 
  If you'd like to create great AI art without worrying that somebody's looking over your shoulder, it's easy to run an art AI model on your local machine, too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +166,21 @@ You read it here first, folks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-determining-best-free-screen-recorder/"><u>[New] Determining Best Free Screen Recorder</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-mastering-handp-a-comprehensive-strategy-for-fb-health-marketing/"><u>[New] In 2024, Mastering H&P A Comprehensive Strategy for FB Health Marketing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-how-to-take-photos-while-recording-videos-on-iphone/"><u>[Updated] 2024 Approved How to Take Photos While Recording Videos on iPhone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-no-sweat-strategies-for-skipping-edgenuity-video-content/"><u>2024 Approved No-Sweat Strategies for Skipping Edgenuity Video Content</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-top-nine-advantages-elevate-your-experience-with-chatgpt-plus/"><u>Discover the Top Nine Advantages: Elevate Your Experience with ChatGPT Plus</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-7-plus-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/responsible-ai-use-enhancing-writing-editing-processes/"><u>Responsible AI Use: Enhancing Writing, Editing Processes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionary-release-openai-unveils-groundbreaking-gpt-4-ai-technology/"><u>Revolutionary Release: OpenAI Unveils Groundbreaking GPT-4 AI Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-ai-engagement-explore-the-top-5-tailored-gpt-commands-for-success/"><u>Revolutionizing AI Engagement: Explore the Top 5 Tailored GPT Commands for Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/save-time-and-maximize-efficiency-discover-10-essential-chatgpt-plug-ins-for-pdf-management/"><u>Save Time and Maximize Efficiency: Discover 10 Essential ChatGPT Plug-Ins for PDF Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sham-botnet-swipes-on-facebook-credentials/"><u>Sham Botnet: Swipes on FACEBOOK Credentials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solve-cybercrimes-engage-in-4-innovative-ai-puzzle-games/"><u>Solve Cybercrimes: Engage in 4 Innovative AI Puzzle Games</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-to-free-mp4-to-mp3-conversion-techniques-and-software-options/"><u>Ultimate Guide to Free MP4-to-MP3 Conversion Techniques and Software Options</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: How One Simple Tactic Can Clear Out Clutter Without Creating New Accounts or Strict Filters – Learn the Secrets with ZDNet"
-date: 2024-10-19T22:07:35.356Z
-updated: 2024-10-21T17:54:32.911Z
+date: 2024-10-20T18:46:11.470Z
+updated: 2024-10-27T17:22:18.017Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,16 +110,10 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -160,18 +154,22 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-boosting-zoom-screen-sharpness-essential-tips/"><u>[Updated] Boosting Zoom Screen Sharpness Essential Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-transforming-vision-the-astounding-progress-in-mobile-photography-enhanced-by-artificial-intelligence/"><u>1. Transforming Vision: The Astounding Progress in Mobile Photography Enhanced by Artificial Intelligence</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/elite-gaming-recorders-that-offer-more-than-just-fbx-files/"><u>Elite Gaming Recorders That Offer More Than Just FBX Files</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-nokia-c12-plus-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia C12 Plus Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/from-novice-to-pro-the-ultimate-guide-to-gaming-with-kinemaster-app-for-2024/"><u>From Novice to Pro The Ultimate Guide to Gaming with KineMaster App for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oneplus-12r-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass OnePlus 12R FRP</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-leverage-social-blades-platform-for-in-depth-video-analytics/"><u>In 2024, Leverage Social Blade's Platform for In-Depth Video Analytics</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-there-a-cost-free-version-of-microsoft-word-available/"><u>Is There a Cost-Free Version of Microsoft Word Available?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-wireless-earbuds-explore-apples-latest-airpods-upgrades-with-cutting-edge-speaker-locator-and-usb-c-compatibility-gizmocentral-report/"><u>Revolutionizing Wireless Earbuds: Explore Apple's Latest AirPods Upgrades with Cutting-Edge Speaker Locator and USB-C Compatibility | GizmoCentral Report</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-iphone-apple-watch-and-ipad-discounts-in-july-2024-exclusive-offers-on-tech-gadgets-zdnet/"><u>Top-Rated iPhone, Apple Watch & iPad Discounts in July 2024 - Exclusive Offers on Tech Gadgets | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-magsafe-wallets-comprehensive-reviews-and-ratings-by-tech-experts/"><u>Top-Rated MagSafe Wallets - Comprehensive Reviews & Ratings by Tech Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-treasure-chest-a-step-by-step-guide-to-split-apples-25-million-dollar-family-sharing-fortune/"><u>Unlocking the Treasure Chest: A Step-by-Step Guide to Split Apple’s 25 Million Dollar Family Sharing Fortune</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-upgrade-unveiling-the-standout-features-of-apples-new-iphone/"><u>Why Upgrade? Unveiling the Standout Features of Apple's New iPhone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-combat-profiles-hitbox-vs-streamer-supremacy/"><u>[Updated] 2024 Approved Combat Profiles Hitbox vs Streamer Supremacy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/4-stronger-motives-to-embrace-microsoft-copilot/"><u>4 Stronger Motives to Embrace Microsoft Copilot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/battle-of-the-giants-unveiling-8-crucial-contrasts-between-snapchat-and-bing-ai-on-skype/"><u>Battle of the Giants: Unveiling 8 Crucial Contrasts Between Snapchat and Bing AI on Skype</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/enhance-your-footage-perfect-aspect-ratio-selection/"><u>Enhance Your Footage Perfect Aspect Ratio Selection</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-article-generate-personalized-windows-11-installation-image-iso-file/"><u>How-To Article: Generate Personalized Windows 11 Installation Image (ISO) File</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-s17-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo S17 Pro</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/m4r-a-ogg-sin-coste-el-proceso-paso-a-paso-con-movavi-para-la-transformacion-en-linea-gratis/"><u>M4R a OGG Sin Coste: El Proceso Paso a Paso Con Movavi Para La Transformación en Línea Gratis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-communication-hurdles-in-overwatch-resolving-push-to-talk-glitches/"><u>Overcoming Communication Hurdles in Overwatch - Resolving Push-to-Talk Glitches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722196892059-ransomware-demystified-on-a-budget-50-phones-and-chatgpts-revolutionary-role-in-podcast-creation/"><u>Ransomware Demystified on a Budget: $50 Phones & ChatGPT's Revolutionary Role in Podcast Creation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/steps-to-remove-following-requests-on-instagram/"><u>Steps to Remove Following Requests on Instagram</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-15-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 15 Plus You Should Try Out</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-online-research-perplexity-ai-the-unseen-gem-of-google-tools/"><u>Transform Your Online Research: Perplexity AI – The Unseen Gem of Google Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-using-old-school-film-tricks-today/"><u>Ultimate Guide Using Old-School Film Tricks Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-ai-the-first-steps-in-9-essential-forums/"><u>Unlocking AI: The First Steps in 9 Essential Forums</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-emotional-ai-does-it-truly-grasp-what-we-feel/"><u>Unlocking the Potential of Emotional AI: Does It Truly Grasp What We Feel?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-content-authors-should-think-twice-before-trusting-ai-chatbots-8-key-reasons/"><u>Why Content Authors Should Think Twice Before Trusting AI Chatbots: 8 Key Reasons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-ios-takes-the-lead-for-your-next-chatgpt-session/"><u>Why iOS Takes the Lead for Your Next ChatGPT Session</u></a></li>
 </ul></div>
 

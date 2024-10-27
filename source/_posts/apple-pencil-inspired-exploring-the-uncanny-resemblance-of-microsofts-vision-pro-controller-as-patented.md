@@ -1,7 +1,7 @@
 ---
 title: Apple Pencil Inspired? Exploring the Uncanny Resemblance of Microsoft's Vision Pro Controller as Patented
-date: 2024-10-17T18:11:20.548Z
-updated: 2024-10-21T19:15:41.517Z
+date: 2024-10-20T18:12:53.173Z
+updated: 2024-10-27T18:30:54.100Z
 tags:
   - apple
 categories:
@@ -75,29 +75,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-tips-for-using-google-meets-built-in-photo-functionality-for-2024/"><u>[Updated] Tips for Using Google Meet's Built-In Photo Functionality for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sculpt-satirical-gifs-via-giphy/"><u>2024 Approved Sculpt Satirical Gifs via Giphy</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-the-ultimate-list-of-no-cost-music-downloaders-on-your-iphone-ipad-or-android-device/"><u>Discover the Ultimate List of No-Cost Music Downloaders on Your iPhone, iPad or Android Device!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/download-now-premier-and-free-data-restoration-apps-for-seamless-file-retrieval/"><u>Download Now: Premier and Free Data Restoration Apps for Seamless File Retrieval</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-intelligent-systems-are-redefining-game-creation-and-consumption/"><u>How Intelligent Systems Are Redefining Game Creation and Consumption</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/infinix-data-retrieval-tool-restore-lost-data-from-infinix-zero-5g-2023-turbo-by-fonelab-android-recover-data/"><u>Infinix Data Retrieval tool – restore lost data from Infinix Zero 5G 2023 Turbo</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-interaction-by-dodging-these-critical-writing-errors/"><u>Mastering ChatGPT Interaction by Dodging These Critical Writing Errors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimizing-linkedin-posts-with-chatgpt-techniques/"><u>Optimizing LinkedIn Posts with ChatGPT Techniques</u></a></li>
-<li><a href="https://win-blog.techidaily.com/smooth-sailing-through-appalachia-eradicating-stutter-frames-in-fallout-76/"><u>Smooth Sailing Through Appalachia: Eradicating Stutter Frames in Fallout 76</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-content-creation-boost-productivity-using-hix-ai-and-gpt-4/"><u>Streamline Content Creation: Boost Productivity Using HIX AI & GPT-4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-limits-of-turing-test-in-todays-ai-lands-market/"><u>The Limits of Turing Test in Today's AI Lands Market</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-secret-behind-artificnial-intelligence-black-boxes-explained/"><u>The Secret Behind Artificnial Intelligence Black Boxes Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-plan-for-chatgpt-plug-in-success/"><u>The Ultimate Plan for ChatGPT Plug-In Success</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-iphone-video-capture-apps/"><u>Top 10 iPhone Video Capture Apps</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/top-2-methods-for-exporting-your-outlook-365-inboxes-as-files-onto-your-pc-or-mac/"><u>Top 2 Methods for Exporting Your Outlook 365 Inboxes as Files Onto Your PC or Mac</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-a-more-successful-dating-experience-through-chatgpt-technology/"><u>Unlocking a More Successful Dating Experience Through ChatGPT Technology</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-soothing-country-beats-20-must-hear-songs-to-unwind/"><u>[New] In 2024, Soothing Country Beats 20 Must-Hear Songs to Unwind</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-advice-dodging-chatgpt-written-errors/"><u>Expert Advice: Dodging ChatGPT' Written Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-llama-2s-features-and-applications/"><u>Exploring Llama 2'S Features and Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-machine-learning-with-shap-e/"><u>Exploring the World of Machine Learning with SHAP E</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/four-transformative-ways-that-ai-technologies-can-amplify-your-educational-exploration/"><u>Four Transformative Ways That AI Technologies Can Amplify Your Educational Exploration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/has-oversight-over-chatgpt-slipped-from-openais-hands/"><u>Has Oversight Over ChatGPT Slipped From OpenAI's Hands?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-chatgpt-enable-remote-control-over-smart-household-gadgets/"><u>How Does ChatGPT Enable Remote Control Over Smart Household Gadgets?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-8-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone 8 online without SIM Card?</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-game-crashes-in-wows-on-pc-try-these-5-proven-fixes/"><u>Resolving Game Crashes in WoWs on PC? Try These 5 Proven Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-errors-quickly-using-system-file-check-sfc-and-deployment-imaging-service-dism/"><u>Resolving Windows Errors Quickly Using System File Check (SFC) and Deployment Imaging Service (DISM)</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1728484621161-wd-my-passport/"><u>Wd My Passportのパーティションを安全に再構築する手順</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

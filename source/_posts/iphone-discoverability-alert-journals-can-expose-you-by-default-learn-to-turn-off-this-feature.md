@@ -1,7 +1,7 @@
 ---
 title: "IPhone Discoverability Alert: Journals Can Expose You by Default - Learn To Turn Off This Feature"
-date: 2024-10-19T18:31:49.733Z
-updated: 2024-10-21T18:58:53.043Z
+date: 2024-10-21T19:19:08.270Z
+updated: 2024-10-27T17:13:04.513Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Go to your iPhone Settings
@@ -56,6 +56,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 To find the Journal app setting, open your Settings app on your iPhone.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Find Privacy & Security
 
@@ -70,10 +77,16 @@ Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverabl
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
@@ -84,18 +97,18 @@ Maria Diaz/ZDNET
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **FAQ**
 
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
 
@@ -110,13 +123,6 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -156,20 +162,20 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-5-essential-browser-recording-apps-unveiled/"><u>[New] 2024 Approved 5 Essential Browser Recording Apps Unveiled</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-best-apps-to-go-live-on-youtube-from-iphone-or-android-for-2024/"><u>[New] 7 Best Apps to Go Live on YouTube From iPhone or Android for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-bloodthirsty-horror-your-go-to-8-zombie-titles/"><u>2024 Approved Bloodthirsty Horror Your Go-To 8 Zombie Titles</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-motorola-moto-g-stylus-2023-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Motorola Moto G Stylus (2023) Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-myths-about-gpt-and-the-world-of-digital-assets/"><u>5 Myths About GPT and the World of Digital Assets</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-new-era-of-accessibility-with-gpt-4/"><u>A New Era of Accessibility with GPT-4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-comedy-lab-testing-if-machines-can-make-us-laugh/"><u>AI's Comedy Lab: Testing if Machines Can Make Us Laugh</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-the-limits-4-futuristic-features-for-gpt-5/"><u>Beyond the Limits: 4 Futuristic Features for GPT-5</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-asus-zephyrus-g14-analysis-the-ultimate-gamers-choice/"><u>Comprehensive Asus Zephyrus G14 Analysis: The Ultimate Gamer's Choice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722095508827-gpt-4-and-copilot-unite-revolutionize-your-tech-skills-for-free/"><u>GPT-4 and Copilot Unite: Revolutionize Your Tech Skills for Free</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-realme-gt-3-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme GT 3 FRP Bypass</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>New 2024 Approved A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
-<li><a href="https://fox-making.techidaily.com/resolve-unable-to-perform-a-system-restore-on-the-necessary-drive-partition-error-5-effective-solutions/"><u>Resolve 'Unable to Perform a System Restore on the Necessary Drive Partition' Error: 5 Effective Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/would-chatgpt-plus-enhance-your-ai-experience-worth-it/"><u>Would ChatGPT Plus Enhance Your AI Experience Worth It?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-instantly-stream-youtube-content-on-facebook-auto-play-guide/"><u>[New] 2024 Approved Instantly Stream YouTube Content on Facebook Auto-Play Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-techniques-that-elevate-your-ppt-recording-experience/"><u>[New] 2024 Approved Techniques that Elevate Your PPT Recording Experience</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-how-to-on-checking-your-sites-pages-pre-upload-for-errors-and-more/"><u>A How-To on Checking Your Site's Pages Pre-Upload for Errors and More</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-ati-radeon-hd-3450-driver-software-instantly/"><u>Get the Newest AMD ATI Radeon HD 3450 Driver Software Instantly</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/online-alter-ego-artistry-drawing-a-fancy-profile-for-2024/"><u>Online Alter-Ego Artistry Drawing a Fancy Profile for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/problembehebung-fur-fehlende-icloud-musikmedien-im-iphone-menu/"><u>Problembehebung Für Fehlende iCloud-Musikmedien Im iPhone Menü</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-rise-of-ai-in-academia-can-students-keep-up-with-chatgpts-speed/"><u>The Rise of AI in Academia: Can Students Keep Up with ChatGPT's Speed?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/truthgpt-coin-demystifying-the-cryptocurrency-is-it-a-trustworthy-investment-or-a-ploy/"><u>TruthGPT Coin – Demystifying the Cryptocurrency: Is It a Trustworthy Investment or a Ploy?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-honor-play-8t-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Honor Play 8T without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatbots-in-human-like-discussions/"><u>Understanding Chatbots in Human-Like Discussions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-gemini-15-the-significance-of-its-newfound-token-processing-power/"><u>Understanding Gemini 1.5: The Significance of Its Newfound Token Processing Power</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-impact-how-chatgpt-using-latest-info-benefits-us-all/"><u>Understanding the Impact: How ChatGPT Using Latest Info Benefits Us All</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-paperclip-maximization-dilemma-implications-for-artificial-intelligence/"><u>Understanding the Paperclip Maximization Dilemma: Implications for Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-chatgpts-api-capabilities/"><u>Unveiling the Power of ChatGPT's API Capabilities</u></a></li>
 </ul></div>
 

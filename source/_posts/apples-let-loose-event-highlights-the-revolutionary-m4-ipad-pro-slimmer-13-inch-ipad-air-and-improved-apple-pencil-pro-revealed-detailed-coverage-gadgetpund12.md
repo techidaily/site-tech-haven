@@ -1,7 +1,7 @@
 ---
 title: "Apple's 'Let Loose' Event Highlights: The Revolutionary M4 iPad Pro, Slimmer 13-Inch iPad Air & Improved Apple Pencil Pro Revealed - Detailed Coverage | GadgetPundit."
-date: 2024-10-16T18:56:30.406Z
-updated: 2024-10-21T18:45:49.086Z
+date: 2024-10-21T18:52:07.555Z
+updated: 2024-10-27T19:12:02.478Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. iPad Pro, now with OLED displays and M4
 
 Apple
@@ -59,13 +52,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -81,6 +67,19 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -98,6 +97,13 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
@@ -105,10 +111,10 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -128,10 +134,10 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -168,17 +174,18 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>[New] 2024 Approved How to Block YouTube Channels on Computer and Mobile Phones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-top-10-wave-capturing-cams/"><u>[New] The Top 10 Wave-Capturing Cams</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-inshot-a-guide-to-video-transition-techniques/"><u>2024 Approved Mastering Inshot A Guide to Video Transition Techniques</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/authenticating-your-youtube-username-and-email-for-2024/"><u>Authenticating Your YouTube Username & Email for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-choice-our-selection-for-leading-mp3-devices-of-202n4/"><u>Discover the Ultimate Choice: Our Selection for Leading MP3 Devices of 202N4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-switch-relocating-your-whatsapp-from-android-to-ios-devices/"><u>Seamless Switch: Relocating Your WhatsApp From Android to iOS Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-converting-video-from-avi-format-for-your-iphone-viewing-pleasure/"><u>Step-by-Step Tutorial: Converting Video From AVI Format for Your iPhone Viewing Pleasure</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/still-a-smart-investment-the-airpods-pro-reviewed-insights-from-an-early-adopter/"><u>Still a Smart Investment? The AirPods Pro Reviewed - Insights From an Early Adopter</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/mlining-youtube-edits-with-advanced-sony-vegas-techniques-for-2024/"><u>Streamlining YouTube Edits with Advanced Sony Vegas Techniques for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tech-redemption-story-strategies-for-apple-to-support-dissatisfied-customers-of-sonos-products/"><u>Tech Redemption Story: Strategies for Apple to Support Dissatisfied Customers of Sonos Products</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/televersement-facile-de-votre-contenu-video-discoverez-movavi-loutil-free-to-use-pour-les-conversions-video-efficaces/"><u>Téléversement Facile De Votre Contenu Vidéo : Discoverez Movavi, L'outil Free-to-Use Pour Les Conversions Vidéo Efficaces !</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-magsafe-power-solutions-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MagSafe Power Solutions : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-estimating-byte-consumption-of-full-film-daily/"><u>[Updated] Estimating Byte Consumption of Full Film Daily</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-simplifying-textual-enhancement-for-ae-professionals/"><u>2024 Approved Simplifying Textual Enhancement for AE Professionals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-virtual-venue-face-off-assessing-obs-and-twitch-studios/"><u>2024 Approved Virtual Venue Face-Off Assessing OBS & Twitch Studios</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-lava-blaze-2-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Lava Blaze 2 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-premier-apple-products-mimicking-old-ps2-games/"><u>In 2024, Premier Apple Products Mimicking Old PS2 Games</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-emotional-and-practical-side-of-account-removal/"><u>Navigating the Emotional and Practical Side of Account Removal</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-artificial-intelligence-chatbot-filtering-impact-on-users/"><u>Understanding Artificial Intelligence Chatbot Filtering: Impact on Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-security-measures-identify-4-reasons-for-a-lockout-and-reset-techniques/"><u>Understanding ChatGPT's Security Measures: Identify 4 Reasons for a Lockout and Reset Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unearthed-secret-chat-with-chatgpt-easily/"><u>Unearthed Secret: Chat With ChatGPT Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/uniting-messaging-and-ai-chatgpt-in-whatsapp-support/"><u>Uniting Messaging and AI: ChatGPT in WhatsApp Support</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-potential-effective-chatgpt-use-on-macs/"><u>Unleashing Potential: Effective ChatGPT Use on Macs</u></a></li>
 </ul></div>
 

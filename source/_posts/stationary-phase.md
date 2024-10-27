@@ -1,7 +1,7 @@
 ---
 title: "Stationary Phase:"
-date: 2024-10-15T17:11:55.927Z
-updated: 2024-10-21T20:18:04.331Z
+date: 2024-10-20T18:46:36.360Z
+updated: 2024-10-27T19:08:43.312Z
 tags:
   - apple
 categories:
@@ -61,10 +61,16 @@ How and why did I come to those conclusions? Let's dig in.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Familiar design, with one exception
@@ -86,10 +92,10 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -116,6 +122,13 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Camera upgrades
 
 The biggest changes Apple made to the iPhone 14 all have to do with the camera. Apple calls the iPhone 14's camera system an "advanced dual-camera system," thanks in part to some hardware upgrades but also because of some [iOS camera software features](https://www.zdnet.com/article/ios-16-has-a-hidden-photoshop-like-feature-where-to-find-it-and-how-to-use-it-and-why-youre-going-to-love-it/) that are new this year. 
@@ -135,10 +148,16 @@ Jason Cipriani/ZDNET
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Safety first
@@ -150,13 +169,6 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 [Buy the Apple iPhone 14 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-14%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -194,14 +206,18 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-monitor-top-youtube-videos-select-rank-trackers-guide/"><u>[New] 2024 Approved Monitor Top YouTube Videos - Select Rank Trackers Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-maximize-impact-with-professional-grade-fb-cover-videos/"><u>[Updated] 2024 Approved Maximize Impact with Professional-Grade FB Cover Videos</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728504072042-windows-11/"><u>移動Windows 11中的附件到本地計算機 - 最佳方法</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-1000-visionary-supporters-fast-track-style-for-2024/"><u>Amass 1,000 Visionary Supporters Fast-Track Style for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-creative-catalyst-for-poetic-works/"><u>ChatGPT as Your Creative Catalyst for Poetic Works</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-escalation-top-8-factors-intensifying-generative-ais-security-threats/"><u>Exploring the Escalation: Top 8 Factors Intensifying Generative AI's Security Threats</u></a></li>
-<li><a href="https://win11.techidaily.com/fresh-beginnings-executing-a-clean-windows-11-reinstall/"><u>Fresh Beginnings: Executing a Clean Windows 11 Reinstall</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mistral-ais-le-chat-reviewed-how-it-stacks-up-against-chatgpt-in-real-world-usage/"><u>Mistral AI's Le Chat Reviewed: How It Stacks Up Against ChatGPT in Real World Usage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-process-how-to-distribute-access-to-your-chatgpt-discussions/"><u>Step-by-Step Process: How to Distribute Access to Your ChatGPT Discussions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-decode-wmps-techniques-for-efficient-audio-handling-and-recordings/"><u>[New] In 2024, Decode WMP's Techniques for Efficient Audio Handling and Recordings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-earn-with-each-screen-capture/"><u>2024 Approved Earn With Each Screen Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/fixing-dropped-frames-a-complete-guide-for-obs-studio-users-for-2024/"><u>Fixing Dropped Frames A Complete Guide for OBS Studio Users for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-x-flip-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo X Flip to Roku | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-key-landscapes-perfectly-capturing-live-streams/"><u>In 2024, Key Landscapes Perfectly Capturing Live Streams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-bard-googles-new-ai-rivals-chatgpt-in-the-world-of-conversational-technology/"><u>Introducing Bard: Google's New AI Rivals ChatGPT in the World of Conversational Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-googles-gemini-how-does-it-stack-up-against-chatgpt/"><u>Introducing Google's Gemini: How Does It Stack Up Against ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-safe-to-trust-medical-advice-from-chatgpt-evaluating-ai-in-healthcare-guidance/"><u>Is It Safe to Trust Medical Advice From ChatGPT? - Evaluating AI in Healthcare Guidance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-microsofts-chatbot-down-find-out-using-these-5-strategies/"><u>Is Microsoft's Chatbot Down? Find Out Using These 5 Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-daily-meditation-habits-insights-and-advice/"><u>Leveraging ChatGPT for Daily Meditation Habits - Insights & Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-ai-image-creation-utilizing-dall-e-with-chatgpt-4/"><u>Mastering AI Image Creation: Utilizing DALL-E with ChatGPT-4</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-360-video-landscape-key-dos-and-donts-9-for-2024/"><u>Navigating the 360 Video Landscape Key Do's and Don'ts (9) for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/software-le-plus-efficient-pour-la-recuperation-des-donnees-btrfs-en-mode-raid-guides-et-tips-dexperts/"><u>Software Le Plus Efficient Pour La Récupération Des Données BTRFS en Mode RAID - Guides Et Tips D'Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tech Intrusion: Activision's Fault Line"
-date: 2024-09-02T12:16:47.177Z
-updated: 2024-09-03T12:16:47.177Z
+date: 2024-10-23T17:42:31.179Z
+updated: 2024-10-27T16:34:27.066Z
 tags:
   - chatgpt
   - open-ai
@@ -33,13 +33,17 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -50,14 +54,15 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -69,9 +74,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -81,8 +83,12 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -92,9 +98,12 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -112,14 +121,11 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +134,24 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-seamless-media-exchange-transferring-facebook-content-to-whatsapp/"><u>[New] Seamless Media Exchange Transferring Facebook Content to WhatsApp</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-macbook-webcam-footage/"><u>[Updated] 2024 Approved Mastering MacBook Webcam Footage</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-quick-tips-eliminate-signature-bg-in-minutes-for-2024/"><u>[Updated] Quick Tips Eliminate Signature Bg in Minutes for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-easy-way-enabling-the-hidden-file-navigator-tool-on-your-computer/"><u>Discover the Easy Way: Enabling the Hidden File Navigator Tool on Your Computer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-y36i-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y36i Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-strategies-pcmobile-filters-for-professional-results/"><u>In 2024, Expert Strategies PC/Mobile Filters for Professional Results</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-ms-dos-a-step-by-step-guide-to-running-it-on-your-pc-today/"><u>Mastering MS-DOS: A Step-by-Step Guide to Running It on Your PC Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-writing-hurdles-in-corporate-memos-aided-by-gpt/"><u>Overcoming Writing Hurdles in Corporate Memos, Aided by GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/read-pdf-with-chatgpt-top-4-techniques-explored/"><u>Read PDF with ChatGPT: Top 4 Techniques Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/scam-savvy-navigating-safe-gpt-interactions/"><u>Scam Savvy: Navigating Safe GPT Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stay-safe-online-spotting-the-latest-tricks-in-twitter-scams-how-meta-is-raising-security-with-its-verified-badge-launch-and-unraveling-chatgpt-4s-capabilit60/"><u>Stay Safe Online: Spotting the Latest Tricks in Twitter Scams, How Meta Is Raising Security with Its Verified Badge Launch, and Unraveling ChatGPT- 4'S Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-for-implementing-gpt-mentions-in-your-customized-chatgpt-dialogue-engagements/"><u>Strategies for Implementing GPT Mentions in Your Customized ChatGPT Dialogue Engagements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-4-big-no-nos-when-creating-content-with-chatgpt/"><u>The 4 Big No-Nos When Creating Content with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-ai-language-learn-these-29-important-definitions-for-mastery-in-artifice-intelligence/"><u>The Ultimate Guide to AI Language: Learn These 29 Important Definitions for Mastery in Artifice Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-identifying-and-evading-the-top-9-imitation-viruses-targeting-chatgpt-users/"><u>The Ultimate Guide to Identifying and Evading the Top 9 Imitation Viruses Targeting ChatGPT Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-10-desktop-and-phone-zoom-replacements-for-2024/"><u>Top 10 Desktop & Phone Zoom Replacements for 2024</u></a></li>
+</ul></div>
 

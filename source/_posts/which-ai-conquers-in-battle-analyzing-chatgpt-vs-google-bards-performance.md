@@ -1,7 +1,7 @@
 ---
 title: Which AI Conquers in Battle? Analyzing ChatGPT Vs. Google Bard's Performance
-date: 2024-09-02T12:17:26.698Z
-updated: 2024-09-03T12:17:26.698Z
+date: 2024-10-25T18:09:25.353Z
+updated: 2024-10-27T17:21:46.071Z
 tags:
   - chatgpt
   - open-ai
@@ -50,9 +50,6 @@ Let's look at both models in action and analyze their performance.
 
 ![Screenshot of Google Bard answering LLM question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bard-answering-llm-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can see, this is a dated response that justifies the statement that response accuracy should always be double-checked. But a couple of other recent updates are apparent in the response too.
 
  The first is the inclusion of dark mode, which was omitted from the first iteration. The second is the inclusion of a**Google it** button and suggested follow on questions.
@@ -60,9 +57,12 @@ Let's look at both models in action and analyze their performance.
 ![Screenshot of Google Bard Google button and follow on prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bard-google-button-and-follow-on-prompts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 These are both welcome updates to the tool.
 
  Now let's see how it compares with the free version of ChatGPT. We asked both tools a simple question: "How many fans attended the 2022 World Cup in Qatar?"
@@ -72,15 +72,16 @@ These are both welcome updates to the tool.
 ![Screenshot of Google Bard answering world cup attendance question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-answering-world-cup-attendance-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ChatGPT was unable to provide up-to-date information.
 
 ![Screenshot of ChatGPT responding to world cup attendance question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-responding-to-world-cup-attendance-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, we tried to test on non-topical data. We asked both chatbots to answer this question: "How long would it take to drive to the sun?"
 
 Google Bard first; it answered with some comprehensive details.
@@ -88,8 +89,12 @@ Google Bard first; it answered with some comprehensive details.
 ![Screenshot of Google Bard answering how long to drive to the sun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-answering-how-long-to-drive-to-the-sun.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  We were quite disappointed with the ChatGPT response. This should have been recognized as a hypothetical question, with the result only requiring some basic arithmetic.
 
 ![Screenshot of ChatGPTs answer to driving to sun question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpts-answer-to-driving-to-sun-question.jpg)
@@ -117,8 +122,18 @@ Google Bard first; it answered with some comprehensive details.
  When comparing Google Bard vs. ChatGPT for accuracy, the Bard was the better performer compared to the free version of ChatGPT. If you are using the premium version of ChatGPT, there isn't much separating them. However, as with any chatbot, a pinch of salt is required when determining the accuracy of results.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Comparing Google Bard's and ChatGPT's Creativity
 
  Testing these tools for the quality of their creative output is trickier. There is no sliding scale for creativity that allows direct comparisons to be drawn. So, we will set an identical creative task and make a personal judgment on how the answers compare.
@@ -129,16 +144,17 @@ The original version of Google Bard gave us this:
 
 ![Screenshot of Google Bard Poetry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-poetry.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When compared to the ChatGPT-3.5 answer below, this is flat and uninspiring.
 
 ![Screenshot of ChatGPT Poetry answer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-poetry-answer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Although this is not an extensive test, this example shows what we found to be the case overall—ChatGPT is better at creative tasks than Google Bard.
 
  At least, this is the case for the early version of Bard, which was what we used for the original test. The new Google Bard is trained on a larger text dataset, which Google says will give it more creativity. To put this to the test, we asked it to create the same poem:
@@ -157,9 +173,6 @@ That ChatGPT is the place to be,
 
 When it comes to creativity!
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT vs. Google Bard: Which Is the Best AI Chatbot?
 
  The different LLMs that power the tools are fundamental to how the tools perform. They are the key reason for the differences in the test responses, each having its own strengths and weaknesses. Choosing between them will be determined more by user intent than user preference.
@@ -173,6 +186,13 @@ Some of the deciding factors include:
 * **Integrations** : One of the key benefits of Google Bard is its integration with tools like Gmail and Google Workspace. This means that you can export chats directly into platforms like Gmail and Google Docs.  
 ![Screenshot of Google Bart export options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bart-export-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Summing up, if you are looking for accuracy and simplified integration with other Google services, then Google Bard is the better option. It also outperforms ChatGPT in terms of interface, with the addition of a**Google it** button and source-citing, making it the better all-round package.
 
  The integration Bard offers is crucial here, Gmail has 1.8 billion users, and this functionality will be a major draw for many when choosing between chatbots.
@@ -181,20 +201,24 @@ Some of the deciding factors include:
 
  Google Bard is free, and there is a free version of ChatGPT, so testing both tools is easy to do.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tools With Great Features, Yet Still Imperfect
 
  There are plenty of rough edges to both platforms, which is to be expected. This is a new technology, and both are examples of live-testing programs that make mistakes in public. The other side of the coin is that such widespread usage and the feedback it generates will hasten the development of both models. A point amply demonstrated by the host of new features added to Bard.
 
  We are at the start of a technological revolution that is so disruptive that many of its impacts are yet to be determined despite much speculation. But there is no doubt that tools like Bard and ChatGPT are going to transform much of how we work, rest, and play.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -203,4 +227,24 @@ Some of the deciding factors include:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-video-capturing-step-by-step-manual/"><u>[New] Mastering Video Capturing Step-by-Step Manual</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unveiling-the-premier-5-windows-snipping-apps/"><u>[New] Unveiling the Premier 5 Windows Snipping Apps</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-site-with-the-cookiebot-custom-tracking-system/"><u>Boost Your Site with the Cookiebot Custom Tracking System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/communicative-capability-giving-prompts-meaningful-responses/"><u>Communicative Capability: Giving Prompts Meaningful Responses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/countering-emotional-isolation-with-chatgpt-strategies-and-tips/"><u>Countering Emotional Isolation with ChatGPT: Strategies and Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-distinctive-ai-artwork-mastering-the-microsoft-copilot-image-generator/"><u>Creating Distinctive AI Artwork: Mastering the Microsoft Copilot Image Generator</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creative-thinking-unleashed-using-mindmaps-and-chatgpt-for-innovative-concepts/"><u>Creative Thinking Unleashed: Using Mindmaps and ChatGPT for Innovative Concepts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cyberspaces-blueprint-visualizing-the-next-7-revolutions/"><u>Cyberspace's Blueprint: Visualizing the Next 7 Revolutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decision-time-is-it-better-to-use-chatgpt-or-huggingfaces-huggingchat-for-your-needs/"><u>Decision Time: Is It Better to Use ChatGPT or HuggingFace's HuggingChat for Your Needs?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-generative-ai-beyond-imagination/"><u>Decoding Generative AI: Beyond Imagination</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-functionality-of-hugging-face/"><u>Decoding the Functionality of Hugging Face</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dissecting-the-oneplus-9-a-critical-look-at-its-performance/"><u>Dissecting the OnePlus 9: A Critical Look at Its Performance</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721268211600-fast-track-access-to-premium-photo-repair-solutions-shop-now/"><u>Fast-Track Access to Premium Photo Repair Solutions - Shop Now!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-royalty-free-graphics-a-compreeved-guide/"><u>Harnessing Royalty-Free Graphics A Compreeved Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/select-sites-endless-photographic-repository-access/"><u>Select Sites Endless Photographic Repository Access</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-enhanced-developer-capabilities-with-apples-newest-free-ai-powered-software-upgrade-zdnet/"><u>Unlock Enhanced Developer Capabilities with Apple's Newest Free AI-Powered Software Upgrade - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-security-protocols-how-to-change-another-users-login-credentials/"><u>Windows Security Protocols: How to Change Another User's Login Credentials</u></a></li>
+</ul></div>
 

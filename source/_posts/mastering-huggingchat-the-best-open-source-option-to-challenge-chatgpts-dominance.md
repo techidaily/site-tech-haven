@@ -1,7 +1,7 @@
 ---
 title: Mastering HuggingChat - The Best Open Source Option To Challenge ChatGPT's Dominance
-date: 2024-09-02T12:15:44.101Z
-updated: 2024-09-03T12:15:44.101Z
+date: 2024-10-20T18:39:24.766Z
+updated: 2024-10-27T16:43:41.770Z
 tags:
   - chatgpt
   - open-ai
@@ -33,9 +33,23 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -50,8 +64,12 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Protect Your PC and Bank Account in the AI-Era
 
  ChatGPT is a powerful and valuable tool that can answer many questions you throw its way. But the chatbot can also be used for malicious purposes, like generating phishing messages and creating malware.
@@ -60,14 +78,11 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 
  To minimize the potential dangers of AI chatbots, it’s crucial to know their potential risks and the best possible security measures to protect yourself from hackers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -76,4 +91,21 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-inject-photos-with-rotational-blur-effects-in-photosoph/"><u>[New] Inject Photos with Rotational Blur Effects in PHOTOSOPH</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/log-editing-essentials-utilizing-jump-cuts-rightly-for-2024/"><u>[New] Vlog Editing Essentials Utilizing Jump Cuts Rightly for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-panoramic-power-play-gear-vs-lgcam-showdown/"><u>[Updated] Panoramic Power Play Gear vs LGCam Showdown</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-rev-voice-recorder-download-and-review/"><u>[Updated] Rev Voice Recorder Download and Review</u></a></li>
+<li><a href="https://driver-install.techidaily.com/auditory-upgrade-immerse-into-high-definition-windows-7/"><u>Auditory Upgrade: Immerse Into High-Definition Windows 7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-your-bitcoin-game-5-tips-with-chatgpt-for-better-trade-decisions/"><u>Boosting Your Bitcoin Game: 5 Tips with ChatGPT for Better Trade Decisions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chrome-upgrade-for-easy-chatgpt-command-input-boost-productivity-now/"><u>Chrome Upgrade for Easy ChatGPT Command Input – Boost Productivity Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-repairing-your-logitech-c922-webcam-a-comprehensive-fix-guide/"><u>Diagnosing and Repairing Your Logitech C922 Webcam - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-steps-to-successfully-downloading-and-installing-auto-gpt/"><u>Easy Guide: Steps to Successfully Downloading & Installing Auto-GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-conversational-ai-top-5-customized-gpt-techniques/"><u>Elevating Conversational AI: Top 5 Customized GPT Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-user-needs-via-ai-in-microsofts-bing/"><u>Empowering User Needs via AI in Microsoft's Bing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-5-premier-cost-free-tools-for-ai-powered-image-synthesis/"><u>Explore 5 Premier, Cost-Free Tools for AI-Powered Image Synthesis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/skyrocket-your-subscribers-with-these-easy-strategies-for-2024/"><u>Skyrocket Your Subscribers with These Easy Strategies for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-hd-video-editing-software-roundup/"><u>Updated 2024 Approved The Ultimate HD Video Editing Software Roundup</u></a></li>
+</ul></div>
 

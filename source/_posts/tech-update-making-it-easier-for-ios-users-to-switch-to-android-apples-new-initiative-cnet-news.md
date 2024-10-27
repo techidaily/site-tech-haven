@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Making It Easier for iOS Users to Switch to Android - Apple's New Initiative | CNET News"
-date: 2024-10-18T18:13:57.125Z
-updated: 2024-10-21T17:57:10.361Z
+date: 2024-10-22T17:15:39.704Z
+updated: 2024-10-27T17:43:22.543Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,6 +65,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -82,10 +89,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -97,16 +104,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -124,13 +125,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -172,14 +166,16 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-wander-in-wealthy-web-words-worlds/"><u>[Updated] Wander in Wealthy Web Words Worlds</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-step-into-success-mastering-tagging-for-engaging-content/"><u>2024 Approved Step Into Success Mastering Tagging for Engaging Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-streamlining-social-media-interactions-tiktok-to-fb/"><u>2024 Approved Streamlining Social Media Interactions TikTok to FB</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-toshiba-software-ultimate-guide-for-windows-users/"><u>Download & Update Toshiba Software: Ultimate Guide for Windows Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-data-protection-for-ios-devices-mastering-the-art-of-icloud-and-mac-integration-insights-by-zdnet/"><u>Effortless Data Protection for iOS Devices: Mastering the Art of iCloud and Mac Integration | Insights by ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-workplace-technology-how-apples-vision-pro-enables-efficient-enterprise-devices-management-featured/"><u>Revolutionizing Workplace Technology: How Apple's Vision Pro Enables Efficient Enterprise Devices Management - Featured</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-crafting-and-sharing-your-custom-contact-poster-via-ios-17s-namedrop-feature-tech-insights/"><u>Step-by-Step Guide: Crafting and Sharing Your Custom Contact Poster via iOS 17'S NameDrop Feature | Tech Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-guide-sending-and-receiving-imessage-texts-like-a-pro-tips/"><u>Windows Guide: Sending & Receiving iMessage Texts Like a Pro - Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-navigating-through-iphones-persistent-photo-blur-for-2024/"><u>[New] Navigating Through iPhone's Persistent Photo Blur for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-from-still-to-moving-adding-animated-effects-to-your-text-ig-stories/"><u>[Updated] From Still to Moving Adding Animated Effects to Your Text IG Stories</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-a-step-by-step-guide-to-video-editing-filters-on-computers-and-phones/"><u>[Updated] In 2024, A Step-by-Step Guide to Video Editing Filters on Computers & Phones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-guide-merging-primary-and-secondary-footage/"><u>Comprehensive Guide Merging Primary and Secondary Footage</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/erase-everything-the-top-10-ios-apps-that-can-wipe-your-iphone-clean-in-no-time/"><u>Erase Everything: The Top 10 iOS Apps That Can Wipe Your iPhone Clean in No Time</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/powerpoint-tips-adding-and-capturing-speech-sounds/"><u>PowerPoint Tips Adding and Capturing Speech Sounds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-paperclip-maximization-challenge-unraveling-its-impact-on-artifice-intelligence-ai-evolution/"><u>The Paperclip Maximization Challenge: Unraveling Its Impact on Artifice Intelligence (AI) Evolution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-preserving-chatgpt-interactions-for-future-reference/"><u>The Ultimate Guide: Preserving ChatGPT Interactions for Future Reference</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-showdown-palm-2-vs-openais-gpt-4/"><u>The Ultimate Showdown: PaLM 2 Vs. OpenAI's GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/to-go-global-or-stay-local-9-pros-and-cons-of-each-for-llms/"><u>To Go Global or Stay Local? 9 Pros and Cons of Each for LLMs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/turning-text-to-audio-with-ais-help/"><u>Turning Text to Audio with AI's Help</u></a></li>
 </ul></div>
 

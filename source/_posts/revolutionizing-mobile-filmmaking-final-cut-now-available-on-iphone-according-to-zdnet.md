@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Mobile Filmmaking: Final Cut Now Available on iPhone, According to ZDNET"
-date: 2024-10-15T18:52:28.217Z
-updated: 2024-10-21T18:17:31.643Z
+date: 2024-10-20T19:07:36.781Z
+updated: 2024-10-27T16:41:45.189Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ Ever since, those attributes have defined all smartphones, save for one common s
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pre-modern smartphones
@@ -103,13 +103,6 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2017: The start of the AI/ML smartphone era
 
 It's difficult to nail down exactly when machine learning found its way into smartphones, but a good case can be made for 2017\. That year, [Google released the Pixel 2](https://blog.google/products/pixel/pixel-visual-core-image-processing-and-machine-learning-pixel-2/), which got a portrait mode that blurred backgrounds, and improved processing for HDR images.
@@ -119,6 +112,13 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 **Also: [How the iPhone 15 Pro Max challenges mirrorless cameras: We compare price and performance](https://www.zdnet.com/article/how-the-iphone-15-pro-max-challenges-mirrorless-cameras-we-compare-price-and-performance/)**
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
 
@@ -137,10 +137,10 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Image quality
@@ -156,6 +156,13 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -176,13 +183,6 @@ Some early facial recognition applications demonstrated bias. They were using ve
 This technique pits a "generator" algorithm against a "discriminator" algorithm process, where the discriminator provides feedback to the generator to drive improvement. The resulting learned effects, or style transfer processes, mimic the styles of various artists and techniques. This allows users to apply complex artistic styles to their photos, and for the resulting images to appear stylistically relevant. It also has [resulted in lawsuits](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/).
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
 
@@ -262,24 +262,15 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-mastering-image-curves-in-adobe-photoshop/"><u>[New] In 2024, Mastering Image Curves in Adobe Photoshop</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-exploring-the-features-of-vimeos-innovative-recorder-for-2024/"><u>[Updated] Exploring the Features of Vimeo's Innovative Recorder for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-streamline-your-roblox-recording-mac-guide/"><u>2024 Approved Streamline Your Roblox Recording Mac Guide</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-huawei-nova-y91-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Huawei Nova Y91 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/becoming-a-pro-at-prompt-engineering-strategies-and-insights/"><u>Becoming a Pro at Prompt Engineering: Strategies and Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/begin-using-the-enhanced-ai-version-of-bing-with-easy-registration-steps/"><u>Begin Using the Enhanced AI Version of Bing with Easy Registration Steps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-performance-is-it-declining-or-not-according-to-openai/"><u>ChatGPT's Performance: Is It Declining or Not According To OpenAI?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-lg-stylo-6-sleek-design-meets-precision-stylus/"><u>Comprehensive Review: LG Stylo 6 – Sleek Design Meets Precision Stylus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-ai-for-everyone/"><u>Decoding AI for Everyone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/deep-dive-android-edition-of-adobe-lightroom-review-for-2024/"><u>Deep Dive Android Edition of Adobe Lightroom Review for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-conversational-ai-discover-6-innovative-ways-to-use-chatgpts-code-interpretation-skills/"><u>Harnessing Conversational AI: Discover 6 Innovative Ways to Use ChatGPT's Code Interpretation Skills</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-call-of-duty-modern-warfare-3s-fps-stuttering-issue-in-early-2024/"><u>How to Fix Call of Duty Modern Warfare 3'S FPS Stuttering Issue in Early 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-x9a-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor X9a Phone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-site-creation-with-these-4-insights-on-leveraging-chatgpt/"><u>Revolutionize Your Site Creation with These 4 Insights on Leveraging ChatGPT</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revolutionizing-bookkeeping-stellar-fixes-corrupted-quickbooks-files/"><u>Revolutionizing Bookkeeping: Stellar Fixes Corrupted QuickBooks Files</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategies-to-combat-emotional-seclusion-with-chatai/"><u>Strategies to Combat Emotional Seclusion with ChatAI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/uncover-the-power-of-ai-boost-your-crypto-trade-game-with-these-5-chatgpt-strategies/"><u>Uncover the Power of AI: Boost Your Crypto Trade Game With These 5 ChatGPT Strategies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/uninterrupted-youtube-how-to-block-ads-in-popular-browsers-for-2024/"><u>Uninterrupted YouTube How to Block Ads in Popular Browsers for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-is-prompt-engineering-and-is-it-a-viable-job-opportunity-top-aspects/"><u>What Is Prompt Engineering and Is It a Viable Job Opportunity? Top Aspects</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-elevate-your-editing-with-blend-mode-innovations/"><u>[New] 2024 Approved Elevate Your Editing with Blend Mode Innovations</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-infographic-8-ways-to-make-money-on-youtube-for-beginners/"><u>[Updated] In 2024, Infographic - 8 Ways to Make Money on YouTube for Beginners</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-melodic-integration-for-engaging-insta-posts/"><u>2024 Approved Melodic Integration for Engaging Insta Posts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-realism-in-ar-worlds-through-lut-techniques/"><u>Enhancing Realism in AR Worlds Through LUT Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-nubia-red-magic-9-proplus-lock-screen-password-by-drfone-android/"><u>How to Reset your Nubia Red Magic 9 Pro+ Lock Screen Password</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-smooth-out-gpts-body-stream-glitches/"><u>How to Smooth Out GPT's Body Stream Glitches</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-simple-screen-recorder-for-windows-11-download/"><u>In 2024, Simple Screen Recorder for Windows 11 Download</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-ai-into-development-processes-insights-from-experienced-coders/"><u>Integrating AI Into Development Processes: Insights From Experienced Coders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intuitive-driving-meets-innovation-mercedes-benzs-latest-feature-voice-controlled-chatgpt-system/"><u>Intuitive Driving Meets Innovation: Mercedes-Benz's Latest Feature - Voice-Controlled ChatGPT System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-courtesy-required-when-interacting-with-virtual-assistants-like-chatgpt-alexa-and-siri/"><u>Is Courtesy Required When Interacting with Virtual Assistants Like ChatGPT, Alexa, and Siri?</u></a></li>
 </ul></div>
 

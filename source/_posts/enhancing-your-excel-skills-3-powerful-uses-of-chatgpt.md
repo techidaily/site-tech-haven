@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Excel Skills: 3 Powerful Uses of ChatGPT"
-date: 2024-09-02T12:14:58.930Z
-updated: 2024-09-03T12:14:58.930Z
+date: 2024-10-22T18:40:31.512Z
+updated: 2024-10-27T16:43:18.390Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/a0c3cbd8da95f67bc3541f25661fe30a0c6972d4c
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -43,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/a0c3cbd8da95f67bc3541f25661fe30a0c6972d4c
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503"><img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
  Aside from taking images as input, ChatGPT can also generate DALL-E images within the interaction.
@@ -54,12 +58,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use [third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
 
@@ -71,16 +79,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Multi-Modal Voice and Video Interactions
 
  Everyone [wanted to see more modality in ChatGPT](https://www.makeuseof.com/gpt-5-features-we-want-to-see/) . The new ChatGPT-4o model gives access to multi-modal voice and video interaction, allowing users to engage in continuous voice and video conversations with ChatGPT, like making a video call with a human assistant. ChatGPT-4o's conversation support, video capability, and human-like voice and emotions make this new feature different from other voice assistants.
@@ -100,19 +102,27 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
  Temporary Chat is available to both Plus and Free tier users. You can access it through the model drop-down menu by selecting the Temporary Chat option. Once activated, you can now enjoy a private and non-persistent chat experience.
@@ -125,8 +135,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +142,24 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-revolutionizing-the-music-creation-process-through-magix-mentor-x/"><u>[New] In 2024, Revolutionizing the Music Creation Process Through Magix Mentor X</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sonys-shutterbug-fixing-the-no-video-fiasco/"><u>[New] Sony's Shutterbug Fixing the No-Video Fiasco</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtubes-filmmaking-essentials-plus-invaluable-substitutes/"><u>[New] YouTube's Filmmaking Essentials + Invaluable Substitutes</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/creating-your-own-bluetooth-audio-network-how-to-link-several-speakers-with-a-lone-device/"><u>Creating Your Own Bluetooth Audio Network: How To Link Several Speakers With A Lone Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-seamlessly-access-chatgpt-from-your-ubuntu-terminal-with-a-simple-shell-setup/"><u>How to Seamlessly Access ChatGPT From Your Ubuntu Terminal with a Simple Shell Setup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-supercharge-chatgpt-with-10-advanced-personalized-twists/"><u>How to Supercharge ChatGPT with 10 Advanced Personalized Twists</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/human-expertise-overstated-5-cautionary-tales/"><u>Human Expertise Overstated? 5 Cautionary Tales</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-spark-20-proplus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-the-unseen-mechanics-of-ai-black-box-workings/"><u>Inside the Unseen Mechanics of AI: Black Box Workings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-safe-the-risks-associated-with-downloading-chatgpt-for-macos-users/"><u>Is It Safe? The Risks Associated with Downloading ChatGPT for macOS Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-time-to-retire-the-turing-test-five-modern-evaluation-methods-for-artifice-intelligence/"><u>Is It Time to Retire the Turing Test? Five Modern Evaluation Methods for Artifice Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/keep-confidential-matters-from-the-prying-eyes-of-ai/"><u>Keep Confidential Matters From the Prying Eyes of AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/learn-how-to-enable-and-employ-microsoft-copilot-for-your-mac-workflows/"><u>Learn How to Enable and Employ Microsoft Copilot for Your Mac Workflows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-your-home-network-potential-a-complete-netgear-nighthawk-ax8-wi-fi/"><u>Maximizing Your Home Network Potential: A Complete Netgear Nighthawk AX8 Wi-Fi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-bypass-tools-to-bypass-lock-screenrealme-c55-by-drfone-android-unlock-android-unlock/"><u>Realme Bypass Tools to Bypass Lock Screen(Realme C55)</u></a></li>
+<li><a href="https://win-info.techidaily.com/stay-protected-with-malwarefoxs-latest-security-blogs-and-strategies/"><u>Stay Protected with MalwareFox's Latest Security Blogs & Strategies</u></a></li>
+</ul></div>
 

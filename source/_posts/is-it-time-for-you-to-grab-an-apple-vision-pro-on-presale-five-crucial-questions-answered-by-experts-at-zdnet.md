@@ -1,7 +1,7 @@
 ---
 title: Is It Time for You to Grab an Apple Vision Pro on Presale? Five Crucial Questions Answered by Experts at ZDNet
-date: 2024-10-14T22:15:13.627Z
-updated: 2024-10-21T17:01:38.591Z
+date: 2024-10-24T16:34:56.861Z
+updated: 2024-10-27T19:01:32.205Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -66,10 +66,10 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -98,13 +98,6 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. The Apple Intelligence features aren't perfect
 
 Apple's biggest flexes over the last few months have been their Apple Intelligence and AI features, [which the iPhone 16 is the guinea pig for](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). While some of these new AI features are undeniably cool, like the new Camera Control, enhanced Siri features, and more, the features are still limited to the iPhone 15 Pro and above and rolling out only in beta over the next few weeks. 
@@ -116,10 +109,10 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -129,6 +122,13 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
 
@@ -176,15 +176,17 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-implementing-windows-11s-automatic-hdr-feature-for-2024/"><u>[Updated] The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ace-your-phone-experience-with-apples-underrated-iphone-advantage-uncovered/"><u>Ace Your Phone Experience with Apple’s Underrated iPhone Advantage - Uncovered !</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-just-typing-discover-how-this-iphone-cases-leading-edge-technology-outshines-its-physical-keyboard-exclusive-review-by-zdnet/"><u>Beyond Just Typing: Discover How This iPhone Case's Leading-Edge Technology Outshines Its Physical Keyboard | Exclusive Review by ZDNET</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dota-nixing-game-crashes-a-comprehensive-guide-to-a-smooth-play-experience/"><u>Dota Nixing Game Crashes: A Comprehensive Guide to a Smooth Play Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-updated-drivers-for-the-hp-deskjet-3050a-compatible-with-any-version-of-windows-beginner-friendly-download-tutorials/"><u>Free, Updated Drivers for the HP Deskjet 3050A - Compatible with Any Version of Windows | Beginner-Friendly Download Tutorials</u></a></li>
-<li><a href="https://win-blog.techidaily.com/getting-elden-ring-online-play-up-and-running-again-expert-advice/"><u>Getting Elden Ring Online Play Up & Running Again – Expert Advice!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-download-and-setup-focusrite-scarlett-solo-2i4-driver-pack-in-windows-os/"><u>How to Download & Setup Focusrite Scarlett Solo 2I4 Driver Pack in Windows OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-mastering-the-art-of-airpods-resetting-and-optimal-timing-tips/"><u>Step-by-Step Guide: Mastering the Art of AirPods Resetting & Optimal Timing Tips!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-seamless-shift-in-music-production/"><u>The Seamless Shift in Music Production</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transition-made-simple-how-to-shift-your-photograph-collection-from-google-photos-to-icloud-services/"><u>Transition Made Simple: How to Shift Your Photograph Collection From Google Photos to iCloud Services</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-prime-musical-virtuoso-sessions/"><u>[New] 2024 Approved Prime Musical Virtuoso Sessions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-the-essence-of-youtube-live-imagery-language-for-2024/"><u>[New] Exploring the Essence of YouTube Live Imagery Language for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-humor-photoshop-studio/"><u>[Updated] Premier Humor Photoshop Studio</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-editors-approach-to-declining-audio-tracks-gradually/"><u>[Updated] The Editor's Approach to Declining Audio Tracks Gradually</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagrams-power-in-motion-crafting-a-comprehensive-video-plan/"><u>Instagram's Power in Motion Crafting a Comprehensive Video Plan</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/my-ai-assisted-adventure-in-podcast-scripting/"><u>My AI-Assisted Adventure in Podcast Scripting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-era-of-employment-gpts-replacement-potential/"><u>New Era of Employment: GPT's Replacement Potential?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/premium-list-the-finest-github-chatgpt-dialogues/"><u>Premium List: The Finest Github ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prompting-proficiency-leading-ai-training-modules/"><u>Prompting Proficiency: Leading AI Training Modules</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/spotting-the-imitations-openai-writers-detection-tool/"><u>Spotting the Imitations: OpenAI' Writers' Detection Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-dreaded-code-ebo-or-why-your-printer-isnt-printing/"><u>Troubleshooting the Dreaded Code Ebo, or Why Your Printer Isn't Printing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mxf-to-avi-movavi/"><u>オンラインでビデオ変換無料! MXF to AVI フォーマット変更手順: Movaviソリューションの紹介</u></a></li>
 </ul></div>
 

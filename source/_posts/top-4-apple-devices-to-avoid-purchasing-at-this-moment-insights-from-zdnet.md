@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices To Avoid Purchasing at This Moment: Insights From ZDNet"
-date: 2024-10-16T20:40:43.208Z
-updated: 2024-10-21T19:27:46.624Z
+date: 2024-10-25T16:48:06.979Z
+updated: 2024-10-27T18:02:49.819Z
 tags:
   - apple
 categories:
@@ -58,20 +58,13 @@ Don't buy these devices:
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **The 'Nice' list**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
 
@@ -88,13 +81,6 @@ Apple Watch Series 10
 Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
 
@@ -125,10 +111,10 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
@@ -146,6 +132,13 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -160,6 +153,13 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -222,21 +222,20 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-expert-recommendations-best-phonespcs-for-chatting-online/"><u>[New] Expert Recommendations Best Phones/PCs for Chatting Online</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-leading-tools-top-6-fb-lite-video-extractors/"><u>[Updated] In 2024, Leading Tools TOP 6 FB Lite Video Extractors</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-professional-picture-taking-within-microsoft-teams/"><u>[Updated] Professional Picture Taking Within Microsoft Teams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hand-in-the-wind-understanding-its-types/"><u>2024 Approved Hand-In-The-Wind Understanding Its Types</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-learn-to-extract-twitter-media-as-audible-files/"><u>2024 Approved Learn to Extract Twitter Media as Audible Files</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-apples-fall-lineup-enhancements-for-iphone-ipad-mac-embrace-the-future-with-advanced-ai-integration-tech-insights/"><u>Discover Apple's Fall Lineup Enhancements for iPhone, iPad, Mac - Embrace the Future with Advanced AI Integration | Tech Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-how-the-latest-iphone-sixteen-elevates-photography-with-its-exclusive-camera-feature/"><u>Discover How the Latest iPhone ˈSixteen Elevates Photography with Its Exclusive Camera Feature</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-ios-174s-new-capabilities-including-emoji-updates-and-podcast-text-for-accessibility-in-the-eu-exclusive-coverage-by-zdnet/"><u>Discover iOS 17.4'S New Capabilities Including Emoji Updates & Podcast Text for Accessibility in the EU | Exclusive Coverage by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expand-your-workspace-seamlessly-set-up-a-second-monitor-on-your-m1-mac-mini-with-ease-insights-by-zdnet/"><u>Expand Your Workspace: Seamlessly Set Up a Second Monitor on Your M1 Mac Mini with Ease | Insights by ZDNET</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-vivo-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Vivo .</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-enhanced-interaction-making-skype-calls-on-your-phone/"><u>In 2024, Enhanced Interaction Making Skype Calls on Your Phone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-mobile-methods-for-capturing-snapchat-content/"><u>In 2024, Mobile Methods for Capturing Snapchat Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/in-depth-analysis-microsoft-surface-pro-8-the-ultimate-laptop-replacement-for-professionals/"><u>In-Depth Analysis: Microsoft Surface Pro 8 - The Ultimate Laptop Replacement for Professionals</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/setting-up-slack-alerts-directly-on-your-apple-watch-a-step-by-step-guide/"><u>Setting Up Slack Alerts Directly on Your Apple Watch - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-ranked-mac-maintenance-tools-of-2022-expert-picks-and-reviews-techradar/"><u>Top-Ranked Mac Maintenance Tools of 2022: Expert Picks and Reviews | TechRadar</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-master-controls-navigating-the-world-of-switch-pro-and-steam-gaming/"><u>[New] 2024 Approved Master Controls Navigating the World of Switch Pro and Steam Gaming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-visionaries-of-video-workshop-for-2024/"><u>[New] The Visionaries of Video Workshop for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-clandestine-fb-live-observer-for-2024/"><u>[Updated] Clandestine FB Live Observer for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-video-editing-using-luts-with-obs-studio/"><u>[Updated] Streamlining Video Editing Using LUTs with OBS Studio</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/effortless-incremental-backup-strategies-for-windows-server-2019-users/"><u>Effortless Incremental Backup Strategies for Windows Server 2019 Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-the-disparities-between-youtube-and-dailymention-for-2024/"><u>Exploring the Disparities Between YouTube and DailyMention for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-palm-2-elevates-googles-bard-ai-7-key-improvements-unveiled/"><u>How PaLM 2 Elevates Google's Bard AI: 7 Key Improvements Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-secure-your-system-by-not-downloading-google-bard-potential-virus-alert/"><u>How to Secure Your System by Not Downloading Google Bard – Potential Virus Alert</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-openais-dominion-over-gpt-dwindling/"><u>Is OpenAI's Dominion Over GPT Dwindling?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-your-information-secure-addressing-privacy-matters-with-chatgpt/"><u>Is Your Information Secure? Addressing Privacy Matters with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/jumpstart-your-ai-journey-access-8-easy-to-implement-custom-gpts-today/"><u>Jumpstart Your AI Journey: Access 8 Easy-to-Implement Custom GPTs Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-in-scholarly-pursuits/"><u>Leveraging AI in Scholarly Pursuits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-character-development-using-these-11-powerful-ai-prompts/"><u>Master the Art of Character Development Using These 11 Powerful AI Prompts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/srt-power-play-transforming-macwindows-experience-for-2024/"><u>SRT Power Play Transforming Mac/Windows Experience for 2024</u></a></li>
 </ul></div>
 

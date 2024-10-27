@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Site Content: How to Deter OpenAI's Data Harvesting Bots"
-date: 2024-09-02T12:18:33.506Z
-updated: 2024-09-03T12:18:33.506Z
+date: 2024-10-25T18:02:35.911Z
+updated: 2024-10-27T17:49:23.738Z
 tags:
   - chatgpt
   - open-ai
@@ -49,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. ChatGPT Writer
 
  When someone sends a professional email your way for something like a meeting or a job opportunity, it's bad form to reply with a one or two-line email (even if that sums up everything you want to say). ChatGPT Writer takes your intended reply and generates a long, professional-sounding email message.
@@ -63,9 +60,12 @@ thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e1821
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
 
  The first time you use ChatpGPT Writer, you'll need to log in to your OpenAI account with it. The extension works with any Chromium browser such as Chrome, Brave, or Edge. While it's currently best for replying to professional emails, you can also give it non-work prompts to write casual and personal email messages.
@@ -73,8 +73,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. YouTube Summary With ChatGPT
 
  YouTube creators have the option to add a transcript of their full video or not. As a user, you have no control over this. Many times, all you want is a transcript to quickly browse through what the video is going to say so that you can know if it's worth your time.
@@ -85,15 +89,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Talk-to-ChatGPT
 
  ChatGPT is currently a text-only AI app where the prompts and the answers are written. But Google Chrome offers some excellent voice commands and text-to-speech features. Talk-to-ChatGPT bridges this gap to let you issue prompts by talking to your computer and having the ChatGPT answers read aloud by AI.
@@ -113,24 +121,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
  Perplexity AI can help you cut the misinformation out. Indeed, as the developers put it, the tool works as a combination of Google and ChatGPT. Simply type in your query in the extension and the tool will summarize you the best possible result—along with the legitimate cited sources. The last part here is very important.
@@ -145,14 +145,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Yes, the AI capabilities are amazing compared to what has existed before this, but ChatGPT isn't ready for prime-time yet. It still has a long way to go and depends largely upon the user keying in the right prompts. The data that it bases its answers on can also leave a lot to be desired in certain cases. For now, feel free to use it, but don't rely wholly on it, and take those results with a pinch of salt.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,4 +158,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-filmoras-secrets-to-captivating-youtube-trailers/"><u>[New] 2024 Approved Filmora's Secrets to Captivating YouTube Trailers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-framemaker-screen-capturing-mastery-review-2023-edition/"><u>[Updated] 'FrameMaker' Screen Capturing Mastery Review, 2023 Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-capturing-brilliance-essential-angles-in-iphone-photography/"><u>[Updated] 2024 Approved Capturing Brilliance Essential Angles in iPhone Photography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-use-luts-to-obs-studio-and-download-free-lut/"><u>[Updated] How to Use LUTs to OBS Studio & Download Free LUT</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-updated-wi-fi-networking-drivers-on-windows-7-pcs/"><u>Effortless Installation of Updated Wi-Fi Networking Drivers on Windows 7 PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-adobes-power-for-creating-lifelike-3d-text-in-photos/"><u>In 2024, Adobe's Power for Creating Lifelike 3D Text in PHOTOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-uses-of-chatgpt-boosting-your-excel-skills-with-3-key-techniques/"><u>Innovative Uses of ChatGPT: Boosting Your Excel Skills with 3 Key Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-everyones-gpt-4-simplified-access-and-implementation-explained/"><u>Introducing Everyone's GPT-4: Simplified Access and Implementation Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-horizon-for-iphone-chatgpt-app/"><u>New Horizon for iPhone: ChatGPT App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/one-step-bavarder-setup-procedure-for-linux-users/"><u>One-Step Bavarder Setup Procedure for Linux Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-ios-efficiency-seamlessly-integrate-chatgpt-and-siri-for-smarter-interactions/"><u>Optimizing iOS Efficiency: Seamlessly Integrate ChatGPT and Siri for Smarter Interactions</u></a></li>
+<li><a href="https://facebook.techidaily.com/overlooked-technology-moments-heres-what-you-missed-out/"><u>Overlooked Technology Moments, Here's What You Missed Out!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/regulating-the-intelligent-interface/"><u>Regulating the Intelligent Interface</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revealing-chatgpts-hidden-fun-here-are-the-best-games-to-engage-with/"><u>Revealing ChatGPT's Hidden Fun: Here Are The Best Games to Engage With!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revealing-hidden-ears-a-closer-look-at-unexpected-listeners-during-your-online-chats-understanding-the-dead-internet-concept/"><u>Revealing Hidden Ears: A Closer Look at Unexpected Listeners During Your Online Chats - Understanding the Dead Internet Concept</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-troubleshooting-for-resolving-blurry-graphics-in-cod-warzone-windows-edition/"><u>Step-by-Step Troubleshooting for Resolving Blurry Graphics in COD: Warzone - Windows Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-accessing-chatgpt-plugin-options/"><u>Step-by-Step Tutorial on Accessing ChatGPT Plugin Options</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-iphone-video-converter-apps-comprehensive-reviews/"><u>Top Rated iPhone Video Converter Apps: Comprehensive Reviews</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Infinix Note 30 5G? | Dr.fone</u></a></li>
+</ul></div>
 

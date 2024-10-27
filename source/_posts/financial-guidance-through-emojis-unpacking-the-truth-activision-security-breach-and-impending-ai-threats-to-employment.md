@@ -1,7 +1,7 @@
 ---
 title: "Financial Guidance Through Emojis: Unpacking the Truth | Activision Security Breach & Impending AI Threats to Employment"
-date: 2024-09-02T12:17:58.735Z
-updated: 2024-09-03T12:17:58.735Z
+date: 2024-10-26T18:23:17.241Z
+updated: 2024-10-27T18:56:38.818Z
 tags:
   - chatgpt
   - open-ai
@@ -59,15 +59,19 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
 
  The first time you use ChatpGPT Writer, you'll need to log in to your OpenAI account with it. The extension works with any Chromium browser such as Chrome, Brave, or Edge. While it's currently best for replying to professional emails, you can also give it non-work prompts to write casual and personal email messages.
 
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. YouTube Summary With ChatGPT
 
  YouTube creators have the option to add a transcript of their full video or not. As a user, you have no control over this. Many times, all you want is a transcript to quickly browse through what the video is going to say so that you can know if it's worth your time.
@@ -85,8 +89,12 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Talk-to-ChatGPT
 
  ChatGPT is currently a text-only AI app where the prompts and the answers are written. But Google Chrome offers some excellent voice commands and text-to-speech features. Talk-to-ChatGPT bridges this gap to let you issue prompts by talking to your computer and having the ChatGPT answers read aloud by AI.
@@ -97,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. ChatGPT for Search Engines
 
  ChatGPT for Search Engines is one of the[best new web search apps](https://www.makeuseof.com/web-search-apps-make-google-better-or-replace-google/) that presents ChatGPT answers alongside regular search results on Google or DuckDuckGo. It also works with Bing, but you don't need that anymore, given Microsoft has already officially integrated the two.
@@ -109,15 +114,29 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
  Perplexity AI can help you cut the misinformation out. Indeed, as the developers put it, the tool works as a combination of Google and ChatGPT. Simply type in your query in the extension and the tool will summarize you the best possible result—along with the legitimate cited sources. The last part here is very important.
@@ -126,23 +145,17 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## ChatGPT Is Awesome, But Be Realistic…
 
  With these extensions including search results in ChatGPT, showing you how to use the right prompts, and using AI to improve YouTube or Gmail, you might think it's time to offload a majority of your work to ChatGPT. But take a breath.
 
  Yes, the AI capabilities are amazing compared to what has existed before this, but ChatGPT isn't ready for prime-time yet. It still has a long way to go and depends largely upon the user keying in the right prompts. The data that it bases its answers on can also leave a lot to be desired in certain cases. For now, feel free to use it, but don't rely wholly on it, and take those results with a pinch of salt.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +164,24 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-add-music-to-powerpoint/"><u>[New] Add Music to PowerPoint</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-spotlight-on-snapchat-utilization-strategies/"><u>[New] In 2024, Spotlight on Snapchat Utilization Strategies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-crafting-cool-youtube-previews-in-imovie-easily/"><u>[Updated] 2024 Approved Crafting Cool YouTube Previews in iMovie Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-unlocking-siris-feature-of-reading-aloud-on-iphones-and-macbooks/"><u>Guide to Unlocking Siri's Feature of Reading Aloud on iPhones and MacBooks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-the-newly-upgraded-palm-2-algorithm-enhances-googles-bard-ai/"><u>How the Newly Upgraded PaLM 2 Algorithm Enhances Google's Bard AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-effectively-set-health-goals-with-chatgpt/"><u>How to Effectively Set Health Goals With ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-in-other-languages/"><u>How to Use ChatGPT in Other Languages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-will-artificial-intelligence-impact-mental-wellness-advancements-and-challenges/"><u>How Will Artificial Intelligence Impact Mental Wellness: Advancements and Challenges</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-captivating-titles-easily-achievable/"><u>In 2024, Captivating Titles, Easily Achievable</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-appropriate-to-use-good-manners-with-digital-companebots-such-as-chatgpt-alexa-or-siri/"><u>Is It Appropriate to Use Good Manners With Digital Companebots Such as ChatGPT, Alexa, or Siri?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-safe-to-use-chatgpt-understanding-its-potential-vulnerabilities/"><u>Is It Safe To Use ChatGPT: Understanding Its Potential Vulnerabilities?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-solo-operation-of-auto-gpt-justifiable/"><u>Is Solo Operation of Auto-GPT Justifiable?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-generative-ai-key-mistakes-and-how-to-prevent-them/"><u>Mastering Generative AI: Key Mistakes and How to Prevent Them</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/optimize-video-posts-a-comprehensive-crop-and-export-method/"><u>Optimize Video Posts A Comprehensive Crop & Export Method</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-recurring-palworld-game-crashes-a-comprehnensive-guide-for-windows-users/"><u>Overcoming Recurring Palworld Game Crashes: A Comprehnensive Guide for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-arma-3-game-freezes-innovative-fixes-and-optimization-tips-released/"><u>Say Goodbye to Arma 3 Game Freezes: Innovative Fixes & Optimization Tips Released</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-mysteries-ai-and-vector-database-relationship/"><u>Unraveling the Mysteries: AI and Vector Database Relationship</u></a></li>
+</ul></div>
 

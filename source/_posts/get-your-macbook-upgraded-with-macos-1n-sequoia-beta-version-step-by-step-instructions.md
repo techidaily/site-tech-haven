@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Upgraded with macOS 1N Sequoia Beta Version - Step-by-Step Instructions!
-date: 2024-10-20T18:40:56.858Z
-updated: 2024-10-21T22:41:21.139Z
+date: 2024-10-25T18:32:24.057Z
+updated: 2024-10-27T18:09:39.668Z
 tags:
   - apple
 categories:
@@ -28,16 +28,16 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -48,10 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -61,6 +61,13 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -78,19 +85,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -106,10 +100,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -154,17 +148,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-narzo-60-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme Narzo 60 5G Phone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-introduces-a-revolutionary-app-for-conducting-work-calls-from-comfort-of-your-couch/"><u>Apple Introduces a Revolutionary App for Conducting Work Calls From Comfort of Your Couch</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-watch-series-7-vs-series-10-one-compelling-reason-im-not-swapping-in/"><u>Apple Watch Series 7 Vs. Series 10: One Compelling Reason I'm Not Swapping In</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deconstructing-nlp-giants-deep-dive-into-gpt-vs-bert/"><u>Deconstructing NLP Giants: Deep Dive Into GPT Vs. BERT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-elite-durability-and-style-with-top-rated-titanium-apple-watch-bands/"><u>Discover Elite Durability & Style with Top-Rated Titanium Apple Watch Bands</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/find-the-ultimate-tablets-at-rock-bottom-prices-during-amazons-202n-prime-day-hot-deals-curated/"><u>Find the Ultimate Tablets at Rock-Bottom Prices During Amazon's 202N Prime Day - Hot Deals Curated</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-mobile-video-preservation-the-optimal-strategies-for-saving-content-on-iphones-and-androids/"><u>Mastering Mobile Video Preservation: The Optimal Strategies for Saving Content on iPhones & Androids</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/polity-playground-quintessential-politic-simulators-review/"><u>Polity Playground Quintessential Politic Simulators Review</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-explained-how-fb-twtr-ig-and-yt-shape-our-connections/"><u>Social Media Titans Explained: How FB, TWTR, IG and YT Shape Our Connections</u></a></li>
-<li><a href="https://ai-video.techidaily.com/the-ultimate-tutorial-on-managing-photo-quality-and-size-before-printing-in-photoshop/"><u>The Ultimate Tutorial on Managing Photo Quality & Size Before Printing in Photoshop</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-apples-revamped-icloud-experience-for-windows-users-in-depth-look-at-new-features-zdnet/"><u>Unveiling Apple's Revamped iCloud Experience for Windows Users: In-Depth Look at New Features - ZDnet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-gaming-experience-with-nextorages-new-8tb-ssd-fast-speeds-and-abundant-space-only-849-perfect-for-pc-and-ps5-gamers/"><u>Upgrade Your Gaming Experience with Nextorage's New 8TB SSD - Fast Speeds & Abundant Space! Only $849 – Perfect for PC and PS5 Gamers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-converting-multimedia-scripts-transitioning-from-xmlssa-to-srt/"><u>[New] Converting Multimedia Scripts Transitioning From XML/SSA to SRT</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-craft-your-narrative-best-free-mobile-editors-android-focus/"><u>[New] In 2024, Craft Your Narrative Best Free Mobile Editors, Android Focus</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-from-stream-to-file-vimeo-hd-to-mp4-methods/"><u>2024 Approved From Stream to File Vimeo HD to MP4 Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-starting-strong-in-screen-sharpness-your-first-tutorial-on-hd-video/"><u>2024 Approved Starting Strong in Screen Sharpness Your First Tutorial on HD Video</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-pdf-reader-explore-these-4-ingenious-strategies/"><u>ChatGPT as Your PDF Reader: Explore These 4 Ingenious Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/collaborative-artistry-dall-e-and-gpt-4-for-image-synthesis/"><u>Collaborative Artistry: DALL-E and GPT-4 for Image Synthesis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-autopilot-vs-proautopilot-understanding-key-features-and-reasons-to-level-up/"><u>Comparing AutoPilot Vs. ProAutoPilot: Understanding Key Features & Reasons To Level Up</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-common-myths-around-advanced-ai-chatbot-technology/"><u>Demystifying Common Myths Around Advanced AI Chatbot Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-7-exclusive-tools-to-surpass-chatgpt-in-coding/"><u>Discover 7 Exclusive Tools to Surpass ChatGPT in Coding</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-integrating-chatgpt-into-remote-collaboration/"><u>Effective Strategies for Integrating ChatGPT Into Remote Collaboration</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nizing-horizons-easy-steps-for-sharing-soundtracks/"><u>Harmonizing Horizons Easy Steps for Sharing Soundtracks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-huawei-nova-y91-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/mastering-multimedia-conversion-how-to-turn-your-ppts-into-engaging-page-turning-flash-animations-using-flipbuilder/"><u>Mastering Multimedia Conversion: How to Turn Your PPTs Into Engaging Page-Turning Flash Animations Using FlipBuilder</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-basics-of-page-seo-techniques-and-strategies-for-improved-online-visibility/"><u>The Basics of Page SEO: Techniques and Strategies for Improved Online Visibility</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/vr-revolutionized-evaluating-the-strengths-and-challenges-for-the-vive-cosmos-amid-tough-competition/"><u>VR Revolutionized: Evaluating the Strengths and Challenges for the Vive Cosmos Amid Tough Competition</u></a></li>
 </ul></div>
 

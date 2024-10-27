@@ -1,7 +1,7 @@
 ---
 title: How Did CrowdStrike's Windows Meltdown Event Unfold ? A Historical Analysis Revealed by ZDNet
-date: 2024-10-14T21:22:30.360Z
-updated: 2024-10-21T17:27:31.192Z
+date: 2024-10-20T17:26:27.675Z
+updated: 2024-10-27T16:57:25.123Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,16 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +133,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,20 +187,22 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-easy-access-to-10-free-official-passport-photos-webdesktop-available/"><u>[New] 2024 Approved Easy Access to 10 Free, Official Passport Photos - Web/Desktop Available</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-live-from-anywhere-reach-anyone-streaming-techniques-for-iphonesipads/"><u>[New] 2024 Approved Live From Anywhere, Reach Anyone Streaming Techniques for iPhones/iPads</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-embracing-precision-with-iphone-xs-optical-mastery/"><u>[Updated] 2024 Approved Embracing Precision with iPhone X's Optical Mastery</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/getting-notifications-from-slack-on-the-apple-watch-an-expert-tutorial-by-zdnet/"><u>Getting Notifications From Slack on the Apple Watch: An Expert Tutorial by ZDNet</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-15-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 15 Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-8-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone 8 with 3 Methods</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/revolutionize-your-broadcasts-with-manycams-unique-live-cam-filters-and-recording-features/"><u>Revolutionize Your Broadcasts with ManyCam's Unique Live Cam Filters and Recording Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/score-two-premium-nomad-iphone-cases-for-the-price-of-one-with-our-exclusive-deal-start-shopping-today-at-zdnet/"><u>Score Two Premium Nomad iPhone Cases for the Price of One with Our Exclusive Deal - Start Shopping Today at ZDNET!</u></a></li>
-<li><a href="https://win-data.techidaily.com/speedy-distribution-of-marketing-materials-create-and-share-flipbooks-immediately-on-flipbuilder/"><u>Speedy Distribution of Marketing Materials - Create and Share Flipbooks Immediately on FlipBuilder</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/swapped-out-my-apple-vision-pro-and-meta-quest-3-save-big-with-high-value-alternatives-to-xr-wearables-zdnet-analysis/"><u>Swapped Out My Apple Vision Pro & Meta Quest 3: Save Big with High-Value Alternatives to XR Wearables | ZDNet Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-keyboards-featured-and-analyzed-by-tech-gurus-insights/"><u>Top-Rated Keyboards Featured & Analyzed by Tech Gurus - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-mac-software-expert-picks-and-reviews-zdnet/"><u>Top-Rated Mac Software : Expert Picks and Reviews - ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unexpected-star-of-apples-latest-let-loose-event-the-exceptional-349-ipad-hits-the-spotlight-gadgetguru-news/"><u>Unexpected Star of Apple’s Latest ‘Let Loose’ Event: The Exceptional $349 iPad Hits the Spotlight | GadgetGuru News</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-premier-defenders-of-timepieces-a-comprehensive-review-on-apple-watch-screens-by-zdnet/"><u>Unveiling the Premier Defenders of Timepieces : A Comprehensive Review on Apple Watch Screens by ZDNET</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-10-social-media-podcasts-to-help-you-make-marketing-strategy-for-2024/"><u>Updated 10 Social Media Podcasts to Help You Make Marketing Strategy for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ski-and-snow-cam-unveiled-ultimate-gear-guide/"><u>[New] 2024 Approved Ski & Snow Cam Unveiled Ultimate Gear Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-easy-setup-making-a-direct-path-for-youtube-subscribers-for-2024/"><u>[New] Easy Setup Making a Direct Path for YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-exploring-the-nocturnal-world-through-your-iphone-lens/"><u>[New] In 2024, Exploring the Nocturnal World Through Your iPhone Lens</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-street-smart-showdown-top-hand-to-hand-video-games/"><u>[New] Street Smart Showdown Top Hand-to-Hand Video Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-list-of-best-pads-for-gamers/"><u>Exclusive List of Best Pads for Gamers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-y27-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo Y27 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-poco-c51-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Poco C51 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-d3dx934dll-file-not-found-issue-a-step-by-step-guide/"><u>Resolving the d3dx9_34.dll File Not Found Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-essential-compendium-for-navigating-openais-innovations-and-features/"><u>The Essential Compendium for Navigating OpenAI's Innovations and Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-new-era-of-conversational-agents-bard-vs-bing-chatbot/"><u>The New Era of Conversational Agents: Bard Vs. Bing Chatbot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-risks-of-using-chatgpt-for-reliable-text-summarization/"><u>The Risks of Using ChatGPT for Reliable Text Summarization</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-exporting-your-chatgpt-sessions-with-handy-apps/"><u>The Ultimate Guide to Exporting Your ChatGPT Sessions with Handy Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-how-to-generating-shareable-links-to-your-ai-chats-on-chatgpt/"><u>The Ultimate How-To: Generating Shareable Links to Your AI Chats on ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-techniques-for-generating-artistic-imagery-with-chatgpt/"><u>The Ultimate Techniques for Generating Artistic Imagery with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-benefits-of-seeking-health-guidance-with-chatgpt/"><u>Top 7 Benefits of Seeking Health Guidance with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-chatgpt-into-the-ultimate-dm-companion-for-rpg-adventures/"><u>Transform ChatGPT Into the Ultimate DM Companion for RPG Adventures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vlch264and/"><u>VLCプレーヤーにおけるH264ビデオファイルの再生失敗:原因分析&解決策</u></a></li>
 </ul></div>
 

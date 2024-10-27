@@ -1,7 +1,7 @@
 ---
 title: "July's Top Discounted Apple Gadgets: IPhones to iPads - Special Deals Revealed by ZDNET"
-date: 2024-10-19T17:16:45.205Z
-updated: 2024-10-21T20:17:54.494Z
+date: 2024-10-21T18:41:41.435Z
+updated: 2024-10-27T18:14:01.815Z
 tags:
   - apple
 categories:
@@ -157,6 +157,13 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb8114c70-8128-4be6-9cd8-0cc4fe36c521%7Cdtp&dtb=1)
@@ -171,33 +178,33 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
 
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -211,13 +218,6 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -241,10 +241,10 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -291,22 +291,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-seamless-techniques-to-share-your-screen-on-google-meet/"><u>[New] In 2024, Seamless Techniques to Share Your Screen on Google Meet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-premium-capture-suite-chromebook-focus/"><u>[New] Premium Capture Suite Chromebook Focus</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-decode-insta-success-your-comprehensive-guide-to-understanding-user-insights/"><u>[Updated] 2024 Approved Decode Insta Success Your Comprehensive Guide to Understanding User Insights</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-essential-fixes-for-disconnected-fb-live-feeds-for-2024/"><u>[Updated] Essential Fixes for Disconnected FB Live Feeds for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-15-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 15 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-travel-gadget-qi2-supported-magsafe-charger-my-latest-must-have-tech-find/"><u>Discover the Ultimate Travel Gadget: Qi2 Supported MagSafe Charger, My Latest Must-Have Tech Find</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experts-choose-the-ideal-mini-tablets-for-2-cuisines-in-depth-analysis-and-rankings/"><u>Experts Choose the Ideal Mini Tablets for 2 Cuisines | In-Depth Analysis and Rankings</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-xperia-5-v-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Sony Xperia 5 V Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-preserve-your-pics-and-videos-top-15-tools-reviewed/"><u>In 2024, Preserve Your Pics & Videos Top 15 Tools Reviewed</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-unlocking-video-calls-with-zoom-in-gmail-platform/"><u>In 2024, Unlocking Video Calls with Zoom in Gmail Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-ophthalmic-obstacles-with-economical-xr-glasses-a-cost-effective-solution-to-apples-pricey-optics/"><u>Overcoming Ophthalmic Obstacles with Economical XR Glasses - A Cost-Effective Solution to Apple's Pricey Optics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-your-privacy-prevent-iphones-from-being-found-easily-with-these-simple-steps/"><u>Protect Your Privacy: Prevent iPhones From Being Found Easily with These Simple Steps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secrets-to-acquiring-and-setting-up-an-apple-vision-pro-for-enhanced-face-id-scanning-professional-hacks-revealed/"><u>Secrets to Acquiring and Setting Up an Apple Vision Pro for Enhanced Face ID Scanning: Professional Hacks Revealed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/smartphone-market-update-samsung-overcomes-apples-lead-while-rival-closes-the-gap-analyzed-by-zdnet/"><u>Smartphone Market Update: Samsung Overcomes Apple's Lead While Rival Closes the Gap - Analyzed by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-non-apple-rechargeable-alternative-to-the-apple-airtag-the-ideal-choice-for-wallets-explore-today/"><u>Top Non-Apple Rechargeable Alternative to the Apple AirTag: The Ideal Choice for Wallets - Explore Today!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unpacking-the-sudden-urge-how-apples-affordable-usb-c-earpods-became-my-prime-day-must-have-insights-from-zdnet/"><u>Unpacking the Sudden Urge: How Apple's Affordable USB-C EarPods Became My Prime Day Must-Have – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bard-how-google-is-stepping-up-to-compete-in-the-ai-conversationalist-space-against-chatgpt/"><u>'BARD': How Google Is Stepping Up to Compete in the AI Conversationalist Space Against ChatGPT</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-in-depth-analysis-of-gradual-audio-lowering-with-lumafusion/"><u>[New] 2024 Approved In-Depth Analysis of Gradual Audio Lowering with Lumafusion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-flight-dynamics-unveiling-bebops-parrot-capabilities/"><u>[Updated] 2024 Approved Flight Dynamics Unveiling Bebop’s Parrot Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-oversight-four-potential-regulatory-avenues/"><u>Artificial Intelligence Oversight: Four Potential Regulatory Avenues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breakdown-of-artificial-intelligence-lexicon-grasping-29-keywords-you-need/"><u>Breakdown of Artificial Intelligence Lexicon: Grasping 29 Keywords You Need</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-interactions-with-users-help-improve-chatgpts-learning-process/"><u>Can Interactions With Users Help Improve ChatGPT's Learning Process?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-tutorial-on-extracting-and-exporting-chatgpt-dialogues/"><u>Comprehensive Tutorial on Extracting & Exporting ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-on-an-assistant-in-depth-look-at-claude-and-chatgpt-for-daily-functionality/"><u>Deciding on an Assistant: In-Depth Look at Claude and ChatGPT for Daily Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/digital-dialogue-dynamics-gpt-and-googles-bard-face-off/"><u>Digital Dialogue Dynamics: GPT & Google’s Bard Face-Off</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dji-phantom-3-the-pro-drone-experience-explored/"><u>DJI Phantom 3 The Pro Drone Experience Explored</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-xcover-7-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy XCover 7 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-a18-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo A18 FRP?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y56-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y56 5G Phone that is Locked?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/maximizing-engagement-in-online-collaboration-with-snap-camera/"><u>Maximizing Engagement in Online Collaboration with Snap Camera</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/step-into-photo-magic-innovative-edits-on-snapchat-for-2024/"><u>Step Into Photo Magic Innovative Edits on Snapchat for 2024</u></a></li>
 </ul></div>
 

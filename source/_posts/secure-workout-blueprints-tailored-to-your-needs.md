@@ -1,7 +1,7 @@
 ---
 title: Secure Workout Blueprints Tailored to Your Needs
-date: 2024-09-02T12:15:06.849Z
-updated: 2024-09-03T12:15:06.849Z
+date: 2024-10-24T17:36:55.006Z
+updated: 2024-10-27T17:17:56.162Z
 tags:
   - chatgpt
   - open-ai
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
 
  With GPT-4 already adept at handling image inputs and outputs, improvements covering audio and video processing are the next milestone for OpenAI, and GPT-5 is a good place to start. Google is already making serious headway with this sort of multimodality with its Gemini AI model. It would be uncharacteristic of OpenAI not to respond. But, of course, don't take our word for it. In his[Unconfuse Me podcast](https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/f0d6c3f0-00cc-4ab6-93cc-7f1d7fd3246e/Unconfuse-Me-with-Bill-Gates-episode-6-TGN-transcript.pdf) \[PDF transcript\], Bill Gates asked OpenAI CEO Sam Altman what milestones he foresaw for the GPT series in the next two years. His first answer? Video Processing.
@@ -53,15 +50,23 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Larger and More Efficient Context Window
 
 ![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
  Despite being one of the most sophisticated AI models in the market, the GPT family of AI models has one of the smallest context windows. For instance,[Google's Gemini can process a staggering 1 million tokens](<http://C:\Users\DELL\Desktop\Chatbase> images\OpenAI Sora text-to-video generator.jpg) , while[ Google's Gemini can process a staggering 1 million tokens](https://www.makeuseof.com/why-gemini-context-window-is-a-game-changer/) (128,000 for standard usage). In contrast, GPT-4 has a relatively smaller context window of 128,000 tokens, with approximately 32,000 tokens or fewer realistically available for use on interfaces like ChatGPT.
@@ -70,16 +75,17 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## 3\. GPT Agents
 
 ![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
 
  Perhaps one of the most exciting possibilities of a GPT-5 release is the debut of GPT Agents. While the term "game-changer" has probably been overused in AI, GPT agents would truly be game-changers in every practical sense. But just how game-changing would this be?
@@ -95,8 +101,12 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
  So, if GPT-5 ships with GPT Agents, you could ask it to "build a portfolio website for Maxwell Timothy" rather than just "write me a code for the homepage." GPT-5 would then theoretically be able to self-prompt by invoking expert AI agents to handle the various subtasks needed to build a website. It might invoke one GPT to scrap the web for information on Maxwell Timothy, another agent to write the code for different pages, another agent to generate and optimize images, and even another AI agent to deploy the site, all without the need for repeated human prompting.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Less Hallucination
 
  Although OpenAI has come a long way in dealing with hallucinations in its AI models, the true litmus test for GPT-5 will be its ability to address the persistent issue of hallucinations, which has held back the widespread adoption of AI in high-stakes, safety-critical domains like healthcare, aviation, and cybersecurity. These are all areas that would benefit heavily from heavy AI involvement but are currently avoiding any significant adoption.
@@ -109,14 +119,11 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
  As we eagerly await the official release of this highly anticipated AI model, one thing is certain: GPT-5 has the potential to redefine the boundaries of what is possible with artificial intelligence, ushering in a new era of human-machine collaboration and innovation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +132,21 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-the-secrets-of-successful-youtube-thumbnail-crafting/"><u>[New] Unlocking the Secrets of Successful YouTube Thumbnail Crafting</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-essential-underwater-videography-best-action-cameras-for-snorkelers/"><u>[Updated] 2024 Approved Essential Underwater Videography Best Action Cameras for Snorkelers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/diagnose-and-fix-razer-barracuda-x-laptop-mic-problems-under-windows-1011-step-by-step-tutorial/"><u>Diagnose & Fix Razer Barracuda X Laptop Mic Problems Under Windows 10/11 - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-mini-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 mini</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/no-emoji-tweets-linuss-disclosures-trojans-explained-and-chatgpt-faults-displayed/"><u>No Emoji Tweets, Linus's Disclosures, Trojans Explained, & ChatGPT Faults Displayed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/refining-chatgpts-writing-to-your-unique-essence/"><u>Refining ChatGPT's Writing to Your Unique Essence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-access-utilizing-a-vpn-for-chatgpt-sessions/"><u>Secure Access: Utilizing a VPN for ChatGPT Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/smart-conversations-drive-mercedes-blends-gpt-with-voices/"><u>Smart Conversations Drive: Mercedes Blends GPT with Voices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/stream-like-a-pro-integrate-your-obs-setup-for-youtube-and-twitch-for-2024/"><u>Stream Like a Pro Integrate Your OBS Setup for YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/supercharge-your-digital-discourse-crafting-the-ultimate-chatgpt-prompt/"><u>Supercharge Your Digital Discourse: Crafting the Ultimate ChatGPT Prompt</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/taming-machine-minds-for-mutual-benefit/"><u>Taming Machine Minds for Mutual Benefit</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-developer-and-ai-synergy/"><u>The Developer and AI Synergy</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-k11-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/updating-group-standards-for-effective-community-engagement/"><u>Updating Group Standards for Effective Community Engagement</u></a></li>
+</ul></div>
 

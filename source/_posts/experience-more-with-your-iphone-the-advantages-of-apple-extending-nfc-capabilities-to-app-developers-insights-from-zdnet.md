@@ -1,7 +1,7 @@
 ---
 title: "Experience More with Your iPhone: The Advantages of Apple Extending NFC Capabilities to App Developers - Insights From ZDNet"
-date: 2024-10-18T20:47:25.323Z
-updated: 2024-10-21T19:39:07.407Z
+date: 2024-10-22T16:55:31.948Z
+updated: 2024-10-27T17:57:15.540Z
 tags:
   - apple
 categories:
@@ -42,6 +42,13 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
@@ -49,10 +56,10 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -63,6 +70,19 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -70,13 +90,6 @@ The Mac virtual display feature of the Vision Pro has been nice, but limited. In
 Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
 
@@ -94,6 +107,19 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -101,13 +127,6 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -118,13 +137,6 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -179,21 +191,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-swiftswirl-momentmirror-recording/"><u>[New] 2024 Approved SwiftSwirl MomentMirror Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-thankful-compilation-professional-and-personalized-otus/"><u>2024 Approved Thankful Compilation Professional & Personalized OTUs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-20-inspiring-ideas-for-instagram-photos/"><u>2024 Approved Top 20 Inspiring Ideas for Instagram Photos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/accelerate-apple-esr-releases-cutting-edge-qi2-magsafe-battery-tech-for-swift-iphone-16-charging-without-overheating-insights-from-zdnet/"><u>Accelerate Apple: ESR Releases Cutting-Edge Qi2 MagSafe Battery Tech for Swift iPhone 16 Charging Without Overheating – Insights From ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/access-premium-behringer-drives-exclusive-free-download-offer/"><u>Access Premium Behringer Drives: Exclusive Free Download Offer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/empowering-innovations-discover-the-advantages-of-apples-broadened-nfc-capabilities-for-iphone-users-and-partner-applications-zdnet/"><u>Empowering Innovations: Discover the Advantages of Apple's Broadened NFC Capabilities for iPhone Users and Partner Applications | ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a60s-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel A60s Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-productivity-on-your-macbook-explore-the-best-upgrades-in-macos-15/"><u>Maximize Productivity on Your MacBook: Explore the Best Upgrades in MacOS 15</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/perfecting-webp-conversion-to-jpeg-format-for-2024/"><u>Perfecting WebP Conversion to JPEG Format for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/seamless-file-and-directory-synchronization-across-windows-systems-versions-11-8-and-erse/"><u>Seamless File and Directory Synchronization Across Windows Systems (Versions 11, 8, and Erse)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secure-your-early-access-get-the-latest-apple-watch-series-10-in-advance-tips-for-savings-and-pre-ordering-process-insights-from-zdnet/"><u>Secure Your Early Access: Get the Latest Apple Watch Series 10 in Advance! Tips for Savings & Pre-Ordering Process - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-non-apple-non-tile-wallet-airtag-reviews-discover-the-market-leaders/"><u>Top Non-Apple, Non-Tile Wallet AirTag Reviews: Discover the Market Leaders</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-selection-of-airtag-wallet-brands-expert-evaluations-by-zdnet/"><u>Ultimate Selection of AirTag Wallet Brands : Expert Evaluations by ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unmissable-amazon-offer-grab-the-apple-vision-pro-for-only-200-off-limited-time-opportunity/"><u>Unmissable Amazon Offer: Grab the Apple Vision Pro for Only $200 Off - Limited Time Opportunity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-game-recorder-mastery-top-5-techniques-for-windows-11/"><u>[Updated] 2024 Approved Game Recorder Mastery Top 5 Techniques for Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoid-headaches-learn-to-update-graphics-drivers-in-windows-10-with-ease/"><u>Avoid Headaches: Learn to Update Graphics Drivers in Windows 10 With Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-guide-to-samsung-photography-suite-2023/"><u>Comprehensive Guide to Samsung Photography Suite, 2023</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/discover-how-to-make-use-of-the-picture-in-picture-functionality-in-netflix-for-2024/"><u>Discover How To Make Use of The Picture-In-Picture Functionality in Netflix for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-7-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 7 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://discover-help.techidaily.com/mejores-tecnicas-para-reducir-el-tamano-de-videos-en-youtube-sin-perder-calidad/"><u>Mejores Técnicas Para Reducir El Tamaño De Videos en YouTube Sin Perder Calidad</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-honor-magic5-ultimate-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/save-time-with-10-essential-chatgpt-inspired-pdf-automation-extensions/"><u>Save Time with 10 Essential ChatGPT-Inspired PDF Automation Extensions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-spreadsheet-tasks-with-these-3-methods-of-applying-chatgpt-to-excel/"><u>Streamline Spreadsheet Tasks with These 3 Methods of Applying ChatGPT to Excel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/synthesizing-innovation-exploring-the-six-peaks-of-chatgpts-engineer/"><u>Synthesizing Innovation - Exploring the Six Peaks of ChatGPT's Engineer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-x-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-bottom-line-on-chatgpt-as-an-earnings-engine/"><u>The Bottom Line on ChatGPT as an Earnings Engine</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-6-ai-assisted-note-taking-software-to-boost-productivity/"><u>The Ultimate List of 6 AI Assisted Note Taking Software to Boost Productivity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-8-chatgpt-extensions-for-health-and-wellness-management/"><u>The Ultimate List of 8 ChatGPT Extensions for Health & Wellness Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-veracity-of-chatgpt-how-much-can-you-rely-on-its-information/"><u>The Veracity of ChatGPT – How Much Can You Rely on Its Information?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-ai-enhanced-platforms-for-personalized-book-suggestions/"><u>Top 5 AI-Enhanced Platforms for Personalized Book Suggestions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-new-possibilities-chatgpts-impact-on-revolutionizing-smartwatches/"><u>Unlock New Possibilities: ChatGPT's Impact on Revolutionizing Smartwatches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-gptbot-insights-into-website-access-barriers/"><u>Unveiling GPTBot: Insights Into Website Access Barriers</u></a></li>
 </ul></div>
 

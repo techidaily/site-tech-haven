@@ -1,7 +1,7 @@
 ---
 title: Unlocking Exceptional Presidents' Day Offers Over 60%% at Leading Retailers Like Amazon, Walmart and More | Comprehensive Deals Digest
-date: 2024-10-14T21:53:48.606Z
-updated: 2024-10-21T16:22:17.479Z
+date: 2024-10-22T17:22:59.529Z
+updated: 2024-10-27T19:14:46.393Z
 tags:
   - apple
 categories:
@@ -40,13 +40,6 @@ From headphones to robot vacuums to TVs, now's your chance to snag savings that 
 * [Amazon Fire HD 8 Kids Pro Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB09BG63ZMM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $100 (save $50 at Amazon)
 * [Blink Outdoor 4 Floodlight Camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0BBX45V5B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $85 (save $45 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Presidents Day tech deals still live
 
 June Wan/ZDNET
@@ -71,6 +64,19 @@ June Wan/ZDNET
 * [Asus TUF Gameing A17 Laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmecha-gray-asus-tuf-gaming-f17-fa707xi-ns94%252Fp%252FN82E16834236430%253FItem%253DN82E16834236430): $1,350 (save $450 at Newegg)
 * [Asus Gaming Desktop Predator Orion 3000](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Facer-po3-650-ub91-predator-orion-3000%252Fp%252FN82E16883101905%253FItem%253DN82E16883101905): $700 (save $500 at Newegg)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best Presidents Day headphones deals still live
 
 Jason Hiner/ZDNET
@@ -86,10 +92,10 @@ Jason Hiner/ZDNET
 * [Jabra Elite 10 Wireless Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0CB91VRGV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $200 (save $50 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Presidents Day TV deals still live
@@ -107,13 +113,6 @@ Maria Diaz/ZDNET
 * [Samsung 85-inch Class TU690T UHD 4K Smart Tizen TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-85-class-tu690t-crystal-uhd-4k-smart-tizen-tv%2F6527338.p%3F&publisher_slug=itechdaily19598&exclusive=1): $1,000 (save $300 at Best Buy)
 * [Samsung 75-inch Class QN85C UHD 4K Smart Tizen TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-75-class-qn85c-neo-qled-4k-uhd-smart-tizen-tv%2F6536416.p%3F&publisher_slug=itechdaily19598&exclusive=1): $1,800 (save $500 at Best Buy)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Presidents Day robot vacuum deals still live
 
 The Roomba i5+ does a great job on carpet.
@@ -130,13 +129,6 @@ Beth Mauder/ZDNET
 * [Roborock S8 Pro Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $1,400 (save $200 at Amazon)
 * [Roborock S8 Pro Vacuum and Mop](https://roborock.pxf.io/c/159047/1179705/14848?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fus.roborock.com%2Fproducts%2Froborock-s8-pro-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $1,400 (save $200 at Roborock)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Presidents Day home deals still live
 
 Arlo
@@ -150,6 +142,13 @@ Arlo
 * [iDoo Queen Air Mattress](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0C8TF4VK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $70 (save $46 at Amazon)
 * [Eve Light Strip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEve-Light-Strip-Full-Spectrum-Necessary%2Fdp%2FB07MTX8MR4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $40 (save $40 at Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When is President's Day?
 
 President's Day is always celebrated on the third Monday of February. This year, it falls on Feb. 19\. 
@@ -159,6 +158,13 @@ President's Day is always celebrated on the third Monday of February. This year,
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -210,14 +216,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-secure-is-subforsup-to-expand-your-youtube-community-safely-for-2024/"><u>[Updated] How Secure Is Subforsup to Expand Your YouTube Community Safely for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/apex-creatives-review-studio-25-scrutiny-year-2023/"><u>Apex Creatives Review Studio 25 Scrutiny, Year 2023</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/buy-these-three-new-apple-devices-announced-at-wwdc-today-plus-your-guide-on-how-and-where-to-pre-order-them-tech-insights-by-zdnet/"><u>Buy These Three New Apple Devices Announced at WWDC Today - Plus, Your Guide on How and Where to Pre-Order Them | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/challenging-tech-giant-apple-how-my-iphone-refresh-experience-unfolded-with-insights/"><u>Challenging Tech Giant Apple: How My iPhone Refresh Experience Unfolded with Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-predictive-ais-workings-in-simple-terms/"><u>Demystifying Predictive AI's Workings in Simple Terms</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-simultaneous-screen-and-camera-capture-guide/"><u>In 2024, Simultaneous Screen & Camera Capture Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-time-for-a-new-apple-watch-battery-discover-surprising-facts-about-its-life-span/"><u>Is It Time for a New Apple Watch Battery? Discover Surprising Facts About Its Life Span</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-apple-watch-factory-reset-expert-tips-and-tricks-digitalwisetech/"><u>Mastering the Apple Watch Factory Reset: Expert Tips & Tricks | DigitalWiseTech</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-s17t-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo S17t Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-capture-and-store-videos-effortlessly-with-our-top-list-for-2024/"><u>[Updated] Capture & Store Videos Effortlessly with Our Top List for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-minisnapper-screen-recorder-feedback-for-2024/"><u>[Updated] MiniSnapper Screen Recorder Feedback for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-realtimevid-recorder-overview/"><u>[Updated] RealTimeVid Recorder Overview</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-how-to-see-your-subscribers-on-youtube/"><u>2024 Approved How to See Your Subscribers on YouTube?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-freedom-of-filmmaking-top-android-video-editing-apps/"><u>2024 Approved The Freedom of Filmmaking Top Android Video Editing Apps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/galactic-lexicon-a-journey-through-star-wars-unique-languages/"><u>Galactic Lexicon: A Journey Through Star Wars' Unique Languages</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/laughter-in-every-note-essential-ringtones/"><u>Laughter in Every Note Essential Ringtones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/portable-power-utilize-chatgpts-capabilities-on-android-phones-and-tablets/"><u>Portable Power: Utilize ChatGPT's Capabilities on Android Phones and Tablets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premium-pcmac-screen-capture-application/"><u>Premium PC/Mac Screen Capture Application</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/proactive-identification-of-chatgpt-impostors-with-mentions/"><u>Proactive Identification of ChatGPT Impostors with Mentions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reimagining-wearable-world-with-gpts-six-transformative-ideas/"><u>Reimagining Wearable World with GPT's Six Transformative Ideas</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguard-your-device-techniques-for-pinpointing-unauthorized-chatgpt-imitations-within-the-apple-ecosystem/"><u>Safeguard Your Device: Techniques for Pinpointing Unauthorized ChatGPT Imitations Within the Apple Ecosystem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secrets-unveiled-protecting-privacy-by-concealing-your-chatgpt-dialogue/"><u>Secrets Unveiled: Protecting Privacy by Concealing Your ChatGPT Dialogue</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/transform-videos-into-stunning-live-photos-with-these-apps/"><u>Transform Videos Into Stunning Live Photos with These Apps</u></a></li>
 </ul></div>
 

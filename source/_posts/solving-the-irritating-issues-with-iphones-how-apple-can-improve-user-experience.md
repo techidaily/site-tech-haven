@@ -1,7 +1,7 @@
 ---
 title: "Solving the Irritating Issues with iPhones: How Apple Can Improve User Experience"
-date: 2024-10-14T18:05:24.234Z
-updated: 2024-10-21T21:15:16.380Z
+date: 2024-10-21T17:22:29.165Z
+updated: 2024-10-27T16:28:13.484Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -58,16 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -77,16 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -97,18 +85,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -146,20 +134,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-elevate-designs-essential-secrets-for-canva-mastery/"><u>[Updated] 2024 Approved Elevate Designs Essential Secrets for Canva Mastery</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-win11-elite-screen-recording-software/"><u>[Updated] 2024 Approved Win11 Elite Screen Recording Software</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-ai-naming-power-the-top-ten-podcast-renamers/"><u>[Updated] AI Naming Power The Top Ten Podcast Renamers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-aim-for-excellence-prime-iphone-angles-for-professional-shots/"><u>2024 Approved Aim for Excellence Prime iPhone Angles for Professional Shots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/arm-vs-x86-can-windows-on-arm-outperform-the-mac-silicon-revolution-predicting-the-next-computing-landscape/"><u>ARM Vs. X86: Can Windows on ARM Outperform the Mac Silicon Revolution? Predicting the Next Computing Landscape</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-infinix-note-30i-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Infinix Note 30i</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/global-smartphone-market-leader-apple-surpasses-samsung-in-record-breaking-shipments-insights/"><u>Global Smartphone Market Leader: Apple Surpasses Samsung in Record-Breaking Shipments - Insights</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-screen-enhancement-in-teams/"><u>In 2024, Mastering the Art of Screen Enhancement in Teams</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/install-macos-monterey-beta-sequoia-on-your-mac-now-the-complete-tutorial-by-zdnet-experts/"><u>Install macOS Monterey Beta (Sequoia) on Your Mac Now: The Complete Tutorial by ZDNet Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ipad-air-vs-ipad-pro-why-the-miniature-marvel-nearly-stole-my-heart-review/"><u>IPad Air Vs. IPad Pro: Why the Miniature Marvel Nearly Stole My Heart (Review)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/moto-g-power-analysis-unmatched-endurance-and-impressive-operating-efficiency/"><u>Moto G Power Analysis: Unmatched Endurance & Impressive Operating Efficiency</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-transition-moving-your-whatsapp-from-android-to-iphone-a-step-by-step-guide/"><u>Seamless Transition: Moving Your WhatsApp From Android to iPhone - A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-intermittent-sound-issues-in-windows-11-a-complete-guide/"><u>Troubleshooting Intermittent Sound Issues in Windows 11 - A Complete Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-sticking-with-my-iphone-14-beats-the-hype-a-closer-look-at-four-key-points-against-upgrading-to-an-iphone-16-pro-insights-from-a-tech-expert/"><u>Why Sticking with My iPhone 14 Beats the Hype: A Closer Look at Four Key Points Against Upgrading to an iPhone 16 Pro - Insights From a Tech Expert</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zdnet-exclusive-apples-shift-to-permitting-used-parts-in-iphone-repairs-for-select-models/"><u>ZDNet Exclusive: Apple's Shift to Permitting Used Parts in iPhone Repairs for Select Models</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-from-invisible-to-iconic-top-strategies-for-standout-facebook-profiles/"><u>[Updated] From Invisible to Iconic Top Strategies for Standout Facebook Profiles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-direct-download-process-from-vimeo-to-mp3-format/"><u>[Updated] In 2024, Direct Download Process From Vimeo to MP3 Format</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-videos-start-with-top-youtube-intro-tips/"><u>[Updated] In 2024, Elevate Your Video's Start with Top YouTube Intro Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-explore-12-prime-flip-screen-cameras-revolutionizing-vlogs/"><u>[Updated] In 2024, Explore 12 Prime Flip Screen Cameras Revolutionizing Vlogs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pivot-producer-system/"><u>[Updated] Pivot Producer System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-seamless-shift-from-windows-11s-default-pin-logon-to-traditional-password-method/"><u>A Seamless Shift From Windows 11'S Default PIN Logon to Traditional Password Method</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-side-by-side-comparison-of-chatgpt-versus-bings-ai-innovation-the-decisive-differences-you-need-to-know/"><u>A Side-By-Side Comparison of ChatGPT Versus Bing’s AI Innovation: The Decisive Differences You Need to Know</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722201469900-get-ready-to-play-here-are-chatgpts-top-6-entertaining-gaming-selections/"><u>Get Ready to Play! Here Are ChatGPT's Top 6 Entertaining Gaming Selections.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-content-redistribution-hacks-for-instagramers/"><u>In 2024, Content Redistribution Hacks for Instagramers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-list-of-7-chrome-extensions-to-supercharge-chatgpt-interactions/"><u>Ultimate List of 7 Chrome Extensions to Supercharge ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-list-8-revolutionary-cryptocurrency-plugin-tools-leveraging-chatgpt-technology/"><u>Ultimate List: 8 Revolutionary Cryptocurrency Plugin Tools Leveraging ChatGPT Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-plus-the-good-the-bad-and-the-ugly/"><u>Understanding ChatGPT Plus - The Good, The Bad & The Ugly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-hidden-capabilities-the-5-best-kept-secrets-of-chatgpt-revealed/"><u>Unlock Hidden Capabilities: The 5 Best Kept Secrets of ChatGPT Revealed!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-excel-potential-with-chatgpt-3-innovative-methods/"><u>Unlocking Excel Potential with ChatGPT: 3 Innovative Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-mystery-whats-behind-bingchatartoken-fraud-a-user-friendly-guide-for-safe-cryptocurrency-investments/"><u>Unveiling the Mystery: What's Behind BingChatarToken Fraud? A User-Friendly Guide for Safe Cryptocurrency Investments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211151291-windows-10-file-explorer-made-easy-learn-how-with-our-help/"><u>Windows 10 File Explorer Made Easy – Learn How With Our Help!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Sam Altman Steps Down as OpenAI CEO - Repercussions for AI Language Model ChatGPT?
-date: 2024-09-02T12:18:42.272Z
-updated: 2024-09-03T12:18:42.272Z
+date: 2024-10-25T18:32:21.073Z
+updated: 2024-10-27T16:46:11.789Z
 tags:
   - chatgpt
   - open-ai
@@ -33,9 +33,23 @@ thumbnail: https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -50,17 +64,12 @@ thumbnail: https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Protect Your PC and Bank Account in the AI-Era
 
  ChatGPT is a powerful and valuable tool that can answer many questions you throw its way. But the chatbot can also be used for malicious purposes, like generating phishing messages and creating malware.
@@ -69,14 +78,11 @@ thumbnail: https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d
 
  To minimize the potential dangers of AI chatbots, it’s crucial to know their potential risks and the best possible security measures to protect yourself from hackers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -85,4 +91,26 @@ thumbnail: https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-tech-sleuths-guide-to-choosing-the-best-screen-recorder/"><u>[Updated] Tech Sleuths’ Guide to Choosing the Best Screen Recorder</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-picart-privacy-filter-no-more-recognizable-faces/"><u>2024 Approved PicArt Privacy Filter No More Recognizable Faces</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/does-utilizing-gpu-enhance-or-degrade-video-output/"><u>Does Utilizing GPU Enhance or Degrade Video Output?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/efficient-transfer-techniques-for-iphone-images-on-snapchat-for-2024/"><u>Efficient Transfer Techniques for iPhone Images on Snapchat for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-modifying-windows-settings-under-corporate-governance/"><u>Expert Guide: Modifying Windows Settings Under Corporate Governance</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/formula-field-report-game-reviews-for-2024/"><u>FORMULA FIELD REPORT Game Reviews for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-vanishing-acts-how-to-blur-faces-and-objects-online/"><u>In 2024, Vanishing Acts How to Blur Faces and Objects Online</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-nokia-c12-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Nokia C12 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/redefining-collaboration-the-power-of-immersive-vr/"><u>Redefining Collaboration The Power of Immersive VR</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-top-ai-chatbots-comparing-features-and-performance-between-chatgpt-bing-ai-and-google-bard/"><u>The Ultimate Guide to Top AI Chatbots: Comparing Features and Performance Between ChatGPT, Bing AI & Google Bard</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/s-hot-tickets-top-youtube-tracks-for-the-day-for-2024/"><u>Today’s Hot Tickets Top Youtube Tracks for the Day for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-20-essential-chatgpt-trigger-words-in-github-repositories/"><u>Top 20 Essential ChatGPT Trigger Words in GitHub Repositories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-factors-behind-chatgpts-unprecedented-rise-as-a-global-phenomenon/"><u>Top 5 Factors Behind ChatGPT's Unprecedented Rise as a Global Phenomenon</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-chatgpt-add-ons-skip-these-to-save-time/"><u>Top 6 ChatGPT Add-Ons: Skip These to Save Time</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-gpt-for-effective-office-dialogues/"><u>Unlocking the Power of GPT for Effective Office Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-new-functionalities-in-chatgpt-top-updates-for-users/"><u>Unveiling New Functionalities in ChatGPT – Top Updates for Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-real-world-applications-gpts-influence-today/"><u>Unveiling Real-World Applications: GPT's Influence Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-to-launching-a-career-in-natural-language-processing-and-prompts/"><u>Unveiling the Secrets to Launching a Career in Natural Language Processing and Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-conversational-agents-like-chatgpt-to-improve-cbt-outcomes/"><u>Utilizing Conversational Agents Like ChatGPT to Improve CBT Outcomes</u></a></li>
+</ul></div>
 

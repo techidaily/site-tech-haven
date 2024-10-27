@@ -1,7 +1,7 @@
 ---
 title: Causing Resentment Among Colonists Who Felt that These Acts Infringed upon Their Economic Freedom and Benefited British Interests at the Expense of Colonial Development.
-date: 2024-10-20T17:19:43.154Z
-updated: 2024-10-21T16:49:26.462Z
+date: 2024-10-24T19:05:55.782Z
+updated: 2024-10-27T17:44:24.318Z
 tags:
   - apple
 categories:
@@ -68,6 +68,13 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -86,19 +93,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -113,6 +107,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -122,13 +123,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -142,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -174,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -224,18 +218,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-maximizing-engagement-the-power-of-tailored-cards-and-ends-on-yt/"><u>[New] Maximizing Engagement The Power of Tailored Cards & Ends on YT</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-youtube-comeback-kid-jake-pauls-story/"><u>[New] The YouTube Comeback Kid Jake Paul’s Story</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expeditious-approaches-to-slide-storage/"><u>[Updated] 2024 Approved Expeditious Approaches to Slide Storage</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-co-marketing-brands-and-youtubes-dynamic-duo/"><u>In 2024, Co-Marketing Brands and YouTube's Dynamic Duo</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-14-ultrafrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 14 UltraFRP Lock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/organizing-chatgpt-discussions-mastering-the-art-of-folder-management/"><u>Organizing ChatGPT Discussions: Mastering the Art of Folder Management</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-battle-of-titans-how-gpt-stands-against-bert-in-ai-language-modeling/"><u>The Battle of Titans: How GPT Stands Against BERT in AI Language Modeling</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-dawn-of-accessible-ai-with-gpt-4-still-holding-6-strengths-for-plus-members/"><u>The Dawn of Accessible AI with GPT-4, Still Holding 6 Strengths for Plus Members.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-major-pitfalls-of-interacting-with-chatgpt-by-openai/"><u>The Major Pitfalls of Interacting with ChatGPT by OpenAI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-tools-for-sharing-and-exporting-your-conversations-with-chatgpt/"><u>Top Tools for Sharing & Exporting Your Conversations with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/turbocharged-ai-how-copilot-makes-it-accessible-and-powerful/"><u>Turbocharged AI: How Copilot Makes It Accessible and Powerful</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-stuck-exe-files-in-windows-systems/"><u>Unlocking Stuck .exe Files in Windows Systems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-ultimate-obs-recording-guide-for-gaming-enthusiasts/"><u>[New] In 2024, The Ultimate OBS Recording Guide for Gaming Enthusiasts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-pick-cross-platform-devices-ideal-entry-editor/"><u>[New] Top Pick Cross-Platform Devices' Ideal Entry Editor</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-metrics-mastery-gain-more-followers/"><u>[Updated] 2024 Approved Instagram Metrics Mastery - Gain More Followers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-10-best-offline-ios-games/"><u>[Updated] In 2024, Top 10 Best Offline iOS Games</u></a></li>
+<li><a href="https://facebook.techidaily.com/capitalizing-on-our-daily-movements/"><u>Capitalizing on Our Daily Movements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-bingchatgpt-scam-tokens-strategies-for-investor-protection/"><u>Navigating Through BingChatGPT Scam Tokens - Strategies for Investor Protection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/never-be-without-chatgpt-a-step-by-step-tutorial-for-using-chatgpt-everywhere/"><u>Never Be Without ChatGPT: A Step-by-Step Tutorial for Using ChatGPT Everywhere</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-leap-in-neural-networks-what-about-gpt-5/"><u>Next Leap in Neural Networks: What About GPT-5?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-unveils-groundbreaking-gpt-4-ai-revolutionizing-technology/"><u>OpenAI Unveils Groundbreaking GPT-4 AI Revolutionizing Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-daily-living-with-ai-the-chatgpt-guide/"><u>Optimizing Daily Living with AI: The ChatGPT Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/perfecting-the-chatflow-manage-gpt-3-with-folders/"><u>Perfecting the ChatFlow: Manage GPT-3 with Folders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online-for-2024/"><u>Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/swift-transfer-methods-getting-files-onto-computers/"><u>Swift Transfer Methods Getting Files Onto Computers</u></a></li>
 </ul></div>
 

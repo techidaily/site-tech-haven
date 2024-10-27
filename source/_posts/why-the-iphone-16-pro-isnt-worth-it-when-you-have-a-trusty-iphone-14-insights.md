@@ -1,7 +1,7 @@
 ---
 title: Why the iPhone 16 Pro Isn't Worth It When You Have a Trusty iPhone 14 - Insights
-date: 2024-10-15T19:22:51.762Z
-updated: 2024-10-21T20:51:44.070Z
+date: 2024-10-24T18:09:09.034Z
+updated: 2024-10-27T16:10:45.967Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +81,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,20 +135,24 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-growing-engagement-ethically-youtube-success-stories/"><u>[New] 2024 Approved Growing Engagement Ethically YouTube Success Stories</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-capture-perfection-at-home-these-are-the-best-5-filming-hacks-for-2024/"><u>[New] Capture Perfection at Home These Are the Best 5 Filming Hacks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-roundup-top-tier-no-cost-luts-available/"><u>[New] Exclusive Roundup Top-Tier, No-Cost LUTs Available</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-reliable-strategy-to-infuse-direct-urls-in-tiktok-bio/"><u>[Updated] 2024 Approved Reliable Strategy to Infuse Direct URLs in TikTok Bio</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-premier-10-decibel-boosters-macos-to-mobile-devices/"><u>[Updated] Premier 10 Decibel Boosters MacOS to Mobile Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bridging-gap-integrating-zoom-into-your-gmail-setup-for-2024/"><u>Bridging Gap Integrating Zoom Into Your Gmail Setup for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-the-latest-in-tech-m3-vs-m2-macbook-air-choosing-your-next-apple-device/"><u>Comparing the Latest in Tech: M3 Vs. M2 MacBook Air – Choosing Your Next Apple Device</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/engaging-article-leader/"><u>Engaging Article Leader</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-motorola-moto-g-stylus-2023-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Motorola Moto G Stylus (2023) Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-screen-capture-a-step-by-step-tutorial-for-iphone-users-techtips/"><u>Mastering Screen Capture: A Step-by-Step Tutorial for iPhone Users | TechTips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-pc-brands-ranked-apple-dell-and-others-face-off-insights/"><u>Top PC Brands Ranked: Apple, Dell & Others Face-Off - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-ranking-mac-maintenance-tools-of-2022-a-comprehensive-review/"><u>Top-Ranking Mac Maintenance Tools of 2022: A Comprehensive Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-your-apple-watchs-full-potential-with-a-discounted-40-powerband-offer-details-inside/"><u>Unlock Your Apple Watch's Full Potential with a Discounted $40 PowerBand Offer - Details Inside !</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-truth-how-can-i-know-if-an-airtag-tracks-me-insights/"><u>Unveiling the Truth: How Can I Know If An AirTag Tracks Me? Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/upcoming-release-apples-latest-ipad-expected-in-early-spring-of-2024-insights-from-tech-sources/"><u>Upcoming Release: Apple's Latest iPad Expected in Early Spring of 2024 - Insights From Tech Sources</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-to-edit-youtube-videos/"><u>[New] How To Edit YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-tune-into-success-with-instagram-soundscapes/"><u>[Updated] 2024 Approved Tune Into Success with Instagram Soundscapes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-uniting-social-media-and-television-with-fb-live/"><u>[Updated] In 2024, Uniting Social Media & Television with FB Live</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-t2x-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/building-intelligent-web-applications-using-chatgpt/"><u>Building Intelligent Web Applications Using ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canoscan-lide-220-fresh-download-and-software-update-guide/"><u>CanoScan LiDE 220 - Fresh Download & Software Update Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-past-talks-restored-methods-for-getting-back-what-you-missed/"><u>ChatGPT Past Talks Restored: Methods for Getting Back What You Missed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/clearing-your-account-ban-the-essential-4-reasons/"><u>Clearing Your Account Ban: The Essential 4 Reasons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/confidentiality-concerns-the-pitfalls-of-using-chatgpt-for-sensitive-information/"><u>Confidentiality Concerns: The Pitfalls of Using ChatGPT for Sensitive Information</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conversational-contenders-mistrals-showdown-with-chatgpt/"><u>Conversational Contenders: Mistral's Showdown with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-coding-capabilities-how-chatgpt-stands-up-to-geminis-algorithmic-abilities/"><u>Deciphering Coding Capabilities: How ChatGPT Stands Up to Gemini's Algorithmic Abilities.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-ai-giants-the-palm-2-vs-gpt-4-breakdown/"><u>Decoding AI Giants: The PaLM 2 Vs. GPT-4 Breakdown</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-unmatched-insights-why-perplexity-ai-is-the-key-to-superior-google-search-mastery-youre-missing-out-on/"><u>Discover Unmatched Insights: Why Perplexity AI Is the Key to Superior Google Search Mastery You're Missing Out On!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-sharing-conversations-with-chatgpt-a-step-by-step-guide/"><u>Effective Strategies for Sharing Conversations with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhanced-identity-options-now-for-oculus-users/"><u>Enhanced Identity Options Now for Oculus Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11-update-issues-how-to-unstick-a-frozen-system/"><u>Fixing Windows 11 Update Issues: How to Unstick a Frozen System</u></a></li>
+<li><a href="https://win-able.techidaily.com/monitor-your-diet-certain-foods-and-beverages-may-irritate-your-bladder-and-contribute-to-uti-symptoms-limit-intake-of-caffeine-alcohol-spicy-foods-and-arti592/"><u>Monitor Your Diet: Certain Foods and Beverages May Irritate Your Bladder and Contribute to UTI Symptoms. Limit Intake of Caffeine, Alcohol, Spicy Foods, and Artificial Sweeteners, Which Can Potentially Worsen the Condition</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/overcome-windows-11-application-errors-discover-19-reliable-solutions-for-smooth-app-launching/"><u>Overcome Windows 11 Application Errors: Discover 19 Reliable Solutions for Smooth App Launching</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/windows-11-startup-issue-resolved-error-inaccessible-boot-device-prevents-booting/"><u>Windows 11 Startup Issue: Resolved Error - Inaccessible Boot Device Prevents Booting</u></a></li>
 </ul></div>
 

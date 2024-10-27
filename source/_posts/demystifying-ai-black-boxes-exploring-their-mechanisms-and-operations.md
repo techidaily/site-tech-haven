@@ -1,7 +1,7 @@
 ---
 title: "Demystifying AI Black Boxes: Exploring Their Mechanisms & Operations"
-date: 2024-09-02T12:17:49.892Z
-updated: 2024-09-03T12:17:49.892Z
+date: 2024-10-26T17:32:30.932Z
+updated: 2024-10-27T18:27:19.192Z
 tags:
   - chatgpt
   - open-ai
@@ -37,23 +37,6 @@ False news can be categorized into three types:
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -65,14 +48,21 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -85,8 +75,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -103,10 +97,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -119,22 +109,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,4 +134,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-rankings.techidaily.com/4-methodes-untangling-hidden-files-an-easy-guide-to-finding-secrets-with-maps/"><u>[4 Methodes] Untangling Hidden Files: An Easy Guide to Finding Secrets with Maps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-guide-to-engaging-viewers-and-boosting-traffic-on-youtube/"><u>[New] 2024 Approved The Ultimate Guide to Engaging Viewers and Boosting Traffic on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-dream-makers-the-online-marvel-experience-for-2024/"><u>[New] Dream Makers The Online Marvel Experience for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-finding-the-ultimate-cam-choice-post-manycam-for-2024/"><u>[New] Finding the Ultimate Cam Choice Post-ManyCam for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-seamless-sound-synthesis-inshots-audio-guide/"><u>2024 Approved Seamless Sound Synthesis InShot's Audio Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/advanced-ai-for-professional-photography-for-2024/"><u>Advanced AI for Professional Photography for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-strategies-for-climbing-the-corporate-ladder-and-landing-that-dream-role/"><u>ChatGPT Strategies for Climbing the Corporate Ladder and Landing That Dream Role</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/clearing-the-air-between-siri-and-chatgpt-unveiling-their-distinct-features/"><u>Clearing the Air Between Siri and ChatGPT - Unveiling Their Distinct Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparative-insights-on-ai-gpt-against-bing-and-bard/"><u>Comparative Insights on AI: GPT Against Bing & Bard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/craft-instructions-like-a-pro-discover-the-top-7-online-aids/"><u>Craft Instructions Like a Pro: Discover the Top 7 Online Aids</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creative-freedom-vs-tech-titans-sarah-silverman-and-co-challenge-openaimeta/"><u>Creative Freedom Vs. Tech Titans: Sarah Silverman and Co. Challenge OpenAI/Meta</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deceptive-chatbot-plugin-on-chrome-hijacks-your-social-network-logins/"><u>Deceptive Chatbot Plugin on Chrome Hijacks Your Social Network Logins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-gpt-bots-role-in-web-security-and-its-impact-on-accessibility/"><u>Decoding GPT Bot's Role in Web Security and Its Impact on Accessibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-ultimate-battle-of-ai-chatbots-chatgpt-vs-microsoft-bings-new-brain-vs-google-bard/"><u>Decoding The Ultimate Battle of AI Chatbots - ChatGPT Vs Microsoft Bing's New Brain vs Google Bard</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/easily-extract-youtube-content-discover-6-downloading-techniques/"><u>Easily Extract YouTube Content: Discover 6 Downloading Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/eight-witty-pair-play-ideas-that-go-viral-in-messages/"><u>Eight Witty Pair-Play Ideas That Go Viral in Messages</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-vivo-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Vivo using Video Repair Utility on Windows?</u></a></li>
+</ul></div>
 

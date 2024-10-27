@@ -1,7 +1,7 @@
 ---
 title: "Mac Users' Ultimate Walkthrough: Activating Microsoft Copilot Today"
-date: 2024-09-02T12:15:42.703Z
-updated: 2024-09-03T12:15:42.703Z
+date: 2024-10-24T16:50:02.192Z
+updated: 2024-10-27T18:02:07.645Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 * [Getting Started With Microsoft Copilot on Your Mac](https://www.makeuseof.com/how-to-get-microsoft-copilot-on-mac/#getting-started-with-microsoft-copilot-on-your-mac)
 * [The Benefits of Using Copilot Over ChatGPT](https://www.makeuseof.com/how-to-get-microsoft-copilot-on-mac/#the-benefits-of-using-copilot-over-chatgpt)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Mac users can install Microsoft Copilot in two ways: through the App Store on Apple silicon Macs or as a web app on Intel Macs.
@@ -34,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
 ![Microsoft Copilot on the App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-on-the-app-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  If you have an Apple silicon Mac, you're in luck because you can install and run the iPad version of Microsoft Copilot on your computer. Here's how:
 
 1. Launch the**App Store** app on your Mac from the Dock, Launchpad, or[the Applications folder in Finder](https://www.makeuseof.com/applications-folder-mac/) .
@@ -56,30 +60,36 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 2. Select**All Shortcuts** from the left sidebar and click the**plus (+)** button in the toolbar at the top of the window to create a new shortcut.  
 ![Adding a new shortcut in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-a-new-shortcut-in-macos.jpg)
 3. Drag the**Open App** action from the right sidebar to the empty space on the left.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Click the blue**App** field and use the search bar to find and select**Copilot** .  
 ![Creating a simple Open app shortcut to quickly open Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/creating-a-simple-open-app-shortcut-to-quickly-open-copilot.jpg)
 5. Next, switch to the**Info (i)** tab of the sidebar and click**Add Keyboard Shortcut** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![Assigning a custom keyboard shortcut to launch Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-launch-copilot.jpg)
 6. Now, enter a key combination you like, but make sure it doesn't overlap with any other[useful Mac keyboard shortcuts](https://www.makeuseof.com/tag/useful-mac-osx-shortcuts-pdf/) . Then, hit the**Return** key.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install Microsoft Copilot as a Web App on Your Mac
 
@@ -102,18 +112,14 @@ No advertising on the website.
 2. Next, click the**ellipsis (...)** icon in the top-right corner of the window and choose**Show All Tones** to customize Copilot's responses.  
 ![Enabling GPT-4 in Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/enabling-gpt-4-in-copilot.jpg)
 3. You can choose from**Creative** ,**Balanced** , and**Precise** . By default, it's set to**Creative** , which gets you descriptive responses. I use the**Precise** setting as I prefer concise responses with only the facts that I need.  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Changing tone in the Copilot app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/changing-tone-in-the-copilot-app.jpg)
 4. Additionally, you can click**Sign in** in the top-left corner of the window and log in with your Microsoft account. This allows you to ask more questions and have longer conversations with the AI chatbot.
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At this point, you're all set to use Copilot on your Mac at its full potential. If you want to make further tweaks, click the**three-line** icon in the top-left corner to access the app's settings menu. Here, you can change the theme, region and language, permissions, and privacy settings for Copilot.
@@ -128,14 +134,11 @@ No advertising on the website.
 
  It's also worth noting that ChatGPT doesn't let you change the tone of its responses like Copilot. All in all, if you want the best AI chatbot experience on your Mac without having to spend a penny, Microsoft Copilot is your best bet—at least for now.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +147,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-guide-to-instagram-video-backup-with-computer-or-laptop/"><u>[New] In 2024, Guide to Instagram Video Backup with Computer or Laptop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sneak-a-peek-at-c-span-archives/"><u>[Updated] Sneak a Peek at C-Span Archives</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlock-the-power-of-personal-branding-insider-secrets-for-flawless-biographies-for-2024/"><u>[Updated] Unlock the Power of Personal Branding Insider Secrets for Flawless Biographies for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-best-of-both-worlds-youtubes-vr-gems/"><u>2024 Approved Best of Both Worlds YouTube’s VR Gems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpt-enterprise-features-benefits-and-distinct-advantages/"><u>Exploring ChatGPT Enterprise: Features, Benefits, and Distinct Advantages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-essence-of-hugging-face/"><u>Exploring the Essence of Hugging Face</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-basic-to-breakthrough-mondlys-english-journey/"><u>From Basic to Breakthrough: Mondly's English Journey</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-accessing-and-installing-the-latest-add-ons-on-chatgpt/"><u>Guide: Accessing and Installing the Latest Add-Ons on ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-revolutionizes-novel-creation-a-guide-with-9-key-tips/"><u>How ChatGPT Revolutionizes Novel Creation: A Guide with 9 Key Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-security-concerns-within-the-chatgpt-platform/"><u>Identifying Security Concerns Within the ChatGPT Platform</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-dive-into-design-get-a-complimentary-set-of-50-banner-pieces/"><u>In 2024, Dive Into Design Get a Complimentary Set of 50 Banner Pieces</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-hero-series-clash-with-polaroid-cube-which-wins/"><u>In 2024, GoPro Hero Series Clash with Polaroid Cube Which Wins?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lava-blaze-2-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Lava Blaze 2 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-redmi-13c-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi Redmi 13C to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-techniques-to-fuse-chatgpt-functionality-into-whatsapp-customer-assistance/"><u>Innovative Techniques to Fuse ChatGPT Functionality Into WhatsApp Customer Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-there-a-characterword-limit-on-chatgpts-answers/"><u>Is There a Character/Word Limit on ChatGPT's Answers?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpts-power-to-develop-professional-and-dynamic-presentations/"><u>Leveraging ChatGPT's Power to Develop Professional and Dynamic Presentations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-writing-the-ultimate-guide-to-creating-powerful-chatgpt-queries/"><u>Mastering the Art of Writing: The Ultimate Guide to Creating Powerful ChatGPT Queries</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oneplus-12-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from OnePlus 12</u></a></li>
+</ul></div>
 

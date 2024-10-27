@@ -1,7 +1,7 @@
 ---
 title: "Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch From ZDNet"
-date: 2024-10-17T21:47:05.550Z
-updated: 2024-10-21T17:03:47.754Z
+date: 2024-10-24T18:53:39.968Z
+updated: 2024-10-27T18:49:43.001Z
 tags:
   - apple
 categories:
@@ -40,18 +40,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -69,25 +69,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -99,11 +85,25 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -114,10 +114,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -162,14 +162,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-story-perfection-seamless-emoji-integration-techniques/"><u>[Updated] 2024 Approved Instagram Story Perfection Seamless Emoji Integration Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-live-stream-magic-setting-up-logitech-cam-for-videos-for-2024/"><u>[Updated] Live-Stream Magic Setting Up Logitech Cam for Videos for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-bundles-for-yi-4k-videographers-for-2024/"><u>[Updated] The Ultimate Bundles for YI 4K Videographers for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-11-proplus-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dont-miss-out-pre-order-the-latest-apple-watch-series-ve-special-offers-and-guides-to-saving-money-zdnet/"><u>Don't Miss Out! Pre-Order the Latest Apple Watch Series Ve Special Offers & Guides to Saving Money | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/environmental-education-promotes-awareness-and-understanding-of-environmental-issues-among-the-public-fostering-a-culture-of-conservation/"><u>Environmental Education Promotes Awareness and Understanding of Environmental Issues Among the Public, Fostering a Culture of Conservation.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/esr-halolock-innovation-unveiled-multi-card-wallet-with-adjustable-support-ideal-for-iphones-zdnet-insider-report/"><u>ESR HaloLock Innovation Unveiled: Multi-Card Wallet with Adjustable Support, Ideal for iPhones - ZDNET Insider Report</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-12r-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus 12R Phone FRP Lock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protecting-your-gadgets-uncover-the-risks-of-a-common-battery-safety-mechanism-in-airtags-and-more-solutions-inside/"><u>Protecting Your Gadgets: Uncover the Risks of a Common Battery Safety Mechanism in AirTags and More – Solutions Inside</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-masterclass-in-glamour-beauty-tutorials-for-all/"><u>[New] Masterclass in Glamour Beauty Tutorials for All</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-revolutionizing-facebook-advertising-through-creative-insight-for-2024/"><u>[New] Revolutionizing Facebook Advertising Through Creative Insight for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-tecno-pova-5-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Tecno Pova 5 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/counteracting-ai-mimicry-with-nightshades-artistic-shield/"><u>Counteracting AI Mimicry with Nightshade's Artistic Shield</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-engaging-slideshows-with-chatgpt-tips-and-techniques/"><u>Crafting Engaging Slideshows with ChatGPT: Tips and Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-efficient-ai-powered-mobile-search-via-bing-app/"><u>Discover Efficient AI-Powered Mobile Search via Bing App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-7-best-smart-tools-using-artificer-intelligence-to-craft-engaging-presentations/"><u>Discover the 7 Best Smart Tools Using Artificer Intelligence to Craft Engaging Presentations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-the-heartbeat-of-creativity-in-chatgpts-world/"><u>Discovering the Heartbeat of Creativity in ChatGPT's World</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-techniques-to-incorporate-chatgpt-into-remote-workspace-assemblies/"><u>Effective Techniques to Incorporate ChatGPT Into Remote Workspace Assemblies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-search-game-with-microsofts-bing-and-next-gen-ai-innovations/"><u>Elevate Your Search Game with Microsoft's Bing and Next-Gen AI Innovations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-these-7-innovative-programming-tools-ideal-options-instead-of-chatgpt/"><u>Explore These 7 Innovative Programming Tools - Ideal Options Instead of ChatGPT</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-s18-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/five-tips-to-reignite-the-print-on-your-canon-printer-in-windows-11-os/"><u>Five Tips to Reignite the Print on Your Canon Printer in Windows 11 OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-12-pro-max-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 12 Pro Max Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-moto-g84-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Moto G84 5G Device</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/top-mobile-apps-for-converting-videos-to-audio-files-2023-update-for-2024/"><u>Top Mobile Apps for Converting Videos to Audio Files (2023 Update) for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-10-podcasting-audio-to-text-transcription-software/"><u>Updated Top 10 Podcasting Audio to Text Transcription Software</u></a></li>
 </ul></div>
 

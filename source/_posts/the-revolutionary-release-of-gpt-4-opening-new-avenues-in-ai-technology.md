@@ -1,7 +1,7 @@
 ---
 title: "The Revolutionary Release of GPT-4: Opening New Avenues in AI Technology"
-date: 2024-09-02T12:14:55.225Z
-updated: 2024-09-03T12:14:55.225Z
+date: 2024-10-25T16:58:05.348Z
+updated: 2024-10-27T18:18:17.105Z
 tags:
   - chatgpt
   - open-ai
@@ -48,8 +48,12 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
@@ -57,15 +61,16 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  Here, you must fill in the following information:
 
 1. A title clearly and briefly describing the vulnerability
@@ -80,14 +85,15 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Which Vulnerabilities Are Eligible for Rewards?
 
  You will be rewarded for any security, functionality, performance, and documentation vulnerability you find in api.openai.com, third-party targets, ChatGPT, ChatGPT plugins, <https://openai.org>, \*/openai.org, OpenAI API keys, openai.com, \*/openai.com, and developer platform playground.
@@ -97,8 +103,12 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Earn Money While Improving OpenAI's Systems
 
  OpenAI's bug bounty program is a great way for you—as an ethical hacker, security researcher, or tech enthusiast—to earn while improving the firm's AI systems.
@@ -109,14 +119,11 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
  On April 11, 2023, OpenAI announced a bug bounty program as part of its commitment to developing reliable, secure, and advanced AI systems, and anyone with the right skill set can potentially help out.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +132,20 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-expertly-navigate-the-cloud-of-content-with-best-screen-recording-tools/"><u>[New] 2024 Approved Expertly Navigate the Cloud of Content with Best Screen Recording Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-step-by-step-crafting-professional-valorant-thumbnails-for-youtube/"><u>[New] 2024 Approved Step-by-Step Crafting Professional Valorant Thumbnails for Youtube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-crafting-a-non-ad-revenue-stream-on-youtube-the-self-sustaining-creators-tale/"><u>[Updated] 2024 Approved Crafting a Non-Ad Revenue Stream on YouTube The Self-Sustaining Creator’s Tale</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-grid-mastery-in-photos-with-our-select-apps/"><u>[Updated] Grid Mastery in Photos with Our Select Apps</u></a></li>
+<li><a href="https://driver-error.techidaily.com/boost-hat-performance-update-to-win11-driver/"><u>Boost HAT Performance: Update to Win11 Driver</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ng-elegance-into-news-summations/"><u>Editing Elegance Into News Summations</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-redmi-k70-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Redmi K70</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-tools-for-conversing-with-your-files-interact-using-chatbot-ai/"><u>Top 6 Tools for Conversing with Your Files: Interact Using Chatbot AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-criteria-for-selecting-online-language-bots-as-a-freelancer/"><u>Top 8 Criteria for Selecting Online Language Bots as a Freelancer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-job-interviews-how-to-employ-chatgpt-for-optimal-performance/"><u>Transforming Job Interviews: How to Employ ChatGPT for Optimal Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-claude-3-capabilities-and-how-tos-unveiled/"><u>Understanding CLAUDE 3: Capabilities & How-To's Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-limitations-exploring-why-modern-gpt-3-alternatives-lack-unauthorized-modifications/"><u>Understanding the Limitations: Exploring Why Modern GPT-3 Alternatives Lack Unauthorized Modifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-google-smart-tv-stick-announced-unveiling-features-anticipated-cost-and-launch-timeline/"><u>Upcoming Google Smart TV Stick Announced – Unveiling Features, Anticipated Cost & Launch Timeline</u></a></li>
+</ul></div>
 

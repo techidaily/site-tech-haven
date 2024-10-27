@@ -1,7 +1,7 @@
 ---
 title: "Discover How the Affordable Anker Power Bank Revolutionized Portable Charging: Expert Reviews & Tips on ZDNET"
-date: 2024-10-19T21:54:43.868Z
-updated: 2024-10-21T17:08:11.967Z
+date: 2024-10-21T17:27:57.432Z
+updated: 2024-10-27T16:44:22.787Z
 tags:
   - apple
 categories:
@@ -38,6 +38,19 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 Lipstick-sized charger
 
@@ -64,10 +77,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impressive charging power for its size
@@ -79,10 +92,10 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -97,22 +110,15 @@ Sabrina Ortiz/ZDNET
 
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2488b094-9450-45fb-96b8-b3bc91f52db2%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -149,20 +155,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-budget-devices-superior-obs-setup-guide/"><u>[Updated] 2024 Approved Budget Devices - Superior OBS Setup Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-quick-guide-to-softening-youtube-videos-surroundings/"><u>[Updated] 2024 Approved Quick Guide to Softening YouTube Videos' Surroundings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-premier-10-battle-royale-challenges/"><u>[Updated] In 2024, Premier 10 Battle Royale Challenges</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-source-unlimited-stock-media-from-top-tier-4-youtube-channels-for-2024/"><u>[Updated] Source Unlimited Stock Media From Top-Tier 4 YouTube Channels for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-let-loose-event-highlights-the-revolutionary-m4-ipad-pro-slimmer-13-inch-ipad-air-and-improved-apple-pencil-pro-revealed-detailed-coverage-gadgetpund12/"><u>Apple's 'Let Loose' Event Highlights: The Revolutionary M4 iPad Pro, Slimmer 13-Inch iPad Air & Improved Apple Pencil Pro Revealed - Detailed Coverage | GadgetPundit.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-apple-watchs-endurance-top-8-essential-settings-tweaks-for-extended-battery-life-insights/"><u>Boost Your Apple Watch's Endurance: Top 8 Essential Settings Tweaks for Extended Battery Life - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-list-apple-watch-os-11-compatibility-models-included-and-excluded/"><u>Comprehensive List: Apple Watch OS 11 Compatibility - Models Included and Excluded</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-overview-of-the-latest-innovations-revealed-by-apple-in-its-scary-fast-october-showcase-what-you-need-to-know/"><u>Comprehensive Overview of the Latest Innovations Revealed by Apple in Its 'Scary Fast' October Showcase: What You Need to Know!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cooler-master-corrects-ai-thermal-paste-mistake-the-real-story-behind-the-cryofuze-5/"><u>Cooler Master Corrects AI Thermal Paste Mistake: The Real Story Behind the CryoFuze 5</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-apples-recent-takeover-what-it-signals-for-an-upcoming-smartphone-revolution-powered-by-artificnial-intelligence-zdnet/"><u>Decoding Apple's Recent Takeover: What It Signals for an Upcoming Smartphone Revolution Powered by Artificnial Intelligence | ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ios-update-1751-fixes-glitch-reviving-deleted-images-on-devices-tech-insights/"><u>IOS Update 17.5.1 Fixes Glitch Reviving Deleted Images on Devices - Tech Insights</u></a></li>
-<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/mastering-incremental-backups-a-comprehensive-tutorial-for-windows-users/"><u>Mastering Incremental Backups: A Comprehensive Tutorial for Windows Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimizing-zoom-videos-essential-3-part-methodology-for-2024/"><u>Optimizing Zoom Videos Essential 3-Part Methodology for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-unseen-obstacles-of-crafting-genuine-intellect-how-apple-and-samsung-cast-doubt-over-microsofts-ai-ambitions-insight/"><u>The Unseen Obstacles of Crafting Genuine Intellect: How Apple & Samsung Cast Doubt over Microsoft's AI Ambitions Insight</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-10-action-cams-steady-shooting-excellence/"><u>[New] Best 10 Action Cams Steady Shooting Excellence</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-supercharge-your-tweet-views-for-flawless-hd/"><u>[New] In 2024, Supercharge Your Tweet Views for Flawless HD</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-innovators-defining-the-future-of-virtual-realms/"><u>[Updated] In 2024, Innovators Defining the Future of Virtual Realms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-a-step-by-step-approach-to-documenting-every-exciting-moment-on-discord/"><u>2024 Approved A Step-by-Step Approach to Documenting Every Exciting Moment on Discord</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-digital-storyboard-studio/"><u>2024 Approved Digital Storyboard Studio</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-reasons-against-using-generative-ai-in-messaging-apps/"><u>7 Reasons Against Using Generative AI in Messaging Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722137513253-affordable-mobiles-expensive-cyber-threats-battling-ransomware-join-the-chatgpt-podcast-conversation/"><u>Affordable Mobiles, Expensive Cyber Threats: Battling Ransomware - Join the ChatGPT Podcast Conversation!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-for-the-enterprise-how-chatgpt-drives-efficiency/"><u>AI for the Enterprise: How ChatGPT Drives Efficiency</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/blitz-30-second-guide-to-fast-thumbnails-for-2024/"><u>Blitz 30-Second Guide to Fast Thumbnails for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721838632128-faux-chatgpt-browser-tool-targeting-facebook-logins-stay-alert/"><u>Faux ChatGPT Browser Tool Targeting Facebook Logins – Stay Alert</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-secrecys-bounty-the-elusive-online-auctions-of-2023-artifacts/"><u>In 2024, Secrecy's Bounty The Elusive Online Auctions of 2023 Artifacts</u></a></li>
 </ul></div>
 

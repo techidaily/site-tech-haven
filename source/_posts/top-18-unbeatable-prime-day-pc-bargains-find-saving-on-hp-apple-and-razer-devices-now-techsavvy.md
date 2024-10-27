@@ -1,7 +1,7 @@
 ---
 title: Top 18 Unbeatable Prime Day PC Bargains - Find Saving on HP, Apple & Razer Devices Now | TechSavvy
-date: 2024-10-16T19:32:00.486Z
-updated: 2024-10-21T20:04:23.535Z
+date: 2024-10-22T17:33:01.361Z
+updated: 2024-10-27T18:44:03.352Z
 tags:
   - apple
 categories:
@@ -75,13 +75,6 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727002800000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -89,6 +82,13 @@ Asus/ZDNET
 * [Acer Chromebook Plus 514 for $319 (Save $80)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Chromebook-Plus-Laptop-Google%2Fdp%2FB0CX28KX1N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1): This Chromebook Plus from Acer is a step up from other Chromebooks, with a Full-HD touchscreen and Google's Gemini. It also comes with 2TB of cloud storage free for 12 months.
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Prime Day MacBook deals
 
@@ -107,10 +107,10 @@ HPZDNET
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
@@ -119,6 +119,13 @@ Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -129,13 +136,6 @@ Kyle Kucharski/ZDNET
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -145,16 +145,10 @@ Kyle Kucharski/ZDNET
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -167,6 +161,19 @@ Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals con
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
@@ -176,13 +183,6 @@ Even though Amazon isn't typically the first place you think of when you're shop
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When will these deals expire?
 
@@ -251,18 +251,24 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-future-of-mobile-photography-with-xiaomis-mi-11/"><u>[New] 2024 Approved The Future of Mobile Photography with Xiaomi's Mi 11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ideal-no-ads-screencap-maker-for-phones/"><u>[New] In 2024, Ideal No-Ads Screencap Maker for Phones</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-quick-and-quiet-recording-of-games/"><u>[New] Quick and Quiet Recording of Games</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-understanding-and-utilizing-igtv-for-enhanced-engagement-for-2024/"><u>[New] Understanding and Utilizing IGTV for Enhanced Engagement for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-vision-pro-supply-shortage-current-status-and-expected-delays/"><u>Apple Vision Pro Supply Shortage: Current Status & Expected Delays</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-2022-mobile-gaming-experience-top-phones-for-gamers/"><u>Discover the Ultimate 2022 Mobile Gaming Experience Top Phones for Gamers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-c53-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme C53 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/independence-day-deal-alert-score-apples-top-rated-airpods-at-a-steal-with-40-off-insights/"><u>Independence Day Deal Alert: Score Apple's Top-Rated AirPods at a Steal with $40 Off | Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ipad-compatibility-alert-potential-brickage-risks-when-updating-to-ios-etieight-expert-advice-before-installing/"><u>IPad Compatibility Alert: Potential Brickage Risks When Updating to iOS ˈeɪtiEIGHT | Expert Advice Before Installing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-setting-up-your-new-apple-watch-tips-from-zdnet/"><u>Step-by-Step Guide to Setting Up Your New Apple Watch - Tips From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-cutting-edge-technology-presents-explore-the-latest/"><u>Top 10 Cutting-Edge Technology Presents - Explore the Latest</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-advanced-productivity-features-by-combining-onlyoffice-docspace-with-the-power-of-chnaghpt-technology/"><u>Unlocking Advanced Productivity Features by Combining ONLYOFFICE DocSpace with the Power of Chnaghpt Technology</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-edit-your-video-with-youtube-studio-editor/"><u>[New] How to Edit Your Video with YouTube Studio Editor</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-tapping-into-youtubes-creative-commons-for-video-creators/"><u>[New] In 2024, Tapping Into YouTube's Creative Commons for Video Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-comparing-reels-and-stories-whats-the-best-choice/"><u>[Updated] In 2024, Comparing Reels & Stories What's the Best Choice?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-video-playback-with-youtubes-latest-feature-av1/"><u>2024 Approved Elevate Video Playback with YouTube's Latest Feature - AV1</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-nikon-j5-and-its-breakthrough-in-4k-video-technology/"><u>2024 Approved Nikon J5 and Its Breakthrough in 4K Video Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-there-security-flaws-in-chatgpt/"><u>Are There Security Flaws in ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/augmented-challenges-the-future-of-ai-security/"><u>Augmented Challenges: The Future of AI Security</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-chatgpt-compromise-your-personal-data-security/"><u>Can ChatGPT Compromise Your Personal Data Security?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-motorola-edge-40-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Motorola Edge 40?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/changing-tides-in-academia-has-ai-innovation-outpaced-traditional-essay-assignments/"><u>Changing Tides in Academia: Has AI Innovation Outpaced Traditional Essay Assignments?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-usage-balancing-progress-and-security/"><u>ChatGPT Usage: Balancing Progress and Security</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-bings-ai-chatbot-10-key-differences/"><u>ChatGPT Vs. Bing's AI Chatbot: 10 Key Differences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-giants-in-ai-can-claude-challenge-chatgpt-for-the-title-of-best-chatting-bot/"><u>Comparing Giants in AI: Can Claude Challenge ChatGPT for the Title of Best Chatting Bot?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-review-testing-the-mistral-ais-le-chat-against-chatgpt-detailed-comparison/"><u>Comprehensive Review: Testing the Mistral AI's Le Chat Against ChatGPT - Detailed Comparison</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-italys-recent-decision-to-halt-access-to-chatgpt-effectively-and-abruptly/"><u>Decoding Italy's Recent Decision to Halt Access to ChatGPT Effectively and Abruptly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-free-video-transcoding-switch-your-media-to-compatible-formats-for-nokia-lumia-n-series-and-x-series-devices/"><u>Effortless Free Video Transcoding: Switch Your Media to Compatible Formats for Nokia, Lumia, N-Series & X-Series Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/streamlining-your-device-ios-15-update/"><u>Streamlining Your Device: IOS 15 Update</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-perfect-fusion-in-depth-look-at-the-skagen-falster-3s-cutting-edge-features-meet-traditional-charm/"><u>The Perfect Fusion: In-Depth Look at the Skagen Falster 3'S Cutting Edge Features Meet Traditional Charm</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-ethernet-connectivity-problems-in-windows-11-and-windows-7/"><u>Troubleshooting Ethernet Connectivity Problems in Windows 11 and Windows 7</u></a></li>
 </ul></div>
 

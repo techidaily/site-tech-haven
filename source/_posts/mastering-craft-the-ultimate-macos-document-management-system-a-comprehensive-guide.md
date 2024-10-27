@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Management System - A Comprehensive Guide"
-date: 2024-10-15T20:38:26.224Z
-updated: 2024-10-21T16:51:57.005Z
+date: 2024-10-22T16:24:11.723Z
+updated: 2024-10-27T16:04:41.713Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,16 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -86,16 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -146,24 +134,24 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-get-close-or-farther-with-ease-on-instagram-stories-for-2024/"><u>[Updated] Get Close or Farther with Ease on Instagram Stories for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-telegrams-wonders-for-marketers-beginning-their-journey/"><u>[Updated] Telegram’s Wonders for Marketers Beginning Their Journey</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unraveling-the-secrets-to-gently-fading-audio-in-audacity/"><u>[Updated] Unraveling the Secrets to Gently Fading Audio in Audacity</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensible-guide-to-reviving-stuck-windows-itunes/"><u>A Comprehensible Guide to Reviving Stuck Windows iTunes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-improved-in-store-trials-of-apple-vision-pro-insider-tips-on-scheduling-yours-zdnet/"><u>Discover Improved In-Store Trials of Apple Vision Pro - Insider Tips on Scheduling Yours | ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-new-possibilities-the-best-5-experiments-to-enjoy-with-ios-18-public-preview/"><u>Discover New Possibilities: The Best 5 Experiments to Enjoy with iOS 18 Public Preview!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/get-a-bargain-elevate-your-apple-watch-style-with-the-discounted-powerband-at-just-40-featured-in-zdnet/"><u>Get a Bargain: Elevate Your Apple Watch Style with the Discounted PowerBand at Just $40 - Featured in ZDNet!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-track-to-optimizing-adobe-and-selective-non-adobe-solutions/"><u>In 2024, Inside Track to Optimizing Adobe and Selective Non-Adobe Solutions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-examination-of-the-ergohead-anti-fatigue-standing-desk-accessory-for-durable-comfort/"><u>In-Depth Examination of the Ergohead Anti Fatigue Standing Desk Accessory for Durable Comfort</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-ears-ahead-apples-potential-airpods-with-cameras-set-for-a-futuristic-launch-in-2026-exclusive-zdnet-report/"><u>Innovative Ears Ahead? Apple's Potential AirPods with Cameras Set for a Futuristic Launch in 2026 - Exclusive ZDNet Report</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-iphone-long-exposure-a-comprehensive-guide-for-2024/"><u>Mastering iPhone Long Exposure A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimal-mac-management-software-of-the-year-expertly-curated-selections-for-peak-performance/"><u>Optimal Mac Management Software of the Year: Expertly Curated Selections for Peak Performance</u></a></li>
-<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tech-update-how-apple-is-pioneering-budget-friendly-vision-headsets-and-ar-glasses-according-to-zdnet-research/"><u>Tech Update: How Apple Is Pioneering Budget-Friendly Vision Headsets and AR Glasses, According to ZDNet Research</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-asus-rog-phone-7-ultimate-frp-by-drfone-android/"><u>The Updated Method to Bypass Asus ROG Phone 7 Ultimate FRP</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-apple-watch-models-comprehensive-testing-and-reviews-by-professionals-techradar/"><u>Top Rated Apple Watch Models : Comprehensive Testing & Reviews by Professionals | TechRadar</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-ranking-wet-proof-smart-timepieces-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking Wet-Proof Smart Timepieces : Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-mini-tablet-picks-comprehensive-comparisons-and-reviews-by-tech-experts-at-zdnet/"><u>Top-Rated Mini Tablet Picks - Comprehensive Comparisons & Reviews by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-users-save-your-keys-from-failure/"><u>Windows Users: Save Your Keys From Failure</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-creator-to-earnings-successful-youtube-short-strategies-for-2024/"><u>[New] From Creator to Earnings Successful YouTube Short Strategies for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mixing-tunes-with-videos-on-vimeo-platform-for-2024/"><u>[New] Mixing Tunes with Videos on Vimeo Platform for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1724765636987-2024/"><u>「オフラインでも続く、2024年のお勧めミュージックアプリ - 通信量は心配いらない」</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/movavi-mka-to-aac/"><u>無縫移動：如何免費使用Movavi 進行 MKA to AAC 的在線音頻格式轉換</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722118515473-bring-your-mobile-experience-upgrade-with-bings-new-ai-search-feature-for-iosandroid-devices/"><u>Bring Your Mobile Experience Upgrade with Bing's New AI Search Feature for iOS/Android Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722122779069-chatgpt-surprises-with-gaming-fun-check-out-these-exceptional-game-picks-for-non-stop-entertainment/"><u>ChatGPT Surprises with Gaming Fun! Check Out These Exceptional Game Picks for Non-Stop Entertainment</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-s17t-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo S17t Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-non-responsive-google-chrome-errors-effectively/"><u>How to Resolve Non-Responsive Google Chrome Errors Effectively</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-vintage-film-effect-1980s-how-to-create/"><u>In 2024, Vintage Film Effect 1980S - How to Create</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-missing-touchscreen-controls-and-virtual-keyboard-accessibility/"><u>Resolved Issue: Missing Touchscreen Controls and Virtual Keyboard Accessibility</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-jedi-fallen-order-solving-the-issue-of-failed-launch/"><u>Star Wars Jedi: Fallen Order - Solving the Issue of Failed Launch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-computers-processor-drivers-on-windows/"><u>Step-by-Step Guide: Updating Your Computer's Processor Drivers on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-threats-behind-installing-gpt-on-devices/"><u>The Threats Behind Installing GPT on Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/these-9-fake-chatgpt-virus-and-malware-apps-can-steal-your-data/"><u>These 9 Fake ChatGPT Virus and Malware Apps Can Steal Your Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-must-have-ai-chatbot-plugins-for-visual-studio-code/"><u>Top 6 Must-Have AI Chatbot Plugins for Visual Studio Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-premier-platforms-for-accessing-artificial-intelligence-driven-prompts/"><u>Top 7 Premier Platforms for Accessing Artificial Intelligence-Driven Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unanswerable-inquiries-in-language-models/"><u>Unanswerable Inquiries in Language Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-implications-for-privacy-when-interacting-with-chatgpt/"><u>Understanding the Implications for Privacy When Interacting with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-leap-forward-in-ai-an-insight-into-googles-palm-2-model/"><u>Understanding the Leap Forward in AI: An Insight Into Google's PaLM 2 Model</u></a></li>
 </ul></div>
 

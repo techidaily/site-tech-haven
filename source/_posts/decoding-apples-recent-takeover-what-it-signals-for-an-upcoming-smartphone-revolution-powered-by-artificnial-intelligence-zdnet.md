@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple's Recent Takeover: What It Signals for an Upcoming Smartphone Revolution Powered by Artificnial Intelligence | ZDNET"
-date: 2024-10-16T21:36:24.451Z
-updated: 2024-10-21T20:56:25.803Z
+date: 2024-10-20T16:26:34.911Z
+updated: 2024-10-27T16:05:30.842Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What does Apple Intelligence do?
 
 Apple
@@ -55,13 +62,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -77,13 +77,6 @@ With context on what is on your iPhone, iPad, or Mac and screen awareness, Siri 
 The voice assistant will also be able to perform hundreds of new actions across Apple and third-party apps, like opening articles from a Reading List or looking up a specific photo in your library. 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
 
@@ -110,10 +103,10 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -156,6 +149,19 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -172,10 +178,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -218,18 +224,21 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/1716069268346-new-in-2024-top-tickles-for-young-game-fans/"><u>[New] In 2024, Top Tickles for Young Game Fans!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-best-tools-to-track-popular-tags-on-fb-twt-and-ig-networks/"><u>[Updated] Best Tools to Track Popular Tags on FB, Twt & IG Networks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-visual-storytelling-support-center/"><u>[Updated] In 2024, Visual Storytelling Support Center</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-selecting-superior-free-srt-translation-apps-today/"><u>2024 Approved Selecting Superior Free SRT Translation Apps Today</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-tv-show-prep-which-software-winsvirusmix-or-wirecast/"><u>2024 Approved The Ultimate TV Show Prep Which Software Wins—VirusMix or WireCast?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-uag-devices-with-durable-apple-watch-bands-and-protective-samsung-z-fold-4-cases-explore-top-picks-on-zdnet/"><u>Enhance Your UAG Devices with Durable Apple Watch Bands & Protective Samsung Z Fold 4 Cases - Explore Top Picks on ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-xiaomi-redmi-k70-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Xiaomi Redmi K70 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ipad-pro-vs-macbook-air-comparing-performance-and-features-for-your-perfect-choice/"><u>IPad Pro Vs. MacBook Air - Comparing Performance and Features for Your Perfect Choice</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/non-detection-of-video-adapter/"><u>Non-Detection of Video Adapter</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tech-spotlight-on-ultra-compact-innovation-can-the-new-mac-minis-m4-cpu-challenge-the-apple-tv-in-tiny-form-factor-expert-analysis-by-zdnet/"><u>Tech Spotlight on Ultra-Compact Innovation: Can the New Mac Mini's M4 CPU Challenge the Apple TV in Tiny Form Factor? | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-locating-your-airpods-and-ensuring-they-stay-put-in-the-future-zdnet/"><u>The Ultimate Guide to Locating Your AirPods and Ensuring They Stay Put in the Future | ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/to-upgrade-or-not-zdnet-experts-weigh-in-on-iphone-16-pros-and-cons/"><u>To Upgrade or Not: ZDNet Experts Weigh in on iPhone 16 Pros & Cons</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/upgrade-dilemma-comparing-the-latest-macbook-procs-which-is-superior-m3-or-m2/"><u>Upgrade Dilemma: Comparing the Latest MacBook Procs - Which Is Superior, M3 or M2?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-budget-game-design-tools-and-software-for-aspiring-developers/"><u>[New] Budget Game Design Tools and Software for Aspiring Developers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-avi-to-gif-transformation-using-filmora-for-both-oses/"><u>[Updated] The Ultimate Guide to AVI-to-GIF Transformation Using Filmora for Both OSes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-srt-editing-on-macos-a-comprehensive-guide/"><u>2024 Approved Mastering SRT Editing on macOS A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-impact-on-psychological-well-being-prospects-and-challenges/"><u>AI's Impact on Psychological Well-Being: Prospects and Challenges</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-role-in-advancing-research-endeavors/"><u>AI's Role in Advancing Research Endeavors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/androids-voice-controlled-gpt-experience-begins-here/"><u>Android's Voice Controlled GPT Experience Begins Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-generative-ai-models-turning-into-weapons-of-misinformation/"><u>Are Generative AI Models Turning Into Weapons of Misinformation?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/automating-mundane-hr-tasks-through-gpt/"><u>Automating Mundane HR Tasks Through GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-practices-for-avoiding-writing-gaffes-with-chatgpt/"><u>Best Practices for Avoiding Writing Gaffes with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-20-proven-prompts-that-will-transform-your-ai-experience-curated-by-github-enthusiasts/"><u>ChatGPT Mastery: 20 Proven Prompts That Will Transform Your AI Experience – Curated by GitHub Enthusiasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/fundamentals-of-digital-tale-construction/"><u>Fundamentals of Digital Tale Construction</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-11-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus 11 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unearthing-the-skies-hubsan-h501x4-quad-drone-analysis/"><u>In 2024, Unearthing the Skies Hubsan H501X4 Quad Drone Analysis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/streamers-checklist-secure-video-ad-revenue-for-2024/"><u>Streamer's Checklist Secure Video Ad Revenue for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/utilizing-volume-decrease-effects-within-audacity/"><u>Utilizing Volume Decrease Effects Within Audacity</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-s24-ultra-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy S24 Ultra? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

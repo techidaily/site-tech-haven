@@ -1,7 +1,7 @@
 ---
 title: "Bard Raised to New Heights: The 7 Exciting Features Boosted by PaLM 2 Technology"
-date: 2024-09-02T12:17:41.331Z
-updated: 2024-09-03T12:17:41.331Z
+date: 2024-10-20T18:45:02.628Z
+updated: 2024-10-27T18:33:43.949Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -48,9 +55,12 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to [join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -62,8 +72,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -78,8 +92,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,4 +99,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-quietest-cool-memes-on-the-web/"><u>[New] In 2024, The Quietest Cool Memes on the Web</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ethods-for-eliminating-invisible-youtube-playback/"><u>[New] Methods for Eliminating Invisible YouTube Playback</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-youtube-masterclass-choose-your-development-stage/"><u>2024 Approved YouTube Masterclass Choose Your Development Stage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-muse-discovering-the-5-best-writing-helpers/"><u>Artificial Muse: Discovering the 5 Best Writing Helpers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722119857126-avoid-downloading-the-malicious-google-bard-program-its-a-risk/"><u>Avoid Downloading the Malicious Google Bard Program - It's a Risk!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-y100i-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo Y100i is off? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722197378607-chatgpt-desktop-release-delayed-discover-an-exceptional-open-source-chatbot-as-your-alternative/"><u>ChatGPT Desktop Release Delayed? Discover an Exceptional Open-Source Chatbot as Your Alternative</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-xs-max-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone XS Max with iTunes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-poco-c55-devices-by-drfone-android/"><u>How to Reset Gmail Password on Poco C55 Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-journey-through-ingenious-animated-texts-top-14-snapshots/"><u>In 2024, Journey Through Ingenious Animated Texts Top 14 Snapshots</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-why-choose-fongo-as-your-preferred-voip-solution/"><u>In-Depth Review: Why Choose Fongo as Your Preferred VoIP Solution?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722181629875-safeguard-your-affections-from-ai-enhanced-romance-hoaxes-top-vehicle-of-scams-in-todays-digital-age-and-how-they-can-be-spotted/"><u>Safeguard Your Affections From AI-Enhanced Romance Hoaxes: Top Vehicle of Scams in Today's Digital Age, and How They Can Be Spotted</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722100101575-sham-tech-outsmarted-keep-your-data-secure-from-fakes/"><u>Sham Tech Outsmarted: Keep Your Data Secure From Fakes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voice-controlled-ai-at-your-fingertips-integrating-voicegpt-with-chat-functionality-into-android-devices/"><u>Voice-Controlled AI at Your Fingertips: Integrating VoiceGPT with Chat Functionality Into Android Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/who-will-triumph-googles-bard-vs-microsofts-bing-chat/"><u>Who Will Triumph? Google's Bard Vs. Microsoft's Bing Chat</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-is-my-chatgpt-account-blocked-understanding-the-4-main-reasons-with-remedies/"><u>Why Is My ChatGPT Account Blocked? Understanding the 4 Main Reasons with Remedies</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide to Using iMessage on PC: Compatibility with Windows Operating Systems"
-date: 2024-10-14T20:03:25.514Z
-updated: 2024-10-21T16:13:12.661Z
+date: 2024-10-21T16:03:40.346Z
+updated: 2024-10-27T18:39:09.292Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -63,18 +56,18 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -86,18 +79,18 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -127,13 +120,6 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Pair your phone and computer
 
 You should then be asked to pair your phone and PC. Scan the QR code with your phone and tap the link to download and install the Unison mobile app from the Apple App Store.
@@ -146,11 +132,25 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -158,18 +158,18 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,14 +207,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unlocking-the-secrets-of-google-podcast-uploads/"><u>[New] In 2024, Unlocking the Secrets of Google Podcast Uploads</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gaming-woes-sudden-pc-crashes-on-1011-systems/"><u>Gaming Woes: Sudden PC Crashes on 10/11 Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-can-apple-ensure-successful-launch-of-to-rescue-the-vision-pro-top-3-tactics-according-to-zdnet/"><u>How Can Apple Ensure Successful Launch of To Rescue the Vision Pro? Top 3 Tactics According to ZDNET</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-motorola-edge-40-neo-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Motorola Edge 40 Neo to Protect Your Individual Information</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pioneering-personalized-ais-crafting-your-own-chatgpt/"><u>Pioneering Personalized AIs: Crafting Your Own ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reviving-the-experience-how-apple-could-transform-dissatisfied-sonos-customers-according-to-zdnet-analysis/"><u>Reviving the Experience: How Apple Could Transform Dissatisfied Sonos Customers, According to ZDNet Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/say-goodbye-to-the-iphone-13-and-15-pro-series-expert-guide-on-next-gen-smartphones-to-purchase-zdnet/"><u>Say Goodbye to the iPhone 13 & 15 Pro Series – Expert Guide on Next-Gen Smartphones to Purchase | ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/simplifying-cinematics-in-filmora-answering-the-core-questions/"><u>Simplifying Cinematics in Filmora Answering the Core Questions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-ranking-ipad-models-comprehensive-analysis-by-tech-gurus-zdnet/"><u>Top-Ranking iPad Models : Comprehensive Analysis by Tech Gurus - ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-digital-diary-top-picks-for-personal-video-devices/"><u>[Updated] In 2024, Digital Diary Top Picks for Personal Video Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-stepwise-approach-for-effective-periscope-video-storage/"><u>2024 Approved A Stepwise Approach for Effective Periscope Video Storage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-deep-dive-into-how-generative-ai-revolutionizes-searches-and-its-adopters-among-top-firms/"><u>A Deep Dive Into How Generative AI Revolutionizes Searches & Its Adopters Among Top Firms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-in-action-future-of-website-content-discovery/"><u>AI in Action: Future of Website Content Discovery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-interview-readiness-with-chatgpt-insights/"><u>Boost Interview Readiness with ChatGPT Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chat-gpt-conversations-discover-how-easy-it-is-to-start-talking/"><u>Chat GPT Conversations: Discover How Easy It Is to Start Talking</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-web-innovations-a-step-by-step-guide/"><u>ChatGPT Web Innovations: A Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-seamless-transitions-made-simple-screen-record-with-aiseesoft/"><u>In 2024, Seamless Transitions Made Simple Screen Record With Aiseesoft</u></a></li>
+<li><a href="https://article-tips.techidaily.com/pro-tips-for-kinemaster-dominance-plus-best-digital-platforms-on-the-web/"><u>Pro Tips for KineMaster Dominance + Best Digital Platforms on the Web</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-xiaomi-redmi-12-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Xiaomi Redmi 12 to iPhone 14/15 | Dr.fone</u></a></li>
 </ul></div>
 

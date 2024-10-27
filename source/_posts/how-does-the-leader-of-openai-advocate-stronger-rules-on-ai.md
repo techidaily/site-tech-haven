@@ -1,7 +1,7 @@
 ---
 title: How Does the Leader of OpenAI Advocate Stronger Rules on AI?
-date: 2024-08-29T02:30:42.812Z
-updated: 2024-08-30T02:30:42.812Z
+date: 2024-10-24T16:39:00.539Z
+updated: 2024-10-27T17:07:32.252Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -44,8 +51,12 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to[join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -57,8 +68,12 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -67,14 +82,11 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
  And in its mobile form, it is still very much a search tool, so is not something that's going to be replacing Google Assistant, Siri, Bixby, or any other voice assistant any time soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -83,4 +95,22 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-mobile-magic-booster-free-high-quality-photo-amplification/"><u>[New] 2024 Approved Mobile Magic Booster Free, High-Quality Photo Amplification</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grading-inshot-does-it-reign-supreme/"><u>[New] Grading InShot Does It Reign Supreme?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-virality-mastering-the-art-of-influential-content-for-2024/"><u>[New] Unlocking Virality Mastering the Art of Influential Content for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-adept-adapters-top-5-chrome-extensions-for-facebook-films-for-2024/"><u>[Updated] Adept Adapters Top 5 Chrome Extensions for Facebook Films for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/fbx-the-ultimate-gaming-video-guide-for-2024/"><u>FBX The Ultimate Gaming Video Guide for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-lava-blaze-2-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Lava Blaze 2 5G Device</u></a></li>
+<li><a href="https://discover-help.techidaily.com/simple-guide-upload-vcd-files-as-dvd-with-no-cost-using-windows-operating-system/"><u>Simple Guide: Upload VCD Files as DVD with No Cost Using Windows Operating System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-bottom-line-on-chatgpt-clones-top-6-plugins-youll-regret-using/"><u>The Bottom Line on ChatGPT Clones: Top 6 Plugins You'll Regret Using</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-dangers-of-automated-ai-systems-in-producing-legitimate-windows-11-license-codes/"><u>The Dangers of Automated AI Systems in Producing Legitimate Windows 11 License Codes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-pinnacle-of-presentation-aids-top-7-ai-excellence/"><u>The Pinnacle of Presentation Aids: Top 7 AI Excellence</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-prime-list-cutting-through-the-noise-to-find-top-9-free-tools-for-2024/"><u>The Prime List Cutting Through the Noise to Find Top 9 FREE Tools for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-ai-potential-with-these-6-fantastic-and-free-sora-alternatives-you-can-test-today/"><u>Unlock AI Potential with These 6 Fantastic and FREE Sora Alternatives You Can Test Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-gpt-4-why-you-shouldnt-forget-about-chatgpt-plus/"><u>Unlocking the Potential of GPT-4: Why You Shouldn't Forget About ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-of-predictive-ai-operation/"><u>Unlocking the Secrets of Predictive AI Operation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-googles-vision-palm-2-future-of-language-models/"><u>Unveiling Google's Vision: PaLM 2, Future of Language Models</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "GPT Blueprint: Custom ChatGPT Crafting Guide"
-date: 2024-09-02T12:15:49.914Z
-updated: 2024-09-03T12:15:49.914Z
+date: 2024-10-25T19:09:33.306Z
+updated: 2024-10-27T18:58:01.813Z
 tags:
   - chatgpt
   - open-ai
@@ -54,9 +54,30 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
@@ -65,9 +86,12 @@ Close
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these [ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Talk to ChatGPT and Save Time
 
  By speaking to ChatGPT, you can send longer and more descriptive prompts with your voice and have a conversation without manually typing a prompt that could take several minutes. This way, you can be more productive with your task and save time while using ChatGPT.
@@ -76,14 +100,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You can use this feature to generate codes, get answers, or have a quick brainstorming session with just your voice.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,4 +113,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-gecata-game-recorder-review/"><u>[New] 2024 Approved Gecata Game Recorder Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-groupcapture-hd-toolkit-fb-edition-for-2024/"><u>[New] GroupCapture HD Toolkit, FB Edition for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-enthralling-your-eyes-six-ingenious-methods-for-capturing-netflix-vids-on-a-mac/"><u>[Updated] Enthralling Your Eyes Six Ingenious Methods for Capturing Netflix Vids on a Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-little-wheelmens-game-festivals-for-2024/"><u>[Updated] Little Wheelmen's Game Festivals for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lut-mastery-for-enhanced-visual-effects-in-premiere-projects/"><u>[Updated] LUT Mastery for Enhanced Visual Effects in Premiere Projects</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-harmonizing-images-essential-tutorials-for-color-mastery/"><u>2024 Approved Harmonizing Images Essential Tutorials for Color Mastery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-issues-with-unresponsive-corsair-keyboards/"><u>Diagnosing and Fixing Issues with Unresponsive Corsair Keyboards</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimize-sound-speed-with-these-essential-apps-for-2024/"><u>Optimize Sound Speed with These Essential Apps for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-cheat-sheet-for-identifying-and-fixing-all-blue-screen-errors/"><u>Ultimate Cheat Sheet for Identifying and Fixing All Blue Screen Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-turing-test-challenges-for-artificeal-intelligence-mastery/"><u>Understanding the Turing Test - Challenges for Artificeal Intelligence Mastery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-free-advanced-ai-capabilities-with-copilot-and-gpt-n-turbo-integration/"><u>Unlock Free Advanced AI Capabilities with Copilot and GPT-N Turbo Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-ai-assistance-top-5-methods-to-utilize-chatgpt-even-without-a-formal-openai-profile/"><u>Unlocking AI Assistance: Top 5 Methods to Utilize ChatGPT Even without a Formal OpenAI Profile</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-chatgpts-potential-in-personal-health-management/"><u>Unlocking ChatGPT's Potential in Personal Health Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-conversational-ai-in-linux-connecting-chatgpt-to-the-ubuntu-shell/"><u>Unlocking Conversational AI in Linux: Connecting ChatGPT to the Ubuntu Shell</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-locked-away-gpt-history/"><u>Unlocking Locked-Away GPT History</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-next-generation-of-security-horizons/"><u>Unveiling the Next Generation of Security Horizons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-ai-analyzing-the-differences-between-gpt-1-through-gpt-4/"><u>Unveiling the Power of AI: Analyzing the Differences Between GPT-1 Through GPT-4</u></a></li>
+</ul></div>
 

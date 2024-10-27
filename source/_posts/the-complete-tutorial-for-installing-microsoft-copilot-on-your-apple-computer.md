@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial for Installing Microsoft Copilot on Your Apple Computer
-date: 2024-09-02T12:16:41.260Z
-updated: 2024-09-03T12:16:41.260Z
+date: 2024-10-25T16:03:37.710Z
+updated: 2024-10-27T16:35:45.255Z
 tags:
   - chatgpt
   - open-ai
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -49,21 +46,32 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
 3. Launch the ChatGPT Desktop Application.
@@ -73,25 +81,12 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## When Is the Official ChatGPT Desktop Version Launching?
 
  The official ChatGPT Desktop app is already slowly rolling out to macOS users.
@@ -100,14 +95,11 @@ Key features:
 
  Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +108,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-dangerous-depths-top-10-roguelite-showdowns/"><u>[New] In 2024, Dangerous Depths Top 10 Roguelite Showdowns</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lut-revolution-no-cost-for-your-favorite-dji-minis-and-air-2-beats/"><u>[New] LUT Revolution – No Cost for Your Favorite DJI Minis & Air 2 Beats</u></a></li>
+<li><a href="https://fox-links.techidaily.com/capturing-movie-scenes-as-single-image-snapshots-windows-10/"><u>Capturing Movie Scenes as Single Image Snapshots (Windows 10)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/charming-cyberspace-ai-for-romance-fraud/"><u>Charming Cyberspace: AI for Romance Fraud</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-secrets-for-crafting-engaging-posts-on-instagram-twitter-and-more/"><u>ChatGPT Secrets for Crafting Engaging Posts on Instagram, Twitter & More</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-between-snapchats-my-ai-and-chatgpt-expert-comparison-guide/"><u>Deciding Between Snapchat's My AI and ChatGPT: Expert Comparison Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-the-power-of-claude-2-what-can-this-ai-achieve/"><u>Demystifying the Power of Claude 2 - What Can This AI Achieve?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-transfer-learning-techniques-in-modern-ai-applications/"><u>Demystifying Transfer Learning Techniques in Modern AI Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/early-warning-signs-of-rogue-chatgpt-services/"><u>Early Warning Signs of Rogue ChatGPT Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-presentation-game-using-the-7-best-smart-tech-applications/"><u>Elevate Your Presentation Game Using the 7 Best Smart Tech Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elite-ai-tools-empowering-digital-research-endeavors/"><u>Elite AI Tools Empowering Digital Research Endeavors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-transform-ram-files-into-mp4-video-format-with-movavi/"><u>Free Online Converter: Transform RAM Files Into MP4 Video Format with Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-in-play-setting-up-your-steam-launchers/"><u>Precision in Play: Setting Up Your Steam Launchers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/understanding-and-resolving-the-cutting-out-sound-issue-in-your-windows-11-device/"><u>Understanding & Resolving the Cutting Out Sound Issue in Your Windows 11 Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-unseen-techniques-for-confirming-text-message-delivery-and-views/"><u>Unveiling the Unseen: Techniques for Confirming Text Message Delivery and Views</u></a></li>
+</ul></div>
 
