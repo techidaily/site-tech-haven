@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: How My AI Elevates Snapchat Beyond Just Fun and Games"
-date: 2024-08-29T02:25:31.067Z
-updated: 2024-08-30T02:25:31.067Z
+date: 2024-10-26T21:13:41.254Z
+updated: 2024-11-01T16:34:02.617Z
 tags:
   - chatgpt
   - open-ai
@@ -33,9 +33,23 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -50,8 +64,12 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Protect Your PC and Bank Account in the AI-Era
 
  ChatGPT is a powerful and valuable tool that can answer many questions you throw its way. But the chatbot can also be used for malicious purposes, like generating phishing messages and creating malware.
@@ -60,14 +78,11 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 
  To minimize the potential dangers of AI chatbots, it’s crucial to know their potential risks and the best possible security measures to protect yourself from hackers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -76,4 +91,21 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-screen-recording-on-imac-with-ease-for-2024/"><u>[New] Mastering Screen Recording on iMac with Ease for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-interactive-image-merging-for-desktop-enthusiasts/"><u>[Updated] Interactive Image Merging for Desktop Enthusiasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-through-the-complexities-of-copyright-on-instagrams-music-platform/"><u>[Updated] Navigating Through the Complexities of Copyright on Instagram’s Music Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-reviewing-the-best-screen-recorders-on-the-market-for-2024/"><u>[Updated] Reviewing the Best Screen Recorders on the Market for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722656085522-a-closer-look-at-apples-latest-imac-the-stunning-design-meets-the-formidable-m1-technology-reviewed-here/"><u>A Closer Look at Apple's Latest iMac - The Stunning Design Meets the Formidable M1 Technology Reviewed Here!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-ai-technologies-every-entrepreneur-must-explore/"><u>Essential AI Technologies Every Entrepreneur Must Explore</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-advice-detecting-and-dealing-with-chatgpt-fraudulent-websites/"><u>Expert Advice: Detecting and Dealing with ChatGPT Fraudulent Websites</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-features-of-chatgpt-copilot-an-in-depth-guide/"><u>Exploring the Features of ChatGPT Copilot: An In-Depth Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-periscope-recording-for-beginners-a-complete-walkthrough/"><u>In 2024, Periscope Recording for Beginners A Complete Walkthrough</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-approaches-to-cbt-with-conversational-ai-leveraging-chatgpt-for-treatment/"><u>Innovative Approaches to CBT with Conversational AI: Leveraging ChatGPT for Treatment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-private-information-at-risk-when-using-chatgpt-understanding-potential-pitfalls/"><u>Is Private Information at Risk When Using ChatGPT – Understanding Potential Pitfalls</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-power-of-gpt-3-within-openais-interactive-platform/"><u>Leveraging Power of GPT-3 Within OpenAI's Interactive Platform</u></a></li>
+<li><a href="https://driver-error.techidaily.com/re-establish-connection-seagate-hdd-and-windows-11/"><u>Re-Establish Connection: Seagate HDD & Windows 11</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/waht-is-ai-pixel-art-generator-for-2024/"><u>Waht Is AI Pixel Art Generator for 2024</u></a></li>
+</ul></div>
 

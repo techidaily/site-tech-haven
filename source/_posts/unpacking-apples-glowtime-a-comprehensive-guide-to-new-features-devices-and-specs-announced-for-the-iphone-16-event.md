@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Apple's 'Glowtime': A Comprehensive Guide to New Features, Devices, and Specs Announced for the iPhone 16 Event"
-date: 2024-10-24T16:57:16.977Z
-updated: 2024-10-27T16:30:31.938Z
+date: 2024-10-31T17:39:46.198Z
+updated: 2024-11-02T09:04:21.992Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -88,10 +88,10 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -119,10 +119,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -140,16 +140,16 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -198,24 +198,19 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-youtube-production-with-a-9-to-5-routine/"><u>[New] 2024 Approved Harmonizing YouTube Production with a 9-to-5 Routine</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-smarter-streaming-the-essence-of-vimeo-record/"><u>2024 Approved Smarter Streaming The Essence of Vimeo Record</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/ubs/"><u>即时解答：设置没有 UBS 驱动器支持的系统视觉界面指导</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/a-comprehensive-guide-to-vmware-vsphere-operations-licenses-and-variants-explained/"><u>A Comprehensive Guide to VMware vSphere Operations: Licenses and Variants Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creating-perfect-sounds-with-chatgpt-a-guide-for-daw-enthusiasts/"><u>Creating Perfect Sounds with ChatGPT: A Guide for DAW Enthusiasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cross-platform-chatbot-integration-navigating-around-with-ease-using-chatgpt-and-chatgpt-everywhere/"><u>Cross-Platform Chatbot Integration: Navigating Around with Ease Using ChatGPT and ChatGPT Everywhere</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-the-digital-ghost-the-true-identity-behind-your-online-conversations/"><u>Deciphering the Digital Ghost: The True Identity Behind Your Online Conversations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-10-chatbot-replacements-beyond-chatgpt/"><u>Discover the Ultimate 10 Chatbot Replacements Beyond ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-conversion-techniques-for-dall-e-images-from-webp-to-common-raster-types/"><u>Effortless Conversion Techniques for DALL-E √ Images From WebP to Common Raster Types</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-online-queries-why-perplexer-ai-outshines-all-as-your-preferred-google-tool/"><u>Elevate Your Online Queries: Why Perplexer AI Outshines All as Your Preferred Google Tool</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-document-review-workflow-with-6-innovative-chatgpt-integrated-apps/"><u>Enhance Your Document Review Workflow with 6 Innovative ChatGPT Integrated Apps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-your-coding-with-these-10-chatgpt-vs-code-combo-tips/"><u>Enhancing Your Coding with These 10 ChatGPT-VS Code Combo Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-the-benefits-and-drawbacks-of-chatgpt-plus-an-in-depth-analysis/"><u>Evaluating the Benefits and Drawbacks of ChatGPT Plus: An In-Depth Analysis</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/innovative-templates-to-amplify-yt-decks/"><u>Innovative Templates to Amplify YT Decks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-movies-like-a-pro-insider-secrets-for-achieving-professional-results/"><u>Make Movies Like a Pro Insider Secrets for Achieving Professional Results</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-create-engaging-videos-with-these-8-leading-explainer-video-tools/"><u>New Create Engaging Videos with These 8 Leading Explainer Video Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seamless-conversion-ideal-tweeter-video-solution-providers/"><u>Seamless Conversion Ideal Tweeter Video Solution Providers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-first-steps-to-creating-a-successful-online-stream/"><u>The First Steps to Creating a Successful Online Stream</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-your-android-friends-texts-arent-coming-through/"><u>Troubleshooting iPhone: Why Your Android Friends' Texts Aren't Coming Through</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-making-sporting-scenes-spectacomed/"><u>[New] 2024 Approved Making Sporting Scenes Spectacomed</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-a-unique-online-presence-youtube-edition/"><u>[New] Crafting a Unique Online Presence YouTube Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-vs-paid-youtubes-exclusive-picks-for-superior-opening-tutorials-for-2024/"><u>[New] Free vs Paid YouTube's Exclusive Picks for Superior Opening Tutorials for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/13-of-our-favorite-true-crime-podcasts/"><u>13 of Our Favorite True Crime Podcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-for-navigating-the-telegram-online-experience/"><u>Expert Tips for Navigating the Telegram Online Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fbx-gaming-record-your-adventure/"><u>FBX Gaming Record Your Adventure</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-8-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 8 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-video-editing-simplified-the-best-hacks-for-new-creators/"><u>In 2024, Video Editing Simplified The Best Hacks for New Creators</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tasty-chaos-unleashed-the-ultimate-overcooked-2-analysis/"><u>Tasty Chaos Unleashed - The Ultimate Overcooked! 2 Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-storytelling-chatais-potential/"><u>The Future of Storytelling: ChatAI's Potential</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-journey-of-googles-artificial-intelligence-project-gemini-what-are-its-goals-and-latest-breakthrough-achievements/"><u>The Journey of Google’s Artificial Intelligence Project Gemini – What Are Its Goals and Latest Breakthrough Achievements?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-harnessing-microsoft-copilot-for-original-image-creation-in-ai-artistry/"><u>The Ultimate Guide to Harnessing Microsoft Copilot for Original Image Creation in AI Artistry</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-enhancements-needed-in-chatgpt-plugin-marketplace/"><u>Top 4 Enhancements Needed in ChatGPT Plugin Marketplace</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-huggingchat-an-accessible-ai-for-conversation-enthusiasts/"><u>Understanding HuggingChat: An Accessible AI for Conversation Enthusiasts</u></a></li>
 </ul></div>
 

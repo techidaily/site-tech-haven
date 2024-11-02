@@ -1,7 +1,7 @@
 ---
 title: "Solving the Irritating Issues with iPhones: How Apple Can Improve User Experience"
-date: 2024-10-21T17:22:29.165Z
-updated: 2024-10-27T16:28:13.484Z
+date: 2024-10-30T18:04:15.190Z
+updated: 2024-11-02T03:40:32.218Z
 tags:
   - apple
 categories:
@@ -30,18 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -58,10 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,13 +69,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -86,10 +79,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -97,6 +90,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,22 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-from-invisible-to-iconic-top-strategies-for-standout-facebook-profiles/"><u>[Updated] From Invisible to Iconic Top Strategies for Standout Facebook Profiles</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-direct-download-process-from-vimeo-to-mp3-format/"><u>[Updated] In 2024, Direct Download Process From Vimeo to MP3 Format</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-videos-start-with-top-youtube-intro-tips/"><u>[Updated] In 2024, Elevate Your Video's Start with Top YouTube Intro Tips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-explore-12-prime-flip-screen-cameras-revolutionizing-vlogs/"><u>[Updated] In 2024, Explore 12 Prime Flip Screen Cameras Revolutionizing Vlogs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pivot-producer-system/"><u>[Updated] Pivot Producer System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-seamless-shift-from-windows-11s-default-pin-logon-to-traditional-password-method/"><u>A Seamless Shift From Windows 11'S Default PIN Logon to Traditional Password Method</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-side-by-side-comparison-of-chatgpt-versus-bings-ai-innovation-the-decisive-differences-you-need-to-know/"><u>A Side-By-Side Comparison of ChatGPT Versus Bing’s AI Innovation: The Decisive Differences You Need to Know</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722201469900-get-ready-to-play-here-are-chatgpts-top-6-entertaining-gaming-selections/"><u>Get Ready to Play! Here Are ChatGPT's Top 6 Entertaining Gaming Selections.</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-content-redistribution-hacks-for-instagramers/"><u>In 2024, Content Redistribution Hacks for Instagramers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-list-of-7-chrome-extensions-to-supercharge-chatgpt-interactions/"><u>Ultimate List of 7 Chrome Extensions to Supercharge ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-list-8-revolutionary-cryptocurrency-plugin-tools-leveraging-chatgpt-technology/"><u>Ultimate List: 8 Revolutionary Cryptocurrency Plugin Tools Leveraging ChatGPT Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-plus-the-good-the-bad-and-the-ugly/"><u>Understanding ChatGPT Plus - The Good, The Bad & The Ugly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-hidden-capabilities-the-5-best-kept-secrets-of-chatgpt-revealed/"><u>Unlock Hidden Capabilities: The 5 Best Kept Secrets of ChatGPT Revealed!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-excel-potential-with-chatgpt-3-innovative-methods/"><u>Unlocking Excel Potential with ChatGPT: 3 Innovative Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-mystery-whats-behind-bingchatartoken-fraud-a-user-friendly-guide-for-safe-cryptocurrency-investments/"><u>Unveiling the Mystery: What's Behind BingChatarToken Fraud? A User-Friendly Guide for Safe Cryptocurrency Investments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211151291-windows-10-file-explorer-made-easy-learn-how-with-our-help/"><u>Windows 10 File Explorer Made Easy – Learn How With Our Help!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unleash-vrecorder-download-steps/"><u>[Updated] Unleash VRecorder Download Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/4-apps-and-extensions-to-export-and-share-your-chatgpt-history/"><u>4 Apps and Extensions to Export and Share Your ChatGPT History</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-proven-techniques-to-elevate-your-chatgpt-experience/"><u>5 Proven Techniques to Elevate Your ChatGPT Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieving-smooth-gameplay-tips-to-improve-fps-in-mass-effect-legendary-edition/"><u>Achieving Smooth Gameplay: Tips to Improve FPS in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-chatbot-faceoff-which-is-king-analyzing-strengths-of-chatgpt-microsoft-bing-and-google-bard/"><u>AI Chatbot Faceoff: Which Is King? Analyzing Strengths of ChatGPT, Microsoft Bing & Google Bard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-infused-strategies-for-hr-operations/"><u>AI-Infused Strategies for HR Operations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/android-users-rejoice-mastering-the-art-of-speech-driven-ai-with-chatgpt-and-voicegpt-installation-steps/"><u>Android Users Rejoice: Mastering the Art of Speech-Driven AI with ChatGPT and VoiceGPT Installation Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-writes-authenticity-in-chatbot-software-selection/"><u>Apple' Writes: Authenticity in Chatbot Software Selection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avi3/"><u>AVIファイルからのオーディオコンバート：3つの最適化方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722092192707-avoid-artificer-assistance-for-windows-11-activation-explore-safer-options/"><u>Avoid Artificer Assistance for Windows 11 Activation - Explore Safer Options!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722114450440-discover-gaming-delights-with-chatgpt-see-our-selection-of-6-great-games/"><u>Discover Gaming Delights with ChatGPT - See Our Selection of 6 Great Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-savor-playtime-the-essential-guide-to-high-quality-offline-ios-games/"><u>In 2024, Savor Playtime – The Essential Guide to High-Quality Offline iOS Games</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-xiaomi-civi-3-disney-100th-anniversary-edition-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Xiaomi Civi 3 Disney 100th Anniversary Edition? Fixed | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-performance-guide-how-to-avoid-warno-video-game-crashes/"><u>PC Performance Guide: How to Avoid Warno Video Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722998831559-quick-fixes-for-when-your-discord-overlay-wont-start/"><u>Quick Fixes for When Your Discord Overlay Won't Start</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-moto-g23-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Moto G23 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/steps-to-ensure-peaceful-gmeet-sessions-silence-techniques-for-2024/"><u>Steps to Ensure Peaceful GMeet Sessions Silence Techniques for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721946667186-the-top-6-gpt-3-addons-you-should-skip-save-your-sanity/"><u>The Top 6 GPT-3 Addons You Should Skip - Save Your Sanity</u></a></li>
 </ul></div>
 

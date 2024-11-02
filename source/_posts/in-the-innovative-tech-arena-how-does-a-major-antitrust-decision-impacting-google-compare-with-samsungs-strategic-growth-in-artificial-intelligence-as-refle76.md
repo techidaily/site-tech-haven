@@ -1,7 +1,7 @@
 ---
 title: In the Innovative Tech Arena, How Does a Major Antitrust Decision Impacting Google Compare with Samsung's Strategic Growth in Artificial Intelligence as Reflected on the Innovation Index?
-date: 2024-10-25T17:40:42.297Z
-updated: 2024-10-27T19:02:09.174Z
+date: 2024-10-29T20:59:34.876Z
+updated: 2024-11-01T22:51:27.069Z
 tags:
   - apple
 categories:
@@ -71,31 +71,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-navigating-mov-saving-in-windows-11-top-six-methods-reviewed/"><u>[New] Navigating .MOV Saving in Windows 11 - Top Six Methods Reviewed</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-discover-the-elite-ranked-10-tv-streaming-platforms/"><u>[Updated] Discover the Elite Ranked 10 TV Streaming Platforms</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-tactics-for-transforming-youtube-list-layouts/"><u>[Updated] Tactics for Transforming YouTube List Layouts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-gpt-plugins-and-their-functions/"><u>Essential GPT Plugins & Their Functions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-impact-of-artificial-intelligence-on-microsofts-bing-search-engine/"><u>Exploring the Impact of Artificial Intelligence on Microsoft's Bing Search Engine</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-speed-difference-understanding-why-chatgpt-4-lags-behind-its-predecessor-chatgpt-35/"><u>Exploring the Speed Difference: Understanding Why ChatGPT-4 Lags Behind Its Predecessor, ChatGPT-3.5</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fantasy-fused-with-fact-leading-ai-trajectories/"><u>Fantasy Fused with Fact: Leading AI Trajectories</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fixing-chatgpts-memory-glitches-for-persistent-conversations/"><u>Fixing ChatGPT's Memory Glitches for Persistent Conversations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fixing-the-non-responsive-chatgpt-app-for-iphone-users-a-step-by-nstep-guide/"><u>Fixing the Non-Responsive ChatGPT App for iPhone Users - A Step-by-nStep Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/freedom-at-fingertips-implementing-a-free-and-open-source-gpt-competitor-on-windows-using-freedomgpt-solutions/"><u>Freedom at Fingertips: Implementing a Free and Open-Source GPT Competitor on Windows Using FreedomGPT Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-novice-to-pro-in-board-games-with-chatgpt-the-ultimate-guide-to-leveraging-my-gpt-bot-skills/"><u>From Novice to Pro in Board Games with ChatGPT: The Ultimate Guide to Leveraging My GPT Bot Skills</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpts-role-in-crafting-my-podcast-script/"><u>GPT's Role in Crafting My Podcast Script</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oneplus-11r-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your OnePlus 11R Phone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor ?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-2023s-leading-skype-capture-tools-the-ultimate-ranking/"><u>In 2024, 2023'S Leading Skype Capture Tools The Ultimate Ranking</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-x50-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor X50 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/screensnap-sage-mastering-captures-technology/"><u>ScreenSnap Sage Mastering Captures Technology</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-when-dsounddll-cant-be-found-on-windows/"><u>Troubleshooting Steps for When dsound.dll Can't Be Found on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-11-free-youtube-audio-rippers-to-download-audio-from-youtube/"><u>[New] 2024 Approved 11 FREE YouTube Audio Rippers to Download Audio From YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-ways-kids-can-use-chatgpt-safely/"><u>5 Ways Kids Can Use ChatGPT Safely</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-reasons-how-chatgpt-revolutionizes-health-support/"><u>7 Reasons: How ChatGPT Revolutionizes Health Support</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-unique-applications-of-chatgpts-code-execution-capabilities/"><u>7 Unique Applications of ChatGPT's Code Execution Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-deep-dive-into-the-bert-model-clarifying-what-sets-it-apart-from-generative-pre-trained-transformer-technologies/"><u>A Deep Dive Into the BERT Model: Clarifying What Sets It Apart From Generative Pre-Trained Transformer Technologies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-advocates-argument-the-ultimate-language-combatant/"><u>AI Advocates’ Argument: The Ultimate Language Combatant</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-in-play-crafting-next-gen-virtual-experiences/"><u>AI in Play: Crafting Next-Gen Virtual Experiences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-jargon-uncovered-essential-terms-for-tech-professionals/"><u>AI Jargon Uncovered: Essential Terms for Tech Professionals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721995102085-effortless-writing-with-advanced-tech-discover-hix-ai-powered-by-gpt-narrative/"><u>Effortless Writing with Advanced Tech: Discover HIX AI, Powered by GPT-Narrative.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722178681644-evaluating-ais-potential-to-strengthen-or-compromise-mental-health-interventions-an-insightful-look/"><u>Evaluating AI's Potential to Strengthen or Compromise Mental Health Interventions: An Insightful Look.</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/from-conceptualization-to-production-writing-engaging-documentary-stories-for-2024/"><u>From Conceptualization to Production Writing Engaging Documentary Stories for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-realme-narzo-60-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Realme Narzo 60 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-forza-horizon-4-launch-issues-expert-tips-and-tricks/"><u>How to Resolve Forza Horizon 4 Launch Issues : Expert Tips & Tricks!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-8-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 8 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-use-of-windows-11-desktop-widgets/"><u>Mastering the Use of Windows 11 Desktop Widgets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/maximizing-impact-with-instagrams-new-algorithm-insights-for-2024/"><u>Maximizing Impact with Instagram's New Algorithm Insights for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-lava-blaze-2-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Lava Blaze 2 Pro without backup.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-essential-factors-you-should-evaluate-when-choosing-your-next-desktop-computer/"><u>Top 8 Essential Factors You Should Evaluate When Choosing Your Next Desktop Computer</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Full Potential on macOS Monterey: Tailoring Custom Concentration Settings to Dodge Distractions - Techniques Spotlighted by ZDNet"
-date: 2024-10-24T17:51:00.436Z
-updated: 2024-10-27T16:29:59.288Z
+date: 2024-10-26T12:31:24.918Z
+updated: 2024-11-02T05:59:16.434Z
 tags:
   - apple
 categories:
@@ -69,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -93,13 +93,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -114,13 +107,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -130,6 +116,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -143,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,19 +218,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-exclusive-list-of-affordable-video-conferencing-apps-a-business-and-education-edition/"><u>[Updated] In 2024, Exclusive List of Affordable Video Conferencing Apps A Business & Education Edition</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/aesthetic-and-bright-exploring-the-innovative-design-of-taotronics-tt-dl16-desk-lamp/"><u>Aesthetic and Bright: Exploring the Innovative Design of TaoTronics TT-DL16 Desk Lamp</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-7-free-ai-apps-and-chatgpt-replacements-for-instant-travel-arrangement/"><u>Discover the Ultimate 7 Free AI Apps and ChatGPT Replacements for Instant Travel Arrangement</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-guide-mastering-chatgpt-through-personalized-directives/"><u>Discover the Ultimate Guide: Mastering ChatGPT Through Personalized Directives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/does-a-vpn-offer-better-anonymity-for-chatgpt/"><u>Does a VPN Offer Better Anonymity for ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dont-confide-ais-limitations-on-trust/"><u>Don't Confide: AI's Limitations on Trust</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-online-research-game-with-perplexity-ai-the-leading-choice-for-enhanced-google-searches/"><u>Elevate Your Online Research Game with Perplexity AI, the Leading Choice for Enhanced Google Searches</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-browser-addons-for-secure-gpt-interaction/"><u>Evaluating Browser AddOns for Secure GPT Interaction</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/oneplus-9-pro-evaluation-exceptional-design-performance-and-photography-capabilities/"><u>OnePlus 9 Pro Evaluation: Exceptional Design, Performance & Photography Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resurrect-dead-headset-on-your-machine-instantly/"><u>Resurrect Dead Headset on Your Machine, Instantly</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-note-30-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Note 30 Pro</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-value-for-money-tablets-comprehensive-analysis-by-tech-experts-on-zdnet/"><u>Top Value-for-Money Tablets : Comprehensive Analysis by Tech Experts on ZDNet</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-peeling-back-the-layers-of-visual-past-a-guide-to-fb-image-searching-reversed/"><u>[New] 2024 Approved Peeling Back the Layers of Visual Past A Guide to FB Image Searching (Reversed)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-from-noob-to-pro-selecting-webcams-that-make-a-difference-in-youtube-livestreams/"><u>[New] In 2024, From Noob to Pro Selecting Webcams That Make a Difference in YouTube Livestreams</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-time-management-mastery-slack-and-filmora-for-productive-team-meetings-for-2024/"><u>[New] Time Management Mastery Slack & Filmora for Productive Team Meetings for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-direct-technique-swap-film-direction-in-media-player/"><u>2024 Approved Direct Technique Swap Film Direction in Media Player</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-saving-big-on-vr-equipment-from-china/"><u>2024 Approved Saving Big on VR Equipment From China</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-character-and-word-capacity-boundaries-in-chatgpt-interactions/"><u>Exploring Character and Word Capacity Boundaries in ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-how-governments-can-control-advanced-ai-applications-four-key-strategies/"><u>Exploring How Governments Can Control Advanced AI Applications: Four Key Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-differences-between-claude-pro-ai-and-chatgptplus-by-microsoft/"><u>Exploring the Differences Between Claude Pro AI and ChatGPT+ by Microsoft</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-premier-giants-in-natural-language-processing-technology/"><u>Exploring the Premier Giants in Natural Language Processing Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/four-critical-missteps-to-bypass-when-leveraging-chatgpt-for-writing/"><u>Four Critical Missteps to Bypass When Leveraging ChatGPT for Writing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-global-to-in-home-ais-a-comparative-study/"><u>From Global to In-Home AIs: A Comparative Study</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-text-to-slide-show-perfection-creating-presentations-with-chatgpt/"><u>From Text to Slide Show Perfection: Creating Presentations with ChatGPT</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-face-off-unveiling-the-superiority-of-chatgpt-or-bing-chat/"><u>Generative AI Face-Off: Unveiling the Superiority of ChatGPT or Bing Chat</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-overlooks-its-own-syntax/"><u>How ChatGPT Overlooks Its Own Syntax</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-process-expert-techniques-for-chapter-integration-in-youtube/"><u>In 2024, Step-by-Step Process Expert Techniques for Chapter Integration in YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iphoneandroids-leading-vr-experiences-ranked/"><u>IPhone/Android's Leading VR Experiences Ranked</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reclaim-original-vibrance-in-photographs-with-these-top-apps/"><u>Reclaim Original Vibrance in Photographs with These Top Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-pick-for-extreme-sports-footage-black-gopro-or-x1000v/"><u>Top Pick for Extreme Sports Footage Black GoPro or X1000V?</u></a></li>
 </ul></div>
 

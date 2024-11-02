@@ -1,7 +1,7 @@
 ---
 title: GPT-5 Launch Speculations and Predicted Timeline for the Next AI Leap
-date: 2024-08-29T02:26:33.724Z
-updated: 2024-08-30T02:26:33.724Z
+date: 2024-10-31T20:06:01.433Z
+updated: 2024-11-02T01:11:12.762Z
 tags:
   - chatgpt
   - open-ai
@@ -33,9 +33,23 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
 Here's a video of Altman's discussion below:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
 
@@ -51,16 +65,17 @@ So, a 2024 release date for GPT-5? Is that possible?
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4.
 
  Also, there's been underground talk about GPT models being able to process videos, much like GPT-4 models can take images as inputs. So, we could possibly have a model that can process text, images, sound, and videos.
@@ -68,22 +83,23 @@ So, a 2024 release date for GPT-5? Is that possible?
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## GPT-5: An Exciting Future Awaits
 
  While much of the details about GPT-5 are speculative, it is undeniably going to be another important step towards an awe-inspiring paradigm shift in artificial intelligence.
 
  We might not achieve the much talked about "artificial general intelligence," but if it's ever possible to achieve, then GPT-5 will take us one step closer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,4 +108,20 @@ So, a 2024 release date for GPT-5? Is that possible?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-joke-juggernauts-20-memes-dominating-the-web-for-2024/"><u>[New] Joke Juggernauts 20 Memes Dominating the Web for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-revolutionize-your-virtual-dialogue-the-google-meet-guide/"><u>[New] Revolutionize Your Virtual Dialogue The Google Meet Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-epic-browser-recording-tools-for-the-ultimate-surfers-dream/"><u>[Updated] 2024 Approved Epic Browser Recording Tools for the Ultimate Surfer's Dream</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs/"><u>[Updated] 2024 Approved Navigating the World of Online Broadcasts on YouTube and Twitch with OBS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-graphical-forecast-the-dominant-23-social-themes/"><u>[Updated] Graphical Forecast The Dominant '23 Social Themes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-the-pause-button-iphone-slow-mo-techniques/"><u>2024 Approved Mastering the Pause Button IPhone Slow Mo Techniques</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-13-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bypassing-the-500-word-cap-with-chatgpt/"><u>Bypassing the 500-Word Cap with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-in-minutes/"><u>ChatGPT Mastery in Minutes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-top-ai-assistant-claude-vs-chatgpt-for-daily-use/"><u>Choosing the Top AI Assistant: Claude Vs. ChatGPT for Daily Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparative-analysis-llama-3-against-gpt-n4-the-ultimate-verdict/"><u>Comparative Analysis: Llama 3 Against GPT-N4 - The Ultimate Verdict</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-walkthrough-sign-up-for-enhanced-chatgpt-features-with-plugins/"><u>Comprehensive Walkthrough: Sign Up for Enhanced ChatGPT Features with Plugins</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-free-mts-to-mp4-convertor-for-macos-big-sur-your-ultimate-guide/"><u>Top-Rated Free MTS to MP4 Convertor for macOS Big Sur: Your Ultimate Guide</u></a></li>
+</ul></div>
 

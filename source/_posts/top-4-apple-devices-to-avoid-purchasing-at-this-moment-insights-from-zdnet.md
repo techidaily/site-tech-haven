@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices To Avoid Purchasing at This Moment: Insights From ZDNet"
-date: 2024-10-25T16:48:06.979Z
-updated: 2024-10-27T18:02:49.819Z
+date: 2024-10-30T17:52:26.855Z
+updated: 2024-11-02T12:48:30.959Z
 tags:
   - apple
 categories:
@@ -57,13 +57,6 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **The 'Nice' list**
 
 ### **Apple iPhone 16**
@@ -81,6 +74,13 @@ Apple Watch Series 10
 Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
 
@@ -110,13 +110,6 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Apple 14-inch and 16-inch MacBook Pro**
 
 This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M3 to the [insanely powerful M3 Max](https://www.zdnet.com/article/apples-m3-m3-pro-and-m3-max-chipsets-everything-you-should-know-before-buying/). Here are the specs:
@@ -133,10 +126,10 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple's 24-inch iMac**
@@ -155,10 +148,10 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
@@ -181,6 +174,13 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 **Also: [Apple AirPods Pro (2nd Gen) review: Two major upgrades, tamed by one familiar flaw](https://www.zdnet.com/article/apple-airpods-pro-2-review/)**
 
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Apple AirTag**
 
@@ -222,20 +222,17 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-master-controls-navigating-the-world-of-switch-pro-and-steam-gaming/"><u>[New] 2024 Approved Master Controls Navigating the World of Switch Pro and Steam Gaming</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-visionaries-of-video-workshop-for-2024/"><u>[New] The Visionaries of Video Workshop for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-clandestine-fb-live-observer-for-2024/"><u>[Updated] Clandestine FB Live Observer for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlining-video-editing-using-luts-with-obs-studio/"><u>[Updated] Streamlining Video Editing Using LUTs with OBS Studio</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/effortless-incremental-backup-strategies-for-windows-server-2019-users/"><u>Effortless Incremental Backup Strategies for Windows Server 2019 Users</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ring-the-disparities-between-youtube-and-dailymention-for-2024/"><u>Exploring the Disparities Between YouTube and DailyMention for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-palm-2-elevates-googles-bard-ai-7-key-improvements-unveiled/"><u>How PaLM 2 Elevates Google's Bard AI: 7 Key Improvements Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-secure-your-system-by-not-downloading-google-bard-potential-virus-alert/"><u>How to Secure Your System by Not Downloading Google Bard – Potential Virus Alert</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-openais-dominion-over-gpt-dwindling/"><u>Is OpenAI's Dominion Over GPT Dwindling?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-your-information-secure-addressing-privacy-matters-with-chatgpt/"><u>Is Your Information Secure? Addressing Privacy Matters with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/jumpstart-your-ai-journey-access-8-easy-to-implement-custom-gpts-today/"><u>Jumpstart Your AI Journey: Access 8 Easy-to-Implement Custom GPTs Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-ai-in-scholarly-pursuits/"><u>Leveraging AI in Scholarly Pursuits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-art-of-character-development-using-these-11-powerful-ai-prompts/"><u>Master the Art of Character Development Using These 11 Powerful AI Prompts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/srt-power-play-transforming-macwindows-experience-for-2024/"><u>SRT Power Play Transforming Mac/Windows Experience for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-efficiently-storing-instagram-reels-two-simplified-techniques/"><u>[New] 2024 Approved Efficiently Storing Instagram Reels Two Simplified Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-iphone-silhouette-photography-tips-for-2024/"><u>[New] IPhone Silhouette Photography Tips for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-navigating-instagrams-repost-policy/"><u>2024 Approved Navigating Instagram's Repost Policy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722020651144-discover-top-6-engaging-games-featuring-chatgpt-try-them-now/"><u>Discover Top 6 Engaging Games Featuring ChatGPT - Try Them Now</u></a></li>
+<li><a href="https://fox-info.techidaily.com/fitness-frontiers-unveiling-premier-virtual-reality-walkers-for-2024/"><u>Fitness Frontiers Unveiling Premier Virtual Reality Walkers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-discover-top-10-budget-friendly-high-quality-webcams/"><u>In 2024, Discover Top 10 Budget-Friendly, High-Quality Webcams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722159707964-localize-the-power-of-conversational-ai-free-and-easy-installation-of-a-chatgpt-clone-via-gpt4all-for-your-pc/"><u>Localize the Power of Conversational AI: Free and Easy Installation of a ChatGPT Clone via GPT4All for Your PC!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-rotate-videos-for-free-top-10-video-flip-and-rotate-tools-for-2024/"><u>New Rotate Videos for Free Top 10 Video Flip and Rotate Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quickening-download-pace-tips-for-steam-and-windows-integration/"><u>Quickening Download Pace: Tips for Steam and Windows Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722200350019-surprise-skill-unleashed-learn-the-art-of-engaging-with-chatgpt/"><u>Surprise Skill Unleashed: Learn the Art of Engaging with ChatGPT!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-makes-a-chatgpt-code-interpreter-crucial-in-todays-ai-landscape/"><u>What Makes a ChatGPT Code Interpreter Crucial in Today's AI Landscape?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-blind-trust-can-lead-us-astray-in-the-age-of-ai/"><u>Why Blind Trust Can Lead Us Astray in the Age of AI</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Identifying & Avoiding BingChatGPT's Fraudulent Cryptocurrency Tickets: A Comprehensive Guide"
-date: 2024-08-29T02:27:05.483Z
-updated: 2024-08-30T02:27:05.483Z
+date: 2024-10-29T08:16:23.968Z
+updated: 2024-11-02T08:36:03.449Z
 tags:
   - chatgpt
   - open-ai
@@ -43,30 +43,23 @@ The maximum reward you can earn is $20,000.
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Here, you must fill in the following information:
 
 1. A title clearly and briefly describing the vulnerability
@@ -82,13 +75,21 @@ Here, you must fill in the following information:
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Which Vulnerabilities Are Eligible for Rewards?
 
  You will be rewarded for any security, functionality, performance, and documentation vulnerability you find in api.openai.com, third-party targets, ChatGPT, ChatGPT plugins, <https://openai.org>, \*/openai.org, OpenAI API keys, openai.com, \*/openai.com, and developer platform playground.
@@ -98,22 +99,23 @@ Here, you must fill in the following information:
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Earn Money While Improving OpenAI's Systems
 
  OpenAI's bug bounty program is a great way for you—as an ethical hacker, security researcher, or tech enthusiast—to earn while improving the firm's AI systems.
 
  However, ensure you comply with all specified guidelines and rules of engagement.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +124,21 @@ Here, you must fill in the following information:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-best-value-in-cloud-pricing-a-comprehensive-list/"><u>[New] In 2024, The Best Value in Cloud Pricing A Comprehensive List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-transforming-mundane-text-to-captivating-animation-in-insta-stories/"><u>[Updated] In 2024, Transforming Mundane Text to Captivating Animation in Insta-Stories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/50-price-tag-to-rescue-mobile-from-ransomware-plus-how-chatgpt-scripts-our-engaging-podcast-dialogues/"><u>$50 Price Tag to Rescue Mobile From Ransomware - Plus, How ChatGPT Scripts Our Engaging Podcast Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-revolutionizes-browsing-top-8-productivity-extensions-for-google-chrome/"><u>AI Revolutionizes Browsing: Top 8 Productivity Extensions for Google Chrome</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-powered-writing-assistance-how-chatgpt-can-transform-your-content-strategy/"><u>AI-Powered Writing Assistance: How ChatGPT Can Transform Your Content Strategy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-decoded-an-approachable-introduction/"><u>Artificial Intelligence Decoded: An Approachable Introduction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722187622078-discover-7-exceptional-alternatives-to-chatgpt-enhance-your-mobile-experience/"><u>Discover 7 Exceptional Alternatives to ChatGPT: Enhance Your Mobile Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-assistant-or-alexa-which-voice-ai-should-be-your-preferred-companer/"><u>Google Assistant or Alexa: Which Voice AI Should Be Your Preferred Companer?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-magic-vs-2-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Magic Vs 2</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-step-by-step-tutorial-to-design-unique-youtube-thumbnails/"><u>In 2024, Step-by-Step Tutorial to Design Unique YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook.techidaily.com/inside-insight-how-to-engage-with-facebook-neighbors/"><u>Inside Insight: How to Engage with Facebook Neighbors</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/interactive-media-adding-audio-to-visual-narratives/"><u>Interactive Media Adding Audio to Visual Narratives</u></a></li>
+<li><a href="https://win11.techidaily.com/quicken-real-time-update-of-task-manager-in-win-11/"><u>Quicken Real-Time Update of Task Manager in Win 11</u></a></li>
+</ul></div>
 

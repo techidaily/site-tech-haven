@@ -1,7 +1,7 @@
 ---
 title: Advertising Phrases
-date: 2024-10-25T17:03:29.265Z
-updated: 2024-10-27T17:05:10.304Z
+date: 2024-10-27T01:58:15.617Z
+updated: 2024-11-02T06:37:58.530Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ Within the embargoed time frame, ZDNET reviewers can test the latest features (i
 While ZDNET primarily covers smartphone releases in the US market, we also evaluate international handsets to understand the competitive landscape better and have a frame of reference when making recommendations to international readers. We also attend trade shows, including [CES](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/) and [Mobile World Congress](https://www.zdnet.com/collection/mwc-2024/), to connect with industry experts and analysts.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What makes a phone ZDNET recommended?
@@ -50,6 +50,13 @@ While ZDNET primarily covers smartphone releases in the US market, we also evalu
 For hands-on testing, five aspects determine whether or not a phone gets recommended : design, performance, cameras, battery life, and special features. The importance of each aspect will vary across users; some will value camera quality over battery life, and others just want a phone that's unique and different. Generally, the order of importance is cameras, battery life, design, performance, and then special features.
 
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design and ergonomics
 
@@ -72,10 +79,10 @@ Performance testing also includes putting phones through varying levels of graph
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Cameras
@@ -89,16 +96,16 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery life and charging
@@ -108,13 +115,6 @@ Kerry Wan/ZDNET
 It's also important for us to evaluate how long phones last under light, moderate, and heavy usage, how long they take to recharge, and how they do it (wired, wireless, or both). We typically judge the endurance of phones based on screen-on time (SOT); that's the total amount of time the screen is turned on, whether you're scrolling through TikTok or typing an email. The higher the SOT, the longer the phone lasts.
 
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Special features
 
@@ -162,20 +162,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-supreme-narrative-designers-den/"><u>[New] 2024 Approved Supreme Narrative Designer's Den</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlock-the-6th-richest-strategies-for-successful-ig-for-2024/"><u>[New] Unlock the 6Th Richest Strategies for Successful IG for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-list-of-top-15-affordable-photo-enhancement-tools-for-2024/"><u>[Updated] The Ultimate List of Top 15 Affordable Photo Enhancement Tools for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-poco-c51-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Poco C51 Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-6-sites-transforming-how-companies-connect-socially/"><u>In 2024, Leading 6 Sites Transforming How Companies Connect Socially</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-the-capacity-for-storing-videos-on-large-scale-drives-64128gb/"><u>In 2024, Understanding the Capacity for Storing Videos on Large-Scale Drives (64/128GB)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-writing-process-with-these-8-powerful-ai-tools-for-writers/"><u>Revolutionize Your Writing Process with These 8 Powerful AI Tools for Writers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sam-altman-resigns-as-head-of-openai-a-turning-point-or-a-pivot-for-chatgpt-evolution/"><u>Sam Altman Resigns as Head of OpenAI - A Turning Point or a Pivot for ChatGPT Evolution?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/silence-the-snoops-opt-out-of-gpts-data-harvesting/"><u>Silence the Snoops: Opt-Out of GPT's Data Harvesting</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-automatic-text-messaging-from-your-iphone/"><u>Step-by-Step Guide: Setting Up Automatic Text Messaging From Your iPhone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/subscribersilence-yearning-for-chatgpt-reopening/"><u>SubscriberSilence: Yearning for ChatGPT Reopening</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-business-mastering-these-5-key-ai-technologies/"><u>The Future of Business: Mastering These 5 Key AI Technologies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-depth-of-snapchats-myai-learn-about-its-six-unexpected-utilities-beyond-cool-tech/"><u>The Hidden Depth of Snapchat's MyAI - Learn About Its Six Unexpected Utilities Beyond Cool Tech!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-metaverse-mirth-making-manual-top-funny-imagery-and-techniques/"><u>The Metaverse Mirth-Making Manual Top Funny Imagery & Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-make-every-gaming-moment-count-top-5-ways-to-record-in-minecraft-on-a-mac/"><u>[Updated] 2024 Approved Make Every Gaming Moment Count Top 5 Ways to Record in Minecraft on a Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-exploring-best-stream-software-is-xsplit-outshining-obs-in-2024/"><u>[Updated] Exploring Best Stream Software - Is XSplit Outshining OBS, In 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-exploring-the-depths-of-discord-sticker-land-for-2024/"><u>[Updated] Exploring the Depths of Discord Sticker Land for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-groundbreaking-tools-excluding-chatgpt-for-code-writing/"><u>7 Groundbreaking Tools Excluding ChatGPT for Code Writing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adapting-to-change-how-generative-ai-is-reshaping-job-markets-in-7-significant-ways/"><u>Adapting to Change: How Generative AI Is Reshaping Job Markets in 7 Significant Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/addressing-the-complexities-of-chatgpt-usage-laws-google-news-feed-innovations-and-strategies-for-staying-connected-on-vacation/"><u>Addressing the Complexities of ChatGPT Usage Laws, Google News Feed Innovations, and Strategies for Staying Connected on Vacation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assurance-read-before-you-rely-six-reasons-to-proceed-with-care/"><u>AI Assurance? Read Before You Rely: Six Reasons to Proceed with Care</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-battle-royale-comparing-notions-intelligence-with-googles-chatgpt-for-optimal-performance/"><u>AI Battle Royale: Comparing Notion's Intelligence with Google's ChatGPT for Optimal Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-expensive-ai-prompt-services-providing-value-for-your-spend/"><u>Are Expensive AI Prompt Services Providing Value for Your Spend?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/auto-gpt-7-effective-utilization-strategies/"><u>Auto-GPT: 7 Effective Utilization Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-tutorial-how-to-share-and-save-apple-notes-across-devices/"><u>Complete Tutorial: How to Share and Save Apple Notes Across Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-wonders-how-snapchats-my-ai-transcends-being-merely-fun-gadgetry/"><u>Exploring the Wonders: How Snapchat's My AI Transcends Being Merely Fun Gadgetry</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-google-pixel-fold-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Google Pixel Fold to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-fixing-the-lameencdll-problem-when-using-audacity-for-mp3-files/"><u>Step-by-Step Guide: Fixing the lame_enc.dll Problem When Using Audacity for MP3 Files</u></a></li>
+<li><a href="https://win11.techidaily.com/top-6-windows-productivity-tools-a-to-do-guide/"><u>Top 6 Windows Productivity Tools: A To-Do Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-stop-motion-studio-in-your-pocket-best-ios-and-android-apps/"><u>Updated In 2024, Stop Motion Studio in Your Pocket Best iOS and Android Apps</u></a></li>
 </ul></div>
 

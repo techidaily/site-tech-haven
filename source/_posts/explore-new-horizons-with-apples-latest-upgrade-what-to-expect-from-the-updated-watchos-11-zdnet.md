@@ -1,7 +1,7 @@
 ---
 title: Explore New Horizons with Apple's Latest Upgrade - What to Expect From the Updated WatchOS 11 | ZDNET
-date: 2024-10-23T17:26:53.355Z
-updated: 2024-10-27T17:26:59.449Z
+date: 2024-10-26T03:25:07.579Z
+updated: 2024-11-02T01:04:44.721Z
 tags:
   - apple
 categories:
@@ -58,10 +58,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
@@ -71,6 +71,13 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -91,28 +98,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -122,6 +116,13 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -129,13 +130,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -171,20 +165,16 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-encompassing-activity-survey-for-2024/"><u>[New] Encompassing Activity Survey for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-ensuring-quality-export-of-camera-images-for-snapchat-sharing/"><u>[New] Ensuring Quality Export of Camera Images for Snapchat Sharing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-step-by-step-guide-to-lut-mastery-for-2024/"><u>[New] Step-by-Step Guide to LUT Mastery for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/easy-ways-to-merge-igtv-and-instagram-stories/"><u>Easy Ways to Merge IGTV & Instagram Stories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-dev-workflows-with-chatgpt-and-vs-code/"><u>Elevating Dev Workflows with ChatGPT & VS Code</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expert-guide-screen-capture-on-windows-8-devices-for-2024/"><u>Expert Guide Screen Capture on Windows 8 Devices for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-guide-for-flaky-windows-scheduled-jobs/"><u>Quick-Fix Guide for Flaky Windows Scheduled Jobs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/stop-the-surveillance-with-a-simple-exit-from-chatgpt/"><u>Stop the Surveillance with a Simple Exit From ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategic-chattips-to-curb-anxiety/"><u>Strategic ChatTips to Curb Anxiety</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-attraction-of-ai-understanding-the-reasons-behind-hacker-interest-in-chatgpt/"><u>The Attraction of AI: Understanding the Reasons Behind Hacker Interest in ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-role-and-operation-of-artificial-intelligences-black-boxes-explained/"><u>The Role & Operation of Artificial Intelligence's Black Boxes Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tips-and-tricks-for-completely-clearing-old-gpt-dialogues/"><u>Tips and Tricks for Completely Clearing Old GPT Dialogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-strategies-enhancing-productivity-with-chatgpt/"><u>Top 4 Strategies: Enhancing Productivity with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-free-ai-imagery-tools-using-open-source-technology/"><u>Top 5 Free AI Imagery Tools Using Open Source Technology</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-find-the-best-online-subtitle-converters-for-no-cost/"><u>[New] In 2024, Find the Best Online Subtitle Converters for No Cost</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-generate-laughter-giphys-art/"><u>[Updated] Generate Laughter Giphy's Art</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unmatched-hd-capture-selecting-the-best-recorder-brands/"><u>[Updated] Unmatched HD Capture Selecting the Best Recorder Brands</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-streaming-screenshots-share-without-twitting/"><u>2024 Approved Streaming Screenshots Share Without Twitting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-guide-to-the-best-ai-tools-for-file-conversation/"><u>A Guide to the Best AI Tools for File Conversation</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discovering-income-monetization-through-youtube-sponsored-videos-in-2024/"><u>Discovering Income Monetization Through YouTube Sponsored Videos, In 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-13-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone 13 on MetroPCS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722109029220-twitters-emoji-free-linuss-unmasking-insights-trojans-explored-and-chatgpt-flaws-highlighted/"><u>Twitters Emoji-Free, Linus's Unmasking Insights, Trojans Explored, & ChatGPT Flaws Highlighted.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unmasking-ai-influence-identifying-generated-texts/"><u>Unmasking AI Influence: Identifying Generated Texts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-sets-chatgpt-enterprise-apart-discover-offerings-and-advantages/"><u>What Sets ChatGPT Enterprise Apart? Discover Offerings & Advantages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/your-complete-guide-to-chatgpt/"><u>Your Complete Guide to ChatGPT</u></a></li>
 </ul></div>
 

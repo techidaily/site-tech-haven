@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Coding Process with ChatGPT in VS Code
-date: 2024-08-29T02:30:03.740Z
-updated: 2024-08-30T02:30:03.740Z
+date: 2024-10-27T17:33:10.270Z
+updated: 2024-11-02T01:36:06.770Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -48,8 +55,12 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to [join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -61,8 +72,12 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -77,8 +92,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +99,22 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-evaluating-video-space-on-a-64gb-card/"><u>[New] In 2024, Evaluating Video Space on a 64GB Card</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/earn-to-turn-comments-on-or-off-on-youtube-easily-for-2024/"><u>[New] Learn to Turn Comments On or Off on YouTube Easily for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-where-to-hunt-for-excellent-instagram-ringtones-and-perfect-alarm-crafts-for-2024/"><u>[New] Where to Hunt for Excellent Instagram Ringtones and Perfect Alarm Crafts for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-comprehensive-guide-to-enhancing-footage-in-gopro-studio-for-2024/"><u>[Updated] Comprehensive Guide to Enhancing Footage in GoPro Studio for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-high-quality-live-streaming-games-via-obs/"><u>2024 Approved High-Quality Live Streaming Games via OBS</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/dicas-estrategicas-para-backup-eficiente-de-pcs-e-servidores-nas-pequenas-and-grandes-empresas/"><u>Dicas Estratégicas Para Backup Eficiente De PCs E Servidores Nas Pequenas & Grandes Empresas</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-generative-ai-an-in-depth-guide/"><u>Exploring the World of Generative AI: An In-Depth Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-set-up-instant-access-to-tailored-gpt-solutions-for-your-needs/"><u>Get Set Up: Instant Access to Tailored GPT Solutions for Your Needs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-unveiled-decrypting-the-algorithm-of-conversation/"><u>GPT Unveiled: Decrypting the Algorithm of Conversation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-these-5-ai-text-creators-inspire-your-next-literary-masterpiece/"><u>How These 5 AI Text Creators Inspire Your Next Literary Masterpiece</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-deployment-discover-these-8-pre-configured-gpt-solutions-now/"><u>Immediate Deployment: Discover These 8 Pre-Configured GPT Solutions Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-deployment-discover-these-8-prebuilt-gpt-variants/"><u>Immediate Deployment: Discover These 8 Prebuilt GPT Variants</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improving-emotional-perception-via-chatgpt/"><u>Improving Emotional Perception via ChatGPT</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/premier-playwriting-for-podcasts-and-radios/"><u>Premier Playwriting for Podcasts & Radios</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-civi-3-disney-100th-anniversary-edition-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Civi 3 Disney 100th Anniversary Edition Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

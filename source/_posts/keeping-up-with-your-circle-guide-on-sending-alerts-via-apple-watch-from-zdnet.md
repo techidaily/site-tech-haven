@@ -1,7 +1,7 @@
 ---
 title: "Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch From ZDNet"
-date: 2024-10-24T18:53:39.968Z
-updated: 2024-10-27T18:49:43.001Z
+date: 2024-10-31T12:53:18.994Z
+updated: 2024-11-01T19:52:05.723Z
 tags:
   - apple
 categories:
@@ -41,10 +41,16 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -69,11 +75,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -85,25 +105,11 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -113,18 +119,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,22 +168,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-masterclass-in-glamour-beauty-tutorials-for-all/"><u>[New] Masterclass in Glamour Beauty Tutorials for All</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-revolutionizing-facebook-advertising-through-creative-insight-for-2024/"><u>[New] Revolutionizing Facebook Advertising Through Creative Insight for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-tecno-pova-5-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Tecno Pova 5 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/counteracting-ai-mimicry-with-nightshades-artistic-shield/"><u>Counteracting AI Mimicry with Nightshade's Artistic Shield</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-engaging-slideshows-with-chatgpt-tips-and-techniques/"><u>Crafting Engaging Slideshows with ChatGPT: Tips and Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-efficient-ai-powered-mobile-search-via-bing-app/"><u>Discover Efficient AI-Powered Mobile Search via Bing App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-7-best-smart-tools-using-artificer-intelligence-to-craft-engaging-presentations/"><u>Discover the 7 Best Smart Tools Using Artificer Intelligence to Craft Engaging Presentations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-the-heartbeat-of-creativity-in-chatgpts-world/"><u>Discovering the Heartbeat of Creativity in ChatGPT's World</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-techniques-to-incorporate-chatgpt-into-remote-workspace-assemblies/"><u>Effective Techniques to Incorporate ChatGPT Into Remote Workspace Assemblies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-search-game-with-microsofts-bing-and-next-gen-ai-innovations/"><u>Elevate Your Search Game with Microsoft's Bing and Next-Gen AI Innovations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-these-7-innovative-programming-tools-ideal-options-instead-of-chatgpt/"><u>Explore These 7 Innovative Programming Tools - Ideal Options Instead of ChatGPT</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-s18-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/five-tips-to-reignite-the-print-on-your-canon-printer-in-windows-11-os/"><u>Five Tips to Reignite the Print on Your Canon Printer in Windows 11 OS</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-12-pro-max-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 12 Pro Max Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-moto-g84-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Moto G84 5G Device</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/top-mobile-apps-for-converting-videos-to-audio-files-2023-update-for-2024/"><u>Top Mobile Apps for Converting Videos to Audio Files (2023 Update) for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-10-podcasting-audio-to-text-transcription-software/"><u>Updated Top 10 Podcasting Audio to Text Transcription Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-keyiphones-best-podcast-players-ranked/"><u>[New] KeyiPhone's Best Podcast Players Ranked</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-from-phone-footage-to-channel-fame-a-seamless-setup-for-your-businesspersonal-brand-for-2024/"><u>[Updated] From Phone Footage to Channel Fame A Seamless Setup for Your Business/Personal Brand for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-easing-into-your-youtube-watches-3-methods-50-chars/"><u>[Updated] In 2024, Easing Into Your YouTube Watches 3 Methods (50 Chars)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-comprehensive-guide-to-personal-safety-select-your-best-fit-trackers-for-different-sizes-of-belongings/"><u>A Comprehensive Guide to Personal Safety - Select Your Best Fit Trackers For Different Sizes of Belongings</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/creative-tims-no-cost-bootstrap-4-and-vue-framework-based-admin-dashboard/"><u>Creative Tim's No-Cost Bootstrap 4 and Vue Framework Based Admin Dashboard</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify malfunctioning drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/scripting-striking-film-epilogues/"><u>Scripting Striking Film Epilogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/thought-innovation-ai-mindmaps-for-ideas/"><u>Thought Innovation: AI, Mindmaps for Ideas</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-10-tech-thinkers-debate-the-ai-landscape/"><u>Top 10 Tech Thinkers Debate the AI Landscape</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-pitfalls-in-gpt-based-dialogues/"><u>Top 6 Pitfalls in GPT-Based Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-kitchen-with-chatgpt-top-7-strategies-for-aspiring-chefs/"><u>Transform Your Kitchen with ChatGPT - Top 7 Strategies for Aspiring Chefs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-task-management-unveil-the-7-key-advantages-of-chatgpt-in-professional-settings/"><u>Transforming Task Management: Unveil the 7 Key Advantages of ChatGPT in Professional Settings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-ai-chatbots-exploring-their-popularity-in-modern-tech/"><u>Understanding AI Chatbots: Exploring Their Popularity in Modern Tech</u></a></li>
 </ul></div>
 

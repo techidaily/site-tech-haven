@@ -1,7 +1,7 @@
 ---
 title: Top AI Innovations Every Entrepreneur Must Learn About Today
-date: 2024-08-29T02:26:57.923Z
-updated: 2024-08-30T02:26:57.923Z
+date: 2024-10-30T07:21:12.904Z
+updated: 2024-11-02T00:42:22.921Z
 tags:
   - chatgpt
   - open-ai
@@ -39,33 +39,34 @@ thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb
 
  These all point to one exciting reality: GPT-5 is coming! That said, quite a lot of things are speculations at this point. But there are a few things we hope to see and are fairly confident of seeing in the model. Here are some of them:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. More Multimodality
 
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
 
  With GPT-4 already adept at handling image inputs and outputs, improvements covering audio and video processing are the next milestone for OpenAI, and GPT-5 is a good place to start. Google is already making serious headway with this sort of multimodality with its Gemini AI model. It would be uncharacteristic of OpenAI not to respond. But, of course, don't take our word for it. In his[Unconfuse Me podcast](https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/f0d6c3f0-00cc-4ab6-93cc-7f1d7fd3246e/Unconfuse-Me-with-Bill-Gates-episode-6-TGN-transcript.pdf) \[PDF transcript\], Bill Gates asked OpenAI CEO Sam Altman what milestones he foresaw for the GPT series in the next two years. His first answer? Video Processing.
 
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 2\. Larger and More Efficient Context Window
 
 ![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
  Despite being one of the most sophisticated AI models in the market, the GPT family of AI models has one of the smallest context windows. For instance,[Google's Gemini can process a staggering 1 million tokens](<http://C:\Users\DELL\Desktop\Chatbase> images\OpenAI Sora text-to-video generator.jpg) , while[ Google's Gemini can process a staggering 1 million tokens](https://www.makeuseof.com/why-gemini-context-window-is-a-game-changer/) (128,000 for standard usage). In contrast, GPT-4 has a relatively smaller context window of 128,000 tokens, with approximately 32,000 tokens or fewer realistically available for use on interfaces like ChatGPT.
@@ -75,15 +76,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. GPT Agents
 
 ![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
 
  Perhaps one of the most exciting possibilities of a GPT-5 release is the debut of GPT Agents. While the term "game-changer" has probably been overused in AI, GPT agents would truly be game-changers in every practical sense. But just how game-changing would this be?
@@ -110,14 +119,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  As we eagerly await the official release of this highly anticipated AI model, one thing is certain: GPT-5 has the potential to redefine the boundaries of what is possible with artificial intelligence, ushering in a new era of human-machine collaboration and innovation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +132,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-troubleshooting-obs-frame-loss/"><u>[Updated] In 2024, Troubleshooting OBS Frame Loss</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mastering-vocal-transformations-high-ranked-app-options/"><u>[Updated] Mastering Vocal Transformations High-Ranked App Options</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-painting-pictures-perfectly-adobe-color-correction-basics/"><u>[Updated] Painting Pictures Perfectly Adobe Color Correction Basics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-restoring-blacked-out-webcam-in-windows/"><u>A Step-by-Step Guide to Restoring Blacked-Out Webcam in Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715859602490-in-2024-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>In 2024, Expert Picks Top 12 Screen Recording Software, No Time Limit!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/os-melhores-5-ferramentas-de-compilacao-e-edicao-de-pdf-pretinho-no-mac-recomendacoes-para-2024/"><u>Os Melhores 5 Ferramentas De Compilação E Edição De PDF Pretinho No Mac - Recomendações Para 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-converting-punjabi-music-files-into-mp3-format-on-macos-and-windows/"><u>Step-by-Step Guide: Converting Punjabi Music Files Into MP3 Format on macOS & Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-stopping-windows-11s-observer-mode/"><u>Strategies for Stopping Windows 11'S Observer Mode</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-chromium-enhancers-powered-by-artificial-intelligence/"><u>Top 8 Chromium Enhancers Powered by Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-9-introductory-ai-tool-groups-for-newcomers/"><u>Top 9 Introductory AI Tool Groups for Newcomers</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-strategies-for-fixing-apple-watch-connectivity-issues-on-iphone-13-14-and-15/"><u>Top Strategies for Fixing Apple Watch Connectivity Issues on iPhone 13, 14 & 15</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transformative-writing-techniques-chatgpts-role-in-poetry/"><u>Transformative Writing Techniques: ChatGPT's Role in Poetry</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-ideas-optimizing-projects-via-chatgpt-tactics/"><u>Transforming Ideas: Optimizing Projects via ChatGPT Tactics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-innovation-combining-mind-mapping-techniques-and-ai-chatbots-for-brainstorming-sessions/"><u>Unlocking Innovation: Combining Mind Mapping Techniques and AI Chatbots for Brainstorming Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-gpt-5-top-4-desired-enhancements-awaiting-implementation/"><u>Unveiling GPT-5: Top 4 Desired Enhancements Awaiting Implementation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-how-chatgpt-crafts-responses-without-copying-content/"><u>Unveiling How ChatGPT Crafts Responses Without Copying Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-of-chatgpts-code-interpreter-its-crucial-role-explained/"><u>Unveiling the Secrets of ChatGPT's Code Interpreter: Its Crucial Role Explained</u></a></li>
+</ul></div>
 

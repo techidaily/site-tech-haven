@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Installing the Open Source Office Program, LibreOffice, in Place of MS Office on macOS Devices | ZDNET Insights
-date: 2024-10-25T18:01:48.324Z
-updated: 2024-10-27T16:08:49.818Z
+date: 2024-10-29T02:26:19.916Z
+updated: 2024-11-02T07:25:46.835Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ It fits onto your screen tightly with an EZ Apply Tray to simplify application, 
 
 [Best iPad screen protector for a paper-like feel Paperlike 2.1 iPad Screen Protector The Paperlike screen protector transforms your screen to feel like a piece of paper and mimics a more realistic writing, drawing, and sketching experience. It's made of tempered glass with a smooth, scratch-resistant surface and reinforced edges for better longevity. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJS86VV9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[Best privacy iPad screen protector Sahara iPad ZeroDamage UltraStrong+ Tempered Glass Screen Protector You'll also be assured that whatever you're watching, working on, or browsing stays unseen by passerbys thanks to the Sahara's privacy screen, which blocks the view of any person trying to view your screen, whether to the left or right of you, within a 38-degree angle. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BNCGQJ18%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A basic case
 
 Listen, this may be a hot take to some, but in 2024, outfitting your [expensive Apple tablet](https://www.zdnet.com/article/best-ipad/) with a case is an absolute must (I have the same stance on iPhones). It makes no sense to purchase such a costly piece of tech and not properly [protect it](https://www.zdnet.com/article/best-ipad-pro-case/). It doesn't matter if you've never broken a piece of tech in your life. The good news is that the [best iPad cases](https://www.zdnet.com/article/best-ipad-air-case/) don't have to break the bank, and often add features like kickstands, stylus holders, and rugged protection, too. 
@@ -88,6 +81,13 @@ When ZDNET's Senior Reviews Editor, Kerry Wan, tested the Combo Touch and Logite
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB086LLWG2N%2Fref%3Dasc%5Fdf%5FB086LLWG2N1727521200000%3Fcreative%3D395261%26creativeASIN%3DB086LLWG2N%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6408723%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6408723.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)[View now at B&H Photo-Video](https://www.bhphotovideo.com/c/product/1560843-REG/logitech%5F920%5F009608%5Fcombo%5Ftouch%5Ffor%5Fipad.html/BI/23252/KBID/28790/SID/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) 
 
 [Best keyboard case from Apple Apple Magic Keyboard Folio Designed specially for the 10th-generation iPad, it features a built-in trackpad, a 14-key function row, an adjustable stand and detachable keyboard, and a versatile two-piece design. It's the most obvious choice on the market if you're looking for a keyboard case for your iPad, but keep in mind it costs over $200. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Magic-Keyboard-Folio-10th-Generation%2Fdp%2FB0BJLFH8RC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[Best iPad keyboard for the iPad Pro 13-inch Apple Magic Keyboard for iPad Pro (2024) Apple's newest Magic Keyboard is compatible with the new iPad Pro models. Available in an 11-inch or 13-inch configuration, this new keyboard offers a larger trackpad and a sleeker design, amongst other features. Preorder it now. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR43LL%2FA%2Fmagic-keyboard-for-ipad-pro-13%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best keyboard case for iPad Pro Apple Magic Keyboard for iPad Pro Apple's Magic Keyboard costs a hefty $299, but it features quiet, backlit keys and has angle adjustability, and is the flagship keyboard case for the iPad Pro. View at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMagic-Keyboard-for-iPad-Pro-11-inch-4th-generation-and-iPad-Air-5th-generation-US-English-Black-iPad-Not-Included%2F984505060&subId1=zd-__COM_CLICK_ID__-dtp)[Best budget keyboard case ESR Rebound Magnetic Keyboard Case The ESR Rebound Magnetic Keyboard features similar top specs like a trackpad, long-lasting battery, a floating, angled stand for viewing, laptop-style keys, a stylus holder and front and back protection, but at a lower price of $105. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Compatible-Cantilever-Precision-Multi-Touch%2Fdp%2FB09N744Y4C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A stylus
 
@@ -130,22 +130,15 @@ While everyone's idea of essential accessories for their iPad will be different,
 [Logitech i345 Portable Wireless Mouse for iPad $22.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08MY7JDT4%2Fref%3Dasc%5Fdf%5FB08MY7JDT41727521200000%3Fcreative%3D395261%26creativeASIN%3DB08MY7JDT4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best iPad?
 
 ZDNET's top pick for the best iPad is the iPad Air (5th generation) because it includes nearly all of the best features the iPad has to offer at a price that's more approachable than the iPad Pro. However, we'd recommend the 10th-generation iPad model for Facetime and Zoom purposes, and those who want a portable tablet for reading should go with the iPad Mini (6th generation). 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the new iPad models?
 
@@ -156,10 +149,16 @@ Apple announced the 6th-generation iPad Air and the 7th-generation iPad Pro mode
 The new iPad Air comes in two sizes for the first time (11 inches and 13 inches) and features the M2 chip. In addition, the iPad Air now starts at 128GB instead of the mere 64GB that Apple previous included in the base model.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is there a new Magic Keyboard?
@@ -169,6 +168,13 @@ Yes, there is a new Magic Keyboard for the iPad Pro. On May 7, Apple announced a
 **Also:** [**Everything Apple announced at its 'Let Loose' iPad event**](https://www.zdnet.com/article/everything-apple-announced-at-its-ipad-event-today-ipad-pro-air-pencil-m4-and-more/)
 
 This new Magic Keyboard is only compataible with the new M4 iPad Pro 11-inch and 13-inch models, and includes a larger trackpad, a function row, and other upgraded features. It is available for preorder now. The [11-inch Magic Keyboard](https://www.apple.com/shop/product/MWR03LL/A/magic-keyboard-for-ipad-pro-11%E2%80%91inch-m4-us-english-white) model will costs $299 while the [13-inch is $399](https://www.apple.com/shop/product/MWR43LL/A/magic-keyboard-for-ipad-pro-13%E2%80%91inch-m4-us-english-white). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's the Apple Pencil Pro?
 
@@ -204,20 +210,18 @@ The Apple Pencil Pro was announced on May 7 and features a slew of new features 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-amplify-your-social-impact-with-these-innovative-fb-growth-tactics/"><u>[Updated] Amplify Your Social Impact with These Innovative FB Growth Tactics</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-craft-a-chic-google-collage-in-minutes-not-hours/"><u>[Updated] In 2024, Craft a Chic Google Collage in Minutes, Not Hours</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-youtube-monetization-policy-updated-requirements-and-guidelines/"><u>2024 Approved YouTube Monetization Policy Updated Requirements and Guidelines</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/7-innovative-programming-tools-that-challenge-chatgpts-auto-coding-dominance/"><u>7 Innovative Programming Tools That Challenge ChatGPT's Auto-Coding Dominance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-deeper-dive-into-claude-pro-and-its-competition-with-chatgptplus/"><u>A Deeper Dive Into Claude Pro and Its Competition with ChatGPT+</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-journey-through-cyberspace-security-the-role-and-advances-of-vpns/"><u>A Journey Through Cyberspace Security: The Role and Advances of VPNs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/activate-your-androids-voice-command-capabilities-with-a-customized-chatgpt-through-the-voicegpt-app/"><u>Activate Your Android's Voice Command Capabilities with a Customized ChatGPT Through the VoiceGPT App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/auto-gpt-vs-gpt-4-determining-the-value-of-using-auto-gpt-without-the-next-generation-model/"><u>Auto-GPT Vs. GPT-4: Determining the Value of Using Auto-GPT Without the Next Generation Model</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bot-communication-how-they-pretend-to-speak/"><u>Bot Communication: How They Pretend to Speak</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-connectivity-download-latest-drivers-for-intel-wi-fi-6-ax200-on-windows-10-and-11-systems/"><u>Enhance Connectivity: Download Latest Drivers for Intel Wi-Fi 6 AX200 on Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-v29e-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo V29e Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/streamlining-your-youtube-music-journey-for-2024/"><u>Streamlining Your YouTube Music Journey for 2024</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-tecno-spark-20-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Tecno Spark 20 Pro</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unveiling-exciting-photography-aspects-of-ios-11-for-2024/"><u>Unveiling Exciting Photography Aspects of iOS 11 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screen-capture-without-breaking-the-bank-our-top-picks-for-2024/"><u>[New] Screen Capture Without Breaking the Bank Our Top Picks for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-initiate-google-meet-using-your-gadget-for-2024/"><u>[Updated] Initiate Google Meet Using Your Gadget for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-tecno-pop-7-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Tecno Pop 7 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/craft-your-ais-voice-integrating-your-dataset-with-a-homemade-chatgpt-model/"><u>Craft Your AI's Voice: Integrating Your Dataset with a Homemade ChatGPT Model</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/create-like-never-before-utilizing-free-dall-e-3-via-microsoft-bing/"><u>Create Like Never Before: Utilizing Free DALL-E 3 via Microsoft Bing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cultivating-emotional-savvy-with-chatgpt-techniques-for-personal-growth/"><u>Cultivating Emotional Savvy with ChatGPT: Techniques for Personal Growth</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/custom-ai-solutions-at-your-fingertips-introducing-openais-gpt-store-for-immediate-use/"><u>Custom AI Solutions at Your Fingertips – Introducing OpenAI’s GPT Store for Immediate Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-artificial-intelligence-for-beginners-in-plain-language/"><u>Decoding Artificial Intelligence for Beginners in Plain Language</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-chatgpt-capabilities/"><u>Demystifying ChatGPT Capabilities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ensuring-security-exploring-how-apple-protects-your-ai-data-on-the-cloud-insights-for-tech-enthusiasts/"><u>Ensuring Security: Exploring How Apple Protects Your AI Data on the Cloud - Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-secure-to-use-chatgpt-exploring-6-key-cybersecurity-issues-you-should-know-about/"><u>Is It Secure to Use ChatGPT? Exploring 6 Key Cybersecurity Issues You Should Know About</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/live-stream-showdown-pick-your-favorite-vmix-or-wirecast/"><u>Live Stream Showdown Pick Your Favorite, VMix or Wirecast</u></a></li>
+<li><a href="https://fox-access.techidaily.com/master-list-saving-your-favorite-ringtone-files-for-2024/"><u>Master List Saving Your Favorite Ringtone Files for 2024</u></a></li>
 </ul></div>
 

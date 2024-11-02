@@ -1,7 +1,7 @@
 ---
 title: "Enhance Communication: Using Your Apple Watch to Reach Loved Ones Effortlessly | ZDNET"
-date: 2024-10-21T18:59:34.590Z
-updated: 2024-10-27T16:17:24.127Z
+date: 2024-10-28T16:17:50.501Z
+updated: 2024-11-02T06:33:12.141Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ Serious athletes will likely be drawn to these features since this is the first 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
@@ -59,6 +59,13 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 
 Apple
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
 The Smart Stack, introduced in WatchOS 10, is improving slightly with some new widgets.
@@ -68,13 +75,6 @@ Apple is adding one for Shazam, Photos, Distance, and more. Plus, Smart Stack ca
 Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live events, Ubers, food orders, and more on your wrist.
 
 Apple
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. The Photos face, powered by machine learning
 
@@ -90,16 +90,16 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
 
@@ -111,6 +111,13 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
@@ -118,13 +125,6 @@ Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhi
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -160,19 +160,16 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-discover-the-innovations-in-iphone-xs-imaging-system/"><u>[New] 2024 Approved Discover the Innovations in iPhone X's Imaging System</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-lockdown-protocol-instantaneous-secure-tiktok-link-addition/"><u>[New] In 2024, Lockdown Protocol Instantaneous, Secure TikTok Link Addition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlock-artistic-methods-in-fb-video-ad-production/"><u>[New] Unlock Artistic Methods in FB Video Ad Production</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-list-of-top-tier-facebook-profile-picture-designers-for-2024/"><u>[Updated] The Ultimate List of Top-Tier Facebook Profile Picture Designers for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Redmi Note 12 5G</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/instagram-video-orientation-whats-the-flip-in-2024/"><u>Instagram Video Orientation - What's the Flip, In 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-art-of-pan-and-zoom-how-to-achieve-the-ken-burns-effect/"><u>New 2024 Approved The Art of Pan and Zoom How to Achieve the Ken Burns Effect</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-advanced-llms-an-in-depth-review/"><u>Top 6 Advanced LLMs: An In-Depth Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-gpt-powered-tools-you-should-skip-avoiding-unworthy-investments/"><u>Top 6 GPT-Powered Tools You Should Skip: Avoiding Unworthy Investments</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-industries-through-chatgpt-and-whisper-apis/"><u>Transforming Industries Through ChatGPT and Whisper APIs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/translation-showdown-chatgpt-vs-google-translate-who-reigns-supreme/"><u>Translation Showdown: ChatGPT Vs. Google Translate - Who Reigns Supreme?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/truth-or-fiction-top-free-ppc-games-reviewed/"><u>Truth or Fiction? Top Free PPC Games Reviewed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ai-types-public-private-and-personal-the-key-distinctions/"><u>Understanding AI Types: Public, Private & Personal - The Key Distinctions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/video-vanguard-sj6-legend-against-xiaomis-yi-kickstart/"><u>Video Vanguard SJ6 Legend Against Xiaomi's Yi Kickstart</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-business-communication-essentials-free-slide-show-tools/"><u>[New] 2024 Approved Business Communication Essentials – Free Slide Show Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/racking-your-channels-ad-revenue-accrual/"><u>[New] Tracking Your Channel's Ad Revenue Accrual</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-itel-a70-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Itel A70 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-essential-tips-for-converting-videos-to-mac-discs/"><u>In 2024, Essential Tips for Converting Videos to Mac Discs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-one-youtube-feed-how-to-merge-multiple-videos/"><u>In 2024, One YouTube Feed How to Merge Multiple Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-code-synthesis-a-tutorial-on-deploying-codegpt-in-vs-code/"><u>Mastering Code Synthesis: A Tutorial on Deploying CodeGPT in VS Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-llama-er-2-functionality-explained-with-practical-advice/"><u>Mastering Llama Er 2: Functionality Explained with Practical Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/matching-minds-3-bots-vs-unified-creativity-task/"><u>Matching Minds? 3 Bots Vs. Unified Creativity Task</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-through-fake-responses-with-these-chatgpt-detection-resources-for-educators/"><u>Navigate Through Fake Responses with These ChatGPT Detection Resources for Educators</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-play-7t-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor Play 7T Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-motorola-moto-g13-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Motorola Moto G13 Phone Network-Ready</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "July's Top Discounted Apple Gadgets: IPhones to iPads - Special Deals Revealed by ZDNET"
-date: 2024-10-21T18:41:41.435Z
-updated: 2024-10-27T18:14:01.815Z
+date: 2024-11-01T07:02:45.080Z
+updated: 2024-11-01T17:38:41.889Z
 tags:
   - apple
 categories:
@@ -158,10 +158,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple accessory deals
@@ -179,32 +179,39 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
 
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -239,13 +246,6 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -291,20 +291,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/bard-how-google-is-stepping-up-to-compete-in-the-ai-conversationalist-space-against-chatgpt/"><u>'BARD': How Google Is Stepping Up to Compete in the AI Conversationalist Space Against ChatGPT</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-in-depth-analysis-of-gradual-audio-lowering-with-lumafusion/"><u>[New] 2024 Approved In-Depth Analysis of Gradual Audio Lowering with Lumafusion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-flight-dynamics-unveiling-bebops-parrot-capabilities/"><u>[Updated] 2024 Approved Flight Dynamics Unveiling Bebop’s Parrot Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-oversight-four-potential-regulatory-avenues/"><u>Artificial Intelligence Oversight: Four Potential Regulatory Avenues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/breakdown-of-artificial-intelligence-lexicon-grasping-29-keywords-you-need/"><u>Breakdown of Artificial Intelligence Lexicon: Grasping 29 Keywords You Need</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-interactions-with-users-help-improve-chatgpts-learning-process/"><u>Can Interactions With Users Help Improve ChatGPT's Learning Process?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-tutorial-on-extracting-and-exporting-chatgpt-dialogues/"><u>Comprehensive Tutorial on Extracting & Exporting ChatGPT Dialogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciding-on-an-assistant-in-depth-look-at-claude-and-chatgpt-for-daily-functionality/"><u>Deciding on an Assistant: In-Depth Look at Claude and ChatGPT for Daily Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/digital-dialogue-dynamics-gpt-and-googles-bard-face-off/"><u>Digital Dialogue Dynamics: GPT & Google’s Bard Face-Off</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dji-phantom-3-the-pro-drone-experience-explored/"><u>DJI Phantom 3 The Pro Drone Experience Explored</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-xcover-7-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy XCover 7 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-a18-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo A18 FRP?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y56-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y56 5G Phone that is Locked?</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/maximizing-engagement-in-online-collaboration-with-snap-camera/"><u>Maximizing Engagement in Online Collaboration with Snap Camera</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/step-into-photo-magic-innovative-edits-on-snapchat-for-2024/"><u>Step Into Photo Magic Innovative Edits on Snapchat for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-settle-down-with-our-best-10-chill-titles/"><u>[New] In 2024, Settle Down with Our Best 10 Chill Titles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-live-streams-on-youtube-and-twitch-with-ease-via-obs/"><u>[Updated] Navigating Live Streams on YouTube & Twitch with Ease via OBS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-15-popular-youtube-intro-video-templates/"><u>2024 Approved 15 Popular YouTube Intro Video Templates</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comparative-analysis-spotlighting-8-major-discrepancies-between-my-snapchat-ai-and-bing-chat/"><u>A Comparative Analysis: Spotlighting 8 Major Discrepancies Between My Snapchat AI and Bing Chat</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adapting-to-remote-work-6-powerful-chatgpt-tools/"><u>Adapting to Remote Work: 6 Powerful ChatGPT Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-algebra-assistance-explore-the-7-premier-ai-solutions-for-math-puzzles/"><u>Advanced Algebra Assistance: Explore the 7 Premier AI Solutions for Math Puzzles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assistants-showdown-why-pick-myai-over-chatgpt/"><u>AI Assistants Showdown: Why Pick MyAI Over ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assisted-dungeons-and-dragons-crafting-memorable-characters-with-the-help-of-chatgpt-and-dall-e-tools/"><u>AI Assisted Dungeons & Dragons: Crafting Memorable Characters with the Help of ChatGPT and DALL-E Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-driven-communication-to-mitigate-social-isolation/"><u>AI-Driven Communication to Mitigate Social Isolation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-these-8-side-hustles-using-chatgpt-legit-making-extra-cash-discussed/"><u>Are These 8 Side Hustles Using ChatGPT Legit? Making Extra Cash Discussed!</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/discover-the-top-4-alternatives-to-airdrop-for-effortless-cross-platform-file-transfers-on-pc/"><u>Discover the Top 4 Alternatives to AirDrop for Effortless Cross-Platform File Transfers on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722143068404-exiting-the-gpt-world-now/"><u>Exiting the GPT World – Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-limitless-potential-of-imagination-using-free-dall-e-3-on-bing/"><u>Explore the Limitless Potential of Imagination: Using Free DALL-E 3 on Bing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-12-simple-tricks-to-make-your-youtube-videos-go-viral/"><u>In 2024, 12 Simple Tricks to Make Your YouTube Videos Go Viral</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-se-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-power-of-ai-boosting-home-routine-productivity/"><u>The Power of AI: Boosting Home Routine Productivity</u></a></li>
 </ul></div>
 

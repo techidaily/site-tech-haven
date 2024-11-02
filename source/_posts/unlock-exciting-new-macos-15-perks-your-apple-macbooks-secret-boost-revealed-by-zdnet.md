@@ -1,7 +1,7 @@
 ---
 title: "Unlock Exciting New MacOS 15 Perks: Your Apple MacBook's Secret Boost Revealed by ZDNet!"
-date: 2024-10-23T18:10:31.858Z
-updated: 2024-10-27T18:26:43.793Z
+date: 2024-10-31T19:14:11.126Z
+updated: 2024-11-02T06:37:17.589Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Apple announced an innovative feature coming to AirPods Pro 2 when iOS 18 is rel
 Then, if needed, the AirPods Pro 2 can use the wearer's results and double as an over-the-counter hearing aid. This feature will allow the Pro 2 earbuds to use their directional microphones to amplify conversational noises for users who have difficulty hearing conversations in noisy environments. Apple is still waiting for the FDA to approve this feature, but the company expects the approval to be ready for iOS 18's release.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Find My speaker
@@ -48,10 +48,10 @@ Apple's AirPods Pro 2 feature a small speaker on the bottom of the charging case
 Jada Jones/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods Max wired listening
@@ -71,16 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Now, if you have an iPhone 15 or newer, you can plug a USB-C cable into your iPhone and AirPods Max and begin listening. If you have an iPhone 14 or older, you can use a Lightning-to-USB-C adapter to plug into the new AirPods Max.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A 'Goldilocks' pair of AirPods
@@ -121,15 +115,20 @@ Now, you can buy the AirPods 4 with noise cancellation, which offer upgraded aud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-achieve-flawless-video-for-instagram-perfection/"><u>[Updated] 2024 Approved Achieve Flawless Video for Instagram Perfection</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/expert-guide-to-free-pc-software-for-capturing-tv/"><u>Expert Guide to Free PC Software for Capturing TV</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-nokia-g42-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Nokia G42 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-workflow-discover-10-must-have-plugins-for-chatgpt-and-pdf-management/"><u>Streamline Workflow: Discover 10 Must-Have Plugins for ChatGPT and PDF Management</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/to-what-extent-does-chatgpt-utilize-user-exchanges-to-refine-its-understanding-and-responses/"><u>To What Extent Does ChatGPT Utilize User Exchanges to Refine Its Understanding and Responses?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-concerns-relying-on-chatgpt-for-health-guidance/"><u>Top 5 Concerns: Relying on ChatGPT for Health Guidance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-innovative-ai-powered-counselor-bots-and-applications-for-overcoming-emotional-struggles/"><u>Top 5 Innovative AI-Powered Counselor Bots & Applications for Overcoming Emotional Struggles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-8-solutions-to-resolve-microsoft-windows-11-update-error-0x800f0922/"><u>Top 8 Solutions to Resolve Microsoft Windows 11 Update Error 0X800F0922</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-parent-controlled-wifi-devices/"><u>Top Rated Parent-Controlled WiFi Devices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unraveling-tales-the-top-storytelling-channels-on-yt-this-year/"><u>Unraveling Tales The Top Storytelling Channels on YT This Year</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-dividing-footage-top-splitcams-worth-in-review/"><u>[New] 2024 Approved Dividing Footage Top SplitCam's Worth in Review?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-instant-thumbnail-transformation-personalized-youtube-shorts-in-a-flash/"><u>[New] Instant Thumbnail Transformation Personalized YouTube Shorts in a Flash</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-selecting-text-enhancement-websites/"><u>[New] The Ultimate Guide to Selecting Text Enhancement Websites</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-advanced-editing-for-published-youtube-videos/"><u>[Updated] 2024 Approved Advanced Editing for Published YouTube Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-understanding-the-economics-youtubes-new-model-for-content-creators-and-viewers/"><u>2024 Approved Understanding the Economics YouTube's New Model for Content Creators and Viewers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-innovative-uses-of-chatgpt-real-world-applications-unveiled/"><u>7 Innovative Uses of ChatGPT: Real-World Applications Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-dialogue-dilemma-top-8-issues-in-openais-gpt/"><u>AI Dialogue Dilemma: Top 8 Issues in OpenAI's GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-jest-makers-can-chatgpts-wit-truly-induce-humor/"><u>AI Jest-Makers: Can ChatGPT's Wit Truly Induce Humor?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artistic-titans-including-sarah-silverman-take-on-tech-giants-exploring-the-lawsuit-against-openai-and-metas-ai-practices/"><u>Artistic Titans, Including Sarah Silverman, Take on Tech Giants - Exploring the Lawsuit Against OpenAI and Meta's AI Practices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-artificial-smarts-the-heavy-hitters/"><u>Assessing Artificial Smarts: The Heavy Hitters</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722196321944-clear-twitters-of-checkmarks-linuss-truths-uncovered-trojan-clarified-and-ai-bots-faults-exposed/"><u>Clear Twitters of Checkmarks, Linus’s Truths Uncovered, Trojan Clarified, & AI Bots' Faults Exposed</u></a></li>
+<li><a href="https://win-hot.techidaily.com/complete-users-manual-mastering-data-transfer-with-usmt-in-windows-11-and-beyond/"><u>Complete User's Manual: Mastering Data Transfer with USMT in Windows 11 and Beyond</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/convert-webm-to-mp4-with-ease-best-tools-revealed-for-2024/"><u>Convert WebM to MP4 with Ease Best Tools Revealed for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-zte-axon-40-lite-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset ZTE Axon 40 Lite | Dr.fone</u></a></li>
 </ul></div>
 

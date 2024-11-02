@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Management System - A Comprehensive Guide"
-date: 2024-10-22T16:24:11.723Z
-updated: 2024-10-27T16:04:41.713Z
+date: 2024-10-28T22:51:45.539Z
+updated: 2024-11-01T18:26:12.377Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,24 +134,18 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-creator-to-earnings-successful-youtube-short-strategies-for-2024/"><u>[New] From Creator to Earnings Successful YouTube Short Strategies for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-mixing-tunes-with-videos-on-vimeo-platform-for-2024/"><u>[New] Mixing Tunes with Videos on Vimeo Platform for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1724765636987-2024/"><u>「オフラインでも続く、2024年のお勧めミュージックアプリ - 通信量は心配いらない」</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/movavi-mka-to-aac/"><u>無縫移動：如何免費使用Movavi 進行 MKA to AAC 的在線音頻格式轉換</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722118515473-bring-your-mobile-experience-upgrade-with-bings-new-ai-search-feature-for-iosandroid-devices/"><u>Bring Your Mobile Experience Upgrade with Bing's New AI Search Feature for iOS/Android Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722122779069-chatgpt-surprises-with-gaming-fun-check-out-these-exceptional-game-picks-for-non-stop-entertainment/"><u>ChatGPT Surprises with Gaming Fun! Check Out These Exceptional Game Picks for Non-Stop Entertainment</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-s17t-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo S17t Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-non-responsive-google-chrome-errors-effectively/"><u>How to Resolve Non-Responsive Google Chrome Errors Effectively</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-vintage-film-effect-1980s-how-to-create/"><u>In 2024, Vintage Film Effect 1980S - How to Create</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-issue-missing-touchscreen-controls-and-virtual-keyboard-accessibility/"><u>Resolved Issue: Missing Touchscreen Controls and Virtual Keyboard Accessibility</u></a></li>
-<li><a href="https://win-answers.techidaily.com/star-wars-jedi-fallen-order-solving-the-issue-of-failed-launch/"><u>Star Wars Jedi: Fallen Order - Solving the Issue of Failed Launch</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-computers-processor-drivers-on-windows/"><u>Step-by-Step Guide: Updating Your Computer's Processor Drivers on Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-threats-behind-installing-gpt-on-devices/"><u>The Threats Behind Installing GPT on Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/these-9-fake-chatgpt-virus-and-malware-apps-can-steal-your-data/"><u>These 9 Fake ChatGPT Virus and Malware Apps Can Steal Your Data</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-must-have-ai-chatbot-plugins-for-visual-studio-code/"><u>Top 6 Must-Have AI Chatbot Plugins for Visual Studio Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-premier-platforms-for-accessing-artificial-intelligence-driven-prompts/"><u>Top 7 Premier Platforms for Accessing Artificial Intelligence-Driven Prompts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unanswerable-inquiries-in-language-models/"><u>Unanswerable Inquiries in Language Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-implications-for-privacy-when-interacting-with-chatgpt/"><u>Understanding the Implications for Privacy When Interacting with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-leap-forward-in-ai-an-insight-into-googles-palm-2-model/"><u>Understanding the Leap Forward in AI: An Insight Into Google's PaLM 2 Model</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-premium-gopro-editing-applications-on-smartphones/"><u>[New] In 2024, Premium GoPro Editing Applications on Smartphones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-whatsapps-voice-communication-system/"><u>[Updated] Understanding WhatsApp's Voice Communication System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-conversations-unveiling-the-process-of-chatgpt/"><u>Decoding Conversations: Unveiling the Process of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-mystery-of-grok-ai-with-musks-insight-into-purpose-and-expenses/"><u>Decoding the Mystery of Grok AI with Musk's Insight Into Purpose & Expenses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-edge-computing-the-ins-and-outs-of-on-device-ai/"><u>Demystifying Edge Computing: The Ins and Outs of On-Device AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-how-these-7-apps-master-gpt-4s-ai/"><u>Demystifying How These 7 Apps Master GPT-4's AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empower-your-customer-experience-by-integrating-chatgpt-with-whatsapp/"><u>Empower Your Customer Experience by Integrating ChatGPT with WhatsApp</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-guide-to-leveraging-anthropics-newly-released-claude-3-platform/"><u>Essential Guide to Leveraging Anthropic's Newly-Released Claude 3 Platform</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hdr-standards-meeting-or-surpassing-with-aurora/"><u>HDR Standards Meeting or Surpassing with Aurora?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-blend-audio-and-visuals-editing-music-in-canva-videos/"><u>In 2024, Blend Audio & Visuals Editing Music in Canva Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-hidden-insta-story-accessibility-step-by-step-for-tech-savvy/"><u>In 2024, Hidden Insta Story Accessibility - Step-by-Step for Tech Savvy</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/personalized-startup-settings-tab-tailoring-your-applications-initial-environment/"><u>Personalized Startup Settings Tab: Tailoring Your Application's Initial Environment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-compressing-videos-into-zipped-folders-on-windows-11-including-images/"><u>Step-by-Step Guide: Compressing Videos Into Zipped Folders on Windows 11 – Including Images</u></a></li>
 </ul></div>
 

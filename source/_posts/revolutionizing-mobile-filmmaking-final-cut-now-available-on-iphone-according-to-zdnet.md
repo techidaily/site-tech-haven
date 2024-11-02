@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Mobile Filmmaking: Final Cut Now Available on iPhone, According to ZDNET"
-date: 2024-10-20T19:07:36.781Z
-updated: 2024-10-27T16:41:45.189Z
+date: 2024-10-31T17:47:13.386Z
+updated: 2024-11-01T21:40:55.449Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ Ever since, those attributes have defined all smartphones, save for one common s
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pre-modern smartphones
 
 Identifying the first anything is always a tricky undertaking. The very first device labeled as a smartphone (they called it a "Smart Phone") was the [Ericsson 88](https://www.mobilephonemuseum.com/phone-detail/gs-88) from 1997\. Only 200 were made, and it was mostly a personal digital assistant. It most definitely did not have a camera.
@@ -63,6 +56,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -82,6 +82,13 @@ Personally, the iPhone 3G was my first iPhone (there was no iPhone 2 or 3). I bo
 Over in the Android world, its first phone was the HTC Dream, also marketed as the [T-Mobile G1](https://www.cnet.com/reviews/t-mobile-g1-review/). It was released in October 2008 and was noteworthy for its slide-out display that opened to show a BlackBerry-style keyboard. This device came with a rear-facing 3.15MP camera.
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
 
@@ -114,10 +121,10 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
@@ -136,13 +143,6 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -158,10 +158,10 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Object knowledge
@@ -262,15 +262,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-elevate-your-editing-with-blend-mode-innovations/"><u>[New] 2024 Approved Elevate Your Editing with Blend Mode Innovations</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-infographic-8-ways-to-make-money-on-youtube-for-beginners/"><u>[Updated] In 2024, Infographic - 8 Ways to Make Money on YouTube for Beginners</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-melodic-integration-for-engaging-insta-posts/"><u>2024 Approved Melodic Integration for Engaging Insta Posts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-realism-in-ar-worlds-through-lut-techniques/"><u>Enhancing Realism in AR Worlds Through LUT Techniques</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-nubia-red-magic-9-proplus-lock-screen-password-by-drfone-android/"><u>How to Reset your Nubia Red Magic 9 Pro+ Lock Screen Password</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-smooth-out-gpts-body-stream-glitches/"><u>How to Smooth Out GPT's Body Stream Glitches</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-simple-screen-recorder-for-windows-11-download/"><u>In 2024, Simple Screen Recorder for Windows 11 Download</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-ai-into-development-processes-insights-from-experienced-coders/"><u>Integrating AI Into Development Processes: Insights From Experienced Coders</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/intuitive-driving-meets-innovation-mercedes-benzs-latest-feature-voice-controlled-chatgpt-system/"><u>Intuitive Driving Meets Innovation: Mercedes-Benz's Latest Feature - Voice-Controlled ChatGPT System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-courtesy-required-when-interacting-with-virtual-assistants-like-chatgpt-alexa-and-siri/"><u>Is Courtesy Required When Interacting with Virtual Assistants Like ChatGPT, Alexa, and Siri?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unleash-creativity-with-these-free-web-photo-editors/"><u>[New] In 2024, Unleash Creativity with These Free Web Photo Editors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-online-sensation-spotlight/"><u>[Updated] 2024 Approved Online Sensation Spotlight</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-use-screencastify-recorder/"><u>[Updated] How to Use Screencastify Recorder</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1-effortless-movie-and-tv-show-downloads-from-tune-entertainment-library/"><u>1. Effortless Movie and TV Show Downloads From Tune Entertainment Library</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-disabling-youtube-ads-across-chrome-firefox-android-and-ios-browsers/"><u>2024 Approved Disabling YouTube Ads Across Chrome, Firefox, Android & iOS Browsers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-se-2020-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone SE (2020)? How to Fix it?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-dismisses-sam-altman-from-leadership-implications-for-the-future-of-chatgpt/"><u>OpenAI Dismisses Sam Altman From Leadership: Implications for the Future of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-transitions-gpts-horizon-altered/"><u>OpenAI Transitions, GPT's Horizon Altered</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-fixing-lack-of-audio-in-your-netflix-streams/"><u>Quick Guide: Fixing Lack of Audio in Your Netflix Streams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/should-freelancers-use-bing-chat-or-chatgpt-8-factors-to-consider/"><u>Should Freelancers Use Bing Chat or ChatGPT? 8 Factors to Consider</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/start-a-conversation-learn-how-to-use-chatgpt-for-instant-communication/"><u>Start a Conversation: Learn How To Use ChatGPT for Instant Communication</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-into-ais-future-with-gpt-4-nevertheless-platinum-still-rewards-users-with-6-significant-advantages/"><u>Step Into AI's Future with GPT-4! Nevertheless, Platinum Still Rewards Users With 6 Significant Advantages</u></a></li>
+<li><a href="https://windows11.techidaily.com/stopping-spontaneous-hotkey-engagements-in-windows/"><u>Stopping Spontaneous Hotkey Engagements in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ai-tussle-continues-decide-between-snapchats-myai-and-gpt/"><u>The AI Tussle Continues: Decide Between Snapchat's MyAI & GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-artificer-evaluation-top-5-successors-to-the-classic-turing-test/"><u>The Future of Artificer Evaluation - Top 5 Successors to the Classic Turing Test</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-workforce-revolution-how-generative-ai-shapes-job-opportunnities-7-key-points/"><u>The Future Workforce Revolution: How Generative AI Shapes Job Opportunnities (7 Key Points)</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-xiaomi-redmi-a2plus-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Xiaomi Redmi A2+.</u></a></li>
 </ul></div>
 

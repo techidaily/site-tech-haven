@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Selection of Prime Deals: Save Big on HP, Apple, and Razer Laptops in Our 18-Pick Guide | ZDNET's Tech Savvy Picks"
-date: 2024-10-24T17:14:13.860Z
-updated: 2024-10-27T16:28:08.700Z
+date: 2024-10-26T18:48:34.536Z
+updated: 2024-11-02T08:40:10.053Z
 tags:
   - apple
 categories:
@@ -75,13 +75,6 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41726830000000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -89,6 +82,13 @@ Asus/ZDNET
 * [Acer Chromebook Plus 514 for $319 (Save $80)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Chromebook-Plus-Laptop-Google%2Fdp%2FB0CX28KX1N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This Chromebook Plus from Acer is a step up from other Chromebooks, with a Full-HD touchscreen and Google's Gemini. It also comes with 2TB of cloud storage free for 12 months.
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Prime Day MacBook deals
 
@@ -113,6 +113,13 @@ Lenovo/ZDNET
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Buy laptop deals during Prime Day
 
 Kyle Kucharski/ZDNET
@@ -123,10 +130,10 @@ Kyle Kucharski/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
@@ -139,22 +146,15 @@ Kyle Kucharski/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
@@ -172,16 +172,10 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When will these deals expire?
@@ -251,16 +245,24 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-essential-8-linux-software-for-editors-for-2024/"><u>[New] Essential 8 Linux Software for Editors for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-facebook-live-recorders-playbook/"><u>[Updated] The Facebook Live Recorder's Playbook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/conquer-computer-chaos-with-ai-wisdom-from-chatgpt/"><u>Conquer Computer Chaos with AI Wisdom From ChatGPT</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/conveniently-record-and-preserve-your-online-gatherings/"><u>Conveniently Record and Preserve Your Online Gatherings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/curiosity-sparked-by-ios-alert-deciphering-apples-message-on-your-active-life-and-step-counting/"><u>Curiosity Sparked by iOS Alert: Deciphering Apple's Message on Your Active Life and Step Counting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-how-chatgpt-is-revolutionizing-communication-7-case-studies/"><u>Discover How ChatGPT Is Revolutionizing Communication: 7 Case Studies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-cognitive-therapy-with-ai-a-guide-to-leveraging-chatgpt/"><u>Enhancing Cognitive Therapy with AI: A Guide to Leveraging ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-scholarly-pursuits-the-role-of-four-essential-ai-technologies/"><u>Enhancing Scholarly Pursuits: The Role of Four Essential AI Technologies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-checkpoints-integrating-ai-assisted-mental-support-via-chatgpt/"><u>Essential Checkpoints: Integrating AI-Assisted Mental Support via ChatGPT</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guide-to-overcoming-and-altering-dvd-regional-restrictions/"><u>Guide to Overcoming & Altering DVD Regional Restrictions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-your-pc-might-be-having-issues-with-the-medium-a-deep-dive-into-the-cause-of-crashes/"><u>Why Your PC Might Be Having Issues With The Medium - A Deep Dive Into The Cause Of Crashes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-musics-big-screen-facebooks-top-ten-vids-for-2024/"><u>[New] Music's Big Screen Facebook's Top Ten Vids for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-pathway-from-webp-files-to-jpegs-for-2024/"><u>[New] The Ultimate Pathway From WebP Files to JPEGs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-excelling-at-content-creation-a-guide-to-gamers-success/"><u>[Updated] In 2024, Excelling at Content Creation A Guide to Gamers' Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-moviemeld-editor-review-in-depth-analysis/"><u>2024 Approved MovieMeld Editor Review – In-Depth Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721433077915-comparing-giants-gemini-and-chatgpt-unite/"><u>Comparing Giants: Gemini and ChatGPT Unite!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovery-revealing-falsehood-about-gpt-windows/"><u>Discovery: Revealing Falsehood About GPT-Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-concept-to-reality-7-powerful-ways-chatgpt-processes-images/"><u>From Concept to Reality: 7 Powerful Ways ChatGPT Processes Images</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/is-data-recovery-possible-with-replacement-files/"><u>Is Data Recovery Possible with Replacement Files?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/quick-guide-transform-your-flac-audio-to-mp3-efficiently-using-foobar2000-software/"><u>Quick Guide: Transform Your FLAC Audio to MP3 Efficiently Using Foobar2000 Software</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-showdown-in-depth-analysis-and-review-s10plus-vs-samsung-galaxy-s2/"><u>Samsung Showdown: In-Depth Analysis and Review - S10+ Vs Samsung Galaxy S2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-implications-of-continuously-refreshed-data-in-chatgpt-for-general-users/"><u>The Implications of Continuously Refreshed Data in ChatGPT for General Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-perils-of-fraudgpt-how-to-evade-its-snares/"><u>The Perils of FraudGPT: How to Evade Its Snares</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-power-of-codegpt-a-breakthrough-technology-for-automatic-code-generation/"><u>The Power of CodeGPT – A Breakthrough Technology for Automatic Code Generation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-walkthrough-for-disabling-your-chatgpt-username-and-data/"><u>The Ultimate Walkthrough for Disabling Your ChatGPT Username and Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-misconits-about-using-chatgpt-for-financial-data/"><u>Top 5 Misconits About Using ChatGPT for Financial Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-ais-intellectual-property-who-holds-copyright-on-artificial-intelligence-inventions/"><u>Understanding AI's Intellectual Property: Who Holds Copyright on Artificial Intelligence Inventions?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-impact-of-up-to-the-minute-information-gathering-by-chatgpt-for-everyone/"><u>Understanding the Impact of Up-to-the-Minute Information Gathering by ChatGPT for Everyone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-full-potential-of-chatgpt-for-a-better-lifestyle/"><u>Unlocking the Full Potential of ChatGPT for a Better Lifestyle</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-5-critical-motivations-for-corporate-anti-chatgpt-policies/"><u>Unveiling 5 Critical Motivations for Corporate Anti-ChatGPT Policies</u></a></li>
 </ul></div>
 

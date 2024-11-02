@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple's Recent Takeover: What It Signals for an Upcoming Smartphone Revolution Powered by Artificnial Intelligence | ZDNET"
-date: 2024-10-20T16:26:34.911Z
-updated: 2024-10-27T16:05:30.842Z
+date: 2024-10-30T10:15:37.970Z
+updated: 2024-11-02T04:08:38.249Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -103,10 +103,10 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -120,6 +120,13 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -150,16 +157,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -176,13 +177,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -224,21 +218,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-budget-game-design-tools-and-software-for-aspiring-developers/"><u>[New] Budget Game Design Tools and Software for Aspiring Developers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-avi-to-gif-transformation-using-filmora-for-both-oses/"><u>[Updated] The Ultimate Guide to AVI-to-GIF Transformation Using Filmora for Both OSes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-srt-editing-on-macos-a-comprehensive-guide/"><u>2024 Approved Mastering SRT Editing on macOS A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-impact-on-psychological-well-being-prospects-and-challenges/"><u>AI's Impact on Psychological Well-Being: Prospects and Challenges</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-role-in-advancing-research-endeavors/"><u>AI's Role in Advancing Research Endeavors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/androids-voice-controlled-gpt-experience-begins-here/"><u>Android's Voice Controlled GPT Experience Begins Here</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/are-generative-ai-models-turning-into-weapons-of-misinformation/"><u>Are Generative AI Models Turning Into Weapons of Misinformation?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/automating-mundane-hr-tasks-through-gpt/"><u>Automating Mundane HR Tasks Through GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-practices-for-avoiding-writing-gaffes-with-chatgpt/"><u>Best Practices for Avoiding Writing Gaffes with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-20-proven-prompts-that-will-transform-your-ai-experience-curated-by-github-enthusiasts/"><u>ChatGPT Mastery: 20 Proven Prompts That Will Transform Your AI Experience – Curated by GitHub Enthusiasts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/fundamentals-of-digital-tale-construction/"><u>Fundamentals of Digital Tale Construction</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-11-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus 11 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-unearthing-the-skies-hubsan-h501x4-quad-drone-analysis/"><u>In 2024, Unearthing the Skies Hubsan H501X4 Quad Drone Analysis</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/streamers-checklist-secure-video-ad-revenue-for-2024/"><u>Streamer's Checklist Secure Video Ad Revenue for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/utilizing-volume-decrease-effects-within-audacity/"><u>Utilizing Volume Decrease Effects Within Audacity</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-s24-ultra-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy S24 Ultra? Here is How | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-building-a-successful-brand-presence-through-spotify-advertising/"><u>[Updated] Building a Successful Brand Presence Through Spotify Advertising</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-free-effortless-mp3-downloads-from-youtube-videos/"><u>[Updated] Free, Effortless MP3 Downloads From YouTube Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-interaction-on-pc-with-nvidias-innovative-chatbot/"><u>Enhancing Interaction on PC With Nvidia’s Innovative Chatbot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-writing-quality-steer-clear-from-common-mistakes/"><u>Enhancing Writing Quality – Steer Clear From Common Mistakes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-your-job-prospects-with-these-6-reasons-to-learn-chatgpt-today/"><u>Enhancing Your Job Prospects with These 6 Reasons to Learn ChatGPT Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/examining-the-five-critical-causes-for-corporate-bans-on-chatgpt-adoption/"><u>Examining the Five Critical Causes for Corporate Bans on ChatGPT Adoption</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-post-chatgpt-era-prospects-of-advancements-in-generative-ai-and-conversational-bots/"><u>Exploring Post-ChatGPT Era: Prospects of Advancements in Generative AI & Conversational Bots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-uses-of-chatgpt-in-proofreading-tasks/"><u>Exploring the Uses of ChatGPT in Proofreading Tasks</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/fully-loaded-get-sht-done-bootstrap-toolkit-complimentary-design-assets-from-creative-tim/"><u>Fully-Loaded Get Sht Done Bootstrap Toolkit - Complimentary Design Assets From Creative Tim</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-and-its-potential-role-in-propagating-disinformation-tactics/"><u>Generative AI and Its Potential Role in Propagating Disinformation Tactics.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-get-your-iphones-chatgpt-app-running-again-essential-techniques-and-tweaks/"><u>How To Get Your iPhone's ChatGPT App Running Again: Essential Techniques and Tweaks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-dream-houses-in-minecraft-top-6-ideas/"><u>In 2024, Dream Houses in Minecraft Top 6 Ideas</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y27-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y27 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-pc-stability-for-a-better-game-experience-with-wolcen-lords-of-mayhem/"><u>Troubleshooting PC Stability for a Better Game Experience with Wolcen: Lords of Mayhem</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-ussd-an-in-depth-look-at-unstructured-supplementary-service-data/"><u>What's USSD? An In-Depth Look at Unstructured Supplementary Service Data</u></a></li>
 </ul></div>
 

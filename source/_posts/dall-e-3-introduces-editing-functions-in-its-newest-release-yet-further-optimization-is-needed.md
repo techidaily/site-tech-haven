@@ -1,7 +1,7 @@
 ---
 title: DALL-E 3 Introduces Editing Functions in Its Newest Release, Yet Further Optimization Is Needed
-date: 2024-08-29T02:27:23.291Z
-updated: 2024-08-30T02:27:23.291Z
+date: 2024-10-29T04:20:34.079Z
+updated: 2024-11-02T12:04:17.953Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -44,8 +51,12 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to[join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -57,8 +68,12 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -67,14 +82,11 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
  And in its mobile form, it is still very much a search tool, so is not something that's going to be replacing Google Assistant, Siri, Bixby, or any other voice assistant any time soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -83,4 +95,19 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-capture-and-share-your-screens-bandicam-vs-camtasia/"><u>[New] 2024 Approved Capture and Share Your Screens Bandicam vs Camtasia</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-nokia-c110-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Nokia C110 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-scooping-strategies-review-rundown/"><u>2024 Approved SCOOPING STRATEGIES Review Rundown</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/fix-unrecognized-iphone-by-itunes-on-windows-10-a-complete-guide/"><u>Fix: Unrecognized iPhone by iTunes on Windows 10 – A Complete Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pinnacle-selections-prolific-iphone-tone-innovators/"><u>Pinnacle Selections Prolific iPhone Tone Innovators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solving-chatgpt-sign-in-issues-a-step-by-step-guide/"><u>Solving ChatGPT Sign-In Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-common-issues-with-xbox-series-x-and-s-gaming-headsets/"><u>Solving Common Issues with Xbox Series X & S Gaming Headsets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/steer-clear-of-scam-bots-real-vs-shadow-chatgpt/"><u>Steer Clear of Scam Bots - Real Vs. Shadow ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-to-reduce-anxiety-and-stress-using-chatgpt-assistance/"><u>Strategies to Reduce Anxiety and Stress Using ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tackling-service-interruptions-in-chatgpt-plugin-relationships/"><u>Tackling Service Interruptions in ChatGPT-Plugin Relationships</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/taste-and-nutrition-fusion-ai-powered-cooking-guide/"><u>Taste & Nutrition Fusion: AI-Powered Cooking Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-asus-rog-phone-7-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Asus ROG Phone 7 Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 

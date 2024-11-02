@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Doc Potential on macOS with Craft: Expert Usage Techniques Revealed"
-date: 2024-10-21T18:35:38.282Z
-updated: 2024-10-27T16:13:12.989Z
+date: 2024-10-29T12:24:21.575Z
+updated: 2024-11-02T00:56:35.378Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,16 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,24 +134,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-critical-analysis-of-the-best-free-video-chat-software-suitable-for-businesses-and-educators/"><u>[Updated] 2024 Approved Critical Analysis of the Best Free Video Chat Software Suitable for Businesses & Educators</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-list-of-free-video-openers/"><u>[Updated] 2024 Approved The Ultimate List of Free Video Openers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-x50i-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor X50i</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-a-well-balanced-meal-plan-via-ai-insights/"><u>Crafting a Well-Balanced Meal Plan via AI Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/create-your-own-tailored-gpt-style-ai-with-chatgpts-new-update/"><u>Create Your Own Tailored GPT-Style AI with ChatGPT's New Update</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-the-power-of-claude-ai-understanding-its-benefits/"><u>Discovering the Power of Claude AI: Understanding Its Benefits</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/eager-for-a-chatgpt-like-experience-on-your-desktop-explore-our-top-open-source-option/"><u>Eager for a ChatGPT-Like Experience on Your Desktop? Explore Our Top Open Source Option!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-new-frontiers-apples-revelation-on-ai-technology-during-worldwide-developers-conference/"><u>Exploring New Frontiers: Apple's Revelation on AI Technology During Worldwide Developers Conference</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fixing-the-common-body-stream-problem-with-chatgpt-a-step-by-step-guide-to-7-effective-techniques/"><u>Fixing the Common Body Stream Problem with ChatGPT: A Step-by-Step Guide to 7 Effective Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-algorithms-to-emulation-exploring-how-chatbots-talk-like-us/"><u>From Algorithms to Emulation: Exploring How Chatbots Talk Like Us</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-ai-and-messaging-seven-reasons-it-may-not-be-your-best-choice/"><u>Generative AI and Messaging: Seven Reasons It May Not Be Your Best Choice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/getting-to-the-frontier-of-ai-with-gpt-4-for-free/"><u>Getting to the Frontier of AI with GPT-4 for Free</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/maximizing-efficiency-in-rl-video-recordings-for-2024/"><u>Maximizing Efficiency in RL Video Recordings for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/revamp-your-workflow-with-top-watermarkers-for-2024/"><u>Revamp Your Workflow with Top Watermarkers for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-reclaiming-standard-windows-11-search-preferences/"><u>Step-by-Step: Reclaiming Standard Windows 11 Search Preferences</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-oneplus-ace-2v-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from OnePlus Ace 2V to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unblocking-the-path-to-play-how-to-fix-game-not-starting-issues/"><u>Unblocking the Path to Play: How to Fix Game Not Starting Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-key-traits-of-gpt-4-and-gpt-35/"><u>Unveiling Key Traits of GPT-4 and GPT-3.5</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-arent-screen-capture-buttons-standard-on-gaming-mice/"><u>Why Aren't Screen Capture Buttons Standard on Gaming Mice?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-recording-your-screen-and-videos-on-android/"><u>[Updated] 2024 Approved Recording Your Screen & Videos on Android</u></a></li>
+<li><a href="https://win-great.techidaily.com/accelera-il-tuo-mac-con-strumenti-efficienti-ottime-alternative-al-tradizionale-robocopy/"><u>Accelera Il Tuo Mac Con Strumenti Efficienti: Ottime Alternative Al Tradizionale Robocopy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/accelerated-productivity-with-the-top-8-ai-apps-on-your-phone/"><u>Accelerated Productivity with the Top 8 AI Apps on Your Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-revolution-in-finance-how-chatgpt-could-reshape-your-career-opportunities/"><u>AI Revolution in Finance: How ChatGPT Could Reshape Your Career Opportunities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/anticipating-challenges-in-artificial-intelligence-exploring-the-growing-concerns-over-generative-ai-security/"><u>Anticipating Challenges in Artificial Intelligence: Exploring the Growing Concerns Over Generative AI Security</u></a></li>
+<li><a href="https://fox-that.techidaily.com/breakthrough-techniques-to-revive-a-frozen-iphone-device/"><u>Breakthrough Techniques to Revive a Frozen iPhone Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-online-jpggif-converters-the-best-10-list/"><u>Free Online JPG/GIF Converters The Best 10 List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-search-of-perfection-gopros-1-10-case-review/"><u>In 2024, In Search of Perfection - GoPro's #1-10 Case Review</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/in-depth-analysis-the-best-chrome-browser-screen-capture-apps/"><u>In-Depth Analysis: The Best Chrome Browser Screen Capture Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mts-iphoneipad/"><u>MTSファイルプレーヤー対応アプリ: IPhone・iPadで簡単に楽しむ</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/social-space-gamers-the-ultimate-top-10-list-for-2024/"><u>Social Space Gamers The Ultimate Top 10 List for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/uncovering-genuine-chatbot-programming-on-ios/"><u>Uncovering Genuine ChatBot Programming on iOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-best-practices-for-using-chatgpt-as-a-writer/"><u>Unlocking Potential: Best Practices for Using ChatGPT as a Writer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unmatched-add-ons-supercharging-your-gpt-experience-in-vs-code/"><u>Unmatched Add-Ons: Supercharging Your GPT Experience in VS Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrade-to-excellence-discover-9-superior-reasons-for-choosing-chatgpt-plus/"><u>Upgrade to Excellence: Discover 9 Superior Reasons for Choosing ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-ai-shines-brighter-evaluating-chatgpt-vs-gemini-in-the-world-of-software-development/"><u>Which AI Shines Brighter? Evaluating ChatGPT Vs. Gemini in the World of Software Development</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Experience More with Your iPhone: The Advantages of Apple Extending NFC Capabilities to App Developers - Insights From ZDNet"
-date: 2024-10-22T16:55:31.948Z
-updated: 2024-10-27T17:57:15.540Z
+date: 2024-10-31T05:34:45.906Z
+updated: 2024-11-02T00:12:54.658Z
 tags:
   - apple
 categories:
@@ -42,13 +42,6 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
@@ -56,10 +49,10 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -69,19 +62,6 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -97,6 +77,13 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. New developer APIs
 
 There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, Apple is showcasing three new APIs developers can use to gain access to Apple technology. 
@@ -108,16 +95,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
@@ -127,6 +108,13 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -191,24 +179,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-game-recorder-mastery-top-5-techniques-for-windows-11/"><u>[Updated] 2024 Approved Game Recorder Mastery Top 5 Techniques for Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/avoid-headaches-learn-to-update-graphics-drivers-in-windows-10-with-ease/"><u>Avoid Headaches: Learn to Update Graphics Drivers in Windows 10 With Ease</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-guide-to-samsung-photography-suite-2023/"><u>Comprehensive Guide to Samsung Photography Suite, 2023</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/discover-how-to-make-use-of-the-picture-in-picture-functionality-in-netflix-for-2024/"><u>Discover How To Make Use of The Picture-In-Picture Functionality in Netflix for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-7-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 7 Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://discover-help.techidaily.com/mejores-tecnicas-para-reducir-el-tamano-de-videos-en-youtube-sin-perder-calidad/"><u>Mejores Técnicas Para Reducir El Tamaño De Videos en YouTube Sin Perder Calidad</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-honor-magic5-ultimate-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/save-time-with-10-essential-chatgpt-inspired-pdf-automation-extensions/"><u>Save Time with 10 Essential ChatGPT-Inspired PDF Automation Extensions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-spreadsheet-tasks-with-these-3-methods-of-applying-chatgpt-to-excel/"><u>Streamline Spreadsheet Tasks with These 3 Methods of Applying ChatGPT to Excel</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/synthesizing-innovation-exploring-the-six-peaks-of-chatgpts-engineer/"><u>Synthesizing Innovation - Exploring the Six Peaks of ChatGPT's Engineer</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-x-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-bottom-line-on-chatgpt-as-an-earnings-engine/"><u>The Bottom Line on ChatGPT as an Earnings Engine</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-6-ai-assisted-note-taking-software-to-boost-productivity/"><u>The Ultimate List of 6 AI Assisted Note Taking Software to Boost Productivity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-8-chatgpt-extensions-for-health-and-wellness-management/"><u>The Ultimate List of 8 ChatGPT Extensions for Health & Wellness Management</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-veracity-of-chatgpt-how-much-can-you-rely-on-its-information/"><u>The Veracity of ChatGPT – How Much Can You Rely on Its Information?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-ai-enhanced-platforms-for-personalized-book-suggestions/"><u>Top 5 AI-Enhanced Platforms for Personalized Book Suggestions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-new-possibilities-chatgpts-impact-on-revolutionizing-smartwatches/"><u>Unlock New Possibilities: ChatGPT's Impact on Revolutionizing Smartwatches</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-gptbot-insights-into-website-access-barriers/"><u>Unveiling GPTBot: Insights Into Website Access Barriers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-expert-tips-focusing-on-the-small-web-details/"><u>[New] In 2024, Expert Tips Focusing on the Small Web Details</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-instagram-video-tricks-uncovered/"><u>2024 Approved Instagram Video Tricks Uncovered</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-step-by-step-guide-to-hosting-ai-on-your-browser-through-agentgpt/"><u>A Step-by-Step Guide to Hosting AI on Your Browser Through AgentGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advantages-and-disadvantages-a-closer-look-at-chatgpt-plus-features/"><u>Advantages and Disadvantages: A Closer Look at ChatGPT Plus Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-compliance-the-four-step-governmental-regulation-roadmap/"><u>AI Compliance: The Four-Step Governmental Regulation Roadmap</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-top-talkers-picking-best-generative-bot-between-gpt-and-bing/"><u>AI's Top Talkers: Picking Best Generative Bot Between GPT & Bing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722094085655-comparing-top-language-models-bard-chatgpt-and-offline-alpaca-the-ultimate-showdown/"><u>Comparing Top Language Models: Bard, ChatGPT, and Offline Alpaca – The Ultimate Showdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-complexity-adding-ease-to-uninstall-in-windows/"><u>Conquering Complexity: Adding Ease to Uninstall in Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/elevating-engagement-with-innovative-techniques-in-fb-lives-for-2024/"><u>Elevating Engagement with Innovative Techniques in FB Lives for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722186874877-explore-the-power-of-artificial-creativity-with-microsofts-bing-and-dall-e-3-for-free/"><u>Explore the Power of Artificial Creativity with Microsoft's Bing and DALL-E 3 for Free!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-comic-creators-charter-zero-cost-endless-laughs/"><u>In 2024, Comic Creators' Charter Zero Cost, Endless Laughs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-3-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/progopro-enhancing-footage-and-stability-for-2024/"><u>ProGoPro Enhancing Footage & Stability for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722030417409-unleash-ai-potential-with-personalized-premium-gpt-services/"><u>Unleash AI Potential with Personalized, Premium GPT Services</u></a></li>
 </ul></div>
 

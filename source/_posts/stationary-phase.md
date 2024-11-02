@@ -1,7 +1,7 @@
 ---
 title: "Stationary Phase:"
-date: 2024-10-20T18:46:36.360Z
-updated: 2024-10-27T19:08:43.312Z
+date: 2024-10-28T10:40:56.409Z
+updated: 2024-11-02T11:41:06.530Z
 tags:
   - apple
 categories:
@@ -60,19 +60,6 @@ How and why did I come to those conclusions? Let's dig in.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Familiar design, with one exception
 
 Aside from the color options, the iPhone 14 is nearly identical to the iPhone 13 in design. There's really only one noticeable change to my eye, and that's the lack of a SIM card tray on the iPhone 14\. Apple has made the decision to go all-in on [eSIM, the digital version](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/) of the small plastic card we've all moved between phones. 
@@ -92,10 +79,10 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -123,10 +110,10 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Camera upgrades
@@ -148,16 +135,10 @@ Jason Cipriani/ZDNET
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Safety first
@@ -169,6 +150,13 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 [Buy the Apple iPhone 14 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-14%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -206,18 +194,14 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-decode-wmps-techniques-for-efficient-audio-handling-and-recordings/"><u>[New] In 2024, Decode WMP's Techniques for Efficient Audio Handling and Recordings</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-earn-with-each-screen-capture/"><u>2024 Approved Earn With Each Screen Capture</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/fixing-dropped-frames-a-complete-guide-for-obs-studio-users-for-2024/"><u>Fixing Dropped Frames A Complete Guide for OBS Studio Users for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-x-flip-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo X Flip to Roku | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-key-landscapes-perfectly-capturing-live-streams/"><u>In 2024, Key Landscapes Perfectly Capturing Live Streams</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/introducing-bard-googles-new-ai-rivals-chatgpt-in-the-world-of-conversational-technology/"><u>Introducing Bard: Google's New AI Rivals ChatGPT in the World of Conversational Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/introducing-googles-gemini-how-does-it-stack-up-against-chatgpt/"><u>Introducing Google's Gemini: How Does It Stack Up Against ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-safe-to-trust-medical-advice-from-chatgpt-evaluating-ai-in-healthcare-guidance/"><u>Is It Safe to Trust Medical Advice From ChatGPT? - Evaluating AI in Healthcare Guidance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-microsofts-chatbot-down-find-out-using-these-5-strategies/"><u>Is Microsoft's Chatbot Down? Find Out Using These 5 Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-daily-meditation-habits-insights-and-advice/"><u>Leveraging ChatGPT for Daily Meditation Habits - Insights & Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-ai-image-creation-utilizing-dall-e-with-chatgpt-4/"><u>Mastering AI Image Creation: Utilizing DALL-E with ChatGPT-4</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-360-video-landscape-key-dos-and-donts-9-for-2024/"><u>Navigating the 360 Video Landscape Key Do's and Don'ts (9) for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/software-le-plus-efficient-pour-la-recuperation-des-donnees-btrfs-en-mode-raid-guides-et-tips-dexperts/"><u>Software Le Plus Efficient Pour La Récupération Des Données BTRFS en Mode RAID - Guides Et Tips D'Experts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-joining-the-dots-obs-and-zoom-pairing-explained-for-2024/"><u>[New] Joining the Dots OBS & Zoom Pairing Explained for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-x-recorder-for-pc-free-recording-software/"><u>[Updated] 2024 Approved X-Recorder for PC Free Recording Software</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/1726227018906-webmgif-movavi/"><u>無料でWebMを動画GIFに変換する: Movaviの使い方 - 詳しく解説!</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/einfache-schritte-zum-schutz-und-zuruckbringen-ihres-microsoft-outlook-postfaches/"><u>Einfache Schritte Zum Schutz Und Zurückbringen Ihres Microsoft Outlook-Postfaches</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-hiccup-config-settings-amiss/"><u>Printer Hiccup: Config Settings Amiss</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-crafting-beautiful-verses-through-chatgpts-assistance/"><u>Step-by-Step Guide: Crafting Beautiful Verses Through ChatGPT's Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-for-working-around-gpt-cap/"><u>Strategies for Working Around GPT Cap</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-interactive-media-blizzards-journey-into-microsofts-visionary-tech-world-industry-insights/"><u>The Future of Interactive Media: Blizzard's Journey Into Microsoft's Visionary Tech World [Industry Insights]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-misguided-assumption-ai-as-the-future-of-written-communication-jobs/"><u>The Misguided Assumption: AI as the Future of Written Communication Jobs</u></a></li>
 </ul></div>
 

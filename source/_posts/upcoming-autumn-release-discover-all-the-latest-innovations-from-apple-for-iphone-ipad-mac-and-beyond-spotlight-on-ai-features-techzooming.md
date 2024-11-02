@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Autumn Release: Discover All the Latest Innovations From Apple for iPhone, iPad, Mac, and Beyond - Spotlight on AI Features | TechZooming"
-date: 2024-10-26T16:04:00.437Z
-updated: 2024-10-27T18:19:12.348Z
+date: 2024-10-30T00:24:11.613Z
+updated: 2024-11-02T02:28:02.323Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,6 +74,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -93,13 +100,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -113,19 +113,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -149,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -179,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,22 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-prime-free-improvement-suite-pc-and-phone-edition/"><u>[Updated] 2024 Approved Prime FREE Improvement Suite PC & Phone Edition</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-honor-90-lite-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Honor 90 Lite without App | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-humble-clips-to-groundbreaking-innovations-paperclip-optimization-via-ai/"><u>From Humble Clips to Groundbreaking Innovations: Paperclip Optimization via AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-the-power-of-ai-8-innovative-dall-e-grottuar07514goldenpngmp-prompts-for-stunning-visuals/"><u>Harnessing the Power of AI: 8 Innovative DALL-E grottuar_07514/golden.pngmp Prompts for Stunning Visuals</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-prompt-injection-paves-way-for-ai-abuse/"><u>How Prompt Injection Paves Way for AI Abuse</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-teach-chatgpt-pdf-reading-a-guide-with-four-effective-strategies/"><u>How to Teach ChatGPT PDF Reading: A Guide with Four Effective Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-utilize-chatgpt-in-building-and-deploying-your-personalized-web-application/"><u>How to Utilize ChatGPT in Building and Deploying Your Personalized Web Application</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-breaking-into-livestrances-a-gamers-guide-to-youtube-success/"><u>In 2024, Breaking Into Livestrances A Gamers' Guide to YouTube Success</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-mastering-drone-racing-insights-and-best-fpv-models/"><u>In 2024, Mastering Drone Racing Insights & Best FPV Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-chatgpt-powering-a-future-shaped-by-generative-ai/"><u>Inside ChatGPT: Powering a Future Shaped by Generative AI</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-photography-woes-heres-how-you-can-fix-your-devices-7-most-prevalent-camera-errors/"><u>IPhone Photography Woes? Here's How You Can Fix Your Device's 7 Most Prevalent Camera Errors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leading-open-source-platforms-for-creating-ai-powered-visual-content/"><u>Leading Open-Source Platforms for Creating AI-Powered Visual Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-artificial-minds-gpt-4-emergence/"><u>Mastering Artificial Minds: GPT-4 Emergence</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-obs-sound-issues-how-to-ensure-perfect-audio-during-live-streams-and-recordings/"><u>Mastering OBS Sound Issues: How to Ensure Perfect Audio During Live Streams and Recordings</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y28-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-top-5-revolutionary-google-meet-voice-modification-tools-for-2024/"><u>Updated Top 5 Revolutionary Google Meet Voice Modification Tools for 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/1728485389202-windows-105/"><u>Windows 10上最佳5款免费光盘截图工具</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlocking-smooth-playback-overcoming-booty-freezes/"><u>[New] 2024 Approved Unlocking Smooth Playback Overcoming Booty Freezes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mac-and-pcs-top-10-supercharged-srt-systems-unveiled/"><u>[Updated] Mac & PC's Top 10 Supercharged SRT Systems Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-users-handbook-to-correcting-driverpowerstate-malfunctions/"><u>A User's Handbook to Correcting DRIVER_POWER_STATE Malfunctions</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-top-21-zedge-tools-for-customizing-your-phone-with-free-ringtones-and-wallpapers-on-iphoneandroid/"><u>Discover the Ultimate Top 21 Zedge Tools for Customizing Your Phone with Free Ringtones & Wallpapers on iPhone/Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-efficiency-using-10-plugin-solutions-based-on-chatgpt-for-pdfs/"><u>Enhance Efficiency Using 10 Plugin Solutions Based on ChatGPT for PDFs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-business-operations-with-chatgpt-a-guide-to-8-key-applications/"><u>Enhancing Business Operations with ChatGPT - A Guide to 8 Key Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-commutes-mercedes-marries-ai-and-voice-control/"><u>Enhancing Commutes: Mercedes Marries AI and Voice Control</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/essential-steps-for-exceptional-photographic-assemblies/"><u>Essential Steps for Exceptional Photographic Assemblies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-potential-of-generative-ai-as-a-modern-conduit-for-false-information-dissemination/"><u>Exploring the Potential of Generative AI as a Modern Conduit for False Information Dissemination.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/freelancers-guide-bing-chat-vs-chatgpt-top-8-comparison-points/"><u>Freelancer's Guide: Bing Chat Vs. ChatGPT - Top 8 Comparison Points</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-the-future-explore-eight-essential-uses-for-chatgpt-in-todays-world/"><u>Harnessing the Future: Explore Eight Essential Uses for ChatGPT in Today's World</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-safeguard-personal-information-against-these-3-major-chatbot-risks/"><u>How to Safeguard Personal Information Against These 3 Major Chatbot Risks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-ai-innovation-comparing-gpt-4-with-its-siblings-gpt-4-turbo-and-gpt-n/"><u>Inside AI Innovation: Comparing GPT-4 with Its Siblings, GPT-4 Turbo & GPT-N</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/interlinked-networks-transferring-fb-videos-to-whatsapp-for-2024/"><u>Interlinked Networks Transferring FB Videos to WhatsApp for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/make-your-gaming-great-not-stressful/"><u>Make Your Gaming Great, Not Stressful</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-nokia-c110-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nokia C110 Android SIM Unlock APK</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-vault-explorers-superior-cloud-service-review-for-2024/"><u>Ultimate Vault Explorers Superior Cloud Service Review for 2024</u></a></li>
 </ul></div>
 

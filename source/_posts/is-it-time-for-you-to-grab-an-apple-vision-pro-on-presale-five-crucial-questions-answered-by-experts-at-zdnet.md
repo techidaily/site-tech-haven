@@ -1,7 +1,7 @@
 ---
 title: Is It Time for You to Grab an Apple Vision Pro on Presale? Five Crucial Questions Answered by Experts at ZDNet
-date: 2024-10-24T16:34:56.861Z
-updated: 2024-10-27T19:01:32.205Z
+date: 2024-10-25T20:36:55.703Z
+updated: 2024-11-01T17:17:15.703Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -65,13 +65,6 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. For work
 
 Okay, this one comes as no surprise. There was bound to be some of us upgrading because well, we do work in tech after all, and what better way to cover Apple's iPhones than actually owning the new model yourself? So while this may not be an applicable reason for some, for those in tech it is sometimes justifiable. 
@@ -94,9 +87,29 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -109,10 +122,10 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -122,13 +135,6 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
 
@@ -176,17 +182,18 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-prime-musical-virtuoso-sessions/"><u>[New] 2024 Approved Prime Musical Virtuoso Sessions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-the-essence-of-youtube-live-imagery-language-for-2024/"><u>[New] Exploring the Essence of YouTube Live Imagery Language for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premier-humor-photoshop-studio/"><u>[Updated] Premier Humor Photoshop Studio</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-editors-approach-to-declining-audio-tracks-gradually/"><u>[Updated] The Editor's Approach to Declining Audio Tracks Gradually</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagrams-power-in-motion-crafting-a-comprehensive-video-plan/"><u>Instagram's Power in Motion Crafting a Comprehensive Video Plan</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/my-ai-assisted-adventure-in-podcast-scripting/"><u>My AI-Assisted Adventure in Podcast Scripting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/new-era-of-employment-gpts-replacement-potential/"><u>New Era of Employment: GPT's Replacement Potential?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/premium-list-the-finest-github-chatgpt-dialogues/"><u>Premium List: The Finest Github ChatGPT Dialogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/prompting-proficiency-leading-ai-training-modules/"><u>Prompting Proficiency: Leading AI Training Modules</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/spotting-the-imitations-openai-writers-detection-tool/"><u>Spotting the Imitations: OpenAI' Writers' Detection Tool</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-dreaded-code-ebo-or-why-your-printer-isnt-printing/"><u>Troubleshooting the Dreaded Code Ebo, or Why Your Printer Isn't Printing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mxf-to-avi-movavi/"><u>オンラインでビデオ変換無料! MXF to AVI フォーマット変更手順: Movaviソリューションの紹介</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-extensive-look-at-djis-inspire-1-drone/"><u>[New] In 2024, Extensive Look at DJI's Inspire 1 Drone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-share-videos-on-facebook-in-2024/"><u>[Updated] How to Share Videos on Facebook, In 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/acclaimed-20-chatgpt-conversation-patterns-from-github/"><u>Acclaimed 20 ChatGPT Conversation Patterns From GitHub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-lexicon-unveiled-navigating-through-29-keywords-to-revolutionize-your-understanding-of-machine-intellect/"><u>AI Lexicon Unveiled: Navigating Through 29 Keywords to Revolutionize Your Understanding of Machine Intellect</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-cognitive-colosseums-the-battle-between-gpt-and-bert/"><u>AI's Cognitive Colosseums: The Battle Between GPT and BERT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722116040520-chatgpt-now-available-as-a-mobile-application-download-it-on-ios/"><u>ChatGPT Now Available as a Mobile Application - Download It on iOS!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-vivo-g2-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Vivo G2.</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/continuous-connection-avoiding-streak-breakers-on-snapchat-for-2024/"><u>Continuous Connection Avoiding Streak Breakers on Snapchat for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-the-backlink-jungle-a-video-content-guide-for-2024/"><u>Navigating the Backlink Jungle A Video Content Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-booking-process-for-apples-in-store-technical-support/"><u>Navigating the Booking Process for Apple's In-Store Technical Support</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721960108509-unlocking-the-power-of-chatgpt-transform-your-linkedin-applications-in-just-10-steps/"><u>Unlocking the Power of ChatGPT: Transform Your LinkedIn Applications in Just 10 Steps!</u></a></li>
 </ul></div>
 

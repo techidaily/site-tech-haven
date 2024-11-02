@@ -1,7 +1,7 @@
 ---
 title: "High-End LAPTOP Clash: Samsung Galaxy Book 2 Ultra versus Apple MacBook Pro - In-Depth Comparison on ZDNet"
-date: 2024-10-24T16:21:54.800Z
-updated: 2024-10-27T18:29:17.500Z
+date: 2024-11-01T12:47:53.985Z
+updated: 2024-11-02T12:25:16.300Z
 tags:
   - apple
 categories:
@@ -43,13 +43,6 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy Samsung's Galaxy Book 3 Ultra if...
 
 There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic for this device.
@@ -57,6 +50,13 @@ There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic
 Samsung
 
 ###  1\. You're committed to Samsung's ecosystem
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Samsung Unpacked
 
@@ -72,6 +72,13 @@ If you've already got a Galaxy smartphone or tablet, there are definitely practi
 
 Macs have never matched their Windows-based counterparts when it comes to gaming. Despite the massive boost in power provided by Apple's M2 Pro and Max chips, this remains true. Of course there's the issue that a handful of gaming titles are available for MacOS, almost none of which are new or AAA games. But an equally big problem is MacBooks' lack of discrete GPUs. The Galaxy Book 3 Ultra, on the other hand, has options for an [Nvidia RTX 4050 or 4070 GPU](https://www.zdnet.com/article/nvidia-unveils-its-latest-studio-laptop-series-which-showcases-its-fastest-most-powerful-gpu-chip/), either of which should offer frame rates that are playable to exceptional for almost any title. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  3\. You want maximum software compatibility
 
 Two factors make Samsung's Galaxy Book 3 Ultra more widely compatible: its operating system and its CPU. First, the device runs Windows, which remains the OS with the widest range of supported software across most categories. MacOS is in a much better place than it once was, but there remain software titles that are still available only for Windows. 
@@ -81,13 +88,6 @@ Two factors make Samsung's Galaxy Book 3 Ultra more widely compatible: its opera
 The other factor is Apple's switch to its own silicon. When Apple was using Intel chips, it was a piece of cake for developers to port their software to MacOS due to the similar CPU. However, now that Apple relies on its own ARM-based chips, the porting process is far more difficult. Even companies like Adobe, maker of vital tools like Photoshop and Premiere, took months before all of their major titles fully supported Apple's chips. Smaller devs and less resourceful software makers might still lack support for quite some time. 
 
 [Buy Samsung's Galaxy Book 3 Ultra $2,199 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  You should buy Apple's 16-inch M2-gen MacBook Pro if...
 
@@ -100,10 +100,10 @@ Apple
 This is the other side of the coin. Apple was among the first, and might still be the best, at giving you reasons to stay locked into its ecosystem. On an individual level, this includes things like the ability to share screens and inputs across devices and tricks like [Continuity Camera, which lets you use your iPhone as an advanced webcam](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/), or Apple's excellent cross-device messaging. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### See also
@@ -121,13 +121,6 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 **Also:** [**Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which Android flagship is king?**](https://www.zdnet.com/article/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro/)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. You're a content creator looking for a mobile desktop replacement
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
@@ -139,6 +132,13 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 **Also: [Apple's new MacBook Pro with M2 Pro chip is a compelling package](https://www.zdnet.com/article/apples-new-macbook-pro-with-m2-pro-chip-is-a-compelling-package/)**
 
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -193,19 +193,18 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-conversational-flow-in-cinematic-storytelling/"><u>[New] 2024 Approved Conversational Flow in Cinematic Storytelling</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enable-quiet-youtube-bgplay-for-iphone-and-android/"><u>[Updated] 2024 Approved Enable Quiet YouTube BGPlay for iPhone & Android</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-compelling-movie-previews/"><u>2024 Approved Crafting Compelling Movie Previews</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-find-x6-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Find X6 Fingerprint Lock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-chatgpt-pales-when-it-comes-to-nuanced-writing-tasks/"><u>How ChatGPT Pales When It Comes to Nuanced Writing Tasks</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-common-errors-when-installing-or-updating-on-steam-platform/"><u>How to Fix Common Errors When Installing or Updating on Steam Platform</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/join-openais-quest-track-and-report-software-glitches/"><u>Join OpenAI's Quest: Track and Report Software Glitches!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mapping-ais-emergence-in-modern-times/"><u>Mapping AI's Emergence in Modern Times</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-the-marketplace-10-ways-chatgpt-enhances-your-linkedin-job-search-strategy/"><u>Master the Marketplace: 10 Ways ChatGPT Enhances Your LinkedIn Job Search Strategy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-image-generation-using-chatgpt-step-by-step-tips-and-tricks/"><u>Mastering Image Generation Using ChatGPT: Step-by-Step Tips and Tricks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-fix-a-comprehensive-guide-to-chatgpt-login-difficulties/"><u>Mastering the Fix: A Comprehensive Guide to ChatGPT Login Difficulties</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/semaine-mondiale-francaise/"><u>Semaine Mondiale Française</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-academic-success-5-uses-of-chatgpt-for-students/"><u>Unlocking Academic Success: 5 Uses of ChatGPT for Students</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-sidestep-green-screen-gaffes-your-essential-mac-fix-guide/"><u>[New] In 2024, Sidestep Green Screen Gaffes Your Essential Mac Fix Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-social-media-savant-writes-on-mastering-brand-promotion/"><u>[Updated] The Social Media Savant' Writes on Mastering Brand Promotion</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-s18emirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo S18eMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/recording-your-browsers-video-call-for-2024/"><u>Recording Your Browser's Video Call for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-art-of-communicating-with-ai-five-steps-to-perfect-your-chatgpt-requests-and-boost-replies/"><u>The Art of Communicating with AI: Five Steps to Perfect Your ChatGPT Requests and Boost Replies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-menace-of-fraudgpt-securing-your-cyber-domain/"><u>The Menace of FraudGPT: Securing Your Cyber Domain</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-power-of-ai-in-personal-connections-enhancing-your-dating-experience-with-chatgpt/"><u>The Power of AI in Personal Connections: Enhancing Your Dating Experience with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-reasons-behind-skipping-the-chatgpt-mobile-application/"><u>The Reasons Behind Skipping the ChatGPT Mobile Application</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/thermaltakes-massive-tm-notebook-chiller-examined-abundant-perks-meet-steep-pricing/"><u>Thermaltake's Massive TM Notebook Chiller Examined: Abundant Perks Meet Steep Pricing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-zero-30-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Zero 30 5G</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-windows-7-blank-screens/"><u>Troubleshooting Windows 7 Blank Screens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/universal-guide-viewing-icloud-photos-on-macs-pcs-and-smartphones/"><u>Universal Guide: Viewing iCloud Photos on Macs, PCs, and Smartphones</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210821955-9798988097914-your-divine-power-within/"><u>Your Divine Power Within | Free Book</u></a></li>
 </ul></div>
 

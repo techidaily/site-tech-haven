@@ -1,7 +1,7 @@
 ---
 title: Cutting Down on Artificial Intelligence Misinterpretations with a Handful of Tricks
-date: 2024-08-29T02:25:58.834Z
-updated: 2024-08-30T02:25:58.834Z
+date: 2024-10-31T22:16:50.142Z
+updated: 2024-11-01T16:26:06.769Z
 tags:
   - chatgpt
   - open-ai
@@ -33,9 +33,23 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -50,8 +64,12 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Protect Your PC and Bank Account in the AI-Era
 
  ChatGPT is a powerful and valuable tool that can answer many questions you throw its way. But the chatbot can also be used for malicious purposes, like generating phishing messages and creating malware.
@@ -60,14 +78,11 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
  To minimize the potential dangers of AI chatbots, it’s crucial to know their potential risks and the best possible security measures to protect yourself from hackers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -76,4 +91,23 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-speed-up-instagram-videos-on-desktop-effective-techniques/"><u>[New] In 2024, Speed Up Instagram Videos on Desktop Effective Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-insights-on-instagram-maximum-video-length/"><u>[Updated] 2024 Approved Insights on Instagram Maximum Video Length</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-can-you-challenge-facebooks-video-copyright-holdouts-for-2024/"><u>[Updated] Can You Challenge Facebook’s Video Copyright Holdouts for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-the-secrets-the-ultimate-guide-to-instagram-stories-mastery/"><u>[Updated] Unlocking the Secrets The Ultimate Guide to Instagram Stories Mastery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-to-sub-guide-practical-conversion-methods/"><u>In 2024, SRT to SUB Guide Practical Conversion Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/legendary-lens-showdown-sj6-vs-the-four-k-visionaries-of-xiaomi/"><u>Legendary Lens Showdown SJ6 Vs. The Four-K Visionaries of Xiaomi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/principles-to-follow-before-investing-in-internet-hardware/"><u>Principles to Follow Before Investing in Internet Hardware</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-guidance/"><u>Tom's Tech Reviews: In-Depth Analysis and Guidance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-voice-commands-for-mastering-chatgpt/"><u>Top 5 Voice Commands for Mastering ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-food-habits-the-ultimate-strategy-for-personalized-meal-planning-with-chatgpt/"><u>Transform Your Food Habits: The Ultimate Strategy for Personalized Meal Planning with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-interactions-through-ai-learn-about-the-power-of-chatgpt-vision-with-these-8-tips/"><u>Transforming Interactions Through AI: Learn About the Power of ChatGPT Vision with These 8 Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-steps-to-fix-communication-error-between-chatgpt-and-plugins/"><u>Troubleshooting Steps to Fix Communication Error Between ChatGPT and Plugins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-evolution-of-large-language-models-inside-googles-new-palm-2/"><u>Understanding the Evolution of Large Language Models - Inside Google's New PaLM 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-safety-profile-of-openais-chatbot-a-look-at-6-key-risks/"><u>Understanding the Safety Profile of OpenAI's Chatbot: A Look at 6 Key Risks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-imagination-best-5-ai-powered-text-creation-platforms/"><u>Unleash Your Imagination: Best 5 AI-Powered Text Creation Platforms</u></a></li>
+</ul></div>
 

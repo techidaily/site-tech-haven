@@ -1,7 +1,7 @@
 ---
 title: Empowered by PoE to Tap Into AI Bots/LLMs
-date: 2024-08-29T02:27:35.199Z
-updated: 2024-08-30T02:27:35.199Z
+date: 2024-10-30T20:39:28.806Z
+updated: 2024-11-02T05:08:55.468Z
 tags:
   - chatgpt
   - open-ai
@@ -43,9 +43,6 @@ The maximum reward you can earn is $20,000.
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
@@ -53,15 +50,16 @@ The maximum reward you can earn is $20,000.
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 Here, you must fill in the following information:
 
 1. A title clearly and briefly describing the vulnerability
@@ -77,13 +75,21 @@ Here, you must fill in the following information:
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Which Vulnerabilities Are Eligible for Rewards?
 
  You will be rewarded for any security, functionality, performance, and documentation vulnerability you find in api.openai.com, third-party targets, ChatGPT, ChatGPT plugins, <https://openai.org>, \*/openai.org, OpenAI API keys, openai.com, \*/openai.com, and developer platform playground.
@@ -93,31 +99,23 @@ Here, you must fill in the following information:
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Earn Money While Improving OpenAI's Systems
 
  OpenAI's bug bounty program is a great way for you—as an ethical hacker, security researcher, or tech enthusiast—to earn while improving the firm's AI systems.
 
  However, ensure you comply with all specified guidelines and rules of engagement.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +124,24 @@ Here, you must fill in the following information:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-share-the-laughs-right-top-gif-saver-for-twitter/"><u>[New] 2024 Approved Share the Laughs Right Top GIF Saver for Twitter</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-video-editor-guide-and-review-for-2024/"><u>[New] YouTube Video Editor Guide and Review for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-magic-transforming-scenes-with-gopro-timelapse/"><u>2024 Approved Unveiling the Magic Transforming Scenes with GoPro Timelapse</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-noctuas-new-addition-to-the-home-series-meet-the-nv-fs1-desk-fan-for-a-steal-at-100/"><u>Discovering Noctua's New Addition to the Home Series - Meet the NV-FS1 Desk Fan for a Steal at $100!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-zte-nubia-z60-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on ZTE Nubia Z60 Ultra Phones with/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-v29-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo V29 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-motorola-moto-g14-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Motorola Moto G14</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/journey-through-time-identifying-the-dawn-of-machine-intelligence/"><u>Journey Through Time: Identifying the Dawn of Machine Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/masterclass-on-building-personalized-chatbots-using-gpt-technology/"><u>Masterclass on Building Personalized Chatbots Using GPT Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-employment-opportunities-discover-how-chatgpt-can-aid-in-your-job-hunt/"><u>Maximize Employment Opportunities: Discover How ChatGPT Can Aid in Your Job Hunt</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-risks-is-using-chatgpt-a-fireable-offense-exploring-10-scenarios/"><u>Navigating Risks: Is Using ChatGPT a Fireable Offense? Exploring 10 Scenarios</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-emotional-challenges-5-advanced-therapist-bots-for-improved-mental-care/"><u>Navigating Through Emotional Challenges: 5 Advanced Therapist Bots for Improved Mental Care</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-mp4-en-mpeg-kunt-u-vervangen-gratis-met-movavi-vriendelijke-convertor/"><u>Online MP4 en MPEG Kunt U Vervangen Gratis Met Movavi - Vriendelijke Convertor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-spreadsheet-setbacks-using-chatgpt-integration-in-excel/"><u>Overcoming Spreadsheet Setbacks Using ChatGPT Integration in Excel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-your-privacy-avoid-disclosing-sensitive-info-to-chatgpt/"><u>Protect Your Privacy: Avoid Disclosing Sensitive Info to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-simple-how-to-run-chatgpt-on-linux-using-bavarder-tool/"><u>Quick and Simple: How to Run ChatGPT on Linux Using Bavarder Tool</u></a></li>
+</ul></div>
 

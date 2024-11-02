@@ -1,7 +1,7 @@
 ---
 title: \\[ L = \\Sqrt{80} \\
-date: 2024-10-24T16:37:17.484Z
-updated: 2024-10-27T19:04:52.669Z
+date: 2024-10-27T08:34:00.468Z
+updated: 2024-11-02T10:00:34.964Z
 tags:
   - apple
 categories:
@@ -42,22 +42,15 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 | Price                  | [Starting at $899](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/product/pixel%5F6%5Fpro?hl=en-US&pli=1) | [Starting at $999](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-13-pro%2Fkey-features%2F%3Fafid%3Dp238%257CsNQZDFTnQ-dc%5Fmtid%5F20925d2q39172%5Fpcrid%5F588006468460%5Fpgrid%5F126654828229%5F%26cid%3Dwwa-us-kwgo-iphone--slid---Brand-iphone13pro-avail-&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## 
-
----
-
-<!-- affiliate ads begin -->
 <a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
   <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
 <img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## 
+
+---
 
 ##  You should buy the Google Pixel 6 Pro if…
 
@@ -78,16 +71,16 @@ While Apple's iPhones have made significant improvements to battery life since t
 CNET
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  3\. You want a sleek, innovative design
@@ -100,14 +93,14 @@ Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 
 
 [Buy the Google Pixel 6 Pro $418.88 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HYR2NC8%2Fref%3Dasc%5Fdf%5FB09HYR2NC81727521200000%3Fcreative%3D395261%26creativeASIN%3DB09HYR2NC8%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5b1293-c7f0-4074-bebc-aa1278013569%7Cdtp&dtb=1)
 
-##  You should buy the iPhone 13 Pro if...
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+##  You should buy the iPhone 13 Pro if...
 
 ###  1\. You want cinematic camera features
 
@@ -128,6 +121,19 @@ There's a reason for Apple's cult following and customer loyalty. Its products h
 While not an actual product, the Apple ecosystem is still very much part of the product you purchase when investing in, say, an iPhone. Your Apple ID credentials serve as the ecosystem's life source, allowing you to manage and protect multiple devices effortlessly. If you already own a pair of AirPods, an Apple Watch, or a MacBook, then buying the iPhone 13 Pro will make more sense usability-wise. 
 
 Image: Apple
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
 
@@ -167,17 +173,20 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-conquering-content-sharing-on-igtv/"><u>[New] 2024 Approved Conquering Content Sharing on IGTV</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-elevating-your-role-a-guide-to-exceptional-interviews/"><u>[New] In 2024, Elevating Your Role A Guide to Exceptional Interviews</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-born-to-create-video-magic-mac-basics-for-beginners-on-youtube/"><u>[Updated] 2024 Approved Born to Create Video Magic Mac Basics for Beginners on YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-children-5-steps-toward-a-secure-digital-journey/"><u>ChatGPT and Children: 5 Steps Toward a Secure Digital Journey</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-commitment-to-ethical-sourcing/"><u>ChatGPT's Commitment to Ethical Sourcing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chrome-extensions-top-8-with-ai-for-peak-productivity/"><u>Chrome Extensions: Top 8 With AI for Peak Productivity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cryptocurrency-conquerors-5-ai-strategies-revealed/"><u>Cryptocurrency Conquerors: 5 AI Strategies Revealed</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-15-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 15 Plus With or Without Password</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-sightcast-peer-review-system/"><u>In 2024, SightCast Peer Review System</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/izing-reach-strategies-from-seasoned-tubebuddy-experts/"><u>Maximizing Reach Strategies From Seasoned TubeBuddy Experts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-epicurean-pandemonium-of-overcooked-2-demystified-in-our-latest-review/"><u>The Epicurean Pandemonium of Overcooked! 2 Demystified in Our Latest Review</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-nubia-z50s-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Nubia Z50S Pro Phone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boost-your-content-access-free-vocal-sfx/"><u>[New] 2024 Approved Boost Your Content Access Free Vocal SFX</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-fusion-functionality-combining-watch-mac-access/"><u>[New] In 2024, Fusion Functionality Combining Watch, Mac Access</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-powerslide-music-integration-a-comprehensive-guide/"><u>[New] PowerSlide Music Integration A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-fixing-problematic-youtube-shorts-thumbnails-display/"><u>[Updated] Fixing Problematic YouTube Shorts Thumbnails Display</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-places-to-enjoy-vr-films/"><u>[Updated] Ideal Places to Enjoy VR Films</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725286091806-202/"><u>最新収録202</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-eloquence-encounter-chatgpt-versus-googles-bard-brain/"><u>AI Eloquence Encounter: ChatGPT Versus Google's Bard Brain</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-delving-deeper-into-google-palm-2-versus-openai-gpt-4-what-sets-them-apart/"><u>AI Showdown: Delving Deeper Into Google PaLM 2 Versus OpenAI GPT-4 – What Sets Them Apart?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-determining-superiority-in-code-chatgpt-vs-gemini/"><u>AI Showdown: Determining Superiority in Code - ChatGPT Vs. Gemini</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-leap-forward-what-to-expect-in-gpt-5s-update/"><u>AI's Leap Forward: What to Expect in GPT-5's Update</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bots-that-care-debunking-3-common-misconceptions-on-privacy/"><u>Bots That Care? Debunking 3 Common Misconceptions on Privacy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-the-emotional-gap-with-innovative-technology/"><u>Bridging the Emotional Gap with Innovative Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-go-over-the-limit-investigating-token-restrictions-in-chatgpt-communications/"><u>Can You Go Over the Limit? Investigating Token Restrictions in ChatGPT Communications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-10-ultimate-android-weather-widget-applications-enhancing-your-forecast-experience/"><u>Top 10 Ultimate Android Weather Widget Applications: Enhancing Your Forecast Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-samsung-galaxy-xcover-6-pro-tactical-edition-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Samsung Galaxy XCover 6 Pro Tactical Edition Location | Dr.fone</u></a></li>
 </ul></div>
 
