@@ -1,7 +1,7 @@
 ---
 title: Why the iPhone 16 Pro Isn't Worth It When You Have a Trusty iPhone 14 - Insights
-date: 2024-10-31T17:53:17.225Z
-updated: 2024-11-02T11:18:56.735Z
+date: 2024-11-02T19:12:39.749Z
+updated: 2024-11-07T16:11:13.206Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,16 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -87,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -135,18 +129,19 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boost-views-strategic-partnerships-on-youtube-for-rapid-growth/"><u>[Updated] 2024 Approved Boost Views Strategic Partnerships on YouTube for Rapid Growth</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-honor-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Honor</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-honor-play-40c-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Honor Play 40C Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-through-the-iconic-era-of-lgs-wearable-tech-a-closer-look-at-the-wear-os-20-smartwatch-range/"><u>Navigating Through The Iconic Era of LG's Wearable Tech – A Closer Look at the Wear OS 2.0 Smartwatch Range</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722029717716-not-a-substitute-for-professional-medical-guidance-ai/"><u>Not a Substitute for Professional Medical Guidance, AI</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/rapidly-growing-your-twitter-audience-proven-tips-and-techniques/"><u>Rapidly Growing Your Twitter Audience: Proven Tips & Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009247593-solution-tips-for-updating-outdated-drivers-in-minecraft-get-back-to-playing/"><u>Solution Tips for Updating Outdated Drivers in Minecraft – Get Back to Playing!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/top-tips-for-keeping-your-iphones-memories-in-order-and-backed-up-on-icloud-for-2024/"><u>Top Tips for Keeping Your iPhone's Memories in Order and Backed Up on iCloud for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/unblocking-mystery-tracking-fb-banned-friends/"><u>Unblocking Mystery: Tracking FB Banned Friends</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-are-the-constraints-for-content-length-in-microsofts-chatgpt-responses/"><u>What Are the Constraints for Content Length in Microsoft's ChatGPT Responses?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-makes-chatgpt-4-lag-behind-its-predecessor-chatgpt-35/"><u>What Makes ChatGPT-4 Lag Behind Its Predecessor, ChatGPT-ˈ3.5?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-is-the-top-tool-github-copilot-or-chatgpt-for-developers/"><u>Which Is the Top Tool? GitHub Copilot or ChatGPT for Developers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/your-ultimate-method-for-mobile-igtv-downloads-for-2024/"><u>Your Ultimate Method for Mobile IGTV Downloads for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-best-video-cameras-of-2024/"><u>[New] The Best Video Cameras of 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-exploring-new-frontiers-in-contactless-interface-designs/"><u>2024 Approved Exploring New Frontiers in Contactless Interface Designs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-authenticity-ensuring-ethical-content-generation/"><u>AI Authenticity: Ensuring Ethical Content Generation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-chatgpt-replace-me-what-jobs-will-generative-ai-replace/"><u>Can ChatGPT Replace Me? What Jobs Will Generative AI Replace?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-the-mystery-detecting-fake-bingchatgpt-coins-before-youre-scammed/"><u>Deciphering the Mystery: Detecting Fake BingChatGPT Coins Before You're Scammed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/delineating-artificial-intelligence-categories-comparing-strong-vs-weak-ai-concepts/"><u>Delineating Artificial Intelligence Categories: Comparing Strong Vs. Weak AI Concepts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-top-7-innovative-features-of-bard-introduced-at-google-io-2023/"><u>Discover the Top 7 Innovative Features of BARD Introduced at Google I/O 2023</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/find-the-perfect-iphone-data-recovery-tool-for-you-in-202-the-best-software-options-supported-on-ios-17/"><u>Find the Perfect iPhone Data Recovery Tool for You in 202^: The Best Software Options Supported on iOS 17</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-gpt-to-bert-comparing-two-landmark-nlp-techniques-in-artificial-intelligence/"><u>From GPT to BERT - Comparing Two Landmark NLP Techniques in Artificial Intelligence</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/is-it-safe-to-upgrade-to-windows-11-using-a-usb-without-losing-files/"><u>Is It Safe to Upgrade to Windows 11 Using a USB without Losing Files?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-attractive-unboxing-videos-on-ig/"><u>The Ultimate Guide to Attractive Unboxing Videos on IG</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-solution-for-restoring-deleted-items-on-your-ios-device-using-stellar-tech/"><u>The Ultimate Solution for Restoring Deleted Items on Your iOS Device Using Stellar Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-ai-chromium-addons-to-supercharge-your-daily-tasks-and-enhance-efficiency/"><u>Top 8 AI Chromium Addons to Supercharge Your Daily Tasks and Enhance Efficiency</u></a></li>
 </ul></div>
 

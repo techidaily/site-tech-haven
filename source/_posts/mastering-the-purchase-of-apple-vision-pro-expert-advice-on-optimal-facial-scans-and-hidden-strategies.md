@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Purchase of Apple Vision Pro: Expert Advice on Optimal Facial Scans & Hidden Strategies"
-date: 2024-10-30T05:07:18.747Z
-updated: 2024-11-02T11:43:34.154Z
+date: 2024-10-31T21:20:22.109Z
+updated: 2024-11-07T21:08:31.058Z
 tags:
   - apple
 categories:
@@ -36,10 +36,16 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +69,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +86,16 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,16 +146,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-kinetic-control-over-android-a-compre-authorize-deep-dive-into-kinemaster/"><u>[Updated] Kinetic Control Over Android - A Compre Authorize Deep Dive Into KineMaster</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-process-to-immediately-end-frozen-windows-programs-using-revouninstaller/"><u>Step-by-Step Process to Immediately End Frozen Windows Programs Using RevoUninstaller</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-workplace-revolution-identifying-jobs-vulnerable-to-automation-by-chatgpt-and-similar-ais/"><u>The Workplace Revolution: Identifying Jobs Vulnerable to Automation by ChatGPT and Similar AIs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-essential-artificial-intelligence-prompt-design-courses/"><u>Top 5 Essential Artificial Intelligence Prompt Design Courses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-excel-workflows-using-chatgpt-a-comprehensive-guide/"><u>Transforming Excel Workflows Using ChatGPT: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-your-chatgpt-sign-in-problems-effective-solutions/"><u>Troubleshooting Your ChatGPT Sign-In Problems: Effective Solutions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ownership-who-holds-the-copyright-on-artificial-intelligence-generated-content/"><u>Understanding Ownership: Who Holds the Copyright on Artificial Intelligence-Generated Content?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-immersive-illusions-how-vr-transforms-media-consumption/"><u>[Updated] Immersive Illusions How VR Transforms Media Consumption</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-important-settings-to-customize-before-starting-a-new-fps-game/"><u>7 Important Settings to Customize Before Starting a New FPS Game</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-common-blunders-for-successful-ai-discussions/"><u>Avoiding Common Blunders for Successful AI Discussions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-for-aspiring-poets-craft-beautiful-verse-in-minutes/"><u>ChatGPT for Aspiring Poets: Craft Beautiful Verse in Minutes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-scales-public-vs-private-ai-systems/"><u>Comparing Scales: Public Vs. Private AI Systems</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/complete-guide-transforming-ts-files-into-mp4-format/"><u>Complete Guide: Transforming .TS Files Into MP4 Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-game-strategy-with-ai-assistance-learn-how-my-gpt-bot-enhancements-can-transform-playing-board-games/"><u>Elevate Your Game Strategy with AI Assistance: Learn How My GPT Bot Enhancements Can Transform Playing Board Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-gopro-hero5-sessions/"><u>Exploring the GoPro Hero5 Sessions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logitech-brio-webcam-up-and-running-on-windows-os-1087/"><u>Get Your Logitech BRIO Webcam Up and Running on Windows OS (10/8/7)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-reduce-chatgpts-maxed-out-limit-win/"><u>How to Reduce ChatGPT's Maxed-Out Limit (Win)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-multicultural-communication-using-chatgpt-fluently-across-diverse-languages/"><u>Mastering Multicultural Communication: Using ChatGPT Fluently Across Diverse Languages</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/microsoft-flight-simulator-x-gold-edition-analysis-a-top-choice-for-aspiring-pilots/"><u>Microsoft Flight Simulator X Gold Edition Analysis: A Top Choice for Aspiring Pilots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-essential-guide-to-vector-databases-and-their-influence-on-ai-development/"><u>The Essential Guide to Vector Databases and Their Influence on AI Development</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95925450-9781786781659-the-original-i-ching-oracle-or-the-book-of-changes/"><u>The Original I Ching Oracle or The Book of Changes | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-stop-genshin-impact-from-frequently-crashing-on-personal-computers/"><u>Ultimate Guide to Stop Genshin Impact From Frequently Crashing on Personal Computers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-chatgpt-potential-with-the-power-of-its-api/"><u>Unlocking ChatGPT Potential with the Power of Its API</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-nlp-with-hugbing-face-comprehensive-insights-into-its-functionality-and-benefits/"><u>Unlocking the Potential of NLP with Hugbing Face: Comprehensive Insights Into Its Functionality and Benefits</u></a></li>
 </ul></div>
 

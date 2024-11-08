@@ -1,7 +1,7 @@
 ---
 title: "Apple's 'Let Loose' Event Highlights: The Revolutionary M4 iPad Pro, Slimmer 13-Inch iPad Air & Improved Apple Pencil Pro Revealed - Detailed Coverage | GadgetPundit."
-date: 2024-10-29T17:03:34.180Z
-updated: 2024-11-02T07:20:49.209Z
+date: 2024-10-31T16:48:43.094Z
+updated: 2024-11-07T19:10:14.826Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. iPad Pro, now with OLED displays and M4
 
 Apple
@@ -59,19 +52,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -89,16 +69,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -117,28 +91,29 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -151,6 +126,13 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -186,16 +168,22 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-libertycapture-suite-2024s-open-source-videography/"><u>[New] LibertyCapture Suite 2024'S Open Source Videography</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-windows-8-moviemaker-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering Windows 8 Moviemaker Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-meme-magnate-monetization-pewdiepies-payday/"><u>[Updated] Meme Magnate Monetization PewDiePie’s Payday</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-innovative-drone-archetypes/"><u>2024 Approved Innovative Drone Archetypes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleash-creative-potential-at-no-expense-dive-into-the-world-of-green-screen-with-free-lessons-from-youtube-channels/"><u>2024 Approved Unleash Creative Potential at No Expense Dive Into the World of Green Screen with Free Lessons From YouTube Channels</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/clarity-on-chatgpt-not-a-threat-to-windows-users/"><u>Clarity on ChatGPT: Not a Threat to Windows Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-giants-bard-and-bing-in-chat-wars/"><u>Comparing Giants: Bard & Bing in Chat Wars</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-memorable-tweets-using-ai-assistance/"><u>Crafting Memorable Tweets Using AI Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creating-a-personalized-chatbot-integrating-your-unique-dataset-with-ai/"><u>Creating a Personalized Chatbot: Integrating Your Unique Dataset with AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-artificial-intelligence-for-beginners/"><u>Decoding Artificial Intelligence for Beginners</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-transform-your-footage-the-ultimate-1080p-video-editor/"><u>Updated Transform Your Footage The Ultimate 1080P Video Editor</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-elevate-your-vlogging-game-with-tripod-mastery/"><u>[Updated] 2024 Approved Elevate Your Vlogging Game with Tripod Mastery</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-expert-tips-for-seamless-integration-of-pip-in-microsoft-edge/"><u>[Updated] 2024 Approved Expert Tips for Seamless Integration of PIP in Microsoft Edge</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-speaking-to-tomorrow-iphone-voice-memo/"><u>[Updated] Speaking to Tomorrow - iPhone Voice Memo</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-beginners-tutorial-on-using-luts-in-ar/"><u>2024 Approved A Beginner's Tutorial on Using LUTs in AR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-enhancing-clarity-in-google-meet-calls/"><u>2024 Approved Step-by-Step Enhancing Clarity in Google Meet Calls</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-a78-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo A78 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-achieve-lightning-fast-periscope-transmission/"><u>In 2024, How to Achieve Lightning-Fast Periscope Transmission</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-linking-up-tweeted-movies-and-music-on-fb-platform/"><u>In 2024, Linking Up Tweeted Movies and Music on FB Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/snag-low-cost-meta-quest-titles-top-tips-for-savvy-shoppers/"><u>Snag Low-Cost Meta Quest Titles: Top Tips for Savvy Shoppers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/spotting-the-fabrication-techniques-for-discerning-ai-created-false-news-content/"><u>Spotting the Fabrication: Techniques for Discerning AI-Created False News Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-keeping-your-virtual-reality-headset-germ-free/"><u>Step-by-Step Guide: Keeping Your Virtual Reality Headset Germ-Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-adding-your-own-music-to-beat-saber-on-pc-and-quest-headset-systems/"><u>Step-by-Step Tutorial: Adding Your Own Music to Beat Saber on PC and Quest Headset Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-metaverse-not-yet-a-reality/"><u>The Metaverse: Not Yet a Reality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-essential-strategies-for-mastering-effective-ai-prompts/"><u>Top 5 Essential Strategies for Mastering Effective AI Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-ai-unveiling-the-distinctions-between-chatgpt-and-gpt-3/"><u>Understanding AI: Unveiling the Distinctions Between ChatGPT and GPT-3</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-oculus-link-a-comprehensive-guide-on-its-functionality-and-usage/"><u>Understanding Oculus Link: A Comprehensive Guide on Its Functionality and Usage</u></a></li>
 </ul></div>
 

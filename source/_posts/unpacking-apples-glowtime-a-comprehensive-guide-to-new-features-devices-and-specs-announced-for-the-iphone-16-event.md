@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Apple's 'Glowtime': A Comprehensive Guide to New Features, Devices, and Specs Announced for the iPhone 16 Event"
-date: 2024-10-31T17:39:46.198Z
-updated: 2024-11-02T09:04:21.992Z
+date: 2024-10-31T17:28:23.430Z
+updated: 2024-11-08T01:57:59.787Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -88,10 +88,10 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -119,10 +119,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -140,16 +140,10 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -198,19 +192,15 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-making-sporting-scenes-spectacomed/"><u>[New] 2024 Approved Making Sporting Scenes Spectacomed</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-a-unique-online-presence-youtube-edition/"><u>[New] Crafting a Unique Online Presence YouTube Edition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-vs-paid-youtubes-exclusive-picks-for-superior-opening-tutorials-for-2024/"><u>[New] Free vs Paid YouTube's Exclusive Picks for Superior Opening Tutorials for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/13-of-our-favorite-true-crime-podcasts/"><u>13 of Our Favorite True Crime Podcasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-tips-for-navigating-the-telegram-online-experience/"><u>Expert Tips for Navigating the Telegram Online Experience</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/fbx-gaming-record-your-adventure/"><u>FBX Gaming Record Your Adventure</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-8-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 8 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-video-editing-simplified-the-best-hacks-for-new-creators/"><u>In 2024, Video Editing Simplified The Best Hacks for New Creators</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tasty-chaos-unleashed-the-ultimate-overcooked-2-analysis/"><u>Tasty Chaos Unleashed - The Ultimate Overcooked! 2 Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-storytelling-chatais-potential/"><u>The Future of Storytelling: ChatAI's Potential</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-journey-of-googles-artificial-intelligence-project-gemini-what-are-its-goals-and-latest-breakthrough-achievements/"><u>The Journey of Google’s Artificial Intelligence Project Gemini – What Are Its Goals and Latest Breakthrough Achievements?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-harnessing-microsoft-copilot-for-original-image-creation-in-ai-artistry/"><u>The Ultimate Guide to Harnessing Microsoft Copilot for Original Image Creation in AI Artistry</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-enhancements-needed-in-chatgpt-plugin-marketplace/"><u>Top 4 Enhancements Needed in ChatGPT Plugin Marketplace</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-huggingchat-an-accessible-ai-for-conversation-enthusiasts/"><u>Understanding HuggingChat: An Accessible AI for Conversation Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-eliminating-an-obsolete-linkedin-identity-stepwise-guide/"><u>[New] In 2024, Eliminating an Obsolete LinkedIn Identity Stepwise Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-tips-for-clearer-audio-in-home-based-podcasts/"><u>[Updated] Tips for Clearer Audio in Home-Based Podcasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-giants-in-ai-chatbots-google-bard-versus-bing-chat/"><u>Comparing Giants in AI Chatbots: Google Bard Versus Bing Chat</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-document-workflow-with-these-10-must-have-chatgpt-pdf-tools/"><u>Enhance Your Document Workflow with These 10 Must-Have ChatGPT PDF Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/fastest-method-for-transforming-mkv-files-into-mp4-using-an-advanced-mkv-to-mp4-conversion-tool/"><u>Fastest Method for Transforming MKV Files Into MP4 Using an Advanced MKV to MP4 Conversion Tool</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-realme-v30t-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Realme V30T to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-gt-neo-5-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme GT Neo 5 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-yourself-from-ai-phishing-attempts-tips-on-recognizing-suspicious-chatgpt-websites-and-action-plans/"><u>Protect Yourself From AI Phishing Attempts: Tips on Recognizing Suspicious ChatGPT Websites and Action Plans</u></a></li>
+<li><a href="https://win-top.techidaily.com/simple-methods-perform-a-hardware-based-system-restore-on-your-pc-without-upgrading-windows/"><u>Simple Methods: Perform a Hardware-Based System Restore on Your PC Without Upgrading Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-employment-7-predictions-on-how-generative-ai-shapes-our-future-work/"><u>Transforming Employment: 7 Predictions on How Generative AI Shapes Our Future Work</u></a></li>
 </ul></div>
 

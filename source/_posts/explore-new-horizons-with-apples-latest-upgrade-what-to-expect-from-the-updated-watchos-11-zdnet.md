@@ -1,7 +1,7 @@
 ---
 title: Explore New Horizons with Apple's Latest Upgrade - What to Expect From the Updated WatchOS 11 | ZDNET
-date: 2024-10-26T03:25:07.579Z
-updated: 2024-11-02T01:04:44.721Z
+date: 2024-11-04T03:02:25.319Z
+updated: 2024-11-08T07:27:21.399Z
 tags:
   - apple
 categories:
@@ -49,6 +49,13 @@ To help you make this decision, we've broken down all of the most important deta
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  1\. You'd benefit from Apple Intelligence features
 
 Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). Chief among them is the long-awaited Siri upgrade. The iOS assistant is much smarter than before as it is now aware of on-screen content, can better understand commands even if you stumble over your words, and can switch between text and voice inputs. This is just the tip of the iceberg, too, as Siri will fully integrate itself with [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-the-worlds-most-popular-ai-chatbot-explained/#link={) later in the year.
@@ -58,10 +65,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
@@ -71,13 +78,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -98,10 +98,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
@@ -117,10 +117,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -165,16 +165,22 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-find-the-best-online-subtitle-converters-for-no-cost/"><u>[New] In 2024, Find the Best Online Subtitle Converters for No Cost</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-generate-laughter-giphys-art/"><u>[Updated] Generate Laughter Giphy's Art</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unmatched-hd-capture-selecting-the-best-recorder-brands/"><u>[Updated] Unmatched HD Capture Selecting the Best Recorder Brands</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-streaming-screenshots-share-without-twitting/"><u>2024 Approved Streaming Screenshots Share Without Twitting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-guide-to-the-best-ai-tools-for-file-conversation/"><u>A Guide to the Best AI Tools for File Conversation</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/discovering-income-monetization-through-youtube-sponsored-videos-in-2024/"><u>Discovering Income Monetization Through YouTube Sponsored Videos, In 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-13-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone 13 on MetroPCS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722109029220-twitters-emoji-free-linuss-unmasking-insights-trojans-explored-and-chatgpt-flaws-highlighted/"><u>Twitters Emoji-Free, Linus's Unmasking Insights, Trojans Explored, & ChatGPT Flaws Highlighted.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unmasking-ai-influence-identifying-generated-texts/"><u>Unmasking AI Influence: Identifying Generated Texts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-sets-chatgpt-enterprise-apart-discover-offerings-and-advantages/"><u>What Sets ChatGPT Enterprise Apart? Discover Offerings & Advantages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/your-complete-guide-to-chatgpt/"><u>Your Complete Guide to ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-faceoff-the-ultimate-camera-showdown-guide/"><u>[New] Gopro Faceoff The Ultimate Camera Showdown Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-discover-the-secrets-to-superior-scalability-in-roblox-worlds/"><u>[New] In 2024, Discover the Secrets to Superior Scalability in Roblox Worlds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-no-more-running-out-of-room-top-20-zero-cost-cloud-services-up-to-1tb/"><u>[New] No More Running Out of Room - Top 20 Zero-Cost Cloud Services (Up To 1TB)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-real-time-recorder-battle-go-obs-vs-shadowplay-for-2024/"><u>[Updated] Real-Time Recorder Battle Go OBS! Vs. ShadowPlay for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-ac68u-tri-band-wi-fi-router-comprehensive-review-and-analysis/"><u>Asus AC68U Tri-Band Wi-Fi Router - Comprehensive Review & Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/before-going-smart-the-7-key-factors-for-selecting-the-perfect-smart-tv/"><u>Before Going Smart: The 7 Key Factors for Selecting the Perfect Smart TV</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-binary-envisioning-new-capabilities-for-gpt-5/"><u>Beyond Binary: Envisioning New Capabilities for GPT-5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-productivity-in-distance-collaborations-utilizing-chatgpt-for-remote-team-gatherings/"><u>Boosting Productivity in Distance Collaborations: Utilizing ChatGPT for Remote Team Gatherings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easing-the-capacity-load-of-wins-chatgpt/"><u>Easing the Capacity Load of Win's ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-digital-exploration-go-for-perplexity-ai/"><u>Enhance Your Digital Exploration – Go for Perplexity AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-limitations-of-ai-why-cant-chatgpt-identify-its-creative-outputs/"><u>Exploring the Limitations of AI: Why Can't ChatGPT Identify Its Creative Outputs?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-install-and-run-chatgpt-as-a-windows-app/"><u>How to Install and Run ChatGPT as a Windows App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-mastery-rapidly-assemble-your-digital-self/"><u>In 2024, Metaverse Mastery Rapidly Assemble Your Digital Self</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-reno-11-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo Reno 11 Pro 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-social-presence-write-stellar-posts-with-chatgpts-help/"><u>Revolutionize Your Social Presence: Write Stellar Posts with ChatGPT's Help</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-tasks-with-7-chatgpt-tips-for-optimal-output/"><u>Streamline Tasks with 7 ChatGPT Tips for Optimal Output</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-key-to-captivation-a-guide-to-more-likes-on-your-tiktok-unboxing-videos/"><u>The Key to Captivation A Guide to More Likes on Your TikTok Unboxing Videos</u></a></li>
 </ul></div>
 

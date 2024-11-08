@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Autumn Release: Discover All the Latest Innovations From Apple for iPhone, iPad, Mac, and Beyond - Spotlight on AI Features | TechZooming"
-date: 2024-10-30T00:24:11.613Z
-updated: 2024-11-02T02:28:02.323Z
+date: 2024-11-02T05:27:59.878Z
+updated: 2024-11-08T08:37:31.897Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,13 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -124,6 +117,13 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -136,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -159,6 +159,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -166,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,22 +218,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlocking-smooth-playback-overcoming-booty-freezes/"><u>[New] 2024 Approved Unlocking Smooth Playback Overcoming Booty Freezes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mac-and-pcs-top-10-supercharged-srt-systems-unveiled/"><u>[Updated] Mac & PC's Top 10 Supercharged SRT Systems Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-users-handbook-to-correcting-driverpowerstate-malfunctions/"><u>A User's Handbook to Correcting DRIVER_POWER_STATE Malfunctions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-top-21-zedge-tools-for-customizing-your-phone-with-free-ringtones-and-wallpapers-on-iphoneandroid/"><u>Discover the Ultimate Top 21 Zedge Tools for Customizing Your Phone with Free Ringtones & Wallpapers on iPhone/Android</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-efficiency-using-10-plugin-solutions-based-on-chatgpt-for-pdfs/"><u>Enhance Efficiency Using 10 Plugin Solutions Based on ChatGPT for PDFs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-business-operations-with-chatgpt-a-guide-to-8-key-applications/"><u>Enhancing Business Operations with ChatGPT - A Guide to 8 Key Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-commutes-mercedes-marries-ai-and-voice-control/"><u>Enhancing Commutes: Mercedes Marries AI and Voice Control</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/essential-steps-for-exceptional-photographic-assemblies/"><u>Essential Steps for Exceptional Photographic Assemblies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-potential-of-generative-ai-as-a-modern-conduit-for-false-information-dissemination/"><u>Exploring the Potential of Generative AI as a Modern Conduit for False Information Dissemination.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/freelancers-guide-bing-chat-vs-chatgpt-top-8-comparison-points/"><u>Freelancer's Guide: Bing Chat Vs. ChatGPT - Top 8 Comparison Points</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-the-future-explore-eight-essential-uses-for-chatgpt-in-todays-world/"><u>Harnessing the Future: Explore Eight Essential Uses for ChatGPT in Today's World</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-safeguard-personal-information-against-these-3-major-chatbot-risks/"><u>How to Safeguard Personal Information Against These 3 Major Chatbot Risks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-ai-innovation-comparing-gpt-4-with-its-siblings-gpt-4-turbo-and-gpt-n/"><u>Inside AI Innovation: Comparing GPT-4 with Its Siblings, GPT-4 Turbo & GPT-N</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/interlinked-networks-transferring-fb-videos-to-whatsapp-for-2024/"><u>Interlinked Networks Transferring FB Videos to WhatsApp for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/make-your-gaming-great-not-stressful/"><u>Make Your Gaming Great, Not Stressful</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-nokia-c110-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nokia C110 Android SIM Unlock APK</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-vault-explorers-superior-cloud-service-review-for-2024/"><u>Ultimate Vault Explorers Superior Cloud Service Review for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-bard-the-deceptive-application-that-harbors-dangerous-malware-stay-away-from-this-threat/"><u>'Google Bard': The Deceptive Application That Harbors Dangerous Malware - Stay Away From This Threat</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-iphoneandroid-sharing-videos-on-twitter-without-retweeting/"><u>[New] 2024 Approved IPhone/Android Sharing Videos On Twitter Without Retweeting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-most-reliable-photo-background-alternation-apps/"><u>[New] Explore the Most Reliable Photo-Background Alternation Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-sound-fidelity-at-home-mastering-quality-recordings/"><u>[Updated] 2024 Approved Sound Fidelity at Home Mastering Quality Recordings</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-tecno-pova-5-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Tecno Pova 5 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-ai-become-uncontrollable/"><u>Can AI Become Uncontrollable?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-work-routines-with-gpt-3-strategies/"><u>Elevating Work Routines with GPT-3 Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-advantages-and-disadvantages-of-chatgpt-in-creative-composition/"><u>Exploring the Advantages & Disadvantages of ChatGPT in Creative Composition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oneplus-nord-3-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For OnePlus Nord 3 5G Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-performing-a-hard-reset-on-your-non-bootable-chromebook/"><u>Step-by-Step Guide: Performing a Hard Reset on Your Non-Bootable Chromebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-strategies-leveraging-chatgpt-technology-for-business-growth/"><u>Top 8 Strategies: Leveraging ChatGPT Technology for Business Growth</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/try-these-6-costless-alternatives-for-openais-innovative-sora-platform/"><u>Try These 6 Costless Alternatives for OpenAI's Innovative Sora Platform</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-guide-top-5-free-photography-tools-to-erase-backgrounds-web-and-phone/"><u>Ultimate Guide: Top 5 Free Photography Tools to Erase Backgrounds (Web & Phone)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-obs-potential-incorporating-luts-seamlessly-for-2024/"><u>Unlocking OBS' Potential Incorporating LUTs Seamlessly for 2024</u></a></li>
 </ul></div>
 

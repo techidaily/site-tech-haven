@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Conversations: 7 Key Approaches for Better ChatGPT Replies"
-date: 2024-08-29T02:18:14.629Z
-updated: 2024-08-30T02:18:14.629Z
+date: 2024-11-02T09:17:27.063Z
+updated: 2024-11-08T00:59:59.413Z
 tags:
   - chatgpt
   - open-ai
@@ -29,15 +29,19 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Integration With Google Products and Third-Party Plugins
 
  This is one of the most significant Bard AI announcements since the chatbot itself was announced. Let's face it; Bard AI isn't as good as its competitors. We did a bit of a[ChatGPT vs. Bing AI vs. Bard AI test](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) , and Bard didn't impress. There are a lot of shortfalls we could talk about, but that's a discussion for another day. The good news, however, is that a bulk of those shortfalls could be fixed by opening up Bard to third-party services and other Google products.
 
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Image Prompting
 
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
@@ -48,40 +52,38 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 5\. Image Generation With Adobe Firefly
 
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
  If you can't[generate images with Midjourney's](https://www.makeuseof.com/how-to-use-midjourney-create-ai-art/) free tier anymore (or more like being force-fed the paid tier), there's hope yet. Bard AI will soon be able to generate images from the Bard AI interface courtesy of Adobe Firefly. If you're unfamiliar with Adobe Firefly, here's a quick[explainer on Adobe Firefly and what you can do with it](https://www.makeuseof.com/what-is-adobe-firefly-generative-ai/) .
 
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 6\. Tools for Exporting Generated Content
 
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
  Google is solving this by making content generated by Bard AI cross-compatible with some of its workspace tools like Google Sheets and Docs. So, if you generate data in a tabular format on Bard, you can export it to Sheets, where you can invite your family, friends, or colleagues to collaborate.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Improved Code Generation
 
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
@@ -90,20 +92,24 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  Bard AI can now generate code in several programming languages. It can also explain code snippets, debug code, and sometimes point to the origin of the code to give credit to whoever created the original codebase that was used to answer your question.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google's AI Endgame Is Gemini
 
  Bard AI currently runs on PaLM 2 (the latest iteration of its PaLM large language model) and relies on different Google products and services to offer most of the features announced at Google I/O 2023\. Meanwhile, Sundar Pichai, the CEO of Google, briefly discussed Gemini—a new large language model currently being developed from the ground up to power future iterations of Bard AI.
 
  According to Sundar Pichai, Gemini will be a multi-modal LLM, which means it will likely replace Google's use of third-party services like Adobe Firefly or its products like Google Lens within the Bard AI ecosystem. Information about Gemini is still limited, but Google is investing in building a completely different LLM for Bard AI, and it will be worth paying attention to. It's game on for generative AI.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +118,26 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-get-tiktok-working-again-after-a-crash/"><u>[New] In 2024, How to Get TikTok Working Again After a Crash</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-stealthy-strategies-for-anonymous-instagram-broadcasts/"><u>[New] Stealthy Strategies for Anonymous Instagram Broadcasts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-entrepreneurs-must-haves-essential-items-for-kickstarting-success-for-2024/"><u>[Updated] The Entrepreneur's Must-Haves Essential Items for Kickstarting Success for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-and-video-streaming-from-android-to-iphone/"><u>2024 Approved Photo & Video Streaming From Android to iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breakthrough-in-spreadsheet-tasks-with-chatgpt-and-excel/"><u>Breakthrough in Spreadsheet Tasks With ChatGPT & Excel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-most-effective-ai-strategies-for-conquering-mathematical-puzzles/"><u>Discover the Most Effective AI Strategies for Conquering Mathematical Puzzles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-emotion-ai-interpret-human-sentiments-unveiling-the-truth-behind-artificnial-empathy/"><u>How Does Emotion AI Interpret Human Sentiments: Unveiling the Truth Behind Artificnial Empathy</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-s17-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo S17</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/moto-g-power-assessment-where-attractiveness-and-incredible-battery-longevity-collide/"><u>Moto G Power Assessment: Where Attractiveness and Incredible Battery Longevity Collide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/professional-gear-tips-gopro-edition/"><u>Professional Gear Tips GoPro Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-communication-essentials-why-chatgpt-might-not-be-trustworthy-for-private-data/"><u>Secure Communication Essentials: Why ChatGPT Might Not Be Trustworthy for Private Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strength-training-your-prompt-skills-on-chatgpt-as-a-fitness-aficionado/"><u>Strength Training Your Prompt Skills on ChatGPT as a Fitness Aficionado</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-ai-lingo-grasping-29-essential-terminologies-for-tech-savviness/"><u>The Ultimate List of AI Lingo: Grasping 29 Essential Terminologies for Tech Savviness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-tricks-to-utilize-chatgpt-for-superior-dungeon-master-support-in-role-playing-games/"><u>Top 6 Tricks to Utilize ChatGPT for Superior Dungeon Master Support in Role-Playing Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-laptops-for-professional-video-editors-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Laptops for Professional Video Editors: Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-distinctions-nlp-vs-ml/"><u>Understanding the Distinctions: NLP vs ML</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/workplace-data-safety-how-to-maintain-privacy-with-chatgpt-tools/"><u>Workplace Data Safety: How to Maintain Privacy with ChatGPT Tools</u></a></li>
+</ul></div>
 

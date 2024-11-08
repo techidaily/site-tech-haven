@@ -1,7 +1,7 @@
 ---
 title: "Navigating Legislation: Key Strategies for Government Control Over AI Systems"
-date: 2024-08-29T02:23:32.258Z
-updated: 2024-08-30T02:23:32.258Z
+date: 2024-11-07T02:27:38.123Z
+updated: 2024-11-07T21:21:18.044Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,18 @@ False news can be categorized into three types:
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -51,14 +60,15 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -70,9 +80,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -82,8 +89,18 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -104,28 +121,23 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +146,26 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-mastering-the-game-discover-these-top-12-pc-clickers/"><u>2024 Approved Mastering the Game Discover These Top 12 PC Clickers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-14-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone 14 Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-vpn-for-chrome-how-to-setup-vpn-for-chrome-easily/"><u>Best VPN for Chrome - How to Setup VPN for Chrome Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/capture-your-screen-with-ease-screenshoting-techniques-for-your-acer-notebook/"><u>Capture Your Screen with Ease: Screenshoting Techniques for Your Acer Notebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/connecting-your-printer-to-your-laptop-seamlessly-wireless-and-usb-methods-explained/"><u>Connecting Your Printer to Your Laptop Seamlessly: Wireless and USB Methods Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-methods-to-refresh-your-pcs-firmware-with-windows-11/"><u>Easy Methods to Refresh Your PC's Firmware with Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-pc-restoration-techniques-on-windows-10-operating-system/"><u>Effortless PC Restoration Techniques on Windows 10 Operating System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-complete-control-over-your-youtube-viewing-experience/"><u>In 2024, Complete Control Over Your YouTube Viewing Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-excellence-in-video-selecting-peak-frame-rates-for-slow-motion-effects/"><u>In 2024, Excellence in Video Selecting Peak Frame Rates for Slow-Motion Effects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-pairing-top-ten-kiss-off-classics-at-romances-peak-for-2024/"><u>Perfect Pairing Top Ten Kiss-Off Classics at Romance's Peak for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/schnelle-datenspeicherung-mit-windows-10-effiziente-managementtechniken-zum-erfolgreichen-exportieren/"><u>Schnelle Datenspeicherung Mit Windows 10: Effiziente Managementtechniken Zum Erfolgreichen Exportieren</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-enabling-advanced-boot-mode-in-windows-11/"><u>Step-by-Step Tutorial: Enabling Advanced Boot Mode in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1424595-9781780286150-the-gene-keys/"><u>The Gene Keys | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-gradual-sound-escalation-auditions-guide-to-fades-for-2024/"><u>The Gradual Sound Escalation Audition’s Guide to Fades for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshoot-and-repair-get-your-oculus-air-link-functional-on-windows-pcs/"><u>Troubleshoot and Repair: Get Your Oculus Air Link Functional on Windows PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-poor-audio-quality-in-airpods-when-connected-to-your-laptop/"><u>Troubleshooting Poor Audio Quality in AirPods When Connected to Your Laptop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/visual-tutorial-on-securely-pairing-laptop-and-television-a-comprehensive-walkthrough/"><u>Visual Tutorial on Securely Pairing Laptop & Television - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://fox-access.techidaily.com/weave-webcomic-wonders-with-giphy-for-2024/"><u>Weave Webcomic Wonders with Giphy for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Comparison: Bard Vs. ChatGPT Vs. Alpaca - Choosing the Top Language Model"
-date: 2024-08-29T02:25:05.881Z
-updated: 2024-08-30T02:25:05.881Z
+date: 2024-11-03T23:12:49.674Z
+updated: 2024-11-07T18:18:19.595Z
 tags:
   - chatgpt
   - open-ai
@@ -42,11 +42,22 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -62,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -77,17 +85,10 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
  Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
@@ -100,12 +101,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
@@ -114,6 +119,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -127,9 +139,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 You read it here first, folks.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## No Chatbot Is Perfect
 
  We found that while all three large language models have their advantages and disadvantages, none of them can replace the real expertise of a human being with specialized knowledge.
@@ -138,14 +147,11 @@ You read it here first, folks.
 
  If you'd like to create great AI art without worrying that somebody's looking over your shoulder, it's easy to run an art AI model on your local machine, too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +160,23 @@ You read it here first, folks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/alert-local-print-queue-not-running/"><u>[ALERT] Local Print Queue Not Running</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-expert-techniques-for-transforming-vimeo-media-into-mp4s-for-2024/"><u>[New] Expert Techniques for Transforming Vimeo Media Into MP4s for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-streamline-your-gaming-with-xbox-screen-recorders/"><u>[New] In 2024, Streamline Your Gaming with Xbox Screen Recorders</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-most-popular-amazon-originals-in-2e23/"><u>[Updated] Twitter's Most Popular Amazon Originals in 2E'23</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-boosting-your-browser-lightning-speed-profile-hunts/"><u>2024 Approved Boosting Your Browser Lightning Speed Profile Hunts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-essential-choice-10-budget-friendly-caption-tools/"><u>2024 Approved Essential Choice 10 Budget-Friendly Caption Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/gifpng-5/"><u>完璧にGIFをPNGにリニューアル: サイト用・プログラムによる最適なコンバータ方法5つ</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-the-enigma-of-artificial-intelligence-ai-black-boxes/"><u>Demystifying the Enigma of Artificial Intelligence (AI) Black Boxes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-projects-with-chatgpt-vision-top-8-techniques-to-try/"><u>Enhance Your Projects with ChatGPT Vision: Top 8 Techniques to Try</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-origins-when-did-artificial-intelligence-begin/"><u>Exploring the Origins: When Did Artificial Intelligence Begin?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-risks-utilizing-chatgpt-for-crafting-cyber-threats/"><u>Exploring the Risks: Utilizing ChatGPT for Crafting Cyber Threats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/forging-an-ai-that-harmonizes-with-humanity/"><u>Forging an AI that Harmonizes with Humanity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guarding-confidentiality-with-chatgpt-tips-for-conversation-non-retention/"><u>Guarding Confidentiality with ChatGPT: Tips for Conversation Non-Retention</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-unleash-creativity-mastering-high-quality-slow-motion-video-on-your-phone/"><u>In 2024, Unleash Creativity Mastering High-Quality Slow Motion Video on Your Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sculpt-custom-language-agents/"><u>Sculpt Custom Language Agents</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-exclusive-deal-on-new-apple-pencil-2nd-gen-for-just-95-perfect-gift-idea-this-labor-day-sourced/"><u>Unlock Exclusive Deal on New Apple Pencil (2Nd Gen) for Just $95 - Perfect Gift Idea This Labor Day, Sourced !</u></a></li>
+</ul></div>
 

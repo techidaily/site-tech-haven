@@ -1,7 +1,7 @@
 ---
 title: How Did CrowdStrike's Windows Meltdown Event Unfold ? A Historical Analysis Revealed by ZDNet
-date: 2024-10-30T08:10:06.652Z
-updated: 2024-11-02T10:32:37.719Z
+date: 2024-11-02T22:23:35.985Z
+updated: 2024-11-08T04:36:15.637Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,22 +181,21 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-simplifying-post-production-using-luts-in-after-effects/"><u>[New] 2024 Approved Simplifying Post Production Using LUTs in After Effects</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-ultimate-blueprint-to-dissolve-your-tiktok-presence/"><u>[Updated] Ultimate Blueprint to Dissolve Your TikTok Presence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-ways-to-access-gpt-4-for-free/"><u>5 Ways to Access GPT-4 for Free</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-deep-dive-into-linus-tech-tips-security-breach-understanding-chatgpt-issues-and-the-checkmark-alert-on-twitter/"><u>A Deep Dive Into Linus Tech Tips' Security Breach, Understanding ChatGPT Issues and the Checkmark Alert on Twitter</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-step-by-step-approach-to-publishing-your-ai-discussions-online/"><u>A Step-by-Step Approach to Publishing Your AI Discussions Online</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-revolutionizing-online-discovery-whats-next-for-search-engines/"><u>AI Revolutionizing Online Discovery - What's Next for Search Engines?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722997092103-boosting-your-cyberpunk-2077-playthrough-overcome-past-fps-challenges-easily-now/"><u>Boosting Your Cyberpunk 2077 Playthrough: Overcome Past FPS Challenges Easily Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722090666729-four-desired-improvements-for-the-next-generation-ai-gpt-5/"><u>Four Desired Improvements for the Next Generation AI, GPT-5!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722171514639-how-should-freelancers-decide-between-bing-chat-and-chatgpt-consider-these-8-aspects/"><u>How Should Freelancers Decide Between Bing Chat and ChatGPT? Consider These 8 Aspects!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/how-to-share-a-private-youtube-video-in-2024/"><u>How to Share a Private YouTube Video, In 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-android-and-ios-leading-titles-mimicking-playstation-games/"><u>In 2024, Android & iOS Leading Titles Mimicking PlayStation Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-finns-fiscal-flow-income-insights-from-youtube-icon/"><u>In 2024, Finn's Fiscal Flow Income Insights From YouTube Icon</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-f34-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy F34 5G Phones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722019219605-is-paying-for-chatgpt-plus-subscription-justified-an-in-depth-review/"><u>Is Paying for ChatGPT Plus Subscription Justified? An In-Depth Review.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722200209823-is-your-conversation-with-chatgpt-secure-opting-out-instructions-inside/"><u>Is Your Conversation with ChatGPT Secure? Opting Out Instructions Inside</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-your-craft-a-guide-to-samsungs-photography-tools-for-2024/"><u>Mastering Your Craft A Guide to Samsung's Photography Tools for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722645865974-surpassing-competitors-in-performance-and-style-a-complete-analysis-of-the-best-2018-tablet-apple-ipad-pro-11-inch/"><u>Surpassing Competitors in Performance and Style - A Complete Analysis of the Best 2018 Tablet: Apple iPad Pro (11-Inch).</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-getting-started-with-digital-image-detailing-for-2024/"><u>[New] Getting Started with Digital Image Detailing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-step-by-step-guide-to-basic-ps-color-correction/"><u>[New] Step-by-Step Guide to Basic PS Color Correction</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-securely-save-your-favorite-facebook-films-on-chrome/"><u>2024 Approved Securely Save Your Favorite Facebook Films on Chrome</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-90-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor 90 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-auto-gpt-hold-its-own-without-the-power-of-gpt-a-comprehensive-review/"><u>Can Auto-GPT Hold Its Own Without the Power of GPT-# - A Comprehensive Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-the-turing-test-determine-true-ai-and-when-might-we-surpass-it/"><u>Can the Turing Test Determine True AI, and When Might We Surpass It?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-transfer-learning-techniques-within-artificial-intelligence/"><u>Demystifying Transfer Learning Techniques Within Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-how-claude-outshines-chatgpt-in-four-remarkable-ways-for-enhanced-ai-interactions/"><u>Discover How Claude Outshines ChatGPT in Four Remarkable Ways for Enhanced AI Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-exercise-design-with-ai-assisted-guidance/"><u>Effective Exercise Design with AI-Assisted Guidance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-validity-of-prompt-engineering-as-employment/"><u>Exploring the Validity of Prompt Engineering as Employment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-the-paperclip-maximizer-scenario-sheds-light-on-potential-risks-of-advanced-ai/"><u>How the Paperclip Maximizer Scenario Sheds Light on Potential Risks of Advanced AI</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-tips-for-shooting-and-sharing-videos-on-instagram/"><u>In 2024, Tips for Shooting & Sharing Videos on Instagram</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722975590215-international-collaboration-is-crucial-for-biosecurity-policy-effectiveness-due-to-the-global-nature-of-health-risks/"><u>International Collaboration Is Crucial for Biosecurity Policy Effectiveness Due to the Global Nature of Health Risks.</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-top-10-talking-photo-online-tools-you-have-to-try/"><u>New Top 10 Talking Photo Online Tools You Have To Try</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-steam-and-gog-software-sales-variance/"><u>Understanding Steam and GOG: Software Sales Variance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/warning-signs-of-sham-chatgpt-portals-protecting-your-information/"><u>Warning Signs of Sham ChatGPT Portals: Protecting Your Information</u></a></li>
 </ul></div>
 

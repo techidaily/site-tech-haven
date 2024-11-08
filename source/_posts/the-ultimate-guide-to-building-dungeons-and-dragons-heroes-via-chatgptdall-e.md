@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Building Dungeons & Dragons Heroes via ChatGPT/DALL-E
-date: 2024-08-29T02:19:57.296Z
-updated: 2024-08-30T02:19:57.296Z
+date: 2024-11-06T20:39:34.622Z
+updated: 2024-11-07T17:14:25.551Z
 tags:
   - chatgpt
   - open-ai
@@ -34,43 +34,53 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
  If you want to bring Copilot up faster, you can do so by pressing**Win + C** . Or, if you're lucky enough to own a[laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , just press that to bring up the assistant at any time.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
  If you're on mobile, you can download the[Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or[iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) . The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Get the Most Out of GPT-4 Turbo
 
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
 
  Always remember that Copilot currently doesn't process its queries locally; everything gets sent back to Microsoft's servers so it can generate your answer. Be careful and avoid telling Copilot anything private or something that could identify you.
@@ -79,14 +89,11 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 
  GPT-4 Turbo is a very powerful tool, and fortunately, you don't have to pay a cent to use it. Now you know how to use the popular chatbot model for free, whether you're on a Windows PC or otherwise.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +102,22 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-quell-the-quake-techniques-to-smooth-out-gopro-footage/"><u>[Updated] 2024 Approved Quell the Quake Techniques to Smooth Out GoPro Footage</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-recmaster-screen-recorder-review-2023/"><u>[Updated] Recmaster Screen Recorder Review 2023</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-y78plus-frp-bypass-by-drfone-android/"><u>About Vivo Y78+ FRP Bypass</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-disallowed-in-italy-exploring-the-immediate-effect-policy-shift/"><u>ChatGPT Disallowed in Italy: Exploring the 'Immediate Effect' Policy Shift</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-engaging-youtube-scripts-with-chatgpt-a-step-by-step-guide/"><u>Creating Engaging YouTube Scripts with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-lava-blaze-pro-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-how-ios-changes-your-gpt-game/"><u>Discovering How iOS Changes Your GPT Game</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/dvd-conversion-guide-stream-and-enjoy-on-tv-with-our-three-best-techniques/"><u>DVD Conversion Guide: Stream & Enjoy on TV with Our Three Best Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/essential-insights-into-youtube-tvs-membership-advantages/"><u>Essential Insights Into YouTube TV's Membership Advantages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evolving-intelligence-deciphering-the-five-key-differences-between-microsofts-latest-model-gpt-4-and-its-previous-version-gpt-35/"><u>Evolving Intelligence: Deciphering the Five Key Differences Between Microsoft's Latest Model, GPT-4, and Its Previous Version, GPT-3.5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-virtual-to-visual-selecting-movies-through-chatgpt/"><u>From Virtual to Visual: Selecting Movies Through ChatGPT</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimizing-youtube-banners-with-best-practices-in-mind-for-2024/"><u>Optimizing YouTube Banners with Best Practices in Mind for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-player-couldnt-find-any-sources-to-play-on-your-windows-pc/"><u>Resolve 'Player Couldn’t Find Any Sources to Play' On Your Windows PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/smartly-sell-your-ideas-persuasive-proposals-and-ai-collaboration/"><u>Smartly Sell Your Ideas: Persuasive Proposals & AI Collaboration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-potential-of-intelligent-mobile-search-on-any-smartphone-try-bings-innovative-feature-for-iosandroid-today/"><u>Unlock the Potential of Intelligent Mobile Search on Any Smartphone – Try Bing's Innovative Feature for iOS/Android Today</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Mobile Filmmaking: Final Cut Now Available on iPhone, According to ZDNET"
-date: 2024-10-31T17:47:13.386Z
-updated: 2024-11-01T21:40:55.449Z
+date: 2024-11-07T01:42:58.219Z
+updated: 2024-11-07T23:15:07.501Z
 tags:
   - apple
 categories:
@@ -57,10 +57,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
@@ -82,13 +82,6 @@ Personally, the iPhone 3G was my first iPhone (there was no iPhone 2 or 3). I bo
 Over in the Android world, its first phone was the HTC Dream, also marketed as the [T-Mobile G1](https://www.cnet.com/reviews/t-mobile-g1-review/). It was released in October 2008 and was noteworthy for its slide-out display that opened to show a BlackBerry-style keyboard. This device came with a rear-facing 3.15MP camera.
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
 
@@ -121,10 +114,10 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
@@ -158,10 +151,10 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Object knowledge
@@ -205,6 +198,13 @@ Predictive algorithms and object detection models are often used for real-time t
 One thing that's important to note: [Generative AI](https://www.zdnet.com/article/generative-ai-filled-us-with-wonder-in-2023-but-all-magic-comes-with-a-price/) is something that occurs _outside_ of the camera.
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Looking to the future
 
@@ -262,22 +262,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-unleash-creativity-with-these-free-web-photo-editors/"><u>[New] In 2024, Unleash Creativity with These Free Web Photo Editors</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-online-sensation-spotlight/"><u>[Updated] 2024 Approved Online Sensation Spotlight</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-use-screencastify-recorder/"><u>[Updated] How to Use Screencastify Recorder</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1-effortless-movie-and-tv-show-downloads-from-tune-entertainment-library/"><u>1. Effortless Movie and TV Show Downloads From Tune Entertainment Library</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-disabling-youtube-ads-across-chrome-firefox-android-and-ios-browsers/"><u>2024 Approved Disabling YouTube Ads Across Chrome, Firefox, Android & iOS Browsers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-se-2020-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone SE (2020)? How to Fix it?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/openai-dismisses-sam-altman-from-leadership-implications-for-the-future-of-chatgpt/"><u>OpenAI Dismisses Sam Altman From Leadership: Implications for the Future of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/openai-transitions-gpts-horizon-altered/"><u>OpenAI Transitions, GPT's Horizon Altered</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-guide-fixing-lack-of-audio-in-your-netflix-streams/"><u>Quick Guide: Fixing Lack of Audio in Your Netflix Streams</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/should-freelancers-use-bing-chat-or-chatgpt-8-factors-to-consider/"><u>Should Freelancers Use Bing Chat or ChatGPT? 8 Factors to Consider</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/start-a-conversation-learn-how-to-use-chatgpt-for-instant-communication/"><u>Start a Conversation: Learn How To Use ChatGPT for Instant Communication</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-into-ais-future-with-gpt-4-nevertheless-platinum-still-rewards-users-with-6-significant-advantages/"><u>Step Into AI's Future with GPT-4! Nevertheless, Platinum Still Rewards Users With 6 Significant Advantages</u></a></li>
-<li><a href="https://windows11.techidaily.com/stopping-spontaneous-hotkey-engagements-in-windows/"><u>Stopping Spontaneous Hotkey Engagements in Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ai-tussle-continues-decide-between-snapchats-myai-and-gpt/"><u>The AI Tussle Continues: Decide Between Snapchat's MyAI & GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-artificer-evaluation-top-5-successors-to-the-classic-turing-test/"><u>The Future of Artificer Evaluation - Top 5 Successors to the Classic Turing Test</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-workforce-revolution-how-generative-ai-shapes-job-opportunnities-7-key-points/"><u>The Future Workforce Revolution: How Generative AI Shapes Job Opportunnities (7 Key Points)</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-xiaomi-redmi-a2plus-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Xiaomi Redmi A2+.</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1716069417867-updated-2024-approved-how-to-manual-for-creating-an-inclusive-and-productive-skype-chat-room-accessible-by-both-windows-and-mac-users/"><u>[Updated] 2024 Approved How-To Manual for Creating an Inclusive and Productive Skype Chat Room Accessible by Both Windows & Mac Users.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-record-a-voice-over-for-a-video/"><u>[Updated] How To Record A Voice Over For A Video</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-efficiently-applying-luts-in-video-editing-premiere/"><u>[Updated] In 2024, Efficiently Applying LUTs in Video Editing Premiere</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-making-fb-video-accessible-on-household-tvs/"><u>[Updated] Making Fb Video Accessible on Household TVs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-slipping-into-the-social-scene-of-online-tiktok-gigs/"><u>[Updated] Slipping Into the Social Scene of Online TikTok Gigs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-pick-for-personal-task-management-comparing-claude-to-chatgpt/"><u>Best Pick for Personal Task Management: Comparing Claude to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-google-translate-an-in-depth-comparison-of-their-linguistic-abilities/"><u>ChatGPT Vs. Google Translate: An In-Depth Comparison of Their Linguistic Abilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-top-9-wellness-innovations-for-modern-living/"><u>ChatGPT’s Top 9 Wellness Innovations for Modern Living</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-y27-4g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y27 4G? Try These Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/home-button-issues-on-iphones-here-are-5-swift-fixes-to-try/"><u>Home Button Issues on iPhones? Here Are 5 Swift Fixes to Try</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-y78-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo Y78 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-nvidias-generative-ai-eligibility-criteria-for-harnessing-its-power/"><u>Navigating Through NVIDIA's Generative AI: Eligibility Criteria for Harnessing Its Power</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/nec-laviepcdvd/"><u>NEC LAVIEPC用DVD再生に失敗する場合、解決策をご紹介</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-family-handbook-on-gpt-powered-futures/"><u>The Ultimate Family Handbook on GPT-Powered Futures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-versatility-of-nvidia-ai-foundations-the-ultimate-guide-to-custom-gan-models/"><u>Understanding the Versatility of NVIDIA AI Foundations: The Ultimate Guide to Custom GAN Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-dark-side-5-ways-in-which-ai-benefits-cybercriminals/"><u>Unveiling the Dark Side: 5 Ways in Which AI Benefits Cybercriminals</u></a></li>
 </ul></div>
 

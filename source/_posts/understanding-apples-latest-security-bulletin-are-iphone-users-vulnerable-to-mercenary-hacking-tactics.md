@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's Latest Security Bulletin: Are iPhone Users Vulnerable to Mercenary Hacking Tactics?"
-date: 2024-10-30T22:21:52.649Z
-updated: 2024-11-02T08:55:52.683Z
+date: 2024-11-03T22:45:46.438Z
+updated: 2024-11-08T08:51:30.223Z
 tags:
   - apple
 categories:
@@ -51,16 +51,10 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -72,10 +66,10 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -127,21 +121,21 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-music-to-imovie-from-youtube/"><u>[Updated] 2024 Approved How to Add Music to iMovie From YouTube?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-immersion-countdown-top-5-samsung-gear-vr-games/"><u>[Updated] Immersion Countdown - Top 5 Samsung Gear VR Games</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-secrets-to-free-youtube-intros/"><u>[Updated] Unlocking the Secrets to FREE YouTube Intros</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-the-art-of-color-grading-employing-luts-from-cg-central/"><u>2024 Approved The Art of Color Grading Employing LUTs From CG Central</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-essential-warnings-before-choosing-ai-as-your-mental-health-companion/"><u>5 Essential Warnings Before Choosing AI as Your Mental Health Companion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/accessing-microsoft-bings-free-dall-e-3-features-a-comprehensive-guide/"><u>Accessing Microsoft Bing's Free DALL-E 3 Features: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/advantages-of-using-chatgpts-desktop-application-over-its-web-counterpart/"><u>Advantages of Using ChatGPT's Desktop Application Over Its Web Counterpart</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-and-emotional-learning-using-chatgpt-as-a-tool-for-eq-advancement/"><u>AI and Emotional Learning: Using ChatGPT as a Tool for EQ Advancement</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-application-made-simple-python-plus-gpt-3/"><u>AI Application Made Simple: Python + GPT-3</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/erasing-your-digital-footprints-how-to-delete-a-tiktok-account-completely/"><u>Erasing Your Digital Footprints – How to Delete a TikTok Account Completely</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722190429172-impatient-for-ai-conversation-at-your-fingertips-check-out-these-fantastic-open-source-chatbots/"><u>Impatient for AI Conversation at Your Fingertips? Check Out These Fantastic Open Source Chatbots!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-expert-tips-to-perfectly-utilize-instagrams-sound-stickers/"><u>In 2024, Expert Tips to Perfectly Utilize Instagram's Sound Stickers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Honor X9b? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/leading-edge-approaches-in-spotifys-advertising-realm-for-2024/"><u>Leading Edge Approaches in Spotify's Advertising Realm for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722139568702-master-the-art-of-detection-with-these-4-innovative-ai-murder-mystery-apps/"><u>Master the Art of Detection with These 4 Innovative AI Murder Mystery Apps!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/wavtop5/"><u>WAVファイルのカットアンドスペース分割用の無料ソフトウェアとブラウザベースプラットフォームTOP5</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-step-by-step-share-video-to-instagram/"><u>[New] 2024 Approved Step-by-Step Share Video to Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-elevate-your-videography-with-top-instagram-techniques/"><u>[Updated] In 2024, Elevate Your Videography with Top Instagram Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-the-secrets-of-auto-played-youtube-content-on-facebook-platform/"><u>[Updated] Unveiling the Secrets of Auto-Played YouTube Content on Facebook Platform</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>2024 Approved The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://solve-news.techidaily.com/automatic-ocr-server-solutions-by-abbyy-revolutionizing-digital-document-processing/"><u>Automatic OCR Server Solutions by ABBYY: Revolutionizing Digital Document Processing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/construct-a-subsidized-windows-platform-for-gpt-mimicry/"><u>Construct a Subsidized Windows Platform for GPT Mimicry</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/die-allerbesten-yogalehrerinnen-and-lehrern-im-video-professionelle-rezension-von-yoga-dvds/"><u>Die Allerbesten Yogalehrerinnen & -Lehrern Im Video: Professionelle Rezension Von Yoga DVDs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/direct-browsing-with-chatgpt-or-utilizing-plug-ins-making-the-best-choice-for-your-needs/"><u>Direct Browsing with ChatGPT or Utilizing Plug-Ins: Making the Best Choice for Your Needs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-visual-stories-with-smartphone-montage-apps/"><u>Elevating Visual Stories with Smartphone Montage Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-unveils-its-ai-warrior-bard-aiming-to-challenge-chatgpt/"><u>Google Unveils Its AI Warrior 'Bard,' Aiming to Challenge ChatGPT</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-unleash-the-power-of-memes-with-twitter-video-to-gif-transformation/"><u>In 2024, Unleash the Power of Memes with Twitter Video-to-GIF Transformation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/navigating-facebook-sharing-twitter-video-integration/"><u>Navigating Facebook Sharing Twitter Video Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-era-of-bots-is-ai-claude-the-future-star/"><u>New Era of Bots: Is AI Claude the Future Star?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/personal-project-excellence-via-innovative-ai-tech/"><u>Personal Project Excellence via Innovative AI Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-conversations-chromes-best-tool-for-masterful-chatgpt-engagements/"><u>Streamline Your Conversations: Chrome's Best Tool for Masterful ChatGPT Engagements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-next-leap-forward-for-bing-microsofts-implementation-of-cutting-edge-ai-technology/"><u>The Next Leap Forward for Bing: Microsoft's Implementation of Cutting-Edge AI Technology</u></a></li>
 </ul></div>
 

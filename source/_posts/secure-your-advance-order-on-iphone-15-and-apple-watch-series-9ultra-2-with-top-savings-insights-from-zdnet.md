@@ -1,7 +1,7 @@
 ---
 title: Secure Your Advance Order on iPhone 15 & Apple Watch Series 9/Ultra 2 with Top Savings - Insights From ZDNet
-date: 2024-10-28T22:38:45.806Z
-updated: 2024-11-02T03:59:03.973Z
+date: 2024-11-02T16:51:41.439Z
+updated: 2024-11-08T01:22:35.542Z
 tags:
   - apple
 categories:
@@ -125,13 +125,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -165,10 +158,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple accessory deals
@@ -185,20 +178,34 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
 
@@ -218,13 +225,6 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -291,21 +291,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-rethink-your-feed-6-innovative-video-platforms-on-mobile-devices/"><u>[Updated] 2024 Approved Rethink Your Feed 6 Innovative Video Platforms on Mobile Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-visual-quality-leaks/"><u>2024 Approved Premier Visual Quality Leaks</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/break-free-from-limitations-transitioning-from-32-bit-win10-to-64-bit-prowess/"><u>Break Free From Limitations: Transitioning From 32-Bit Win10, To 64-Bit Prowess</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/detailed-analysis-of-the-newest-generation-amazon-kindle-paperwhite-for-avid-readers/"><u>Detailed Analysis of the Newest Generation Amazon Kindle Paperwhite for Avid Readers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/finding-your-ideal-4k-screen-the-top-contenders-for-ultimate-viewing-experience/"><u>Finding Your Ideal 4K Screen: The Top Contenders for Ultimate Viewing Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-poco-c65-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Poco C65 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-5-star-fluids-and-flows-in-video-games/"><u>The Ultimate 5-Star Fluids and Flows in Video Games</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-picks-6-exceptional-online-platforms-for-korean-learning/"><u>Top Picks: 6 Exceptional Online Platforms for Korean Learning</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721955708309-turn-by-turn-navigation/"><u>Turn-by-Turn Navigation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlock-fb-potential-with-2023s-top-free-tools-for-posts-for-2024/"><u>Unlock FB Potential with 2023’S Top-Free Tools for Posts for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-impostor-gpt-through-mention-driven-inspection/"><u>Unveiling Impostor GPT Through Mention-Driven Inspection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-practical-use-cases-for-chatgpt-a-look-at-seven-key-areas/"><u>Unveiling the Practical Use Cases for ChatGPT: A Look at Seven Key Areas</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-truth-the-top-7-reasons-why-chatgpt-jailbreak-attempts-fail/"><u>Unveiling the Truth: The Top 7 Reasons Why ChatGPT Jailbreak Attempts Fail</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/vacation-internet-tips-maximize-your-experience/"><u>Vacation Internet Tips: Maximize Your Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/voice-enabled-chatgpt-on-your-android-device-the-ultimate-how-to/"><u>Voice-Enabled ChatGPT on Your Android Device - The Ultimate How-To</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-artificial-intelligence-isnt-a-one-size-fits-all-solution-for-content-creators/"><u>Why Artificial Intelligence Isn't a One-Size-Fits-All Solution for Content Creators</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-transformative-youtube-decks-via-tailored-templates/"><u>[New] In 2024, Transformative Youtube Decks via Tailored Templates</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elevate-everyday-fashion-expert-edits-for-haul-videos/"><u>[Updated] Elevate Everyday Fashion Expert Edits for Haul Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-grand-adventures-reimagined-post-gta-v-lineup/"><u>[Updated] In 2024, Grand Adventures Reimagined - Post-GTA V Lineup</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-top-ten-image-amplifiers-for-social-media/"><u>[Updated] In 2024, Top Ten Image Amplifiers for Social Media</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-crafting-professional-valorant-thumbnails-for-youtube/"><u>2024 Approved Step-by-Step Crafting Professional Valorant Thumbnails for Youtube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-unveiling-the-core-technology-behind-superior-screen-captures-by-recmeister/"><u>2024 Approved Unveiling the Core Technology Behind Superior Screen Captures by Recmeister</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dismantling-the-mysteries-of-big-ai-language-tools/"><u>Dismantling the Mysteries of Big AI Language Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-bavarder-pathway-to-chatgpt-on-linux/"><u>Easy Bavarder Pathway to ChatGPT on Linux</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-smart-searches-a-users-manual-to-the-ai-integrated-bing-app-for-android/"><u>Explore Smart Searches: A User’s Manual to the AI-Integrated Bing App for Android</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-melody-and-motion-best-sync-videography-applications-of-the-decades-first-half/"><u>In 2024, Melody and Motion Best-Sync Videography Applications of the Decades First Half</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/increase-engagement-by-offering-downloads-on-your-site-learn-the-secrets-of-flipbook-creation-flipbuildercom/"><u>Increase Engagement by Offering Downloads on Your Site - Learn the Secrets of Flipbook Creation [FlipBuilder.com]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-emergence-of-ai-powered-search-shifting-paradigms-in-website-visibility-and-online-traffic-generation/"><u>The Emergence of AI-Powered Search: Shifting Paradigms in Website Visibility and Online Traffic Generation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-truth-about-chatgpt-on-windows-understanding-the-lack-of-legitimate-clients/"><u>The Truth About ChatGPT on Windows – Understanding the Lack of Legitimate Clients</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-research-potential-discover-why-perplexity-ai-is-the-ultimate-ai-enhanced-google-search-solution-for-everyone/"><u>Unleash Your Research Potential: Discover Why Perplexity AI Is the Ultimate AI-Enhanced Google Search Solution for Everyone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-pova-5-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Pova 5 Pro Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/yielding-insights-into-cryptocurrency-through-ai/"><u>Yielding Insights Into Cryptocurrency Through AI</u></a></li>
 </ul></div>
 

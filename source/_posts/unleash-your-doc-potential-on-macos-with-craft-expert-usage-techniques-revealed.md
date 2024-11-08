@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Doc Potential on macOS with Craft: Expert Usage Techniques Revealed"
-date: 2024-10-29T12:24:21.575Z
-updated: 2024-11-02T00:56:35.378Z
+date: 2024-11-02T21:10:55.695Z
+updated: 2024-11-07T20:10:40.055Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,22 +134,24 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-recording-your-screen-and-videos-on-android/"><u>[Updated] 2024 Approved Recording Your Screen & Videos on Android</u></a></li>
-<li><a href="https://win-great.techidaily.com/accelera-il-tuo-mac-con-strumenti-efficienti-ottime-alternative-al-tradizionale-robocopy/"><u>Accelera Il Tuo Mac Con Strumenti Efficienti: Ottime Alternative Al Tradizionale Robocopy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/accelerated-productivity-with-the-top-8-ai-apps-on-your-phone/"><u>Accelerated Productivity with the Top 8 AI Apps on Your Phone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-revolution-in-finance-how-chatgpt-could-reshape-your-career-opportunities/"><u>AI Revolution in Finance: How ChatGPT Could Reshape Your Career Opportunities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/anticipating-challenges-in-artificial-intelligence-exploring-the-growing-concerns-over-generative-ai-security/"><u>Anticipating Challenges in Artificial Intelligence: Exploring the Growing Concerns Over Generative AI Security</u></a></li>
-<li><a href="https://fox-that.techidaily.com/breakthrough-techniques-to-revive-a-frozen-iphone-device/"><u>Breakthrough Techniques to Revive a Frozen iPhone Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-online-jpggif-converters-the-best-10-list/"><u>Free Online JPG/GIF Converters The Best 10 List</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-search-of-perfection-gopros-1-10-case-review/"><u>In 2024, In Search of Perfection - GoPro's #1-10 Case Review</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/in-depth-analysis-the-best-chrome-browser-screen-capture-apps/"><u>In-Depth Analysis: The Best Chrome Browser Screen Capture Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mts-iphoneipad/"><u>MTSファイルプレーヤー対応アプリ: IPhone・iPadで簡単に楽しむ</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/social-space-gamers-the-ultimate-top-10-list-for-2024/"><u>Social Space Gamers The Ultimate Top 10 List for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/uncovering-genuine-chatbot-programming-on-ios/"><u>Uncovering Genuine ChatBot Programming on iOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-potential-best-practices-for-using-chatgpt-as-a-writer/"><u>Unlocking Potential: Best Practices for Using ChatGPT as a Writer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unmatched-add-ons-supercharging-your-gpt-experience-in-vs-code/"><u>Unmatched Add-Ons: Supercharging Your GPT Experience in VS Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/upgrade-to-excellence-discover-9-superior-reasons-for-choosing-chatgpt-plus/"><u>Upgrade to Excellence: Discover 9 Superior Reasons for Choosing ChatGPT Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-ai-shines-brighter-evaluating-chatgpt-vs-gemini-in-the-world-of-software-development/"><u>Which AI Shines Brighter? Evaluating ChatGPT Vs. Gemini in the World of Software Development</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-instagram-posting-tips-to-boost-your-podcast-exposure/"><u>[Updated] 2024 Approved Instagram Posting Tips to Boost Your Podcast Exposure</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-navigate-beyond-conventional-webcam-uses/"><u>[Updated] 2024 Approved Navigate Beyond Conventional Webcam Uses</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-detailed-framework-elevating-your-mobile-screenshots-using-mobizen/"><u>[Updated] In 2024, Detailed Framework Elevating Your Mobile Screenshots Using Mobizen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/building-connections-through-artificial-intelligence-using-chatgpt-for-emotional-comfort/"><u>Building Connections Through Artificial Intelligence: Using ChatGPT for Emotional Comfort</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-chatgpt-and-google-translate-determining-the-superior-machine-translator/"><u>Comparing ChatGPT and Google Translate: Determining the Superior Machine Translator</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-perplexity-ai-the-ultimate-google-search-enhancer-waiting-on-your-discovery/"><u>Discover Perplexity AI: The Ultimate Google Search Enhancer Waiting on Your Discovery</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oneplus-nord-n30-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on OnePlus Nord N30 5G Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210055162-9781911134473-magic-of-the-north-gate-2nd-ed/"><u>Magic of the North Gate (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-the-art-of-engaging-with-chatgpt-strategies-for-fitness-aficionados-to-get-better-responses/"><u>Master the Art of Engaging with ChatGPT: Strategies for Fitness Aficionados to Get Better Responses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-highlighting-tailored-gpt-engagements-within-chatgpt-dialogues/"><u>Mastering the Art of Highlighting Tailored GPT Engagements Within ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mistral-ais-le-chat-vs-chatgpt-an-in-depth-comparison/"><u>Mistral AI's Le Chat vs ChatGPT: An In-Depth Comparison</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-safely-recognizing-and-protecting-against-5-notable-chatgpt-scams/"><u>Navigating Safely: Recognizing and Protecting Against 5 Notable ChatGPT Scams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-generation-language-models-expecting-gpt-5s-arrival/"><u>Next Generation Language Models: Expecting GPT-5's Arrival?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/predicting-the-influence-of-ai-on-software-engineer-routines/"><u>Predicting the Influence of AI on Software Engineer Routines</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-tecno-pop-8-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Tecno Pop 8</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/seamless-steps-to-import-your-epub-ebooks-onto-an-iphone-by-bypassing-itunes/"><u>Seamless Steps to Import Your EPUB eBooks Onto an iPhone By Bypassing iTunes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/siri-or-chatgpt-discover-what-sets-them-apart-in-the-world-of-ai/"><u>Siri or ChatGPT? Discover What Sets Them Apart in the World of AI</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/understanding-youtubes-content-crafting-environment-for-2024/"><u>Understanding YouTube's Content Crafting Environment for 2024</u></a></li>
 </ul></div>
 

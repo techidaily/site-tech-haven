@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Selection of Prime Deals: Save Big on HP, Apple, and Razer Laptops in Our 18-Pick Guide | ZDNET's Tech Savvy Picks"
-date: 2024-10-26T18:48:34.536Z
-updated: 2024-11-02T08:40:10.053Z
+date: 2024-11-06T07:25:48.011Z
+updated: 2024-11-08T07:42:54.428Z
 tags:
   - apple
 categories:
@@ -83,13 +83,6 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -97,6 +90,13 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M2) for $799 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): [The MacBook Air (M2)](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) combines performance and portability. It's one of our favorite laptops at ZDNET and our Product of the Year -- and it's on sale for just $799, the lowest price we've ever seen.
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
 
@@ -106,19 +106,19 @@ HPZDNET
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Prime Day Lenovo deals
 
 Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -128,13 +128,6 @@ Kyle Kucharski/ZDNET
 * [HP Chromebook x360 2-in-1 Laptop for $293 (save $35 at Walmart)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-HD-Touchscreen-2-in-1-Laptop-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Teal-14a-ca0130wm%2F518977383&subId1=zd-__COM_CLICK_ID__-dtp): In [our testing](https://www.zdnet.com/article/this-hp-chromebook-made-living-without-windows-easier-than-i-expected/), we found this 2-in-1 Chromebook easily flexes between a laptop and a tablet, with a large 14-inch screen, comfortable keyboard, and sturdy build.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
 
@@ -151,15 +144,22 @@ Kyle Kucharski/ZDNET
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
 
@@ -172,10 +172,10 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When will these deals expire?
@@ -245,24 +245,22 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-musics-big-screen-facebooks-top-ten-vids-for-2024/"><u>[New] Music's Big Screen Facebook's Top Ten Vids for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-ultimate-pathway-from-webp-files-to-jpegs-for-2024/"><u>[New] The Ultimate Pathway From WebP Files to JPEGs for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-excelling-at-content-creation-a-guide-to-gamers-success/"><u>[Updated] In 2024, Excelling at Content Creation A Guide to Gamers' Success</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-moviemeld-editor-review-in-depth-analysis/"><u>2024 Approved MovieMeld Editor Review – In-Depth Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721433077915-comparing-giants-gemini-and-chatgpt-unite/"><u>Comparing Giants: Gemini and ChatGPT Unite!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovery-revealing-falsehood-about-gpt-windows/"><u>Discovery: Revealing Falsehood About GPT-Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-concept-to-reality-7-powerful-ways-chatgpt-processes-images/"><u>From Concept to Reality: 7 Powerful Ways ChatGPT Processes Images</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/is-data-recovery-possible-with-replacement-files/"><u>Is Data Recovery Possible with Replacement Files?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quick-guide-transform-your-flac-audio-to-mp3-efficiently-using-foobar2000-software/"><u>Quick Guide: Transform Your FLAC Audio to MP3 Efficiently Using Foobar2000 Software</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsung-showdown-in-depth-analysis-and-review-s10plus-vs-samsung-galaxy-s2/"><u>Samsung Showdown: In-Depth Analysis and Review - S10+ Vs Samsung Galaxy S2</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-implications-of-continuously-refreshed-data-in-chatgpt-for-general-users/"><u>The Implications of Continuously Refreshed Data in ChatGPT for General Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-perils-of-fraudgpt-how-to-evade-its-snares/"><u>The Perils of FraudGPT: How to Evade Its Snares</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-power-of-codegpt-a-breakthrough-technology-for-automatic-code-generation/"><u>The Power of CodeGPT – A Breakthrough Technology for Automatic Code Generation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-walkthrough-for-disabling-your-chatgpt-username-and-data/"><u>The Ultimate Walkthrough for Disabling Your ChatGPT Username and Data</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-misconits-about-using-chatgpt-for-financial-data/"><u>Top 5 Misconits About Using ChatGPT for Financial Data</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ais-intellectual-property-who-holds-copyright-on-artificial-intelligence-inventions/"><u>Understanding AI's Intellectual Property: Who Holds Copyright on Artificial Intelligence Inventions?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-impact-of-up-to-the-minute-information-gathering-by-chatgpt-for-everyone/"><u>Understanding the Impact of Up-to-the-Minute Information Gathering by ChatGPT for Everyone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-full-potential-of-chatgpt-for-a-better-lifestyle/"><u>Unlocking the Full Potential of ChatGPT for a Better Lifestyle</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-5-critical-motivations-for-corporate-anti-chatgpt-policies/"><u>Unveiling 5 Critical Motivations for Corporate Anti-ChatGPT Policies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-blueprint-to-establishing-a-distinctive-marketing-persona/"><u>[Updated] The Blueprint to Establishing a Distinctive Marketing Persona</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-learn-how-to-create-a-kinetic-typography-text-effect-in-filmora-one-of-the-best-video-editors-for-all-skill-levels-check-out-this-simple-step-/"><u>2024 Approved Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-7-exceptional-alternatives-to-chatgpt-enhance-your-mobile-experience/"><u>Discover 7 Exceptional Alternatives to ChatGPT: Enhance Your Mobile Experience!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-role-playing-dynamics-how-chatgpt-can-transform-your-dungeons-and-dragons-sessions/"><u>Enhancing Role-Playing Dynamics: How ChatGPT Can Transform Your Dungeons & Dragons Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-preserving-and-retrieving-your-chatgpt-interactions-at-any-time/"><u>Guide: Preserving and Retrieving Your ChatGPT Interactions at Any Time</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-sony-xperia-5-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Sony Xperia 5 V?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-6-plus-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 6 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-s24-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy S24 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-neo-5withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT Neo 5with/without a PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-leading-tech-choices-for-virtual-meetings/"><u>In 2024, Leading Tech Choices for Virtual Meetings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-claude-3-insightful-uses-for-cutting-edge-ai/"><u>Mastering Claude 3: Insightful Uses for Cutting-Edge AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-start-of-a-prompt-engineering-career-expert-recommendations-and-guidelines/"><u>Navigating the Start of a Prompt Engineering Career: Expert Recommendations and Guidelines</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/six-keys-to-outclassing-text-generating-machines/"><u>Six Keys to Outclassing Text-Generating Machines</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-power-of-usechatgpt-copilot-extension-for-seamless-web-navigation/"><u>The Power of UseChatGPT Copilot Extension for Seamless Web Navigation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-your-ps4-exiting-the-protective-mode-easily/"><u>Troubleshooting Your PS4: Exiting the Protective Mode Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-nuances-an-in-depth-look-at-what-sets-gpt-apart-from-bert-in-natural-language-processing/"><u>Unraveling Nuances: An In-Depth Look at What Sets GPT Apart From BERT in Natural Language Processing</u></a></li>
 </ul></div>
 

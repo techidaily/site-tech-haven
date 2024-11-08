@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity in RPGs: How to Employ ChatGPT & DALL-E for Custom Dungeons & Dragons Figures"
-date: 2024-08-29T02:23:14.339Z
-updated: 2024-08-30T02:23:14.339Z
+date: 2024-11-07T08:47:05.394Z
+updated: 2024-11-08T06:17:54.419Z
 tags:
   - chatgpt
   - open-ai
@@ -44,14 +44,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +57,23 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-haven.techidaily.com/complete-stop-to-windows-10-update-cycle-a-comprehensive-how-to/"><u>Complete Stop to Windows 10 Update Cycle – A Comprehensive How-To</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-walkthrough-to-screenshot-on-your-windows-11-pc/"><u>Complete Walkthrough to Screenshot on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-discovering-your-pcs-installed-software-on-windows/"><u>Comprehensive Guide: Discovering Your PC's Installed Software on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/drive-smart-save-more-score-20-off-on-drivecare-with-our-authentic-discount-code/"><u>Drive Smart, Save More: Score 20% Off on Drivecare with Our Authentic Discount Code !</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-itel-s23-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Itel S23 to Roku | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-pause-perfection-how-to-freeze-frame-in-videos-like-a-pro/"><u>New 2024 Approved Pause Perfection How to Freeze Frame in Videos Like a Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/screenrecorder-evaluation-tool-for-2024/"><u>ScreenRecorder Evaluation Tool for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/44oh44kj44k544kv44kv44oq44o844oz44ki44od44ox5b6m44gu44ov44kh44kk44or5zue5b6p5oml6acg/"><u>ディスククリーンアップ後のファイル回復手順</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

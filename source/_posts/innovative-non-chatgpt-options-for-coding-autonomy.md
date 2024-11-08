@@ -1,7 +1,7 @@
 ---
 title: Innovative Non-ChatGPT Options for Coding Autonomy
-date: 2024-08-29T02:21:32.094Z
-updated: 2024-08-30T02:21:32.094Z
+date: 2024-11-06T22:13:01.128Z
+updated: 2024-11-07T22:46:20.148Z
 tags:
   - chatgpt
   - open-ai
@@ -40,8 +40,12 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
  Aside from taking images as input, ChatGPT can also generate DALL-E images within the interaction.
@@ -50,16 +54,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Expanded Knowledge Base and Cross-Chat Memory
 
  ChatGPT's upgraded web browsing capabilities allow it to retrieve up-to-date information from the web with better accuracy. It ensures responses are based on the latest available data and insights, making it particularly valuable for quickly evolving topics like news, technology, and market trends.
@@ -70,12 +68,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -87,9 +89,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -97,6 +96,19 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Here, I’ve given ChatGPT-4o an SQL file containing a database from an e-commerce project and asked it to analyze and graph the top products commonly ordered.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
@@ -107,31 +119,29 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
  Temporary Chat is available to both Plus and Free tier users. You can access it through the model drop-down menu by selecting the Temporary Chat option. Once activated, you can now enjoy a private and non-persistent chat experience.
 
  The latest updates to ChatGPT introduce a host of features that cater to a wide range of user needs, from enhanced interactivity and data analysis to real-time information access and personalized experiences. Whether you're a professional, student, or casual user, these features offer powerful new ways to leverage ChatGPT for improved productivity, learning, and everyday convenience.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,4 +150,26 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-7-audio-capturers-2023-edition/"><u>[New] In 2024, Top 7 Audio Capturers 2023 Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastery-through-motion-a-garageband-guide-to-podcasting/"><u>[New] Mastery Through Motion A GarageBand Guide to Podcasting</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-top-5-methods-for-creating-an-impressive-tiktok-introduction-with-macos/"><u>[New] Top 5 Methods for Creating an Impressive TikTok Introduction with MacOS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-fun-car-games-for-kids/"><u>Best Fun Car Games for Kids</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-data-accuracy-and-efficiency-with-chatgpt-tactics/"><u>Boosting Data Accuracy and Efficiency with ChatGPT Tactics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creative-community-takes-a-stand-the-collective-lawsuit-of-prominent-figures-including-sarah-silverman-against-tech-giants/"><u>Creative Community Takes a Stand: The Collective Lawsuit of Prominent Figures, Including Sarah Silverman, Against Tech Giants</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/defending-chatbots-against-model-reconstruction/"><u>Defending Chatbots Against Model Reconstruction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-pc-with-zero-costs-chatgpt-clone-available-now-effortlessly-run-on-windows/"><u>Enhance Your PC with Zero Costs: ChatGPT Clone Available Now - Effortlessly Run on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-and-next-gen-chatbots-unlocking-future-possibilities-in-human-ai-interaction/"><u>Generative AI & Next-Gen Chatbots: Unlocking Future Possibilities in Human-AI Interaction</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-2-methods-to-add-effects-on-tiktok/"><u>In 2024, 2 Methods To Add Effects On TikTok</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-netflix-worth-it-5-reasons-to-sign-up/"><u>Is Netflix Worth It? 5 Reasons to Sign Up</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-fixes-handling-startup-errors-understanding-and-solving-code-0xc0000142/"><u>Mastering Fixes: Handling Startup Errors - Understanding and Solving Code 0xC0000142</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computers-toms-detailed-hardware-breakdowns/"><u>Navigating the World of Computers: Tom's Detailed Hardware Breakdowns</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-vocal-visions-utilizing-your-iphone-as-an-audio-identifier-tool/"><u>New In 2024, Vocal Visions Utilizing Your iPhone as an Audio Identifier Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/parental-insights-into-chatgpt-and-how-generative-ai-works/"><u>Parental Insights Into ChatGPT & How Generative AI Works</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviving-memories-how-this-budget-friendly-laptop-resurrects-yesteryears-tech-terminology-insights/"><u>Reviving Memories: How This Budget-Friendly Laptop Resurrects Yesteryear's Tech Terminology - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-clash-over-ai-control-sarah-silverman-leads-group-of-creatives-in-lawsuit-again-openai-and-meta-under-scrutiny/"><u>The Clash Over AI Control: Sarah Silverman Leads Group of Creatives in Lawsuit Again 🤖 - OpenAI & Meta Under Scrutiny</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-on-device-ai-unveiling-its-operations-and-core-principles/"><u>Understanding On-Device AI: Unveiling Its Operations & Core Principles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unpacking-the-pace-problem-why-is-chatgpt-4-not-as-fast-as-its-predecessor-chatgpt-3e/"><u>Unpacking the Pace Problem: Why Is ChatGPT-4 Not As Fast As Its Predecessor, ChatGPT-3.e.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding FraudGPT: A Guide on Safeguarding Against Potential Risks"
-date: 2024-08-29T02:22:19.682Z
-updated: 2024-08-30T02:22:19.682Z
+date: 2024-11-03T04:53:03.151Z
+updated: 2024-11-08T05:21:47.969Z
 tags:
   - chatgpt
   - open-ai
@@ -33,13 +33,17 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -51,9 +55,12 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -67,9 +74,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -78,9 +82,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -90,8 +91,12 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -104,22 +109,23 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +134,26 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-exploring-the-economic-value-of-a-million-youtube-followers/"><u>[New] In 2024, Exploring the Economic Value of a Million YouTube Followers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solved-how-to-fix-cpu-usage-100-issue/"><u>[SOLVED] How to Fix CPU Usage 100% Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solved-how-to-resize-images-on-windows-and-mac/"><u>[SOLVED] How to Resize Images on Windows & Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-discover-top-8-budget-friendly-screen-capture-apps-for-android-for-2024/"><u>[Updated] Discover Top 8 Budget-Friendly Screen Capture Apps for Android for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-winning-at-capturing-conversations-windows-vs-mac-recording-tactics/"><u>[Updated] In 2024, Winning at Capturing Conversations - Windows vs Mac Recording Tactics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-directory-of-cost-free-online-resources-for-superior-vector-graphics/"><u>2024 Approved Leading Directory of Cost-Free Online Resources for Superior Vector Graphics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-and-fast-official-winx-dvd-ripper-platinum-high-quality-mp4-h2-64hevc-ripping-completed-in-just-5-minutes/"><u>Easy and Fast: Official WinX DVD Ripper Platinum – High-Quality MP4 (H.2 64/HEVC) Ripping Completed in Just 5 Minutes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experts-take-on-nikon-z7-mirrorless-genius-unveiled/"><u>Expert's Take on Nikon Z7: Mirrorless Genius Unveiled</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2000-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2000 document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-revenue-how-to-profit-from-youtube-short-videos/"><u>In 2024, Unlocking Revenue How to Profit From YouTube Short Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pic-perfect-ranking-the-best-photo-stickering-apps-for-iphonesandroids-for-2024/"><u>Pic Perfect Ranking the Best Photo Stickering Apps for iPhones/Androids for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-streaming-setting-up-a-vpn-on-firestick-in-just-minutes/"><u>Seamless Streaming: Setting Up a VPN on FireStick in Just Minutes!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-and-quick-conversion-pdf-files-into-excel-format-made-effortless/"><u>Simple and Quick Conversion: PDF Files Into Excel Format Made Effortless</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/skype-cant-connect-5-ways-to-fix-on-windows-10-easily/"><u>Skype Can't Connect: 5 Ways to Fix on Windows 10 Easily!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-updating-your-pcs-bios-on-windows-11/"><u>Step-by-Step Guide: Updating Your PC's BIOS on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-for-a-full-factory-restart-of-your-toshiba-computer/"><u>Step-by-Step Instructions for a Full Factory Restart of Your Toshiba Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-selection-best-portable-screen-tech-in-202-cuisine-for-gaming-excellence-and-office-efficiency/"><u>The Ultimate Selection: Best Portable Screen Tech in 202 Cuisine for Gaming Excellence & Office Efficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-10-torrenting-websites-leading-options-globally/"><u>Top 10 Torrenting Websites: Leading Options Globally</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-and-fixing-asus-laptop-touchpad-issues-in-windows-11-and-10/"><u>Troubleshooting and Fixing ASUS Laptop Touchpad Issues in Windows 11 & 10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unleash Creativity with ChatGPT's Recent Upgrade – Design Your Own Custom GPT Experience
-date: 2024-08-29T02:23:21.444Z
-updated: 2024-08-30T02:23:21.444Z
+date: 2024-11-04T18:24:03.813Z
+updated: 2024-11-08T04:35:18.912Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -48,8 +55,18 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to [join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -61,9 +78,12 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -78,8 +98,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,4 +105,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-why-are-my-videos-rotated-in-instagram-answers-needed/"><u>[Updated] 2024 Approved Why Are My Videos Rotated in Instagram? Answers Needed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-your-treasure-trove-of-free-marketing-50plus-youtube-ads-ready-to-go-in-2024/"><u>[Updated] Your Treasure Trove of Free Marketing 50+ YouTube Ads Ready to Go, In 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-k11x-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-8-best-free-mp3-downloader-for-android/"><u>2024 Approved 8 Best Free MP3 Downloader for Android</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-honor-magic5-ultimate-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor Magic5 Ultimate Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-to-downloading-the-newest-nvidia-1080-drivers-on-windows-10/"><u>Effortless Guide to Downloading the Newest NVIDIA 1080 Drivers on Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-deactivate-microsofts-guard-in-windows-11-with-3-different-approaches/"><u>How to Deactivate Microsoft's Guard in Windows 11 with 3 Different Approaches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-empty-your-browsers-memory-a-guide-to-clearing-mozilla-firefoxs-cache/"><u>How To Empty Your Browser's Memory: A Guide to Clearing Mozilla Firefox's Cache</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-fresh-start-your-pc-with-a-windows-10-reset-learn-the-simplest-method-in-4-key-steps/"><u>How to Fresh Start Your PC with a Windows 10 Reset - Learn the Simplest Method in 4 Key Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-overclock-your-gpu-a-beginners-guide/"><u>How to Overclock Your GPU: A Beginner’s Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-seamlessly-connect-office-pcs-to-the-local-wi-fi-network-a-comprehensive-tutorial/"><u>How To Seamlessly Connect Office PCs to the Local Wi-Fi Network - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-infinix-note-30-vip-racing-edition-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Infinix Note 30 VIP Racing Edition to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-your-bluetooth-connectivity-enhancing-signal-strength-and-range-in-windows-10-and-11/"><u>Maximizing Your Bluetooth Connectivity: Enhancing Signal Strength and Range in Windows 10 & 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/multimedia-artists-cyber-meeting-room-for-2024/"><u>Multimedia Artists' Cyber Meeting Room for 2024</u></a></li>
+</ul></div>
 

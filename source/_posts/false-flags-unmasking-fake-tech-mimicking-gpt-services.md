@@ -1,7 +1,7 @@
 ---
 title: "False Flags: Unmasking Fake Tech Mimicking GPT Services!"
-date: 2024-08-29T02:21:52.893Z
-updated: 2024-08-30T02:21:52.893Z
+date: 2024-10-31T17:47:49.372Z
+updated: 2024-11-08T08:35:39.836Z
 tags:
   - chatgpt
   - open-ai
@@ -42,11 +42,22 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
  Likewise, ChatGPT has limited knowledge of events after 2021\. The above photo shows that it doesn’t even know its release date. Academic writing involves a lot of fact-checking, so research topics yourself and cite sources. Otherwise, clients will stop hiring you.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Copywriting and Blogging
 
 ![Searching Sellers of Writing Services on Fiverr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiverr-writing-services.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  AI has come a long way from spitting incoherent text. ChatGPT runs on advanced language models that produce natural, human-like phrases free of typos and grammatical errors. It already writes better than most inexperienced writers.
 
@@ -56,21 +67,22 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
 **Tip:** You don’t have to ditch ChatGPT altogether.[Writers can use AI responsibly](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) for topic research, idea generation, and simple coding.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## 4\. Caption Writing
 
 ![Editing the Caption on an Instagram Post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/instagram-post-captions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  Users often write captions as an afterthought. They obsess over uploading the perfect post so much that they overlook other crucial elements. Some just bombard their captions with hashtags.
 
  Although using ChatGPT to write captions seems practical, it really has little upside. Captions are limited. You can’t waste your character count on generic, spammy AI-generated fluff. Remember: ChatGPT only pulls templates from its database.
 
  To grab the reader’s attention, write captions yourself. See what format suits your brand. Some users like writing long-form captions that tell stories, while others prefer a minimalistic approach. We suggest trying out different styles.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Selling Diet and Fitness Programs
 
@@ -79,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
  To make matters worse, many encourage fellow influencers to do the same. ChatGPT can’t replace licensed experts. Its limited datasets occasionally produce inaccurate, unreliable results. Carelessly distributing them as proven, effective advice is dangerous and irresponsible.
 
  You can share your personal preferences. But don’t sell e-books of workout regimens, diets, and supplement recommendations unless you have the necessary certifications.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Coding Websites
 
@@ -98,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
  Instead of sending AI-generated pitches en masse, write personalized emails that address pain points and propose viable solutions. You should know what the market wants.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 8\. Creating and Selling Prompts
 
 ![Searching for ChatGPT Prompts on Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/github-chatgpt-prompts.jpg)
@@ -112,33 +127,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![ChatGPT Explains the Meaning of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-ai-explanation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Meanwhile, the below image demonstrates how additional instructions change ChatGPT’s output.
 
 ![ChatGPT Explains AI Like Talking to a Five Year Old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-simple-ai-explanation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  These examples simply cover the basics. To[get the best results from ChatGPT](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) , you must craft detailed instructions that maximize datasets and override certain restrictions. The below photo illustrates an effective jailbreak prompt.
 
 ![Requesting ChatGPT to Bypass Restrictions and Make Predictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_as_dan_prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  Although ChatGPT supposedly can’t make predictions, the DAN prompt allowed it to bypass restrictions and state unverified claims, as you can see below.
 
 ![ChatGPT Making Predictions About Unsure Instances](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_making_predictions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Since most people are new to AI chatbots, few can craft precise instructions. Users need skilled prompt engineers. They’ll pay for working, up-to-date prompts, which you can sell on[GitHub](https://github.com/) repositories, Reddit threads, and social media sites.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Explore Responsible Ways to Make Money With AI
 
@@ -146,14 +161,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Likewise, do your research before jumping into other side hustles. Gigs with low barriers to entry, e.g., trading crypto, launching eCommerce stores, and answering paid surveys, aren’t as lucrative as newbies think. Manage your expectations, or else you’ll be disappointed.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +174,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-picture-perfect-your-essential-guide-to-uploading-on-youtube/"><u>2024 Approved Picture Perfect Your Essential Guide to Uploading on YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audiovisual-anthems-blending-music-into-instagram-videos-for-2024/"><u>Audiovisual Anthems Blending Music Into Instagram Videos for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/convert-youtube-videos-to-mp3-on-mac-unlimited-free-tracks-for-your-apple-devices/"><u>Convert YouTube Videos to MP3 on Mac - Unlimited Free Tracks for Your Apple Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-fix-excessive-hiperfonesys-and-pagedatasys-file-size-issues-in-windows-107-solutions-unveiled/"><u>How to Fix Excessive hiperfone.sys & pagedata.sys File Size Issues in Windows 10/7: Solutions Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-spotify-advertisement-made-easy-tips-and-tricks/"><u>In 2024, Spotify Advertisement Made Easy Tips and Tricks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-streamlining-process-clean-up-youtubes-buffered-list/"><u>In 2024, Streamlining Process Clean Up YouTube's Buffered List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-converters-handbook-from-srt-to-multiple-formats/"><u>In 2024, Ultimate Converter's Handbook From SRT to Multiple Formats</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-imac-with-m1-experience-enhanced-performance-and-sleek-design/"><u>In-Depth Analysis of the iMac with M1: Experience Enhanced Performance & Sleek Design</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/keeping-pace-with-tech-a-beginners-approach-to-bios-enhancements-for-windows-11-pcs/"><u>Keeping Pace with Tech: A Beginner’s Approach to BIOS Enhancements for Windows 11 PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-bluetooth-connections-seamlessly-connecting-an-android-phone-and-desktop-computer/"><u>Master Bluetooth Connections: Seamlessly Connecting an Android Phone and Desktop Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-multiplayer-tactics-a-guide-to-team-up-hunts-in-monster-hunter-world/"><u>Mastering Multiplayer Tactics: A Guide to Team-Up Hunts in Monster Hunter World</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-the-lifeless-palette-fixing-windows-11s-black-and-white-display-problem/"><u>Overcoming the Lifeless Palette: Fixing Windows 11'S Black and White Display Problem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/play-fallout-3-seamlessly-on-windows-11-tips-and-tricks-inside/"><u>Play Fallout 3 Seamlessly on Windows 11 – Tips & Tricks Inside</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-guide-altering-your-skype-security-key-seamlessly/"><u>Quick Guide: Altering Your Skype Security Key Seamlessly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-guide-how-to-save-your-devices-driver-files-prior-to-reinstalling-any-version-of-windows/"><u>Quick Guide: How to Save Your Device's Driver Files Prior to Reinstalling Any Version of Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-tips-mastering-the-art-of-screenshots-on-asus-laptops-and-notebooks/"><u>Quick Tips: Mastering the Art of Screenshots on ASUS Laptops and Notebooks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-vivo-s17-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Vivo S17 Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-connection-issues-how-to-resolve-no-match-found-in-warzone-on-pc/"><u>Solving Connection Issues: How to Resolve No Match Found in Warzone on PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-checklist-for-finding-the-best-balance-between-tablet-size-and-weight/"><u>The Definitive Checklist for Finding the Best Balance Between Tablet Size & Weight</u></a></li>
+</ul></div>
 

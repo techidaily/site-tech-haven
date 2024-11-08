@@ -1,7 +1,7 @@
 ---
 title: Maximize Your Apple Watch's Endurance - Top 8 Battery-Saving Tweaks Revealed by ZDNet
-date: 2024-11-01T13:58:36.810Z
-updated: 2024-11-02T10:22:18.323Z
+date: 2024-10-31T16:10:00.613Z
+updated: 2024-11-08T08:37:34.374Z
 tags:
   - apple
 categories:
@@ -59,10 +59,16 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -83,18 +89,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -103,6 +109,13 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **How to:** On your iPhone, open the Apple Watch app and navigate to "Notifications." From there, you'll be presented with a list of the apps on your phone that are sending notifications to your watch. Go through the list and turn off the ones you don't want to receive any longer. You also have the option to group notifications together if a particular app sends you a lot during the day but you want to keep them on.
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
 
@@ -113,10 +126,10 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -124,13 +137,6 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -173,19 +179,24 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/bestiary-of-no-cost-iphone-enhancement-apps-for-ultimate-selfies-for-2024/"><u>Bestiary of No-Cost iPhone Enhancement Apps for Ultimate Selfies for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bring-powerful-ai-search-from-bing-to-your-mobile-available-for-android-and-iphone-now/"><u>Bring Powerful AI Search From Bing to Your Mobile: Available for Android and iPhone Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bypass-the-blockade-on-chatgpt-understanding-and-resolving-4-common-reasons/"><u>Bypass the Blockade on ChatGPT: Understanding & Resolving 4 Common Reasons</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-versus-claude-ai-determining-the-superior-language-model/"><u>ChatGPT versus Claude AI: Determining the Superior Language Model</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chrome-boost-seamless-integration-for-chatgpt-prompts/"><u>Chrome Boost: Seamless Integration for ChatGPT Prompts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/clash-of-the-titans-exploring-8-key-variations-between-snapchat-and-bing-ais-on-skype/"><u>Clash of the Titans: Exploring 8 Key Variations Between Snapchat and Bing AIs on Skype</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cut-the-red-tape-speak-to-chatgpt/"><u>Cut the Red Tape – Speak to ChatGPT!</u></a></li>
-<li><a href="https://fox-info.techidaily.com/dive-into-hp-envy-27-monitors-usb-c-innovation/"><u>Dive Into HP Envy 27 Monitor's USB-C Innovation</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-13-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 13 Pro without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y17ss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y17ss Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-rpc-server-not-available-issue-on-your-pc-step-by-step-solutions/"><u>Resolving the 'RPC Server Not Available' Issue on Your PC: Step-by-Step Solutions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/secure-and-simplify-your-macs-space-the-standard-package-of-stellar-scheduled-file-remover-v5/"><u>Secure & Simplify Your Mac's Space – The Standard Package of Stellar Scheduled File Remover V5</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleash-your-creativity-with-personalized-filters-and-melodies-windows-10-photos/"><u>Unleash Your Creativity with Personalized Filters and Melodies (Windows 10 Photos)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unveiling-the-secrets-of-librecam-studio-for-2024/"><u>Unveiling the Secrets of LibreCam Studio for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-building-your-brand-as-a-reviewer-of-cars-and-automotive-gear-for-2024/"><u>[New] Building Your Brand as a Reviewer of Cars and Automotive Gear for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-discovering-gems-20-underrated-tiktok-raps-for-2024/"><u>[New] Discovering Gems 20 Underrated TikTok Raps for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-indoor-brightness-sunlight-strategies-inside/"><u>[Updated] In 2024, Mastering Indoor Brightness Sunlight Strategies Inside</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-ace-your-laughs-kinemaster-for-top-memes/"><u>2024 Approved Ace Your Laughs KineMaster for Top Memes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211268151-9781778237416-astral-projection/"><u>Astral Projection | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-at-work-assessing-your-employment-stability-across-ten-different-contexts/"><u>ChatGPT at Work: Assessing Your Employment Stability Across Ten Different Contexts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creative-ais-face-off-on-equal-ground-prompt/"><u>Creative AIs Face Off on Equal Ground Prompt</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/entry-level-landing-low-cost-profitable-youtube-platforms/"><u>Entry Level Landing Low-Cost, Profitable YouTube Platforms</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/experience-the-best-driving-game-on-windows-11-81-and-7-download-magicard-rio-pro-driver-today/"><u>Experience the Best Driving Game on Windows 11, 8.1 & 7 - Download Magicard Rio Pro Driver Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-do-i-know-if-chatgpt-is-up-and-running-uncover-these-5-tactics/"><u>How Do I Know If ChatGPT Is Up and Running? Uncover These 5 Tactics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-shap-enhance-ml-model-comprehensibility/"><u>How Does SHAP Enhance ML Model Comprehensibility?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone 6</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-creating-share-worthy-memes-on-9gag-for-2024/"><u>The Ultimate Guide to Creating Share-Worthy Memes on 9GAG for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-pitfalls-to-steer-clear-of-in-your-journey-with-generative-ai/"><u>Top 7 Pitfalls to Steer Clear of in Your Journey with Generative AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-chatgpt-top-9-solutions-when-its-unresponsive-on-ios/"><u>Troubleshooting ChatGPT: Top 9 Solutions When It's Unresponsive on iOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-work-potential-with-insights-from-ai-dialogues/"><u>Unleashing Work Potential with Insights From AI Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-ai-chatbot-and-large-language-model-llm-capabilities-with-quoras-poe/"><u>Unlocking AI Chatbot & Large Language Model (LLM) Capabilities with Quora's Poe</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-efficiency-personal-assistant-gpt-at-work/"><u>Unlocking Efficiency: Personal Assistant GPT at Work</u></a></li>
 </ul></div>
 

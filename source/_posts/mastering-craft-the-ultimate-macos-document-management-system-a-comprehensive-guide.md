@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Management System - A Comprehensive Guide"
-date: 2024-10-28T22:51:45.539Z
-updated: 2024-11-01T18:26:12.377Z
+date: 2024-11-04T06:29:30.113Z
+updated: 2024-11-08T05:31:43.444Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,18 +134,18 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-premium-gopro-editing-applications-on-smartphones/"><u>[New] In 2024, Premium GoPro Editing Applications on Smartphones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-understanding-whatsapps-voice-communication-system/"><u>[Updated] Understanding WhatsApp's Voice Communication System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-conversations-unveiling-the-process-of-chatgpt/"><u>Decoding Conversations: Unveiling the Process of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-mystery-of-grok-ai-with-musks-insight-into-purpose-and-expenses/"><u>Decoding the Mystery of Grok AI with Musk's Insight Into Purpose & Expenses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-edge-computing-the-ins-and-outs-of-on-device-ai/"><u>Demystifying Edge Computing: The Ins and Outs of On-Device AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-how-these-7-apps-master-gpt-4s-ai/"><u>Demystifying How These 7 Apps Master GPT-4's AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/empower-your-customer-experience-by-integrating-chatgpt-with-whatsapp/"><u>Empower Your Customer Experience by Integrating ChatGPT with WhatsApp</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-guide-to-leveraging-anthropics-newly-released-claude-3-platform/"><u>Essential Guide to Leveraging Anthropic's Newly-Released Claude 3 Platform</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hdr-standards-meeting-or-surpassing-with-aurora/"><u>HDR Standards Meeting or Surpassing with Aurora?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-blend-audio-and-visuals-editing-music-in-canva-videos/"><u>In 2024, Blend Audio & Visuals Editing Music in Canva Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-hidden-insta-story-accessibility-step-by-step-for-tech-savvy/"><u>In 2024, Hidden Insta Story Accessibility - Step-by-Step for Tech Savvy</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/personalized-startup-settings-tab-tailoring-your-applications-initial-environment/"><u>Personalized Startup Settings Tab: Tailoring Your Application's Initial Environment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-compressing-videos-into-zipped-folders-on-windows-11-including-images/"><u>Step-by-Step Guide: Compressing Videos Into Zipped Folders on Windows 11 – Including Images</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-download-facebook-status-videos-for-2024/"><u>[New] How to Download Facebook Status Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-securing-sound-speed-increase-in-the-digital-world-of-spotify-for-2024/"><u>[New] Securing Sound Speed Increase in the Digital World of Spotify for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-essentials-tips-and-tricks-for-seamless-integration-with-android-and-ios-phones/"><u>ChatGPT Essentials: Tips and Tricks for Seamless Integration with Android and iOS Phones</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-overcoming-the-king-of-fighters-xvs-pc-performance-problems/"><u>Expert Solutions: Overcoming The King of Fighters XV's PC Performance Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-machine-learning-is-revolutionizing-game-production-and-transforming-player-experiences-in-the-video-games-sector/"><u>How Machine Learning Is Revolutionizing Game Production and Transforming Player Experiences in the Video Games Sector</u></a></li>
+<li><a href="https://article-posts.techidaily.com/humor-in-pixels-kapwings-meme-crafting-app-for-2024/"><u>Humor in Pixels Kapwing’s Meme Crafting App for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-design-marvels-japanese-homescape-in-mc-landscape/"><u>In 2024, Design Marvels Japanese Homescape in MC Landscape</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-possible-to-use-chatgpt-while-connected-through-a-vpn-service/"><u>Is It Possible To Use ChatGPT While Connected Through A VPN Service?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/obs-mac-guide-streamlabs-setup/"><u>OBS Mac Guide Streamlabs Setup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/outside-chatgpts-processing-sphere/"><u>Outside ChatGPT's Processing Sphere</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-writing-process-with-these-9-chatgpt-tips-for-novelists/"><u>Revolutionize Your Writing Process with These 9 ChatGPT Tips for Novelists</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/split-cut-and-edit-videos-for-free-our-top-recommendations/"><u>Split, Cut, and Edit Videos for Free Our Top Recommendations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-showdown-of-llms-google-bard-vs-microsoft-chatgpt-vs-offline-alpaca-which-reigns-supreme/"><u>The Ultimate Showdown of LLMs: Google Bard Vs. Microsoft ChatGPT Vs. Offline Alpaca - Which Reigns Supreme?</u></a></li>
 </ul></div>
 

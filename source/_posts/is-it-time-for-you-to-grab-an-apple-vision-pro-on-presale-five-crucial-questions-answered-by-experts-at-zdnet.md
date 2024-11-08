@@ -1,7 +1,7 @@
 ---
 title: Is It Time for You to Grab an Apple Vision Pro on Presale? Five Crucial Questions Answered by Experts at ZDNet
-date: 2024-10-25T20:36:55.703Z
-updated: 2024-11-01T17:17:15.703Z
+date: 2024-11-04T22:06:22.748Z
+updated: 2024-11-07T17:39:52.882Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -53,6 +53,19 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -64,6 +77,13 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -87,29 +107,9 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -121,13 +121,6 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -135,6 +128,13 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
 
@@ -182,18 +182,20 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-extensive-look-at-djis-inspire-1-drone/"><u>[New] In 2024, Extensive Look at DJI's Inspire 1 Drone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-share-videos-on-facebook-in-2024/"><u>[Updated] How to Share Videos on Facebook, In 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/acclaimed-20-chatgpt-conversation-patterns-from-github/"><u>Acclaimed 20 ChatGPT Conversation Patterns From GitHub</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-lexicon-unveiled-navigating-through-29-keywords-to-revolutionize-your-understanding-of-machine-intellect/"><u>AI Lexicon Unveiled: Navigating Through 29 Keywords to Revolutionize Your Understanding of Machine Intellect</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-cognitive-colosseums-the-battle-between-gpt-and-bert/"><u>AI's Cognitive Colosseums: The Battle Between GPT and BERT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722116040520-chatgpt-now-available-as-a-mobile-application-download-it-on-ios/"><u>ChatGPT Now Available as a Mobile Application - Download It on iOS!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-vivo-g2-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Vivo G2.</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/continuous-connection-avoiding-streak-breakers-on-snapchat-for-2024/"><u>Continuous Connection Avoiding Streak Breakers on Snapchat for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ating-the-backlink-jungle-a-video-content-guide-for-2024/"><u>Navigating the Backlink Jungle A Video Content Guide for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-booking-process-for-apples-in-store-technical-support/"><u>Navigating the Booking Process for Apple's In-Store Technical Support</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721960108509-unlocking-the-power-of-chatgpt-transform-your-linkedin-applications-in-just-10-steps/"><u>Unlocking the Power of ChatGPT: Transform Your LinkedIn Applications in Just 10 Steps!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-becoming-an-instagram-video-conversation-guru-your-ultimate-guide/"><u>[New] In 2024, Becoming an Instagram Video Conversation Guru Your Ultimate Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevate-instagram-clips-incorporating-borders-effectively/"><u>2024 Approved Elevate Instagram Clips Incorporating Borders Effectively</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-chatgpt-limitations-the-ceiling-of-character-input-possibilities/"><u>Deciphering ChatGPT Limitations: The Ceiling of Character Input Possibilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/decouvrez-la-technique-de-deverouillage-des-codes-regionaux-de-dvd-pour-windows-11-8-et-7-methode-etape-par-etape/"><u>Découvrez La Technique De Déverouillage Des Codes Régionaux De DVD Pour Windows 11, 8 Et 7: Méthode Étape Par Étape</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embarking-on-a-winchatgpt-experience/"><u>Embarking on a WinChatGPT Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-granblue-fantasy-relink-error-on-pc-with-these-simple-steps/"><u>Fix Your Granblue Fantasy Relink Error on PC with These Simple Steps</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-x90s-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-80-pro-straight-screen-edition-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor 80 Pro Straight Screen Edition to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insights-into-artificial-intelligence-mastering-transfer-learning/"><u>Insights Into Artificial Intelligence: Mastering Transfer Learning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-efficiency-how-chatgpt-can-transform-your-schedule/"><u>Maximizing Efficiency: How ChatGPT Can Transform Your Schedule</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/motion-graphics-101-key-principles-and-methods/"><u>Motion Graphics 101 Key Principles & Methods</u></a></li>
+<li><a href="https://win-lab.techidaily.com/solucion-error-en-las-copias-de-seguridad-con-microsoft-onedrive-para-archivos-pst/"><u>Solución: Error en Las Copias De Seguridad Con Microsoft OneDrive Para Archivos PST</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-users-path-to-navigating-bing-with-advanced-ai-features-sign-up-explained/"><u>The User’s Path to Navigating Bing with Advanced AI Features: Sign-Up Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-distinctions-a-comparison-between-gpt-4-gpt-4-turbo-and-phi/"><u>Unveiling the Distinctions: A Comparison Between GPT-4, GPT-4 Turbo, and Phi</u></a></li>
 </ul></div>
 

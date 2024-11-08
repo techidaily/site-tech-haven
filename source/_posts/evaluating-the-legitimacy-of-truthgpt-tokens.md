@@ -1,7 +1,7 @@
 ---
 title: Evaluating the Legitimacy of TruthGPT Tokens
-date: 2024-08-29T02:21:12.817Z
-updated: 2024-08-30T02:21:12.817Z
+date: 2024-11-04T21:03:36.478Z
+updated: 2024-11-08T00:25:55.872Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 * [How Much Does CodeGPT Cost?](https://www.makeuseof.com/code-gpt-can-it-really-write-code/#how-much-does-codegpt-cost)
 * [Can CodeGPT Really Write Code?](https://www.makeuseof.com/code-gpt-can-it-really-write-code/#can-codegpt-really-write-code)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * CodeGPT is an AI-powered coding assistant that helps programmers write and fix code, with features like auto-completion and code explanation.
@@ -30,8 +37,18 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Is CodeGPT?
 
  CodeGPT is a dedicated extension that uses different artificial intelligence (AI) models to help programmers write and fix code. It includes various features geared towards faster and easier programming, including auto-completion, code explanation, refactoring, documentation, unit testing, error-checking, and bug-fixing. It also has a ChatGPT-like interface you can access from your code editor.
@@ -41,8 +58,18 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
  While there are several[code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/) , macOS, and Windows, CodeGPT is only available in two. Today, you can either[install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How Much Does CodeGPT Cost?
 
  You can download and install CodeGPT for free, but using the extension comes at a cost. CodeGPT offers various subscription packages that you can pay for if you need unlimited access.
@@ -52,8 +79,12 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can[access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/) , you cannot do so from within VS Code or Cursor.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Can CodeGPT Really Write Code?
 
  To evaluate this, we'll use the extension to help us generate two different code samples in Python.
@@ -136,14 +167,11 @@ with open('output.csv', 'w', newline='') as output_file:
 
  So: CodeGPT can write code, but you should be careful because it won't always give you the best output. What you get might be error-prone and might not follow the best practices. Whenever you use CodeGPT or any other AI-powered tool to write code, strive to understand what the code does first. Don't just copy and paste.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +180,21 @@ with open('output.csv', 'w', newline='') as output_file:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-experience-a-bundle-of-9-whole-film-christmas-treasures-for-free/"><u>[New] Experience a Bundle of 9 Whole-Film Christmas Treasures for Free</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-maximize-youtube-exposure-in-156-characters-or-less/"><u>[New] Maximize YouTube Exposure in 156 Characters or Less</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unlocking-social-media-potential-a-guide-to-video-marketing-on-fb/"><u>[Updated] 2024 Approved Unlocking Social Media Potential A Guide to Video Marketing on FB</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unmatched-gaming-broadcasts-set-up-with-obs/"><u>2024 Approved Unmatched Gaming Broadcasts - Set Up with OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027810880-windows-10/"><u>画面収め技術：Windows 10のビデオファイル容量変更法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-conversion-tracking-with-cookiebot-technology/"><u>Automated Conversion Tracking with Cookiebot Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-pc-life-after-declining-windows-11-upgrade/"><u>Boost Your PC Life After Declining Windows 11 Upgrade</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/delving-into-chatgpt-premium-upsides-and-downsides/"><u>Delving Into ChatGPT Premium: Upsides and Downsides</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-polyglot-journey-with-premium-gpt-tools/"><u>Elevate Your Polyglot Journey with Premium GPT Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-setting-up-and-operating-microsoft-copilot-on-a-macbook/"><u>Guide: Setting Up & Operating Microsoft Copilot on a MacBook</u></a></li>
+<li><a href="https://article-tips.techidaily.com/instagrams-roadmap-to-fame-unlocking-the-power-of-9-tactics/"><u>Instagram's Roadmap to Fame Unlocking the Power of #9 Tactics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-challenge-for-machine-learning-unveiling-why-chatgpt-struggles-with-self-identification-of-written-content/"><u>The Challenge for Machine Learning: Unveiling Why ChatGPT Struggles with Self-Identification of Written Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-artificial-intelligence-verification-apps-for-educators-and-managers/"><u>Top 4 Artificial Intelligence Verification Apps for Educators and Managers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-claude-3-features-uses-and-how-it-works/"><u>Understanding Claude 3 - Features, Uses, and How It Works</u></a></li>
+</ul></div>
 

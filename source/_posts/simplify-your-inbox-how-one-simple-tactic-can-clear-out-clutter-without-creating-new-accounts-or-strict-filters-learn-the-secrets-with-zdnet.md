@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: How One Simple Tactic Can Clear Out Clutter Without Creating New Accounts or Strict Filters – Learn the Secrets with ZDNet"
-date: 2024-10-30T11:35:46.797Z
-updated: 2024-11-02T12:37:42.110Z
+date: 2024-11-05T16:29:14.236Z
+updated: 2024-11-07T17:52:57.746Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,10 +110,16 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -154,18 +160,16 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-seamless-closure-in-digital-landscapes/"><u>[New] Seamless Closure in Digital Landscapes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-visual-content-strategies-for-instagram-photos/"><u>[Updated] 2024 Approved Visual Content Strategies for Instagram Photos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-must-collect-blog-for-business-8-trending-videos-on-facebook/"><u>[Updated] Must-Collect Blog for Business! 8 Trending Videos on Facebook</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/te-engagement-top-hashtags-for-gameplay-vids/"><u>Elevate Engagement Top Hashtags for Gameplay Vids</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-a-step-by-step-guide-to-youtube-to-igtv-conversion/"><u>In 2024, A Step-by-Step Guide to YouTube to IGTV Conversion</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-zero-30-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Zero 30 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/intelligent-engagement-siri-and-chatgpt-for-apple-users/"><u>Intelligent Engagement: Siri & ChatGPT for Apple Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/must-try-the-best-4-ai-powered-storytelling-apps-of-the-year/"><u>Must-Try: The Best 4 AI Powered Storytelling Apps of the Year</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-new-era-of-work-generative-ais-sevenfold-impact-on-employment-landscapes/"><u>Navigating the New Era of Work: Generative AI's Sevenfold Impact on Employment Landscapes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-truth-how-to-authenticate-health-advice-sourced-from-ai-like-chatgpt/"><u>Navigating the Truth: How to Authenticate Health Advice Sourced From AI Like ChatGPT</u></a></li>
-<li><a href="https://games-able.techidaily.com/reclaim-your-gaming-fix-wi-fi-on-switch/"><u>Reclaim Your Gaming: Fix Wi-Fi on Switch</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/scripting-success-how-chatgpt-transformed-my-podcast-creation-process/"><u>Scripting Success: How ChatGPT Transformed My Podcast Creation Process</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-activating-your-account-on-bings-ai-enhanced-search-platform/"><u>Step-by-Step Guide: Activating Your Account on Bing's AI-Enhanced Search Platform</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-innovators-intertwining-video-with-melodious-images/"><u>[Updated] In 2024, Innovators Intertwining Video with Melodious Images</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-seamless-search-for-your-youtube-comments-across-platforms-for-2024/"><u>[Updated] Seamless Search for Your YouTube Comments Across Platforms for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-pioneering-vr-cycling-choose-wisely/"><u>2024 Approved Pioneering VR Cycling Choose Wisely</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-destiny-through-the-linux-shell-a-guide-to-fortune-telling-commands/"><u>Discovering Destiny Through the Linux Shell: A Guide to Fortune Telling Commands</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easily-navigate-to-group-policy-editor-in-windows-10-a-detailed-tutorial/"><u>Easily Navigate to Group Policy Editor in Windows 10 - A Detailed Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-resizing-icons-in-windows-11-for-a-customized-desktop-experience/"><u>Easy Guide: Resizing Icons in Windows 11 for a Customized Desktop Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficiently-refresh-windows-1110-update-cache-a-comprehensive-tutorial/"><u>Efficiently Refresh Windows 11/10 Update Cache: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-superior-performance-with-the-new-and-improved-istat-menus-ideal-tool-for-mac-tracking/"><u>Experience Superior Performance with the New and Improved IStat Menus - Ideal Tool for Mac Tracking</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-no-available-camera-on-your-snapchat-app/"><u>Fixing the Issue: 'No Available Camera' On Your Snapchat App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-through-your-new-laptops-m1-max-clips-for-2024/"><u>Navigating Through Your New Laptop's M1 Max Clips for 2024</u></a></li>
 </ul></div>
 

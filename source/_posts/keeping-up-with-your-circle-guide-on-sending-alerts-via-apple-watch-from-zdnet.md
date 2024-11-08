@@ -1,7 +1,7 @@
 ---
 title: "Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch From ZDNet"
-date: 2024-10-31T12:53:18.994Z
-updated: 2024-11-01T19:52:05.723Z
+date: 2024-11-01T08:18:08.885Z
+updated: 2024-11-08T03:25:41.008Z
 tags:
   - apple
 categories:
@@ -40,19 +40,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
@@ -76,10 +63,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -89,10 +76,10 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -111,6 +98,13 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -126,10 +120,10 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -168,18 +162,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-keyiphones-best-podcast-players-ranked/"><u>[New] KeyiPhone's Best Podcast Players Ranked</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-from-phone-footage-to-channel-fame-a-seamless-setup-for-your-businesspersonal-brand-for-2024/"><u>[Updated] From Phone Footage to Channel Fame A Seamless Setup for Your Business/Personal Brand for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-easing-into-your-youtube-watches-3-methods-50-chars/"><u>[Updated] In 2024, Easing Into Your YouTube Watches 3 Methods (50 Chars)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-comprehensive-guide-to-personal-safety-select-your-best-fit-trackers-for-different-sizes-of-belongings/"><u>A Comprehensive Guide to Personal Safety - Select Your Best Fit Trackers For Different Sizes of Belongings</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/creative-tims-no-cost-bootstrap-4-and-vue-framework-based-admin-dashboard/"><u>Creative Tim's No-Cost Bootstrap 4 and Vue Framework Based Admin Dashboard</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify malfunctioning drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/scripting-striking-film-epilogues/"><u>Scripting Striking Film Epilogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/thought-innovation-ai-mindmaps-for-ideas/"><u>Thought Innovation: AI, Mindmaps for Ideas</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-tech-thinkers-debate-the-ai-landscape/"><u>Top 10 Tech Thinkers Debate the AI Landscape</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-pitfalls-in-gpt-based-dialogues/"><u>Top 6 Pitfalls in GPT-Based Dialogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-kitchen-with-chatgpt-top-7-strategies-for-aspiring-chefs/"><u>Transform Your Kitchen with ChatGPT - Top 7 Strategies for Aspiring Chefs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-task-management-unveil-the-7-key-advantages-of-chatgpt-in-professional-settings/"><u>Transforming Task Management: Unveil the 7 Key Advantages of ChatGPT in Professional Settings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ai-chatbots-exploring-their-popularity-in-modern-tech/"><u>Understanding AI Chatbots: Exploring Their Popularity in Modern Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-breaking-into-the-elite-6-steps-for-becoming-an-instagram-certified-account-for-2024/"><u>[New] Breaking Into the Elite 6 Steps for Becoming an Instagram Certified Account for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-how-to-use-zoom-in-your-daily-gmail-routine-for-2024/"><u>[Updated] How to Use Zoom in Your Daily Gmail Routine for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebooks-best-eight-free-link-collector-tools/"><u>[Updated] In 2024, Facebook's Best Eight FREE Link Collector Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-perfecting-your-video-with-story-remix-and-windows-photos/"><u>[Updated] In 2024, Perfecting Your Video with Story Remix & Windows Photos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-multimedia-mastery-pc-mac-and-mobile-movie-screening/"><u>[Updated] Multimedia Mastery PC, Mac & Mobile Movie Screening</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elite-5-internet-streaming-cameras/"><u>Elite 5 Internet Streaming Cameras</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-virtual-cityscape-cyberpunk-2077s-smoothed-fps-experience/"><u>Mastering the Virtual Cityscape: Cyberpunk 2077'S Smoothed FPS Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/microsoft-revamps-unpopular-windows-recall-feature-in-response-to-user-discontent/"><u>Microsoft Revamps Unpopular Windows Recall Feature in Response to User Discontent</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/microsofts-return-to-form-with-metro-ui-enhancing-mobile-and-tablet-gameplay/"><u>Microsoft's Return to Form with Metro UI Enhancing Mobile and Tablet Gameplay</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-video-editing-made-easy-top-free-software-for-32-bit-windows/"><u>New In 2024, Video Editing Made Easy Top Free Software for 32-Bit Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-official-rdp-support-available-on-raspberry-pi/"><u>New Official RDP Support Available on Raspberry Pi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pro-tips-12-critical-actions-for-a-smooth-transition-to-linux/"><u>Pro Tips: 12 Critical Actions for a Smooth Transition to Linux</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-easy-method-to-protect-your-privacy-by-command-line-on-a-windows-10-machine/"><u>Quick & Easy Method to Protect Your Privacy by Command Line on a Windows 10 Machine</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/rediscovering-the-classics-msn-gamespy-winamp-and-more-memorable-tech-relics/"><u>Rediscovering the Classics: MSN, GameSpy, Winamp & More Memorable Tech Relics</u></a></li>
 </ul></div>
 

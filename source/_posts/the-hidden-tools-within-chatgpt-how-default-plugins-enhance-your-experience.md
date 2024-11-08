@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Tools Within ChatGPT: How Default Plugins Enhance Your Experience"
-date: 2024-08-29T02:20:04.492Z
-updated: 2024-08-30T02:20:04.492Z
+date: 2024-11-07T06:16:09.872Z
+updated: 2024-11-08T07:48:08.003Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/e80e87b8b7adf5924c7e19825edaf87c4a24e2570
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -48,8 +55,12 @@ thumbnail: https://thmb.techidaily.com/e80e87b8b7adf5924c7e19825edaf87c4a24e2570
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to [join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -61,17 +72,12 @@ thumbnail: https://thmb.techidaily.com/e80e87b8b7adf5924c7e19825edaf87c4a24e2570
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -86,8 +92,6 @@ thumbnail: https://thmb.techidaily.com/e80e87b8b7adf5924c7e19825edaf87c4a24e2570
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +99,26 @@ thumbnail: https://thmb.techidaily.com/e80e87b8b7adf5924c7e19825edaf87c4a24e2570
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-screencapture-pro-latest-2023-edition-review/"><u>[New] 2024 Approved ScreenCapture Pro Latest 2023 Edition Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-ultimate-guide-to-vr-and-ar-game-apps-for-phones/"><u>[New] 2024 Approved The Ultimate Guide to VR and AR Game Apps for Phones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ultimate-tutorial-for-downloading-wm6/"><u>[New] In 2024, Ultimate Tutorial for Downloading WM6</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-ig-boom-technique-how-to-amass-a-massive-follower-count-quickly/"><u>[Updated] In 2024, The IG Boom Technique How to Amass a Massive Follower Count Quickly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-reviewing-the-action-realm-with-t5s-thievery-for-2024/"><u>[Updated] Reviewing the Action Realm with T5's Thievery for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-submerged-splendor-top-underwater-video-techniques-with-gopro/"><u>2024 Approved Submerged Splendor Top Underwater Video Techniques with GoPro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-camera-app-0xa00f425d-issue-on-windows/"><u>Correcting Camera App 0xA00F425D Issue on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-crafting-chatgpt-queries-a-guide-for-gym-buffs/"><u>Effective Strategies for Crafting ChatGPT Queries: A Guide for Gym Buffs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-theorizing-to-reality-ais-chronological-journey/"><u>From Theorizing to Reality: AI's Chronological Journey</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-a-world-beyond-gpt-how-claudes-features-eclipse-chatgpt-ffour-fold/"><u>In a World Beyond GPT: How Claude's Features Eclipse ChatGPT’ FFour-Fold</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-productivity-with-chatgpts-preset-modules-purpose-and-use-cases/"><u>Maximizing Productivity with ChatGPT's Preset Modules: Purpose & Use Cases</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/proven-techniques-securely-archive-your-instagram-story-for-2024/"><u>Proven Techniques Securely Archive Your Instagram Story for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stick-with-textual-interaction-or-embrace-extended-plugin-gpt/"><u>Stick with Textual Interaction or Embrace Extended Plugin GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-collaboration-in-onlyoffice-docspace-powered-by-ai-discover-the-chatgpt-edge/"><u>Streamline Collaboration in ONLYOFFICE DocSpace Powered by AI - Discover the ChatGPT Edge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tech-giants-in-hot-water-as-prominent-figures-like-sarah-silverman-take-legal-action-against-openaimetas-ai-practices/"><u>Tech Giants in Hot Water as Prominent Figures Like Sarah Silverman Take Legal Action Against OpenAI/Meta's AI Practices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-complete-process-of-transferring-gpt-data/"><u>The Complete Process of Transferring GPT Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-timepieces-how-chatgpt-innovates-the-world-of-smartwatches/"><u>Transforming Timepieces: How ChatGPT Innovates the World of Smartwatches</u></a></li>
+</ul></div>
 

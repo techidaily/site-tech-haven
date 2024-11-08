@@ -1,7 +1,7 @@
 ---
 title: "IPhone 15 Insights & Expert Analysis: Top Picks for Power Users - A Closer Look"
-date: 2024-10-29T10:18:55.392Z
-updated: 2024-11-01T21:58:24.807Z
+date: 2024-11-04T08:49:12.338Z
+updated: 2024-11-07T22:58:52.056Z
 tags:
   - apple
 categories:
@@ -46,10 +46,10 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -66,6 +66,13 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 | Price        | Starting at $799                                  | Starting at $899                                  |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
@@ -128,16 +135,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -154,6 +155,13 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -166,23 +174,9 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -218,24 +212,21 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-masterpieces-in-film-script-writing-by-genre/"><u>[New] 2024 Approved Masterpieces in Film Script Writing, By Genre</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-mastering-the-mobile-frontier-of-animation-storage-and-viewing-iphone-for-2024/"><u>[New] Mastering the Mobile Frontier of Animation Storage & Viewing (iPhone) for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-top-performing-tiktok-metrics-for-account-growth-analysis/"><u>[Updated] In 2024, Top Performing TikTok Metrics for Account Growth Analysis</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-trimming-tamil-melodies-best-practices/"><u>[Updated] Mastering the Art of Trimming Tamil Melodies Best Practices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-cutting-edge-of-vid-extraction-top-5-free-fast-pinterest-tools-for-2024/"><u>[Updated] The Cutting Edge of Vid Extraction Top 5 Free, Fast Pinterest Tools for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-cybersecurity-threat-are-our-banks-and-pcs-at-risk-from-smart-artifice-intrusions/"><u>ChatGPT as a Cybersecurity Threat: Are Our Banks and PCs at Risk From Smart Artifice Intrusions?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-on-iphone-not-responding-apply-any-of-our-9-proven-strategies/"><u>ChatGPT on iPhone Not Responding? Apply Any of Our 9 Proven Strategies!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-the-key-to-dynamic-dandd-storytelling/"><u>ChatGPT, the Key to Dynamic D&D Storytelling</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-your-secret-weapon-for-attaining-the-perfect-job-position/"><u>ChatGPT: Your Secret Weapon for Attaining the Perfect Job Position</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chrome-add-on-risk-impostor-chatgpt-extension-hijacks-social-media-passwords/"><u>Chrome Add-On Risk: Impostor ChatGPT Extension Hijacks Social Media Passwords</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/claim-your-prize-participate-in-openais-innovative-error-tracking-mission/"><u>Claim Your Prize: Participate in OpenAI's Innovative Error Tracking Mission</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/coding-excellence-with-chatgpt-and-vs-code-synergy/"><u>Coding Excellence with ChatGPT & VS Code Synergy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/complete-guide-transferring-your-conversations-from-chatgpt/"><u>Complete Guide: Transferring Your Conversations From ChatGPT</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-proficient-content-for-short-form-video-best-edits-reviewed/"><u>Craft Proficient Content for Short-Form Video Best Edits Reviewed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-emotive-verses-with-chatgpts-support/"><u>Crafting Emotive Verses with ChatGPT's Support</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/enhance-your-projects-with-the-professional-vue-black-pro-dashboard-the-ultimate-vuejs-bootstrap-message-how-do-you-find-a-polynomial-that-is-divisible-by-x8/"><u>Enhance Your Projects with the Professional Vue Black Pro Dashboard - The Ultimate Vuejs Bootstrap [Message]: How Do You Find a Polynomial that Is Divisible by X + 1 and Yields a Remainder of 3 when Divided by (X - 4)?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-pureearaudioextractors-latest-evolution/"><u>In 2024, PureEarAudioExtractor's Latest Evolution</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/navigating-board-usage-a-universal-guide-for-ios-android-and-windows-platforms/"><u>Navigating Board Usage A Universal Guide for iOS, Android & Windows Platforms</u></a></li>
-<li><a href="https://windows11.techidaily.com/stealth-mode-for-windows-11-search-bar-on-taskbar/"><u>Stealth Mode for Windows 11 Search Bar on Taskbar</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-screen-recorder-options-for-mac-not-including-bandicamp-for-2024/"><u>[New] Advanced Screen Recorder Options for Mac, Not Including Bandicamp for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-perfect-recording-companion-10-best-on-spotify-platforms/"><u>[New] Perfect Recording Companion 10 Best on Spotify Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-perfecting-your-snap-zoom-levels-unveiled-in-insta-stories-for-2024/"><u>[New] Perfecting Your Snap Zoom Levels Unveiled in Insta Stories for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-art-of-perfectly-synchronized-android-time-lapses/"><u>2024 Approved Unveiling the Art of Perfectly Synchronized Android Time-Lapses</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-deep-dive-into-whatsapps-vocal-communication-tools/"><u>A Deep Dive Into WhatsApp's Vocal Communication Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-for-translators-navigating-a-new-era-of-communication/"><u>ChatGPT for Translators: Navigating a New Era of Communication</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-impersonation-sites-alerted-learn-how-to-recognize-and-respond-effectively/"><u>ChatGPT Impersonation Sites Alerted! Learn How To Recognize and Respond Effectively</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-ways-to-utilize-tailored-command-functionality-with-chatgpt/"><u>Effective Ways to Utilize Tailored Command Functionality with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-visual-intelligence-with-chatgpt-eight-key-applications-for-professionals/"><u>Exploring Visual Intelligence with ChatGPT: Eight Key Applications for Professionals</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/guia-paso-a-paso-para-rescatar-archivos-del-hdd-externo-de-toshiba/"><u>Guía Paso a Paso Para Rescatar Archivos Del HDD Externo De Toshiba</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-the-claude-ai-surpasses-chatgpt-in-user-experience-unveiling-4-distinct-advantages/"><u>How the Claude AI Surpasses ChatGPT in User Experience: Unveiling 4 Distinct Advantages</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-y77t-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo Y77t FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-17-news-and-expected-price-release-date-specs-and-more-rumors/"><u>IPhone 17: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/noise-problem-solved-enhancing-your-twitch-streams-volume-and-quality/"><u>Noise Problem Solved: Enhancing Your Twitch Stream's Volume and Quality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-lingers-expectations-surrounding-gpt-5/"><u>The Future Lingers: Expectations Surrounding GPT-5?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-sinister-five-how-artificum-intelligence-facilitates-criminal-activities-online/"><u>The Sinister Five: How Artificum Intelligence Facilitates Criminal Activities Online</u></a></li>
 </ul></div>
 

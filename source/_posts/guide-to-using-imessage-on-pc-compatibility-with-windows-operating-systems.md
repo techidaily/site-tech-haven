@@ -1,7 +1,7 @@
 ---
 title: "Guide to Using iMessage on PC: Compatibility with Windows Operating Systems"
-date: 2024-10-31T04:17:49.756Z
-updated: 2024-11-01T16:29:48.616Z
+date: 2024-11-02T23:06:49.437Z
+updated: 2024-11-08T06:27:31.154Z
 tags:
   - apple
 categories:
@@ -56,6 +56,13 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -72,31 +79,11 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -110,6 +97,13 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
@@ -117,13 +111,6 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -134,16 +121,10 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -165,10 +146,10 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -176,6 +157,13 @@ Screenshot by Lance Whitney/ZDNET
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -219,18 +207,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-tuneful-transmissions-integrating-audio-with-statuses-for-2024/"><u>[Updated] Tuneful Transmissions Integrating Audio with Statuses for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-videoharvester-fb-groups/"><u>[Updated] VideoHarvester FB Groups</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-instagram-shout-out-for-podcast-fans/"><u>2024 Approved Instagram Shout-Out for Podcast Fans</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expertly-selected-best-cable-modem-and-wireless-router-bundles-of-2024/"><u>Expertly Selected Best Cable Modem and Wireless Router Bundles of 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-secure-is-chatgpt-against-cyber-threats-and-attacks/"><u>How Secure Is ChatGPT Against Cyber Threats and Attacks?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-m14-4g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy M14 4G</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-you-can-experience-the-power-of-gpt-4-available-for-everyone-now/"><u>How You Can Experience the Power of GPT-4, Available for Everyone Now</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-the-engine-room-large-scale-language-systems/"><u>Inside the Engine Room: Large-Scale Language Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-ai-chatbots-forecasting-accuracy-superior-to-traditional-horoscopes/"><u>Is AI Chatbot's Forecasting Accuracy Superior to Traditional Horoscopes?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-economical-to-opt-for-premier-quality-ai-prompt-services/"><u>Is It Economical to Opt for Premier Quality AI Prompt Services?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-logitech-brio-webcam-drivers-available-for-windows-1187-users/"><u>Latest Logitech Brio Webcam Drivers Available for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-the-use-of-telegram-in-a-step-by-step-approach/"><u>Mastering the Use of Telegram in a Step-by-Step Approach</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-complete-guide-to-livestreaming-on-mobile-devices/"><u>[New] 2024 Approved The Complete Guide to Livestreaming on Mobile Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-launch-your-live-stream-a-comprehensive-beginners-manual/"><u>[Updated] Launch Your Live Stream A Comprehensive Beginner's Manual</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-alexa-connectivity-issues-tips-for-restoring-responsiveness/"><u>Addressing Alexa Connectivity Issues: Tips for Restoring Responsiveness</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convierte-tus-archivos-tiff-a-jpg-rapido-y-sencillo-con-el-conversor-on-line-gratis-de-movavi/"><u>Convierte Tus Archivos TIFF a JPG Rápido Y Sencillo Con El Conversor On-Line Gratis De Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-advice-configuring-and-utilizing-microsoft-copilot-on-your-mac-machine/"><u>Expert Advice: Configuring and Utilizing Microsoft Copilot on Your Mac Machine</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-tecno-spark-20-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Tecno Spark 20 Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-poco-f5-pro-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Poco F5 Pro 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1010634-9781780993300-pagan-portals-hedge-witchcraft/"><u>Pagan Portals - Hedge Witchcraft | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/proactive-measures-for-authentic-ai-app-consumption/"><u>Proactive Measures for Authentic AI App Consumption</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sam-altman-steps-down-from-openai-implications-for-the-future-of-chatgpt/"><u>Sam Altman Steps Down From OpenAI: Implications for the Future of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-world-of-ai-unveiled-examining-its-functions-and-assessing-the-threats-involved/"><u>The World of AI Unveiled: Examining Its Functions and Assessing the Threats Involved</u></a></li>
 </ul></div>
 

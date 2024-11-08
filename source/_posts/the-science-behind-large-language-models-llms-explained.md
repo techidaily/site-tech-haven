@@ -1,7 +1,7 @@
 ---
 title: The Science Behind Large Language Models (LLMs) Explained
-date: 2024-08-29T02:18:33.272Z
-updated: 2024-08-30T02:18:33.272Z
+date: 2024-11-02T05:08:10.568Z
+updated: 2024-11-08T07:57:05.714Z
 tags:
   - chatgpt
   - open-ai
@@ -33,9 +33,23 @@ thumbnail: https://thmb.techidaily.com/729729197b22ccebe2bbfe977aa7bc85dbf69a72f
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -50,8 +64,12 @@ thumbnail: https://thmb.techidaily.com/729729197b22ccebe2bbfe977aa7bc85dbf69a72f
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Protect Your PC and Bank Account in the AI-Era
 
  ChatGPT is a powerful and valuable tool that can answer many questions you throw its way. But the chatbot can also be used for malicious purposes, like generating phishing messages and creating malware.
@@ -60,14 +78,11 @@ thumbnail: https://thmb.techidaily.com/729729197b22ccebe2bbfe977aa7bc85dbf69a72f
 
  To minimize the potential dangers of AI chatbots, it’s crucial to know their potential risks and the best possible security measures to protect yourself from hackers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -76,4 +91,18 @@ thumbnail: https://thmb.techidaily.com/729729197b22ccebe2bbfe977aa7bc85dbf69a72f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-beyond-fbx-cutting-edge-apps-for-video-game-archiving/"><u>[New] In 2024, Beyond FBX Cutting-Edge Apps for Video Game Archiving</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-creature-companions-best-animal-titles-on-android/"><u>[Updated] Creature Companions Best Animal Titles on Android</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pushing-boundaries-with-enhanced-exposure-controls/"><u>2024 Approved Pushing Boundaries with Enhanced Exposure Controls</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-thin-and-lightweight-kindle-paperwhite-case-options-reviewed-find-your-perfect-fit/"><u>Best Thin and Lightweight Kindle Paperwhite Case Options Reviewed - Find Your Perfect Fit!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comment-supprimer-avec-succes-les-protections-numeriques-des-livres-electroniques-epub-pdf-azw-prc/"><u>Comment Supprimer Avec Succès Les Protections Numériques Des Livres Électroniques : EPUB, PDF, AZW, PRC</u></a></li>
+<li><a href="https://windows11.techidaily.com/dazzling-holiday-windows-a-celebration-of-joy-and-light/"><u>Dazzling Holiday Windows: A Celebration of Joy & Light</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-motorola-moto-g24-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Moto G24 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-mobile-accessibility-essential-techniques-for-site-improvement/"><u>Maximizing Mobile Accessibility: Essential Techniques for Site Improvement</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-best-10-hindi-video-translators-with-step-by-step-guidance-for-2024/"><u>New Best 10 Hindi Video Translators with Step-by-Step Guidance for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/remove-drm-free-guide-on-converting-protected-e-books-to-drm-free-format/"><u>Remove DRM: Free Guide on Converting Protected E-Books to DRM-Free Format</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726224013971-caf/"><u>オンラインで簡単! CAF形式の画像を変換するための特別便利な無料ツール</u></a></li>
+</ul></div>
 

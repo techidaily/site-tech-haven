@@ -1,7 +1,7 @@
 ---
 title: Masterful Techniques for Combining ChatGPT and Visual Studio Code
-date: 2024-08-29T02:23:05.503Z
-updated: 2024-08-30T02:23:05.503Z
+date: 2024-11-06T00:37:31.837Z
+updated: 2024-11-08T00:52:33.074Z
 tags:
   - chatgpt
   - open-ai
@@ -44,14 +44,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,17 +57,29 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastering-minecraft-screen-capture-a-mac-guide/"><u>[New] In 2024, Mastering Minecraft Screen Capture A Mac Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-video-sizing-a-step-by-step-approach/"><u>[New] Mastering YouTube Video Sizing A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-special.techidaily.com/1-no-cost-methods-to-retrieve-images-from-your-leica-device/"><u>1. No-Cost Methods to Retrieve Images From Your Leica Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-deactivated-outlook-mail-signals/"><u>Addressing Deactivated Outlook Mail Signals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723807876569-discover-your-running-windows-os-quick-guide-in-a-single-step/"><u>Discover Your Running Windows OS: Quick Guide in a Single Step!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808028853-gaming-without-glitches-boosting-your-fps-on-destiny-2s-beyond-light/"><u>Gaming Without Glitches - Boosting Your FPS on Destiny 2'S Beyond Light.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808072844-how-to-easily-rip-dvd-movies-onto-your-pc-using-windows-11/"><u>How To Easily Rip DVD Movies Onto Your PC Using Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-capture-the-moment-professional-techniques-in-hdr-portraiture/"><u>In 2024, Capture the Moment Professional Techniques in HDR Portraiture</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/luminous-transitions-crafting-dynamic-colors-for-2024/"><u>Luminous Transitions Crafting Dynamic Colors for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-decipherment-insiders-look-at-xvideo-hub-review/"><u>The Ultimate Decipherment Insider's Look at XVideo Hub Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unleash-tech-potential-learn-and-compare-equipment-on-toms-hardware/"><u>Unleash Tech Potential - Learn and Compare Equipment on Tom's Hardware.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-to-do-to-fix-pagefilesys-huge-issue/"><u>What to Do to Fix Pagefile.Sys Huge Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-11-upgrade-procedure-a-step-by-step-tutorial-youll-love/"><u>Windows 11 Upgrade Procedure - A Step-by-Step Tutorial You'll Love</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/winning-the-battle-againnst-monitor-delays-optimizing-your-gaming-experience-on-a-dual-pc-screen-with-windows-11/"><u>Winning the Battle Againnst Monitor Delays: Optimizing Your Gaming Experience on a Dual PC Screen with Windows 11</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

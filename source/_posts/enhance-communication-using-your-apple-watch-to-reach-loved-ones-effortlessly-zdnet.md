@@ -1,7 +1,7 @@
 ---
 title: "Enhance Communication: Using Your Apple Watch to Reach Loved Ones Effortlessly | ZDNET"
-date: 2024-10-28T16:17:50.501Z
-updated: 2024-11-02T06:33:12.141Z
+date: 2024-11-06T17:12:20.598Z
+updated: 2024-11-07T20:39:09.601Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ Serious athletes will likely be drawn to these features since this is the first 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
@@ -60,10 +60,10 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 Apple
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More widgets for your Smart Stack, including Live Activities
@@ -90,16 +90,16 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
 
@@ -112,10 +112,16 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
@@ -160,16 +166,20 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-business-communication-essentials-free-slide-show-tools/"><u>[New] 2024 Approved Business Communication Essentials – Free Slide Show Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/racking-your-channels-ad-revenue-accrual/"><u>[New] Tracking Your Channel's Ad Revenue Accrual</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-itel-a70-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Itel A70 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-essential-tips-for-converting-videos-to-mac-discs/"><u>In 2024, Essential Tips for Converting Videos to Mac Discs</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-one-youtube-feed-how-to-merge-multiple-videos/"><u>In 2024, One YouTube Feed How to Merge Multiple Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-code-synthesis-a-tutorial-on-deploying-codegpt-in-vs-code/"><u>Mastering Code Synthesis: A Tutorial on Deploying CodeGPT in VS Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-llama-er-2-functionality-explained-with-practical-advice/"><u>Mastering Llama Er 2: Functionality Explained with Practical Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/matching-minds-3-bots-vs-unified-creativity-task/"><u>Matching Minds? 3 Bots Vs. Unified Creativity Task</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigate-through-fake-responses-with-these-chatgpt-detection-resources-for-educators/"><u>Navigate Through Fake Responses with These ChatGPT Detection Resources for Educators</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-play-7t-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor Play 7T Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-motorola-moto-g13-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Motorola Moto G13 Phone Network-Ready</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-boost-image-size-retain-resolution/"><u>[New] In 2024, Boost Image Size, Retain Resolution</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cut-to-perfection-10-premier-online-video-editors-ranked-for-2024/"><u>[Updated] Cut to Perfection 10 Premier Online Video Editors Ranked for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-personalizing-your-windows-photos-experience-add-filters-sound/"><u>[Updated] Personalizing Your Windows Photos Experience Add Filters, Sound</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-premier-audio-broadcast-networks/"><u>[Updated] Premier Audio Broadcast Networks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-record-everything-on-your-phone-without-paying-a-penny/"><u>2024 Approved Record Everything on Your Phone Without Paying a Penny</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-escapes-discover-these-7-free-chatgpt-apps-for-effortless-itineraries/"><u>AI Escapes: Discover These 7 Free ChatGPT Apps for Effortless Itineraries</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-claude-and-chatgpt-the-top-choice-for-daily-conversations/"><u>Comparing Claude and ChatGPT: The Top Choice for Daily Conversations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-everyone-the-journey-into-gpt-4/"><u>Empowering Everyone: The Journey Into GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuito-convertidor-de-archivos-mpeg-4-a-aac-en-linea-por-movavi/"><u>Gratuito Convertidor De Archivos MPEG-4 a AAC en Línea Por Movavi</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-itop-screen-recorder-review/"><u>In 2024, ITop Screen Recorder Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safe-practices-for-implementing-chatgpt-in-mental-wellness-coaching/"><u>Safe Practices for Implementing ChatGPT in Mental Wellness Coaching</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sam-altman-steps-down-as-openais-ceo-the-repercusscuions-on-chatgpt-services/"><u>Sam Altman Steps Down as OpenAI's CEO - The Repercusscuions on ChatGPT Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-shared-links-in-chatgpt-an-in-depth-analysis/"><u>The Role of Shared Links in ChatGPT: An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-new-levels-of-analysis-utilize-chatgpt-in-six-innovative-ways/"><u>Unlock New Levels of Analysis: Utilize ChatGPT in Six Innovative Ways</u></a></li>
+<li><a href="https://win-web.techidaily.com/windows-11-takes-the-lead-amongst-engineering-circles-insights-from-microsoft-on-latest-os-trend-zdnet-news/"><u>Windows 11 Takes the Lead Amongst Engineering Circles - Insights From Microsoft on Latest OS Trend | ZDNet News</u></a></li>
 </ul></div>
 

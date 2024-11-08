@@ -1,7 +1,7 @@
 ---
 title: "Bots and Personal Data: Spotting the Top 3 Privacy Dangers"
-date: 2024-08-29T02:22:37.442Z
-updated: 2024-08-30T02:22:37.442Z
+date: 2024-11-07T05:20:22.643Z
+updated: 2024-11-07T23:43:08.413Z
 tags:
   - chatgpt
   - open-ai
@@ -42,15 +42,16 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
 
  ChatGPT knows more than any one human could ever know. But ChatGPT wasn't specifically designed to provide financial advice. ChatGPT is a jack-of-all-trades chatbot, meaning it can answer questions on almost any topic. But this also means the tool is not fully equipped for hyper-specific or niche prompts.
@@ -60,15 +61,16 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Relies Heavily on Historical Data
 
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
 
  ChatGPT doesn't use common sense when answering a question, as it isn't advanced enough to make decisions based on its own opinion. What ChatGPT can do is interpret what you're saying and provide you with an interpretable response using its training data.
@@ -78,8 +80,12 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
  The crypto market is tied to the traditional market in ways you'd never expect. If something big goes wrong in the traditional financial industry, chances are the ripples will be felt by the crypto industry. After all, people use traditional money to buy crypto, so it's natural for the two markets to interlink.
@@ -93,20 +99,21 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ChatGPT Is Revolutionary but Far From Perfect
 
  There's no denying that ChatGPT can help you in a myriad of ways, be it in research, writing, idea generation, or creativity. But if you want to use this chatbot in your crypto trading venture, it's paramount that you consider the risks and downsides listed above.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,4 +122,24 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-dji-drone-tiers-entry-level-advanced-professional-visionary/"><u>[New] DJI Drone Tiers Entry Level, Advanced, Professional Visionary</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/addressing-non-responsive-sleep-mode-in-windows-10-a-comprehensive-fix/"><u>Addressing Non-Responsive Sleep Mode in Windows 10: A Comprehensive Fix</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/arch-linux-and-post-update-woes-restoring-full-functionality-to-your-bluetooth-mouse-with-ease/"><u>Arch Linux and Post-Update Woes: Restoring Full Functionality to Your Bluetooth Mouse with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-pcs-speaker-performance-with-a-new-install-of-realtek-hd-audio-manager-in-win-1011/"><u>Boost Your PC's Speaker Performance with a New Install of Realtek HD Audio Manager in Win 10/11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-your-csgo-gameplay-a-definitive-guide-to-maximizing-frame-rate/"><u>Boosting Your CS:GO Gameplay: A Definitive Guide to Maximizing Frame Rate</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-the-ideal-childs-ipad-expert-reviews-and-rankings/"><u>Choosing the Ideal Child's iPad : Expert Reviews & Rankings</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-honor-play-8t-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor Play 8T Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-updating-your-kodi-system-instantly-and-smoothly/"><u>Easy Steps: Updating Your Kodi System Instantly and Smoothly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-next-gen-gaming-with-the-samsung-q6er-series-qled-ultra-hd-television/"><u>Experience Next-Gen Gaming with the Samsung Q6er Series QLED Ultra HD Television</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808318995-facing-issues-with-chatgpt-implement-these-5-straightforward-fixes-to-resume-your-interaction/"><u>Facing Issues With ChatGPT? Implement These 5 Straightforward Fixes to Resume Your Interaction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808001203-for-laminar-flow-in-pipes-the-pressure-drop-can-be-calculated-using-the-hagen-poiseuille-equation-dpl-32mvrd2/"><u>For Laminar Flow in Pipes, the Pressure Drop Can Be Calculated Using the Hagen-Poiseuille Equation: ΔP/L = 32μV/(ρD^2).</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-nord-n30-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Nord N30 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808058729-how-to-uninstall-windows-10-and-downgrade-to-windows-7-or-windows-81-quickly-and-easily/"><u>How to Uninstall Windows 10 and Downgrade to Windows 7 or Windows 8.1, Quickly and Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-new-x-landscape-key-strategies-every-novice-needs/"><u>Navigating the New X Landscape: Key Strategies Every Novice Needs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-fixes-to-correct-the-error-0x80248007-on-your-windows-10-system/"><u>Step-by-Step Fixes to Correct the Error 0X80248007 on Your Windows 10 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/unveiling-common-issues-and-fixes-for-a-dark-razer-keyboard-screen/"><u>Unveiling Common Issues and Fixes for a Dark Razer Keyboard Screen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visual-purity-restored-to-windows/"><u>Visual Purity Restored to Windows</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "July's Top Discounted Apple Gadgets: IPhones to iPads - Special Deals Revealed by ZDNET"
-date: 2024-11-01T07:02:45.080Z
-updated: 2024-11-01T17:38:41.889Z
+date: 2024-11-05T21:21:40.947Z
+updated: 2024-11-08T08:50:33.415Z
 tags:
   - apple
 categories:
@@ -157,13 +157,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb8114c70-8128-4be6-9cd8-0cc4fe36c521%7Cdtp&dtb=1)
@@ -179,25 +172,32 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
@@ -205,13 +205,6 @@ Apple's AirTag, a tracking device that connects to your account and allows you t
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -225,6 +218,19 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -291,22 +297,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-settle-down-with-our-best-10-chill-titles/"><u>[New] In 2024, Settle Down with Our Best 10 Chill Titles</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-live-streams-on-youtube-and-twitch-with-ease-via-obs/"><u>[Updated] Navigating Live Streams on YouTube & Twitch with Ease via OBS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-15-popular-youtube-intro-video-templates/"><u>2024 Approved 15 Popular YouTube Intro Video Templates</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-comparative-analysis-spotlighting-8-major-discrepancies-between-my-snapchat-ai-and-bing-chat/"><u>A Comparative Analysis: Spotlighting 8 Major Discrepancies Between My Snapchat AI and Bing Chat</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/adapting-to-remote-work-6-powerful-chatgpt-tools/"><u>Adapting to Remote Work: 6 Powerful ChatGPT Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/advanced-algebra-assistance-explore-the-7-premier-ai-solutions-for-math-puzzles/"><u>Advanced Algebra Assistance: Explore the 7 Premier AI Solutions for Math Puzzles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-assistants-showdown-why-pick-myai-over-chatgpt/"><u>AI Assistants Showdown: Why Pick MyAI Over ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-assisted-dungeons-and-dragons-crafting-memorable-characters-with-the-help-of-chatgpt-and-dall-e-tools/"><u>AI Assisted Dungeons & Dragons: Crafting Memorable Characters with the Help of ChatGPT and DALL-E Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-driven-communication-to-mitigate-social-isolation/"><u>AI-Driven Communication to Mitigate Social Isolation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/are-these-8-side-hustles-using-chatgpt-legit-making-extra-cash-discussed/"><u>Are These 8 Side Hustles Using ChatGPT Legit? Making Extra Cash Discussed!</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/discover-the-top-4-alternatives-to-airdrop-for-effortless-cross-platform-file-transfers-on-pc/"><u>Discover the Top 4 Alternatives to AirDrop for Effortless Cross-Platform File Transfers on PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722143068404-exiting-the-gpt-world-now/"><u>Exiting the GPT World – Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-limitless-potential-of-imagination-using-free-dall-e-3-on-bing/"><u>Explore the Limitless Potential of Imagination: Using Free DALL-E 3 on Bing</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-12-simple-tricks-to-make-your-youtube-videos-go-viral/"><u>In 2024, 12 Simple Tricks to Make Your YouTube Videos Go Viral</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-se-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-power-of-ai-boosting-home-routine-productivity/"><u>The Power of AI: Boosting Home Routine Productivity</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-choosing-game-bar-substitutes/"><u>[New] The Ultimate Guide to Choosing Game Bar Substitutes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capture-the-action-5-ways-to-record-windows-10-games/"><u>[Updated] 2024 Approved Capture the Action 5 Ways to Record Windows 10 Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/connect-your-pc-effortlessly-to-any-bluetooth-speaker-a-step-by-step-guide/"><u>Connect Your PC Effortlessly to Any Bluetooth Speaker – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-to-implement-chatgpt-widget-in-your-android-device/"><u>Effective Strategies to Implement ChatGPT Widget in Your Android Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-how-to-get-your-huion-tablet-pen-working-again-with-these-5-troubleshooting-steps/"><u>Expert Tips on How to Get Your Huion Tablet Pen Working Again with These 5 Troubleshooting Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/go-anywhere-talk-ai-mastering-the-use-of-chatgpt-and-chatgpt-everywhere-on-the-go/"><u>Go Anywhere, Talk AI: Mastering the Use of ChatGPT and ChatGPT Everywhere on the Go</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-oppo-a18-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo A18 Phone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/loophole-busted-no-more-unjust-refunds/"><u>Loophole Busted: No More Unjust Refunds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photoshop-basics-top-tips-to-transform-images-like-a-pro/"><u>Photoshop Basics Top Tips to Transform Images Like a Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pinnacle-extensions-combining-chatgpt-with-vs-code/"><u>Pinnacle Extensions: Combining ChatGPT with VS Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-potential-stepwise-setup-of-auto-gpt/"><u>Unleash Potential: Stepwise Setup of Auto-GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/visionaries-converge-globally-minded-perspectives-on-ai/"><u>Visionaries Converge: Globally-Minded Perspectives on AI</u></a></li>
 </ul></div>
 
