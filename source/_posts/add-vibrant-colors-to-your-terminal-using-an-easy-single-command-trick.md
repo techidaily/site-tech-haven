@@ -1,7 +1,7 @@
 ---
 title: Add Vibrant Colors to Your Terminal Using an Easy Single-Command Trick
-date: 2024-08-29T02:11:54.100Z
-updated: 2024-08-30T02:11:54.100Z
+date: 2024-11-13T01:01:22.132Z
+updated: 2024-11-19T02:03:21.909Z
 tags:
   - desktop
 categories:
@@ -59,8 +59,12 @@ sudo pacman -S lolcat
  Once you've installed lolcat, you're ready to use it and apply rainbow colors to your output text.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  lolcat Command Options
 
  While the default lolcat behavior is already pretty awesome, there are a few options to tweak the output to your liking. For example, with these various flags, you can adjust the pattern of rainbow colors, modify the speed, and change a few other settings.
@@ -84,9 +88,6 @@ lolcat --help
 
 man lolcat
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Get Colored Terminal Output
 
  Now that you're familiar with the lolcat command and its options, let's see how you can use it to get colored terminal output. One of the easiest ways to use lolcat is to [pipe the output](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) of another Linux command through lolcat. For instance, if you want to colorize the output of the [ls command](https://extra-tips.techidaily.com/in-2024-capturecraft-hd-top-10-freepaid-filters-list/), you can run this:
@@ -94,6 +95,19 @@ man lolcat
 ls | lolcat
 
 ![Listing files and directories of Ubuntu Linux in colored output using lolcat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ls-lolcat-command.png) 
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will display the list of files and directories in a beautiful, rainbow-colored format. In the same way, you can apply lolcat to any command, such as [grep](https://screen-recording.techidaily.com/updated-10-superior-choices-high-end-video-conferencing-software-for-2024/) or man, and colorize its output text.
 
@@ -103,19 +117,12 @@ lolcat file.txt
 
 ![Displaying file content in colored output on Linux terminal using lolcat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/lolcat-file-output.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Want to see your system information using [neofetch](https://facebook-videos.techidaily.com/updated-2024-approved-easy-steps-for-achieving-facebooks-prestigious-blue-badge/) in rainbow glory? Try running this:
 
 neofetch | lolcat
 
 ![Getting system information in rainbow colored format using neofetch and lolcat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/neofetch-lolcat.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  You can also [create a permanent alias](https://hardware-help.techidaily.com/download-the-latest-logitech-camera-drivers-at-no-cost-for-windows-users/) for a frequently used command to automatically output in vibrant colors. For example, you can permanently set up an alias for the ls -l command by adding the following line to the [\~/.bashrc file](https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-nokia-xr21-drfone-by-drfone-reset-android-reset-android/):
 
 alias lolls="ls -l | lolcat"
@@ -127,9 +134,12 @@ vim ~/.bashrc
 ![Setting up an alias for the ls -l command in the ~/.bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/alias-lolcat.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After creating the alias, don’t forget to log out and back in to apply the changes.
 
  Now, when you type **lolls**, the system will execute the command ls -l and pipe its output to lolcat for a colorful display.
@@ -137,6 +147,20 @@ vim ~/.bashrc
 lolls
 
 ![Displaying files and directories in long colored format using the alias lolls.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/lolls-lolcat.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Animate Your Text Using lolcat
 
@@ -158,9 +182,6 @@ echo "Welcome to HTG" | lolcat --animate -s 5
 
  This command slows down the animation, giving you a more relaxed visual experience.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Create Colorful ASCII Text Banner
 
  Want to create a colorful ASCII text banner in your terminal? Look no further than lolcat. By combining lolcat with the figlet command, you can create a beautiful, rainbow-colored banner that'll make your terminal stand out.
@@ -189,6 +210,13 @@ figlet -f slant "Welcome to HTG" | lolcat
 
 ![Displaying an ASCII text banner in the terminal with a rainbow-colored format and using a slant font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/figlet-lolcat-font-differnet.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Make Things Interesting With cowsay
 
  Want to make things more funny? Let's combine lolcat with [cowsay](https://github.com/cowsay-org/cowsay). This fun command allows you to create speech bubbles with cute animal characters that display a message you provide.
@@ -211,9 +239,6 @@ cowsay "Linux is Funny" | lolcat
 
 ![Displaying a rainbow-colored cow in the terminal window with some text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cowsay-linux-lolcat.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  But why stop at cows? Cowsay comes with a whole menagerie of ASCII animals. Let's see what a rainbow tux has to say:
 
 cowsay -f tux "Linux is cool" | lolcat
@@ -232,8 +257,6 @@ cowsay -f tux "Linux is cool" | lolcat
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +264,21 @@ cowsay -f tux "Linux is cool" | lolcat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-amplify-your-iphone-films-with-free-audio-additions-discover-three-ways/"><u>[New] Amplify Your iPhone Films with Free Audio Additions – Discover Three Ways</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-and-crafting-your-essential-guide-to-gopro-4k-edits/"><u>[New] Capturing and Crafting Your Essential Guide to GoPro 4K Edits</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-quality-overload-top-10-hd-video-apps-for-your-android/"><u>[New] In 2024, Quality Overload Top 10 HD Video Apps for Your Android</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/beliebteste-faqs-zur-datenwiederherstellung-mit-aomei/"><u>Beliebteste FAQs Zur Datenwiederherstellung Mit AOMEI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-security-change-your-email-through-proton-vpn-add-on-for-chrome-and-detecting-fake-chatgpt-apps-for-pc/"><u>Enhancing Security: Change Your Email Through Proton VPN Add-On for Chrome and Detecting Fake ChatGPT Apps for PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-guide-the-top-6-journaling-apps-you-cant-miss/"><u>Essential Guide: The Top 6 Journaling Apps You Can't Miss</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/hasty-instruction-saving-your-photos-as-youtube-channel-thumbnails-for-2024/"><u>Hasty Instruction Saving Your Photos as YouTube Channel Thumbnails for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-reno-11-pro-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo Reno 11 Pro 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insights-from-scripting-a-podcast-using-chatgpt-what-you-need-to-know/"><u>Insights From Scripting a Podcast Using ChatGPT: What You Need to Know</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-steadicam-choices-for-improved-dslr-footage-for-2024/"><u>Leading Steadicam Choices for Improved DSLR Footage for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-your-roku-television-sans-remote-tips-and-tricks/"><u>Navigating Your Roku Television Sans Remote - Tips and Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/numeric-excellence-excel-surpasses-gpt-in-complex-calculations/"><u>Numeric Excellence: Excel Surpasses GPT in Complex Calculations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-siri-chatgpt-synergy-for-iphone-enthusiasts-tips-and-tricks/"><u>Seamless Siri-ChatGPT Synergy for iPhone Enthusiasts: Tips & Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-vector-databases-in-accelerating-advanced-ai-applications/"><u>The Role of Vector Databases in Accelerating Advanced AI Applications</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Hands-On Review of ESR's Innovative Halolock - A Versatile Multi-Card Wallet & Compatible Adjustable Stand for iPhones
-date: 2024-10-16T17:08:23.654Z
-updated: 2024-10-21T16:24:32.809Z
+date: 2024-11-17T16:39:20.507Z
+updated: 2024-11-18T20:04:32.728Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,10 +77,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -115,17 +127,24 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/free-windows-10-recorder-tools-a-comprehensive-updated-guide-for-2024/"><u>Free Windows 10 Recorder Tools A Comprehensive, Updated Guide for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-12-pro-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 12 Pro or iPad?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-gt-10-pro-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Infinix GT 10 Pro Phone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-resolve-d3dx930dll-errors-when-they-go-unfound-or-vanish/"><u>How to Correctly Resolve d3dx9_30.dll Errors When They Go Unfound or Vanish</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-unlock-the-power-of-facebook-with-these-top-5-chrome-tools/"><u>In 2024, Unlock the Power of Facebook with These Top 5 Chrome Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/python-and-ai-synergy-leveraging-gpt-3-for-advanced-text-generation-tasks/"><u>Python and AI Synergy: Leveraging GPT-3 for Advanced Text Generation Tasks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/relying-on-artifice-intelligence-can-chatgpt-help-you-survive-natures-test/"><u>Relying on Artifice Intelligence: Can ChatGPT Help You Survive Nature's Test?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/rethink-ai-interaction-the-four-main-perks-of-opting-for-claude-s-instead-of-chatgpt/"><u>Rethink AI Interaction: The Four Main Perks of Opting for Claude ˈs Instead of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-bitter-truth-of-ai-dialogue-nine-problematic-aspects-of-gpt/"><u>The Bitter Truth of AI Dialogue: Nine Problematic Aspects of GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-benefits-of-mastering-chatgpt-for-career-growth/"><u>Top 6 Benefits of Mastering ChatGPT for Career Growth</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-reno-10-proplus-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Reno 10 Pro+ 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/wmaflac-windowsweb/"><u>WMAファイルからFLACへの変換: WindowsソフトウェアとWebサイトベースの解説</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-how-to-add-youtube-annotations-and-cards-in-2024/"><u>[New] How to Add YouTube Annotations and Cards, In 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-convert-with-confidence-best-apps-to-turn-spotify-into-youtube-channels/"><u>[New] In 2024, Convert with Confidence Best Apps to Turn Spotify Into YouTube Channels</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlock-facebook-slide-in-content-access/"><u>[New] In 2024, Unlock Facebook Slide-In Content Access</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-master-the-conversion-avi-files-become-gifs-using-filmora-software-windowsmac-for-2024/"><u>[New] Master the Conversion AVI Files Become GIFs Using Filmora Software (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-favorite-frameworks-top-instagram-filters-for-2024/"><u>[Updated] Favorite Frameworks Top Instagram Filters for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715759912345-updated-how-to-record-audio-with-audacity-on-mac/"><u>[Updated] How to Record Audio with Audacity on Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assisted-nutrition-delicious-healthy-creations/"><u>AI-Assisted Nutrition: Delicious, Healthy Creations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-these-6-gpt-tools-save-yourself-from-frustration/"><u>Avoid These 6 GPT Tools – Save Yourself From Frustration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bings-intelligence-vs-chatgpt-unveiling-the-top-ten-discrepancies/"><u>Bing's Intelligence Vs. ChatGPT: Unveiling the Top Ten Discrepancies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-love-quest-with-chatgpts-insights-and-advice/"><u>Boost Your Love Quest with ChatGPT's Insights and Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-users-trust-the-safety-of-chatgpts-operations/"><u>Can Users Trust the Safety of ChatGPT's Operations?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-companion-in-the-journey-of-storytelling-mastery/"><u>ChatGPT as Your Companion in the Journey of Storytelling Mastery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-writing-partner-for-youtube-videos/"><u>ChatGPT as Your Writing Partner for YouTube Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-boundaries-discover-7-types-of-queries-it-cant-handle/"><u>ChatGPT Boundaries: Discover 7 Types of Queries It Can't Handle</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-plus-subscription-review-is-it-worth-your-money/"><u>ChatGPT Plus Subscription Review – Is It Worth Your Money?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-wmv-to-vob-converter-web-service-moveavi/"><u>Free WMV-to-VOB Converter Web Service - MoveAVI</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionizing-online-content-the-power-of-time-stamps-for-2024/"><u>Revolutionizing Online Content The Power of Time-Stamps for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlocking-aspect-ratios-the-key-to-facebook-video-success-for-2024/"><u>Unlocking Aspect Ratios The Key to Facebook Video Success for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Tactics to Fortify Privacy on Your Windows
-date: 2024-08-29T02:12:37.313Z
-updated: 2024-08-30T02:12:37.313Z
+date: 2024-11-15T17:46:41.282Z
+updated: 2024-11-18T21:32:49.967Z
 tags:
   - desktop
 categories:
@@ -32,13 +32,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Click the Start button, click your username, then click 'Lock.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/click-your-username-then-click-lock.png) 
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use the Windows Key
 
  Almost every Windows PC has a Windows key on the keyboard. As you've probably guessed, it's the one with the Windows icon. You can press Windows+L to lock your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ##  Ctrl+Alt+Delete
 
  The Ctrl+Alt+Delete keyboard shortcut is commonly used to kill unresponsive software, but you can also use it to lock your computer. Press Ctrl+Alt+Delete, and then click "Lock" in the menu that appears.
@@ -46,8 +56,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Lock from ctrl alt delete shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Lock-from-ctrl-alt-delete-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Lock Your Computer in Task Manager
 
  You can also lock your PC in [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). Pressing Ctrl+Alt+Delete, and then [click "Task Manager."](https://youtube-blog.techidaily.com/24-top-15-gaming-capture-utilities/) You can also type "Task Manager" in the Windows Search box, and then select it in the search results. 
@@ -58,12 +72,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Tap 'Users,' select your user, then click 'Disconnect.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/go-to-users-tab-select-user-click-disconnect.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A popup appears asking if you're sure you want to disconnect; click "Disconnect User" to confirm.
 
 ![Click 'Disconnect User' to lock your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/disconnect-user.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Lock It From the Command Prompt
 
@@ -71,9 +89,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Search 'Command Prompt,' then click the top result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  Type the following command:
 
 Rundll32.exe user32.dll,LockWorkStation
@@ -81,9 +96,20 @@ Rundll32.exe user32.dll,LockWorkStation
 ![The lock command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/command-prompt-command.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once this executes, your PC will be locked.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use the Run Prompt
 
@@ -97,14 +123,8 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![The command to lock your PC in a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-run-command.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Once this executes, your PC will be locked.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Create a Desktop Icon to Lock Your Computer
 
  If you'd rather lock your PC with just a click, you can [create a desktop icon](https://extra-approaches.techidaily.com/updated-skys-limit-for-your-visual-stories-unlimited-free-options-and-premium-choices/). To do so, right-click your desktop, hover over "New," and then select "Shortcut."
@@ -117,16 +137,10 @@ Rundll32.exe user32.dll,LockWorkStation
 
 **![Create shortcut code](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Create-shortcut-code.png)** 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Give your icon a name, and then click "Finish."
 
 **![Name the shortcut icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Name-the-shortcut-icon.png)** 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 Your icon will appear on your desktop—double-click it any time to lock your PC.
 
 ##  Set It Up in the Screen Saver Settings
@@ -140,8 +154,12 @@ Your icon will appear on your desktop—double-click it any time to lock your PC
 ![Enable 'On Resume, Display Logon Screen,' set the time you want, then click 'Apply.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/on-resume.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  We don't recommend this method for security reasons. It's always best to lock your PC before you step away from it.
 
 ##  Use Dynamic Lock
@@ -155,9 +173,20 @@ Your icon will appear on your desktop—double-click it any time to lock your PC
 **![Dynamic Lock Feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Dynamic-Lock-Feature.png)** 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Your PC will now lock if you move too far away.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Use the Remote Lock Feature
 
@@ -173,10 +202,6 @@ Your icon will appear on your desktop—double-click it any time to lock your PC
 
 ![Lock PC remotely](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Lock-PC-remotely-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Confirm in all the messages that appear to finish locking your PC.
 
 ---
@@ -189,8 +214,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +221,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-filmora-for-windows-10-and-other-top-video-editors-recommendation/"><u>[Updated] Filmora for Windows 10 and Other Top Video Editors Recommendation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-leapfrog-your-sub-count-top-techniques-unveiled/"><u>[Updated] In 2024, Leapfrog Your Sub Count Top Techniques Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-choose-your-winner-dji-gopro-max-instax-x3/"><u>2024 Approved Choose Your Winner DJi, GoPro Max, Instax X3</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/drive-smarter-mercedes-benz-integrates-ai-chatgpt-with-voice-command-for-enhanced-in-car-experience/"><u>Drive Smarter: Mercedes-Benz Integrates AI ChatGPT with Voice Command for Enhanced In-Car Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficient-idea-generation-techniques-integrating-mindmaps-and-chatgpt-for-successful-brainstorming-sessions/"><u>Efficient Idea Generation Techniques: Integrating Mindmaps and ChatGPT for Successful Brainstorming Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/engaging-with-ai-the-bing-chat-showdown-on-skype/"><u>Engaging with AI: The Bing Chat Showdown on Skype</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nubia-red-magic-8s-proplus-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nubia Red Magic 8S Pro+ Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-becoming-a-specialist-in-srt-text-management/"><u>In 2024, Becoming a Specialist in SRT Text Management</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-google-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for Google Network Unlock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-the-literary-world-using-artificial-intelligence-top-5-sites-and-apps-for-your-next-great-read/"><u>Navigate the Literary World Using Artificial Intelligence: Top 5 Sites & Apps for Your Next Great Read</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/oneplus-8t-analysis-fast-performance-hindered-by-inconsistent-photography/"><u>OnePlus 8T Analysis - Fast Performance Hindered by Inconsistent Photography</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguarding-ai-conversations-expert-guide-to-thwarting-model-inversion-attacks-on-your-bot/"><u>Safeguarding AI Conversations: Expert Guide to Thwarting Model Inversion Attacks on Your Bot</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/trust-in-ai-conversations-does-chatgpt-deliver-accurate-information/"><u>Trust in AI Conversations: Does ChatGPT Deliver Accurate Information?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/uncovering-software-flaws-with-openais-rewards-program/"><u>Uncovering Software Flaws with OpenAI's Rewards Program</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-chatgpts-feature-for-tailored-guidance-a-comprehensive-guide/"><u>Unveiling ChatGPT's Feature for Tailored Guidance - A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-youtube-videos-to-english-subtitles/"><u>Updated In 2024, How to Translate YouTube Videos to English Subtitles</u></a></li>
+</ul></div>
 

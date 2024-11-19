@@ -1,7 +1,7 @@
 ---
 title: "The Magic of Imagination Unleashed: Can Kids Age 4 Craft Masterpieces Using AI Art Generation?"
-date: 2024-08-29T02:14:47.568Z
-updated: 2024-08-30T02:14:47.568Z
+date: 2024-11-14T20:37:12.833Z
+updated: 2024-11-18T20:48:01.825Z
 tags:
   - cutting-edge
 categories:
@@ -31,11 +31,25 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
 
  The images below show results from both [DALL-E 2 Beta](https://video-screen-grab.techidaily.com/new-2024-approved-home-sweet-habitat-6-basic-mc-dwellings-demystified/) (left) and a [web version of Stable Diffusion](https://replicate.com/stability-ai/stable-diffusion) (right).
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  A Grasshopper Eating Pizza
 
  The first idea he had was brilliant. Right away, I knew this was going to be fun.
 
 ![A grasshopper eating pizza.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/grasshopper.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  DALL-E did a very good job with this one. It almost looks like the grasshopper is holding a piece of crust to its mouth. I'm not really sure what Stable Diffusion did here. It's a pizza with some green on it? I don't want to think about what that might be.
 
@@ -45,9 +59,6 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
 
 ![A hot dog saying hello to a pizza.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/hotdog.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  DALL-E did a much better job with this one too. It added an actual dog and didn't include pizza, but it did manage to spell "hello" correctly (once), which doesn't always happen. Stable Diffusion just gave us a sausage pizza.
 
 ###  Spider-Man Wiggling and Singing
@@ -58,6 +69,13 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
 
  Well, that's definitely Spider-Man doing...something. I like the style of DALL-E's image, though I can't tell if he's singing or looking at his mangled fingers in agony. Stable Diffusion went more realistic and added some extra limbs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  A Square Birthday Cake With Blueberry Frosting and a Cherry and Strawberry on Top
 
  I realized giving him a bit of direction was helpful, so I asked him to describe his next birthday cake. He was surprisingly detailed with his description.
@@ -66,23 +84,21 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
 
  DALL-E and Stable Diffusion both did really well with this one. I would believe both of these to be real cakes people could make. I especially love that DALL-E put a "5" on the cake. No idea where that came from, but it's perfect.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ###  A Praying Mantis Drawing a Strawberry
 
  His next idea was "a praying mantis drawing," so I asked him what it should be drawing. Fruit was still on his mind.
 
 ![A Praying Mantis Drawing a Strawberry.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/mantis.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  Again, DALL-E was much closer to what we had in mind. Stable Diffusion kinda just spit out a bunch of praying mantis body parts and strawberries.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  A Ghost Laughing and Dancing
 
  At the time of writing, Halloween is coming up, and that's an exciting time for a 4-year-old. I asked him to think of something Halloween-related.
@@ -91,9 +107,6 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
 
  Adorable. Well, one of them is adorable. DALL-E seems to default to cutesy animated images if you don't give it a lot of detail. I don't know what Stable Diffusion did, but I don't want to look at it anymore.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  An Anteater Wearing Pants
 
  This last prompt might be my favorite. I asked him to think of some silly things animals could do.
@@ -101,8 +114,12 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
 ![An Anteater Wearing Pants.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/anteater.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  There you have it folks, the answer to the age-old question: "how should a four-legged creature wear pants?" The DALL-E image is really funny to me. I love the expression on the anteater's face. Again, Stable Diffusion is freaking me out.
 
 ---
@@ -117,8 +134,6 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +141,22 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-comprehensively-understanding-youtubes-aspect-ratio-ecosystem/"><u>[New] 2024 Approved Comprehensively Understanding YouTube's Aspect Ratio Ecosystem</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-visionupgrade-pro-universal-platform-edition/"><u>[New] In 2024, VisionUpgrade Pro – Universal Platform Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prime-picks-easy-youtube-template-downloads/"><u>[Updated] Prime Picks Easy YouTube Template Downloads</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-silencing-ambient-sound-in-recordings-free-or-paid-guide/"><u>2024 Approved Silencing Ambient Sound in Recordings Free or Paid Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-gratis-notebook-programs-for-windows-7-users-a-comprehensive-guide-to-effortless-learning/"><u>Best Gratis Notebook Programs for Windows 7 Users: A Comprehensive Guide to Effortless Learning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/days-gone-multiplayer-release-pc-version-now-available/"><u>Days Gone Multiplayer Release - PC Version Now Available</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-advanced-tips-for-professionally-changing-image-hues/"><u>In 2024, Advanced Tips for Professionally Changing Image Hues</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-comprehensive-app-exploration-az-capture-essentials/"><u>In 2024, Comprehensive App Exploration AZ Capture Essentials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-productivity-gains-combining-onlyoffice-docspace-capabilities-with-chatgpt-ai-assistance/"><u>Maximize Productivity Gains: Combining OnlyOffice Docspace Capabilities with ChatGPT AI Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-around-chatgpts-limits-can-you-push-past-the-threshold/"><u>Navigating Around ChatGPT's Limits: Can You Push Past The Threshold?</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resolving-windows-update-malfunctions-on-your-windows-11-device/"><u>Resolving Windows Update Malfunctions on Your Windows 11 Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/swiftly-sidestep-common-chatgpt-login-blockades/"><u>Swiftly Sidestep Common ChatGPT Login Blockades</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-folklore-merging-human-art-with-machine-learning/"><u>The Future of Folklore: Merging Human Art with Machine Learning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-data-management-how-gpt-boosts-productivity-in-google-sheets-and-docs/"><u>Transform Your Data Management: How GPT Boosts Productivity in Google Sheets and Docs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-consider-chatgpt-for-your-next-health-inquiry/"><u>Why Consider ChatGPT for Your Next Health Inquiry?</u></a></li>
+</ul></div>
 

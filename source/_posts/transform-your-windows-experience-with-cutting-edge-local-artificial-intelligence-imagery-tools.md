@@ -1,7 +1,7 @@
 ---
 title: Transform Your Windows Experience with Cutting-Edge Local Artificial Intelligence Imagery Tools
-date: 2024-08-29T02:14:11.200Z
-updated: 2024-08-30T02:14:11.200Z
+date: 2024-11-13T19:15:02.967Z
+updated: 2024-11-18T16:02:49.886Z
 tags:
   - deals
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Set Up Stable Diffusion Image Generation on Windows](https://youtube-video-recordings.techidaily.com/tackling-social-media-platforms-an-in-depth-look-at-igtv-and-youtube/)
 * [AI Is a Whole New Set of Tools for Fun, Learning, and Productivity!](https://hardware-updates.techidaily.com/enhance-your-gaming-experience-the-apex-spectrum-by-maingear-now-with-dazzling-rgb-and-efficient-liquid-cooling-technology/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 ### Key Takeaways
@@ -28,13 +35,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  AI image generation using online tools like ChatGPT, DALL-E and MidJourney is very popular, but what if you want to generate your own images using AI, on your own computer, without any restrictions? Here's the easiest way to do it on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Why Would You Want Your Own Local AI Image Generator?
 
  Online AI image generators are incredibly powerful, and able to draw from huge amounts of data to build their images based on your prompts (in the AI world, a prompt is the instructions you give the AI), but they do have some drawbacks: They come with monthly fees, they keep a history of your interactions, and they may restrict what kinds of images you can request.
 
  Local image generation running on your own Windows computer is free (aside from the electricity cost), and comes with no restrictions. You can experiment with any image prompt you can think of, and use community-made models to create unique content. It's a fun introduction to the emerging AI space, and can also help you develop other programming and IT skills.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Set Up Stable Diffusion Image Generation on Windows
 
@@ -58,9 +76,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Once the .zip file has finished downloading, [extract it into its own folder](https://video-screen-grab.techidaily.com/updated-in-2024-essential-screen-capture-software-top-picks-ranked/), and open the folder containing the unzipped Fooocus files.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Step 3: Launch Fooocus
 
  Next, right-click on an empty spot in the Fooocus directory, and click "Open in Terminal". This will open a [Powershell](https://techtrends.techidaily.com/what-are-the-stages-in-a-game-of-royal-match/) terminal window.
@@ -68,8 +83,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![How to find the 'Open in Terminal' button in the Windows Explorer context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Make sure Docker Desktop is running, and then type the following docker command:
 
 docker compose up -d
@@ -92,14 +111,8 @@ docker compose up -d
 
 ![Docker Desktop showing a running container](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From Docker Desktop, you can stop and start Fooocus (without having to use the terminal), or delete the container and all its data.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Step 4: Generate Some Images!
 
  Now that Fooocus is up and running in Docker, you can access it from your web browser. By default, it runs on port **7865** and can be accessed at the address **http://localhost:7865** ("[localhost](https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-14-pro-learn-all-4-methods-drfone-by-drfone-ios/)" is the address your computer uses to access itself). You can click on a running container in the Docker Desktop interface to see which ports on localhost can be used to access it.
@@ -108,25 +121,28 @@ docker compose up -d
 
 ![The Fooocus Stable Diffusion interface awaiting a user prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  The first image might take a bit longer than others while the models Fooocus uses are prepared. Here's an example of an image generated using a simple Fooocus prompt: a photo of a helpful [How-To Geek](https://video-screen-grab.techidaily.com/new-in-2024-ranking-the-best-third-place-recording-tools-for-ipad/) surfing the net.
 
 ![The result of a Fooocus Stable Diffusion image prompt, showing a generated man in a suit, riding a surfboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-7.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to tweak the behavior or try out different styles, or look at the history of images you've generated, click the "Advanced" checkbox. Fooocus comes with a lot of options, and you can even use community-built models from sites like [CivitAI](https://education.civitai.com/generative-ai-art-with-fooocus-quickstart-guide/ "https://education.civitai.com/generative-ai-art-with-fooocus-quickstart-guide/").
 
  There is some NSFW content on CivitAI.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  AI Is a Whole New Set of Tools for Fun, Learning, and Productivity!
 
  Generative AI can make text, images, and videos based on your requests. It's a whole new set of tools that you can use for fun, learning, and productivity. It's also a cool way to get started with programming, for example, by [using Stable Diffusion with Python to generate images](https://some-skills.techidaily.com/tag-with-your-favorite-show-podcast-on-ig-for-2024/).
@@ -137,8 +153,6 @@ docker compose up -d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +160,23 @@ docker compose up -d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-ideal-image-integration-apps-for-the-year-ahead/"><u>[New] 2024 Approved Ideal Image Integration Apps for the Year Ahead</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-pioneering-practices-in-the-realm-of-iptv-recording/"><u>[New] Pioneering Practices in the Realm of IPTV Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-handheld-tech-to-eliminate-shaky-screenshot-videos/"><u>2024 Approved Top Handheld Tech to Eliminate Shaky Screenshot Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-gemini-15s-innovative-use-of-one-million-tokens-revolutionizes-the-market/"><u>How Gemini 1.5'S Innovative Use of One Million Tokens Revolutionizes the Market</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-techniques-to-maximize-windows-11/"><u>In 2024, Exclusive Techniques to Maximize Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-gionee-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Gionee FRP In 3 Different Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovating-self-sufficiency-how-gpt-cuts-edge-will-revolutionize-do-it-yourself-activities/"><u>Innovating Self-Sufficiency: How GPT-Cuts Edge Will Revolutionize Do-It-Yourself Activities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-going-premium-with-chatgpt-plus-worth-it/"><u>Is Going Premium with ChatGPT Plus Worth It ?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-bitcoin-and-altcoins-trading-with-these-n-chatgpt-insights/"><u>Revolutionize Your Bitcoin and Altcoins Trading with These N ChatGPT Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/ricoh-theta-s-uncovered-a-complete-audit-for-2024/"><u>Ricoh Theta S Uncovered A Complete Audit for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-death-stranding-not-launching/"><u>Solved: Death Stranding Not Launching</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-pitfalls-in-harnessing-chatgpt-for-your-content-strategy/"><u>Top 4 Pitfalls in Harnessing ChatGPT for Your Content Strategy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-ai-instruments-crucial-for-business-leaders-to-master/"><u>Top 5 AI Instruments Crucial for Business Leaders to Master</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-much-information-do-you-have-about-mp4-digital-file-storage-let-us-tell-you-more-about-the-mp4-file-format-get-ready-to-increase-your-kn/"><u>Updated In 2024, How Much Information Do You Have About MP4 Digital File Storage? Let Us Tell You More About the MP4 File Format; Get Ready to Increase Your Knowledge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-artifice-inteligence-excels-chatgpt-or-gemini-for-programming/"><u>Which Artifice Inteligence Excels - ChatGPT or Gemini for Programming?</u></a></li>
+</ul></div>
 

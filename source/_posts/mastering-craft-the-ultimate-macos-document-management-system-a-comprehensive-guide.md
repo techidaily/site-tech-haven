@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Management System - A Comprehensive Guide"
-date: 2024-11-04T06:29:30.113Z
-updated: 2024-11-08T05:31:43.444Z
+date: 2024-11-11T18:21:13.937Z
+updated: 2024-11-18T18:45:41.904Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,18 +134,19 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-download-facebook-status-videos-for-2024/"><u>[New] How to Download Facebook Status Videos for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-securing-sound-speed-increase-in-the-digital-world-of-spotify-for-2024/"><u>[New] Securing Sound Speed Increase in the Digital World of Spotify for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-essentials-tips-and-tricks-for-seamless-integration-with-android-and-ios-phones/"><u>ChatGPT Essentials: Tips and Tricks for Seamless Integration with Android and iOS Phones</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-overcoming-the-king-of-fighters-xvs-pc-performance-problems/"><u>Expert Solutions: Overcoming The King of Fighters XV's PC Performance Problems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-machine-learning-is-revolutionizing-game-production-and-transforming-player-experiences-in-the-video-games-sector/"><u>How Machine Learning Is Revolutionizing Game Production and Transforming Player Experiences in the Video Games Sector</u></a></li>
-<li><a href="https://article-posts.techidaily.com/humor-in-pixels-kapwings-meme-crafting-app-for-2024/"><u>Humor in Pixels Kapwing’s Meme Crafting App for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-design-marvels-japanese-homescape-in-mc-landscape/"><u>In 2024, Design Marvels Japanese Homescape in MC Landscape</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-possible-to-use-chatgpt-while-connected-through-a-vpn-service/"><u>Is It Possible To Use ChatGPT While Connected Through A VPN Service?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/obs-mac-guide-streamlabs-setup/"><u>OBS Mac Guide Streamlabs Setup</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/outside-chatgpts-processing-sphere/"><u>Outside ChatGPT's Processing Sphere</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-writing-process-with-these-9-chatgpt-tips-for-novelists/"><u>Revolutionize Your Writing Process with These 9 ChatGPT Tips for Novelists</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/split-cut-and-edit-videos-for-free-our-top-recommendations/"><u>Split, Cut, and Edit Videos for Free Our Top Recommendations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-showdown-of-llms-google-bard-vs-microsoft-chatgpt-vs-offline-alpaca-which-reigns-supreme/"><u>The Ultimate Showdown of LLMs: Google Bard Vs. Microsoft ChatGPT Vs. Offline Alpaca - Which Reigns Supreme?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-why-are-videos-vanishing-from-a6400/"><u>[New] In 2024, Why Are Videos Vanishing From A6400?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-step-by-step-srt-mp4-enhancement/"><u>[Updated] Comprehensive Step-by-Step SRT MP4 Enhancement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-power-of-preview-a-complete-user-guide-for-mac/"><u>[Updated] Unlocking the Power of Preview A Complete User Guide for Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/14-proven-strategies-resolve-your-no-service-issue-on-an-iphone/"><u>14 Proven Strategies: Resolve Your 'No Service' Issue on an iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-imaginary-realms-mastering-fiction-building-with-chatgpt/"><u>Creating Imaginary Realms: Mastering Fiction Building with ChatGPT</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-behind-the-scenes-the-genesis-of-a-mukbang-video/"><u>In 2024, Behind the Scenes The Genesis of a Mukbang Video</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-harmonious-integration-spotify-meets-discord/"><u>In 2024, Harmonious Integration Spotify Meets Discord</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-w7-wi-fi-extender-no-hassle/"><u>Install W7 Wi-Fi Extender, No Hassle</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-list-of-free-online-video-merger-tools-2023-edition/"><u>New 2024 Approved The Ultimate List of Free Online Video Merger Tools (2023 Edition)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-fast-track-guide-to-kodi-software-enhancement/"><u>The Fast Track Guide to Kodi Software Enhancement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-ai-arrives-meet-openais-latest-innovation-gpt-cutting-edge/"><u>The Future of AI Arrives: Meet OpenAI's Latest Innovation, GPT-Cutting Edge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/token-renaissance-with-gemini-15s-million-dollar-shift/"><u>Token Renaissance with Gemini 1.5'S Million-Dollar Shift</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-strategies-to-enhance-conversational-ai-boosting-chatgpt-outputs/"><u>Top 7 Strategies to Enhance Conversational AI: Boosting ChatGPT Outputs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-the-full-scope-of-apples-ai-announcement-at-wwdc-24/"><u>Unveiling the Secrets: The Full Scope of Apple's AI Announcement at WWDC '24</u></a></li>
 </ul></div>
 

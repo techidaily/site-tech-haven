@@ -1,7 +1,7 @@
 ---
 title: Why Upgrading to an iPhone 16 Pro Doesn't Make Sense for Me and My iPhone Ebastion | A Closer Look at Four Major Concerns Addressed by ZDNET
-date: 2024-10-19T19:14:57.262Z
-updated: 2024-10-21T19:05:18.022Z
+date: 2024-11-15T22:55:03.124Z
+updated: 2024-11-18T18:52:33.335Z
 tags:
   - apple
 categories:
@@ -39,16 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -62,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -87,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -135,16 +129,20 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-enlightenment-streams-foremost-ed-resources-online/"><u>[New] 2024 Approved Enlightenment Streams Foremost Ed Resources Online</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-easy-steps-making-time-lapses-on-galaxy-phones/"><u>[Updated] In 2024, Easy Steps Making Time-Lapses on Galaxy Phones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elite-venues-for-idea-exchange-in-the-ai-world/"><u>Elite Venues for Idea Exchange in the AI World</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-the-value-of-premium-ai-prompt-offerings-are-they-a-good-buy/"><u>Evaluating the Value of Premium AI Prompt Offerings – Are They a Good Buy?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-these-6-creative-applications-for-chatgpts-advanced-coding-feature/"><u>Explore These 6 Creative Applications for ChatGPT's Advanced Coding Feature</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-disneys-revolutionary-multiplayer-virtual-reality-treadmill-a-step-by-step-guide/"><u>Exploring Disney's Revolutionary Multiplayer Virtual Reality Treadmill – A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-framework-of-massive-machine-learning/"><u>Exploring the Framework of Massive Machine Learning</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-fear-to-proficiency-excel-and-chatgpt-duo/"><u>From Fear to Proficiency: Excel & ChatGPT Duo</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-xiaomi-13-ultra-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Xiaomi 13 Ultra FRP Bypass</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-epson-wf-3620-driver-software-for-compatibility-with-windows-operating-systems-1087/"><u>Updated Epson WF-3620 Driver Software for Compatibility with Windows Operating Systems (10/8/7)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-essential-tips-to-eliminate-instagram-video-issues/"><u>[New] In 2024, Essential Tips to Eliminate Instagram Video Issues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-amateur-to-expert-a-compreenhensive-tutorial-on-zoom-recording-quality/"><u>[Updated] From Amateur to Expert A Compreenhensive Tutorial on Zoom Recording Quality</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-high-definition-mastery-best-hd-screen-recorder-selections/"><u>[Updated] High Definition Mastery Best HD Screen Recorder Selections</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unveiling-the-best-zoomed-experience-in-virtual-meetings/"><u>[Updated] In 2024, Unveiling the Best Zoomed Experience in Virtual Meetings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-step-by-step-iphone-guide-for-free-downloaded-podcast-episodes/"><u>2024 Approved Step-by-Step iPhone Guide for Free Downloaded Podcast Episodes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-motorola-defy-2-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Motorola Defy 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/llamacow-vs-gpt-4-showdown-determining-the-superior-ai/"><u>Llamacow Vs. GPT-4 Showdown: Determining the Superior AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-restoration-the-key-four-issues/"><u>Mastering ChatGPT Restoration: The Key Four Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-text-tech-openais-tailored-language-model-store/"><u>Mastering Text Tech: OpenAI’s Tailored Language Model Store</u></a></li>
+<li><a href="https://article-posts.techidaily.com/next-gen-vision-top-10-cameras-of-the-year-2024/"><u>Next-Gen Vision – Top 10 Cameras of the Year 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-job-hunting-discover-the-power-of-chatgpt-in-six-steps/"><u>Revolutionize Job Hunting: Discover the Power of ChatGPT in Six Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-ai-communication-implementing-the-microsoft-bing-chatbot-in-your-androids-keyboard-settings/"><u>Seamless AI Communication: Implementing the Microsoft Bing Chatbot in Your Android's Keyboard Settings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-fallout-4-dead-pixels-fixing-the-perplexing-black-display-problem/"><u>Solve Your Fallout 4 Dead Pixels: Fixing the Perplexing Black Display Problem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/speak-up-discover-how-openai-revolutionizes-chatbot-experience-with-voice-recognition-in-chatgpt/"><u>Speak Up! Discover How OpenAI Revolutionizes Chatbot Experience with Voice Recognition in ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-cyberspace-quest-hackers-and-chatgpt/"><u>The Cyberspace Quest: Hackers and ChatGPT</u></a></li>
 </ul></div>
 

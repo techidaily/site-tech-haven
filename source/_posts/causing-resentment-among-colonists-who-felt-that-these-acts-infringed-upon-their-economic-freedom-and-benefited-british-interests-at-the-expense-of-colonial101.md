@@ -1,7 +1,7 @@
 ---
 title: Causing Resentment Among Colonists Who Felt that These Acts Infringed upon Their Economic Freedom and Benefited British Interests at the Expense of Colonial Development.
-date: 2024-10-24T19:05:55.782Z
-updated: 2024-10-27T17:44:24.318Z
+date: 2024-11-14T17:49:10.987Z
+updated: 2024-11-19T00:46:26.371Z
 tags:
   - apple
 categories:
@@ -68,13 +68,6 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -93,6 +86,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,10 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -136,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,18 +218,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-ultimate-obs-recording-guide-for-gaming-enthusiasts/"><u>[New] In 2024, The Ultimate OBS Recording Guide for Gaming Enthusiasts</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-top-pick-cross-platform-devices-ideal-entry-editor/"><u>[New] Top Pick Cross-Platform Devices' Ideal Entry Editor</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-metrics-mastery-gain-more-followers/"><u>[Updated] 2024 Approved Instagram Metrics Mastery - Gain More Followers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-10-best-offline-ios-games/"><u>[Updated] In 2024, Top 10 Best Offline iOS Games</u></a></li>
-<li><a href="https://facebook.techidaily.com/capitalizing-on-our-daily-movements/"><u>Capitalizing on Our Daily Movements</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-bingchatgpt-scam-tokens-strategies-for-investor-protection/"><u>Navigating Through BingChatGPT Scam Tokens - Strategies for Investor Protection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/never-be-without-chatgpt-a-step-by-step-tutorial-for-using-chatgpt-everywhere/"><u>Never Be Without ChatGPT: A Step-by-Step Tutorial for Using ChatGPT Everywhere</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-leap-in-neural-networks-what-about-gpt-5/"><u>Next Leap in Neural Networks: What About GPT-5?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/openai-unveils-groundbreaking-gpt-4-ai-revolutionizing-technology/"><u>OpenAI Unveils Groundbreaking GPT-4 AI Revolutionizing Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimizing-daily-living-with-ai-the-chatgpt-guide/"><u>Optimizing Daily Living with AI: The ChatGPT Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/perfecting-the-chatflow-manage-gpt-3-with-folders/"><u>Perfecting the ChatFlow: Manage GPT-3 with Folders</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online-for-2024/"><u>Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/swift-transfer-methods-getting-files-onto-computers/"><u>Swift Transfer Methods Getting Files Onto Computers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-the-art-of-backward-movies-on-snapchat/"><u>[New] In 2024, Mastering the Art of Backward Movies on Snapchat</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-speech-to-text-efficient-conversion-techniques-for-microsoft-word-users/"><u>[New] Speech to Text Efficient Conversion Techniques for Microsoft Word Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-complete-users-manual-to-youtube-editing-via-finalcut-pro/"><u>[New] The Complete User's Manual to YouTube Editing via FinalCut Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-from-frame-to-story-vertical-video-editing-guide-for-fcpx-users-on-insta/"><u>[Updated] 2024 Approved From Frame to Story Vertical Video Editing Guide for FCPX Users on Insta</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/hacking-tiktoks-video-pace-efficiently-for-2024/"><u>Hacking TikTok's Video Pace Efficiently for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-redmi-k70-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi Redmi K70 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-effective-strategies-for-podcast-on-insta-story-and-posts/"><u>In 2024, Effective Strategies for Podcast on Insta Story & Posts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphones-unveiled-deciding-if-the-iphone-13-pro-or-pro-max-is-right-for-you-expert-insights/"><u>IPhones Unveiled: Deciding if the iPhone 13 Pro or Pro Max Is Right for You – Expert Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/731693-9781780990149-living-an-extraordinary-life-in-an-ordinary-reality/"><u>Living an Extraordinary Life in an Ordinary Reality | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-your-advance-order-on-iphone-15-and-apple-watch-series-9ultra-2-with-top-savings-insights-from-zdnet/"><u>Secure Your Advance Order on iPhone 15 & Apple Watch Series 9/Ultra 2 with Top Savings - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-3-groundbreaking-iphone-16-innovations-that-will-make-you-rethink-your-next-phone-upgrade-insights-from-zdnet/"><u>Top 3 Groundbreaking iPhone 16 Innovations That Will Make You Rethink Your Next Phone Upgrade - Insights From ZDNet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-guide-posting-tiktok-videos/"><u>Twitter's Guide Posting TikTok Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-premium-wireless-charging-devices-of-2024-features-and-reviews-tested-by-professionals-zdnet/"><u>Ultimate Guide to Premium Wireless Charging Devices of 2024 - Features and Reviews Tested by Professionals | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrading-to-iphone-16-pro-or-sticking-with-iphone-14-pro-insights-and-value-comparison/"><u>Upgrading to iPhone 16 Pro or Sticking with iPhone 14 Pro? Insights & Value Comparison</u></a></li>
 </ul></div>
 

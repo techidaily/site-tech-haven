@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Audacity for Crafting Unique Discord Sound Effects: Tips and Techniques"
-date: 2024-08-29T02:10:58.942Z
-updated: 2024-08-30T02:10:58.942Z
+date: 2024-11-16T16:31:56.200Z
+updated: 2024-11-18T17:27:32.290Z
 tags:
   - web
 categories:
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
 ![Starting and stopping an audio recording in Audacity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/starting-and-stopping-an-audio-recording-in-audacity.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you are using a Linux device, you will instead select ALSA as the audio host and select "pulse" as the recording device. Pulse might instead be labeled as "default" in the drop-down menu if your device uses Pulse as its default sound server. Select "Start Monitoring" in Audacity. In PulseAudio Volume Control, navigate to the Recording tab and select "Monitor" in the "Capture From" drop-down menu.
 
  When you are recording audio in this way, Audacity will pick up any and all sounds coming from your PC. This means you can capture sounds from any video game or music player, even if you're [still listening to MP3s](https://extra-hints.techidaily.com/free-fires-sound-alteration-tactics/), but it also means that it _will_ pick up notification sounds and other noises from your desktop and active software. It is a good idea to make sure that all other sounds are turned off before you start recording.
@@ -52,8 +59,19 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 ![Exporting audio in Audacity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/exporting-audio-in-audacity.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Upload the Sound to Your Discord Server
 
  If you [own a Discord server](https://facebook-clips.techidaily.com/updated-seamless-music-addition-for-social-media-iphoneandroid/) or have Soundboard permissions from the server admins, you can open the Soundboard panel by selecting the Open Soundboard button whenever you are in a voice call. In this panel, you will see the sounds that are available to you in your server's soundboard. To upload a new sound, select "Add Sound."
@@ -61,15 +79,16 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 ![Opening the Discord Soundboard menu and adding a sound.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/opening-the-discord-soundboard-menu-and-adding-a-sound.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In the next window, browse for the file you wish to upload by navigating to the location where you previously saved your Audacity project. You can then give the sound a name and a related emoji, as well as edit the volume at which it will play when you use it during a voice call. You can also edit the length of your uploaded audio in this window. If your clip is still longer than 5 seconds, you will need to trim it down before uploading.
 
 ![Editing and uploading a sound to your Discord soundboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/editing-and-uploading-a-sound-to-your-discord-soundboard.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You will then find your new sound in the Soundboard panel you opened earlier. Try using it to surprise your friends when [watching movies on Discord](https://visual-screen-recording.techidaily.com/new-2024-approved-best-online-audio-solutions-2023-guide/) or set it up as an entrance sound that automatically plays when you join a voice chat!
 
 ---
@@ -84,8 +103,6 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +110,24 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-full-exploration-of-picsarts-new-features/"><u>[New] Full Exploration of PicsArt's New Features</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-art-of-retention-capturing-gifs-from-social-media/"><u>[Updated] In 2024, The Art of Retention Capturing GIFs From Social Media</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-infusing-instagram-reels-with-tunes-and-narration/"><u>2024 Approved Infusing Instagram Reels with Tunes & Narration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725284629193-dvd/"><u>市販DVDのパソコンへの移行手順と裏技について学ぶ - 実証済みガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-virtual-trainer-companion-crafting-custom-fitness-programs/"><u>ChatGPT as Your Virtual Trainer Companion: Crafting Custom Fitness Programs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-plus-a-cost-benefit-analysis/"><u>ChatGPT Plus: A Cost-Benefit Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/digital-dexterity-ai-comedy-and-laptop-legacy-unveiled/"><u>Digital Dexterity: AI Comedy & Laptop Legacy Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embracing-ai-assisted-advice-with-top-7-reasons/"><u>Embracing AI-Assisted Advice with Top 7 Reasons</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-k70-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi K70 Pro Phone Network-Ready</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introducing-the-trailblazing-google-pixel-9-the-premier-android-device-featuring-groundbreaking-satellite-emergency-calling/"><u>Introducing the Trailblazing Google Pixel 9: The Premier Android Device Featuring Groundbreaking Satellite Emergency Calling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-productivity-with-these-ai-driven-chrome-addons-top-picks/"><u>Maximize Your Productivity with These AI-Driven Chrome Addons - Top Picks!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplifying-sticker-setup-challenges-resolving-top-6-problems-quickly/"><u>Simplifying Sticker Setup Challenges: Resolving Top 6 Problems Quickly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/smarter-solutions-discover-your-8-ai-matches-now/"><u>Smarter Solutions: Discover Your 8 AI Matches Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-era-of-automated-writing-is-the-classic-student-essay-a-thing-of-the-past-due-to-innovations-like-chatgpt/"><u>The Era of Automated Writing: Is the Classic Student Essay a Thing of the Past Due to Innovations Like ChatGPT?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-clearing-the-clutter-streamlined-methods-for-reducing-ambient-noise-in-audio-editing-software-audacity-and-filmorapro/"><u>Updated 2024 Approved Clearing the Clutter Streamlined Methods for Reducing Ambient Noise in Audio Editing Software (Audacity & FilmoraPro)</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated 2024 Approved Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-the-chatgpt-mobile-app-outshines-its-web-counterpart-a-comprehensive-guide/"><u>Why the ChatGPT Mobile App Outshines Its Web Counterpart: A Comprehensive Guide</u></a></li>
+</ul></div>
 

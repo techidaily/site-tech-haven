@@ -1,7 +1,7 @@
 ---
 title: The 5 Best Free AI-Driven Image Editors
-date: 2024-08-24T12:55:50.846Z
-updated: 2024-08-25T12:55:50.846Z
+date: 2024-11-15T20:40:03.888Z
+updated: 2024-11-18T18:43:15.943Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/e773ad143d0e6a181e98946175694e64ba11aabb2
  The good news is that you can ask ChatGPT anything from within VS Code using a ChatGPT extension. ChatGPT covers a vast amount of coding needs, including unit testing, debugging, documentation, code explanation, and code generation.
 
  Here are the handiest ChatGPT extensions you can install for VS Code today.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1.[ChatGPT - EasyCode](https://marketplace.visualstudio.com/items?itemName=EasyCodeAI.chatgpt-gpt4-gpt3-vscode)
 
@@ -52,9 +59,12 @@ thumbnail: https://thmb.techidaily.com/e773ad143d0e6a181e98946175694e64ba11aabb2
 ![Code GPT 4 interface VS Code extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/code-gpt-4-interface-vs-code-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Code GPT offers a more inclusive AI service for VS Code. Although its default AI model choice comes from OpenAI's ChatGPT-3.5 and ChatGPT-4, it also features[ChatGPT alternatives](https://www.makeuseof.com/best-alternatives-chatgpt/) , including Cohere, AI21, Google's Bard, and Anthropic, among others.
 
  The Code GPT extension requires your OpenAI API key, which you can set up by pressing VS Code command palette shortcuts (CMD+Shift+P for Mac or Ctrl+Shift+P for Windows). However, ensure you have enough free credit or a premium plan to enjoy this VS Code AI service. A valuable feature of Code GPT is its ability to take prompts from code comments and insert the generated code into a usable code file (in the target programming language).
@@ -66,8 +76,12 @@ The ultimate burning program for all your needs!</a>
 ![ChatGPT Helper extsnion VS Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-helper-extsnion-vs-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The ChatGPT Helper VS Code extension is a simple AI assistant you can add to VS Code if you only need to solve programming problems quickly. This extension is straightforward to use and only designed for accepting a limited number of built-in prompts.
 
  The ChatGPT Helper extension supports GPT-3.5 and GPT-4 with the option to switch between them. It requires an OpenAI API key, which the extension prompts you to include as soon as you send your first prompt after installation.
@@ -75,11 +89,22 @@ The ultimate burning program for all your needs!</a>
  However, unlike other ChatGPT extensions, it doesn't have a chat feature. But you can send custom and built-in prompts via VS Code's command palette. It writes responses in separate text files, allowing you to save prompt replies for later.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5.[ChatGPT - Genie AI](https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode)
 
 ![Genie AI ChatGPT extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/genie-ai-chatgpt-extension.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The ChatGPT extension by Genie AI has a better aesthetic, featuring built-in prompts in a more relatable interface. It supports GPT-3, GPT-3.5, and GPT-4\. And like many ChatGPT extensions mentioned previously, it also requires an OpenAI API key.
 
@@ -87,44 +112,27 @@ The ultimate burning program for all your needs!</a>
 
  While using the extension, you don't need to manually copy and paste the code it generates. Genie AI will automatically write responses into relevant code files, which you can use directly in your app. You can also save your conversations locally and resume them later.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 6.[ChatGPT VS Code Plugin by Jay Barnes](https://marketplace.visualstudio.com/items?itemName=JayBarnes.chatgpt-vscode-plugin)
 
 ![ChatGPT VS Code extension by Jay Barnes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-vs-code-extension-by-jay-barnes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  If you want to use ChatGPT for free, the ChatGPT VS Code extension by Jay Barnes comes in handy. It operates on a different level and requires your ChatGPT web session token and user agent rather than your OpenAI API key. So it's invariably free since it extends your interaction with ChatGPT from the web.
 
  While it allows you to use ChatGPT for free in VS Code, it's technical to set up and can be tardy with occasional failures. Additionally, you'll periodically reset your access tokens since these expire with your ChatGPT web session.
 
  Like other ChatGPT extensions, it features built-in prompts and accepts custom ones via the chat menu. Overall, this extension wouldn't have made our list of the best ChatGPT extensions for VS Code. But it's free and may be handy when you exhaust your free credit. However, be careful to[prevent your session from getting hijacked](https://www.makeuseof.com/what-is-session-hijacking-how-to-prevent/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Use ChatGPT Productively in VS Code
 
  ChatGPT and other generative AI models have found valuable uses in our daily lives. Whether we accept them or not, they're here to stay. These AI tools are more helpful than they are threatening if you use them productively.
 
  Using these ChatGPT extensions for programming doesn't guarantee a smooth run. You'll still need a combination of these AI tools with human input and some internet search skills to solve programming problems. You might want to see how to use ChatGPT in VS Code, for a practical sense of how these extensions work.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +141,22 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-professional-video-recorder-for-windows-pcs/"><u>[Updated] 2024 Approved Professional Video Recorder for Windows PCs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-simple-steps-to-great-videos-crafting-10-basic-concepts-easily/"><u>[Updated] Simple Steps to Great Videos Crafting 10 Basic Concepts Easily</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-assessing-different-versions-available-for-windows-movie-maker/"><u>2024 Approved Assessing Different Versions Available for Windows Movie Maker</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-jake-pauls-youtube-success-story/"><u>2024 Approved Jake Paul's YouTube Success Story</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-6-divx-media-players-compatible-with-all-your-gadgets/"><u>Best 6 DivX Media Players: Compatible with All Your Gadgets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/blob-video-extraction-tutorial-three-techniques-for-successful-downloads/"><u>Blob Video Extraction Tutorial: Three Techniques for Successful Downloads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-solutions-for-streaming-hevc-encoded-videos-on-samsung-tvs-without-any-hitches/"><u>Complete Solutions for Streaming Hevc Encoded Videos on Samsung TVs Without Any Hitches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/convert-free-youtube-videos-into-ipodiphone-format-with-our-simple-download-tool-play-on-the-go/"><u>Convert Free YouTube Videos Into iPod/iPhone Format with Our Simple Download Tool - Play On-The-Go!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-free-musical-experiences-for-your-android-phone/"><u>Discover the Ultimate List of Free Musical Experiences for Your Android Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-converting-avi-videos-for-apple-devices-iphones-ipads-and-ipods/"><u>Easy Guide: Converting AVI Videos for Apple Devices - iPhones, iPads & iPods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-guide-syncing-youtube-melodies-and-movies-to-your-ipod/"><u>Effortless Guide: Syncing YouTube Melodies & Movies to Your iPod</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-the-iphone-experience-how-apples-adoption-of-gemini-enhances-usability-tech-analysis/"><u>Revolutionizing the iPhone Experience: How Apple's Adoption of Gemini Enhances Usability | Tech Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-guide-for-missing-or-corrupt-wmpapidll-errors-on-multiple-windows-platforms/"><u>The Ultimate Fix Guide for 'Missing or Corrupt wmpapi.dll' Errors on Multiple Windows Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-strategies-leveraging-chatgpt-for-business-growth/"><u>Top 8 Strategies: Leveraging ChatGPT for Business Growth</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-engagement-top-5-compelling-book-trailers-for-2024/"><u>Unlocking Engagement Top 5 Compelling Book Trailers for 2024</u></a></li>
+</ul></div>
 

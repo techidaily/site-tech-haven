@@ -1,7 +1,7 @@
 ---
 title: Apple Pencil Inspired? Exploring the Uncanny Resemblance of Microsoft's Vision Pro Controller as Patented
-date: 2024-11-02T17:28:21.334Z
-updated: 2024-11-08T03:03:00.677Z
+date: 2024-11-15T00:10:27.464Z
+updated: 2024-11-19T00:31:24.735Z
 tags:
   - apple
 categories:
@@ -75,28 +75,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-procure-visual-gold-from-leading-4-video-content-creators/"><u>[New] 2024 Approved Procure Visual Gold From Leading 4 Video Content Creators</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-expert-picks-for-best-timelapse-tools/"><u>[New] In 2024, Expert Picks for Best Timelapse Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-enhancing-campaign-performance-with-targeted-hash-tags-for-fb-ads/"><u>2024 Approved Enhancing Campaign Performance with Targeted Hash Tags for FB Ads</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-smart-ai-solutions-with-gpt-3-in-the-realm-of-openai-playground/"><u>Crafting Smart AI Solutions with GPT-3 in the Realm of OpenAI Playground</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-office-email-efficacy-the-ultimate-guide-to-using-chatgpt-for-challenging-duty-communications/"><u>Enhancing Office Email Efficacy: The Ultimate Guide to Using ChatGPT for Challenging Duty Communications</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-poco-c51-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Poco C51 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-ai-face-off-notion-ai-vs-chatgpt-determining-the-superior-choice/"><u>Generative AI Face-Off: Notion AI Vs. ChatGPT – Determining the Superior Choice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/grasping-ai-vulnerability-demystifying-prompt-injections/"><u>Grasping AI Vulnerability: Demystifying Prompt Injections</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Lava Yuva 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-chatgpt-into-googles-data-tools/"><u>Integrating ChatGPT Into Google's Data Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-ai-mixology-a-reality-assessing-chatgpts-talent-for-tailored-toddies-and-martinis/"><u>Is AI Mixology a Reality? Assessing ChatGPT's Talent for Tailored Toddies and Martinis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-paying-up-to-20-a-month-for-enhanced-apple-features-worth-it-industry-predictions-revealed-by-zdnet/"><u>Is Paying Up to $20 a Month for Enhanced Apple Features Worth It? Industry Predictions Revealed by ZDNet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-for-fixing-your-vacd-dota/"><u>Step-by-Step Tutorial for Fixing Your VAC'd Dota</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-impact-of-ceo-change-at-openai-understanding-the-future-for-chatgpt-post-sam-altman/"><u>The Impact of CEO Change at OpenAI: Understanding the Future for ChatGPT Post-Sam Altman</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unleashing-performance-in-depth-look-at-why-alienware-aurora-r11-is-2021s-top-gaming-machine/"><u>Unleashing Performance: In-Depth Look at Why Alienware Aurora R11 Is 2021’S Top Gaming Machine</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-blueprint-for-successful-individual-podcasts/"><u>[Updated] The Blueprint for Successful Individual Podcasts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-efficient-facebook-video-upload-on-computer-and-mobile-systems/"><u>2024 Approved Efficient Facebook Video Upload on Computer & Mobile Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-split-between-panoramic-and-virtual-realities/"><u>2024 Approved The Split Between Panoramic & Virtual Realities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dare-to-innovate-with-claude-3-the-top-4-reasons-to-switch-up/"><u>Dare to Innovate with Claude 3: The Top 4 Reasons to Switch Up</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-tips-for-freelancers-mastering-chatgpt-for-content-creation-success/"><u>Essential Tips for Freelancers: Mastering ChatGPT for Content Creation Success</u></a></li>
+<li><a href="https://facebook.techidaily.com/experiential-rollout-of-meta-drops-to-instagram-and-fb-fans/"><u>Experiential Rollout of Meta Drops to Instagram & FB Fans</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/historical-insights-pinpointing-when-artificial-neural-networks-came-to-be/"><u>Historical Insights: Pinpointing When Artificial Neural Networks Came to Be</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-precision-in-reducing-image-size-the-essential-guide-to-thumbnails/"><u>In 2024, Precision in Reducing Image Size The Essential Guide to Thumbnails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-look-highlights-and-missing-links-from-applee-fast-and-furious-tech-event-a-detailed-analysis-zdnet/"><u>Inside Look: Highlights and Missing Links From Apple'e 'Fast & Furious Tech' Event – A Detailed Analysis | ZDNET</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/maximize-engagement-uploading-and-posting-funny-gifs-on-instagram-easy-guide-for-2024/"><u>Maximize Engagement Uploading & Posting Funny GIFs on Instagram (Easy Guide) for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-integrating-codegpt-into-your-visual-studio-code/"><u>Step-by-Step Guide: Integrating CodeGPT Into Your Visual Studio Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/take-your-chatgpt-skills-further-unleashing-power-through-5-lesser-known-attributes/"><u>Take Your ChatGPT Skills Further: Unleashing Power Through 5 Lesser-Known Attributes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-data-analysis-with-chatgpt-uncover-these-six-insightsful-techniques/"><u>Transforming Data Analysis with ChatGPT: Uncover These Six Insightsful Techniques</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

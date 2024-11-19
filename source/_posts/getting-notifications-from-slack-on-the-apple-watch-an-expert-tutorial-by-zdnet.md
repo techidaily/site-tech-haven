@@ -1,7 +1,7 @@
 ---
 title: "Getting Notifications From Slack on the Apple Watch: An Expert Tutorial by ZDNet"
-date: 2024-10-16T19:23:13.943Z
-updated: 2024-10-21T16:49:24.200Z
+date: 2024-11-16T23:42:52.381Z
+updated: 2024-11-18T20:26:43.052Z
 tags:
   - apple
 categories:
@@ -54,13 +54,6 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
@@ -76,10 +69,10 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
@@ -125,15 +118,28 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##   
 
@@ -142,10 +148,10 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -187,19 +193,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-harnessing-iphones-potential-for-detailed-photography/"><u>[New] Harnessing iPhone's Potential for Detailed Photography</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-expert-techniques-efficiently-crafting-compelling-subtitles-for-fb-video-content-for-2024/"><u>[Updated] Expert Techniques Efficiently Crafting Compelling Subtitles for FB Video Content for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-decoding-the-art-of-successful-fb-cover-videos/"><u>2024 Approved Decoding the Art of Successful FB Cover Videos</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/deciding-between-giants-a-detailed-look-at-iphone-15-plus-and-pro-max-comparison/"><u>Deciding Between Giants: A Detailed Look at iPhone 15 Plus and Pro Max Comparison</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratuito-en-la-web-guia-paso-a-paso-para-cambiar-videos-3gp-a-3g2-con-movavi/"><u>Gratuito en La Web: Guía Paso a Paso Para Cambiar Videos 3GP a 3G2 Con Movavi</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gunstige-methode-geschutzte-dvds-mit-dem-mac-x-dvd-ripper-kostenlos-zu-extrahieren/"><u>Günstige Methode, Geschützte DVDs Mit Dem Mac X DVD Ripper Kostenlos Zu Extrahieren</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-a56s-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo A56s 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/outstanding-features-make-nixplay-seed-a-market-favorite/"><u>Outstanding Features Make Nixplay Seed a Market Favorite</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-your-document-creation-the-best-10-chatgpt-compatible-pdf-plugins-to-save-time-and-effort/"><u>Streamline Your Document Creation: The Best 10 ChatGPT-Compatible PDF Plugins to Save Time and Effort</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ai-leap-forward-key-differences-of-gpt-4-versus-gpt-35-decoded-for-you/"><u>The AI Leap Forward: Key Differences of GPT-4 Versus GPT-3.5 Decoded for You</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-danger-of-interacting-with-fraudgpt-tips-to-shield-your-digital-life-from-harm/"><u>The Danger of Interacting with FraudGPT - Tips to Shield Your Digital Life From Harm</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-pitfalls-of-using-ai-chatbots-to-create-genuine-windows-11-serial-codes/"><u>The Pitfalls of Using AI Chatbots to Create Genuine Windows 11 Serial Codes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-workforce-revolution-top-6-motivators-for-learning-chatgpt/"><u>The Workforce Revolution: Top 6 Motivators for Learning ChatGPT</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-coloredge-clarity-redefined-examining-eizos-4kcg318-display/"><u>[New] 2024 Approved ColorEdge Clarity Redefined – Examining EIZO’s 4KCG318 Display</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-scrutinizing-vsdc-screen-recording-capabilities/"><u>[Updated] In 2024, Scrutinizing VSDC Screen Recording Capabilities</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlocking-asmrs-health-perks-a-guide/"><u>[Updated] In 2024, Unlocking ASMR's Health Perks A Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-tonal-triumphs-the-art-of-hue-enhancement/"><u>[Updated] Tonal Triumphs The Art of Hue Enhancement</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-free-subtitle-services-the-ultimate-convertors-guide/"><u>2024 Approved Free Subtitle Services The Ultimate Convertors Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c12-plus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia C12 Plus to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-beyond-betting-in-depth-vegas-pro-21-analysis/"><u>In 2024, Beyond Betting In-Depth Vegas Pro '21 Analysis</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unbeatable-11-audio-devices-reviewed-here-for-2024/"><u>Unbeatable 11 Audio Devices Reviewed Here for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-in-the-office-combine-onlyoffices-docspace-features-with-chatgpt-for-better-results/"><u>Unlocking Potential in the Office: Combine ONLYOFFICE's DocSpace Features With ChatGPT for Better Results</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-to-professional-cover-letters-through-chatgpt-assistance/"><u>Unlocking the Secrets to Professional Cover Letters Through ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-behind-chatgpts-shared-link-functionality/"><u>Unveiling the Secrets Behind ChatGPT's Shared Link Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-unique-characteristics-of-nlp-vs-machine-learning-in-artificeal-intelligence/"><u>Unveiling the Unique Characteristics of NLP vs Machine Learning in Artificeal Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-anthropics-new-claude-prompts/"><u>Utilizing Anthropic's New Claude Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/veiled-preservation-of-private-gpt-interactions/"><u>Veiled Preservation of Private GPT Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-consider-a-local-llm-unlock-the-potential-benefits-and-recognize-the-risks/"><u>Why Consider a Local LLM? Unlock the Potential Benefits and Recognize the Risks</u></a></li>
 </ul></div>
 

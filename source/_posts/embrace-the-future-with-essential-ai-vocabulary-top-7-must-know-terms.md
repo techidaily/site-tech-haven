@@ -1,7 +1,7 @@
 ---
 title: Embrace the Future with Essential AI Vocabulary - Top 7 Must-Know Terms
-date: 2024-08-29T02:15:21.027Z
-updated: 2024-08-30T02:15:21.027Z
+date: 2024-11-14T18:46:28.708Z
+updated: 2024-11-18T18:00:24.250Z
 tags:
   - cutting-edge
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  AI is advancing at breakneck speed. If you want to keep up with the times, it's crucial that you know the jargon used by AI companies and marketers. Here are seven AI terms commonly used in everyday discourse to help you become an informed participant.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1  Artificial Intelligence (AI) vs AGI (Artificial General Intelligence) 
 
  AI companies often talk about achieving AGI. What is it, and how does it differ from [today's AI](https://buynow-info.techidaily.com/the-best-google-wireless-nest-doorbell-battery-version-on-the-market-expert-review/)?
@@ -30,6 +37,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The textbook definition of AI is computer systems that can perform tasks requiring human-like intelligence. However, current [AI tools don't fully meet this definition](https://extra-hints.techidaily.com/is-picku-the-ultimate-answer-to-enhancing-your-android-photos/). They only show glimpses of human-like intelligence, focused on specific tasks.
 
 ![A human like robot hanging out with a human](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1-a-human-like-robot-hanging-out-with-a-human.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -43,9 +57,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![A robot hallucinating.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-a-robot-hallucinating.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek | Midjourney
 
  ver asked ChatGPT a question and got a perfect-sounding answer—until you realized it was made up? That's AI hallucination.
@@ -59,20 +70,16 @@ Dibakar Ghosh / How-To Geek | Midjourney
  Researchers are working to reduce hallucinations, but it's still a problem. As it stands, the best defense against hallucinations is you. Always do your due diligence when using AI, and double check any facts it generates, especially when it sounds too good, or weird to be true.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3  Neural Networks 
 
 ![a human brain structure made with wires](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3-a-human-brain-structure-made-with-wires.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek | Midjourney
 
  Neural networks are computing systems inspired by the organization of neurons in animal brains—hence the name. The idea is to create computational models that can process information and learn in ways inspired by (not necessarily identical to) biological neural systems.
@@ -85,10 +92,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  Also, some neural networks—especially deep learning models (more on that in the next section)—are hard to interpret. Understanding how they reach conclusions can be tricky. This is the [black box problem](https://umdearborn.edu/news/ais-mysterious-black-box-problem-explained). Researchers are working on more interpretable models and ways to explain AI decisions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 4  Machine Learning vs Deep Learning 
 
 ![A robot has a lightbulb for a head and it's turned on as it reads a book](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-a-robot-has-a-lightbulb-for-a-head-and-it-s-turned-on-as-it-reads-a-book.png) 
@@ -108,6 +111,13 @@ Dibakar Ghosh / How-To Geek | Midjourney
 ## 5  Natural Language Processing (NLP) 
 
 ![A human face made up of words](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-a-human-face-made-up-of-words.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -133,16 +143,17 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  Transformer models are the technology behind powerful tools like Google's BERT (Bidirectional Encoder Representations from Transformers) or ChatGPT (Chat Generative Pre-trained Transformer). However, it's not just text generation, as these tools are also useful for computer vision and speech recognition.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7  Large Language Models 
 
 ![Massive library with endless rows of digital books and screens](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-massive-library-with-endless-rows-of-digital-books-and-screens.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Dibakar Ghosh / How-To Geek | Midjourney
 
  Large Language Models (LLMs) are powerful Transformer models trained on massive text datasets. They have billions or trillions of parameters and primarily focus on language-specific workloads. ChatGPT, or GPT specifically, is an LLM. Claude, Gemini, and Llama are all examples of LLMs.
@@ -163,8 +174,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +181,20 @@ Dibakar Ghosh / How-To Geek | Midjourney
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-dominate-your-niche-on-fb-with-these-10-keyword-strategies/"><u>[New] Dominate Your Niche on FB with These 10 Keyword Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pilots-toolkit-top-drones-must-have-gear-and-replacements/"><u>2024 Approved Pilot's Toolkit Top Drones Must-Have Gear and Replacements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030138039-youtube/"><u>無料で楽しむためのYoutube動画ダウンロードテクニック</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/alternatives-to-adobe-premiere-pro-for-multi-monitor-editing-efficiency/"><u>Alternatives to Adobe Premiere Pro for Multi-Monitor Editing Efficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-trust-4k-video-downloader-for-hd-content-conversion/"><u>Can You Trust 4K Video Downloader for HD Content Conversion?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/convert-itunes-media-to-high-quality-mp4-files-a-step-by-step-guide/"><u>Convert iTunes Media to High-Quality MP4 Files: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cprmwindows11-2024/"><u>CPRM解除フリーソフトを使って、Windows11で最適化された音楽体験 - 2024年のオススメ</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-rectifying-broken-audio-features-in-astro-a50-noise-cancelling-gaming-headphones/"><u>Expert Solutions: Rectifying Broken Audio Features in Astro A50 Noise Cancelling Gaming Headphones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030029160-fc2/"><u>FC2動画の安全なダウンロードができるベストサイト:紹介</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-g2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo G2 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-color-grading-a-look-at-luts-significance-for-2024/"><u>Navigating Color Grading A Look at LUT's Significance for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/triggering-gpt-alerts-for-detecting-con-art-ai-systems/"><u>Triggering GPT Alerts for Detecting Con Art AI Systems</u></a></li>
+</ul></div>
 

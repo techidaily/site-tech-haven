@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Customize & Optimize Your iPhone Control Center with Expert Advice From ZDNET"
-date: 2024-10-14T16:08:13.940Z
-updated: 2024-10-21T16:57:30.481Z
+date: 2024-11-12T17:34:33.732Z
+updated: 2024-11-18T23:45:52.558Z
 tags:
   - apple
 categories:
@@ -28,29 +28,9 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -59,6 +39,13 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -69,10 +56,16 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -91,6 +84,13 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -106,10 +106,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -154,18 +154,24 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ultimate-ios-simulators-for-virtual-playstation-experience/"><u>[Updated] 2024 Approved Ultimate iOS Simulators for Virtual PlayStation Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/efficiently-harnessing-gpt-3-in-your-python-projects-step-by-step-tutorial/"><u>Efficiently Harnessing GPT-3 in Your Python Projects: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-professional-game-with-chatgpt-the-definitive-guide-to-an-intelligent-personal-assistant-at-work/"><u>Elevate Your Professional Game with ChatGPT: The Definitive Guide to an Intelligent Personal Assistant at Work</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/europes-ai-governance-and-its-influence-on-ai-driven-interactive-tools-such-as-gpt/"><u>Europe's AI Governance & Its Influence on AI-Driven Interactive Tools Such as GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-our-picked-top-10-best-tools-similar-to-chatgpt/"><u>Explore Our Picked Top 1^0 Best Tools Similar to ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-anthropics-ai-creative-suite/"><u>Exploring Anthropic's AI Creative Suite</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-bert-vs-gpt-insights-into-advanced-language-models-for-ai-enthusiasts/"><u>Exploring BERT Vs. GPT: Insights Into Advanced Language Models for AI Enthusiasts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-htc-u23-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From HTC U23 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-enhance-networked-stream-quality-with-vlc-for-2024/"><u>How to Enhance Networked Stream Quality with VLC for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/important-factors-for-acquiring-secondhand-ipads-5-must-know-tips/"><u>Important Factors for Acquiring Secondhand iPads - 5 Must-Know Tips</u></a></li>
-<li><a href="https://facebook.techidaily.com/introducing-virtual-reality-to-messaging-on-fb-platform/"><u>Introducing Virtual Reality to Messaging on FB Platform</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-safe-termination-of-drives-while-preserving-ongoing-tasks/"><u>Resolved: Safe Termination of Drives While Preserving Ongoing Tasks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/syma-x5c-in-depth-guide-optimal-choice-to-lift-off-as-a-beginner-for-2024/"><u>Syma X5C In-Depth Guide Optimal Choice to Lift Off as a Beginner for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-precision-focused-speech-conversion-using-google-services/"><u>[Updated] 2024 Approved Precision-Focused Speech Conversion Using Google Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-the-age-update-process-on-tiktok/"><u>2024 Approved Streamline the Age Update Process on TikTok</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/diverse-tongues-common-purpose-in-classrooms/"><u>Diverse Tongues, Common Purpose in Classrooms</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/effective-strategies-for-real-time-video-sharing-on-facebook/"><u>Effective Strategies for Real-Time Video Sharing on Facebook</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-asus-rog-phone-7-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-honor-x50iplus-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Honor X50i+ and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/instantaneously-unleashing-web-based-agents-with-agentgpt/"><u>Instantaneously Unleashing Web-Based Agents with AgentGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-the-power-of-windows-diskusage-for-storage-optimization/"><u>Leveraging the Power of Windows' DiskUsage for Storage Optimization</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-gpt-navigate-through-the-openai-interface-easily/"><u>Mastering GPT-Navigate Through the OpenAI Interface Easily!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-ai-coding-assistance-comparing-the-capabilities-of-base-copilot-versus-the-enhanced-copilot-pro/"><u>Maximizing AI Coding Assistance: Comparing the Capabilities of Base Copilot Versus the Enhanced Copilot Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/must-have-server-enclosures-and-racks-industry-experts-choice/"><u>Must-Have Server Enclosures & Racks - Industry Experts' Choice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-around-chatgpts-input-size-constraint-for-extended-dialogues/"><u>Navigating Around ChatGPT's Input Size Constraint for Extended Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-future-of-tech-in-business-harnessing-powerful-insights-from-chatgpt-and-whisper-apis/"><u>Navigating the Future of Tech in Business: Harnessing Powerful Insights From ChatGPT and Whisper APIs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-the-chatgpt-is-busy-hurdle-on-windows-platform/"><u>Overcoming the 'ChatGPT Is Busy' Hurdle on Windows Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/plan-like-a-pro-on-a-budget-top-eb-free-ai-itinerary-generators-and-chatgpt-applications-for-travel-buffs/"><u>Plan Like a Pro on a Budget: Top Eb-Free AI Itinerary Generators & ChatGPT Applications for Travel Buffs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-to-archive-and-retrieve-past-chatgpt-dialogues-whenever-you-need-them/"><u>Simple Steps to Archive and Retrieve Past ChatGPT Dialogues Whenever You Need Them</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/sony-xperia-5-v-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 5 V Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-interfacing-with-ai-via-quoras-poe-feature/"><u>Step-by-Step Guide: Interfacing With AI via Quora's Poe Feature</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Avoid Wasting Money on iPhone 16 - Understanding Apple's Tech Capabilities | ZDNet
-date: 2024-10-18T17:13:48.204Z
-updated: 2024-10-21T22:32:13.935Z
+date: 2024-11-15T17:11:24.116Z
+updated: 2024-11-18T20:50:39.792Z
 tags:
   - apple
 categories:
@@ -46,22 +46,15 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -70,13 +63,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -105,10 +91,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
@@ -123,6 +109,13 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -130,6 +123,13 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -165,18 +165,20 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-twitter-elite-moments-live-on-snapchat/"><u>[New] Twitter Elite Moments Live on Snapchat</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722646358739-dysregulated-signaling-pathways-contribute-to-the-development-of-either-osteolytic-or-osteoblastic-metastatic-bone-lesions/"><u>Dysregulated Signaling Pathways Contribute to the Development of Either Osteolytic or Osteoblastic Metastatic Bone Lesions.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-fixes-for-overcoming-chatgpt-authentication-and-access-hurdles/"><u>Easy Fixes for Overcoming ChatGPT Authentication and Access Hurdles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-data-management-for-chatgpt-conversations-our-picks/"><u>Effortless Data Management for ChatGPT Conversations: Our Picks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-best-online-learning-paths-for-artificebial-intelligence-prompt-creation/"><u>Explore the Best Online Learning Paths for Artificebial Intelligence Prompt Creation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-dawn-of-artificial-intelligence/"><u>Exploring the Dawn of Artificial Intelligence</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/getting-your-foot-in-the-channels-door-must-haves/"><u>Getting Your Foot in the Channel's Door Must-Haves</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-visual-impact-a-comprehensive-guide-to-zooms-video-filters/"><u>In 2024, Mastering Visual Impact A Comprehensive Guide to Zoom's Video Filters</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-fixing-androids-wireless-sign-in-problems/"><u>Mastering the Art of Fixing Android's Wireless Sign-In Problems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-art-of-image-detection-opposite-on-facebook-networks/"><u>The Art of Image Detection Opposite on Facebook Networks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-step-into-virtual-reality-top-converters-for-seamless-video-conversion-for-2024/"><u>Updated Step Into Virtual Reality Top Converters for Seamless Video Conversion for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/your-guide-to-the-finest-youtube-subtitles-extractor-for-2024/"><u>Your Guide to the Finest YouTube Subtitles Extractor for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cloud-costs-2024s-top-storages-and-cheapest-options/"><u>[New] Cloud Costs 2024'S Top Storages & Cheapest Options</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-highlighted-best-free-efficient-3d-videos-player-software/"><u>[Updated] 2024 Approved Highlighted Best Free, Efficient 3D Videos Player Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-selecting-best-vhs-edits-via-computer/"><u>[Updated] Guide to Selecting Best VHS Edits via Computer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-avoid-every-interruption-the-ultimate-guide-to-7-adblocking-tools/"><u>[Updated] In 2024, Avoid Every Interruption The Ultimate Guide to 7 AdBlocking Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/building-confidence-against-youtube-critiques/"><u>Building Confidence Against YouTube Critiques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-best-sound-quality-on-windows-fresh-microsoft-audio-driver-release-free-downloads-here/"><u>Get the Best Sound Quality on Windows: Fresh Microsoft Audio Driver Release – Free Downloads Here</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-realme-gt-5-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Realme GT 5 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-gen-ai-escalating-cybersecurity-concerns/"><u>Next-Gen AI: Escalating Cybersecurity Concerns</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-gen-tech-showcase-the-5-best-ai-hardware-developments-to-watch/"><u>Next-Gen Tech Showcase: The 5 Best AI Hardware Developments to Watch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/novelists-toolbox-expanded-9-uses-of-chatgpt-for-crafting-stories/"><u>Novelists' Toolbox Expanded: 9 Uses of ChatGPT for Crafting Stories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/palm-2-vs-gpt-4-showdown-unveiling-the-divergences-in-next-gen-language-models/"><u>PaLM 2 Vs. GPT-4 Showdown: Unveiling the Divergences in Next-Gen Language Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/probing-the-dependability-of-zerogpt-tools-including-others/"><u>Probing the Dependability of ZeroGPT Tools, Including Others</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/retrieve-whats-gone-expert-tips-on-reclaiming-deleted-chatgpt-exchange-records/"><u>Retrieve What's Gone: Expert Tips on Reclaiming Deleted ChatGPT Exchange Records</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-online-research-how-artificial-intelligence-is-reshaping-site-exploration/"><u>Revolutionizing Online Research: How Artificial Intelligence Is Reshaping Site Exploration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-real-and-unreal-top-8-ai-advances/"><u>Revolutionizing Real & Unreal: Top 8 AI Advances</u></a></li>
 </ul></div>
 

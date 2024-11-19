@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Mystery: A Comprehensive Guide to Understanding Blockchains"
-date: 2024-08-29T02:16:04.598Z
-updated: 2024-08-30T02:16:04.598Z
+date: 2024-11-15T01:32:54.959Z
+updated: 2024-11-18T23:24:24.229Z
 tags:
   - cutting-edge
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/0c8f696950ea736c2174f2d7e8a74906124afdbd8
 
  If you've been watching the news lately, you might have heard about something called a blockchain. It's a concept that makes data ultra-secure for specific uses. You've probably heard it [in connection with Bitcoin](https://extra-support.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/), but it has applications far beyond everyone's favorite cryptocurrencies. Here's a quick explanation of how it works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  It All Begins with Encryption
 
 Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/) 
@@ -29,9 +36,6 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
 
 [Modern encryption, though, is entirely digital](https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-finding-your-ideal-recorder-macos/). Today's computers use methods of encryption that are so complex and so secure that it would be impossible to break them by simple math done by humans. Computer encryption technology isn't perfect, though; it can still be "cracked" if smart enough people attack the algorithm, and data is still vulnerable if someone aside from the owner finds the key. But even consumer-level encryption, like the AES 128-bit encryption that's now standard on the iPhone and Android, is enough to keep locked data away from the FBI.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ##  The Blockchain Is a Collaborative, Secure Data Ledger
 
  Encryption is normally used to lock files so they can only be accessed by specific people. But what if you have information that needs to be seen by everyone---like, say, the accounting information for a government agency that has to be public by law---and still needs to be secure? There, you have a problem: the more people that can see and edit information, the less secure it is.
@@ -41,8 +45,12 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/12/img_5a2f47a3a8652.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  This idea is sort of resistant to metaphors, but imagine you're in a group of ten people assembling a LEGO set. You can only add one piece at a time, and can't ever remove any pieces at all. Each member of the group must agree on specifically where the next piece goes. In this way, you can see all the pieces at any time---right back to the very first piece in the project---but you can only modify the latest piece.
 
  For something a bit more relevant, imagine a collaborative document, like a spreadsheet on Google Docs or Office 365\. Everyone who has access to the document can edit it, and every time they do, the change is saved and recorded as a new spreadsheet, then locked in the document history. So you can go back, step by step, through the changes made, but you can only add information to the latest version, not modify the past versions of the spreadsheet that have already been locked.
@@ -50,8 +58,12 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
  As you've probably heard, this idea of a secure, constantly-updated "ledger" is mostly being applied to financial data, where it makes the most sense. Distributed digital currencies like Bitcoin are the most common use of blockchains---in fact, the very first one was made for Bitcoin and the idea spread out from there.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Technical Stuff: Step By Step, Block By Block
 
  How does all of this actually play out on a computer? It's a combination of cryptography and peer-to-peer networking.
@@ -80,8 +92,18 @@ Related: [How Does BitTorrent Work?](https://win-answers.techidaily.com/overcomi
  And believe it or not, it gets even more complicated than this...but that's the basic idea.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Blockchain in Action: Show Me the (Digital) Money!
 
  So let's consider an example of how this applies to a cryptocurrency like Bitcoin. Say you have one Bitcoin and you want to spend it on a new car. (Or a bike, or a house, or a small-to-medium sized island nation---[however much one Bitcoin is worth this week.](https://tech-revival.techidaily.com/the-hidden-dangers-of-ai-preventing-info-leakage-in-chatbots-through-model-inversion-insights/)) You connect to the decentralized Bitcoin blockchain with your software, and you send your request in to transfer your Bitcoin to the seller of the car. Your transaction is then transmitted to the system.
@@ -92,16 +114,10 @@ Related: [How Does BitTorrent Work?](https://win-answers.techidaily.com/overcomi
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/gg/up/xsshot5193a0d05ad97.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.NUAzPxJoTL.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now, when you think of a blockchain as "secure," it's important to understand the context. Individual transactions are secure, and the total record is secure, so long as the methods used to secure the cryptography remain "uncracked." (And remember, this stuff is really hard to break---[even the FBI can't do it with mere computing resources alone](https://www.theverge.com/2017/11/7/16618992/fbi-texas-church-shooting-encryption).) But the weakest link in the blockchain is, well, you---the user.
 
  If you allow someone else to use your personal key to access the chain, or if they find it by simply hacking into your computer, they can make additions to the blockchain with your information, and there's no way to stop them. That's how Bitcoin gets "stolen" in [highly publicized attacks on major markets](https://www.cnbc.com/2017/12/07/bitcoin-stolen-in-hack-on-nicehash-cryptocurrency-mining-marketplace.html): it's the companies that were operating the markets, not the Bitcoin blockchain itself, that were compromised. And because the stolen Bitcoins are transferred to anonymous users, through a process that's verified by the blockchain and recorded forever, there's no way to find the attacker or retrieve the Bitcoin.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  What Else Can Blockchains Do?
 
  Blockchain technology started with Bitcoin, but it's such an important idea that it didn't stay there for long. A system that's constantly updated, accessible to anyone, verified by a non-centralized network, and incredibly secure, has a lot of different applications. Financial institutions like JP Morgan Chase and the Australian Stock Exchange are developing blockchain systems to secure and distribute financial data (for conventional money, not cryptocurrency like Bitcoin). The Bill & Melinda Gates foundation is hoping to use blockchain systems to provide free, distributed banking services to billions of people who can't afford a regular bank account.
@@ -116,8 +132,6 @@ Related: [How Does BitTorrent Work?](https://win-answers.techidaily.com/overcomi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +139,26 @@ Related: [How Does BitTorrent Work?](https://win-answers.techidaily.com/overcomi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-advanced-tips-excelling-at-slide-show-recordings/"><u>[New] 2024 Approved Advanced Tips Excelling at Slide Show Recordings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-customize-confidently-express-optimizing-your-voice-on-snapchat/"><u>[New] In 2024, Customize, Confidently Express Optimizing Your Voice on Snapchat</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unraveling-the-best-of-both-worlds-m1-macbook-choices/"><u>[New] Unraveling the Best of Both Worlds M1 MacBook Choices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-saving-powerpoint-presentation-to-video/"><u>[Updated] In 2024, Saving PowerPoint Presentation to Video</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-using-adobe-and-finding-substitutes/"><u>2024 Approved The Ultimate Guide to Using Adobe and Finding Substitutes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-15-pro-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 15 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-tecno-spark-20-proplus-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Tecno Spark 20 Pro+ Phone Network-Ready</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-11-pro-max-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 11 Pro Max WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-the-cloud-9-addon-in-kodi-matrix-and-leia-versions/"><u>Step-by-Step Guide: Setting Up the Cloud 9 Addon in Kodi (Matrix & Leia Versions)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-installing-and-activating-elementum-addon-on-nexus-matrix-and-kodi-devices/"><u>Step-by-Step Tutorial for Installing and Activating Elementum Addon on Nexus, Matrix & Kodi Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-transforming-wma-files-into-high-quality-m4a-format-on-pc-without-costs/"><u>Step-by-Step Tutorial: Transforming WMA Files Into High-Quality M4A Format on PC Without Costs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-12-free-and-reliable-anime-extensions-for-kodi-v20v19-install-without-a-sub/"><u>Top 12 Free & Reliable Anime Extensions for Kodi V20/V19: Install Without a Sub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-3-free-techniques-to-downloading-your-brightcove-content/"><u>Top 3 FREE Techniques to Downloading Your Brightcove Content</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-flac-to-mp3wav-converter-choose-the-perfect-audio-format-solution/"><u>Top-Rated FLAC to MP3/WAV Converter: Choose the Perfect Audio Format Solution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-adding-and-playing-videos-within-google-slide-decks/"><u>Ultimate Tutorial: Adding and Playing Videos Within Google Slide Decks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-gifv-the-ultimate-guide-to-converting-gifv-files-into-classic-gif-format/"><u>Understanding GIFV - The Ultimate Guide to Converting GIFV Files Into Classic GIF Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-editing-skills-with-mpeg-video-converter-factory-pro-essential-tips-and-tricks/"><u>Unleash Your Editing Skills with MPEG Video Converter Factory Pro: Essential Tips & Tricks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is It Time for You to Grab an Apple Vision Pro on Presale? Five Crucial Questions Answered by Experts at ZDNet
-date: 2024-11-04T22:06:22.748Z
-updated: 2024-11-07T17:39:52.882Z
+date: 2024-11-13T22:25:55.049Z
+updated: 2024-11-18T18:35:24.043Z
 tags:
   - apple
 categories:
@@ -34,13 +34,6 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. The camera
 
 Perhaps one of the most important features of any smartphone these days is the camera, so it is no surprise that camera quality is a big consideration for ZDNET editors. It probably is for you, too. The iPhone 16 lineup includes a new [Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/) feature that works in landscape or portrait mode with a button on the side of the iPhone. In addition, you can lightly press the button to show camera functions you can choose from, such as zoom, exposure, or focal lengths, by swiping between the options. 
@@ -52,19 +45,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 **Also:** [**I want to be excited about the iPhone 16's new camera button, but can't (for now)**](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/)
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
 
@@ -79,10 +59,10 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -107,6 +87,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
@@ -130,10 +117,10 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -141,6 +128,13 @@ Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am st
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -182,20 +176,24 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-becoming-an-instagram-video-conversation-guru-your-ultimate-guide/"><u>[New] In 2024, Becoming an Instagram Video Conversation Guru Your Ultimate Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevate-instagram-clips-incorporating-borders-effectively/"><u>2024 Approved Elevate Instagram Clips Incorporating Borders Effectively</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-chatgpt-limitations-the-ceiling-of-character-input-possibilities/"><u>Deciphering ChatGPT Limitations: The Ceiling of Character Input Possibilities</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/decouvrez-la-technique-de-deverouillage-des-codes-regionaux-de-dvd-pour-windows-11-8-et-7-methode-etape-par-etape/"><u>Découvrez La Technique De Déverouillage Des Codes Régionaux De DVD Pour Windows 11, 8 Et 7: Méthode Étape Par Étape</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/embarking-on-a-winchatgpt-experience/"><u>Embarking on a WinChatGPT Experience</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-your-granblue-fantasy-relink-error-on-pc-with-these-simple-steps/"><u>Fix Your Granblue Fantasy Relink Error on PC with These Simple Steps</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-x90s-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-80-pro-straight-screen-edition-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor 80 Pro Straight Screen Edition to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/insights-into-artificial-intelligence-mastering-transfer-learning/"><u>Insights Into Artificial Intelligence: Mastering Transfer Learning</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-efficiency-how-chatgpt-can-transform-your-schedule/"><u>Maximizing Efficiency: How ChatGPT Can Transform Your Schedule</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/motion-graphics-101-key-principles-and-methods/"><u>Motion Graphics 101 Key Principles & Methods</u></a></li>
-<li><a href="https://win-lab.techidaily.com/solucion-error-en-las-copias-de-seguridad-con-microsoft-onedrive-para-archivos-pst/"><u>Solución: Error en Las Copias De Seguridad Con Microsoft OneDrive Para Archivos PST</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-users-path-to-navigating-bing-with-advanced-ai-features-sign-up-explained/"><u>The User’s Path to Navigating Bing with Advanced AI Features: Sign-Up Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-distinctions-a-comparison-between-gpt-4-gpt-4-turbo-and-phi/"><u>Unveiling the Distinctions: A Comparison Between GPT-4, GPT-4 Turbo, and Phi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beijings-ice-arena-olympic-moments-2022/"><u>[New] Beijing's Ice Arena Olympic Moments, 2022</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-redefine-your-digital-world-with-latest-windows-10-gaming-and-apps/"><u>[Updated] In 2024, Redefine Your Digital World with Latest Windows 10 Gaming & Apps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-swiftness-at-a-click-managing-youtubes-video-speed-settings/"><u>[Updated] In 2024, Swiftness at a Click Managing YouTube's Video Speed Settings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726027637828-youtube/"><u>「簡単な解説：YouTube動画から効果的に字幕を削除する方法」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-discover-what-to-do-when-you-find-fluid-on-your-iphone-charging-port-2-effective-solutions/"><u>1. Discover What to Do When You Find Fluid on Your iPhone Charging Port: 2 Effective Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-macbook-enhancements-for-2aturate-your-laptop-expertly-tested-gear-of-2024/"><u>Essential MacBook Enhancements for 2Aturate Your Laptop | Expertly Tested Gear of 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016032241-fix-your-crackling-headphones-instantly-simple-troubleshooting-guide/"><u>Fix Your Crackling Headphones Instantly: Simple Troubleshooting Guide!</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-mastering-srt-text-management-with-proven-techniques/"><u>In 2024, Mastering SRT Text Management with Proven Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ios-16-update-woes-identifying-and-avoiding-bricking-risks-for-your-ipads-insiders-guide/"><u>IOS 16 Update Woes: Identifying and Avoiding Bricking Risks for Your iPads | Insider's Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-call-recording-guide-is-it-legal-step-by-step-process-covered/"><u>IPhone Call Recording Guide: Is It Legal? Step-by-Step Process Covered</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/struggling-to-share-your-videos-on-fb-try-out-our-top-10-rapid-remedies-for-easy-uploads/"><u>Struggling to Share Your Videos on FB? Try Out Our Top 10 Rapid Remedies for Easy Uploads!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-smartwatches-featuring-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated Smartwatches Featuring In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-solution-for-d3dx941dll-not-found-a-comprehensive-guide/"><u>Ultimate Solution for 'd3dx9_41.dll Not Found' - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-truth-about-lossless-sound-quality-in-todays-earphones-unveiling-the-facts-on-zdnet/"><u>Understanding the Truth About Lossless Sound Quality in Today's Earphones - Unveiling the Facts on ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-apples-strategy-clues-to-an-ai-integration-in-upcoming-iphones-insights-from-recent-buyout/"><u>Unveiling Apple's Strategy: Clues to an AI Integration in Upcoming iPhones - Insights From Recent Buyout</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-top-five-ios-18-highlights-from-apples-2024-wwdc-keynote-with-a-spotlight-on-revolutionary-ai-features-techcrunch/"><u>Unveiling Top Five iOS 18 Highlights From Apple's 2024 WWDC Keynote, with a Spotlight on Revolutionary AI Features | TechCrunch</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/upgrade-your-lenovo-thinkpad-t13-with-an-ssd-two-proven-methods/"><u>Upgrade Your Lenovo ThinkPad T13 with an SSD - Two Proven Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/zdnets-expert-selection-of-top-stylus-tablets-for-202n4-in-depth-analysis-and-ratings-best-of-the-year/"><u>ZDNet's Expert Selection of Top Stylus Tablets for 202N4: In-Depth Analysis and Ratings | Best of the Year</u></a></li>
 </ul></div>
 

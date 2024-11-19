@@ -1,7 +1,7 @@
 ---
 title: "IPhone Discoverability Alert: Journals Can Expose You by Default - Learn To Turn Off This Feature"
-date: 2024-10-21T19:19:08.270Z
-updated: 2024-10-27T17:13:04.513Z
+date: 2024-11-16T19:27:22.798Z
+updated: 2024-11-18T17:20:12.040Z
 tags:
   - apple
 categories:
@@ -44,31 +44,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to your iPhone Settings
 
 To find the Journal app setting, open your Settings app on your iPhone.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Find Privacy & Security
 
 Scroll down and open Privacy & Security within your Apple device's Settings app.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Tap on Journaling Suggestions
 
@@ -77,16 +70,10 @@ Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverabl
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
@@ -98,10 +85,10 @@ Maria Diaz/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **FAQ**
@@ -109,6 +96,13 @@ Maria Diaz/ZDNET
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
 
@@ -162,20 +156,14 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-instantly-stream-youtube-content-on-facebook-auto-play-guide/"><u>[New] 2024 Approved Instantly Stream YouTube Content on Facebook Auto-Play Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-techniques-that-elevate-your-ppt-recording-experience/"><u>[New] 2024 Approved Techniques that Elevate Your PPT Recording Experience</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-how-to-on-checking-your-sites-pages-pre-upload-for-errors-and-more/"><u>A How-To on Checking Your Site's Pages Pre-Upload for Errors and More</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-ati-radeon-hd-3450-driver-software-instantly/"><u>Get the Newest AMD ATI Radeon HD 3450 Driver Software Instantly</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/online-alter-ego-artistry-drawing-a-fancy-profile-for-2024/"><u>Online Alter-Ego Artistry Drawing a Fancy Profile for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/problembehebung-fur-fehlende-icloud-musikmedien-im-iphone-menu/"><u>Problembehebung Für Fehlende iCloud-Musikmedien Im iPhone Menü</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-rise-of-ai-in-academia-can-students-keep-up-with-chatgpts-speed/"><u>The Rise of AI in Academia: Can Students Keep Up with ChatGPT's Speed?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/truthgpt-coin-demystifying-the-cryptocurrency-is-it-a-trustworthy-investment-or-a-ploy/"><u>TruthGPT Coin – Demystifying the Cryptocurrency: Is It a Trustworthy Investment or a Ploy?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-honor-play-8t-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Honor Play 8T without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatbots-in-human-like-discussions/"><u>Understanding Chatbots in Human-Like Discussions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-gemini-15-the-significance-of-its-newfound-token-processing-power/"><u>Understanding Gemini 1.5: The Significance of Its Newfound Token Processing Power</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-impact-how-chatgpt-using-latest-info-benefits-us-all/"><u>Understanding the Impact: How ChatGPT Using Latest Info Benefits Us All</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-paperclip-maximization-dilemma-implications-for-artificial-intelligence/"><u>Understanding the Paperclip Maximization Dilemma: Implications for Artificial Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-chatgpts-api-capabilities/"><u>Unveiling the Power of ChatGPT's API Capabilities</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-fraps-revolutionizing-gamers-screen-recording/"><u>[New] 2024 Approved Fraps Revolutionizing Gamer's Screen Recording</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-essential-steps-for-organizing-youtube-content/"><u>[New] Essential Steps for Organizing YouTube Content</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-a-unique-ai-writer-guidelebase-for-training-chatgpt-in-your-tone/"><u>Crafting a Unique AI Writer: Guidelebase for Training ChatGPT in Your Tone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-individualistic-gpt-3-writing-guidelines/"><u>Crafting Individualistic GPT-3 Writing Guidelines</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cyber-love-traps-how-artificial-intelligence-fuels-digital-relationship-swindles/"><u>Cyber Love Traps: How Artificial Intelligence Fuels Digital Relationship Swindles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-mysteries-of-claude-2/"><u>Decoding the Mysteries of Claude 2</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-x100-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo X100 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-episodes-your-guide-to-gpodc-mastery/"><u>Prime Episodes Your Guide to GPodC Mastery</u></a></li>
 </ul></div>
 

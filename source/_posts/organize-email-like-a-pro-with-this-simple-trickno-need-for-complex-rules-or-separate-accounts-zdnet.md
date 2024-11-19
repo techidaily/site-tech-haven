@@ -1,7 +1,7 @@
 ---
 title: Organize Email Like a Pro with This Simple Trick—No Need for Complex Rules or Separate Accounts | ZDNET
-date: 2024-10-14T22:55:33.087Z
-updated: 2024-10-21T20:51:10.791Z
+date: 2024-11-16T00:50:48.464Z
+updated: 2024-11-18T18:54:31.452Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,16 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -116,10 +110,10 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -160,21 +154,19 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-innovative-approaches-to-documenting-gaming-on-ps4/"><u>[New] In 2024, Innovative Approaches to Documenting Gaming on PS4</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-sonic-enhancements-for-whatsapp-updates-for-2024/"><u>[New] Sonic Enhancements for WhatsApp Updates for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-brighter-horizons-is-intense-light-for-hdr-right/"><u>[Updated] Brighter Horizons Is Intense Light for HDR Right?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-online-safety-what-are-the-top-6-security-risks-to-watch-out-for/"><u>ChatGPT and Online Safety - What Are the Top 6 Security Risks to Watch Out For?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-building-dynamic-web-apps-from-scratch/"><u>ChatGPT Mastery: Building Dynamic Web Apps From Scratch</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/confidentiality-concerns-evaluating-the-safety-of-sharing-sensitive-data-with-ai-like-chatgpt/"><u>Confidentiality Concerns: Evaluating the Safety of Sharing Sensitive Data with AI Like ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creating-distinctive-ai-art-with-microsoft-copilot-a-step-by-step-guide/"><u>Creating Distinctive AI Art with Microsoft Copilot: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-claude-pro-and-its-place-among-gpt-enhancements/"><u>Decoding Claude Pro and Its Place Among GPT Enhancements</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decreasing-phantom-data-from-ai-through-precision-prompts/"><u>Decreasing Phantom Data From AI Through Precision Prompts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-gpt4alls-complex-processes/"><u>Demystifying GPT4All's Complex Processes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/discover-answers-expert-faq-insights-for-digiarty-softwares-winx-dvd-on-windows-platforms/"><u>Discover Answers: Expert FAQ Insights for Digiarty Software's WinX DVD on Windows Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/francesco-del-vecchios-visionary-filmography-showcased-on-movavi/"><u>Francesco Del Vecchio's Visionary Filmography Showcased on Movavi</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo Y27s? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-web-research-with-leading-artifice-intelligence-based-search-platforms/"><u>Master Web Research with Leading Artifice Intelligence Based Search Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-anonymization-techniques-to-blur-faces/"><u>Advanced Anonymization Techniques to Blur Faces</u></a></li>
+<li><a href="https://driver-download.techidaily.com/boost-your-pcs-gameplay-download-the-new-steelseries-engine-for-windows-11-enthusiasts/"><u>Boost Your PC's Gameplay: [Download] The New SteelSeries Engine for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/conversion-gratuite-de-pef-a-ligne-movavi-un-guide-complet/"><u>Conversion Gratuite De PEF À Ligne - Movavi: Un Guide Complet</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/effortless-subtitle-acquisition-for-videos-using-vlcs-quick-download-capability/"><u>Effortless Subtitle Acquisition for Videos Using VLC's Quick Download Capability</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evolving-developer-workflows-with-ai/"><u>Evolving Developer Workflows with AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-reality-of-prompt-engineering-as-a-career-key-aspects/"><u>Exploring the Reality of Prompt Engineering as a Career: Key Aspects</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/future-of-digital-safety-7-key-trends/"><u>Future of Digital Safety: 7 Key Trends</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-automated-content-crafting/"><u>Harness the Power of Automated Content Crafting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-ais-power-for-creative-endeavors-an-insight-into-the-strengths-and-weaknesses-of-chatgpt/"><u>Harnessing AI's Power for Creative Endeavors: An Insight Into the Strengths and Weaknesses of ChatGPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-gpt-into-daily-schedules-easily/"><u>Integrating GPT Into Daily Schedules Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intuitive-guide-to-crafting-chatgpt-requests-using-a-powerful-chrome-enhancement/"><u>Intuitive Guide to Crafting ChatGPT Requests Using a Powerful Chrome Enhancement</u></a></li>
+<li><a href="https://techtrends.techidaily.com/masterclass-transforming-pets-gaze-in-portraits-with-editing-tools/"><u>Masterclass: Transforming Pet's Gaze in Portraits with Editing Tools</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
 </ul></div>
 

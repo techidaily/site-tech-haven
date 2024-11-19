@@ -1,7 +1,7 @@
 ---
 title: Understanding the Distinct Roles of ChatGPT, Siri, and Google Assistant in AI Technology
-date: 2024-08-29T02:14:51.661Z
-updated: 2024-08-30T02:14:51.661Z
+date: 2024-11-17T21:15:41.735Z
+updated: 2024-11-18T23:07:50.888Z
 tags:
   - cutting-edge
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 [ChatGPT is an impressive AI chatbot](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/), but digital assistants aren't new---Siri and Google Assistant have been around for years. People say these assistants feel "dumb" now, and they lost the "AI race," but their demise has been greatly exaggerated.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  ChatGPT is Not an Assistant
 
  ChatGPT and other AI chatbots---such as [Bing Chat](https://facebook-video-recording.techidaily.com/new-in-2024-the-insiders-look-at-securing-fb-status-videos/) and [Google Bard](https://video-screen-grab.techidaily.com/new-master-the-art-of-gameye-and-webcam-recordings/)\---have some things in common with "virtual assistants"---Google Assistant, Siri, and Alexa. They are all based on artificial intelligence and [machine learning](https://some-tips.techidaily.com/new-unleash-creative-potential-the-ultimate-hdr-guide/), but they function in very different ways.
@@ -31,8 +38,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 Related: [How to Replace Siri With ChatGPT on Your iPhone](https://remote-screen-capture.techidaily.com/updated-win10-gaming-sessions-best-recording-approaches/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  ChatGPT vs. Google Assistant vs. Siri
 
  Let's think about some things you might ask Google Assistant or Siri and see how ChatGPT handles them.
@@ -88,8 +99,12 @@ Related: [How to Replace Siri With ChatGPT on Your iPhone](https://remote-screen
 Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Liar, Liar
 
  The reminder prompt is a perfect example of an area where ChatGPT is not ready to replace virtual assistants. [ChatGPT is designed to generate human-like responses to answers](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/)\---so that's what it does. Humans are [very good at confidently being wrong](https://youtube-help.techidaily.com/free-method-to-record-your-youtube-watching-experience-for-2024/).
@@ -103,8 +118,12 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 Related: [ChatGPT Is an Impressive AI Chatbot That Can't Stop Lying](https://youtube-help.techidaily.com/free-method-to-record-your-youtube-watching-experience-for-2024/) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  ChatGPT: Impressive, But Not There Yet
 
  Now, ChatGPT isn't completely useless compared to the virtual assistants. There are some things that it does better. Impressively better, in fact.
@@ -125,8 +144,6 @@ Related: [8 Surprising Things You Can Do With ChatGPT](https://facebook-clips.te
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +151,20 @@ Related: [8 Surprising Things You Can Do With ChatGPT](https://facebook-clips.te
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-applications-for-animating-3d-scenes/"><u>[New] Premium Applications for Animating 3D Scenes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-affordable-wonders-in-virtual-reality-headsets-from-china/"><u>2024 Approved Affordable Wonders in Virtual Reality Headsets From China</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-internet-humorista-hub/"><u>2024 Approved Internet Humorista Hub</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-whisperers-is-claude-outmatching-gpt/"><u>Artificial Whisperers: Is Claude Outmatching GPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/craft-compelling-stories-with-ease-leveraging-chatgpts-storytelling-magic/"><u>Craft Compelling Stories with Ease – Leveraging ChatGPT's Storytelling Magic</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dall-e-3-enhances-with-new-editing-features-room-for-improvement-ahead/"><u>DALL-E 3 Enhances with New Editing Features - Room for Improvement Ahead</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maintaining-privacy-protocols-effective-strategies-for-working-with-chatgpt-safely/"><u>Maintaining Privacy Protocols: Effective Strategies for Working with ChatGPT Safely</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unleash-your-creativity-top-rated-online-animation-software-for-video-making-for-2024/"><u>New Unleash Your Creativity Top-Rated Online Animation Software for Video Making for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-performance-tips-to-overcome-graphics-hitching-in-video-game-v/"><u>PC Performance Tips to Overcome Graphics Hitching in Video Game 'V'</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-ai-creation-the-recent-enhancement-for-building-tailored-gpt-models-on-chatgpt/"><u>Revolutionizing AI Creation: The Recent Enhancement for Building Tailored GPT Models on ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-writing-exploring-the-effects-of-ai-conversational-agents-in-content-creation/"><u>Revolutionizing Writing: Exploring the Effects of AI Conversational Agents in Content Creation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/speech-to-text-solutions-for-engaging-ppts/"><u>Speech-to-Text Solutions for Engaging PPTs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-puzzle-of-ai-deciphering-black-box-algorithms/"><u>The Puzzle of AI: Deciphering Black Box Algorithms</u></a></li>
+</ul></div>
 

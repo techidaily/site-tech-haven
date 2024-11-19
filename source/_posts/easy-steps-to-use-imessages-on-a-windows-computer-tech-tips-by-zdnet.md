@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Use iMessages on a Windows Computer | Tech Tips by ZDNet
-date: 2024-10-19T18:03:52.860Z
-updated: 2024-10-21T16:20:57.139Z
+date: 2024-11-13T22:49:37.469Z
+updated: 2024-11-18T19:01:35.980Z
 tags:
   - apple
 categories:
@@ -63,10 +63,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -79,25 +79,11 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -106,16 +92,10 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -131,6 +111,13 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -165,10 +152,10 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Send a message
@@ -176,6 +163,13 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,17 +207,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-capture-creativity-iosandroids-best-caption-apps/"><u>[New] Capture Creativity IOS/Android’s Best Caption Apps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-quick-content-in-a-facebook-frame-for-2024/"><u>[Updated] Quick Content in a Facebook Frame for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/guide-to-effective-video-capturing-via-screencastify-for-2024/"><u>Guide to Effective Video Capturing via Screencastify for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-boosting-roi-in-fb-ads-through-animation-techniques/"><u>In 2024, Boosting ROI in FB Ads Through Animation Techniques</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-7-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 7 in the Best Ways</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimal-plug-ins-for-unmatched-gpt-and-vs-code-performance/"><u>Optimal Plug-Ins for Unmatched GPT & VS Code Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/peering-into-predictive-ais-functioning-mechanism/"><u>Peering Into Predictive AI's Functioning Mechanism</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/predictions-for-increasing-vulnerabilities-with-generative-ai-technologies/"><u>Predictions for Increasing Vulnerabilities with Generative AI Technologies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-yourself-from-5-common-chatgpt-deception-techniques/"><u>Protect Yourself From 5 Common ChatGPT Deception Techniques</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-guide-to-shoot-and-upload-immersive-footage-on-fb-for-2024/"><u>The Ultimate Guide to Shoot & Upload Immersive Footage on FB for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/time-saving-tactics-for-saving-google-voice-speeches/"><u>Time-Saving Tactics for Saving Google Voice Speeches</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-v30-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-instagrams-filters-a-comprehensive-guide-to-enhance-your-posts/"><u>[New] Unveiling Instagram's Filters A Comprehensive Guide to Enhance Your Posts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production-for-2024/"><u>[Updated] SDR Vs. HDR The Superiority of High Dynamic Range in Video Production for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-simplified-breaking-down-complex-concepts-into-easy-terms/"><u>AI Simplified: Breaking Down Complex Concepts Into Easy Terms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-generative-artifice-intelligence-techniques-transforming-into-novel-methods-of-disseminating-false-information/"><u>Are Generative Artifice Intelligence Techniques Transforming Into Novel Methods of Disseminating False Information?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-chatgpt-discover-7-robust-programming-alternatives-with-ai-capabilities/"><u>Beyond ChatGPT: Discover 7 Robust Programming Alternatives with AI Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-co-pilot-for-car-modifications-how-to-get-started/"><u>ChatGPT as a Co-Pilot for Car Modifications: How to Get Started</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-top-six-troubleshooting-tips-fixing-the-most-common-gaffes/"><u>ChatGPT's Top Six Troubleshooting Tips: Fixing the Most Common Gaffes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/coding-in-the-age-of-artificial-intelligence/"><u>Coding in the Age of Artificial Intelligence</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-y200-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y200 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-netgear-c3700-a-versatile-cable-modem-and-wireless-router-combo/"><u>In-Depth Analysis of the Netgear C3700: A Versatile Cable Modem and Wireless Router Combo</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/g-fx-magic-a-novices-step-into-animated-worlds/"><u>Making FX Magic A Novice's Step Into Animated Worlds</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-printing-on-windows-11-10-and-8-download-the-latest-epson-artisan-1430-drivers-today/"><u>Seamless Printing on Windows 11, 10 & 8: Download the Latest Epson Artisan 1430 Drivers Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-26-free-pc-maintenance-tools-the-ultimate-registry-cleaners-list-2024-edition/"><u>Top 26 Free PC Maintenance Tools: The Ultimate Registry Cleaners List - 2024 Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlocking-the-secrets-to-efficient-image-capturing-for-2024/"><u>Unlocking the Secrets to Efficient Image Capturing for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/visual-consistency-through-masterful-use-of-luts-in-ae/"><u>Visual Consistency Through Masterful Use of LUTs in AE</u></a></li>
 </ul></div>
 

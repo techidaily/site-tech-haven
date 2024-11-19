@@ -1,7 +1,7 @@
 ---
 title: "Rediscovering the Classics: MSN, GameSpy, Winamp & More Memorable Tech Relics"
-date: 2024-08-29T02:12:24.798Z
-updated: 2024-08-30T02:12:24.798Z
+date: 2024-11-16T23:26:02.521Z
+updated: 2024-11-18T16:29:18.837Z
 tags:
   - desktop
 categories:
@@ -37,9 +37,6 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  These days you don’t need middleware like GameSpy, with matchmaking integrated into platforms like Xbox Live and Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  MSN, [AIM](https://my.screenname.aol.com/), [ICQ](https://www.icq.com) 
 
 **You might also remember:** iChat, Gaim (Pidgin), Jabber
@@ -51,8 +48,12 @@ A lot of your favorite old software has been lost to the sands of time, much of 
  Modern equivalents include Apple’s Messages, Meta’s WhatsApp, and upstarts like Signal and Telegram.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Flash and Shockwave
 
 **You might also remember:** Microsoft Silverlight, Java Web Plugin, 3D Groove
@@ -62,6 +63,13 @@ A lot of your favorite old software has been lost to the sands of time, much of 
  The result was an outpouring of creativity, from memorable animation series like [_Xiao Xiao_](https://en.wikipedia.org/wiki/Xiao%5FXiao) and [_Homestar Runner_](https://homestarrunner.com) to online games like [_Line Rider_](https://www.linerider.com) and [_Super Meat Boy_](https://en.wikipedia.org/wiki/Super%5FMeat%5FBoy). Websites like [Newgrounds](https://www.newgrounds.com) became incubators for all manner of creators, and even video streaming websites like YouTube depended on Flash to get off the ground.
 
  Adobe purchased Flash in 2005, but it was clear that the web would eventually move away from browser plugins in favor of native technologies. Apple’s refusal to allow Flash on the iPhone and the increasing threat of Flash-based malware confirmed that the end was nigh. You can still [enjoy a huge library of Flash games using Flashpoint](https://vimeo-videos.techidaily.com/updated-rhythmic-revelations-adding-audio-to-your-vimeo-videos-for-2024/) (which now includes support for other plugins too).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Centralized P2P Software: [Napster](https://www.napster.com/us), KaZaA, WinMX and Others
 
@@ -74,11 +82,22 @@ A lot of your favorite old software has been lost to the sands of time, much of 
  While many of these services no longer exist in any capacity, Napster came back to life as a music streaming service that still exists today.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## [Winamp](http://www.winamp.com) 
 
 ![The official Winamp skin museum.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/winamp_skins.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **You might also remember:** iTunes, Sonic Stage, Windows CD Player
 
@@ -102,9 +121,6 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
 ![The mIRC IRC client running in Windows 11 can replace Discord too](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/mirc.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Internet relay chat, or IRC for short, is an internet chat protocol that first appeared in 1988\. It works using a series of servers, on which users chat within channels. It’s not dissimilar to a modern chat solution like Discord (so much so that [we gave it a nod in our Discord alternatives roundup](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-6s-without-previous-owner-by-drfone-ios/)). Unlike Discord, chat history isn’t saved to the server and is not retrievable later.
 
 [mIRC](https://www.mirc.com) was the Windows IRC client of choice for many users. Like GameSpy, IRC was an invaluable tool in the early days of online gaming, where users could hang out in channels, organize matches, advertise servers, and follow each other into games. Many server providers would offer support over IRC as it was the fastest way to get issues resolved at the time.
@@ -121,9 +137,6 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  Though dial-up has largely been replaced in the US, [a very small percentage of users still connect to the internet using dial-up](https://screen-mirroring-recording.techidaily.com/updated-kids-car-clubbing-capers-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Defunct Browsers: Internet Explorer, Netscape Navigator
 
 **You might also remember:** Mozilla, Internet Explorer for Mac
@@ -134,9 +147,6 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  By the time Chrome joined the race in 2008, Internet Explorer was falling out of favor. Though Internet Explorer 11 will officially be supported for the best part of a decade yet, the browser has effectively been abandoned in favor of [Chromium-based Microsoft Edge](https://facebook-video-recording.techidaily.com/updated-unlocking-organic-growth-your-afb-playbook/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## [eJay](https://www.ejayshop.com) 
 
  A deep cut for some, [eJay](https://www.ejayshop.com) was one of the easiest (and most limiting) ways to make music on a computer in the late 90s and early 2000s. At a time when “proper” [digital audio workstations](https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-x7-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/) like Fruity Loops and Ableton Live seemed complex with demands for expensive sound cards and powerful computers, eJay let you throw a track together in a matter of minutes.
@@ -144,6 +154,19 @@ A lot of your favorite old software has been lost to the sands of time, much of 
  The app came bundled with a set of loops that fell into categories like drums, percussion, bass, lead, vocals, and so on. These loops could be dragged and dropped onto a timeline, layered, and combined however you liked. There were countless sample packs and versions of eJay released covering different genres like dance, techno, hip-hop, and more.
 
  Amazingly, eJay still exists and you can buy old versions that promise to work on versions of Windows up to Windows 10.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Desktop Pets: Dogz, Catz, Bonzi Buddy
 
@@ -165,8 +188,6 @@ A lot of your favorite old software has been lost to the sands of time, much of 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +195,24 @@ A lot of your favorite old software has been lost to the sands of time, much of 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-sonic-storytelling-with-soundtracks-in-imovie/"><u>[Updated] Sonic Storytelling with Soundtracks in iMovie</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-a-comprehensive-list-of-prime-tablets-for-photo-editing-lovers/"><u>2024 Approved A Comprehensive List of Prime Tablets for Photo Editing Lovers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/charting-the-course-top-8-reasons-for-teacher-ai-synergy/"><u>Charting the Course: Top 8 Reasons for Teacher-AI Synergy</u></a></li>
+<li><a href="https://driver-download.techidaily.com/discover-whats-new-with-the-updated-logitech-extreme-3d-software/"><u>Discover What's New with the Updated Logitech Extreme 3D Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-authenticity-in-machine-generated-text/"><u>Evaluating Authenticity in Machine-Generated Text</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-strategies-for-seamless-chatgpt-extension-functionality/"><u>Expert Strategies for Seamless ChatGPT Extension Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-ai-perception-errors-how-to-detect-when-machines-see-wrongly/"><u>Exploring AI Perception Errors - How to Detect When Machines See Wrongly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-top-7-ai-integrations-inside-the-functionality-of-gpt-4-powered-apps/"><u>Exploring the Top 7 AI Integrations: Inside the Functionality of GPT-4 Powered Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/graphics-legacy-radeon-reloaded/"><u>Graphics Legacy Radeon Reloaded</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-10-innovative-ideas-to-shield-your-webcam/"><u>In 2024, 10 Innovative Ideas to Shield Your Webcam</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lightning-foldout-sculpting-rapidly-produced-google-collage-pics/"><u>In 2024, Lightning Foldout Sculpting Rapidly Produced Google Collage Pics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pivotal-data-analysis-excel-delivers-no-ai-matches/"><u>Pivotal Data Analysis Excel Delivers No AI Matches</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-to-reduce-high-ping-enhancing-your-multiplayer-gaming-experience-in-back-4-blood/"><u>Quick Fixes to Reduce High Ping: Enhancing Your Multiplayer Gaming Experience in Back 4 Blood</u></a></li>
+<li><a href="https://facebook.techidaily.com/uncover-long-standing-bonds-historical-facebook-views/"><u>Uncover Long-Standing Bonds: Historical Facebook Views</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-large-language-models-functionality-and-applications/"><u>Understanding Large Language Models: Functionality & Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/using-a-vpn-is-it-possible-to-connect-to-chatgpt/"><u>Using a VPN: Is It Possible To Connect To ChatGPT?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-monetization-tips-how-many-views-do-you-really-need-to-make-money/"><u>YouTube Monetization Tips How Many Views Do You Really Need to Make Money</u></a></li>
+</ul></div>
 

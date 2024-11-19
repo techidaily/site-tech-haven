@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Implementing Child Safety Features on Windows 11"
-date: 2024-08-29T02:13:21.637Z
-updated: 2024-08-30T02:13:21.637Z
+date: 2024-11-12T17:09:50.480Z
+updated: 2024-11-18T20:04:04.816Z
 tags:
   - deals
 categories:
@@ -40,14 +40,15 @@ thumbnail: https://thmb.techidaily.com/9687aa834ae00807e9d2f77ee77a3ac9fdfd8db29
 
 ![Add someone to Microsoft Families.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/add-someone-to-family.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, follow the instructions to set up a new Microsoft account for your child. You will create an Outlook email and password for them during these steps.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Link a Child's Account to a Windows Device
 
  To make the Family app to show the child's device, link their Microsoft account to their Windows user profile. They shouldn't be using a local account.
@@ -55,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/9687aa834ae00807e9d2f77ee77a3ac9fdfd8db29
  If they were using a local account, log in to the child's Windows profile, press Win + i, head to Account > Your Info, and click the "Sign in With a Microsoft Account Instead" link.
 
 ![The link to sign in with Microsoft account in Windows 11's settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot_2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, enter the child's Microsoft account details to sign in and link it with their Windows device.
 
@@ -64,17 +72,28 @@ thumbnail: https://thmb.techidaily.com/9687aa834ae00807e9d2f77ee77a3ac9fdfd8db29
 
 ![Adding a new user account on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/adding-user-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, follow the instructions to sign in to the child's Microsoft account.
 
  To complete the link, open the Family app while you're logged into your child's Windows account. To do that, press Win + S to open Windows Search. Enter **Family** in the Search box, and then click the Family app in the search results to launch it.
 
 ![Opening the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-family-app-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you're ready to start setting limits on the child's account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Using the Microsoft Family App on Windows
 
  In your Windows account, open the Family app and select the child's account. From there, you can control their screen time, app usage, and the websites they visit.
@@ -89,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/9687aa834ae00807e9d2f77ee77a3ac9fdfd8db29
 
 ![The screen time schedule for a Windows device in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/child-account-screentime-limits-windows-family-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The "Time Limit" column is the number of hours the child can use the computer once they log into their account. For instance, if you set it to five hours, the computer will automatically lock once the child exceeds those hours.
 
  The "Available Hours" column is the number of hours a child can log into their account. For instance, if the "Time Limit" is set from 7:00 AM to 10:00 PM, your child won't be able to log in from 10:01 PM to 06:59 AM.
@@ -96,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/9687aa834ae00807e9d2f77ee77a3ac9fdfd8db29
  To edit the time limits, click on a day (i.e. "Sunday" or "Friday") in the Days column. This will open a window where you can adjust the times.
 
 ![Setting screen time limits on a device in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/setting-limit-windows-devices-family-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use the dropdown in this window to control days individually. Alternatively, you can set it to "Every Day" and adjust the screen times for all the days simultaneously. When finished, click "Done" to apply the limits to the child's Windows device.
 
@@ -109,22 +142,12 @@ thumbnail: https://thmb.techidaily.com/9687aa834ae00807e9d2f77ee77a3ac9fdfd8db29
 
 ![Setting limits on an app on Windows 11 in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/block-app-windows-family-app-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Blocking the app will prevent the child from using it. But if you choose "Set Limits," you can adjust the active times and available times.
 
 ![Setting app and game limits on Windows 11 in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot_110.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And when you're finished, click "Done" to apply the changes and limit the app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ###  Blocking Websites
 
  When you block websites in the Family app, the only browser these restrictions apply to is Microsoft Edge. However, that is not a problem since enabling the limits blocks access to all other browsers. 
@@ -133,27 +156,25 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Turning on activity reporting for Microsoft Edge in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-on-activity-reporting.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  Then, scroll down and turn on the "Filter Inappropriate Websites and Searches" toggle.
 
 ![Turning on the toggle to filter websites in the Family app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-on-edge-filter-settings-family-app-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  If you want, you can also turn on the "Only Use Allowed Websites" toggle to limit the child to only those websites that you approve or educational sites.
 
  To add a blocked site, scroll down to the "Block Sites" section, enter the site's URL in the text box, and click the plus sign.
 
 ![Adding websites to block in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/block-websites-family-app-windows-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The child won't be able to access that website now. You can repeat these steps to add as many sites as you want.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Managing Account Settings
 
  You can also apply more restrictions to the child's device by managing their account settings. To access them, click "Settings" in the top right.
@@ -161,15 +182,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![The "Settings" option in the Family app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/settings-family-app-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Here, you can set things like the minimum age limits for apps or if the child requires your approval to purchase things. That latter is very important if your child is a gamer in the [age of microtransactions](https://facebook-video-share.techidaily.com/new-in-2024-essential-list-7-cost-free-video-tags-extractors-on-youtube/) and [gacha video games](https://extra-approaches.techidaily.com/2024-approved-mirrored-moments-with-iphone-photography-expertise/). You can even choose whether to get weekly activity reports or instantly send yourself an activity report.
 
 ![The account settings of a child's account in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/child-account-settings-family-app-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Afterward, click "Done" to save the changes you've made.
 
 ---
@@ -182,8 +204,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +211,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-zero-cost-chromebook-recorders-for-2024/"><u>[New] Best Zero Cost Chromebook Recorders for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tudio-setup-starters-top-17-lights-and-more-for-2024/"><u>[New] Studio Setup Starters - Top 17 Lights & More for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-3-best-ios-video-editors-free-tips-and-guides/"><u>[New] Top 3 Best iOS Video Editors FREE Tips & Guides</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-is-consumer-feedback-compensated-in-vlogs-in-2024/"><u>[Updated] Is Consumer Feedback Compensated in Vlogs, In 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-the-power-of-quoras-tools-your-pathway-to-innovative-conversations-with-ai-chatbots-and-language-models/"><u>Harnessing the Power of Quora's Tools: Your Pathway to Innovative Conversations with AI Chatbots & Language Models</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-c55-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Realme C55 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-convert-facebook-video-to-mp4-720p1080phd-online-and-free-for-2024/"><u>How to Convert Facebook Video to MP4 720P/1080p/HD Online and Free for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/merits-of-solo-use-auto-gpt-or-not/"><u>Merits of Solo Use: Auto-GPT or Not?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-most-typical-challenges-of-auto-gpt-integration-solutions-uncovered/"><u>Navigating the Most Typical Challenges of Auto-GPT Integration: Solutions Uncovered</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-launches-game-changing-gpt-4-artificial-intelligence-model/"><u>OpenAI Launches Game-Changing GPT-4 Artificial Intelligence Model</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pcmusicfmitunes/"><u>PC向けMusicFM音楽配信・iTunesへの同期方法公開</u></a></li>
+<li><a href="https://fox-search.techidaily.com/rapidly-transfer-your-gmail-contacts-to-icloud-using-these-simple-techniques/"><u>Rapidly Transfer Your Gmail Contacts to iCloud Using These Simple Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/real-gpt-tips-to-dodge-scammers/"><u>Real GPT Tips to Dodge Scammers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-recognizing-and-preventing-5-critical-chatbot-traps/"><u>The Ultimate Guide to Recognizing and Preventing 5 Critical Chatbot Traps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-using-chatgpt-for-interview-success/"><u>The Ultimate Guide to Using ChatGPT for Interview Success</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-y27-4g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo Y27 4G Location | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-9-risks-why-relying-on-ai-for-mental-health-support-can-be-hazardous/"><u>Top 9 Risks: Why Relying on AI for Mental Health Support Can Be Hazardous</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-airtag-wallet-selections-for-2-reviews-and-comparisons/"><u>Top-Rated AirTag Wallet Selections for 2# Reviews & Comparisons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-your-bot-potential-mastering-board-games-and-image-creation-with-chatgpts-gpt-bots/"><u>Unleashing Your Bot Potential: Mastering Board Games & Image Creation with ChatGPT's GPT Bots</u></a></li>
+</ul></div>
 

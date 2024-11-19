@@ -1,7 +1,7 @@
 ---
 title: Leverage No-Cost Artificial Intelligence Tools for Image Alt Text Creation
-date: 2024-08-29T02:15:39.362Z
-updated: 2024-08-30T02:15:39.362Z
+date: 2024-11-14T18:27:10.596Z
+updated: 2024-11-18T23:27:04.636Z
 tags:
   - cutting-edge
 categories:
@@ -16,6 +16,19 @@ Perhaps you’ve heard of AI-driven web tools like the [Bing AI Image Creator](h
 ##  What is an AI Alternative Text Generator?
 
  An AI alt-text generator is an online tool for writing useful descriptions of images for accessibility and image replacement. Many photo uploading tools these days require a quick sentence describing the photo called alt-text. It can be harder than it seems at first to write a short, succinct, and helpful description of an uploaded picture. The AI-driven alternative text generators take the guesswork out of a description by writing a sentence for you that you can choose to edit or use without any changes.
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Why Would I Use an AI Alternative Text Generator?
 
@@ -41,25 +54,23 @@ ahrefs
 
 ![List of descriptions of a tree image given as options by the ahrefs alternative text generator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screen-shot-2024-02-01-at-6-58-34-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ahrefs
 
  In the end, I found that the “Middle School” voice was the most useful and efficient. The Ahrefs alt text generator gave me this: “A tall pine tree standing in a park with green grass and blue sky in the background.” This is a more useful and accurate description for a screen reader or an image replacement if the picture is missing.
 
 ![The landing page for Microsoft Bing Copilot with an entry field to chat with Copilot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screen-shot-2024-02-12-at-9-01-51-am.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 Microsoft Bing Copilot
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Bing Copilot Needs a Little Guidance
 
  Though [Microsoft Bing Copilot](https://www.bing.com/search?toncp=0&FORM=hpcodx&q=Bing+AI&showconv=1) isn't specifically designed for alternative text creation, it's more than up to the task. It does require a free Microsoft account to create with Bing Copilot, so I signed in and I uploaded my picture of a tree to my new Copilot chat. Then I asked Copilot to "write me accessible alt text for this picture."
@@ -79,8 +90,12 @@ Microsoft Bing Copilot
 Alttext.in
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Alttext.In Highlights Accessibility and Simplicity
 
  Next up I tried Alttext.in. One thing that I noticed immediately about this alt text creator was the accessible nature of the landing page itself. It's just one page, with one option to upload the image. So, I shared the picture of the big tree, and this is what I got: "a tall tree with green leaves."
@@ -88,15 +103,23 @@ Alttext.in
 ![The landing page of Alttext.in with a tree photo uploaded and a description generated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screen-shot-2024-02-02-at-4-07-17-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Alttext.in
 
  True to its promise, Alttext.in delivered a quick, accessible experience with a picture summary to match. Once you copy the text that was generated, you can click Reset and go again. The site is free, lightweight, and accurate. There were no downsides that I could see.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  If You Have ChatGPT Plus, It's Even Easier
 
  While it isn't free, another option is ChatGPT Plus, which has [strong capabilities when it comes to accessibility](https://some-techniques.techidaily.com/2024-approved-evaluating-video-performance-vlc-versus-mx/). The mobile app makes it quick and easy to grab a picture from your photos, and send it to ChatGPT immediately for alt text processing. It may be worth it to pay for something like [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/) if you upload photos often and find yourself generating alt text on a regular basis, so you can get your description in a couple of taps instead of using a browser-based upload tool. No matter what, it's important that we take the time to create alt text for our photos.
@@ -107,8 +130,6 @@ Alttext.in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +137,23 @@ Alttext.in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-mastering-channel-promotion-youtubes-featured-channels-guide/"><u>[Updated] In 2024, Mastering Channel Promotion YouTube's Featured Channels Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/disney/"><u>「無料のため、簡単にDisney映画を配信場所と方法がわかる」</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/clearing-out-instagrams-suggested-content-for-a-personalized-feed-experience/"><u>Clearing Out Instagram's Suggested Content for a Personalized Feed Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-highest-honors-in-computex-202-how-to-geeks-expert-selection/"><u>Discover the Highest Honors in Computex 202지 - How-To Geek's Expert Selection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-how-to-enjoy-your-dvd-collection-on-an-lg-smart-tv-without-using-a-separate-dvd-player/"><u>Easy Guide: How to Enjoy Your DVD Collection on an LG Smart TV Without Using a Separate DVD Player</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-tricks-on-making-your-videos-ready-for-itunes-streaming-and-downloads/"><u>Easy Tricks on Making Your Videos Ready for iTunes Streaming & Downloads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-methods-for-improving-windows-video-clarity-and-resolution/"><u>Effortless Methods for Improving Windows Video Clarity and Resolution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-video-streaming-from-usb-devices-on-your-panasonic-television/"><u>Effortless Video Streaming From USB Devices on Your Panasonic Television</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-converting-league-of-legends-game-recordings-from-rofl-to-mp4/"><u>Guide: Converting League of Legends Game Recordings - From ROFL to MP4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hassle-free-access-secrets-revealed-for-immediate-cricket-footage-retrievals/"><u>Hassle-Free Access: Secrets Revealed for Immediate Cricket Footage Retrievals</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-microsofts-driver-verification-hurdles/"><u>How to Overcome Microsoft's Driver Verification Hurdles</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-xiaomi-civi-3-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Xiaomi Civi 3 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-and-yi-4k-battle-royale-of-high-resolution-cams-in-23/"><u>In 2024, GoPro and Yi 4K Battle Royale of High-Resolution Cams in '23</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-twitch-reversion-made-simple-top-ten-instructions-at-hand/"><u>In 2024, Twitch Reversion Made Simple Top Ten Instructions at Hand</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-fb-story-sharing-a-four-step-guide-for-2024/"><u>Mastering FB Story Sharing A Four-Step Guide for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/successfully-installing-asus-ac56-network-adapter-on-windows-10-including-windows-11-8-and-7/"><u>Successfully Installing ASUS AC56 Network Adapter on Windows 10 (Including Windows 11, 8, and 7)</u></a></li>
+</ul></div>
 

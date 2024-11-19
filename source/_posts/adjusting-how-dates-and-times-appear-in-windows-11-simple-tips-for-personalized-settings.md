@@ -1,7 +1,7 @@
 ---
 title: "Adjusting How Dates & Times Appear in Windows 11: Simple Tips for Personalized Settings"
-date: 2024-08-29T02:13:25.417Z
-updated: 2024-08-30T02:13:25.417Z
+date: 2024-11-16T20:26:33.026Z
+updated: 2024-11-18T18:30:12.762Z
 tags:
   - deals
 categories:
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
  By default, Windows formats dates with slashes (MM/DD/YY). However, if you want to use a different format for the date, such as using periods instead of slashes (MM.DD.YY), that’s easy to change in Windows' settings. You can also change the format of the time. Some programs will even inherit the format you set in Windows. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ##  How to Access the Date and Time Format Settings in Windows 10
 
  If you’re using Windows 10, click on the Search box or button on the Taskbar. If you don’t see the Search box or button, you can easily [enable one or the other](https://remote-screen-capture.techidaily.com/updated-your-essential-guide-to-unmissable-gaming-adventures-for-2024/).
@@ -43,11 +40,22 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
 ![Date formats for "Short Date."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-date-formats.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You aren't limited to the pre-set options though—you can access a screen in the old Control Panel to enter a custom date or time format.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Customize the Date and Time Format in Windows 10
 
  To access the screen in the Control Panel that will allow you to enter a custom date or time format, search the Start Menu for "Date and Time" and open the "Date and Time Settings" result. 
@@ -58,23 +66,28 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
 ![Scroll down and select "Date, Time, & Regional Formatting."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-date-time-regional-formatting.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Scroll down _again_, then click the “Additional date, time, & regional settings” link under Related settings.
 
 ![Select "Additional Date, Time & Regional Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-additional.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  We've just jumped from the Settings app to the original Control Panel. Click "Change Date, Time, or Number Formats" under the "Region" section. 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ![Click](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-change-date-time-formats.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  Now, we will set up a custom date using periods. Click "Additional Settings," found at the bottom of the "Formats" tab. 
 
  This dialog box allows you to select built-in date and time formats just like the Change Date and Time Formats screen in PC Settings in Windows 10.
@@ -85,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
 ![Select the "Date" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-select-date.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  In the Date formats section, the “Short date” drop-down list box is also an edit box, allowing you to enter a different format. Here are the formatting options you can use for the date: 
 
 * **d** \- The shortest possible number to represent the day. If it is the 5th of the month, it'll say 5; if it is the 25th of the month, it'll say 25\.
@@ -109,14 +119,24 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
 
 ![Short date format changed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-short-date.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  You can tweak the short date, long date, and time displays in the exact same fashion. Once you're done, click the "Apply" button to see how it looks, and then click the "OK" button to close the window. If you decide you dislike the format you've entered, you can always click "Reset" to restore the default settings. 
 
  Our custom date format with the periods now displays in the notification area of the Taskbar.
 
 ![The custom time format displayed on the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-time-displayed-on-task-bar.png) 
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note that when you change the date or time format back to a different format, after entering a custom format, the custom format is not preserved as a choice. You would have to enter it again to change to that custom format.
 
@@ -126,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +153,26 @@ thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/re-you-violating-copyright-by-screenrecording-youtube-in-2024/"><u>[New] Are You Violating Copyright by ScreenRecording YouTube, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-precision-followers-gps-drones-of-the-year/"><u>[New] Precision Followers GPS Drones of the Year</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy-dominates-the-idc-marketscape-the-pioneering-force-in-document-processing/"><u>ABBYY Dominates the IDC MarketScape: The Pioneering Force in Document Processing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-skills-the-foremost-five-ai-prompt-design-courses-on-the-web/"><u>Elevate Your Skills: The Foremost Five AI-Prompt Design Courses on the Web</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-vocabulary-in-artificial-intelligence-top-29-keywords-explained/"><u>Essential Vocabulary in Artificial Intelligence: Top 29 Keywords Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-basics-of-transfer-learning-in-artifice-intelligence/"><u>Exploring the Basics of Transfer Learning in Artifice Intelligence</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-create-events-on-facebook/"><u>How to Create Events on Facebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-leverage-llama-2s-power-tools/"><u>How to Leverage Llama 2'S Power Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-5-lite-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 5 Lite Phone with Broken Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-reno-9a-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo Reno 9A Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-strategies-to-enhance-your-video-game-plot-with-chatgpt-assistance/"><u>Innovative Strategies to Enhance Your Video Game Plot with ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-running-chatgpt-on-linux-with-ease/"><u>Mastering the Art of Running ChatGPT on Linux with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-your-workouts-with-efficient-chatgpt-prompts-tips-and-tricks/"><u>Maximizing Your Workouts with Efficient ChatGPT Prompts: Tips & Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-customer-service-integrating-chatgpt-with-whatsapp/"><u>Seamless Customer Service: Integrating ChatGPT with WhatsApp</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-cool-play-smooth-finding-your-gpus-comfort-zone/"><u>Stay Cool, Play Smooth: Finding Your GPU's Comfort Zone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-dealing-with-mss32dll-error-missing-or-not-detected/"><u>Troubleshooting Steps: Dealing with mss32.dll Error - Missing or Not Detected</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-creative-potential-with-these-8-dall-e-3-keywords/"><u>Unlocking Creative Potential with These 8 DALL-E 3 Keywords</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-mini-marvel-powershot-g7x-mark-ii/"><u>Unveiling the Mini Marvel - PowerShot G7X Mark II</u></a></li>
+</ul></div>
 

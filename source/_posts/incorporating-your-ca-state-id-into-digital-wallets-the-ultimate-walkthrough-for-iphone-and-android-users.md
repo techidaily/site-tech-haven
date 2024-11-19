@@ -1,7 +1,7 @@
 ---
 title: "Incorporating Your CA State ID Into Digital Wallets: The Ultimate Walkthrough for iPhone & Android Users"
-date: 2024-10-14T20:37:53.706Z
-updated: 2024-10-21T20:53:57.186Z
+date: 2024-11-11T20:33:37.829Z
+updated: 2024-11-18T16:30:13.035Z
 tags:
   - apple
 categories:
@@ -30,11 +30,25 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -45,10 +59,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -57,25 +71,11 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -85,18 +85,24 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,18 +140,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-unique-thumbnails-for-youtube-content/"><u>[New] 2024 Approved Crafting Unique Thumbnails for YouTube Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-deciphering-the-code-a-deep-dive-into-recording-whatsapp-messages-for-2024/"><u>[New] Deciphering the Code A Deep Dive Into Recording WhatsApp Messages for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-explore-the-best-webcams-on-your-windows-10-pc-for-2024/"><u>[New] Explore the Best Webcams on Your Windows 10 PC for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-crafting-conversational-slides-with-powerpoints-speech-features/"><u>[New] In 2024, Crafting Conversational Slides with PowerPoint's Speech Features</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-navigating-the-top-10-for-streamed-television-for-2024/"><u>[New] Navigating the Top 10 for Streamed Television for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-master-your-media-best-ios-players-for-phones-and-tablets/"><u>[Updated] Master Your Media Best iOS Players for Phones & Tablets</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/blueprint-for-a-viral-solitary-audio-experience/"><u>Blueprint for a Viral Solitary Audio Experience</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-captivating-valorant-video-thumbnails-on-youtube-for-2024/"><u>The Art of Captivating Valorant Video Thumbnails on YouTube for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-eus-approach-to-regulating-ai-potential-effects-on-digital-assistants-such-as-chatgpt/"><u>The EU's Approach to Regulating AI: Potential Effects on Digital Assistants Such as ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-perils-of-ai-penned-literature/"><u>The Hidden Perils of AI-Penned Literature</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-key-to-fluent-conversations-gpts-language-decoding-power/"><u>The Key to Fluent Conversations: GPT's Language Decoding Power</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-no-cost-ai-applications-for-crafting-expert-emails-using-chatgpt-and-organizing-messages/"><u>Top 5 No-Cost AI Applications for Crafting Expert Emails Using ChatGPT and Organizing Messages</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-s-top-10-streaming-video-services-free-ones-available/"><u>Updated In 2024, S Top 10 Streaming Video Services Free Ones Available</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-screen-logger-az-audits-and-diversions/"><u>[New] 2024 Approved Ultimate Screen Logger - AZ Audits & Diversions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-directly-engage-with-facebooks-video-offerings-via-your-apple-device/"><u>[New] Directly Engage with Facebook's Video Offerings via Your Apple Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-streaming-made-easy-with-these-11-advanced-recording-tips-for-2024/"><u>[Updated] Streaming Made Easy with These 11 Advanced Recording Tips for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chapter-by-chapter-discover-how-chatgpt-transforms-novel-writing-in-9-ways/"><u>Chapter by Chapter: Discover How ChatGPT Transforms Novel Writing in 9 Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/commanding-artificial-intelligence-best-educational-sessions/"><u>Commanding Artificial Intelligence: Best Educational Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparative-analysis-of-publicly-available-information-sources-traditional-and-contemporary-models/"><u>Comparative Analysis of Publicly Available Information Sources: Traditional and Contemporary Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/desktop-dominance-why-chatgpts-computer-version-excels-over-its-online-counterpart/"><u>Desktop Dominance: Why ChatGPT's Computer Version Excels Over Its Online Counterpart</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-manage-and-disable-recommended-podcast-episodes-in-spotify/"><u>In 2024, How to Manage and Disable Recommended Podcast Episodes in Spotify</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 </ul></div>
 

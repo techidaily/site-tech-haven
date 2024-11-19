@@ -1,7 +1,7 @@
 ---
 title: Discover Astonishing Applications of ChatGPT's Powerful Image Analysis Capabilities
-date: 2024-08-29T02:15:18.177Z
-updated: 2024-08-30T02:15:18.177Z
+date: 2024-11-16T19:18:49.025Z
+updated: 2024-11-18T23:11:59.238Z
 tags:
   - cutting-edge
 categories:
@@ -48,29 +48,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![ChatGPT Listing DVD titles from a photo](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/5-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can probably already think of a bunch of uses for this, but what immediately came to mind was finding things in my physical collection. For example, I asked ChatGPT where my copy of "Dune" was in the image, and it did a good job, apart from mistaking the top of the bookshelf as one of the shelves.
 
 ![ChatGPT attemps to locate a book on a shelf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/6-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Various Accessibility Options
 
  Combined with ChatGPT's new voice chat capabilities in the mobile app, ChatGPT Plus's image input abilities have turned it into a potent accessibility tool. Since you can take photos and send them straight to ChatGPT, and then use the chat mode (by tapping the headphone icon to have a conversation about the image. So if you have visual problems that prevent you from parsing complicated scenes, but can still frame a photo, this could be a game changer.
@@ -78,8 +72,12 @@ Key features:
 ![Chat GPT Makes ALT Text from a submitted photo](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/7-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you use images on your website, or post images on social media platforms, you can also use this new feature of ChatGPT to write rich and descriptive [ALT text](https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-y27-5g-unlock-without-password-by-drfone-android/). This is text that screen readers for visually-impaired users can use to provide descriptions of images. For the most part these are manually written, for example both Facebook and X (formerly Twitter) let you add ALT text to images you post. If you care about accessibility or visually-impaired audiences, you can now use this feature of ChatGPT to quickly write a rich ALT text description and then simply check it for correctness.
 
 ##  Creating AI Image Prompts From Images
@@ -88,12 +86,6 @@ Key features:
 
 ![ChatGPT attempts to write a prompt that would result in a similar image to the example](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/8-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Writing Based on AI Images
 
  We can flip things around, and instead of asking for a prompt to generate images, ask ChatGPT to use images that we've generated using AI as inspiration for creative writing. In this case, I've generated some fantasy art, and then asked ChatGPT to come up with a story idea that goes with it. You could use this as a springboard for your own creativity.
@@ -101,8 +93,19 @@ Key features:
 ![ChatGPT writing a story based on a generated image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/9-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **The Tip of the Iceberg** 
 
  These are just some of the most low-hanging fruit when it comes to visual input in ChatGPT. I expect over the coming days and weeks creative users will come up with even more ways this can make life easier or let people get more done. Of course, we also expect some new nefarious uses will be part and parcel of that, but only time will tell. For now, geeks have a hot new toy to play with.
@@ -113,8 +116,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +123,21 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-strategy-for-perfect-xbox-screen-recordings/"><u>[New] 2024 Approved The Ultimate Strategy for Perfect Xbox Screen Recordings</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-break-free-from-discord-support/"><u>[New] In 2024, Break Free From Discord Support</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1080p-vs-4k-a-comprehensive-guide-on-their-distinctions-and-transforming-4k-footage-into-1080p-resolution/"><u>1080P Vs. 4K: A Comprehensive Guide on Their Distinctions and Transforming 4K Footage Into 1080P Resolution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/external-microphones-to-elevate-film-quality/"><u>External Microphones to Elevate Film Quality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-workspace-cloud-storage-hub/"><u>In 2024, Leading Workspace Cloud Storage Hub</u></a></li>
+<li><a href="https://review-topics.techidaily.com/insert-signature-in-wpd-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in .wpd file</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-macbook-pro-power-cycles-expert-advice/"><u>Mastering the Art of MacBook Pro Power Cycles: Expert Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-the-no-audio-hurdle-in-windows-1011-comprehensive-solutions-inside/"><u>Overcome the 'No Audio' Hurdle in Windows 10/11 – Comprehensive Solutions Inside</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723086046477-the-ultimate-guide-for-budget-minded-traffic-alert-devices-uncover-escortpassports-insightful-s55-examination/"><u>The Ultimate Guide for Budget-Minded Traffic Alert Devices - Uncover EscortPassport’s Insightful S55 Examination</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-your-hdtv-when-dvds-only-show-up-in-monochrome/"><u>Troubleshooting Your HDTV When DVDs Only Show Up in Monochrome</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/turn-off-subtitle-feature-easily-on-an-lg-smart-tv-complete-instructions/"><u>Turn Off Subtitle Feature Easily on an LG Smart TV – Complete Instructions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-choosing-the-best-midi-player-and-mastering-your-tracks/"><u>Ultimate Guide: Choosing the Best MIDI Player & Mastering Your Tracks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-transforming-videos-into-your-desired-format-seamlessly/"><u>Ultimate Guide: Transforming Videos Into Your Desired Format Seamlessly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-list-of-6-leading-mpeg-media-players-to-enhance-your-viewing-experience-on-all-devices/"><u>Ultimate List of 6 Leading MPEG Media Players to Enhance Your Viewing Experience on All Devices</u></a></li>
+</ul></div>
 

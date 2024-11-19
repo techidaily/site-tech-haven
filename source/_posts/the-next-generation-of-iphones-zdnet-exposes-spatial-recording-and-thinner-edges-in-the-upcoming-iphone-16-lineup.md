@@ -1,7 +1,7 @@
 ---
 title: "The Next Generation of iPhones: ZDNet Exposes Spatial Recording and Thinner Edges in the Upcoming iPhone 16 Lineup"
-date: 2024-10-14T19:57:20.254Z
-updated: 2024-10-21T18:20:16.754Z
+date: 2024-11-17T18:40:39.713Z
+updated: 2024-11-18T16:06:31.408Z
 tags:
   - apple
 categories:
@@ -45,6 +45,19 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
@@ -58,16 +71,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
@@ -77,13 +84,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -103,9 +103,23 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -115,13 +129,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -129,13 +136,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417993%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417993.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -171,21 +171,22 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-crafting-inspiring-interview-experiences/"><u>[Updated] 2024 Approved Crafting Inspiring Interview Experiences</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-melodic-minutes-streamlined-strategies-for-viral-music-on-youtub/"><u>[Updated] Melodic Minutes Streamlined Strategies for Viral Music on YouTub</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tap-into-endless-stock-imagery-through-favorite-4-youtube-vids/"><u>2024 Approved Tap Into Endless Stock Imagery Through Favorite 4 Youtube Vids</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-the-start-up-sequence-of-windows-os/"><u>Decoding the Start-Up Sequence of Windows OS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-5-youtube-link-shortener-you-must-try/"><u>In 2024, Top 5 YouTube Link Shortener You Must Try</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-iphone-connectivity-problems-with-chatgpt-a-guide-to-9-key-tips/"><u>Overcoming iPhone Connectivity Problems with ChatGPT: A Guide to 9 Key Tips</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/perfect-drone-companions-for-skilled-pilots-top-5/"><u>Perfect Drone Companions for Skilled Pilots (Top 5)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/proton-vpn-extension-your-gateway-to-secure-browsing/"><u>Proton VPN Extension: Your Gateway to Secure Browsing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/safeguard-your-information-the-importance-of-not-relying-on-chatgpt-for-personal-details/"><u>Safeguard Your Information: The Importance of Not Relying on ChatGPT for Personal Details</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/scam-alert-fake-gpt-programs-may-lead-to-privacy-breaches/"><u>Scam Alert: Fake GPT Programs May Lead to Privacy Breaches</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-activating-ai-capabilities-in-bing-app-on-android-platforms/"><u>Step-by-Step Tutorial: Activating AI Capabilities in Bing App on Android Platforms</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/streaming-showdown-netflix-apple-tvplus-and-disneyplus-compared-who-takes-the-crown/"><u>Streaming Showdown: Netflix, Apple TV+ & Disney+ Compared - Who Takes the Crown?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-your-routine-with-chatgpt-explore-9-key-methods/"><u>Streamline Your Routine with ChatGPT: Explore 9 Key Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-artisans-companion-how-chatgpt-enhances-your-story-crafting-abilities/"><u>The Artisan's Companion: How ChatGPT Enhances Your Story Crafting Abilities</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-2024-scanners-polices-choice-revealed/"><u>Top 2024 Scanners: Police's Choice Revealed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-luminouslabs-top-10-free-and-paid-filters-compare/"><u>[New] 2024 Approved LuminousLabs Top 10 Free & Paid Filters Compare</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-strategies-for-effective-ppt-sharing-in-google-meet-sessions/"><u>[Updated] 2024 Approved Strategies for Effective PPT Sharing in Google Meet Sessions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-10-immersive-traits-in-filmoras-editing-software/"><u>[Updated] 2024 Approved Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-authenticity-avoiding-copyright-infringement/"><u>ChatGPT Authenticity: Avoiding Copyright Infringement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-unveiled-navigating-through-8-significant-obstacles/"><u>ChatGPT Unveiled: Navigating Through 8 Significant Obstacles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/contrastive-analysis-the-8-unique-features-of-myai-on-snapchat-against-bing-chat-on-skype/"><u>Contrastive Analysis: The 8 Unique Features of MyAI on Snapchat Against Bing Chat on Skype</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deleting-gpt-3-complete-step-guide/"><u>Deleting GPT-3: Complete Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-how-chatgpt-can-revolutionize-your-time-management-techniques-5-tips-inside/"><u>Discover How ChatGPT Can Revolutionize Your Time-Management Techniques (5 Tips Inside)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-seven-key-upgrades-elevating-googles-bard-ai-with-palm-2-technology/"><u>Discover the Seven Key Upgrades Elevating Google's Bard AI with PaLM 2 Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dodge-scams-authentic-gpt-usage/"><u>Dodge Scams: Authentic GPT Usage</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210405688-9781956736908-dusty-roads-australia/"><u>Dusty Roads Australia | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-chatgpt-now-with-gpt-4-integration/"><u>Elevate Your ChatGPT Now with GPT-4 Integration</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-loom-capture-toolkit-essential-screen-casts-tips/"><u>In 2024, Loom Capture Toolkit Essential Screen Casts Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-fix-authentication-hiccups-with-android-wlan/"><u>Mastering the Fix: Authentication Hiccups with Android WLAN</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-master-key-to-a-clutter-free-steam-account-game-deletion-guide/"><u>The Master Key to a Clutter-Free Steam Account: Game Deletion Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-5-exceptional-sleep-monitoring-apps-on-your-apple-watch/"><u>The Ultimate List: 5 Exceptional Sleep Monitoring Apps on Your Apple Watch</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/top-strategies-for-finding-and-using-a-lost-iphone-x-for-2024/"><u>Top Strategies for Finding & Using a Lost iPhone X for 2024</u></a></li>
 </ul></div>
 

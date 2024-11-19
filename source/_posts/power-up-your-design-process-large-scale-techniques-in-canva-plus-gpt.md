@@ -1,7 +1,7 @@
 ---
 title: "Power Up Your Design Process: Large Scale Techniques in Canva + GPT"
-date: 2024-08-24T12:56:15.539Z
-updated: 2024-08-25T12:56:15.539Z
+date: 2024-11-12T20:14:38.144Z
+updated: 2024-11-18T17:57:35.679Z
 tags:
   - chatgpt
   - open-ai
@@ -44,14 +44,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +57,30 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-high-dynamic-range-the-future-of-photo-techniques/"><u>[New] Harnessing High Dynamic Range The Future of Photo Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-audiovisual-success-recording-gotomeetings-easily/"><u>[Updated] Audiovisual Success Recording GoToMeetings Easily</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-streamline-broadcasting-going-from-xbox-to-fb-live/"><u>[Updated] Streamline Broadcasting Going From Xbox to FB Live</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-re-tune-your-ps5ps4-voice-settings-easily/"><u>2024 Approved Re-Tune Your PS5/PS4 Voice Settings Easily</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-craft-corporate-emblems-from-available-graphic-samples/"><u>In 2024, Craft Corporate Emblems From Available Graphic Samples</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-graphics-init-error-reported/"><u>System Graphics Init Error Reported</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-methods-for-capturing-screen-and-sound-seamlessly-on-windows-10/"><u>Top Methods for Capturing Screen & Sound Seamlessly on Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-pick-ultimate-guide-to-the-finest-pc-windows-software-for-converting-dvds-to-mkv/"><u>Top Pick: Ultimate Guide to the Finest PC Windows Software for Converting DVDs to MKV</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-4k-video-editor-programs-a-comprehensive-guide/"><u>Top Rated 4K Video Editor Programs: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-3gp-footage-into-engaging-animated-gifs-with-easy-tutorials/"><u>Transforming 3GP Footage Into Engaging Animated GIFs with Easy Tutorials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-tips-for-streaming-high-efficiency-video-coding-hevc-content-on-hdtvs/"><u>Troubleshooting Tips for Streaming High-Efficiency Video Coding (HEVC) Content on HDTVs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-bin-editor-quickly-switch-bin-files-to-mp4-and-avi-formats-for-flawless-viewing-across-devices/"><u>Ultimate BIN Editor: Quickly Switch BIN Files to MP4 and AVI Formats for Flawless Viewing Across Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-converting-your-dvds-into-mp4-format-using-vlc-media-player-on-windows/"><u>Ultimate Guide: Converting Your DVDs Into MP4 Format Using VLC Media Player on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726028288533-youtube/"><u>YouTubeから断片的なコンテンツを取得・保存する技術 - 動画の選択部分だけを安全にダウンロード</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726226509906-flvmp4-movavi/"><u>オンラインで無料で利用可能なFLVからMP4への変換 - Movavi サービス</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

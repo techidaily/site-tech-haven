@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Autumn Release: Discover All the Latest Innovations From Apple for iPhone, iPad, Mac, and Beyond - Spotlight on AI Features | TechZooming"
-date: 2024-11-02T05:27:59.878Z
-updated: 2024-11-08T08:37:31.897Z
+date: 2024-11-14T16:28:32.558Z
+updated: 2024-11-18T16:07:18.800Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -93,6 +86,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -107,6 +107,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -116,13 +123,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -134,13 +134,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -160,10 +153,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,19 +218,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/google-bard-the-deceptive-application-that-harbors-dangerous-malware-stay-away-from-this-threat/"><u>'Google Bard': The Deceptive Application That Harbors Dangerous Malware - Stay Away From This Threat</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-iphoneandroid-sharing-videos-on-twitter-without-retweeting/"><u>[New] 2024 Approved IPhone/Android Sharing Videos On Twitter Without Retweeting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-most-reliable-photo-background-alternation-apps/"><u>[New] Explore the Most Reliable Photo-Background Alternation Apps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-sound-fidelity-at-home-mastering-quality-recordings/"><u>[Updated] 2024 Approved Sound Fidelity at Home Mastering Quality Recordings</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-tecno-pova-5-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Tecno Pova 5 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-ai-become-uncontrollable/"><u>Can AI Become Uncontrollable?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevating-work-routines-with-gpt-3-strategies/"><u>Elevating Work Routines with GPT-3 Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-advantages-and-disadvantages-of-chatgpt-in-creative-composition/"><u>Exploring the Advantages & Disadvantages of ChatGPT in Creative Composition</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oneplus-nord-3-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For OnePlus Nord 3 5G Phones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-performing-a-hard-reset-on-your-non-bootable-chromebook/"><u>Step-by-Step Guide: Performing a Hard Reset on Your Non-Bootable Chromebook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-8-strategies-leveraging-chatgpt-technology-for-business-growth/"><u>Top 8 Strategies: Leveraging ChatGPT Technology for Business Growth</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/try-these-6-costless-alternatives-for-openais-innovative-sora-platform/"><u>Try These 6 Costless Alternatives for OpenAI's Innovative Sora Platform</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-top-5-free-photography-tools-to-erase-backgrounds-web-and-phone/"><u>Ultimate Guide: Top 5 Free Photography Tools to Erase Backgrounds (Web & Phone)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-obs-potential-incorporating-luts-seamlessly-for-2024/"><u>Unlocking OBS' Potential Incorporating LUTs Seamlessly for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-androidios-users-guide-to-facebook-live-broadcasting/"><u>[New] 2024 Approved Android/iOS Users' Guide to Facebook Live Broadcasting</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-latest-pulse-of-facebooks-evolution/"><u>[New] In 2024, Latest Pulse of Facebook's Evolution</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-transform-your-music-library-best-free-software-choices-for-youtube-to-mp3/"><u>[New] In 2024, Transform Your Music Library Best Free Software Choices for YouTube-to-MP3</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/each-audience-zenith-peak-watch-timings-uncovered-for-2024/"><u>[New] Reach Audience Zenith - Peak Watch Timings Uncovered for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-examining-video-sharing-platforms-the-vimeo-and-youtube-divide/"><u>[Updated] 2024 Approved Examining Video Sharing Platforms The Vimeo & YouTube Divide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-download-and-install-windows-xp-movie-maker/"><u>[Updated] In 2024, Download and Install Windows XP Movie Maker</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/illuminating-insights-for-iphone-night-photos-for-2024/"><u>Illuminating Insights for iPhone Night Photos for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-savings-discover-how-to-claim-a-free-macbook-air-m3-through-these-insider-best-buy-hacks-exclusive-guide/"><u>Maximize Savings! Discover How to Claim a Free MacBook Air M3 Through These Insider Best Buy Hacks - Exclusive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-strategies-how-apple-could-outshine-competitors-like-microsoft-and-google-in-the-upcoming-wwdc-202prise/"><u>Top Strategies: How Apple Could Outshine Competitors Like Microsoft & Google in the Upcoming WWDC 202Prise</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-ios-175s-unexpected-feature-auto-recovery-of-lost-images-learn-how-apple-did-it-and-next-steps-for-users/"><u>Understanding iOS 17.5'S Unexpected Feature: Auto-Recovery of Lost Images! Learn How Apple Did It & Next Steps for Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-users-ultimate-tutorial-mastering-imessage-communication-without-an-iphone/"><u>Windows Users' Ultimate Tutorial: Mastering iMessage Communication without an iPhone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Announces Revolutionary AI-Driven Search Upgrade: PC User Recall"
-date: 2024-08-29T02:13:18.060Z
-updated: 2024-08-30T02:13:18.060Z
+date: 2024-11-16T00:47:18.456Z
+updated: 2024-11-18T19:36:22.882Z
 tags:
   - deals
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/a3acf69c3d36fa57ad14263ad88da8c8eaf18e40a
 
  Microsoft has leaned heavily into AI recently, and nowhere is that more on display than their latest addition to Windows: Recall. Here's what you need to know.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What is Microsoft Recall?
 
  Microsoft Recall, formerly internally called AI Explorer, is a new, special kind of AI-powered search that is set to be integrated into Windows 11 (and likely subsequent Windows releases). It’ll have the ability to make note of everything you do on your PC, which you can then search using natural language. In other words, if you were writing a short story about a cat and forgot where you saved it, you should be able to ask Recall, “Where did I save my story about the cat” and it’ll be able to tell you.
@@ -28,8 +35,12 @@ thumbnail: https://thmb.techidaily.com/a3acf69c3d36fa57ad14263ad88da8c8eaf18e40a
  It isn’t limited to basic information about files, though. Recall is built around a large number of more specialized AI features that will allow it to interact with everything from text to images to video.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What Does Recall Require?
 
  Recall is one of several new AI features that are going to require a Neural Processing Unit (NPU), which is a special kind of processor that has been optimized for machine learning and artificial intelligence operations. Microsoft showcased several [Copilot Plus laptops](https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g24-drfone-by-drfone-virtual-android/) designed around Arm processors with dedicated NPUs that are ideal for AI applications like Recall.
@@ -41,8 +52,12 @@ thumbnail: https://thmb.techidaily.com/a3acf69c3d36fa57ad14263ad88da8c8eaf18e40a
  TOPs are a little different from the TFLOP figures you usually see thrown around when talking about super computers, GPUs, or CPUs. TOPs are measured in half-precision, FP16, or BFloat16, or BF16 calculations. TFlops usually (but not always) refer to “full precision” operations, which use 32-bit bit floating point numbers.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Is Microsoft Recall Secure?
 
  Microsoft didn’t go into detail about how they plan to secure Recall against malicious actors beyond using "device encryption," but it is a pressing question. They've stated that Recall will store its data locally on your PC, which is a bonus to the privacy concerns. However, Recall’s central promise—the ability to use natural language to recall anything you’ve done on your PC—is inherently an enormous security vulnerability.
@@ -61,8 +76,6 @@ thumbnail: https://thmb.techidaily.com/a3acf69c3d36fa57ad14263ad88da8c8eaf18e40a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,4 +83,19 @@ thumbnail: https://thmb.techidaily.com/a3acf69c3d36fa57ad14263ad88da8c8eaf18e40a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-imovie-content-for-youtube-distribution/"><u>[New] 2024 Approved Mastering iMovie Content for YouTube Distribution</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-maximize-your-content-creation-top-rated-mac-mp4-slicers/"><u>2024 Approved Maximize Your Content Creation Top-Rated Mac MP4 Slicers</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-magic-6-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Magic 6 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-superiority-topmost-ai-tools-revolutionizing-your-online-searches/"><u>Explore the Superiority: Topmost AI Tools Revolutionizing Your Online Searches</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-realme-gt-5-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Realme GT 5 Pro.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-asus-rog-phone-7-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Asus ROG Phone 7 Lock Screen Password?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-samsung-galaxy-f15-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Samsung Galaxy F15 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-productivity-using-the-gpt-powered-usechatcopilot-browser-tool/"><u>Maximize Productivity Using the GPT-Powered UseChatCopilot Browser Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/save-big-on-your-mobile-service-with-verizons-premium-deals-in-month/"><u>Save Big on Your Mobile Service with Verizon's Premium Deals in [Month]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-bounds-of-chatgpt-exploring-potential-output-size-limits/"><u>Understanding the Bounds of ChatGPT: Exploring Potential Output Size Limits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-makes-the-cut-evaluating-claude-and-chatgpts-abilities-in-handling-everyday-duties/"><u>Which Makes the Cut? Evaluating Claude and ChatGPT's Abilities in Handling Everyday Duties</u></a></li>
+</ul></div>
 

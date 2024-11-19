@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Doc Potential on macOS with Craft: Expert Usage Techniques Revealed"
-date: 2024-11-02T21:10:55.695Z
-updated: 2024-11-07T20:10:40.055Z
+date: 2024-11-16T23:34:29.215Z
+updated: 2024-11-19T00:15:55.323Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,24 +134,18 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-instagram-posting-tips-to-boost-your-podcast-exposure/"><u>[Updated] 2024 Approved Instagram Posting Tips to Boost Your Podcast Exposure</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-navigate-beyond-conventional-webcam-uses/"><u>[Updated] 2024 Approved Navigate Beyond Conventional Webcam Uses</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-detailed-framework-elevating-your-mobile-screenshots-using-mobizen/"><u>[Updated] In 2024, Detailed Framework Elevating Your Mobile Screenshots Using Mobizen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/building-connections-through-artificial-intelligence-using-chatgpt-for-emotional-comfort/"><u>Building Connections Through Artificial Intelligence: Using ChatGPT for Emotional Comfort</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-chatgpt-and-google-translate-determining-the-superior-machine-translator/"><u>Comparing ChatGPT and Google Translate: Determining the Superior Machine Translator</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-perplexity-ai-the-ultimate-google-search-enhancer-waiting-on-your-discovery/"><u>Discover Perplexity AI: The Ultimate Google Search Enhancer Waiting on Your Discovery</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oneplus-nord-n30-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on OnePlus Nord N30 5G Devices</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210055162-9781911134473-magic-of-the-north-gate-2nd-ed/"><u>Magic of the North Gate (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-the-art-of-engaging-with-chatgpt-strategies-for-fitness-aficionados-to-get-better-responses/"><u>Master the Art of Engaging with ChatGPT: Strategies for Fitness Aficionados to Get Better Responses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-highlighting-tailored-gpt-engagements-within-chatgpt-dialogues/"><u>Mastering the Art of Highlighting Tailored GPT Engagements Within ChatGPT Dialogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mistral-ais-le-chat-vs-chatgpt-an-in-depth-comparison/"><u>Mistral AI's Le Chat vs ChatGPT: An In-Depth Comparison</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-safely-recognizing-and-protecting-against-5-notable-chatgpt-scams/"><u>Navigating Safely: Recognizing and Protecting Against 5 Notable ChatGPT Scams</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-generation-language-models-expecting-gpt-5s-arrival/"><u>Next Generation Language Models: Expecting GPT-5's Arrival?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/predicting-the-influence-of-ai-on-software-engineer-routines/"><u>Predicting the Influence of AI on Software Engineer Routines</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-tecno-pop-8-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Tecno Pop 8</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/seamless-steps-to-import-your-epub-ebooks-onto-an-iphone-by-bypassing-itunes/"><u>Seamless Steps to Import Your EPUB eBooks Onto an iPhone By Bypassing iTunes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/siri-or-chatgpt-discover-what-sets-them-apart-in-the-world-of-ai/"><u>Siri or ChatGPT? Discover What Sets Them Apart in the World of AI</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/understanding-youtubes-content-crafting-environment-for-2024/"><u>Understanding YouTube's Content Crafting Environment for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-dimming-dynamics-stepwise-sound-dissipation-in-adobe-premiere-for-2024/"><u>[New] Dimming Dynamics Stepwise Sound Dissipation in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-how-to-add-logowatermark-to-youtube-video/"><u>[New] In 2024, How to Add Logo/Watermark to YouTube Video</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/affordable-and-eco-friendly-choices-the-finest-non-apple-rechargeable-airtags-for-your-belongings/"><u>Affordable & Eco-Friendly Choices: The Finest Non-Apple Rechargeable AirTags for Your Belongings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-apple-watchs-endurance-top-8-settings-tweaks-that-enhance-battery-performance-insights/"><u>Boost Your Apple Watch's Endurance: Top 8 Settings Tweaks That Enhance Battery Performance - Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/classic-refresh-a-modern-take-on-windows-98-vibe/"><u>Classic Refresh: A Modern Take on Windows 98 Vibe</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortlessly-power-and-cool-your-apple-gadgets-with-our-3-in-1-magsafe-charging-station-explore/"><u>Effortlessly Power and Cool Your Apple Gadgets with Our 3-in-1 MagSafe Charging Station - Explore</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-windows-crashing-with-rtwlanesys-a-comprehensive-guide/"><u>How to Stop Windows Crashing with 'rtwlane.sys': A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-look-at-apples-new-ai-powered-m3-macbook-air-tech-for-everyone-has-finally-arrived/"><u>In-Depth Look at Apple's New AI-Powered M3 MacBook Air: Tech for Everyone Has Finally Arrived</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stay-powered-and-cooled-the-ultimate-3-in-1-magsafe-dock-for-all-your-apple-gadgets-explore/"><u>Stay Powered and Cooled: The Ultimate 3-in-1 MagSafe Dock for All Your Apple Gadgets - Explore</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/syncing-your-icloud-notes-with-linux-systems-a-comprehensive-guide/"><u>Syncing Your iCloud Notes with Linux Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-tips-for-flawless-video-viewing-eliminating-error-code-0xc00d36c4/"><u>Troubleshooting Tips for Flawless Video Viewing – Eliminating Error Code 0xC00D36C4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-distinctions-siri-vs-chatgpt-unveiled/"><u>Understanding the Distinctions: Siri Vs. ChatGPT Unveiled</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-power-of-ai-thumbnail-generators/"><u>Updated 2024 Approved Power of AI Thumbnail Generators</u></a></li>
 </ul></div>
 

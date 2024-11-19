@@ -1,7 +1,7 @@
 ---
 title: "1. Tackling the Maddening Bugs in Apple's iPhone: What They Must Do Now"
-date: 2024-10-16T19:11:26.003Z
-updated: 2024-10-21T16:28:49.434Z
+date: 2024-11-13T16:41:52.947Z
+updated: 2024-11-19T02:52:47.845Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,10 +72,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -89,10 +95,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -102,13 +108,6 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -125,6 +124,13 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -166,24 +172,20 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-your-iphoneipad-display-now-for-2024/"><u>[New] Capturing Your iPhone/iPad Display Now for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unleash-your-pcs-hidden-treasures-with-new-windows-10-games/"><u>[New] Unleash Your PC’s Hidden Treasures with New Windows 10 Games</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-enter-the-arena-your-guide-to-social-tiktok-streaming-for-2024/"><u>[Updated] Enter the Arena Your Guide to Social TikTok Streaming for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cook-smartly-and-eat-well-can-chatgpt-become-your-personal-diet-coach/"><u>Cook Smartly and Eat Well: Can ChatGPT Become Your Personal Diet Coach?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-the-complexity-behind-controlling-ai-systems/"><u>Deciphering the Complexity Behind Controlling AI Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-gptbot-insights-into-the-advanced-ai-system-and-its-exclusion-from-certain-websites-explained/"><u>Decoding GPTBot - Insights Into the Advanced AI System & Its Exclusion From Certain Websites Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-ai-unveiling-transfer-learning-mechanisms/"><u>Demystifying AI: Unveiling Transfer Learning Mechanisms</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/demystifying-gopro-video-capture-with-burst-mode-for-2024/"><u>Demystifying GoPro Video Capture with Burst Mode for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-claude-3-features-and-uses/"><u>Discovering Claude 3: Features & Uses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/duplicitous-chrome-app-thieves-of-social-media-login/"><u>Duplicitous Chrome App: Thieves of Social Media Login</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-steps-to-overcome-the-six-typical-auto-gpt-installation-problems-youll-encounter/"><u>Easy Steps to Overcome the Six Typical Auto-GPT Installation Problems You'll Encounter</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-note-taking-with-these-top-among-the-best-ai-powered-apps-for-improved-productivity/"><u>Elevate Note Taking with These Top Among the Best AI-Powered Apps for Improved Productivity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/eliminating-chatgpts-memory-retention-feature/"><u>Eliminating ChatGPT’s Memory Retention Feature</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-6-excellent-apps-to-capture-and-save-linkedin-videos-successfully/"><u>In 2024, 6 Excellent Apps to Capture and Save LinkedIn Videos Successfully</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-channel-charm-with-cost-free-visual-aids/"><u>In 2024, Channel Charm with Cost-Free Visual Aids</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-basic-to-brilliant-adding-fcp-x-effects-in-3-easy-steps/"><u>New 2024 Approved From Basic to Brilliant Adding FCP X Effects in 3 Easy Steps</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/seadog-slanguage-the-pinnacle-of-pirate-vocabulary/"><u>Seadog Slanguage: The Pinnacle of Pirate Vocabulary</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/stop-bsod-errors-caused-by-system-configuration-quick-remedies-inside/"><u>Stop BSOD Errors Caused by System Configuration - Quick Remedies Inside</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/wmamp3-itunes/"><u>WMAファイルからMP3への変換 - iTunesを使った詳細ガイド</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-premium-pcandroid-mkv-player-for-2024/"><u>[New] Premium PC/Android MKV Player for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2023s-top-tweets-the-highest-traffic-watchlist/"><u>[Updated] 2023'S Top Tweets The Highest Traffic Watchlist</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-ios-photo-and-video-shows-from-ix-to-ios12/"><u>2024 Approved Premium iOS Photo & Video Shows From IX to IOS12</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-inserting-dates-in-digital-pictures/"><u>2024 Approved Step-by-Step Inserting Dates in Digital Pictures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-decision-why-italy-enforced-an-instant-prohibition-of-chatgpt/"><u>Exploring the Decision: Why Italy Enforced an Instant Prohibition of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-future-will-we-see-a-gpt-5-soon/"><u>Exploring the Future: Will We See a GPT-5 Soon?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-4-series-showdown-dissecting-the-differences-between-gpt-4-gpt-4-turbo-and-gpt-e/"><u>GPT-4 Series Showdown: Dissecting the Differences Between GPT-4, GPT-4 Turbo and GPT-E</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-gptzero-work-unveiling-the-secrets-of-ai-text-detection-technology/"><u>How Does GPTZero Work? Unveiling the Secrets of AI Text Detection Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-secure-is-your-data-with-chatgpt/"><u>How Secure Is Your Data with ChatGPT?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-ski-and-snow-gear-best-cams-compiled-in-7-lists/"><u>In 2024, Ski and Snow Gear Best Cams Compiled in 7 Lists</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insights-from-top-10-international-tech-innovators-on-artificial-intelligence/"><u>Insights From Top 10 International Tech Innovators on Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-your-job-on-the-line-assessing-the-impact-of-generative-ai-on-various-industries/"><u>Is Your Job on the Line? Assessing the Impact of Generative AI on Various Industries.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-factors-to-evaluate-when-shopping-for-used-notebooks/"><u>Top 5 Factors to Evaluate When Shopping for Used Notebooks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-premium-priced-no-cost-graphic-websites-for-2024/"><u>Unveiling Premium-Priced, No-Cost Graphic Websites for 2024</u></a></li>
 </ul></div>
 

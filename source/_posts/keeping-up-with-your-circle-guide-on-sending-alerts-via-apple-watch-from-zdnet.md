@@ -1,7 +1,7 @@
 ---
 title: "Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch From ZDNet"
-date: 2024-11-01T08:18:08.885Z
-updated: 2024-11-08T03:25:41.008Z
+date: 2024-11-12T01:44:51.652Z
+updated: 2024-11-18T17:28:58.284Z
 tags:
   - apple
 categories:
@@ -40,11 +40,25 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -62,25 +76,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -92,18 +92,24 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -120,10 +126,10 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -162,20 +168,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-breaking-into-the-elite-6-steps-for-becoming-an-instagram-certified-account-for-2024/"><u>[New] Breaking Into the Elite 6 Steps for Becoming an Instagram Certified Account for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-how-to-use-zoom-in-your-daily-gmail-routine-for-2024/"><u>[Updated] How to Use Zoom in Your Daily Gmail Routine for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebooks-best-eight-free-link-collector-tools/"><u>[Updated] In 2024, Facebook's Best Eight FREE Link Collector Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-perfecting-your-video-with-story-remix-and-windows-photos/"><u>[Updated] In 2024, Perfecting Your Video with Story Remix & Windows Photos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-multimedia-mastery-pc-mac-and-mobile-movie-screening/"><u>[Updated] Multimedia Mastery PC, Mac & Mobile Movie Screening</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/elite-5-internet-streaming-cameras/"><u>Elite 5 Internet Streaming Cameras</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-virtual-cityscape-cyberpunk-2077s-smoothed-fps-experience/"><u>Mastering the Virtual Cityscape: Cyberpunk 2077'S Smoothed FPS Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/microsoft-revamps-unpopular-windows-recall-feature-in-response-to-user-discontent/"><u>Microsoft Revamps Unpopular Windows Recall Feature in Response to User Discontent</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/microsofts-return-to-form-with-metro-ui-enhancing-mobile-and-tablet-gameplay/"><u>Microsoft's Return to Form with Metro UI Enhancing Mobile and Tablet Gameplay</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-video-editing-made-easy-top-free-software-for-32-bit-windows/"><u>New In 2024, Video Editing Made Easy Top Free Software for 32-Bit Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/new-official-rdp-support-available-on-raspberry-pi/"><u>New Official RDP Support Available on Raspberry Pi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pro-tips-12-critical-actions-for-a-smooth-transition-to-linux/"><u>Pro Tips: 12 Critical Actions for a Smooth Transition to Linux</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-and-easy-method-to-protect-your-privacy-by-command-line-on-a-windows-10-machine/"><u>Quick & Easy Method to Protect Your Privacy by Command Line on a Windows 10 Machine</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/rediscovering-the-classics-msn-gamespy-winamp-and-more-memorable-tech-relics/"><u>Rediscovering the Classics: MSN, GameSpy, Winamp & More Memorable Tech Relics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-secrets-when-to-share-content-for-youtube-success/"><u>[New] 2024 Approved Secrets When to Share Content for YouTube Success</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-stealthy-watcher-of-digital-tales-for-2024/"><u>[New] Stealthy Watcher of Digital Tales for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/2024s-ultimate-computer-showdown-how-apple-dell-and-others-stack-up-in-the-latest-zdnet-rankings/"><u>2024'S Ultimate Computer Showdown: How Apple, Dell, and Others Stack Up in the Latest ZDNET Rankings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-ipad-air-with-m2-chip-the-ideal-choice-for-consumers-a-comprehensive-analysis-by-zdnet/"><u>Apple iPad Air with M2 Chip: The Ideal Choice For Consumers - A Comprehensive Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/compact-and-slim-apple-vision-pro-case-reduces-size-by-nearly-50-a-revolutionary-design/"><u>Compact and Slim Apple Vision Pro Case Reduces Size by Nearly 50% – A Revolutionary Design!</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-zte-nubia-z60-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your ZTE Nubia Z60 Ultra Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/game-optimization-success-stability-and-performance-upgrades-to-mass-effect-legendary-series/"><u>Game Optimization Success! Stability & Performance Upgrades to Mass Effect Legendary Series</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-innovating-messaging-sounds-a-guide-to-downloading-and-personalizing-whatsapp-ringtones/"><u>In 2024, Innovating Messaging Sounds A Guide to Downloading & Personalizing WhatsApp Ringtones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-your-copy-of-apple-watch-series-10-today-exclusive-pre-order-guide-and-money-saving-tips-techwise/"><u>Secure Your Copy of Apple Watch Series 10 Today: Exclusive Pre-Order Guide & Money-Saving Tips | TechWise</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/set-up-your-apple-watch-for-slack-notifications-with-these-simple-steps-zdnet/"><u>Set Up Your Apple Watch for Slack Notifications with These Simple Steps | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upcoming-fall-releases-exploring-the-latest-innovations-in-apples-ecosystem-including-artificial-intelligence-detailed-insights-from-zdnet/"><u>Upcoming Fall Releases: Exploring the Latest Innovations in Apple's Ecosystem Including Artificial Intelligence - Detailed Insights From ZDNet</u></a></li>
+<li><a href="https://solve-help.techidaily.com/windows-friendly-guide-how-to-replace-motherboard-and-processor-effortlessly/"><u>Windows-Friendly Guide: How to Replace Motherboard and Processor Effortlessly</u></a></li>
 </ul></div>
 

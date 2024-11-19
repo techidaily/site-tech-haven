@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple's Recent Takeover: What It Signals for an Upcoming Smartphone Revolution Powered by Artificnial Intelligence | ZDNET"
-date: 2024-11-07T08:47:54.925Z
-updated: 2024-11-07T23:08:25.776Z
+date: 2024-11-16T19:09:13.278Z
+updated: 2024-11-19T02:21:25.040Z
 tags:
   - apple
 categories:
@@ -56,10 +56,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -78,6 +78,13 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -91,10 +98,10 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -150,10 +157,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -170,13 +177,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,18 +218,16 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-keeping-your-creative-content-on-ios-with-ease-for-2024/"><u>[New] Keeping Your Creative Content on iOS with Ease for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-tempo-trackers-guide-accessible-free-tools/"><u>[New] The Tempo Tracker’s Guide – Accessible, Free Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-above-par-editing-software-for-ios-and-android-smartphones/"><u>[Updated] 2024 Approved Above-Par Editing Software for iOS & Android Smartphones</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-audiences-favorite-top-action-recording-tools/"><u>[Updated] In 2024, Audience's Favorite Top Action Recording Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-spectral-snapshot-from-space-the-updated-images-of-pillars-of-creation-by-nasa/"><u>A Spectral Snapshot From Space: The Updated Images of 'Pillars of Creation' By NASA</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-chatgpt-top-4-benefits-of-hosting-a-personalized-chatbot-at-home/"><u>Beyond ChatGPT: Top 4 Benefits of Hosting a Personalized Chatbot at Home</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bings-advanced-ai-revolutionary-image-recognition-feature-unveiled/"><u>Bing's Advanced AI: Revolutionary Image Recognition Feature Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bizarre-food-hacks-how-google-suggests-using-glue-as-snacks-and-gas-for-noodles/"><u>Bizarre Food Hacks: How Google Suggests Using Glue as Snacks & Gas for Noodles!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/challenges-plaguing-googles-innovative-gemini-artificial-intelligence-system/"><u>Challenges Plaguing Google's Innovative Gemini Artificial Intelligence System</u></a></li>
-<li><a href="https://video-capture.techidaily.com/evaluating-fraps-as-a-screen-grab-pro-for-2024/"><u>Evaluating Fraps as a Screen Grab Pro for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-top-5-corporate-concerns-with-ai-conversation-tools/"><u>Exploring the Top 5 Corporate Concerns with AI Conversation Tools</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-kobo-forma-assessment-a-device-designed-with-dedicated-readers-in-mind/"><u>In Depth Kobo Forma Assessment: A Device Designed with Dedicated Readers in Mind</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-selection-premium-mac-screens-and-monitors/"><u>Ultimate Selection: Premium Mac Screens and Monitors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-premier-chillout-pc-game-hits/"><u>[New] 2024 Approved Premier Chillout PC Game Hits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-enhancing-your-media-projects-with-screenflow/"><u>[New] In 2024, The Ultimate Guide to Enhancing Your Media Projects with ScreenFlow</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-add-a-snapshot-to-your-instagram-story-for-2024/"><u>[Updated] Add a Snapshot to Your Instagram Story for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-flex-your-viewing-muscles-handling-multiple-youtube-videos/"><u>[Updated] In 2024, Flex Your Viewing Muscles Handling Multiple YouTube Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-screen-recording-snapshots-on-mobile/"><u>2024 Approved Step-by-Step Screen Recording Snapshots on Mobile</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-iphones-iphone-16-versus-iphone-15-essential-points-for-choosing-apples-latest-smartphone-cnet/"><u>Comparing iPhones: IPhone 16 Versus iPhone 15 – Essential Points for Choosing Apple's Latest Smartphone | CNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-and-locating-hidden-airtags-around-you-insights-from-zdnet/"><u>Identifying and Locating Hidden AirTags Around You - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/selecting-the-perfect-ipad-pro-a-head-to-head-analysis-of-the-m1-vs-m2-processors-techadvisor/"><u>Selecting the Perfect iPad Pro: A Head-to-Head Analysis of the M1 Vs. M2 Processors | TechAdvisor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-adding-a-license-to-iphones-wallet-app-varies-by-location-tech-insights/"><u>Step-by-Step Tutorial on Adding a License to iPhone's Wallet App (Varies by Location) | Tech Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-apple-watch-straps-of-2024-professional-ratings-and-reviews-by-tech-experts/"><u>Top-Rated Apple Watch Straps of 2024: Professional Ratings & Reviews by Tech Experts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-successfully-installed-gpu-after-errors/"><u>Windows: Successfully Installed GPU After Errors</u></a></li>
 </ul></div>
 

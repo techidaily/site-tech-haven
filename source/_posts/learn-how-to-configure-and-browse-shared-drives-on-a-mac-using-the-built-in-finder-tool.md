@@ -1,7 +1,7 @@
 ---
 title: Learn How to Configure and Browse Shared Drives on a Mac Using the Built-In Finder Tool
-date: 2024-08-29T02:12:14.244Z
-updated: 2024-08-30T02:12:14.244Z
+date: 2024-11-13T23:47:09.213Z
+updated: 2024-11-18T23:11:56.907Z
 tags:
   - desktop
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Browsing my AWS EC2 web server in Finder using macFUSE and SSHFS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/browsing-my-aws-ec2-webserver-in-finder-using-macfuse-and-sshfs.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  So, why would someone want to use these tools to mount remote (internet) volumes in this fashion? Well, the potential uses for such configurations are myriad, but here are just a handful for your consideration.
 
 ###  Avoids Inherent Limitations of Google Drive Desktop
@@ -37,27 +44,41 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you run a dual-boot system with macOS and another operating system, you already know how cumbersome accessing those files can be when you've booted into macOS. Skip all that extra fuss by using these tools to mount volumes associated with your other OS directly and access them in your current Mac session, allowing management in a single environment.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ###  Drag and Drop to Remote Volumes for a Better Workflow
 
  I like working from the command line more than most, but mounting my remote volumes locally really speeds up my workflow, particularly when experiencing eye strain from looking at nothing but text for hours on end.
 
  For example, I run my personal website off of an AWS EC2 instance of Ubuntu Server. By nature, Ubuntu Server runs headless (without a graphic interface). When adding media to my web server, the ability to drag and drop files directly using Finder just flows faster than uploading via the terminal and also eliminates associated delays.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Provides a Platform to Experiment
 
  For tech enthusiasts and hobbyists, experimenting with different filesystems and server configurations can be a fun and educational experience. macFUSE and SSHFS provide an easy way to mount and interact with various filesystems, from the comfort of your macOS environment.
 
  This capability is particularly useful for those looking to learn about networked storage, server management, or even developing their own custom filesystems, without needing to dive deep into complex configurations.
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What You Need Before We Begin
 
  Before we move on to mounting remote volumes, you'll need to install a few additional bits of software.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  macFUSE
 
@@ -72,13 +93,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  macFUSE is essential for enabling the other prerequisite for configuration, SSHFS.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  SSHFS
 
  SSHFS stands for Secure SHell FileSystem. It is aptly named for its ability to allow users to mount remote filesystems over SSH. It uses the secure file transfer protocol (SFTP) to access files on a remote server, providing a secure and efficient way to manage remote data as if it were on your local machine.
@@ -87,9 +107,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 brew install sshfs
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Using the SSHFS Command
 
  Mounting a remote filesystem using SSHFS utilizes the following command structure:
@@ -104,15 +121,19 @@ brew install sshfs
 * \[local\_mount\_point\] is the local directory where the remote filesystem will be mounted.
 * IdentityFile specifies the private key file for authentication.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Using an SSHFS Script Command For Running With Minimal Effort
 
  The script I've written below simplifies the process of mounting a remote filesystem using SSHFS. It sets up the mount point, adjusts permissions, and mounts the remote filesystem with a custom volume name. Just replace the variables in the first section with those applicable to your remote volume.
 
         `#!/bin/zsh  
   
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Change the following variable fields with your own applicable info  
   
 MOUNT_POINT="path/to/desired/mount/point"  
@@ -122,9 +143,6 @@ INSTANCE_DNS="YOUR_INSTANT_DNS_ADDRESS OR URL"
 PRIVATE_KEY_PATH="path/to/your/private/key.pem"  
 VOLUME_NAME="YOUR DESIRED VOLUME NAME"  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Create the mount point if it doesn't exist  
 if [! -d "$MOUNT_POINT"]; then  
     sudo mkdir -p "$MOUNT_POINT"  
@@ -136,6 +154,14 @@ else
     sudo chmod 755 "$MOUNT_POINT"  
 fi  
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Mount the remote filesystem with a custom volume name  
 sshfs -o volname="$VOLUME_NAME",IdentityFile="$PRIVATE_KEY_PATH" $INSTANCE_USER@$INSTANCE_DNS:/ "$MOUNT_POINT"  
   
@@ -154,9 +180,6 @@ chmod +x mount_remote.sh
 
 ![Mounted remote volume with generic macFUSE icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mounted-remote-volume-with-generic-macfuse-icon.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ###  Applying an Image of Your Choosing as a Drive Icon
 
  To personalize your mounted drive, you can apply a custom icon. Since macFUSE applies the same generic icon to remote mounts, this is useful for differentiating when using more than one.
@@ -167,6 +190,14 @@ chmod +x mount_remote.sh
 
         `#!/bin/zsh  
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Change the following variable fields with your own applicable info  
   
 MOUNT_POINT="path/to/desired/mount/point"  
@@ -177,6 +208,14 @@ PRIVATE_KEY_PATH="path/to/your/private/key.pem"
 VOLUME_NAME="YOUR DESIRED VOLUME NAME"  
 VOLUME_ICON="path/to/your/icon.icns"  
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Create the mount point if it doesn't exist  
 if [! -d "$MOUNT_POINT"]; then  
    sudo mkdir -p "$MOUNT_POINT"  
@@ -188,9 +227,6 @@ else
    sudo chmod 755 "$MOUNT_POINT"  
 fi  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Mount the remote filesystem with a custom volume name  
 sshfs -o volname="$VOLUME_NAME",IdentityFile="$PRIVATE_KEY_PATH",volicon="$VOLUME_ICON" $INSTANCE_USER@$INSTANCE_DNS:/ "$MOUNT_POINT"  
   
@@ -199,14 +235,8 @@ open "$MOUNT_POINT"`
     
  After running this script, your remote volume will appear in Finder sporting whatever icon image you specified!
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ![Mounted remote volume with my own custom icon.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mounted-remote-volume-with-my-own-custom-icon.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
  Mounting remote filesystems on macOS using macFUSE and SSHFS can greatly enhance your workflow, allowing for seamless access to remote data. Whether you're looking to bypass the limitations of cloud storage applications, streamline a dual-boot setup, or explore new filesystems, these tools provide a flexible and powerful solution.
@@ -219,8 +249,6 @@ open "$MOUNT_POINT"`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +256,21 @@ open "$MOUNT_POINT"`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-diy-iphone-photography-learn-to-smudge-images-on-no-budget/"><u>[New] 2024 Approved DIY iPhone Photography Learn to Smudge Images on No Budget</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-essential-techniques-for-fast-forwarding-in-spotify/"><u>[Updated] 2024 Approved The Essential Techniques for Fast-Forwarding in Spotify</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-from-confusion-to-clarity-your-telegram-web-guidebook/"><u>[Updated] From Confusion to Clarity Your Telegram Web Guidebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-mastering-instagram-broadcasting-with-obs-a-step-by-step-guide/"><u>2024 Approved Mastering Instagram Broadcasting with OBS A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-unboxing-on-instagram-a-guide-to-popularity/"><u>2024 Approved Revolutionize Unboxing on Instagram A Guide to Popularity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/avatars-new-horizon-discover-the-fixes-for-a-smooth-pandora-experience-on-pc/"><u>Avatar's New Horizon: Discover the Fixes for a Smooth Pandora Experience on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-novel-writing-journey-9-effective-uses-of-chatgpt-technology/"><u>Boost Your Novel Writing Journey: 9 Effective Uses of ChatGPT Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-google-bard-which-is-better/"><u>ChatGPT Vs. Google Bard: Which Is Better?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-enhanced-productivity-with-the-new-dell-premium-monitor-advanced-noise-cancellation-headset-and-high-definition-webcam/"><u>Experience Enhanced Productivity with the New Dell Premium Monitor, Advanced Noise Cancellation Headset & High-Definition Webcam</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-these-6-cost-free-ai-models-like-sora/"><u>Explore These 6 Cost-Free AI Models Like Sora</u></a></li>
+<li><a href="https://fox-that.techidaily.com/immediate-action-required-the-importance-of-installing-ios-153-right-away/"><u>Immediate Action Required: The Importance of Installing iOS 15.3 Right Away</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/jokes-and-laughter-can-chatgpt-outsmart-comedians-with-its-witty-ai-humor/"><u>Jokes and Laughter: Can ChatGPT Outsmart Comedians with Its Witty AI Humor?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-playstation-4-guide-to-perfect-gameplay-recording-for-2024/"><u>The Ultimate PlayStation 4 Guide to Perfect Gameplay Recording for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/truthcoin-a-blessing-or-a-deceit/"><u>TruthCoin: A Blessing or a Deceit?</u></a></li>
+</ul></div>
 

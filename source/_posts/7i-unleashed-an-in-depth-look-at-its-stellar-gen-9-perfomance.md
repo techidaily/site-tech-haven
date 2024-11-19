@@ -1,7 +1,7 @@
 ---
 title: "7I Unleashed: An In-Depth Look at Its Stellar Gen 9 Perfomance"
-date: 2024-08-29T02:13:24.207Z
-updated: 2024-08-30T02:13:24.207Z
+date: 2024-11-17T02:37:16.131Z
+updated: 2024-11-18T21:12:42.424Z
 tags:
   - deals
 categories:
@@ -108,13 +108,17 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Lenovo Went All-In on a User-Upgradable Design
 
 ![The Lenovo Legion 7i 16 Gen 9 has an Intel i9 and Nvidia graphics card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-has-an-intel-i9-and-nvidia-graphics-card_53662863778_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The overall design of Lenovo’s latest Legion 7i 16 Gen 9 is pretty sleek if I do say so myself. I had the privilege of testing the white model and, while I typically like gray or dark laptops, the white is pretty crisp and clean. The branding is minimal with just "Legion" and "Lenovo" graphics on the top. Overall, the aesthetic is definitely on the cleaner side for gaming laptops.
@@ -137,13 +141,17 @@ Jerome Thomas / How-To Geek
 
  Lenovo chose to put the power key dead center of the top of the keyboard and built a fingerprint reader into it. I found that the reader worked reliably every time for me, and it was a great placement for me as well.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Hitting Above Its Weight Class, This Laptop Really Packs a Punch
 
 ![The Lenovo Legion 7i 16 Gen 9 Legion branding](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-legion-branding_53661777577_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  With the latest tech inside, this laptop has a lot to offer in the performance department. I tested it with some of my favorite games as well as some of the industry’s best synthetic benchmarks to give you a good idea as to what you can expect for performance out of this system.
@@ -156,6 +164,13 @@ Jerome Thomas / How-To Geek
 
 ![The backlit keyboard on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-backlit-keyboard-on-the-lenovo-legion-7i-16-gen-9_53661777647_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Overall, I was extremely pleased with the performance of this laptop. When compared to other higher-class laptops, it also holds its own. I also have an RTX 4090-powered ASUS ROG Strix system which is an absolute monster of a machine. The RTX 4090 laptop, for comparison, hit 199FPS when in turbo mode. While that’s about two times the frames, it’s also over double the cost, and much, much larger and heavier.
@@ -163,6 +178,13 @@ Jerome Thomas / How-To Geek
  With the real-world benchmarks out of the way, I wanted to touch on synthetic benchmarks a little. The above performance metrics are a great way to find out how it plays in those (and similar) titles, but if you want to have something easy to compare across many systems, I have a few numbers for you to look at.
 
 ![The Lenovo Legion 7i 16 Gen 9 on a table (2)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-on-a-table-2_53661777582_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -172,16 +194,10 @@ Jerome Thomas / How-To Geek
 
  One thing that I wasn’t too happy with, however, was the coil whine. If you’ve not experienced coil whine before, you will with this laptop. Even at idle, there was a whine coming from the system that was a bit annoying. And, when the fans were at full tilt during a game, I could hear the coil whine even through my headphones. It’s not unbearable, but it’s something that I wasn’t very happy with for sure.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Lenovo Included All the Ports You Could Want but Could Have Made It a Bit Less Confusing
 
 ![The ports on the left side of the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-left-side-of-the-lenovo-legion-7i-16-gen-9_53662650521_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Lenovo Legion 7i 16 Gen 9 has just about any port you could want, though, it can be a tad confusing about what’s what. On the left side of the laptop, you have a USB-A port at 5Gb/s, a USB-C 3.2 Gen 2 port, and a Thunderbolt 4 port. There’s only one Thunderbolt 4 port here though, so do keep in mind that the other USB-C ports on the laptop are only 3.2 Gen 2 (10Gb/s), and not rated for 40Gb/s transfer rates. The Thunderbolt 4 port does, however, support up to 140W charging, so you can use a single-cable setup when you’re not pushing the laptop to its max. In front of the Thunderbolt 4 port, you have a combined headphone and microphone jack.
@@ -202,6 +218,13 @@ Jerome Thomas / How-To Geek
 
 ![The file explorer on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-file-explorer-on-the-lenovo-legion-7i-16-gen-9_53661777622_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The 16-inch IPS WQXGA display here has a resolution of 2,560 x 1,600, which clocks in with a 16:10 aspect ratio. This seems to be the norm among modern laptops as people want a slightly taller aspect ratio, but it does mean that you’re pushing slightly more pixels when gaming. The RTX 4070 doesn’t let that affect performance though, which is nice. The screen features a 240Hz refresh rate, is 100% sRGB, and comes in at 500 nits, which is very noticeable when gaming. Windows didn’t find the display to be HDR ready, even though it’s DisplayHDR 400 certified, but the X-Rite Color Management with Dolby Vision and G-SYNC features all functioned as well as you’d expect.
@@ -210,16 +233,10 @@ Jerome Thomas / How-To Geek
 
  One unique thing is that there’s a keyboard shortcut (Fn+R) to switch between 240/60Hz and 165/60Hz, depending on which screen you get. This might seem redundant, but it’s actually very useful. If you’re on the road and need to preserve battery life over all else, then dropping to a 60Hz refresh rate will make the screen refresh 66% slower, which reduces power usage across the board.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo Legion 7i 16 Gen 9?
 
 ![The Lenovo Legion 7i 16 Gen 9 with charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-with-charger_53662863758_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  After spending the better part of a month with this laptop, this laptop is a great buy. The version of the [Lenovo Legion 7i 16 Gen 9](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=http%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-7-series%2Flegion-7i-gen-9-%2816-inch-intel%29%2Flen101g0037) I’ve been testing comes in at $1,785.99 right now direct from Lenovo, and I think that’s a fantastic price for it. You’re getting a laptop that can function as a desktop replacement in many scenarios. Plus, when on the go, you’ll have a 16-inch 240Hz display. All in a body that weighs under five pounds.
@@ -229,13 +246,14 @@ Jerome Thomas / How-To Geek
 ![Lenovo Legion 7i 16 Gen 9 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/lenovo-legion-7i-16-gen-9-laptop.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 #####  Lenovo Legion 7i 16 Gen 9
 
 8/ 10 
@@ -252,8 +270,6 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -261,4 +277,22 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unveiling-the-secrets-of-youtube-music-curation/"><u>[Updated] 2024 Approved Unveiling the Secrets of YouTube Music Curation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-innovative-youtube-monikers-for-vloggers-and-filmmakers-up-to-156-characters/"><u>[Updated] Innovative Youtube Monikers for Vloggers & Filmmakers (Up to 156 Characters)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-ai-giants-chatgpt-versus-googles-bard-who-reigns-supreme/"><u>Comparing AI Giants: ChatGPT versus Google's Bard - Who Reigns Supreme?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-avoiding-common-pitfalls-with-chatgpt-in-academic-settings/"><u>Effective Strategies: Avoiding Common Pitfalls with ChatGPT in Academic Settings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-daily-efficiency-top-6-tips-for-incorporating-chatgpt-into-household-tasks/"><u>Enhance Your Daily Efficiency: Top 6 Tips for Incorporating ChatGPT Into Household Tasks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/idea-generation-techniques-combining-mind-maps-with-chatgpt-for-enhanced-brainstnign/"><u>Idea Generation Techniques: Combining Mind Maps with ChatGPT for Enhanced Brainstnign</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovation-in-writing-why-bots-cant-compete-yet/"><u>Innovation in Writing - Why Bots Can't Compete Yet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-elevate-your-videos-best-3d-animation-and-video-software/"><u>New 2024 Approved Elevate Your Videos Best 3D Animation and Video Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/showdown-among-bots-evaluating-originality-and-creativity-in-response-to-the-same-prompt/"><u>Showdown Among Bots: Evaluating Originality and Creativity in Response to the Same Prompt</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fix-for-nspr4dll-not-found-or-missing-file/"><u>Step-by-Step Fix for 'Nspr4.dll Not Found' Or 'Missing File'</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-langchain-llm-tutorial-for-enthusiasts/"><u>Step-by-Step LangChain LLM Tutorial for Enthusiasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/stop-obs-from-skipping-audio-for-2024/"><u>Stop OBS From Skipping Audio for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/streamline-your-writing-process-transcribing-with-microsoft-word/"><u>Streamline Your Writing Process Transcribing with Microsoft Word</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/top-rated-pdf-conversion-tool-for-easy-use-on-windows-10/"><u>Top-Rated PDF Conversion Tool for Easy Use on Windows 10</u></a></li>
+</ul></div>
 

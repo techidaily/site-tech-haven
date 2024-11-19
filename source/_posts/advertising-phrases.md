@@ -1,7 +1,7 @@
 ---
 title: Advertising Phrases
-date: 2024-11-06T01:00:31.497Z
-updated: 2024-11-08T01:44:04.352Z
+date: 2024-11-18T01:07:27.782Z
+updated: 2024-11-19T00:23:33.678Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ Within the embargoed time frame, ZDNET reviewers can test the latest features (i
 While ZDNET primarily covers smartphone releases in the US market, we also evaluate international handsets to understand the competitive landscape better and have a frame of reference when making recommendations to international readers. We also attend trade shows, including [CES](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/) and [Mobile World Congress](https://www.zdnet.com/collection/mwc-2024/), to connect with industry experts and analysts.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What makes a phone ZDNET recommended?
@@ -50,6 +50,13 @@ While ZDNET primarily covers smartphone releases in the US market, we also evalu
 For hands-on testing, five aspects determine whether or not a phone gets recommended : design, performance, cameras, battery life, and special features. The importance of each aspect will vary across users; some will value camera quality over battery life, and others just want a phone that's unique and different. Generally, the order of importance is cameras, battery life, design, performance, and then special features.
 
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design and ergonomics
 
@@ -62,10 +69,16 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance
@@ -78,13 +91,6 @@ Performance testing also includes putting phones through varying levels of graph
 
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Cameras
 
 Kerry Wan/ZDNET
@@ -95,13 +101,6 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Battery life and charging
 
 Kerry Wan/ZDNET
@@ -109,6 +108,13 @@ Kerry Wan/ZDNET
 It's also important for us to evaluate how long phones last under light, moderate, and heavy usage, how long they take to recharge, and how they do it (wired, wireless, or both). We typically judge the endurance of phones based on screen-on time (SOT); that's the total amount of time the screen is turned on, whether you're scrolling through TikTok or typing an email. The higher the SOT, the longer the phone lasts.
 
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Special features
 
@@ -156,22 +162,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-activatingdeactivating-picture-in-picture-feature-for-2024/"><u>[New] Activating/Deactivating Picture-in-Picture Feature for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-enhancing-webcasts-with-dynamic-background-transitions/"><u>2024 Approved Enhancing Webcasts with Dynamic Background Transitions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/begin-your-journey-with-the-advanced-ai-powered-search-tool-bing-by-microsoft/"><u>Begin Your Journey with the Advanced AI-Powered Search Tool – Bing by Microsoft</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comparative-overview-of-googles-ar-stickers-and-its-counterparts-for-2024/"><u>Comparative Overview of Google's AR Stickers & Its Counterparts for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y27-4g-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y27 4G Device SIM</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-ai-interaction-integrating-the-chatgpt-widget-into-your-android-experience/"><u>Effortless AI Interaction: Integrating the ChatGPT Widget Into Your Android Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-dark-side-of-language-models-on-code/"><u>Exploring the Dark Side of Language Models on Code</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-insiders-guide-adding-borders-in-instagram-footage/"><u>In 2024, The Insider's Guide Adding Borders in Instagram Footage</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/instantaneous-itinerary-blueprints-the-finest-selection-of-7-budget-friendly-apps/"><u>Instantaneous Itinerary Blueprints – The Finest Selection of 7 Budget-Friendly Apps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/masterful-techniques-for-combining-chatgpt-and-visual-studio-code/"><u>Masterful Techniques for Combining ChatGPT and Visual Studio Code</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-fix-wins-unhandled-exception-blue-screen-problem/"><u>Methods to Fix Win's Unhandled Exception Blue Screen Problem</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-smart-way-to-save-10-ai-plugin-upgrades-for-pdfs/"><u>The Smart Way to Save: 10 AI Plugin Upgrades for PDFs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-techniques-for-fitness-enthusiasts-to-optimize-chatgpt-prompts/"><u>The Ultimate Techniques for Fitness Enthusiasts to Optimize ChatGPT Prompts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-9-strategies-how-chatgpt-enhances-daily-living/"><u>Top 9 Strategies: How ChatGPT Enhances Daily Living</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-5-promising-technologies-in-ai-hardware/"><u>Unveiling the Top 5 Promising Technologies in AI Hardware</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-itel-a70-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/levate-your-shots-vloggers-guide-to-the-9-finest-camera-gadgets/"><u>[New] Elevate Your Shots Vlogger's Guide to the 9 Finest Camera Gadgets</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-profits-a-comprehensive-vimeo-revenue-strategy/"><u>[New] Mastering Profits A Comprehensive Vimeo Revenue Strategy</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-hero5-black-pro-photography-and-cinematography-techniques/"><u>[Updated] In 2024, Mastering Hero5 Black Pro Photography & Cinematography Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-keywords-the-best-7-no-cost-youtube-taggers/"><u>[Updated] Mastering Keywords The Best 7 No-Cost Youtube Taggers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-is-active-the-premier-choice-for-tech-enthusiasts/"><u>2024 Approved Is Active the Premier Choice for Tech Enthusiasts?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-your-phone-experience-with-apples-underrated-iphone-advantage-uncovered/"><u>Ace Your Phone Experience with Apple’s Underrated iPhone Advantage - Uncovered !</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-just-typing-discover-how-this-iphone-cases-leading-edge-technology-outshines-its-physical-keyboard-exclusive-review-by-zdnet/"><u>Beyond Just Typing: Discover How This iPhone Case's Leading-Edge Technology Outshines Its Physical Keyboard | Exclusive Review by ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-right-apple-tablet-a-comprehensive-guide-comparing-ipad-pro-models-find-your-perfect-match/"><u>Choosing the Right Apple Tablet: A Comprehensive Guide Comparing iPad Pro Models - Find Your Perfect Match!</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-new-realms-shifting-from-minecraft-bedrock-to-java-network-using-geysermc/"><u>Dive Into New Realms: Shifting From Minecraft Bedrock to Java Network Using GeyserMC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-what-youve-been-waiting-for-the-new-iphone-15-awaits-your-upgrade-gadgetworld-insights/"><u>Experience What You’ve Been Waiting For – The New iPhone 15 Awaits Your Upgrade | GadgetWorld Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-p55t-drfone-by-drfone-android/"><u>How to Screen Mirroring Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bridging-reality-and-simulation/"><u>In 2024, Bridging Reality and Simulation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-magix-vpx-review-transforming-media-with-ease/"><u>In 2024, Magix VPX Review Transforming Media with Ease</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-s18e-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo S18e Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-energy-efficiency-a-guide-to-activating-low-power-mode-on-macos-monterey-insights-from-zdnet/"><u>Mastering Energy Efficiency: A Guide to Activating Low Power Mode on macOS Monterey - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-the-irritating-issue-plaguing-your-iphone-solutions-apple-must-embrace/"><u>Resolving the Irritating Issue Plaguing Your iPhone: Solutions Apple Must Embrace</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transition-made-simple-how-to-shift-your-photograph-collection-from-google-photos-to-icloud-services/"><u>Transition Made Simple: How to Shift Your Photograph Collection From Google Photos to iCloud Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-cant-you-customize-your-iphone-like-android-apple-stays-firm-on-restrictions-in-europe-featured/"><u>Why Can't You Customize Your iPhone Like Android? Apple Stays Firm on Restrictions in Europe | Featured</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-didnt-your-imessage-arrive-yesterday-uncover-the-causes-and-solutions/"><u>Why Didn't Your iMessage Arrive Yesterday? Uncover the Causes and Solutions</u></a></li>
 </ul></div>
 

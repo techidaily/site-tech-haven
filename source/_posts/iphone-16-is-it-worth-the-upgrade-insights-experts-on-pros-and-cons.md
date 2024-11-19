@@ -1,7 +1,7 @@
 ---
 title: "IPhone 16: Is It Worth the Upgrade? Insights Experts on Pros & Cons"
-date: 2024-11-07T02:57:28.359Z
-updated: 2024-11-07T23:41:26.587Z
+date: 2024-11-14T21:50:43.770Z
+updated: 2024-11-18T22:24:05.799Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. The camera
 
 Perhaps one of the most important features of any smartphone these days is the camera, so it is no surprise that camera quality is a big consideration for ZDNET editors. It probably is for you, too. The iPhone 16 lineup includes a new [Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/) feature that works in landscape or portrait mode with a button on the side of the iPhone. In addition, you can lightly press the button to show camera functions you can choose from, such as zoom, exposure, or focal lengths, by swiping between the options. 
@@ -45,13 +52,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 **Also:** [**I want to be excited about the iPhone 16's new camera button, but can't (for now)**](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/)
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
 
@@ -92,10 +92,10 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -108,6 +108,13 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -116,13 +123,6 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
@@ -130,10 +130,10 @@ Sometimes it's the most obvious factors that influence our choices. The expense 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
@@ -176,22 +176,20 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-premier-photography-frame-selection-24/"><u>[New] The Premier Photography Frame Selection '24</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-convenient-youtube-viewing-activate-picture-in-picture-on-iphone/"><u>[Updated] Convenient YouTube Viewing Activate Picture-in-Picture on iPhone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2-seamless-shift-apple-enhances-ios-to-android-conversion-process-wired-news/"><u>2. Seamless Shift: Apple Enhances iOS-to-Android Conversion Process | Wired News</u></a></li>
-<li><a href="https://fox-access.techidaily.com/airborne-awe-the-ultimate-list-of-staying-power-drones-for-2024/"><u>Airborne Awe The Ultimate List of Staying Power Drones for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-explained-seamless-language-translation-techniques/"><u>ChatGPT Explained: Seamless Language Translation Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creative-audiophiles-guide-integrating-chatgpt-for-enhanced-daw-production-techniques/"><u>Creative Audiophile's Guide: Integrating ChatGPT for Enhanced DAW Production Techniques</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-v30-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme V30 Phone?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/keep-it-secret-keep-it-safe-the-dangers-of-inputting-sensitive-info-into-chatgpt/"><u>Keep It Secret, Keep It Safe: The Dangers of Inputting Sensitive Info Into ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-tabletop-adventures-with-chatgpt-a-comprehensive-guide-for-dms/"><u>Mastering Tabletop Adventures with ChatGPT: A Comprehensive Guide for DMs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-online-threats-identifying-fraudgpt-and-protecting-your-information/"><u>Navigating Online Threats: Identifying FraudGPT & Protecting Your Information</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/steer-clear-of-the-google-bard-app-to-prevent-cyber-threats/"><u>Steer Clear of the Google Bard App to Prevent Cyber Threats</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/straightforward-steps-upside-down-video-rotation-using-vlc-for-2024/"><u>Straightforward Steps Upside-Down Video Rotation Using VLC for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-drawbacks-of-relying-on-ai-chatbots-for-content-creation-discover-the-top-8-reasons-to-be-cautious/"><u>The Hidden Drawbacks of Relying on AI Chatbots for Content Creation - Discover the Top 8 Reasons to Be Cautious.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-roadmap-to-mastering-gpt-4-a-beginners-guide-to-inclusive-ai-technology/"><u>The Roadmap to Mastering GPT-4: A Beginner’s Guide to Inclusive AI Technology</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-seamless-interweaving-of-folders-and-files/"><u>The Seamless Interweaving of Folders & Files</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-viewing-youtube-videos-at-full-resolution-4k-compatible-with-all-apple-tv-models/"><u>Ultimate Guide to Viewing YouTube Videos at Full Resolution (4K) Compatible with All Apple TV Models</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-countermoves-in-media-how-to-reverse-videos/"><u>[New] 2024 Approved Countermoves in Media How to Reverse Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-zero-cost-chromebook-recorders-for-2024/"><u>[New] Best Zero Cost Chromebook Recorders for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-media-matrix-the-battle-of-podcasts-vs-youtube-for-2024/"><u>[Updated] Media Matrix The Battle of Podcasts Vs. YouTube for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-7-cutting-edge-alternatives-to-openais-chatgpt-for-enhanced-mobile-experience/"><u>Discover 7 Cutting-Edge Alternatives to OpenAI’s ChatGPT for Enhanced Mobile Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nokia-g42-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia G42 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-restore-partition-table-in-windows-11-without-losing-data-expert-tips/"><u>How to Restore Partition Table in Windows 11 Without Losing Data - Expert Tips</u></a></li>
+<li><a href="https://discover-able.techidaily.com/los-top-10-mejor-softwares-de-conversion-de-documentos-a-pdf-libres-y-sin-limites-para-mac-ano-2024/"><u>Los Top 10 Mejor Softwares De Conversión De Documentos a PDF Libres Y Sin Limites Para MAC - Año 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-service-updates-for-chatgpt/"><u>Navigating Service Updates for ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-level-chatbot-interaction-learn-about-the-top-10-modified-gpts-beating-chatgpt/"><u>Next-Level Chatbot Interaction: Learn About the Top 10 Modified GPTs Beating ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/opt-out-navigating-chatgpts-data-use/"><u>Opt-Out: Navigating ChatGPT's Data Use</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prodigious-picture-editing-speedy-steps-for-windows-photo-app-users-for-2024/"><u>Prodigious Picture Editing Speedy Steps for Windows Photo App Users for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/programming-power-play-github-copilot-vs-chatgpt-showdown/"><u>Programming Power Play: GitHub Copilot Vs. ChatGPT Showdown</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secrets-for-hiring-top-notch-video-professionals-for-2024/"><u>Secrets for Hiring Top-Notch Video Professionals for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-roadmap-to-safe-innovation-defining-and-implementing-ai-supervision-standards/"><u>The Roadmap to Safe Innovation: Defining and Implementing AI Supervision Standards</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-exploring-the-mechanics-of-shared-links/"><u>Understanding ChatGPT: Exploring the Mechanics of Shared Links</u></a></li>
 </ul></div>
 

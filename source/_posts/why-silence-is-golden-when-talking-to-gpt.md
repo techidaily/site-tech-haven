@@ -1,7 +1,7 @@
 ---
 title: Why Silence Is Golden When Talking to GPT
-date: 2024-08-24T12:56:31.441Z
-updated: 2024-08-25T12:56:31.441Z
+date: 2024-11-15T19:09:25.543Z
+updated: 2024-11-19T02:10:25.207Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,19 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the early days of ChatGPT, you could get the chatbot to create guides on making bombs if you asked nicely. Instructions on making malware or writing a perfect scam email were also in the picture.
 
  However, once OpenAI realized these ethical problems, the company scrambled to enact rules to stop the chatbot from generating responses that promote illegal, controversial, or unethical actions. For instance, the latest ChatGPT version will refuse to answer any direct prompt about bomb-making or how to cheat in an examination.
@@ -54,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
  But if you jailbreak ChatGPT using specially-crafted prompts, it will give you tips on cheating on an exam using concealed notes.
 
 ![How to smuggle a hidden notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-smuggle-a-hidden-notes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Here's another example: we asked the vanilla ChatGPT an unethical question, and OpenAI's safeguards stopped it from answering.
 
@@ -71,16 +91,17 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
  We did not include our jailbroken prompts in our examples to avoid unethical practices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## What Does the Future Hold for ChatGPT?
 
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent[ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.
 
  For instance, safeguards against describing violent actions might diminish ChatGPT's ability to write a novel involving a crime scene. As OpenAI ramps up safety measures, it inevitably sacrifices chunks of its abilities in the process. This is why ChatGPT has suffered a significant decline in functionality since OpenAI's renewed push for stricter moderation.
@@ -88,23 +109,23 @@ It even wrote a classic Nigerian Prince email scam when asked.
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Can OpenAI Put ChatGPT Under Control?
 
  For now, OpenAI doesn't seem to have a clear-cut solution to avoid the unethical use of its tool. Ensuring that ChatGPT is used ethically is a game of cat and mouse. While OpenAI uncovers ways people are employing to game the system, its users are also constantly tinkering and probing the system to discover creative new ways to make ChatGPT do what it isn't supposed to do.
 
  So, will OpenAI find a reliable long-term solution to this problem? Only time will tell.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,4 +134,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-haven.techidaily.com/a-step-by-step-guide/"><u>: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rise-above-the-noise-must-have-video-seo-tools/"><u>[New] Rise Above the Noise – Must-Have Video SEO Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-master-the-art-of-garnering-more-facebook-fans/"><u>[Updated] 2024 Approved Master the Art of Garnering More Facebook Fans</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030402123-202/"><u>「202</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5yid5a2m6icf44ks44kk44oj77ya44k344on44o844oi44kv44oe44o844or44ks5l244gj44gf57ch5y2y44gq44ot44oh44kq57eo6zug5oqa6kgt/"><u>初学者ガイド：ショートクツールを使った簡単なビデオ編集技術</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6zplusz5aow44ks57we44g6l6844ka44gf44kb44gu44or44ov44o844od44kk44oz44oi44gu5yplusw5omx44ge77ya5yq55p6c55qe44gq5oml6acg5pwz56il/"><u>音声を組み込むためのパワーポイントの取扱い：効果的な手順教程</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-step-by-step-guide-to-adding-crystal-clear-flac-music-to-your-itunes-library/"><u>A Step-by-Step Guide to Adding Crystal Clear FLAC Music to Your iTunes Library</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211175276-9781615193578-breathe-mama-breathe-5-minute-mindfulness-for-busy-moms/"><u>Breathe, Mama, Breathe: 5-Minute Mindfulness for Busy Moms | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-the-top-6-solutions-for-asf-file-compatibility-and-enjoyment-on-any-device/"><u>Discover the Top 6 Solutions for ASF File Compatibility and Enjoyment on Any Device</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-youtubes-missing-minute-media/"><u>Fixed YouTube's Missing Minute Media</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-secrets-to-youtube-highlighted-remarks/"><u>In 2024, Unveiling the Secrets to YouTube Highlighted Remarks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-infinix-hot-40-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Infinix Hot 40 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029505997-windows-pc/"><u>Windows PCにおすすめ！ビデオの左右反転手順：マルチメディア管理ツール</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029613228-zoom/"><u>Zoom リモート ミーティング中にビジュアル・オーディオが不良の場合、どうすればよいか？</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Bright: Discovering Our Must-Have Enhancements in Coming Windows 12 Release"
-date: 2024-08-29T02:14:07.989Z
-updated: 2024-08-30T02:14:07.989Z
+date: 2024-11-13T21:31:05.743Z
+updated: 2024-11-18T23:48:22.259Z
 tags:
   - deals
 categories:
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc3
 
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  Universal Noise Cancellation Built-in
 
  Many applications now have noise cancelation built in, but the quality is widely variable. [Discord, which uses Krisp](https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/), has excellent noise cancelation. NVIDIA also offers [NVIDIA Broadcast](https://extra-skills.techidaily.com/in-2024-orchestrating-the-scene-adding-cropping-and-adjusting-music-in-canva/), which includes a noise cancellation feature. NVIDIA Broadcast allows users with an NVIDIA GPU to filter out echoes or troublesome background noise. It works really well, but it requires [an RTX GPU](https://remote-screen-capture.techidaily.com/2024-approved-mastering-mayhem-and-mystery-the-essential-gaming-list-top-10/) to run.
@@ -59,6 +55,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![A microphone on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52730616053_b68b4eca6b_o.png) 
 
 Andrew Heinzman / How-To Geek
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Live and Dynamic Backgrounds
 
@@ -76,12 +79,16 @@ Andrew Heinzman / How-To Geek
 
 ![The widgets on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h16_21.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It would be nice to see Windows 12 offer more granular control over what is displayed in the Widgets menu, how the widgets themselves are displayed, and where you can place them.
 
  Personally, I’d love a little weather widget in the upper right corner of my right monitor.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Control Over the Right-Click Menu
 
@@ -91,9 +98,6 @@ Andrew Heinzman / How-To Geek
 
  We’ve been living with cluttered right-click menus for decades. A native tool would be a small but fantastic addition to Windows 12.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Favorites List on the Emoji Picker
 
 [The emoji picker](https://screen-video-capture.techidaily.com/2024-approved-top-6-minecraft-house-ideas-for-beginners/) is one of my favorite additions in the recent versions of Windows, but it is lacking one critical feature: a favorites list!
@@ -103,24 +107,29 @@ Andrew Heinzman / How-To Geek
 ![The Emoji picker on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h15_16.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  It would be great to have the option to build a favorites tab that opens by default. It would be even better if the favorites tab let you assign a key to each favorited item for faster access, much like [how the Power User Menu works](https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/).
 
  The ability to press Win+. and then just tap a single key to enter an emdash? Yes, please.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Better Control Over the Start Menu
 
  The Windows 11 Start menu has proven to be as divisive as it is different. We don’t expect a complete reversal in Windows 12, but more control would be a very welcome change.
 
  Live tiles were a bit of a bust, but allowing users to integrate their favorite widgets into the Start Menu would be a nice start. The ability to toggle between a list display and an icon grid array would also be really nice.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Xbox App Needs a Rework
 
  The Xbox app is notoriously buggy and has been for years. Sometimes it works, sometimes, inexplicably, it doesn’t.
@@ -128,6 +137,13 @@ Andrew Heinzman / How-To Geek
  It also lacks basic functionality that other game distribution platforms support, like the ability to limit your bandwidth within the actual app, among others. You shouldn’t need to fiddle around in the Windows Settings app to achieve something basic like that.
 
  The Xbox app needs some TLC from Microsoft to reach its maximum potential. Hopefully we’ll see that with Windows 12 (or sooner!)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Better Device Backup Options in Windows Backup
 
@@ -138,6 +154,13 @@ Andrew Heinzman / How-To Geek
 1. It needs to have a local backup option, with support for local “Restore from Backup” functionality. Currently, you're limited by how much OneDrive storage you have.
 2. Users need more control over which files and folders are included in the backup.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Improve Windows Start Search
 
  You can press the Windows key and start typing to search your PC (and Bing, if you don't [disable Bing search](https://unlock-android.techidaily.com/how-to-unlock-any-vivo-y200e-5g-phone-password-using-emergency-call-by-drfone-android/)), but it is still slower, clunkier, and less fully-featured than Spotlight Search on Macs.
@@ -146,28 +169,8 @@ Andrew Heinzman / How-To Geek
 
 ![The Run feature from Windows PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h17_07.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  We’d love to see something that combines the best of Windows Search (live results, like weather) with PowerToys' Run integrated into Windows 12.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Helpful Local AI Tools
 
  Copilot is neat, and [can be useful](https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-y77t-screen-to-pc-with-chromecast-drfone-by-drfone-android/), but we’d like to see Microsoft also lean into local AI tools and applications, too.
@@ -184,8 +187,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +194,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-boost-engagement-stream-live-from-twitch-embed-on-fb/"><u>[New] 2024 Approved Boost Engagement Stream Live From Twitch, Embed on FB</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-pioneering-techniques-for-smooth-recording-in-virtual-sessions/"><u>[New] In 2024, Pioneering Techniques for Smooth Recording in Virtual Sessions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-prime-mp4-fb-file-shifter-for-2024/"><u>[Updated] Prime MP4-FB File Shifter for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/defeating-chatgpt-sign-in-errors-a-comprehensive-troubleshooting-guide/"><u>Defeating ChatGPT Sign-In Errors: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/excel-skills-you-possess-that-no-bot-including-chatgpt-can-match/"><u>Excel Skills You Possess that No Bot, Including ChatGPT, Can Match</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-might-advanced-language-models-challenge-the-dominance-of-search-engines/"><u>How Might Advanced Language Models Challenge the Dominance of Search Engines?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-quick-tutorial-on-how-to-convert-image-to-youtube-thumbnail/"><u>In 2024, A Quick Tutorial On How To Convert Image To YouTube Thumbnail</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-s17t-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo S17t</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-artificial-intelligence-a-threat-to-cybersecurity-employment-prospects/"><u>Is Artificial Intelligence a Threat to Cybersecurity Employment Prospects?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-task-management-with-these-8-ai-powered-chrome-tools-ranked-by-efficiency/"><u>Maximize Task Management with These 8 AI-Powered Chrome Tools Ranked by Efficiency</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/overcoming-handheld-videography-instability-on-gopro-for-2024/"><u>Overcoming Handheld Videography Instability on GoPro for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-realme-11-proplus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Realme 11 Pro+ to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tale-spinners-narrating-your-chatgpt-roleplay-journey/"><u>Tale Spinners: Narrating Your ChatGPT Roleplay Journey</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-age-of-inclusivity-step-into-gpt-4/"><u>The Age of Inclusivity: Step Into GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-impact-of-chatgpt-on-modern-medicine-and-patient-care/"><u>The Impact of ChatGPT on Modern Medicine and Patient Care</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-to-fixing-6-common-pitfalls-in-chatgpt-interactions/"><u>Unlocking the Secrets to Fixing 6 Common Pitfalls in ChatGPT Interactions</u></a></li>
+</ul></div>
 

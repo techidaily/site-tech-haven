@@ -1,7 +1,7 @@
 ---
 title: How Did CrowdStrike's Windows Meltdown Event Unfold ? A Historical Analysis Revealed by ZDNet
-date: 2024-11-02T22:23:35.985Z
-updated: 2024-11-08T04:36:15.637Z
+date: 2024-11-17T21:58:58.903Z
+updated: 2024-11-18T18:20:18.001Z
 tags:
   - apple
 categories:
@@ -51,10 +51,16 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +100,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +133,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,21 +187,19 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-getting-started-with-digital-image-detailing-for-2024/"><u>[New] Getting Started with Digital Image Detailing for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-step-by-step-guide-to-basic-ps-color-correction/"><u>[New] Step-by-Step Guide to Basic PS Color Correction</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-securely-save-your-favorite-facebook-films-on-chrome/"><u>2024 Approved Securely Save Your Favorite Facebook Films on Chrome</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-90-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor 90 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-auto-gpt-hold-its-own-without-the-power-of-gpt-a-comprehensive-review/"><u>Can Auto-GPT Hold Its Own Without the Power of GPT-# - A Comprehensive Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-the-turing-test-determine-true-ai-and-when-might-we-surpass-it/"><u>Can the Turing Test Determine True AI, and When Might We Surpass It?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-transfer-learning-techniques-within-artificial-intelligence/"><u>Demystifying Transfer Learning Techniques Within Artificial Intelligence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-how-claude-outshines-chatgpt-in-four-remarkable-ways-for-enhanced-ai-interactions/"><u>Discover How Claude Outshines ChatGPT in Four Remarkable Ways for Enhanced AI Interactions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-exercise-design-with-ai-assisted-guidance/"><u>Effective Exercise Design with AI-Assisted Guidance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-validity-of-prompt-engineering-as-employment/"><u>Exploring the Validity of Prompt Engineering as Employment</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-the-paperclip-maximizer-scenario-sheds-light-on-potential-risks-of-advanced-ai/"><u>How the Paperclip Maximizer Scenario Sheds Light on Potential Risks of Advanced AI</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-tips-for-shooting-and-sharing-videos-on-instagram/"><u>In 2024, Tips for Shooting & Sharing Videos on Instagram</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722975590215-international-collaboration-is-crucial-for-biosecurity-policy-effectiveness-due-to-the-global-nature-of-health-risks/"><u>International Collaboration Is Crucial for Biosecurity Policy Effectiveness Due to the Global Nature of Health Risks.</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-top-10-talking-photo-online-tools-you-have-to-try/"><u>New Top 10 Talking Photo Online Tools You Have To Try</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-steam-and-gog-software-sales-variance/"><u>Understanding Steam and GOG: Software Sales Variance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/warning-signs-of-sham-chatgpt-portals-protecting-your-information/"><u>Warning Signs of Sham ChatGPT Portals: Protecting Your Information</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-collaborative-video-creation-and-growth-tips/"><u>[Updated] Collaborative Video Creation & Growth Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-scripts-to-screen-a-filmmakers-guide/"><u>[Updated] In 2024, Scripts to Screen A Filmmaker's Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-what-drives-youtubes-content-creator-hub/"><u>[Updated] What Drives YouTube's Content Creator Hub?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tial-audio-tools-free-superior-dj-templates-online/"><u>Essential Audio Tools Free, Superior DJ Templates Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exciting-news-for-coders-apple-amps-up-programming-tools-with-gratis-ai-boost-detailed-insights-zdnet/"><u>Exciting News for Coders! Apple Amps up Programming Tools with Gratis AI Boost - Detailed Insights | ZDNet.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-honor-x8b-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Honor X8b using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionary-safety-message-feature-coming-to-your-iphone-with-ios-18-learn-more-inside-on-zdnet/"><u>Revolutionary Safety Message Feature Coming to Your iPhone with iOS 18 | Learn More Inside on ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-guide-to-live-recording-best-15-video-resources/"><u>The Ultimate Guide to Live Recording - Best 15 Video Resources</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-ipad-applications-for-enhanced-efficiency-streamlining-your-task-management-zdnet-insights/"><u>Top iPad Applications for Enhanced Efficiency: Streamlining Your Task Management | ZDNet Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-places-to-purchase-apple-watch-series-9-and-ultra-before-it-stops-exclusive-offers/"><u>Top Places to Purchase Apple Watch Series 9 & Ultra (Before It Stops) - Exclusive Offers!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transitioning-seamlessly-to-your-newest-iphone-essential-tips-and-strategies/"><u>Transitioning Seamlessly to Your Newest iPhone - Essential Tips & Strategies</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-mastering-mobile-audio-recordings-the-10-leading-iphone-apps-for-2024/"><u>Updated Mastering Mobile Audio Recordings The 10 Leading iPhone Apps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-i-wont-switch-from-iphone-14-to-iphone-16-pro-insights-and-thoughts/"><u>Why I Won't Switch From iPhone 14 to iPhone 16 Pro - Insights and Thoughts</u></a></li>
 </ul></div>
 

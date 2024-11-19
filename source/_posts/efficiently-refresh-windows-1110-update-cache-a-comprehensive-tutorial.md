@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Refresh Windows 11/10 Update Cache: A Comprehensive Tutorial"
-date: 2024-08-29T02:12:06.201Z
-updated: 2024-08-30T02:12:06.201Z
+date: 2024-11-13T18:38:32.467Z
+updated: 2024-11-18T19:49:26.324Z
 tags:
   - desktop
 categories:
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1
 
  Both Windows 11 and Windows 10 make it super easy to clear your Windows Update cache. You can use a graphical method or a command line option to delete the saved update files. We’ll show you your available options.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why Should You Clear Your Windows Update Cache?
 
  There are many reasons you might want to clear your Windows Update cache.
@@ -49,9 +46,6 @@ services.msc
 
 !['Stop' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-stop-windows-update-service.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Launch Run again using Windows+R, type the path below in the box, and press Enter. The following is the path to the Windows Update cache folder. It assumes that Windows is installed on your C:\\ drive. However, if that’s not the case, just change the drive letter in the path.
 
 C:\Windows\SoftwareDistribution\
@@ -66,10 +60,14 @@ C:\Windows\SoftwareDistribution\
 
 !['Start' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-start-windows-update-service.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This ensures your PC can continue to look for the latest updates.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Clear Windows Update Cache Using Disk Cleanup
 
@@ -80,37 +78,35 @@ C:\Windows\SoftwareDistribution\
 ![Disk Cleanup highlighted in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-run-disk-cleanup.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Select your Windows installation drive and choose "OK."
 
 ![The Windows installation drive and 'OK' highlighted in Disk Cleanup prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-choose-windows-drive.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "Clean Up System Files."
 
 !['Clean Up System Files' highlighted in Disk Cleanup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-clean-up-system-files.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Choose your Windows installation drive again and select "OK."
 
  In Disk Cleanup, enable the "Windows Update Cleanup" option. Feel free to enable other options if you’d like to delete those files as well. Then, at the bottom, click "OK."
 
 !['Windows Update Cleanup' and 'OK' highlighted in Disk Cleanup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-delete-windows-update-cache-disk-cleanup.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  The tool will begin cleaning up the update cache files.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Clear Windows Update Cache Using Command Prompt
 
  If you prefer command line methods over graphical ones, use a few commands in Command Prompt (or PowerShell) to remove the update cache.
@@ -118,6 +114,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Begin by opening the Start Menu, searching for **Command Prompt**, and selecting "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-run-cmd-as-admin.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the "User Account Control" (UAC) prompt, select "Yes."
 
@@ -127,6 +130,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 net stop bits`
     
 ![Commands to stop certain Windows services typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-stop-services.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next up, run the following command to make the Windows Update cache folder the current working directory.
 
@@ -166,6 +176,13 @@ net start bits`
 
 ![Windows' 'Save As' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-create-update-cache-removal-batch-file.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the future, to clear your Windows Update cache using the script, right-click the script file and select "Run as Administrator." In the User Account Control prompt, choose "Yes." The script will stop certain services, deletes the update cache files, and restarts the stopped services.
 
 ---
@@ -178,8 +195,6 @@ net start bits`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +202,21 @@ net start bits`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-peak-laughter-edit-suite/"><u>[New] Peak Laughter Edit Suite</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-demystifying-the-mechanics-of-youtube-studio/"><u>[Updated] 2024 Approved Demystifying the Mechanics of YouTube Studio</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-boosting-video-reach-on-youtube-an-in-depth-guide-to-seo-techniques-for-2024/"><u>[Updated] Boosting Video Reach on YouTube An In-Depth Guide to SEO Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevating-your-instagram-conversations-an-in-depth-guide/"><u>[Updated] Elevating Your Instagram Conversations An In-Depth Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-nix-youtube-snippet-playback-on-all-devices/"><u>[Updated] Nix YouTube Snippet Playback on All Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effective-troubleshooting-steps-for-samsung-smart-tv-subtitle-glitches/"><u>Effective Troubleshooting Steps for Samsung Smart TV Subtitle Glitches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-tech-for-developing-habitual-inner-peace-practices/"><u>GPT-Tech for Developing Habitual Inner Peace Practices</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-there-a-character-limit-to-responses-generated-by-chatgpt/"><u>Is There a Character Limit to Responses Generated by ChatGPT?</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-nba-2k23-pc-problems-effortlessly-learn-about-the-7-best-solutions-available-now/"><u>Resolve Your NBA 2K23 PC Problems Effortlessly: Learn About the 7 Best Solutions Available Now!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolved-issue-apple-tv-4k-compatible-with-high-resolution-youtube-content/"><u>Resolved Issue: Apple TV 4K Compatible with High-Resolution YouTube Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sam-altman-steps-down-as-openai-ceo-repercussions-for-ai-language-model-chatgpt/"><u>Sam Altman Steps Down as OpenAI CEO - Repercussions for AI Language Model ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/survival-tips-from-ai-can-chatgpt-help-you-escape-the-wild/"><u>Survival Tips From AI: Can ChatGPT Help You Escape the Wild?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-zen-ai-assistance-in-daily-practices/"><u>The Future of Zen: AI Assistance in Daily Practices</u></a></li>
+</ul></div>
 

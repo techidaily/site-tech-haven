@@ -1,7 +1,7 @@
 ---
 title: "Guide to Using iMessage on PC: Compatibility with Windows Operating Systems"
-date: 2024-11-02T23:06:49.437Z
-updated: 2024-11-08T06:27:31.154Z
+date: 2024-11-16T00:05:35.478Z
+updated: 2024-11-18T22:14:51.548Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -55,13 +62,6 @@ Microsoft added iPhone support to Phone Link in Windows 11 in early 2023\. To ma
 Next, confirm that you're running the latest version of Phone Link. To do this, open the Microsoft Store app from the Start menu and click the Library icon. Click the Get Updates button and allow all your installed apps to be updated, including Phone Link if necessary.
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
 
@@ -91,18 +91,18 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -121,10 +121,10 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -146,10 +146,10 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -159,10 +159,16 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Send a message
@@ -207,17 +213,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-complete-guide-to-livestreaming-on-mobile-devices/"><u>[New] 2024 Approved The Complete Guide to Livestreaming on Mobile Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-launch-your-live-stream-a-comprehensive-beginners-manual/"><u>[Updated] Launch Your Live Stream A Comprehensive Beginner's Manual</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/addressing-alexa-connectivity-issues-tips-for-restoring-responsiveness/"><u>Addressing Alexa Connectivity Issues: Tips for Restoring Responsiveness</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convierte-tus-archivos-tiff-a-jpg-rapido-y-sencillo-con-el-conversor-on-line-gratis-de-movavi/"><u>Convierte Tus Archivos TIFF a JPG Rápido Y Sencillo Con El Conversor On-Line Gratis De Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-advice-configuring-and-utilizing-microsoft-copilot-on-your-mac-machine/"><u>Expert Advice: Configuring and Utilizing Microsoft Copilot on Your Mac Machine</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-tecno-spark-20-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Tecno Spark 20 Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-poco-f5-pro-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Poco F5 Pro 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1010634-9781780993300-pagan-portals-hedge-witchcraft/"><u>Pagan Portals - Hedge Witchcraft | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/proactive-measures-for-authentic-ai-app-consumption/"><u>Proactive Measures for Authentic AI App Consumption</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sam-altman-steps-down-from-openai-implications-for-the-future-of-chatgpt/"><u>Sam Altman Steps Down From OpenAI: Implications for the Future of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-world-of-ai-unveiled-examining-its-functions-and-assessing-the-threats-involved/"><u>The World of AI Unveiled: Examining Its Functions and Assessing the Threats Involved</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-final-goodbye-to-youtubes-minis-a-step-by-step-process-for-2024/"><u>[New] Final Goodbye to YouTube's Minis A Step-by-Step Process for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-browsers-ai-capabilities-with-these-7-essential-chatgpt-chrome-tools/"><u>Boost Your Browser's AI Capabilities with These 7 Essential ChatGPT Chrome Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-regulation-challenges-latest-google-news-algorithm-update-and-securing-top-tier-wifi-on-holiday-getaways/"><u>ChatGPT Regulation Challenges, Latest Google News Algorithm Update, and Securing Top-Tier WiFi on Holiday Getaways</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversion-crisis-here-are-the-best-conver2mp3-replacements-for-uninterrupted-music-downloads/"><u>Conversion Crisis? Here Are the Best Conver2MP3 Replacements for Uninterrupted Music Downloads</u></a></li>
+<li><a href="https://solve-info.techidaily.com/elevating-your-sites-potential-through-advanced-cookiebot-integration/"><u>Elevating Your Site's Potential Through Advanced Cookiebot Integration</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-and-fix-a-frozen-spotify-on-windows-11/"><u>How to Stop and Fix a Frozen Spotify on Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-top-8-youtube-thumbnail-secrets-for-high-traffic-videos/"><u>In 2024, Top 8 YouTube Thumbnail Secrets for High Traffic Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-safe-to-discuss-sensitive-topics-on-chatgpt-find-out-here/"><u>Is It Safe to Discuss Sensitive Topics on ChatGPT? Find Out Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/non-disclosive-keeping-ai-dialogues-undetectable/"><u>Non-Disclosive Keeping: AI Dialogues Undetectable</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/recognizing-artificial-intelligence-illusions-identifying-ai-hallucinations/"><u>Recognizing Artificial Intelligence Illusions: Identifying AI Hallucinations</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-sony-shopping-expertise-guidebook/"><u>The Sony Shopping Expertise Guidebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-every-aspect-of-openai-in-detail/"><u>Understanding Every Aspect of OpenAI in Detail</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-ai-based-plagiarism-tools-fail-the-hidden-consequences/"><u>Why AI-Based Plagiarism Tools Fail - The Hidden Consequences</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-back-your-lost-scroll-wheel-control-on-a-windows-10-pc/"><u>Winning Back Your Lost Scroll Wheel Control on a Windows 10 PC</u></a></li>
 </ul></div>
 

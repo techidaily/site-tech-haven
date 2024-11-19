@@ -1,7 +1,7 @@
 ---
 title: "The Great 2024 CrowdStrike-Windows Crisis Explained: A Deep Dive Into the Events that Shook Cybersecurity"
-date: 2024-10-15T17:53:22.503Z
-updated: 2024-10-21T20:19:21.183Z
+date: 2024-11-12T20:58:31.494Z
+updated: 2024-11-18T17:49:49.881Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,16 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -133,16 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -193,20 +181,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-echo-chambers-tech-updates-for-2024/"><u>[New] Echo Chambers Tech Updates for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/erfect-iphone-mp3-conversion-top-6-software-recommendations/"><u>[New] Perfect iPhone MP3 Conversion Top 6 Software Recommendations</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-superior-video-capture-systems-the-1-to-18-list/"><u>[Updated] In 2024, Superior Video Capture Systems - The #1 to #18 List</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-luminous-designs-examination-pinnacle-studio-audit/"><u>In 2024, Luminous Designs Examination Pinnacle Studio Audit</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ary-returns-for-one-million-youtube-watchers-for-2024/"><u>Monetary Returns for One Million YouTube Watchers for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/preserving-your-custom-flipbook-creation-setup-on-flipbuilder-for-future-projects/"><u>Preserving Your Custom Flipbook Creation Setup on FlipBuilder for Future Projects</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transform-your-workflow-with-these-tips-on-implementing-slack-in-the-office/"><u>Transform Your Workflow with These Tips on Implementing Slack in the Office</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-ai-potential-utilizing-gpt-cuffed-by-copilot-at-zero-charge/"><u>Unlock AI Potential: Utilizing GPT- Cuffed by Copilot at Zero Charge</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-the-power-of-ai-6-practical-uses-for-chatgpt-in-telecommuting-and-independent-work/"><u>Unlock the Power of AI: 6 Practical Uses for ChatGPT in Telecommuting and Independent Work</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-the-secrets-play-as-an-online-investigator-with-our-curated-list-of-4-tech-infused-murder-mystery-games/"><u>Unlock the Secrets: Play as an Online Investigator with Our Curated List of #4 Tech-Infused Murder Mystery Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-opportunities-a-guide-to-participating-in-openais-bug-hunt-rewards-program/"><u>Unlocking Opportunities: A Guide to Participating in OpenAI's Bug Hunt Rewards Program</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-your-access-troubleshooting-chatgpt-errors/"><u>Unlocking Your Access: Troubleshooting ChatGPT Errors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-chatgpts-core-plugins-features-and-practical-uses/"><u>Unveiling ChatGPT’s Core Plugins: Features and Practical Uses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zerogpt-myths-debunked-why-you-should-doubt-these-common-ai-detectors-with-4-proof-points/"><u>ZeroGPT Myths Debunked: Why You Should Doubt These Common AI Detectors (With 4 Proof Points)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-essential-guide-to-muting-intruders-on-google-video-chats/"><u>[New] 2024 Approved The Essential Guide to Muting Intruders on Google Video Chats</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-6-figure-success-starts-with-smart-hashtagging/"><u>[New] 6-Figure Success Starts with Smart #Hashtagging</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-harmonic-halo-melodies-enriching-chats-on-whatsapp/"><u>[Updated] In 2024, Harmonic Halo Melodies Enriching Chats on WhatsApp</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-pcs-premier-ps3-clones-2023-edition/"><u>2024 Approved PC's Premier PS3 Clones - 2023 Edition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-poco-x6-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Poco X6 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-powered-solutions-overcoming-spreadsheet-anxiety-and-excelling-at-excel/"><u>ChatGPT-Powered Solutions: Overcoming Spreadsheet Anxiety & Excelling at Excel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-crafting-protective-custom-exercise-regimens/"><u>ChatGPT: Crafting Protective, Custom Exercise Regimens</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-right-language-ai-deciding-between-bing-and-gpt-3/"><u>Choosing the Right Language AI: Deciding Between Bing and GPT-3</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cook-like-a-pro-top-7-uses-of-chatgpt-in-the-kitchen/"><u>Cook Like a Pro: Top 7 Uses of ChatGPT in the Kitchen</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-cross-social-media-content-strategy-with-youtube-and-fb-for-2024/"><u>Crafting Cross-Social Media Content Strategy with YouTube & FB for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-perks-and-pitfalls-of-chatgpt-pro/"><u>Decoding the Perks & Pitfalls of ChatGPT Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-virtual-eternity-how-our-online-identities-survive-us/"><u>Decoding the Virtual Eternity: How Our Online Identities Survive Us</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/defending-original-art-with-nightshades-from-the-onslaught-of-ai-reproductions/"><u>Defending Original Art with Nightshades From the Onslaught of AI Reproductions</u></a></li>
+<li><a href="https://common-error.techidaily.com/simplify-your-pc-management-mastering-file-explorer-on-windows-10/"><u>Simplify Your PC Management: Mastering File Explorer on Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-mastering-snapchats-zoom-feature-for-2024/"><u>The Ultimate Guide to Mastering Snapchat's Zoom Feature for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover How to Recover Lost Passwords Using macOS Keychain | Insights & Guides by ZDNET
-date: 2024-11-07T04:55:25.852Z
-updated: 2024-11-07T18:43:38.281Z
+date: 2024-11-16T02:03:15.874Z
+updated: 2024-11-19T01:06:36.573Z
 tags:
   - apple
 categories:
@@ -31,10 +31,16 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -48,10 +54,10 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -69,10 +75,16 @@ As you can see, the password is hidden from sight. To view the password for the 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Creating a password entry
@@ -84,10 +96,10 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -121,24 +133,19 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-comparing-tiktok-and-youtube-shorts-for-personal-content-creation/"><u>[Updated] Comparing TikTok & YouTube Shorts for Personal Content Creation</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-enhancing-video-production-for-instagram-reels/"><u>[Updated] In 2024, Enhancing Video Production for Instagram Reels</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-mastering-playback-pivot-a-step-by-step-yt-guide/"><u>2024 Approved Mastering Playback Pivot A Step-by-Step YT Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-its-intelligence-what-does-openai-have-to-say-about-any-decline/"><u>ChatGPT and Its Intelligence - What Does OpenAI Have to Say About Any Decline?</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/decoding-youtube-income-how-much-does-each-1000-viewer-earn-for-2024/"><u>Decoding YouTube Income How Much Does Each 1,000 Viewer Earn for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/does-engaging-with-chatgpt-enhance-its-knowledge-through-conversation/"><u>Does Engaging with ChatGPT Enhance Its Knowledge Through Conversation?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-iphone-capabilities-by-combining-siri-with-the-ai-of-chatgpt-step-by-step-tutorial/"><u>Enhancing iPhone Capabilities by Combining Siri with the AI of ChatGPT – Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-ai-identification-programs-for-teaching-professionals-and-leaders/"><u>Essential AI Identification Programs for Teaching Professionals and Leaders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-advice-on-acquiring-royalty-free-high-quality-graphics-for-2024/"><u>Expert Advice on Acquiring Royalty-Free, High-Quality Graphics for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/immediate-integration-how-to-access-and-utilize-gpt-4-with-chatgpt/"><u>Immediate Integration: How to Access and Utilize GPT-4 with ChatGPT</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-achieving-broadcast-excellence-from-recordings-to-livestreams-on-obs/"><u>In 2024, Achieving Broadcast Excellence From Recordings to Livestreams on OBS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-boost-your-revenue-yielding-earnings-from-youtube-at-500-followers/"><u>In 2024, Boost Your Revenue Yielding Earnings From YouTube at 500 Followers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-glowing-with-hd-does-it-serve-the-scope-of-hdr-well/"><u>In 2024, Glowing with HD Does It Serve the Scope of HDR Well?</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-should-you-buy-videopad-video-editor-an-honest-review-and-recommendation/"><u>New Should You Buy Videopad Video Editor? An Honest Review and Recommendation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-comprehensive-guide-to-chatgpt-enterprise-key-features-services-and-edge-over-competitors/"><u>The Comprehensive Guide to ChatGPT Enterprise – Key Features, Services, and Edge Over Competitors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-effect-of-ceo-reshuffle-on-chatgpt-with-openai-bid-farewell-to-sam-altman/"><u>The Effect of CEO Reshuffle on ChatGPT with OpenAI Bid Farewell to Sam Altman</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-insiders-guide-to-interacting-with-ai-learn-the-chatgpt-way/"><u>The Insider's Guide to Interacting With AI: Learn the ChatGPT Way</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-15-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 15 Plus without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-routines-the-9-benefits-of-using-chatgpt/"><u>Transforming Routines: The 9 Benefits of Using ChatGPT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-x-sound-engineer-edition-pc/"><u>[New] 2024 Approved X-Sound Engineer Edition - PC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-close-encounters-experiencing-roblox-at-greater-detail/"><u>[New] Close Encounters Experiencing Roblox At Greater Detail</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-make-lip-sync-video-without-installing-any-app/"><u>2024 Approved How to Make Lip Sync Video Without Installing Any App</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/3-strategie-efficaci-per-migliorare-la-migrazione-di-ad-da-windows-server-2008-a-2amo/"><u>3 Strategie Efficaci per Migliorare La Migrazione Di AD Da Windows Server 2008 a 2Amo</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-glimpse-into-the-future-my-positive-encounter-with-apple-vision-pros-early-release-insights-for-tech-enthusiasts-zdnet/"><u>A Glimpse Into the Future: My Positive Encounter with Apple Vision Pro's Early Release - Insights for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-timecode-conversion-tools-for-filmmaker/"><u>Best Timecode Conversion Tools for Filmmaker</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725290311628-dvd-dvd/"><u>DVD リプリケーションガイド | 著作権を侵害せずにDVDのコピーとバッキング</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/future-proofing-your-wrist-in-depth-comparison-between-the-apple-watch-ultra-and-series-8-to-find-your-ideal-match-zdnet/"><u>Future-Proofing Your Wrist: In-Depth Comparison Between The Apple Watch Ultra & Series 8 to Find Your Ideal Match | ZDNET</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-quickly-enhance-drivers-in-windows-guide-for-all-win-10817/"><u>How to Quickly Enhance Drivers in Windows: Guide for All (Win 10,8.17)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipad-pro-comparison-navigating-features-of-latest-flagship-tablets-from-apple-a-buyers-decision-maker-guide-gadgetpundit/"><u>IPad Pro Comparison: Navigating Features of Latest Flagship Tablets From Apple - A Buyer's Decision-Maker Guide | GadgetPundit</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/macbook-showdown-in-depth-comparison-of-macbook-pro-vs-macbook-air-to-help-you-pick-your-ideal-laptop-cnet/"><u>MacBook Showdown: In-Depth Comparison of MacBook Pro Vs. MacBook Air to Help You Pick Your Ideal Laptop | CNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/meet-the-ultimate-workout-buddy-how-apples-airpods-pro-3-track-your-heart-rate-for-optimal-training-results/"><u>Meet the Ultimate Workout Buddy: How Apple's AirPods Pro 3 Track Your Heart Rate for Optimal Training Results</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-language-learning-with-chatgpts-premium-features/"><u>Optimize Your Language Learning with ChatGPT's Premium Features</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-13t-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi 13T Pro support - Forgotten screen lock.</u></a></li>
 </ul></div>
 

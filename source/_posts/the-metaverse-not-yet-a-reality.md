@@ -1,7 +1,7 @@
 ---
 title: "The Metaverse: Not Yet a Reality"
-date: 2024-08-29T02:15:55.735Z
-updated: 2024-08-30T02:15:55.735Z
+date: 2024-11-17T23:55:44.105Z
+updated: 2024-11-18T18:27:23.440Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 * [The Uncertain Now and the Unknowable Future](https://screen-recording.techidaily.com/finding-your-fanbase-obs-or-twitch-studio-for-2024/)
 
  There's a lot of talk about [the metaverse](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/) in the media these days, but there's only one problem: It doesn't exist---at least not yet. How will we know when it's actually here? We'll explore the possibilities.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Nebulous Nature of the Metaverse
 
@@ -40,6 +47,13 @@ _Benj Edwards / How-To Geek_
 
  So we'll define the metaverse as, roughly, a network-connected VR multiverse that isn't owned by one company alone. That technology might exist in a development stage at the moment, but it is not currently widely implemented, and no industry-wide standards are set.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Missing: The Nuts and Bolts of The Metaverse
 
  In his [Facebook Connect 2021 keynote](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU207428/https://www.youtube.com/watch?v=BnSUk0je6oo), Oculus consultant John Carmack said that "The metaverse is a honeypot trap for [architecture astronauts](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)," warning about engineers and designers who take an abstract, high-level view of things and don't worry about the "nuts and bolts" of making it a reality. He also cautioned for a products-based approach to the metaverse (citing Meta's [Horizon Worlds](https://www.oculus.com/facebook-horizon/) VR chat app) rather than spending a lot of effort defining an architecture that may end up not being used at all.
@@ -47,8 +61,12 @@ _Benj Edwards / How-To Geek_
 ![An image from a Meta Horizons VR promo video.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/meta_horizons_vr_2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _Meta_
 
  And that's the main problem with the metaverse right now: the nuts and bolts aren't there. The fundamental technologies that would let people chat, own property, and do business across platforms and devices in a 3D virtual world have not been standardized in a way that makes it possible. To make it happen, it will take widely-adopted [communication protocols](https://en.wikipedia.org/wiki/Communication%5Fprotocol) that don't exist and [reinterpretation of intellectual property law](https://www.technologyslegaledge.com/2021/11/an-unreal-issue-managing-ip-in-the-metaverse/).
@@ -62,8 +80,12 @@ Related: [The Foundation of the Internet: TCP/IP Turns 40](https://phone-solutio
 ![A 1954 newspaper TV advertisement saying "TV IS NOW HERE."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/tv_is_now_here_1954_4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _[Vintage Computing and Gaming](https://www.vintagecomputing.com/index.php/archives/494/retro-scan-of-the-week-tv-is-now-here)_
 
  Has any one of those three scenarios (licensed standards, widely-adopted open technology, government mandate) happened with the metaverse yet? [Signs point to no](https://www.wired.com/story/big-tech-metaverse-internet-consolidation-business/). That's the surest indicator that the metaverse, as promised, does not yet exist.
@@ -74,9 +96,6 @@ _[Vintage Computing and Gaming](https://www.vintagecomputing.com/index.php/archi
 
 Related: [The First Website: How the Web Looked 30 Years Ago](https://techidaily.com/how-to-reset-nokia-c12-without-the-home-button-drfone-by-drfone-reset-android-reset-android/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Is There an Actual Need for the Metaverse?
 
  With the limitations we've discussed, does that mean the metaverse will never exist? No---it might very well become the way of the future. But our current vision of it might also never come to pass, since the industry seems to be coming at it from a [top-down rather than a bottom-up approach](https://en.wikipedia.org/wiki/Top-down%5Fand%5Fbottom-up%5Fdesign).
@@ -87,9 +106,6 @@ Related: [The First Website: How the Web Looked 30 Years Ago](https://techidaily
 
 ![People demonstrating VPL virtual reality in the late 1980s.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/nasa_vr.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 _NASA_
 
  There's an argument that approaching a perceived problem from the top-down usually ends up in failure. For example, if you want to order a pizza online, would it really be better to walk into a virtual store with a VR headset and pick up a 3D pizza---or just tap in an order through a smartphone app?
@@ -106,9 +122,6 @@ _NASA_
 
 ![A man using an augmented reality headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/augmented_reality.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _[khoamartin/Shutterstock.com](https://www.shutterstock.com/image-photo/playing-magic-virtual-reality-hololens-1-760842796)_
 
  So why the push for the metaverse? Much of the media narrative right now is being driven by Facebook's recent name change to Meta. As some have cynically noted, the change could be a [calculated distraction](https://www.vox.com/recode/2021/10/20/22737168/facebook-name-change-metaverse-zuckerberg-frances-haugen-whistleblower) from growing international pressure to [regulate social media](https://www.theguardian.com/technology/2021/dec/25/facebook-how-to-fix-break-up-regulation). It could also be a play for Meta to own a large chunk of the next phase of the future internet, or a way to justify Meta's $2 billion [acquisition of Oculus](https://www.forbes.com/sites/briansolomon/2014/03/25/facebook-buys-oculus-virtual-reality-gaming-startup-for-2-billion/).
@@ -119,9 +132,6 @@ _[khoamartin/Shutterstock.com](https://www.shutterstock.com/image-photo/playing-
 
 ![A woman using a Virtuality headset in the 1990s.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/virtuality_1990s.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Virtuality_
 
  The tech industry---and the media, hand-in-hand---have a history of pushing buzzy things long before they're ready or practical, such as [AI in the 1980s](https://medium.com/@buschmuc/the-big-ai-hype-lessons-to-be-learnt-from-the-past-abc24e79f8ca) and [VR in the 1990s](https://www.pcmag.com/news/the-wacky-world-of-vr-in-the-80s-and-90s). Currently, the metaverse seems to be the latest in that long and proud tradition.
@@ -134,8 +144,6 @@ _Virtuality_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +151,22 @@ _Virtuality_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-engineering-a-memorable-tiktok-close-screen/"><u>[New] 2024 Approved Engineering A Memorable TikTok Close Screen</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-precision-in-portability-the-ultimate-list-of-35-free-android-video-compressors/"><u>[New] In 2024, Precision in Portability The Ultimate List of 35 Free Android Video Compressors</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-access-top-shorter-video-downloads-for-free-online/"><u>[Updated] 2024 Approved Access Top Shorter Video Downloads for FREE Online</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-professional-take-the-syma-x5c-ideal-first-timers-droning-companion/"><u>[Updated] In 2024, Professional Take The Syma X5C – Ideal First-Timer's Droning Companion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027112181-pc/"><u>「PC上で外部オーディオを記録するためのステップバイステップマニュアル」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027488067-windows-10/"><u>【マルチメディア管理】Windows 10上で動画結合の詳細な手順とテクニック</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-oppo-find-x7-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Oppo Find X7 Ultra to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/fixing-muted-combat-experts-guide-to-reactivating-apex-legends-audio/"><u>Fixing Muted Combat: Experts' Guide to Reactivating Apex Legends Audio</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-2024-guide-to-converting-mp4-videos-to-vob-on-pcmac-and-online-tools-the-top-five-strategies/"><u>Ultimate 2024 Guide to Converting MP4 Videos to VOB on PC/Mac and Online Tools: The Top Five Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-most-effective-mts-video-editor-software-on-windows/"><u>Ultimate Guide to the Most Effective MTS Video Editor Software on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-amplify-your-sound-with-vlcs-volume-enhancer/"><u>Ultimate Guide: Amplify Your Sound with VLC's Volume Enhancer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-on-converting-your-swf-flash-videos-into-high-quality-mp4s/"><u>Ultimate Tutorial on Converting Your SWF Flash Videos Into High-Quality MP4s</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-how-to-download-and-save-your-favorite-beatstars-songs-as-mp3-files/"><u>Ultimate Tutorial: How to Download and Save Your Favorite BeatStars Songs as MP3 Files</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unleash-creativity-youtube-studio-editor-secrets-revealed/"><u>Unleash Creativity YouTube Studio Editor Secrets Revealed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-top-5-must-try-ios-18-accessibility-enhancements-for-an-effortless-user-experience/"><u>Unlock Top 5 Must-Try iOS 18 Accessibility Enhancements for an Effortless User Experience</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Installing the Open Source Office Program, LibreOffice, in Place of MS Office on macOS Devices | ZDNET Insights
-date: 2024-11-06T16:57:36.167Z
-updated: 2024-11-08T06:43:24.744Z
+date: 2024-11-14T19:12:24.776Z
+updated: 2024-11-18T19:08:20.426Z
 tags:
   - apple
 categories:
@@ -45,16 +45,10 @@ It fits onto your screen tightly with an EZ Apply Tray to simplify application, 
 [Best iPad screen protector for a paper-like feel Paperlike 2.1 iPad Screen Protector The Paperlike screen protector transforms your screen to feel like a piece of paper and mimics a more realistic writing, drawing, and sketching experience. It's made of tempered glass with a smooth, scratch-resistant surface and reinforced edges for better longevity. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJS86VV9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[Best privacy iPad screen protector Sahara iPad ZeroDamage UltraStrong+ Tempered Glass Screen Protector You'll also be assured that whatever you're watching, working on, or browsing stays unseen by passerbys thanks to the Sahara's privacy screen, which blocks the view of any person trying to view your screen, whether to the left or right of you, within a 38-degree angle. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BNCGQJ18%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A basic case
@@ -95,13 +89,6 @@ When ZDNET's Senior Reviews Editor, Kerry Wan, tested the Combo Touch and Logite
 
 [Best keyboard case from Apple Apple Magic Keyboard Folio Designed specially for the 10th-generation iPad, it features a built-in trackpad, a 14-key function row, an adjustable stand and detachable keyboard, and a versatile two-piece design. It's the most obvious choice on the market if you're looking for a keyboard case for your iPad, but keep in mind it costs over $200. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Magic-Keyboard-Folio-10th-Generation%2Fdp%2FB0BJLFH8RC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[Best iPad keyboard for the iPad Pro 13-inch Apple Magic Keyboard for iPad Pro (2024) Apple's newest Magic Keyboard is compatible with the new iPad Pro models. Available in an 11-inch or 13-inch configuration, this new keyboard offers a larger trackpad and a sleeker design, amongst other features. Preorder it now. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR43LL%2FA%2Fmagic-keyboard-for-ipad-pro-13%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best keyboard case for iPad Pro Apple Magic Keyboard for iPad Pro Apple's Magic Keyboard costs a hefty $299, but it features quiet, backlit keys and has angle adjustability, and is the flagship keyboard case for the iPad Pro. View at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMagic-Keyboard-for-iPad-Pro-11-inch-4th-generation-and-iPad-Air-5th-generation-US-English-Black-iPad-Not-Included%2F984505060&subId1=zd-__COM_CLICK_ID__-dtp)[Best budget keyboard case ESR Rebound Magnetic Keyboard Case The ESR Rebound Magnetic Keyboard features similar top specs like a trackpad, long-lasting battery, a floating, angled stand for viewing, laptop-style keys, a stylus holder and front and back protection, but at a lower price of $105. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Compatible-Cantilever-Precision-Multi-Touch%2Fdp%2FB09N744Y4C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A stylus
 
 When you need to take notes, draw, or sketch and don't want to use your digits, a stylus is a handy accessory to your iPad that can level up its productivity. And the good news is there are plenty of [top stylus models](https://www.zdnet.com/article/best-ipad-stylus/) that are compatible with iPads, and many even have some of the same technologies as the Apple Pencil, like palm rejection and tilt recognition. 
@@ -123,10 +110,16 @@ Keep in mind that the third iteration of Apple's handy [pencil may be launching 
 [Best Apple Pencil for new iPad models (2024) Apple Pencil Pro Apple's newest Apple Pencil Pro is available for preorder now. Designed for the new iPad Air and Pro models, it features Find My technology, as well as offers new features like squeeze and barrel roll for more precision. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best comfortable stylus Logitech Crayon Even though this stylus is from Logitech, it is built using Apple Pencil technology and can be used with hundreds of Apple Pencil-supported apps. In fact, it's the only non-Apple stylus with Apple's stamp of approval (and even sold on Apple's website). Its flat form factor is much more comfortable than the Apple Pencil, offering a reassuring grip. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07JFP5G4L%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[Best dual-tip stylus Zagg Pro Stylus The Zagg Pro stylus stands out in our list because it's a dual-tip stylus. The end tip is excellent for scrolling, while the active tip is built for drawing and writing (with tilt recognition to boot). It also has palm-rejection technology and can attach magnetically to iPad Pro models. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08M6FGQ94%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You might also need:
@@ -150,15 +143,28 @@ While everyone's idea of essential accessories for their iPad will be different,
 [Logitech i345 Portable Wireless Mouse for iPad $22.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08MY7JDT4%2Fref%3Dasc%5Fdf%5FB08MY7JDT41727521200000%3Fcreative%3D395261%26creativeASIN%3DB08MY7JDT4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best iPad?
 
 ZDNET's top pick for the best iPad is the iPad Air (5th generation) because it includes nearly all of the best features the iPad has to offer at a price that's more approachable than the iPad Pro. However, we'd recommend the 10th-generation iPad model for Facetime and Zoom purposes, and those who want a portable tablet for reading should go with the iPad Mini (6th generation). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the new iPad models?
 
@@ -210,22 +216,21 @@ The Apple Pencil Pro was announced on May 7 and features a slew of new features 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-tapestry-translator-looms-screen-recording-guide/"><u>[New] 2024 Approved The Tapestry Translator Loom’s Screen Recording Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/solved-the-iphone-cannot-be-synced-itunes-error-54-after-windows-10-upgrade/"><u>[Solved] The iPhone Cannot Be Synced iTunes Error (-54) After Windows 10 Upgrade</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-pro-level-screen-recorder-showdown/"><u>[Updated] 2024 Approved Pro-Level Screen Recorder Showdown</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-master-the-art-of-sharing-funny-gifs-instagrams-latest-trend-explained-in-4-steps-for-2024/"><u>[Updated] Master the Art of Sharing Funny GIFs Instagram's Latest Trend Explained in 4 Steps for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-gt-neo-5-se-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme GT Neo 5 SE Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-turn-on-system-protection-in-windows-10/"><u>How to Turn On System Protection in Windows 10</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-masterful-monetization-crafting-a-revenue-driven-youtube-presence/"><u>In 2024, Masterful Monetization Crafting a Revenue-Driven Youtube Presence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-screen-shots-a-step-by-step-guide-for-windows-10-users/"><u>Mastering the Art of Screen Shots: A Step-by-Step Guide for Windows 10 Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-your-pc-settings-navigating-to-control-panel-in-windows-versions-11-7-and-8/"><u>Mastering Your PC Settings: Navigating to Control Panel in Windows Versions 11, 7, and 8</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/navigating-windows-11-uncovering-synonyms-for-sync-center-and-detailed-tutorial/"><u>Navigating Windows 11: Uncovering Synonyms for Sync Center and Detailed Tutorial</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-graphics-system-startup-problems-a-compreh-grove-guide/"><u>Resolving Graphics System Startup Problems - A Compreh Grove Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-accessing-the-control-panel-on-windows-10-7-and-8/"><u>Step-by-Step Guide: Accessing the Control Panel on Windows 10, 7 & 8</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-activating-system-guard-features-on-windows-10/"><u>Step-by-Step Guide: Activating System Guard Features on Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-executing-a-clean-boot-on-your-windows-10-device/"><u>Step-by-Step Guide: Executing a Clean Boot on Your Windows 10 Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-installing-latest-drivers-on-your-hp-envy-20-laptop/"><u>Step-by-Step Guide: Installing Latest Drivers on Your HP ENVY 20 Laptop</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-try-before-you-buy-final-cut-pro-90-day-free-trial/"><u>Updated In 2024, Try Before You Buy Final Cut Pro 90-Day Free Trial</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-discover-the-best-online-ringtone-stores-for-pixels/"><u>[New] Discover the Best Online Ringtone Stores for Pixels</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728499427242-windows-7/"><u>「コマンドラインでWindows 7ファイルを複写する方法」</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/automated-marketing-with-cutting-edge-cookiebot-technology/"><u>Automated Marketing with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-a05-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy A05 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/complete-guide-fixing-fifa-20-game-crashes-on-windows-pcs/"><u>Complete Guide: Fixing FIFA 20 Game Crashes on Windows PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-openai-reward-security-researchers-with-its-bug-bounty-scheme/"><u>How Does OpenAI Reward Security Researchers with Its Bug Bounty Scheme?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-image-creation-with-chatgpt-an-ultimate-guide/"><u>Mastering the Art of Image Creation with ChatGPT: An Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prioritizing-factors-when-implementing-ai-for-emotional-support-via-chatgpt/"><u>Prioritizing Factors when Implementing AI for Emotional Support via ChatGPT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-google-pixel-8-pro-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Google Pixel 8 Pro has been deleted.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-routine-how-chatgpt-elevates-your-lifestyle/"><u>Revolutionizing Routine: How ChatGPT Elevates Your Lifestyle</u></a></li>
+<li><a href="https://article-tips.techidaily.com/straightforward-approach-to-mastering-simple-hdr-techniques-for-2024/"><u>Straightforward Approach to Mastering Simple HDR Techniques for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-flaws-of-zerogpt-and-the-challenge-of-relying-solely-on-detection-software/"><u>The Hidden Flaws of ZeroGPT and the Challenge of Relying Solely on Detection Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-free-ai-image-creation-top-5-open-source-solutions-unveiled/"><u>The Ultimate Guide to Free AI Image Creation: Top 5 Open Source Solutions Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-your-sales-potential-writing-winning-proposals-using-chatgpt-techniques/"><u>Unleashing Your Sales Potential: Writing Winning Proposals Using ChatGPT Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/webm-to-mp3-made-easy-top-converter-reviews/"><u>WebM to MP3 Made Easy Top Converter Reviews</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-does-italy-immediately-prohibit-chatgpt/"><u>Why Does Italy Immediately Prohibit ChatGPT?</u></a></li>
 </ul></div>
 

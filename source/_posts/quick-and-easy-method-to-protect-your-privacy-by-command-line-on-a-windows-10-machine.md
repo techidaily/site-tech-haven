@@ -1,7 +1,7 @@
 ---
 title: Quick & Easy Method to Protect Your Privacy by Command Line on a Windows 10 Machine
-date: 2024-08-29T02:12:23.586Z
-updated: 2024-08-30T02:12:23.586Z
+date: 2024-11-12T20:25:35.876Z
+updated: 2024-11-18T18:27:31.654Z
 tags:
   - desktop
 categories:
@@ -16,6 +16,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Lock Your Windows 10 PC Using Command Prompt](https://vp-tips.techidaily.com/new-audiovisual-adaptability-in-free-fire-for-2024/)
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To lock your Windows PC using Command Prompt, run "**Rundll32.exe user32.dll,LockWorkStation"** in the Command Prompt
@@ -25,18 +32,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Lock Your Windows 10 PC Using Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) on your PC by opening the Start menu, typing “cmd” in the Windows Search bar, and then selecting “Command Prompt” from the search results.
 
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
 
 Rundll32.exe user32.dll,LockWorkStation
@@ -44,9 +51,20 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
 
@@ -56,9 +74,6 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  With Command Prompt open, run this command.
 
 powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK <time>
@@ -69,9 +84,6 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
 
  Next, run this command:
@@ -80,9 +92,6 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Apply the setting to the currently active scheme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-set-active.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  Now your [lock screen](https://driver-download.techidaily.com/1722977751917-synaptics-drivers-download-and-update-for-windows-easily/) will timeout after the set amount of time. Give it a try!
 
 <ins class="adsbygoogle"
@@ -91,8 +100,6 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +107,23 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-10-essential-vlog-editing-hacks-for-novice-creators/"><u>[New] 10 Essential Vlog Editing Hacks for Novice Creators</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-prime-ringtone-retailers-for-game-of-thrones-fans/"><u>[Updated] In 2024, Prime Ringtone Retailers for Game of Thrones Fans</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-troubleshoot-vanished-facebook-videos-discover-our-top-12-fixes/"><u>2024 Approved Troubleshoot Vanished Facebook Videos - Discover Our Top 12 Fixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/claude-2-unveiled-insightful-exploration/"><u>Claude 2 Unveiled: Insightful Exploration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cyber-threats-evolving-chatgpts-emergence-as-a-potential-risk/"><u>Cyber Threats Evolving: ChatGPT's Emergence as a Potential Risk</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-hd-quality-install-updated-driver-for-webcam-c270-on-w11/"><u>Enhance HD Quality: Install Updated Driver for Webcam C270 on W11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-approaches-to-governmental-regulation-of-ai-tools/"><u>Essential Approaches to Governmental Regulation of AI Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-landscape-of-interactive-content-development/"><u>Exploring the Landscape of Interactive Content Development</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-how-to-circulate-your-chatgpt-dialogues-with-others-online/"><u>Guide: How to Circulate Your ChatGPT Dialogues with Others Online</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-shot-success-adopt-these-10-key-photographic-rules/"><u>IPhone Shot Success Adopt These 10 Key Photographic Rules</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/methods-and-steps-to-delete-your-chatgpt-trail/"><u>Methods and Steps to Delete Your ChatGPT Trail</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-windows-pc-into-a-hub-for-cutting-edge-conversations-try-our-zero-cost-local-clone-of-chatgpt-using-gpt4all/"><u>Transform Your Windows PC Into a Hub for Cutting-Edge Conversations – Try Our Zero-Cost Local Clone of ChatGPT Using GPT4All</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-compressing-hd-4k-or-8k-videos-for-optimal-space-saving-achieve-up-to-90-size-reduction/"><u>Ultimate Guide to Compressing HD, 4K, or 8K Videos for Optimal Space Saving – Achieve up to 90% Size Reduction</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unstuck-and-unveiled-tiktok-videos-sans-stickers/"><u>Unstuck and Unveiled TikTok Videos Sans Stickers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/your-guide-to-cost-free-android-screenshots/"><u>Your Guide to Cost-Free Android Screenshots</u></a></li>
+</ul></div>
 

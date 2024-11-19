@@ -1,7 +1,7 @@
 ---
 title: New York Times Puzzles - Insightful Clues & Solutions From Today’s Edition, May 19Th
-date: 2024-08-29T02:11:01.149Z
-updated: 2024-08-30T02:11:01.149Z
+date: 2024-11-11T23:51:47.148Z
+updated: 2024-11-18T17:05:08.261Z
 tags:
   - web
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
@@ -29,8 +36,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Hints for Today's Connections Groups
 
  Here are a few hints for the 343rd Connections game to get you started:
@@ -40,13 +51,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Blue:** Also an alcoholic drink.
 * **Purple:** Sounds like something you'd eat.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Are Today's Connections Groups?
 
 ![May 19th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-19th-connections.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  If you still need help, the actual group names are:
 
 * **Yellow:** Affluent
@@ -54,16 +69,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Blue:** Old-Fashioned
 * **Purple:** Fruit Homophones
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Today's NYT Connections Answers
 
 ![May 19th Connections words and groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-19th-connections-filled.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 **Affluent (Yellow):** 
 
  Flush, Loaded, Rich, Wealthy
@@ -80,10 +89,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Bury, Current, Leachy, Pair
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  How Did We Solve This Connections Game?
 
  May 19th was a step-down in difficulty from the last game, or so it seemed anyway. 
@@ -97,8 +102,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  That left bury, current, leachy, and pair. They didn't seem to have anything in common, but saying them out loud helped. They're homophones for fruits. The Purple group was "Fruit Homophones." 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How Do You Guess Connections Groups?
 
  There is no quick, reliable way to approach Connections like there is with Wordle, since Connections isn't algorithmic. However, there are a few things to keep in mind that can help.
@@ -118,8 +127,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +134,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-navigate-the-vlogiverse-6-curated-questionnaires-for-discerning-viewers/"><u>[New] In 2024, Navigate the Vlogiverse 6 Curated Questionnaires for Discerning Viewers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-social-image-hoarders-manual-a-guide-to-downloading-and-keeping-gif-images/"><u>[Updated] 2024 Approved The Social Image Hoarder's Manual A Guide to Downloading and Keeping GIF Images</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-social-image-saver-stealing-and-storing-gif-images-from-twitter-for-2024/"><u>[Updated] The Social Image Saver Stealing and Storing GIF Images From Twitter for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elite-video-editing-tools-tailored-to-windows-platforms/"><u>2024 Approved Elite Video Editing Tools Tailored to Windows Platforms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-windows-users-take-note-camcorders-guide-ahead/"><u>2024 Approved Windows Users, Take Note Camcorders Guide Ahead</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bypassing-limits-gpts-hidden-potentials/"><u>Bypassing Limits: GPT's Hidden Potentials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/claudes-edge-over-gpt-identifying-the-top-4-differentiators/"><u>Claude’s Edge Over GPT: Identifying the Top 4 Differentiators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-best-ai-powered-therapy-bots-for-overcoming-emotional-hurdles/"><u>Explore the Best AI-Powered Therapy Bots for Overcoming Emotional Hurdles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-alternate-realities-through-chatgpt-a-worldbuilders-guide/"><u>Exploring Alternate Realities Through ChatGPT: A Worldbuilder's Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-contrast-how-natural-language-processing-differs-from-machine-learning/"><u>Exploring the Contrast: How Natural Language Processing Differs From Machine Learning</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-y27-4g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo Y27 4G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-itel-s23-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Itel S23</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-lenovo-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Lenovo Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-era-of-tech-synergy-maximizing-profits-with-chatgpt-and-whisper-apis/"><u>New Era of Tech Synergy: Maximizing Profits with ChatGPT and Whisper APIs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-procedure-for-deactivating-your-chatgpt-account/"><u>Ultimate Procedure for Deactivating Your ChatGPT Account</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-rpi-console-powers-retro-gaming-more-batocera-or-retropie/"><u>Which RPi Console Powers Retro Gaming More: Batocera or RetroPie?</u></a></li>
+</ul></div>
 

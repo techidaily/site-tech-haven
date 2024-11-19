@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice on Mastering Your iPad: 10 Must-Know Settings and Tricks for Apple Enthusiasts | Featured by ZDNET"
-date: 2024-11-01T20:50:07.462Z
-updated: 2024-11-08T09:08:54.236Z
+date: 2024-11-13T18:43:06.110Z
+updated: 2024-11-18T23:58:28.072Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Configure your focus settings
 
 I kid you not: The Focus settings that Apple rolled out a few years ago might be some of my most-used settings of all time. For those unfamiliar, Focus modes are basically fancy Do Not Disturb profiles that can be enabled manually, automatically at a certain time of day, or even when you travel somewhere. They allow you to control which notifications you see, who can contact you, and more. It's helpful when you want certain notifications while at work and others while you're relaxing at home. 
@@ -54,6 +61,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -66,13 +80,6 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -82,10 +89,10 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
@@ -98,18 +105,18 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -132,19 +139,6 @@ Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increa
 Of course, while the feature is enabled out of the box, there's always a chance you aren't taking advantage of it on your iPad Pro, and I wouldn't be doing my due diligence if I didn't ask you to check the setting.
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
 
@@ -194,20 +188,24 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-advice-for-eliminating-youtube-video-skip-teasers/"><u>[Updated] Expert Advice for Eliminating YouTube Video Skip Teasers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-initiating-live-video-sharing-complete-walkthrough/"><u>[Updated] Initiating Live Video Sharing Complete Walkthrough</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-leading-online-convertor-audio-to-written-text-for-2024/"><u>[Updated] Leading Online Convertor Audio to Written Text for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bulk-content-design-strategies-with-canva-and-chatgpt-combinations/"><u>Bulk Content Design Strategies with Canva & ChatGPT Combinations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-its-legal-concerns-revolutionizing-googles-news-algorithm-plus-strategies-for-improved-mobile-internet-during-holidays/"><u>ChatGPT and Its Legal Concerns: Revolutionizing Google's News Algorithm Plus Strategies for Improved Mobile Internet During Holidays</u></a></li>
-<li><a href="https://games-able.techidaily.com/co-op-creations-crafting-companionship-through-minecraft-teamwork/"><u>Co-Op Creations: Crafting Companionship Through Minecraft Teamwork</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-social-presence-by-writing-smarter-posts-with-chatgpt/"><u>Enhance Your Social Presence by Writing Smarter Posts with ChatGPT</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-11-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 11 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-level-gaming-unveiling-microsofts-acquisition-of-blizzards-creative-vision-exclusive-interview/"><u>Next Level Gaming: Unveiling Microsoft's Acquisition of Blizzard's Creative Vision [Exclusive Interview]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/solve-your-displays-issues-when-nvidia-output-is-missing/"><u>Solve Your Displays Issues When Nvidia Output Is Missing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategies-to-bypass-chatgpts-input-limits/"><u>Strategies to Bypass ChatGPT's Input Limits</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-ten-note-taking-solutions-you-should-try-our-review/"><u>Top Ten Note Taking Solutions You Should Try : Our Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-potential-how-chatgpt-and-whisper-api-integration-revolutionizes-business-operations/"><u>Unlocking Potential: How ChatGPT & Whisper API Integration Revolutionizes Business Operations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unmissable-vr-cinematic-journeys-for-2024/"><u>Unmissable VR Cinematic Journeys for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bargain-ballbusters-learn-free-football-broadcast-techniques/"><u>[New] Bargain Ballbusters Learn Free Football Broadcast Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-bridging-the-gap-between-dreams-and-reality-using-magix-vpx/"><u>[New] In 2024, Bridging the Gap Between Dreams & Reality Using Magix VPX</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-strategies-for-thriving-in-creator-studio/"><u>[New] In 2024, Strategies for Thriving in Creator Studio</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-bring-your-text-to-life-techniques-for-3d-design-in-ps/"><u>[Updated] In 2024, Bring Your Text to Life Techniques for 3D Design in PS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-exploring-ustream-and-its-counterparts/"><u>[Updated] In 2024, Exploring Ustream & Its Counterparts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-apples-voice-assistants-choosing-between-the-homepod-and-homepod-mini/"><u>Comparing Apple's Voice Assistants: Choosing Between the HomePod and HomePod Mini</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dealing-with-unexpected-vision-pro-suspensions-follow-these-tips-for-quick-recovery/"><u>Dealing with Unexpected Vision Pro Suspensions? Follow These Tips for Quick Recovery!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-new-affordable-apple-m2-macbook-air-at-just-799-arriving-early-before-the-october-prime-day-sale-techcrunch-exclusive/"><u>Discover the New Affordable Apple M2 MacBook Air at Just $799, Arriving Early Before the October Prime Day Sale - TechCrunch Exclusive</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-purchase-top-3-apples-devices-unveiled-at-wwdc-and-how-to-secure-your-order-today-learn-more-on-zdnet/"><u>Immediate Purchase: Top 3 Apples Devices Unveiled at WWDC and How to Secure Your Order Today - Learn More on ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipados-18-unveiled-at-apples-wwdc-2024-key-enhancements-and-targeted-devices-revealed-insights-on-zdnet/"><u>IPadOS 18 Unveiled at Apple's WWDC 2024: Key Enhancements and Targeted Devices Revealed - Insights on ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-ready-to-revolutionize-the-market-unveiling-lgs-latest-creation-an-xr-headset-beyond-meta-quest-3-insights/"><u>Is It Ready to Revolutionize the Market? - Unveiling LG's Latest Creation: An XR Headset Beyond Meta Quest 3 | Insights .</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-connecting-your-playstation-4-gamepad/"><u>Mastering the Art of Connecting Your PlayStation 4 Gamepad</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-aspers-methodology-for-sleep-success/"><u>Navigating Asper's Methodology for Sleep Success</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/e-retrobing-navigating-youtubes-deleted-content-for-2024/"><u>Online Retrobing Navigating YouTube’s Deleted Content for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/preserve-your-iphone-articles-pristine-appearance-with-these-three-must-have-accessories-insights/"><u>Preserve Your iPhone ([Article])'s Pristine Appearance with These Three Must-Have Accessories - Insights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/relish-free-movie-playback-pc-and-mac-style/"><u>Relish Free Movie Playback, PC & Mac Style</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/syncing-icloud-notebooks-with-linux-a-comprehensive-guide/"><u>Syncing iCloud Notebooks with Linux: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-selection-of-mac-system-optimizers-recommended-by-tech-experts-at-zdnet/"><u>The Ultimate Selection of Mac System Optimizers - Recommended by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/video-editing-showdown-bandicams-capabilities-compared-to-camtasia/"><u>Video Editing Showdown Bandicam's Capabilities Compared to Camtasia</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Hacking Scandal: How AT&T's Security Breach Exposed Customer Phone Data"
-date: 2024-08-29T02:11:38.028Z
-updated: 2024-08-30T02:11:38.028Z
+date: 2024-11-11T23:54:17.063Z
+updated: 2024-11-18T22:01:09.977Z
 tags:
   - mobile
 categories:
@@ -41,8 +41,6 @@ Hackers successfully stole the phone records of "nearly all" AT&T customers and 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +48,30 @@ Hackers successfully stole the phone records of "nearly all" AT&T customers and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-download-facebook-stories-with-ease-essential-tips-and-tricks-mobiledesktop/"><u>[New] 2024 Approved Download Facebook Stories with Ease Essential Tips and Tricks (Mobile/Desktop)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-blueprint-for-buzz-elevating-your-profile-on-fb/"><u>[New] In 2024, Blueprint for Buzz Elevating Your Profile on FB</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-choice-10-excellent-camera-lenses/"><u>[New] Ultimate Choice 10 Excellent Camera Lenses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-photo-editing-skills-essential-pixlr-techniques/"><u>Boosting Photo Editing Skills Essential Pixlr Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-cpu-value-guide-2024-securing-affordable-options-for-your-desktoplaptop-chipset/"><u>Comprehensive CPU Value Guide 2024 - Securing Affordable Options for Your Desktop/Laptop Chipset</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-depth-of-machine-minds-how-strong-ai-differs-from-weak-ai/"><u>Exploring the Depth of Machine Minds: How Strong AI Differs From Weak AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-many-tokens-does-chatgpt-allow-in-a-single-interaction-and-can-you-push-past-this-threshold/"><u>How Many Tokens Does ChatGPT Allow in a Single Interaction and Can You Push Past This Threshold?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-lava-blaze-pro-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Lava Blaze Pro 5G?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-encyclopedia-of-motion-sensing-types-and-applications/"><u>In 2024, The Encyclopedia of Motion Sensing Types & Applications</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-top-20-tiktok-anime-ideas/"><u>In 2024, Top 20 TikTok Anime Ideas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-restore-functionality-when-windows-1-1-volume-settings-stop-responding/"><u>Solved! How to Restore Functionality When Windows 1 1 Volume Settings Stop Responding</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-digital-bartender-evaluating-chatgpts-ability-to-whip-up-signature-cocktails/"><u>The Digital Bartender: Evaluating ChatGPT’s Ability to Whip Up Signature Cocktails</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-evolution-of-language-models-exploring-the-variances-between-gpt-4-gpt-4-turbo-and-gpt-e/"><u>The Evolution of Language Models - Exploring the Variances Between GPT-4, GPT-4 Turbo & GPT-E</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-pitfalls-of-using-generative-ai-for-enhancing-chat-services-insights-and-analysis/"><u>The Pitfalls of Using Generative AI for Enhancing Chat Services - Insights & Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unpacking-the-mysteries-of-gpt-4-within-verified-sphere/"><u>Unpacking the Mysteries of GPT-4 Within Verified Sphere</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-distinctions-gpt-4-vs-gpt-4-turbo-vs-phi/"><u>Unveiling the Distinctions: GPT-4 Vs. GPT-4 Turbo Vs. Phi</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

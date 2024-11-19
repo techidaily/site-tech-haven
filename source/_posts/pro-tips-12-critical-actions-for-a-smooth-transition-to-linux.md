@@ -1,7 +1,7 @@
 ---
 title: "Pro Tips: 12 Critical Actions for a Smooth Transition to Linux"
-date: 2024-08-29T02:12:22.374Z
-updated: 2024-08-30T02:12:22.374Z
+date: 2024-11-14T02:10:11.014Z
+updated: 2024-11-18T21:49:23.690Z
 tags:
   - desktop
 categories:
@@ -47,8 +47,12 @@ sudo apt upgrade
  This will download and install any updates of installed software and system packages. Updating your Linux system is more or less the same on different Linux versions, except, different distros may use different package managers. So if you want to update [Fedora](https://youtube-tips.techidaily.com/rofessionals-picks-best-editors-for-online-streams-for-2024/), or [Arch](https://fox-access.techidaily.com/expert-picks-11-easy-waterproof-kids-camcorders-for-vlogging/), for example, you can follow the same procedure and tweak the above command to fit.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Install Media Codecs
 
 [Multimedia codecs](https://some-guidance.techidaily.com/2024-approved-strategies-for-merging-youtube-music-and-video-content-effectively/) are like tiny translators, enabling your Linux system to understand and play different types of audio and video formats. Out of the box, your Linux distribution might not have all the codecs you need because they're proprietary, and some people prefer only non-proprietary software. In other situations, you may have skipped installing them while installing Linux, or maybe you chose a minimal installation that doesn't include them. If you don't care about proprietary vs. non-proprietary software, you should install codecs so that you don't encounter errors playing certain types of media.
@@ -58,8 +62,12 @@ sudo apt upgrade
 ![Multimedia codecs on the Linux Mint software center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/multimedia-codecs-on-linux-mint.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  For Fedora, you can grab the necessary codecs from the RPMfusion repository. On openSUSE, you can install them from the Packman repository.
 
  However, there's an easier process: downloading and installing the VLC media player on your distro. VLC contains most media codecs you'll need to enjoy smooth video playback.
@@ -88,16 +96,17 @@ sudo apt upgrade
 
  There are many command line utilities, such as apt-add-repository that allow you to [add these third-party repositories](https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-6-by-drfone-ios/) to your Linux system. Most graphical software managers also have a way to add software sources to the system. If you'd like, you can also jump into the configuration files and add repositories from there.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Enable Flatpaks
 
 ![An example of the Flathub website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/flathub-website.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  There are so many ways to [install software on Linux](https://extra-guidance.techidaily.com/smarter-spending-on-cloud-data-services-insights-and-recommendations-for-2024/). One of them is [Flatpak](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/), and it's a great choice too. It kind of unifies the software installation system so that, no matter what distribution you're using, you can install software from the same source in the same manner.
 
  Some distributions such as Ubuntu don't have Flatpaks enabled by default. To enable Flatpaks, you'll first need to install it and add the Flathub repository with these commands:
@@ -111,9 +120,6 @@ sudo apt install flatpak
 
 flatpak install package_name
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Set Up Wine or Bottles
 
  A common reason many [Windows users avoid using Linux](https://easy-unlock-android.techidaily.com/unlock-your-realme-narzo-60-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/) is that it doesn't have native support for many Windows-only programs. Think of Microsoft Office, Adobe Creative Suite, and many other commercial software programs. If these software programs are essential to you, then probably the best way to run them on Linux is via [Wine](https://some-guidance.techidaily.com/updated-ultimate-list-best-no-cost-lut-downloads/) or [Bottles](https://facebook-video-content.techidaily.com/2024-approved-moments-replay-module/).
@@ -122,9 +128,6 @@ flatpak install package_name
 
 ![The Bottles welcome screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Remember though, Wine is not a replacement for Windows itself. You'll never get the same performance from apps running via Wine as on a native Windows computer. There are compatibility levels for individual apps. Some apps run well, some have bugs, and some are not even supported by Wine.
 
 ##  Configure the Web Browser
@@ -132,9 +135,20 @@ flatpak install package_name
 ![Configuring Firefox on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/firefox-on-ubuntu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Most Linux distributions come with Firefox installed. I, however, like to use Brave and Chrome (you can also use [ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium).) Most browsers come with the option to import all your settings with a few clicks. This automatically installs browser extensions, fetches bookmarks, and configures security and search settings I use on other devices. Browser configuration ensures I get the same personalized browsing experience on any operating system on any device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Manage Users and Groups
 
@@ -144,16 +158,27 @@ flatpak install package_name
 
  This can sound confusing for new Linux users, but you shouldn't skip this step if you want to do advanced Linux computing. Knowing how to [add and remove users](https://fox-links.techidaily.com/updated-gif-magic-transformations-without-extra-files-downloaded-for-2024/), create groups and add users to them, [list which groups your user belongs to](https://facebook-video-footage.techidaily.com/premium-online-platforms-for-video-intro-creation-for-2024/), and other nitty-gritty details will save you from worrying about providing the wrong access to the wrong user.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Create Backups
 
 ![An example of Grsync, a Linux backup tool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linux-backup.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Nobody likes losing their files. Unfortunately, I've learned that the hard way. Creating system snapshots from time to time and backing up your most important data regularly ensures you don't lose your system files and other necessary files in an accident. That's why you should have a backup strategy right after installing Linux.
 
  There are many great tools to back up your Linux system. You have [rsync](https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/), [restic](https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2010-file-by-stellar-guide/), and Pika Backup, among others. For system snapshots, you can use [Timeshift](https://extra-support.techidaily.com/metaverse-mayhem-meets-friendly-fun-ranks-10-for-2024/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Tweak the Privacy and Security Settings
 
@@ -162,10 +187,12 @@ flatpak install package_name
 ![An example of Ubuntu asking you to share your system data with the developers to improve it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ubuntu-telemetry.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Of course, these don't make you completely anonymous. When internet privacy is crucial to me, I use the [Tor browser](https://vimeo-videos.techidaily.com/in-2024-efficiently-generating-clear-and-concise-images-thumbnails/) and set up [VPNs](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/).
 
  As for security, you could do a lot. Some of them are creating strong passwords for every user account, full disk encryption, and following the principle of least privilege. Depending on your distro, you can also control the mandatory access controls using SELinux or [AppArmor](https://facebook-video-content.techidaily.com/updated-2024-approved-navigating-the-in-stream-ad-landscape-on-facebook/). If you're running a Linux server, make sure to secure it using [fail2ban](https://some-tips.techidaily.com/in-2024-transformative-meme-making-discovering-the-best-8-tools/) and consider setting up a firewall.
@@ -184,8 +211,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +218,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-chronoscope-effect-flip-your-snapchat-videos-right/"><u>[New] In 2024, Chronoscope Effect Flip Your Snapchat Videos Right</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lens-leaders-showcase-unveiling-the-best-6-4k-dslrs/"><u>[Updated] Lens Leaders Showcase Unveiling the Best 6 4K DSLRs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-maximizing-indoor-luminance-naturally-for-2024/"><u>[Updated] Maximizing Indoor Luminance Naturally for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-tecno-camon-30-pro-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Tecno Camon 30 Pro 5G Unlock Without Password</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-ai-black-boxes-an-explanation/"><u>Decoding AI Black Boxes: An Explanation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeat-teardown-crashing-issues-with-this-comprehensive-guide/"><u>Defeat Teardown Crashing Issues with This Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-advantages-of-chatgpt-for-personal-wellness-consultations/"><u>Exploring the Advantages of ChatGPT for Personal Wellness Consultations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-the-power-6-applications-for-code-interpreter/"><u>Harnessing the Power: 6 Applications for Code Interpreter</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-windows-11-resolves-major-camera-malfunctions-in-web-conferencing/"><u>How Windows 11 Resolves Major Camera Malfunctions in Web Conferencing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagrams-updated-strategy-and-its-effects/"><u>In 2024, Instagram’s Updated Strategy and Its Effects</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/journey-blueprint-top-picks-of-seven-ai-apps-for-free-travel-planning/"><u>Journey Blueprint: Top Picks of Seven AI Apps for FREE Travel Planning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-through-numbers-the-top-7-ai-enhancers-for-mathematical-success/"><u>Navigate Through Numbers: The Top 7 AI Enhancers for Mathematical Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pioneering-the-future-of-tech-discover-openais-advanced-gpt-4-ai-solution/"><u>Pioneering the Future of Tech: Discover OpenAI's Advanced GPT-4 AI Solution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamlessly-integrate-into-ai-community-via-quoras-guide/"><u>Seamlessly Integrate Into AI Community via Quora's Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-highlighting-custom-generative-models-during-chatbot-dialogues/"><u>Step-by-Step Tutorial on Highlighting Custom Generative Models During Chatbot Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-ai-in-academic-writing-is-chatgpt-making-student-papers-redundant/"><u>The Role of AI in Academic Writing: Is ChatGPT Making Student Papers Redundant?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/turning-tidal-wave-of-tiktoks-into-manageable-drafts-through-editing/"><u>Turning Tidal Wave of TikToks Into Manageable Drafts Through Editing</u></a></li>
+</ul></div>
 

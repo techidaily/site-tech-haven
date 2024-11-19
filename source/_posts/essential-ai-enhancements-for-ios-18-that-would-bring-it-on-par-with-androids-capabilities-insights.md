@@ -1,7 +1,7 @@
 ---
 title: Essential AI Enhancements for iOS 18 That Would Bring It on Par With Android's Capabilities - Insights
-date: 2024-10-17T20:18:44.585Z
-updated: 2024-10-21T22:41:58.904Z
+date: 2024-11-14T01:13:02.652Z
+updated: 2024-11-19T02:01:16.497Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,16 +83,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -137,21 +131,21 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-3-elemental-strategies-for-writing-effective-social-media-promotions/"><u>[Updated] 2024 Approved The 3 Elemental Strategies for Writing Effective Social Media Promotions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-free-online-solutions-for-instantaneous-gif-conversion/"><u>2024 Approved Best Free Online Solutions For Instantaneous GIF Conversion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-from-unwrapped-to-personalized-perfection-10-leading-shopping-platforms/"><u>2024 Approved From Unwrapped to Personalized Perfection 10 Leading Shopping Platforms</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/digital-dominion-rise-as-a-youtube-guru/"><u>Digital Dominion Rise as a YouTube Guru</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-reality-of-prompt-engineering-as-a-career-key-aspects/"><u>Exploring the Reality of Prompt Engineering as a Career: Key Aspects</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/future-of-digital-safety-7-key-trends/"><u>Future of Digital Safety: 7 Key Trends</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-automated-content-crafting/"><u>Harness the Power of Automated Content Crafting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-ais-power-for-creative-endeavors-an-insight-into-the-strengths-and-weaknesses-of-chatgpt/"><u>Harnessing AI's Power for Creative Endeavors: An Insight Into the Strengths and Weaknesses of ChatGPT</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-stop-your-macbook-from-falling-asleep-on-closed-lid-a-step-by-step-guide/"><u>How to Stop Your MacBook From Falling Asleep on Closed Lid: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-the-blueprint-for-successful-biographies-top-tips-and-techniques-from-experts/"><u>In 2024, The Blueprint for Successful Biographies Top Tips & Techniques From Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-gpt-into-daily-schedules-easily/"><u>Integrating GPT Into Daily Schedules Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/intuitive-guide-to-crafting-chatgpt-requests-using-a-powerful-chrome-enhancement/"><u>Intuitive Guide to Crafting ChatGPT Requests Using a Powerful Chrome Enhancement</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-practical-to-utilize-auto-gpt-without-accessing-gpt-4-technology/"><u>Is It Practical to Utilize Auto-GPT Without Accessing GPT-4 Technology?</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-x100-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on X100</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-y200-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo Y200 Location | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-experts-picks-the-best-10-photography-lenses/"><u>[New] Expert's Picks The Best 10 Photography Lenses</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-adding-visuals-on-instagram-quickly-for-2024/"><u>[Updated] Adding Visuals on Instagram Quickly for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-sky-vistas-yuneec-breezes-high-def-adventure/"><u>[Updated] Exploring Sky Vistas Yuneec Breeze's High-Def Adventure</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-update-guide-get-the-latest-lenovo-t450-drivers-installed-today/"><u>Effortless Update Guide - Get the Latest Lenovo T450 Drivers Installed Today</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevate-followers-with-effective-igtv-hashtag-techniques-for-2024/"><u>Elevate Followers with Effective IGTV Hashtag Techniques for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fortnite-access-blocked-heres-what-you-need-to-know-about-the-missing-permissions-fiasco/"><u>Fortnite Access Blocked? Here’s What You Need to Know About the 'Missing Permissions' Fiasco</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-crafting-custom-ai-photos-via-dall-e-in-conjunction-with-chatgpt-4/"><u>Step-by-Step Guide to Crafting Custom AI Photos via DALL-E in Conjunction with ChatGPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-running-a-no-barriers-chatgpt-lookalike-on-windows-with-freedomgpt/"><u>Step-by-Step Guide: Running a No-Barriers ChatGPT Lookalike on Windows with FreedomGPT</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-evolution-of-style-and-technology-in-depth-look-at-samsungs-latest-galaxy-watch-3-release/"><u>The Evolution of Style and Technology: In-Depth Look at Samsung's Latest Galaxy Watch 3 Release</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-five-major-risks-with-using-chatgpt-stay-informed-and-safe/"><u>The Five Major Risks with Using ChatGPT: Stay Informed and Safe</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-meteoric-rise-of-interactive-bot-conversations/"><u>The Meteoric Rise of Interactive Bot Conversations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-8-innovative-plugins-integrating-chatgpt-into-your-crypto-world/"><u>The Ultimate List of 8 Innovative Plugins Integrating ChatGPT Into Your Crypto World</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-audio-landscapes-ai-powered-sounds-in-workstations/"><u>Transforming Audio Landscapes: AI-Powered Sounds in Workstations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/trust-issues-with-zerogpt-and-tech-analysis-aids/"><u>Trust Issues With ZeroGPT & Tech Analysis Aids</u></a></li>
+<li><a href="https://games-able.techidaily.com/wi-fi-free-the-creme-de-la-creme-of-mobile-gaming-on-idevices/"><u>Wi-Fi Free: The Crème De La Créme of Mobile Gaming on iDevices</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/aalm-halat-khta-bsraaa-islahat-nasqip-alamna-l-windows-10/"><u>علم حالات خطأ بسرعة: إصلاحات NASQIP الآمنة ل Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Transforming Auto Modifications with ChatGPT's Expertise
-date: 2024-08-24T12:54:59.563Z
-updated: 2024-08-25T12:54:59.563Z
+date: 2024-11-16T22:07:40.835Z
+updated: 2024-11-19T02:26:10.450Z
 tags:
   - chatgpt
   - open-ai
@@ -29,9 +29,23 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
 
  This just underscores how important it is to[limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) , which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is ChatGPT a Threat to Your Privacy?
 
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/) , but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
 
@@ -40,9 +54,12 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
  In any case, you should be careful when using ChatGPT, especially[if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt) , or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Addressing the Security Risks Associated With ChatGPT
 
  Artificial intelligence will be regulated at some point, but it's difficult to imagine a world in which it doesn't pose a security threat. Like all technology, it can—and will—be abused.
@@ -52,22 +69,23 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Raising Awareness Is Key
 
  What will ChatGPT be capable of five or 10 years from now? We can only speculate, but what we do know for sure is that artificial intelligence is not going anywhere.
 
  As even more advanced chatbots emerge, entire industries will have to adjust and learn how to use them responsibly. This includes the cybersecurity industry, which is already being shaped by AI. Raising awareness about the security risks associated with AI is key, and will help ensure these technologies are developed and used in an ethical way.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -76,4 +94,19 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-secrets-of-efficient-virtual-seminar-capture/"><u>[New] Secrets of Efficient Virtual Seminar Capture</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-how-to-effortlessly-download-songs-onto-your-samsung-device/"><u>1. How to Effortlessly Download Songs Onto Your Samsung Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gif202n4/"><u>高画質GIF制作ツール「202n4最新モデル」推奨リストあります</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mov-h264/"><u>快適なMOVファイル変換 - H264形式へのガイド付き手順</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/filmoras-rival-a-comprehensive-list-of-top-quality-template-collections/"><u>Filmora's Rival A Comprehensive List of Top-Quality Template Collections</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-reliable-and-trusted-is-winx-dvd-ripper-amongst-the-community/"><u>How Reliable and Trusted Is WinX DVD Ripper Amongst the Community?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-play-8t-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Play 8T Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-adatas-bespoke-invader-x-pro-features-unique-sidesweeping-glass-panel-and-integrated-5-lcd-display/"><u>Introducing AData's Bespoke Invader X Pro: Features Unique Sidesweeping Glass Panel & Integrated 5 LCD Display</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/latest-parker-movie-edition-now-available-on-dvd/"><u>Latest Parker Movie Edition Now Available on DVD</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/quik-or-not-a-comprehensive-review-and-pc-alternatives/"><u>Quik or Not A Comprehensive Review and PC Alternatives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-a-comprehensive-guide-to-resolve-windows-11s-black-display-problem/"><u>Solving the Mystery: A Comprehensive Guide to Resolve Windows 11'S Black Display Problem</u></a></li>
+<li><a href="https://win-updates.techidaily.com/windows-10-windows/"><u>Windows 10の起動失敗解決策: Windowsが正しく読み込まれませんでした問題</u></a></li>
+</ul></div>
 

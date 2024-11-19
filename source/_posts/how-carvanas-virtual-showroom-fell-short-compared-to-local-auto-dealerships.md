@@ -1,7 +1,7 @@
 ---
 title: How Carvana's Virtual Showroom Fell Short Compared to Local Auto Dealerships
-date: 2024-08-29T02:15:29.193Z
-updated: 2024-08-30T02:15:29.193Z
+date: 2024-11-13T17:19:06.521Z
+updated: 2024-11-18T23:10:21.660Z
 tags:
   - cutting-edge
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  But what started as a mostly great experience ultimately turned into an awful headache. And in the end? I bought a car from a dealership where I got a better deal and better treatment. Here's how it went down.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Ordering a Car Online Is Mostly Easy
 
 ![the Carvana website, featuring a CR-V Hybrid with several yellow symbols](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/c0b938d1.jpg) 
@@ -44,9 +51,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  With Carvana, you can have your car taken to a local pickup station, but I didn't have a working car. Instead, I paid an extra $500 to have my new car delivered directly to my home. And the date I picked meant I'd have it in time to go pick up my other car from the shop! Sure it wasn't brand new, but the car I ordered only has 3,500 miles or so and just a few scratches. New enough for my purposes, at least. Besides, new cars always cost more and drop in value immediately, right? (Yes, this is foreshadowing...)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  We're Sorry, We Don't Even Know Where Your Car Is
 
 ![An email confirming an on-time delivery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/97151f47.jpg) 
@@ -72,18 +76,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  That false hope of an early delivery really felt like Carvana was gaslighting us at this point. Remember, just a day before the first delivery date, Carvana sent an email assuring us the car was on the way and would be delivered as scheduled. We managed to get help from a relative to pick up our repaired car, which opened a world of opportunities.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  You Mean I Can Get a New Car For Less?
 
 ![The same steel-grey Honda CR-V Hybrid from before, at another angle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/52b0fd28.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Josh Hendrickson / Review Geek
 
  When we checked online, our local dealership within spitting distance had a brand new Honda CRV-Hybrid available for $1,500 less than the equivalent used model Carvana almost sold us. I feel like that warrants repeating: the dealership's new car price was less than Carvana's used car price. You better believe we dropped everything and rushed to the dealership.
@@ -97,16 +99,16 @@ Josh Hendrickson / Review Geek
  Even better, the local dealership will pick up my car, drive it to the service center, do any maintenance like oil changes, then bring it back to me---at no additional charge. Carvana can't hope to offer a service like that. What it did do was jerk me around a little more.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Let's Cancel That Cancel Button
 
 ![A website with a cancel button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/7520596d.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I didn't cancel the Carvana order right away, because I was afraid the dealership would fall through. But one benefit to the entire delay is that failing to deliver on time automatically voided the contract I signed with Carvana. Naturally, the company had another set of contracts to sign immediately, but I didn't.
 
  But it did make me feel better that a cancel button appeared after the Carvana delivery delay. That seemed to be an automated process. Every day we logged in to check the status of the delivery for any changes. Every day the cancel button was there---until one morning, it wasn't.
@@ -116,8 +118,12 @@ Josh Hendrickson / Review Geek
 ![The same page, with no cancel button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/d7850b2e.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Thankfully, I still had a tab open on another device to take screenshots for this article. That tab hadn't reloaded, and the cancel button still showed. So, I canceled it. Now you would think someone from Carvana would reach out to change our minds, especially if it spent money transporting the car. You'd think Carvana would send a confirmation email that the order is canceled. But none of that happened. The only reason I can be certain that my order really canceled is that the car never came, and it's back up for sale on the site.
 
  In the meantime, my dealership already reached to make sure everything is going well with the new car we purchased.
@@ -136,8 +142,6 @@ Josh Hendrickson / Review Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +149,21 @@ Josh Hendrickson / Review Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-and-artistry-the-ultimate-crossfade-playbook-with-audacity/"><u>[New] Precision and Artistry The Ultimate Crossfade Playbook with Audacity</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-guide-using-vlc-for-videos-for-2024/"><u>[New] Ultimate Guide Using VLC for Videos for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1728479722269-iphone/"><u>如何使用特定方法找回已经在iPhone上被永久删除的照片？</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-instructions-for-integrating-the/"><u>Comprehensive Instructions for Integrating The</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/critical-examination-unpacking-the-top-5-flaws-of-blackberry-playbook/"><u>Critical Examination: Unpacking the Top 5 Flaws of BlackBerry PlayBook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disabling-your-iphone-15-pro-and-pro-max-a-step-by-step-guide/"><u>Disabling Your iPhone 15 Pro & Pro Max: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-techniques-for-reducing-the-size-of-your-audio-recordings-using-windows-11-tools/"><u>Effective Techniques for Reducing the Size of Your Audio Recordings Using Windows 11 Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortlessly-correct-the-inverted-screen-problem-top-3-cost-free-solutions/"><u>Effortlessly Correct the Inverted Screen Problem: Top 3 Cost-Free Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-tips-for-creating-a-secure-duplicate-of-the-hunger-games-mockingjay-part-1-dvd-collection/"><u>Expert Tips for Creating a Secure Duplicate of 'The Hunger Games: Mockingjay - Part 1' DVD Collection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fast-fixes-mastering-the-art-of-downloading-ustream-videos/"><u>Fast Fixes: Mastering the Art of Downloading Ustream Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y27s-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y27s Device</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-youtube-success-through-strategic-studio-use-for-2024/"><u>Navigating YouTube Success Through Strategic Studio Use for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-airpods-sound-issues-on-pc-guides-for-windows-1110-users/"><u>Troubleshoot Your AirPods' Sound Issues on PC - Guides for WINDOWS 11/10 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/voice-message-basics-for-iphone-users-how-to-make-and-send-audio-notes-with-ease/"><u>Voice Message Basics for iPhone Users: How To Make and Send Audio Notes With Ease</u></a></li>
+</ul></div>
 

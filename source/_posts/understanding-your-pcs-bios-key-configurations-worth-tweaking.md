@@ -1,7 +1,7 @@
 ---
 title: "Understanding Your PC's BIOS: Key Configurations Worth Tweaking"
-date: 2024-08-29T02:13:14.621Z
-updated: 2024-08-30T02:13:14.621Z
+date: 2024-11-15T00:28:59.015Z
+updated: 2024-11-18T20:18:27.620Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 * Speed up your RAM, disable unused integrated peripherals, and optimize your CPU to achieve better performance and efficiency from your computer.
 
  Navigating the BIOS can feel overwhelming, with so many settings to consider. But there are a few simple tweaks you should make in the BIOS to boost the performance and stability of your system. We'll show you some of those tweaks, and explain when and why you might want to use them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1  1\. Password Protect Your BIOS 
 
@@ -37,14 +44,8 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 
 ![Manually controlling the fan speed curve in BIOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/manually-controlling-the-fan-speed-curve-in-bios.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Not all manufacturers include fan control options in their BIOS settings, particularly on laptops. Desktop computers typically offer more flexibility in fan speed management.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3  3\. Change the Boot Order 
 
  The boot order refers to the sequence in which a BIOS or UEFI searches for a bootable operating system during startup. If multiple storage devices are installed and your primary operating system resides on a lower-priority drive, your computer might expend unnecessary effort searching for a bootable OS on other drives.
@@ -54,15 +55,16 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 ![Changing the Boot Order in BIOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/changing-the-boot-order-in-bios.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After you've made these adjustments, save the changes, exit BIOS, and restart your computer. You may experience a noticeable improvement in boot time. 
 
  Even if you don't get a performance improvement, changing your boot order to [include a Windows recovery USB](https://screen-mirroring-recording.techidaily.com/updated-zooming-in-a-step-by-step-guide-to-perfect-screenshare/) or [other utility programs](https://win-answers.techidaily.com/the-complete-2024-handbook-to-eliminating-unwanted-chrome-flickering-on-your-windows-machine/) is an important part of troubleshooting a malfunctioning PC. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4  4\. Overclock Your RAM 
 
  Although you can adjust other parameters, overclocking RAM primarily involves increasing data transfer rates and refining timings to enhance overall device performance, especially for tasks that require substantial memory usage. These adjustments reduce latency, which makes applications more responsive and snappy. 
@@ -71,18 +73,6 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 
  To mitigate these risks, you can use pre-configured profiles such as[XMP (for Intel systems) or DOCP or AMP (for AMD systems)](http://www.howtogeek.com/what-is-xmp/), which provide safe overclocking options. The preset overclocking options available through XMP, DOCP, or AMP are usually pretty stable, but there are no guarantees that every specific setting will work with every hardware configuration. 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5  5\. Disable the Unused Integrated Peripherals 
 
  Turning off unused integrated peripherals through the BIOS can yield several benefits. For instance, disabling onboard audio when using a dedicated sound card can prevent conflicts between audio devices and improve audio performance. This doesn't just apply to sound cards—dedicated and integrated hardware trying to do the same thing usually increases the chances of bugs occurring. 
@@ -94,9 +84,12 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 ![Disabling HD audio controller in BIOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-disabling-hd-audio-controller-in-bios.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6  6\. Optimize CPU Performance 
 
  Most manufacturers, particularly in desktop computers, offer BIOS settings that can improve CPU performance. Features like [Hyper-Threading](https://facebook-video-share.techidaily.com/updated-elite-stabilization-solutions-for-video-creators-for-2024/), which enables CPU cores to handle two threads simultaneously, boost performance in multi-threaded applications such as video editing and rendering.
@@ -106,6 +99,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  However, these features typically increase power consumption. Disabling them, if unnecessary, can help reduce power usage. Conversely, you can enable them if you want better performance. To turn these features on or off, access the BIOS settings and navigate to the "Advanced," "CPU Configuration," "Performance," or a similar tab.
 
 ![Tweaking the CPU configurations in BIOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/tweaking-the-cpu-configurations-in-bios.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Adjust the settings according to your requirements. Once configured, remember to save the changes and exit the BIOS.
 
@@ -121,8 +121,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +128,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/1716465494008-boost-channels-to-partner-status-in-under-90-days-start-now/"><u>Boost Channels to Partner Status in Under 90 Days, Start Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-ai-tools-like-chatgpt-and-bard-be-trusted-with-your-investment-decisions/"><u>Can AI Tools Like ChatGPT & Bard Be Trusted with Your Investment Decisions?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-users-handbook-methods-for-exporting-your-conversation-history-safely-and-easily/"><u>ChatGPT User's Handbook: Methods for Exporting Your Conversation History Safely and Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-gadgets-with-tom-your-source-for-top-notch-pc-components/"><u>Exploring Gadgets with Tom: Your Source for Top-Notch PC Components</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-set-up-safe-domain-connections-within-the-macos-mail-program/"><u>How to Set Up Safe Domain Connections Within the macOS Mail Program</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-neo-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Neo Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-kinemaster-the-ultimate-guide-to-its-android-avatar/"><u>In 2024, Inside KineMaster The Ultimate Guide to Its Android Avatar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/learning-to-prepare-nutritious-dishes-with-ai-can-chatgpt-be-your-culinary-guide/"><u>Learning to Prepare Nutritious Dishes with AI: Can ChatGPT Be Your Culinary Guide?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpts-power-in-the-world-of-3d-printing-techniques/"><u>Leveraging ChatGPT's Power in the World of 3D Printing Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-pip-google-chrome-across-devices-for-2024/"><u>Mastering PIP Google Chrome Across Devices for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-pitfalls-how-chatgpt-struggles-to-offer-accurate-guidance-in-crypto-investment-decisions/"><u>Navigating Pitfalls: How ChatGPT Struggles to Offer Accurate Guidance in Crypto Investment Decisions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-lowdown-on-mobvoi-ticwatch-e2-great-price-but-not-so-much-performance/"><u>The Lowdown on Mobvoi TicWatch E2: Great Price, But Not So Much Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/thoughtful-interactions-employing-gpt-ethically/"><u>Thoughtful Interactions: Employing GPT Ethically</u></a></li>
+</ul></div>
 

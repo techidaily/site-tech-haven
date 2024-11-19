@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Speedy Shortcut Actions - Insider Tips & Tricks
-date: 2024-10-30T20:59:15.316Z
-updated: 2024-11-02T03:16:33.606Z
+date: 2024-11-17T01:01:47.103Z
+updated: 2024-11-18T17:33:10.852Z
 tags:
   - apple
 categories:
@@ -34,10 +34,10 @@ Of course, not every file type has an associated Quick Action but you can add ne
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What files offer Quick Actions?
@@ -51,25 +51,19 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
@@ -103,16 +97,10 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -165,19 +153,24 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-top-10-best-free-online-screen-recorders-for-2024/"><u>[New] Top 10 Best Free Online Screen Recorders for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011368048-solved-rage-2-crash-issue-quickly-and-easily/"><u>[SOLVED] Rage 2 Crash Issue | Quickly & Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-enterprise-ready-managing-your-apple-vision-pro-with-precision-tech-insights/"><u>1. Enterprise-Ready: Managing Your Apple Vision Pro with Precision | Tech Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/access-openais-new-gpt-shop-now-a-comprehensive-guide-on-immediate-usage/"><u>Access OpenAI's New GPT Shop Now: A Comprehensive Guide on Immediate Usage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-chatbots-exposed-demystifying-the-most-widely-held-9-misconceptions/"><u>AI Chatbots Exposed: Demystifying the Most Widely Held 9 Misconceptions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-nubia-z50s-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Nubia Z50S Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722164395200-chatgpt-vs-bing-ai-showdown-discover-the-10-main-disparities-that-set-them-apart/"><u>ChatGPT Vs. Bing AI Showdown: Discover the 10 Main Disparities That Set Them Apart!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-htc-u23-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock HTC U23 Pro Pattern Lock Screen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721952860178-go-mobile-bings-intelligent-search-for-your-devices-now/"><u>Go Mobile: Bing’s Intelligent Search for Your Devices Now.</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-windows-10-stop-the-pfn-list-is-corrupt-blue-screen-of-death-bsod/"><u>How to Fix Windows 10: Stop the 'PFN List Is Corrupt' Blue Screen of Death (BSOD)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721952253229-how-to-surpass-the-standard-chatgpt-discover-10-custom-gpts/"><u>How to Surpass the Standard ChatGPT? Discover 10 Custom GPTs!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-aligning-content-quality-with-instagrams-user-base/"><u>In 2024, Aligning Content Quality with Instagram's User Base</u></a></li>
-<li><a href="https://facebook.techidaily.com/instant-leadership-upgrade-appoint-a-page-admin/"><u>Instant Leadership Upgrade: Appoint a Page Admin</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/visionos-sdk-launched-by-apple-with-opportunity-to-apply-for-exclusive-developers-vision-pro-kit-innovatetech-today/"><u>VisionOS SDK Launched by Apple, with Opportunity to Apply for Exclusive Developer's Vision Pro Kit | InnovateTech Today</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-leap-into-the-tiktok-live-crowd-a-quick-guide-for-2024/"><u>[New] Leap Into the TikTok Live Crowd A Quick Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-your-influence-amidst-changing-social-media-ecosystem/"><u>[Updated] 2024 Approved Mastering Your Influence Amidst Changing Social Media Ecosystem</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-investing-5-yields-hundreds-of-new-viewers-now-for-2024/"><u>[Updated] Investing $5 Yields Hundreds of New Viewers Now for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advancing-siri-apples-ai-enhancements-on-the-horizon-revealed/"><u>Advancing Siri: Apple's AI Enhancements on the Horizon Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discounted-apple-macbook-air-with-m2-chip-sold-for-just-800-before-october-prime-day-find-deals-now/"><u>Discounted Apple MacBook Air with M2 Chip Sold for Just $800 Before October Prime Day - Find Deals Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-ai-enhancements-for-ios-18-that-would-bring-it-on-par-with-androids-capabilities-insights/"><u>Essential AI Enhancements for iOS 18 That Would Bring It on Par With Android's Capabilities - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-protection-why-every-iphone-user-should-consider-a-case-especially-with-the-latest-iphone-16-zdnet/"><u>Essential Protection: Why Every iPhone User Should Consider a Case, Especially With the Latest iPhone 16 (ZDNet)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/guffaw-gazette-twitters-funniest-threads/"><u>Guffaw Gazette Twitter's Funniest Threads</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/guia-diaria-para-dias-de-la-semana-en-espanol/"><u>Guía Diaria Para Días De La Semana en Español</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-best-options-top-live-streaming-platforms-according-to-types/"><u>In 2024, Best Options Top Live Streaming Platforms According to Types</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-civi-3-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Civi 3</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ios-18-unveiled-customize-and-optimize-your-iphone-control-center-with-expert-advice-from-zdnet/"><u>IOS 18 Unveiled: Customize & Optimize Your iPhone Control Center with Expert Advice From ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipads-latest-calculator-app-so-sophisticated-youll-want-the-apple-pencil-discover-how-on-zdnet/"><u>IPad's Latest Calculator App: So Sophisticated, You'll Want the Apple Pencil – Discover How on ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-communication-on-the-go-effortless-contact-with-friends-and-family-through-your-apple-watch/"><u>Mastering Communication on the Go: Effortless Contact with Friends and Family Through Your Apple Watch</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/perfecting-content-aesthetics-crafting-personalized-thumbnails/"><u>Perfecting Content Aesthetics Crafting Personalized Thumbnails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-accessing-disk-management-on-windows-11/"><u>Step-by-Step Guide: Accessing Disk Management on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-choosing-the-ideal-ipad-air-case-for-your-needs-the-2024-review-toms-hardware/"><u>Ultimate Guide to Choosing the Ideal iPad Air Case for Your Needs: The 2024 Review | Tom's Hardware</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/uncovering-the-value-in-depth-look-at-the-new-generation-totobay-alarm-clock-for-cost-conscious-shoppers/"><u>Uncovering the Value: In-Depth Look at the New Generation Totobay Alarm Clock for Cost-Conscious Shoppers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrades-unveiled-comparing-features-of-the-latest-iphone-15-pro-to-iphone-14-pro-expert-insights/"><u>Upgrades Unveiled: Comparing Features of the Latest iPhone 15 Pro to iPhone 14 Pro - Expert Insights</u></a></li>
 </ul></div>
 

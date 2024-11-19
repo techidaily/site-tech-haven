@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Purchase of Apple Vision Pro: Expert Advice on Optimal Facial Scans & Hidden Strategies"
-date: 2024-10-31T21:20:22.109Z
-updated: 2024-11-07T21:08:31.058Z
+date: 2024-11-14T16:08:39.479Z
+updated: 2024-11-19T01:46:19.188Z
 tags:
   - apple
 categories:
@@ -36,16 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -69,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -86,16 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -146,22 +134,16 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-immersive-illusions-how-vr-transforms-media-consumption/"><u>[Updated] Immersive Illusions How VR Transforms Media Consumption</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-important-settings-to-customize-before-starting-a-new-fps-game/"><u>7 Important Settings to Customize Before Starting a New FPS Game</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoiding-common-blunders-for-successful-ai-discussions/"><u>Avoiding Common Blunders for Successful AI Discussions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-for-aspiring-poets-craft-beautiful-verse-in-minutes/"><u>ChatGPT for Aspiring Poets: Craft Beautiful Verse in Minutes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-scales-public-vs-private-ai-systems/"><u>Comparing Scales: Public Vs. Private AI Systems</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/complete-guide-transforming-ts-files-into-mp4-format/"><u>Complete Guide: Transforming .TS Files Into MP4 Format</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-game-strategy-with-ai-assistance-learn-how-my-gpt-bot-enhancements-can-transform-playing-board-games/"><u>Elevate Your Game Strategy with AI Assistance: Learn How My GPT Bot Enhancements Can Transform Playing Board Games</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-the-gopro-hero5-sessions/"><u>Exploring the GoPro Hero5 Sessions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-logitech-brio-webcam-up-and-running-on-windows-os-1087/"><u>Get Your Logitech BRIO Webcam Up and Running on Windows OS (10/8/7)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-reduce-chatgpts-maxed-out-limit-win/"><u>How to Reduce ChatGPT's Maxed-Out Limit (Win)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-multicultural-communication-using-chatgpt-fluently-across-diverse-languages/"><u>Mastering Multicultural Communication: Using ChatGPT Fluently Across Diverse Languages</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/microsoft-flight-simulator-x-gold-edition-analysis-a-top-choice-for-aspiring-pilots/"><u>Microsoft Flight Simulator X Gold Edition Analysis: A Top Choice for Aspiring Pilots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-essential-guide-to-vector-databases-and-their-influence-on-ai-development/"><u>The Essential Guide to Vector Databases and Their Influence on AI Development</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95925450-9781786781659-the-original-i-ching-oracle-or-the-book-of-changes/"><u>The Original I Ching Oracle or The Book of Changes | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-stop-genshin-impact-from-frequently-crashing-on-personal-computers/"><u>Ultimate Guide to Stop Genshin Impact From Frequently Crashing on Personal Computers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-chatgpt-potential-with-the-power-of-its-api/"><u>Unlocking ChatGPT Potential with the Power of Its API</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-nlp-with-hugbing-face-comprehensive-insights-into-its-functionality-and-benefits/"><u>Unlocking the Potential of NLP with Hugbing Face: Comprehensive Insights Into Its Functionality and Benefits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-source-guide-4-top-skype-ringtones/"><u>2024 Approved The Ultimate Source Guide 4 Top Skype Ringtones</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-htc-u23-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your HTC U23 Pro FRP Locks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-zte-axon-40-lite-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 ZTE Axon 40 Lite Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-motorola-moto-g14-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Motorola Moto G14 Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-your-ipad-with-expert-advice-10-key-tips-and-setups-every-apple-user-must-know/"><u>Master Your iPad with Expert Advice: 10 Key Tips and Setups Every Apple User Must Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/meta-quest-3-leapfrogs-with-ai-capabilities-before-vision-pro-launch-tips-to-activate-and-explore-by-zdnet/"><u>Meta Quest 3 Leapfrogs with AI Capabilities Before Vision Pro Launch - Tips to Activate and Explore by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/save-24-today-on-apples-latest-bluetooth-earbuds-with-hearing-aid-compatibility-get-airpods-pro-2/"><u>Save 24% Today on Apple's Latest Bluetooth Earbuds with Hearing Aid Compatibility - Get AirPods Pro 2</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spectacular-20-anime-openers-hits-for-2024/"><u>Spectacular 20 Anime Openers' Hits for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-35-tablet-bargains-unbeatable-prime-day-2024-offers-in-stock-tech-insights/"><u>Top 35 Tablet Bargains: Unbeatable Prime Day 2024 Offers in Stock | Tech Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-flash-drives-to-boost-ps5-performance/"><u>Top Flash Drives to Boost PS5 Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-mp3-devices-features-and-reviews/"><u>Top-Rated MP3 Devices : Features and Reviews</u></a></li>
 </ul></div>
 

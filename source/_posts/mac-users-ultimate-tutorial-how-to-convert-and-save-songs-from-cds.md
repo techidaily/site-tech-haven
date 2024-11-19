@@ -1,7 +1,7 @@
 ---
 title: "Mac Users' Ultimate Tutorial: How to Convert and Save Songs From CDs"
-date: 2024-08-29T02:12:15.442Z
-updated: 2024-08-30T02:12:15.442Z
+date: 2024-11-13T02:13:08.522Z
+updated: 2024-11-18T16:45:58.384Z
 tags:
   - desktop
 categories:
@@ -38,8 +38,12 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
  You can also use those drives to read data CDs and DVDs, and play DVD movies on your Mac with the built-in DVD Player application.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Rip a CD With the Music App or iTunes
 
  If you have a Mac running macOS 10.15 Catalina or later, you can use built-in "Music" app to manage your digital library and rip audio CDs. If you have an older Mac with iTunes installed, the process is roughly the same.
@@ -48,9 +52,6 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Spotlight search result screenshot for "music.app"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-at-2-24-22-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  If you've never used the Music app or iTunes, you might be asked to go through a short setup process. There are also advertisements for the Apple Music service. **You do not need to sign up for Apple Music to play your own owned music.** 
 
  Next, insert the audio CD into your drive, if you haven't already. External drives might cause your Mac to ask permission before reading any data—click "Allow" if you get that message. The Music/iTunes app might automatically ask if you want to import the CD. You can click "Yes" to start ripping the CD.
@@ -58,15 +59,22 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 ![Music app with a CD called "Night Visions" and an import prompt window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-at-2-17-34-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If there was no automatic prompt, click the music CD in the sidebar, then click the Import CD button near the top of the window.
 
 ![Red arrow pointing to the Import CD button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-at-2-31-51-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  You'll see the available formats for importing the audio, including AAC, MP3, Apple Lossless (a [lossless compression format](https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-nova-y91-by-fonelab-android-recover-photos/) similar to FLAC), and WAV. The Music app saves audio from CDs as AAC-encoded files with a 256 kbps variable bitrate by default, which is a good balance between audio quality and storage space.
 
 ![Import settings for an audio CD in Music](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-at-2-59-20-pm.png) 
@@ -77,22 +85,35 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Window displaying Imagine Dragons album 'Night Visions' with import progress bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-at-3-03-31-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  When the process is complete, you can click the eject button (in the sidebar or near the "Import CD" button) to eject the disc. The music will be saved in your library, where you can play it or synchronize it to a connected iPhone, iPad, or iPod.
 
  You can also automatically add album art by selecting a song or album, opening the context menu (right-click or click while holding down the Command key), and selecting "Get Album Artwork." If the Music app or iTunes can't find the artwork, you can use a website like [Music Hoarders Covers](https://covers.musichoarders.xyz/) to find it manually.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Backing up Your Music
 
  You can access the music file by selecting a song or album, opening the context menu (right-click or click while holding down the Command key), and selecting "Show in Finder." The files can also be found inside the Music directory in your Home folder.
 
 ![Context menu open on a song with "Show in Finder" selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-at-3-21-14-pm.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There's no digital rights management (DRM) on music you rip from an audio CD, so you can freely copy it to your other devices, back it up to another drive, or upload it to your cloud storage.
 
@@ -102,8 +123,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +130,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-worlds-best-5-streaming-videography-tools/"><u>[New] In 2024, World's Best 5 Streaming Videography Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-rely-on-chatgpt-or-bard-for-your-financial-guidance-needs/"><u>Can You Rely on ChatGPT or Bard for Your Financial Guidance Needs?</u></a></li>
+<li><a href="https://win11.techidaily.com/confirming-the-health-of-your-windows-11-setup/"><u>Confirming the Health of Your Windows 11 Setup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-elon-musks-ambitious-venture-into-truthgpt-technology/"><u>Exploring Elon Musk's Ambitious Venture Into TruthGPT Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-possibilities-how-chatgpt-is-shaping-the-future-of-medicine/"><u>Exploring the Possibilities: How ChatGPT Is Shaping the Future of Medicine</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-smart-8-plus-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Smart 8 Plus Phone?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-motorola-moto-g84-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Motorola Moto G84 5G Without Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-poco-c65-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Poco C65 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-modulating-murmurs-for-free-fire-success/"><u>In 2024, Modulating Murmurs for Free Fire Success</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-pixma-mg2522-driver-update-download-here/"><u>Latest Canon PIXMA MG2522 Driver Update - Download Here!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-crashes-in-risk-of-rain-2-troubleshooting-guide/"><u>No More Crashes in Risk of Rain 2 - Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/optimized-approach-to-delete-unwanted-youtube-posts/"><u>Optimized Approach to Delete Unwanted YouTube Posts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionary-interactivity-analyzing-top-5-cutting-edge-ai-prompt-creators/"><u>Revolutionary Interactivity: Analyzing Top 5 Cutting-Edge AI Prompt Creators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/setting-up-the-microsoft-bing-ai-chatbot-on-your-android-phones-input-method/"><u>Setting Up the Microsoft Bing AI Chatbot on Your Android Phone's Input Method</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-afterlife-of-internet-chats-exploring-who-you-might-be-messaging-from-afar/"><u>The Afterlife of Internet Chats: Exploring Who You Might Be Messaging From Afar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-the-potential-of-written-expression/"><u>Unleash the Potential of Written Expression</u></a></li>
+</ul></div>
 

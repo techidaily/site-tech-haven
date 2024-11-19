@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple's Innovative M4 Processors: Integrating Advanced AI Capabilities Across All Mac Models - Release Timeline"
-date: 2024-10-17T22:34:27.151Z
-updated: 2024-10-21T20:04:16.738Z
+date: 2024-11-17T00:54:55.449Z
+updated: 2024-11-18T21:01:59.670Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,16 +89,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -139,22 +133,20 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-revisit-memories-easy-old-stories-on-fb-for-2024/"><u>[New] Revisit Memories Easy Old Stories on FB for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-essential-tips-for-incorporating-dynamic-cards-in-youtube-videos-for-2024/"><u>[Updated] Essential Tips for Incorporating Dynamic Cards in YouTube Videos for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-fixed-youtube-shorts-just-watch-and-enjoy/"><u>[Updated] Fixed YouTube Shorts - Just Watch and Enjoy</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-streamline-your-strategy-with-aspect-ratio-mastery-on-youtube/"><u>[Updated] In 2024, Streamline Your Strategy with Aspect Ratio Mastery on YouTube</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2023-ranking-top-6-apps-for-fb-lite-video-downloads-for-2024/"><u>2023 Ranking Top 6 Apps for FB Lite Video Downloads for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-converter-change-wmv-files-into-mp4-format-on-macos-and-windows-11/"><u>Free Online Converter: Change WMV Files Into MP4 Format on macOS and Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-x50i-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor X50i Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-highlighting-your-custom-gpt-techniques-with-gpt-references-in-chatgpt-dialogues/"><u>Mastering the Art of Highlighting Your Custom GPT: Techniques with GPT References in ChatGPT Dialogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-chatgpt-potential-in-windows/"><u>Maximize ChatGPT Potential in Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-efficiency-10-unbeatable-strategies-to-work-with-chatgpt-in-vs-code/"><u>Maximize Efficiency: 10 Unbeatable Strategies to Work with ChatGPT in VS Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-job-market-with-chatgpt-a-guide-to-6-innovative-approaches/"><u>Navigating the Job Market with ChatGPT: A Guide to 6 Innovative Approaches</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcome-chatgpt-bans-with-these-4-insights-into-why-your-accounts-locked-and-fixes-available/"><u>Overcome ChatGPT Bans with These 4 Insights Into Why Your Account's Locked & Fixes Available</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/politeness-protocols-for-conversing-with-ai-personalities-like-chatgpt-amazon-alexa-and-apples-siri/"><u>Politeness Protocols for Conversing With AI Personalities Like ChatGPT, Amazon Alexa and Apple's Siri</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-enterprise-discover-8-uses-of-chatgpt-for-growth/"><u>Revolutionize Your Enterprise: Discover 8 Uses of ChatGPT for Growth</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-gpt-interaction-top-9-addons-revealed/"><u>Revolutionize Your GPT Interaction – Top 9 Addons Revealed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-infinix-hot-40-pro-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Infinix Hot 40 Pro Phones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725286045975-and/"><u>パソコン動画保存簡単ガイド:世界一効果的なダウンロード&保管方法のご案内！</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-streamline-your-virtual-conferencing-from-skype-to-zoom/"><u>[New] 2024 Approved Streamline Your Virtual Conferencing From Skype to Zoom</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-guidelines-for-authoritative-life-lesson-videos/"><u>[Updated] Guidelines for Authoritative Life Lesson Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-direct-hit-the-techno-friendly-way-to-upload-your-short-clips/"><u>[Updated] In 2024, Direct Hit The Techno-Friendly Way to Upload Your Short Clips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/game-on-dive-into-our-funny-reaction-to-plants-vs-zombies-battle-for-neighborville/"><u>Game On! Dive Into Our Funny Reaction to Plants Vs. Zombies Battle for Neighborville</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-105-classic-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Nokia 105 Classic Phones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/innovative-approaches-to-lut-creation-for-2024/"><u>Innovative Approaches to LUT Creation for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimize-tasks-effortlessly-5-key-tactics-for-chatgpt-and-wolfram-alpha-users/"><u>Optimize Tasks Effortlessly: 5 Key Tactics for ChatGPT & Wolfram Alpha Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/securing-personal-chats-from-chatgpt-saving-mechanisms-essential-advice/"><u>Securing Personal Chats From ChatGPT Saving Mechanisms: Essential Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlining-your-dialogue-flow-the-role-of-folders-in-chatgpt-conversations/"><u>Streamlining Your Dialogue Flow: The Role of Folders in ChatGPT Conversations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-advantages-of-claude-3-over-gpt-3-top-4-facts/"><u>The Advantages of Claude 3 Over GPT-3 - Top 4 Facts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-etiquette-of-engaging-with-artificial-intelligence-chatgpt-alexa-and-siri/"><u>The Etiquette of Engaging with Artificial Intelligence: ChatGPT, Alexa & Siri</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-narrative-network-7-artistic-ways-to-use-ai-in-game-writing/"><u>The Narrative Network: 7 Artistic Ways to Use AI in Game Writing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-scales-of-ai-capability-comparing-strong-and-weak/"><u>The Scales of AI Capability: Comparing Strong and Weak</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-edit-like-a-pro-best-vertical-video-apps-for-ios-and-android/"><u>Updated 2024 Approved Edit Like a Pro Best Vertical Video Apps for iOS and Android</u></a></li>
 </ul></div>
 

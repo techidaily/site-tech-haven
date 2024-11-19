@@ -1,7 +1,7 @@
 ---
 title: "Challenging Tech Giant Apple: How My iPhone Refresh Experience Unfolded with Insights"
-date: 2024-11-04T09:28:40.275Z
-updated: 2024-11-07T19:02:12.764Z
+date: 2024-11-12T22:57:31.809Z
+updated: 2024-11-18T23:56:41.647Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -40,13 +47,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
@@ -54,10 +54,10 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -77,10 +77,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -88,6 +88,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -104,13 +111,6 @@ Screenshot by Lance Whitney/ZDNET
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -162,16 +162,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-lessons-in-motion-mastering-classroom-editing/"><u>[New] 2024 Approved Lessons in Motion Mastering Classroom Editing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-quick-snapback-to-loss-prevention-for-2024/"><u>[New] Quick Snapback to Loss Prevention for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unleashing-creativity-how-to-master-io-screen-capture/"><u>[Updated] 2024 Approved Unleashing Creativity How to Master IO Screen Capture</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-prime-desktopmobile-communication-alternatives-to-zoom/"><u>2024 Approved Prime Desktop/Mobile Communication Alternatives to Zoom</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unleashing-new-worlds-best-psvr-games-on-their-way-out/"><u>2024 Approved Unleashing New Worlds Best PSVR Games on Their Way Out</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/behind-the-screen-the-dead-internet-theory-revealed-for-online-communication-insights/"><u>Behind the Screen: The Dead Internet Theory Revealed for Online Communication Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-machines-pass-the-turing-test-exploring-possibilities-and-challenges/"><u>Can Machines Pass the Turing Test? Exploring Possibilities and Challenges</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/easy-to-follow-steps-for-android-video-capture-for-2024/"><u>Easy-to-Follow Steps for Android Video Capture for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gptbot-overview-and-the-rationale-for-its-restriction-on-websites/"><u>GPTBot Overview & The Rationale for Its Restriction on Websites</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-latest-on-chatgpt-is-it-running/"><u>The Latest on ChatGPT: Is It Running?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138566261-9781401951382-wisdom-from-your-spirit-guides/"><u>Wisdom from Your Spirit Guides | Free Book</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unveiling-facebooks-forgotten-archive-easy-guide-for-devices/"><u>[Updated] In 2024, Unveiling Facebook's Forgotten Archive Easy Guide for Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/299-apple-ipad-10th-generation-a-prime-day-steal-exclusive-offers-on-zdnet/"><u>$299 Apple iPad 10Th Generation: A Prime Day Steal - Exclusive Offers on ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-warning-liquid-found-inside-iphone-charging-port-immediate-actions-required/"><u>1. 'Warning: Liquid Found Inside iPhone Charging Port - Immediate Actions Required!'</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dive-into-huggingchat-how-it-matches-up-against-chatgpt-for-free/"><u>Dive Into HuggingChat: How It Matches Up Against ChatGPT for Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-future-at-wwdc-discover-how-apples-m4-ipad-pro-maximizes-performance-through-cutting-edge-artificial-intelligence/"><u>Exploring the Future at WWDC: Discover How Apple's M4 iPad Pro Maximizes Performance Through Cutting-Edge Artificial Intelligence</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-postponement-reasons-and-new-release-date-details/"><u>Guilty Gear Strive - Postponement Reasons and New Release Date Details</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-recurring-war-thunder-game-crashes-top-solutions/"><u>How to Fix Recurring War Thunder Game Crashes : Top Solutions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-expert-advice-on-rl-gameplay-screen-sharing/"><u>In 2024, Expert Advice on RL Gameplay Screen Sharing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unhindered-movie-enjoyment-no-cost-video-player-pcmac/"><u>In 2024, Unhindered Movie Enjoyment - No Cost VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-the-m1-macbook-pro-worth-an-upgrade-from-your-current-m3-model-expert-comparison-and-insights/"><u>Is the M1 MacBook Pro Worth an Upgrade From Your Current M3 Model? Expert Comparison & Insights</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-complete-tutorial-adding-soundtracks-to-gif-files-using-macos-tools/"><u>New The Complete Tutorial Adding Soundtracks to GIF Files Using macOS Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-switch-exchanging-playlists-across-streaming-platforms/"><u>Seamless Switch Exchanging Playlists Across Streaming Platforms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/sony-vaio-driver-installation-tips-and-tricks-for-windows-users/"><u>Sony VAIO Driver Installation: Tips & Tricks for Windows Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-iphone-15-unveiled-expert-endorsement-for-tech-savvies-and-veterans/"><u>The iPhone 15 Unveiled: Expert Endorsement for Tech Savvies & Veterans</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1727790898599-top-rated-childrens-tablets-endorsed-by-parents-expert-picks/"><u>Top-Rated Children's Tablets Endorsed by Parents | Expert Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-vpn-services-for-macos-comprehensive-reviews-by-tech-experts/"><u>Top-Rated VPN Services for macOS: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-the-full-potential-top-benefits-and-tricks-for-mastering-your-google-tv-experience/"><u>Unlock the Full Potential: Top Benefits and Tricks for Mastering Your Google TV Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/update-your-mac-safely-with-macos-1441-insights-latest-coverage/"><u>Update Your Mac Safely with macOS 14.4.1: Insights Latest Coverage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/zdnet-explores-the-potential-apple-pencil-lookalike-features-of-new-vision-pro-controller-unpacking-the-patent-details/"><u>ZDNet Explores the Potential Apple Pencil Lookalike Features of New Vision Pro Controller - Unpacking the Patent Details</u></a></li>
 </ul></div>
 

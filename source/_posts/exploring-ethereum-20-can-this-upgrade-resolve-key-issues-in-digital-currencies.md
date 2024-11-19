@@ -1,7 +1,7 @@
 ---
 title: Exploring Ethereum 2.0 – Can This Upgrade Resolve Key Issues in Digital Currencies?
-date: 2024-08-29T02:15:23.853Z
-updated: 2024-08-30T02:15:23.853Z
+date: 2024-11-12T22:23:25.149Z
+updated: 2024-11-18T20:07:15.437Z
 tags:
   - cutting-edge
 categories:
@@ -31,6 +31,13 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 
  The transition to Ethereum 2.0 has been promised for years, and the foundation [now claims](https://ethereum.org/en/upgrades/merge/) it will finally happen in the second quarter of 2022.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Brief Refresher on Ethereum 1.0
 
  If you're not too familiar with [Ethereum](https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/), you can conceptualize it by imagining a giant, distributed virtual computer running on the internet. If you've ever used an emulator to [run old MS-DOS games](https://video-screen-grab.techidaily.com/updated-in-2024-10-free-web-conferencing-software-for-online-meeting-with-screen-sharing/) or virtualization to run [Windows on a Mac](https://youtube-tips.techidaily.com/ing-the-science-of-hash-optimization-for-game-streaming/), you've encountered a similar principle. In both cases, a programmable virtual computer was running as software (instead of hardware) on top of another platform.
@@ -41,9 +48,6 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
 
  Payment in Ether (a cryptocurrency that runs as one of the applications on the Ethereum network) gives people the incentive to run these nodes and provide the computational power (known as "mining") to execute the smart contracts and verify the chronological order of transactions on the Ethereum blockchain. That verification process is called "[consensus](https://ethereum.org/en/developers/docs/consensus-mechanisms/)."
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ##  Problems With Ethereum Today
 
  To understand the need for Ethereum's upgrade, you need to understand Ethereum's current drawbacks. Ethereum's architects and experts alike have [pointed out a handful of main problems](https://ethereum.org/en/upgrades/vision/) with how Ethereum works, and they generally regard these problems as standing in the way of wider growth of Ethereum applications. Here are a few key issues:
@@ -57,22 +61,27 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
 Related: [Why Is It So Hard to Buy a Graphics Card in 2021?](https://extra-resources.techidaily.com/strategic-wordplay-crafting-engaging-blurbs/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Proposed Solutions
 
 ![Ethereum "merge" artwork](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/eth_upgrade_art.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 _[ethereum.org](https://ethereum.org/en/upgrades/merge/)_
 
  The Ethereum Foundation and Ethereum creator Vitalik Buterin have known about some of the drawbacks listed above since Ethereum's [inception in 2013](https://ethereum.org/en/whitepaper/) (and launch in 2015.) However, as the network grew in popularity, it has been difficult to implement upgrades and improvements. Changes to the network [require at least 51% of Ethereum nodes to agree](https://www.forbes.com/sites/michalgromek/2021/03/31/will-ethereum-miners-engage-in-a-51-attack-to-maintain-high-profits/) to them (if all nodes don't agree, [the network forks](https://medium.com/ethereum-cat-herders/shedding-light-on-the-ethereum-network-upgrade-process-4c6186ed442c), or splits, into multiple networks). Here's a look at what "the merge" and other upgrades will change to solve some of them.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Switching to Proof-of-Stake
 
  After "the merge," Ethereum will no longer create consensus through proof-of-work, which required computational power and electricity [from miners](https://vimeo-videos.techidaily.com/updated-in-2024-mastering-video-allure-securing-top-spots-with-the-vimeo-experts/). Instead, it will utilize a [proof-of-stake algorithm](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/) that requires validator nodes to risk (or "stake") a certain amount of Ether cryptocurrency to validate blocks on the Ethereum blockchain.
@@ -87,9 +96,6 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
  Switching Ethereum to proof of stake has been a multi-phase process that has already begun by instituting the [Beacon Chain](https://ethereum.org/en/upgrades/beacon-chain/)\---a sort of parallel consensus layer based on staking Ether---which will eventually merge with the main Ethereum network. Hence the name "the merge."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ###  The Adoption of Sharding
 
  After "the merge," Ethereum's developers plan to introduce another major upgrade called "Sharding," which breaks up the main Ethereum blockchain into smaller chains called "shards."
@@ -101,8 +107,12 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  Sharding is expected to come to the Ethereum network [some time in 2023](https://ethereum.org/en/upgrades/shard-chains/), with no firm date planned yet.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Will Ethereum 2.0 Lower Gas Fees?
 
 ![An Ethereum coin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/ethereum.jpg) 
@@ -127,8 +137,6 @@ Related: [What Are Ethereum (ETH) Gas Fees?](https://screen-video-capture.techid
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +144,26 @@ Related: [What Are Ethereum (ETH) Gas Fees?](https://screen-video-capture.techid
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instamagic-weaving-your-story-with-every-posts-caption/"><u>[New] 2024 Approved Instamagic Weaving Your Story with Every Post's Caption</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/jpegmtsmp4/"><u>「JPEG画像から動画形式への変換法：MTSファイルをMP4へ」</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-optics-top-recommendations-for-best-4k-cinematography/"><u>Cutting-Edge Optics Top Recommendations for Best 4K Cinematography</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulator-face-off-find-the-top-pick-for-raspberry-pi-games/"><u>Emulator Face-Off: Find the Top Pick for Raspberry Pi Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-efficiently-convert-your-cds-to-mp3-format-using-vlc-and-windows-media-player/"><u>How To Efficiently Convert Your CDs to MP3 Format Using VLC & Windows Media Player</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-12-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone 12 with 3 Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-comparison-of-mkv-and-mp4-determining-quality-and-efficiency-winners/"><u>In-Depth Comparison of MKV and MP4: Determining Quality & Efficiency Winners.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mp4flacmp3pc/"><u>MP4/FLACからMP3へのPC向け高速変換方法・詳細解説</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-tecno-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Tecno Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/no-remux-methods-for-modifying-default-audio-and-subtitle-tracks-in-matroska-videos/"><u>No-Remux Methods for Modifying Default AUDIO & SUBTITLE Tracks in Matroska Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/online-video-converter/"><u>Online Video Converter の操作方法と予期せぬトラブルに備えてのアドバイス</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/playing-dvds-on-your-acer-laptop-with-windows-11-no-disc-drive-required/"><u>Playing DVDs on Your Acer Laptop with Windows 11 - No Disc Drive Required!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-effective-strategies-for-recording-play-in-overwatch/"><u>Quick and Effective Strategies for Recording Play in Overwatch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-mkv-import-challenges-in-davinci-resolve-a-step-by-step-guide/"><u>Resolving MKV Import Challenges in DaVinci Resolve - A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-tutorial-stop-gosearchesgg-hijacks-using-malwarefox-tool/"><u>Step-by-Step Tutorial: Stop GoSearches.gg Hijacks Using MalwareFox Tool</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-mac-video-tag-editor-8-best-tools-for-easy-organization/"><u>Updated 2024 Approved Mac Video Tag Editor 8 Best Tools for Easy Organization</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1726028822621-youtube/"><u>YouTube動画からテキストにする方法：完全ガイド</u></a></li>
+</ul></div>
 

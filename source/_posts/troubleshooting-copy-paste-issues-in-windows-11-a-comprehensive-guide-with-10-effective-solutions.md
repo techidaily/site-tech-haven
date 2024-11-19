@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Copy-Paste Issues in Windows 11: A Comprehensive Guide with 10 Effective Solutions"
-date: 2024-08-29T02:14:12.708Z
-updated: 2024-08-30T02:14:12.708Z
+date: 2024-11-15T19:05:33.166Z
+updated: 2024-11-18T20:38:41.437Z
 tags:
   - deals
 categories:
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 
  From misconfigured keyboard settings to corrupted system files, the copy-paste function can stop working for several reasons. If you have trouble copying and pasting text or visuals on your Windows device, here are some fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  1\. Rule Out App-Specific Issues
 
  Before proceeding to the main troubleshooting steps, ensure the problem isn't limited to a single app. If you are unable to copy-paste text within a particular app, close it and try copy-pasting in another application.
@@ -43,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 
  In contrast, if copy-paste fails to work throughout your operating system, the problem is more widespread and requires further investigation. In that case, begin applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  2\. Try an Alternative Method
 
  There are two main ways to copy and paste text on Windows: using the Ctrl+C and Ctrl+V keyboard shortcuts and through the context menu, which you access by pressing the right-click on a mouse.
@@ -61,8 +55,12 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 ![Testing keyboard keys on a keyboard tester website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/testing-keyboard-keys-on-a-keyboard-tester-website.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If these keys work during the test, ensure the problem isn't with the keyboard shortcuts. To check this, press any other shortcut key combination, such as Ctrl+Shift+Esc. This shortcut should open the [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/) window if shortcuts are working fine.
 
  If other shortcuts are also not working, [turn off Sticky keys](https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-v30-drfone-by-drfone-virtual-android/), uninstall the keyboard manager apps, and try other troubleshooting steps to resolve the main problem.
@@ -78,9 +76,18 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
  Your device may take a few seconds to restart File Explorer, and then you can try copy-pasting using the context menu again. However, if you fail to copy-paste text using both shortcuts and the context menu, keep applying the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  5\. Clear the Clipboard History
 
  Any text or visual you copy is saved in the Clipboard history and remains there even after you paste it. If you don't clear the clipboard history for a long time, it could disrupt your copy-paste operation. Therefore, you should clean it up. Press Windows+V to bring up the clipboard tab, then click "Clear All" to clean it.
@@ -89,14 +96,18 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 
  Clearing history removes previously saved items, so you won't be able to access them again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ##  6\. Check for Interference From Other Applications
 
  If you use any[key mapping software](https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-guide-testing-mycam-recording-capabilities/) to remap keyboard keys and shortcuts, ensure the copy-paste shortcut (or any key used in the shortcut) isn't remapped in that software.
 
  Likewise, if you have another open app that uses the same shortcut for a different in-app operation, it can also cause problems. To eliminate this possibility, close all other open apps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. Repair Corrupted System Files
 
@@ -107,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 SFC /scannow
 
 !['sfc /scannow' highlighted in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/5-windows-sfc-command.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows will scan your device for corrupt system files. If it finds corrupted files, it will either fix them automatically or tell you to fix them manually. So, read the scan results carefully after the process has finished and follow any recommended steps.
 
@@ -124,25 +142,23 @@ Screenshot by Shan Abdul - NAR
 
  To perform a comprehensive scan, we recommend running the Full Scan. Though it can take up to an hour, the scan checks all your files and installed programs for possible infections.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  9\. Check for Pending System Updates
 
  Not installing Windows updates can also prevent copy-pasting from working as intended. To check for pending updates, open the Settings app, select the "Windows Update" tab on the left, and click the "Check For Updates" button at the top-right. Windows will [look for available updates and install them](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/) on its own.
 
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  Then, click on "Advanced Options" and see if any "Optional Updates" are available. You should also install them if they are available.
 
 ![Optional Updates option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/optional-updates-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  10\. Perform a System Restore
 
  If none of the above fixes resolve the issue, you should [perform a system restore](https://article-posts.techidaily.com/in-2024-proven-methods-to-infuse-engaging-dialogue-in-videos/) to restore your computer to an earlier time when copy-paste was functioning normally. It's possible only if you have enabled System Restore and this utility has created a restore point before the current problem started.
@@ -152,15 +168,23 @@ Screenshot by Shan Abdul - NAR
 ![Click on the 'System Protection' tab, then select 'System Restore.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/system-res-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In the "System Restore" window, click "Next," and you should see at least one restore point. If you don't see any, then you cannot restore your system. If you see a recently created restore point here, select it and click "Next."
 
 ![Select your restore point, then click 'Next.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/execute-system-restore-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Double-check to ensure you've selected the correct restore point, and click "Finish." Then, click "Yes" in the confirmation popup. Windows will restart your device and begin the restoration process.
 
 ---
@@ -173,8 +197,6 @@ Screenshot by Shan Abdul - NAR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +204,26 @@ Screenshot by Shan Abdul - NAR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-embracing-change-adaptability-as-the-new-normal-in-business/"><u>[Updated] 2024 Approved Embracing Change Adaptability as the New Normal in Business</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-farm-fantasy-a-decade-of-dirt-digging-delights/"><u>[Updated] Farm Fantasy A Decade of Dirt Digging Delights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersion-in-metaverse-leading-hmds-reviewed/"><u>[Updated] Immersion in Metaverse Leading HMDs Reviewed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-tech-for-speedy-video-frame-snapping-for-2024/"><u>[Updated] Top Tech for Speedy Video Frame Snapping for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-youtube-live-streaming-software-and-hardware-you-should-know/"><u>Best YouTube Live Streaming Software and Hardware You Should Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-you-creating-a-roadmap-for-successful-health-ambitions-today/"><u>ChatGPT and You: Creating a Roadmap for Successful Health Ambitions Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehende-research-via-conversational-ai/"><u>Comprehende Research via Conversational AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deploying-ai-browsers-mastering-the-utilization-of-agentgpt/"><u>Deploying AI Browsers: Mastering the Utilization of AgentGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-guide-to-pc-components-at-toms-hardware/"><u>Expert Guide to PC Components at Tom's Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-these-5-fantastic-no-cost-substitutes-to-openais-sora-language-model-today/"><u>Explore These 5 Fantastic No-Cost Substitutes To OpenAI's Sora Language Model Today</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y100frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y100FRP Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/local-language-learning-models-llm-to-use-or-not-to-use/"><u>Local Language Learning Models (LLM): To Use or Not to Use?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-the-most-of-your-iphone-how-integrating-googles-gemini-into-ios-enhances-usability-insights/"><u>Making the Most of Your iPhone: How Integrating Google's Gemini Into iOS Enhances Usability - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-chatgpt-variants-browsing-versions-vs-plugin-solutions-for-optimal-use/"><u>Navigating ChatGPT Variants: Browsing Versions Vs. Plugin Solutions for Optimal Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-complexities-of-forecasting-with-predictive-artificial-intelligence/"><u>Navigating the Complexities of Forecasting with Predictive Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimize-your-daily-tasks-with-chatgpt-smart-tips-for-a-streamlined-workflow/"><u>Optimize Your Daily Tasks with ChatGPT: Smart Tips for a Streamlined Workflow</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/speaking-to-tomorrow-iphone-voice-memo-for-2024/"><u>Speaking to Tomorrow - iPhone Voice Memo for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-writing-high-quality-chatgpt-queries-for-superior-results/"><u>The Ultimate Guide to Writing High-Quality ChatGPT Queries for Superior Results</u></a></li>
+</ul></div>
 

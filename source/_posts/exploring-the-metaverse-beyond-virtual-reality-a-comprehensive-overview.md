@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Metaverse: Beyond Virtual Reality - A Comprehensive Overview"
-date: 2024-08-29T02:14:37.305Z
-updated: 2024-08-30T02:14:37.305Z
+date: 2024-11-16T22:31:15.685Z
+updated: 2024-11-18T16:58:26.927Z
 tags:
   - cutting-edge
 categories:
@@ -33,8 +33,18 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
  In fact, in 2011, Stephenson told [Forbes](https://www.forbes.com/sites/davidewalt/2011/09/19/neal-stephenson-reamde-video-games/) that he saw video games like World of Warcraft as the real metaverse: Virtual worlds you could inhabit with your friends. In 2021, games like Minecraft and Fortnite are perhaps closer to the vision of the metaverse he foresaw.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Is the "Metaverse" Just Rebranded Virtual Reality?
 
  There are lots of [great VR headsets](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/) out there. We love the Oculus Quest 2\. [It's the future of virtual reality](https://youtube-sure.techidaily.com/024-approved-how-much-cash-can-you-score-for-watching-a-million-videos/), and [VR games like Beat Saber](https://youtube-help.techidaily.com/2024-approved-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/) will sell you on why virtual reality can be great.
@@ -46,8 +56,18 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 > If you're in an AR application, you are where you are. You're in your physical environment, you're seeing everything around you normally, but there's additional stuff that's being added. So VR has the ability to take you to a completely different fictional place---the kind of thing that's described in the Metaverse in Snow Crash. When you go into the Metaverse, you're on the street, you're in the Black Sun, and your surroundings disappear. In the book, Hiro lives in a shabby shipping container, but when he goes to the Metaverse, he's a big deal and has access to super high-end real estate.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Maybe the Metaverse Is Just the New "Web 2.0"
 
  So is that what the metaverse is? A big alternative digital simulation we access through VR headsets where we can pretend to live a good life while we live in "shabby shipping containers" and the world decays around us, as in the novel?
@@ -67,8 +87,12 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
  When you realize Facebook owns [Oculus](https://www.oculus.com/), the company's desire to strongly push a future VR-based platform makes a lot of sense.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Microsoft and "Digital Twins"
 
  Microsoft's vision of the metaverse seems to take the form of [rambling, buzzword-heavy talk](https://azure.microsoft.com/en-us/blog/converging-the-physical-and-digital-with-digital-twins-mixed-reality-and-metaverse-apps/) about "digital twins" and "converging the physical with the digital" with "mixed reality." Microsoft's Azure cloud can do it!
@@ -78,8 +102,12 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 ![51nbYwWXNuL._SL500_](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/51nbywwxnul-_sl500_.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Coined the Term
 
 #####  Snow Crash by Neil Stephenson
@@ -96,8 +124,6 @@ Read the classic cyberpunk book that apparently inspired a generation of tech CE
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +131,26 @@ Read the classic cyberpunk book that apparently inspired a generation of tech CE
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-device-footage-to-youtube-shorts-your-streamlined-approach/"><u>[Updated] From Device Footage to YouTube Shorts - Your Streamlined Approach</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-toggle-picture-in-picture-feature-for-youtube-app/"><u>[Updated] In 2024, Toggle Picture-in-Picture Feature for Youtube App</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-cut-cost-unlock-creativity-step-by-step-guide-to-professional-green-screen-effects-from-top-4-channels/"><u>2024 Approved Cut Cost, Unlock Creativity Step-by-Step Guide to Professional Green Screen Effects From Top 4 Channels</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-tecno-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Tecno</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/brace-yourself-for-fun-the-best-of-chatgpts-game-collection/"><u>Brace Yourself For Fun: The Best of ChatGPT's Game Collection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-insights-understanding-the-main-privacy-pitfalls-of-chatbots/"><u>Essential Insights: Understanding the Main Privacy Pitfalls of Chatbots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exclusive-insights-on-the-best-ai-phone-apps-android-plus-iphone/"><u>Exclusive Insights on the Best AI Phone Apps (Android + iPhone)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-text-limitation-strategies-for-extending-your-input/"><u>Exploring ChatGPT's Text Limitation: Strategies for Extending Your Input</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-note-12r-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi Note 12R Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-backdrop-bassline-tunes-to-enhance-media/"><u>In 2024, Backdrop Bassline Tunes to Enhance Media</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-enhance-playstation-2-experience-top-5-android-emulators/"><u>In 2024, Enhance PlayStation 2 Experience Top 5 Android Emulators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrate-ai-in-your-web-experience-signup-to-bing/"><u>Integrate AI in Your Web Experience: Signup to Bing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-chatgpts-new-speaking-abilities-by-openai-for-enhanced-dialogue-response/"><u>Introducing ChatGPT's New Speaking Abilities by OpenAI for Enhanced Dialogue Response</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/social-media-storytelling-enhanced-by-gpt-3/"><u>Social Media Storytelling Enhanced by GPT-3</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210029439-9781734077230-straight-talk-from-god-2nd-ed/"><u>Straight Talk from God (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/superior-7-streamers-choice-for-videos-for-2024/"><u>Superior 7 Streamer's Choice for Videos for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/text-improvement-with-chatgpt/"><u>Text Improvement with ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001670706-troubleshooting-genshin-impact-fix-stability-issues-and-stop-pc-crashes/"><u>Troubleshooting Genshin Impact: Fix Stability Issues and Stop PC Crashes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-mystery-of-large-language-models-and-their-functionality/"><u>Unveiling the Mystery of Large Language Models and Their Functionality</u></a></li>
+</ul></div>
 

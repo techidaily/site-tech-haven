@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: How One Simple Tactic Can Clear Out Clutter Without Creating New Accounts or Strict Filters – Learn the Secrets with ZDNet"
-date: 2024-11-05T16:29:14.236Z
-updated: 2024-11-07T17:52:57.746Z
+date: 2024-11-15T01:11:56.853Z
+updated: 2024-11-18T16:50:21.664Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,16 +110,10 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -160,16 +154,19 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-innovators-intertwining-video-with-melodious-images/"><u>[Updated] In 2024, Innovators Intertwining Video with Melodious Images</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-seamless-search-for-your-youtube-comments-across-platforms-for-2024/"><u>[Updated] Seamless Search for Your YouTube Comments Across Platforms for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-pioneering-vr-cycling-choose-wisely/"><u>2024 Approved Pioneering VR Cycling Choose Wisely</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-destiny-through-the-linux-shell-a-guide-to-fortune-telling-commands/"><u>Discovering Destiny Through the Linux Shell: A Guide to Fortune Telling Commands</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easily-navigate-to-group-policy-editor-in-windows-10-a-detailed-tutorial/"><u>Easily Navigate to Group Policy Editor in Windows 10 - A Detailed Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-guide-resizing-icons-in-windows-11-for-a-customized-desktop-experience/"><u>Easy Guide: Resizing Icons in Windows 11 for a Customized Desktop Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/efficiently-refresh-windows-1110-update-cache-a-comprehensive-tutorial/"><u>Efficiently Refresh Windows 11/10 Update Cache: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-superior-performance-with-the-new-and-improved-istat-menus-ideal-tool-for-mac-tracking/"><u>Experience Superior Performance with the New and Improved IStat Menus - Ideal Tool for Mac Tracking</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-no-available-camera-on-your-snapchat-app/"><u>Fixing the Issue: 'No Available Camera' On Your Snapchat App</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-your-new-laptops-m1-max-clips-for-2024/"><u>Navigating Through Your New Laptop's M1 Max Clips for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-discover-top-cost-effective-dvd-player-apps/"><u>[New] Discover Top Cost-Effective DVD Player Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-wizards-whisper-are-voice-changer-apps-actual-magic-unveil-other-choices-for-2024/"><u>[New] Wizard's Whisper Are Voice Changer Apps Actual Magic? Unveil Other Choices for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-monetization-carryminati-ajey-nagar-youtube-income/"><u>[New] YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-duration-estimate-for-an-hd-20mb-movie-file/"><u>[Updated] In 2024, Duration Estimate for an HD 20Mb Movie File</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unraveling-sierras-icloud-full-access-guide/"><u>[Updated] Unraveling Sierra's iCloud Full Access Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-viewers-engagement-through-youtube-music-use-in-videos/"><u>2024 Approved Optimizing Viewers' Engagement Through YouTube Music Use in Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-webcam-wizardry-on-macbook-pro/"><u>2024 Approved Webcam Wizardry on MacBook Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/big-news-apple-developers-enhance-your-code-with-our-newly-upgraded-complimentary-ai-integration/"><u>Big News Apple Developers: Enhance Your Code with Our Newly Upgraded Complimentary AI Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/corporate-guide-expert-analysis-of-microsoft-surface-pro-8-features-performance-and-pricing/"><u>Corporate Guide: Expert Analysis of Microsoft Surface Pro 8 - Features, Performance & Pricing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enabling-and-using-imessages-on-pc-a-step-by-step-tutorial/"><u>Enabling & Using iMessages on PC: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/october-is-now-on-the-horizon-anticipated-arrival-of-apples-intelligent-systems-confirmed-by-insiders-gadgetworld/"><u>October Is Now on the Horizon: Anticipated Arrival of Apple’s Intelligent Systems Confirmed by Insiders - GadgetWorld</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/save-big-with-acers-amazing-deals-during-amazons-prime-day-event-of/"><u>Save Big with Acer's Amazing Deals During Amazon's Prime Day Event Of</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-inner-fan-with-apple-sports-discover-the-ultimate-complimentary-experience-on-your-iphone-exclusively-featured/"><u>Unleash Your Inner Fan with Apple Sports: Discover the Ultimate Complimentary Experience on Your iPhone - Exclusively Featured</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-ios-16-potential-discover-my-favorite-features-and-learn-how-to-utilize-them-perfectly/"><u>Unlocking iOS 16 Potential: Discover My Favorite Features & Learn How to Utilize Them Perfectly</u></a></li>
 </ul></div>
 

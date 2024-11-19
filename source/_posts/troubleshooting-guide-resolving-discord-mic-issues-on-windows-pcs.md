@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Discord Mic Issues on Windows PCs"
-date: 2024-08-29T02:14:14.163Z
-updated: 2024-08-30T02:14:14.163Z
+date: 2024-11-17T23:41:54.495Z
+updated: 2024-11-19T01:18:25.959Z
 tags:
   - deals
 categories:
@@ -29,11 +29,15 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 
 !['Run as Administrator' highlighted for Discord in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-discord-as-admin.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select "Yes" in the User Account Control prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Test Your Mic in Another App and Give Discord Microphone Access
 
  It’s possible the mic is functioning properly but isn’t being recognized by Discord for some reason. To [test your mic](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), open another mic-utilizing app on your PC and see if the mic works.
@@ -53,12 +57,19 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 ![The 'Change' toggle and 'Allow Apps to Access Your Microphone' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-turn-on-mic-windows-10.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Select the Correct Mic in Discord
 
  If you have multiple mics connected to your PC, ensure the correct mic is chosen in Discord. You can [review your Discord mic settings](https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/) as follows.
@@ -67,16 +78,10 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 
 ![Click the gear icon to open User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/discord-gear.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  From the left sidebar, choose "Voice & Video." On the right pane, select the "Input Device" drop-down menu and choose the correct mic.
 
 !['Voice & Video' and 'Input Device' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-choose-mic-discord.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Disable QoS High Packet Priority in Discord
 
  Discord’s [QoS](https://digital-screen-recording.techidaily.com/updated-in-2024-nine-powerful-microphone-capture-options-decoded/) High Packet Priority feature tells your router the app’s internet packets are high priority. This feature sometimes clashes with the app configuration. Turn it off and see if that resolves your mic problem.
@@ -85,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 
 !['Voice & Video' and 'Enable Quality of Service High Packet Priority' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-disable-qos-discord.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ##  Reset Discord's Voice Settings
 
  If the issue persists, your last option is to reset Discord’s voice settings. This clears the current mic configuration, possibly resolving the problem.
@@ -96,9 +98,23 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 
 !['Voice & Video' and 'Reset Voice Settings' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-reset-voice-settings-discord.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the open prompt, select "Okay."
 
 !['Okay' highlighted in the 'Reset Voice Settings' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-reset-voice-settings-prompt-discord.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Close and relaunch Discord](https://techtrends.techidaily.com/navigating-the-digital-age-laptops-smartphones-and-literary-treasures-galore/) and check if your mic is working. 
 
@@ -112,8 +128,6 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +135,24 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-saving-strategy-watching-taping-and-tweaking-sports/"><u>[New] 2024 Approved Saving Strategy Watching, Taping, and Tweaking Sports</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-enhance-instagram-video-streams-speedily-for-2024/"><u>[New] Enhance Instagram Video Streams Speedily for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-beaming-login-logout-directions/"><u>[New] In 2024, Beaming Login / Logout Directions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-giggles-in-a-gigabyte-10-hilarious-video-concepts-to-share-online/"><u>[New] In 2024, Giggles in a Gigabyte 10 Hilarious Video Concepts to Share Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movswf-movavi/"><u>无需花钱，将MOV文件转化为SWF：终极移动视频编辑器 - Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-powered-strategies-for-compelling-proposal-drafts/"><u>ChatGPT-Powered Strategies for Compelling Proposal Drafts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-discretion-chatterbots-privacy-concerns/"><u>Ensuring Discretion: Chatterbots' Privacy Concerns</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-capabilities-of-emotional-ai-in-recognizing-and-responding-to-feelings/"><u>Exploring the Capabilities of Emotional AI in Recognizing and Responding to Feelings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-evolution-of-ai-from-gpt-1-to-gpt-4-a-comprehensive-guide/"><u>Exploring the Evolution of AI: From GPT-1 to GPT-4 - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-implement-gpt-technology-on-your-ubuntu-system-through-command-line-interface-cli/"><u>How to Implement GPT Technology on Your Ubuntu System Through Command-Line Interface (CLI)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-to-elevate-your-social-media-strategy-with-chatgpt/"><u>Leveraging AI to Elevate Your Social Media Strategy with ChatGPT</u></a></li>
+<li><a href="https://fox-where.techidaily.com/navigating-through-directory-tasks-a-comprehensive-guide-to-organizing-in-visual-studio-extensions-vsix/"><u>Navigating Through Directory Tasks: A Comprehensive Guide to Organizing in Visual Studio Extensions (VSIX)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-11-pro-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 11 Pro WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/scrutinizing-6-overrated-chatgpt-extensions/"><u>Scrutinizing 6 Overrated ChatGPT Extensions</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-to-retrieving-items-after-emptying-trash-in-windows-11-and-windows-7/"><u>Step-by-Step Guide to Retrieving Items After Emptying Trash in Windows 11 and Windows ✨ 7</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/swipe-right-on-creativity-youtubes-top-techniques-for-greenscreens/"><u>Swipe Right on Creativity YouTube’s Top Techniques for Greenscreens</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-generative-artificn-intelligence-will-it-take-over-your-career-path/"><u>The Role of Generative Artificn Intelligence: Will It Take Over Your Career Path?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Midjourney's Prowess in Generating AI-Powered Artworks: A Comparative Analysis of Models"
-date: 2024-08-29T02:14:35.676Z
-updated: 2024-08-30T02:14:35.676Z
+date: 2024-11-18T01:56:09.785Z
+updated: 2024-11-18T22:37:31.359Z
 tags:
   - cutting-edge
 categories:
@@ -35,6 +35,13 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
 
 ![Midjourney Options Panel In Discord](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-09-at-16.21.19.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here we can select between the different Miey versions. Incidentally, the "Niji" options are models trained specifically to generate images in the Japanese Anime and Manga style, so if that's your thing give them a try.
 
  All of the images generated for this article will use the High Quality setting, with the default style level, which determines how strict or loose the model behaves when following the prompt.
@@ -52,9 +59,12 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
  Miey provides four images in response to each prompt. We'll pick the one which (in our opinion) is the best of the four to present here for comparison. So let's see how much it's improved in the short time it's been around.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Midjourney V1 (February 2022)
 
  We're firmly in the realm of dream-like nightmare fuel with V1 of Miey. At a quick glance these images give you the impression of what they are, but as soon as you actually look at them it all breaks down. Human faces are particularly disturbing.
@@ -62,28 +72,33 @@ The ultimate burning program for all your needs!</a>
 Related: [We Let ChatGPT Create AI Art, Here's What It Made](https://instagram-videos.techidaily.com/updated-techniques-to-amplify-engagement-on-instagram-content-for-2024/) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Miey V2 (April 12, 2022)
 
  V2 doesn't seem like a huge leap over V1, but there's a definite improvement in composition, especially noticeable in the 1920s street scene. The white tiger definitely has a better outline than before, and the woman's face is ever so slightly less creepy.
 
  Notice how, in some images, there's a sort of pseudo-signature on the piece. This is because the AI has learned that images of certain styles have signatures, and so it tried to reproduce something that looks like one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Miey V3 (July 25, 2022)
 
  With V3 we're definitely seeing a significant improvement in coherence and composition. The details are clearly off without too much scrutiny, but the amount of random noise is definitely reduced and the images make more sense to the human eye.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Miey V4 (November 5, 2022)
 
  Now we're talking! V4 shows a dramatic improvement in composition, details, and how dynamic and imaginative the images are. Just over half a year since V1, and these images are definitely in the realm of usability, often just as they are without further editing. It takes significantly more scrutiny to pick out tell-tale AI flaws.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Miey V5 (March 15, 2023)
 
  The improvements with V5 are a little more subtle than before, but they are substantial. Apart from the technical improvement in detail and composition, these pieces seem more "imaginative", with even more dynamics, broader choices of colors, and overall much more pleasing presentation. Although V4 certainly moved the resulting images into the grey zone between the best human technical proficiency and what AI generation can do, V5 makes it virtually impossible to tell that these images are AI-made when Mifiring on all cylinders.
@@ -94,16 +109,10 @@ Related: [Sorry, AI Art, Your Algorithm Can't Replace Human Creativity](https://
 
 ![MJ V5 Wizards shaking hands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/GendoWasRight_photo_of_two_wizards_shaking_hands_5392bcde-c0eb-4c2d-872e-1dacc27e1e82.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _MidJourney/Sydney Butler_
 
  The above image from V5 shows that the issue has by and large been solved, although here you can still see that one of the hands might either have a missing pinky, or its simply obscured. Edge cases like these still slip through, but it seems the days of people with 7-fingered hands might be almost over.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Miey V5.1 (May 3, 2023)
 
  While the last model update we're looking at here may only be a ".1" update, there's certainly no mistaking the improvement. Building on the fundamentals of V5, V5.1 polishes up the minor flaws in V5 while, to our eye, showing an unmistakeable improvement in [expression and overall artistic flair](https://youtube-blog.techidaily.com/te-your-channel-vision-selecting-ideal-content-strategies/).
@@ -118,8 +127,6 @@ Related: [How to Create Synthetic AI Art With Midjourney](https://howto.techidai
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +134,26 @@ Related: [How to Create Synthetic AI Art With Midjourney](https://howto.techidai
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-visual-storytelling-mastery-the-quintessential-5-tips/"><u>[New] In 2024, Visual Storytelling Mastery The Quintessential 5 Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-leading-edge-the-top-10-mobile-video-chat-platforms/"><u>[New] Leading Edge The Top 10 Mobile Video Chat Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-transform-your-movie-grading-skills-using-cg-centrals-luts-for-2024/"><u>[New] Transform Your Movie Grading Skills Using CG Central's Luts for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-immerse-in-ideas-multitasking-activities-for-podcast-fans/"><u>2024 Approved Immerse in Ideas Multitasking Activities for Podcast Fans</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cracking-the-code-on-ai-regulation-urgency-dissecting-why-openais-chief-is-pushing-for-change/"><u>Cracking the Code on AI Regulation Urgency: Dissecting Why OpenAI's Chief Is Pushing for Change</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensure-confidentiality-with-these-steps-to-block-chatgpt-from-recording-talks/"><u>Ensure Confidentiality with These Steps to Block ChatGPT From Recording Talks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-disruption-to-dominance-6-strategies-for-ai-ready-professionals/"><u>From Disruption to Dominance: 6 Strategies for AI-Ready Professionals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gemini-navigates-new-frontiers-a-game-changer-for-one-million-token-economies/"><u>Gemini Navigates New Frontiers: A Game Changer for One-Million-Token Economies</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-does-the-samsung-galaxy-s10plus-stack-up-to-the-latest-s20-model/"><u>How Does the Samsung Galaxy S10+ Stack Up to the Latest S20 Model?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-smart-8-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Infinix Smart 8 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-efficient-programming-10-strategies-with-vs-code/"><u>Leveraging ChatGPT for Efficient Programming: 10 Strategies with VS Code</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-the-art-of-acquiring-yt-channel-revenue-for-2024/"><u>Mastering the Art of Acquiring YT Channel Revenue for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-presentations-with-smart-ai-technology/"><u>Revolutionizing Presentations with Smart AI Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-quintessential-factors-leading-to-company-wide-bans-against-chatgpt/"><u>The Quintessential Factors Leading to Company-Wide Bans Against ChatGPT</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-do-you-fix-a-crash-in-phoenix-point/"><u>Troubleshooting Guide: How Do You Fix a Crash in Phoenix Point?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-and-harnessing-chatgpt-for-language-translation/"><u>Understanding and Harnessing ChatGPT for Language Translation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unleashing-creativity-adding-fonts-to-your-ae-workflow-for-2024/"><u>Unleashing Creativity Adding Fonts to Your AE Workflow for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-effects-of-automated-chatbot-monitoring-systems-powered-by-ai-on-personal-online-exchange/"><u>Unveiling the Effects of Automated Chatbot Monitoring Systems Powered by AI on Personal Online Exchange</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Microsoft Surface Pro # Problem
-date: 2024-10-14T21:26:32.346Z
-updated: 2024-10-21T21:42:05.712Z
+date: 2024-11-17T23:40:37.935Z
+updated: 2024-11-18T19:49:17.437Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -71,10 +78,16 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -124,6 +137,13 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -133,13 +153,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -152,13 +165,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -173,16 +179,10 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -224,24 +224,19 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-mastering-underwater-video-action-cameras-reviewed-and-rated/"><u>[New] Mastering Underwater Video Action Cameras Reviewed & Rated</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-melody-match-maker-audio-ambience-for-videos/"><u>[New] Melody Match-Maker Audio Ambience For Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expert-group-chat-options-for-virtual-gatherings/"><u>2024 Approved Expert Group Chat Options for Virtual Gatherings</u></a></li>
-<li><a href="https://app-tips.techidaily.com/amplifying-the-role-of-it-professionals-in-shaping-customer-satisfaction-expert-analysis-by-zdnet/"><u>Amplifying the Role of IT Professionals in Shaping Customer Satisfaction | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bridging-audio-and-web-mastering-the-podcast-rss-format/"><u>Bridging Audio & Web Mastering the Podcast RSS Format</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/directive-design-mastery-top-7-online-learning-resources/"><u>Directive Design Mastery: Top 7 Online Learning Resources</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-ways-to-distribute-access-to-your-chatgpt-sessions/"><u>Easy Ways to Distribute Access to Your ChatGPT Sessions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/educators-ai-scrutiny-guide-for-chatgpt/"><u>Educator's AI-Scrutiny Guide for ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevating-machine-learning-identifying-the-top-5-ai-prompt-generators/"><u>Elevating Machine Learning: Identifying the Top 5 AI Prompt Generators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-siris-capabilities-on-your-iphone-through-chatgpt-integration/"><u>Enhancing Siri's Capabilities on Your iPhone Through ChatGPT Integration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-the-performance-of-integrated-editing-tools-in-dall-e-3-version/"><u>Evaluating the Performance of Integrated Editing Tools in DALL-E 3 Version</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-four-key-methods-of-ai-regulation-by-authorities/"><u>Exploring Four Key Methods of AI Regulation by Authorities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-digital-inspiration-to-print-perfection-using-chatgpt-for-poetry-book-authorship/"><u>From Digital Inspiration to Print Perfection: Using ChatGPT for Poetry Book Authorship</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-gpt-to-greatness-can-claude-take-over/"><u>From GPT to Greatness: Can Claude Take Over?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-upgrade-intelligent-hd-graphics-support-in-windows/"><u>How to Upgrade Intelligent HD Graphics Support in Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-powerpoint-tips-adding-and-capturing-speech-sounds/"><u>In 2024, PowerPoint Tips Adding and Capturing Speech Sounds</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-secrets-to-superior-youtube-videos-mastering-post-upload-editing/"><u>In 2024, Secrets to Superior YouTube Videos Mastering Post-Upload Editing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-time-capsule-converting-single-photographs-to-video/"><u>In 2024, Time Capsule Converting Single Photographs to Video</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-incorporating-soundtracks-into-your-instagram-videos/"><u>Ultimate Guide to Incorporating Soundtracks Into Your Instagram Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-low-light-photos-on-ios-11/"><u>[New] 2024 Approved Mastering Low-Light Photos on iOS 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-convenient-iphone-method-for-live-screen-capture-for-2024/"><u>[New] Convenient iPhone Method for Live Screen Capture for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-establishing-an-individual-identity-on-youtube-platform/"><u>[New] In 2024, Establishing an Individual Identity on YouTube Platform</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-remedies-for-iphone-charging-alerts-on-hold-fixes-and-tricks-revealed/"><u>8 Remedies for iPhone Charging Alerts on Hold – Fixes and Tricks Revealed!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cinematic-narratives-mastering-screenplays/"><u>Cinematic Narratives Mastering Screenplays</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-control-a-roku-tv-without-a-remote/"><u>How to Control a Roku TV Without a Remote</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iconic-80s-aesthetic-techniques-for-cutting-videos/"><u>Iconic 80S Aesthetic Techniques for Cutting Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-practical-to-utilize-auto-gpt-without-accessing-gpt-4-technology/"><u>Is It Practical to Utilize Auto-GPT Without Accessing GPT-4 Technology?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-pursuing-ai-prompt-engineering-worth-the-effort-for-long-term-employment-security/"><u>Is Pursuing AI Prompt Engineering Worth the Effort for Long-Term Employment Security?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-there-an-end-in-sight-for-conventional-essays-the-impact-of-chatgpt-on-academia/"><u>Is There an End in Sight for Conventional Essays: The Impact of ChatGPT on Academia?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-powerful-language-with-our-8-ready-to-implement-gpt-systems/"><u>Leverage Powerful Language with Our 8 Ready-to-Implement GPT Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/natural-selection-and-climate-change-a-separate-issue/"><u>Natural Selection and Climate Change: A Separate Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-to-best-pure-text-or-integrated-chatgpt/"><u>Navigate to Best: Pure Text or Integrated ChatGPT?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/vanguard-designs-evaluation-studio-25-examined-current-year-for-2024/"><u>Vanguard Designs Evaluation Studio 25 Examined, Current Year for 2024</u></a></li>
 </ul></div>
 

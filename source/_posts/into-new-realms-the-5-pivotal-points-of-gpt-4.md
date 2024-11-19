@@ -1,7 +1,7 @@
 ---
 title: "Into New Realms: The 5 Pivotal Points of GPT-4"
-date: 2024-08-24T12:55:10.014Z
-updated: 2024-08-25T12:55:10.014Z
+date: 2024-11-11T22:26:39.800Z
+updated: 2024-11-18T16:18:04.831Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -48,8 +55,12 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to [join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -61,8 +72,12 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -77,8 +92,6 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +99,22 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-industry-insights-top-10-handheld-hd-playback-units/"><u>[New] 2024 Approved Industry Insights Top 10 Handheld HD Playback Units</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-parts-to-proficiency-assembling-a-powerhouse-4k-video-editor-pc/"><u>[New] From Parts to Proficiency Assembling a Powerhouse 4K Video Editor PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-step-up-to-photo-editing-excellence-with-these-must-know-pixlr-techniques/"><u>[Updated] In 2024, Step Up to Photo Editing Excellence with These Must-Know Pixlr Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44cm6zplusz6loq44ks57at5oyb44gx44gf44k544og44os44kq44gl44kj44oi44oo44op44or44g444gu5a6m5ywo44gq44ks44kk44oj44cn/"><u>「音質を維持したステレオからモノラルへの完全なガイド」</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unleash-the-full-potential-of-your-images-with-powerful-pixlr-hacks/"><u>2024 Approved Unleash the Full Potential of Your Images with Powerful Pixlr Hacks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-how-to-safely-rip-burn-and-duplicate-your-digital-media-files/"><u>Comprehensive Guide: How to Safely Rip, Burn, and Duplicate Your Digital Media Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/convert-and-save-your-vimeo-videos-as-mp4-files-a-step-by-step-guide/"><u>Convert and Save Your Vimeo Videos as MP4 Files – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-free-windows-11-sound-equalizers-ranking-the-top-7-picks/"><u>Discover the Ultimate List of Free Windows 11 Sound Equalizers - Ranking the Top 7 Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/divxmkv-and2/"><u>DivXへの高画質MKV変換 - スピーディ&シンプルな手順2種</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-your-favorite-tracks-with-mp3goo-a-guide-to-free-mp3-song-retrievals/"><u>Download Your Favorite Tracks with MP3GOO – A Guide to Free MP3 Song Retrievals</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210360023-9781640869721-en-torno-a-la-interaccion-con-los-espiritus/"><u>En torno a la interacción con los espíritus | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-toshiba-laptop-drivers-compatible-with-windows-software/"><u>Get the Latest Toshiba Laptop Drivers Compatible with Windows Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/take-your-videos-to-the-next-level-3-creative-transition-ideas-in-fcp-for-2024/"><u>Take Your Videos to the Next Level 3 Creative Transition Ideas in FCP for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transition-from-iphone-15-to-iphone-n-tec-a-comparative-guide-highlighting-must-know-features-of-apples-latest-base-model-zdnet-tech-review/"><u>Transition From iPhone 15 to iPhone N-Tec: A Comparative Guide Highlighting Must-Know Features of Apple's Latest Base Model | ZDNET Tech Review</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Infinix Hot 30 5G | Dr.fone</u></a></li>
+</ul></div>
 

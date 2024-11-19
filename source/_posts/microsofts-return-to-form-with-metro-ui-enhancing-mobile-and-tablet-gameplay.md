@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Return to Form with Metro UI Enhancing Mobile and Tablet Gameplay
-date: 2024-08-29T02:12:19.657Z
-updated: 2024-08-30T02:12:19.657Z
+date: 2024-11-12T23:25:53.271Z
+updated: 2024-11-18T22:16:16.865Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [The Metro UI Worked Great on Touch Screens](https://twitter-videos.techidaily.com/updated-banish-silent-tweets-add-volume-to-videos-for-2024/)
 * [With a Few Tweaks, Metro Can Work Great With D-Pads and Thumbsticks, Too](https://change-location.techidaily.com/home-button-not-working-on-infinix-smart-7-hd-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The default Windows 11 user interface is far from ideal for handheld gaming; the Metro UI would be a much better fit.
@@ -25,9 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  While the Metro UI wasn’t the best way of interacting with your desktop or laptop computer, it could be the best way to interact with Windows on your handheld PC. Instead of trying to reinvent the wheel, Microsoft should unretire Metro and unleash it on handheld PCs, here’s why.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ##  The Windows Struggle on Gaming Handhelds Is Real
 
  Windows gaming handhelds are mostly great, but they all share one major issue: Windows itself. As someone who owns an [ASUS ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), I can attest that navigating around Windows on a daily basis with an analog stick playing the role of a very poor mouse replacement is one of the worst gadget-related experiences I've ever had.
@@ -48,6 +52,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  But the fact is that the Windows user experience is made for a mouse and keyboard and that even a trackpad isn’t an optimal way to navigate around the OS. I’m fully in favor of Microsoft coming up with a handheld-friendly version of Windows, and I might have a solution. One that had been lying forgotten for many years. I’m talking about the Metro UI.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Metro UI Worked Great on Touch Screens
 
  I loved the Metro UI and its minimal, tile-based design philosophy on my Nokia Lumia 520, one of the best phones I’ve ever owned. The snappiness of the Metro UI-powered Windows Phone operating system was in line with the high-end iOS and Android experience of the time, despite the Lumia 520 being a budget device.
@@ -59,28 +76,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Home and lock screen of a Lumia 430 Smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/home-screen-of-a-lumia-430-smartphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _Microsoft_
 
  In a nutshell, the Metro UI worked great on touch screens. It was a near-perfect touch screen user interface. But when you think about it, Metro would also work great with a D-pad. Let me elaborate.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ##  With a Few Tweaks, Metro Can Work Great With D-Pads and Thumbsticks, Too
 
  Windows 8’s tile-based, square-like design is perfect for navigating around with a D-pad, as is its settings menu that’s quite similar to the options menus we have on game consoles and the Steam Deck.
 
 ![Windows 8.1 start screen and menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/2ec63d25.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 _Microsoft_
 
  You’ve got large square and rectangle-shaped tiles that are perfect for a 4-direction navigation device such as a D-pad, you’ve got a Steam Deck-like options menu that’s, again, perfect for navigating around with a D-pad, and you’ve got the app design philosophy that’s, surprise surprise, yet again perfect for a D-pad even though it was originally made for a touch screen. It’s no wonder why many Metro design elements survived for so long on Xbox consoles.
@@ -90,13 +101,12 @@ _Microsoft_
 ![An ASUS ROG Ally with the default Windows 8 screen, displaying the Metro UI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/an-asus-rog-ally-with-the-default-windows-8-screen-displaying-the-metro-ui.jpg) 
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _Lucas Gouveia / How-To Geek | [tinhkhuong](https://www.shutterstock.com/en/image-photo/ho-chi-minh-vietnam-november-30-2394749575) / Shutterstock_
 
  Now, a version of the Metro UI taken straight from the Windows 8 era would be far from ideal. There are some tweaks Microsoft should implement to make it more controller-friendly.
@@ -105,9 +115,6 @@ _Lucas Gouveia / How-To Geek | [tinhkhuong](https://www.shutterstock.com/en/imag
 
 ![Xbox Home Screen Showing Quick Access Menu at the top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/xbox-home-screen-showing-quick-access-menu-at-the-top.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Xbox/Microsoft_
 
  Live tiles could also get some cool new features. For example, game icons/tiles could animate and show the number of hours played and the percent of achievements earned, the Xbox app card and other game launcher cards could notify you about new Game Pass additions, the number of games installed on your handheld, or some other handy info. The Task Manager could also have its own live tile showing system specs, power used, or CPU and GPU thermals.
@@ -126,8 +133,6 @@ _Xbox/Microsoft_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +140,24 @@ _Xbox/Microsoft_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-clear-up-your-youtube-vision-issues/"><u>[New] 2024 Approved Clear Up Your YouTube Vision Issues</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-studio-for-beginners-basic-to-pro-editing-guide-for-2024/"><u>[New] YouTube Studio for Beginners Basic to Pro Editing Guide for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-building-sustainable-cities-innovation-in-environmental-design/"><u>2024 Approved Building Sustainable Cities Innovation in Environmental Design</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-a-poetry-book-using-intelligent-text-assistant/"><u>Crafting a Poetry Book Using Intelligent Text Assistant</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/guide-de-sauvegarde-reussie-sur-wd-my-passport-decouvrez-ces-trois-strategies-pour-reprendre-le-controle-de-vos-partitions/"><u>Guide De Sauvegarde Réussie Sur WD My Passport : Découvrez Ces Trois Stratégies Pour Reprendre Le Contrôle De Vos Partitions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-intro-to-graphic-motion-artistry-and-usage/"><u>In 2024, Intro to Graphic Motion Artistry and Usage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-dall-e-3s-enhanced-features-integrated-editing-tools-ready-for-improvement/"><u>Introducing DALL-E 3'S Enhanced Features: Integrated Editing Tools Ready for Improvement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-bings-smart-search-engine-by-simple-registration-steps/"><u>Master Bing's Smart Search Engine by Simple Registration Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-allure-of-free-gpt-4-and-why-it-doesnt-outshine-these-6-benefits-of-using-chatgpt-plus/"><u>The Allure of Free GPT-4 and Why It Doesn't Outshine These 6 Benefits of Using ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-strategies-for-crafting-high-quality-gpt-3-prompts-achieve-optimal-ai-responses/"><u>Top 5 Strategies for Crafting High-Quality GPT-3 Prompts: Achieve Optimal AI Responses</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-infinix-smart-8-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Infinix Smart 8 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/ultimate-guide-to-free-software-for-transforming-4k-footage-into-1080p-windows-macos-and-online-solutions/"><u>Ultimate Guide to Free Software for Transforming 4K Footage Into 1080P - Windows, macOS, and Online Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-risks-can-cybercriminals-harness-chatgpt-to-target-your-bank-account-or-pc-security/"><u>Understanding the Risks: Can Cybercriminals Harness ChatGPT to Target Your Bank Account or PC Security?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-xs-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone XS Passcode without a Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-ai-writers-comparing-gpt-and-bert-features/"><u>Unraveling AI' Writers: Comparing GPT and BERT Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-for-stress-management-smart-ways-to-achieve-calmness/"><u>Utilizing ChatGPT for Stress Management: Smart Ways to Achieve Calmness</u></a></li>
+</ul></div>
 

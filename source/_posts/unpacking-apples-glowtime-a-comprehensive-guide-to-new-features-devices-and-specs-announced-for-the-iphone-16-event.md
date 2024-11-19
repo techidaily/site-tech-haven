@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Apple's 'Glowtime': A Comprehensive Guide to New Features, Devices, and Specs Announced for the iPhone 16 Event"
-date: 2024-10-31T17:28:23.430Z
-updated: 2024-11-08T01:57:59.787Z
+date: 2024-11-13T21:10:43.803Z
+updated: 2024-11-18T17:34:10.376Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -88,10 +88,16 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -119,10 +125,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -140,10 +146,10 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -192,15 +198,17 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-eliminating-an-obsolete-linkedin-identity-stepwise-guide/"><u>[New] In 2024, Eliminating an Obsolete LinkedIn Identity Stepwise Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-tips-for-clearer-audio-in-home-based-podcasts/"><u>[Updated] Tips for Clearer Audio in Home-Based Podcasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-giants-in-ai-chatbots-google-bard-versus-bing-chat/"><u>Comparing Giants in AI Chatbots: Google Bard Versus Bing Chat</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-document-workflow-with-these-10-must-have-chatgpt-pdf-tools/"><u>Enhance Your Document Workflow with These 10 Must-Have ChatGPT PDF Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/fastest-method-for-transforming-mkv-files-into-mp4-using-an-advanced-mkv-to-mp4-conversion-tool/"><u>Fastest Method for Transforming MKV Files Into MP4 Using an Advanced MKV to MP4 Conversion Tool</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-realme-v30t-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Realme V30T to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-gt-neo-5-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme GT Neo 5 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-yourself-from-ai-phishing-attempts-tips-on-recognizing-suspicious-chatgpt-websites-and-action-plans/"><u>Protect Yourself From AI Phishing Attempts: Tips on Recognizing Suspicious ChatGPT Websites and Action Plans</u></a></li>
-<li><a href="https://win-top.techidaily.com/simple-methods-perform-a-hardware-based-system-restore-on-your-pc-without-upgrading-windows/"><u>Simple Methods: Perform a Hardware-Based System Restore on Your PC Without Upgrading Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-employment-7-predictions-on-how-generative-ai-shapes-our-future-work/"><u>Transforming Employment: 7 Predictions on How Generative AI Shapes Our Future Work</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-cloaking-in-content-an-introduction-to-video-smoothing/"><u>[New] Cloaking in Content An Introduction to Video Smoothing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-dialogue-dynamics-balancing-verisimilitude-and-style/"><u>[Updated] 2024 Approved Dialogue Dynamics Balancing Verisimilitude and Style</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleashing-the-potential-of-youtube-live-in-depth-insights-into-wirecast-streaming/"><u>2024 Approved Unleashing the Potential of YouTube Live In-Depth Insights Into WireCast Streaming</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-look-at-the-acer-xfa2ns-design-philosophy-its-all-about-function/"><u>Comprehensive Look at the Acer XFA2n's Design Philosophy - It’s All About Function</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertissez-vos-videos-au-format-webm-sans-frais-guide-pratique-pour-la-transformation-a-partir-du-mkv/"><u>Convertissez Vos Vidéos Au Format WEBM Sans Frais - Guide Pratique Pour La Transformation À Partir Du MKV</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-6-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 6?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ios-18-unveiled-a-step-by-step-guide-to-personalizing-your-iphones-control-center-insights/"><u>IOS 18 Unveiled: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-lawful-mastering-phone-call-recording-features-on-iphones-across-the-usa/"><u>Is It Lawful? Mastering Phone Call Recording Features on iPhones Across the USA.</u></a></li>
+<li><a href="https://techidaily.com/navigating-wet-conditions-with-your-apple-watch-uncover-its-water-resistant-secrets/"><u>Navigating Wet Conditions with Your Apple Watch: Uncover Its Water-Resistant Secrets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-36-unbeatable-prime-day-bargains-exclusive-apple-products-you-cant-miss/"><u>Top 36 Unbeatable Prime Day Bargains: Exclusive Apple Products You Can't Miss!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-new-possibilities-how-apples-integration-of-nfc-in-iphones-with-third-party-apps-enhances-your-user-experience/"><u>Unlocking New Possibilities: How Apple's Integration of NFC in iPhones with Third-Party Apps Enhances Your User Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/visionos-2-update-showcased-at-worldwide-developers-conference-a-deep-dive-into-new-features-surprises-and-confusions/"><u>VisionOS 2 Update Showcased at Worldwide Developers Conference: A Deep Dive Into New Features, Surprises & Confusions.</u></a></li>
 </ul></div>
 

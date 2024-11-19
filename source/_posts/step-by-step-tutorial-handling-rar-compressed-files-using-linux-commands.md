@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Handling RAR Compressed Files Using Linux Commands"
-date: 2024-08-29T02:13:07.492Z
-updated: 2024-08-30T02:13:07.492Z
+date: 2024-11-14T22:24:52.667Z
+updated: 2024-11-19T02:31:46.462Z
 tags:
   - desktop
 categories:
@@ -21,6 +21,19 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
  In this article, we'll explore how you can create RAR files and extract content from existing ones, and discuss other ways to deal with them. For demonstration purposes, we're using Ubuntu 22.04 LTS.
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Install rar and unrar Commands on Linux
 
  To work with RAR files on Linux, you need two commands known as rar and unrar. Installing them is pretty straightforward. Simply follow your specific Linux distribution's installation command(s).
@@ -30,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 sudo apt install rar unrar
 
 ![The Linux terminal displaying the installation of the rar and unrar commands on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-13.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For Debian-based distributions, use:
 
@@ -48,6 +68,19 @@ sudo yum install epel-release && sudo yum install rar unrar
 sudo zypper install rar unrar
 
  If you'd rather [build the tools from source](https://facebook-videos.techidaily.com/new-in-2024-signal-id-video-overview-width-x-height-encoding-minutes/), you can download the TAR file from the [downloads page of the official website](https://www.rarlab.com/download.htm). Once you've installed rar and unrar, move on to creating RAR files and performing other actions on them.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Create RAR Files on Linux
 
@@ -71,10 +104,6 @@ rar a test.rar test1.txt test2.txt test3.txt test4.txt test5.txt
 
 ![The Linux terminal showing the creation of a RAR file using several text files on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  How to Extract RAR Files on Linux
 
  The rar command lets you create an archive. To extract an existing RAR file, you use the unrar command. The syntax is pretty simple. Let's use unrar to extract files from the archive we created earlier. To do that, run:
@@ -85,9 +114,6 @@ unrar e test.rar
 
 ![The Linux display showcasing how to extract files from a RAR archive on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  How to Extract RAR Files to a Specific Directory
 
  What if you don't want to extract the files to the current directory and instead need them in a different directory? You can easily accomplish that by adding the directory path to the previous command, like this:
@@ -96,10 +122,14 @@ unrar e test.rar /home/zunaid/rar/extract
 
 ![The Linux terminal showing the process of extracting a RAR archive to a specific directory on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  Remember that the directory where you want to extract the archive must already exist on your system. Otherwise, the command won't work.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Extract RAR Files and List the Directory Structure
 
@@ -109,23 +139,8 @@ unrar x Files.rar
 
 ![The Linux terminal displaying the process of extracting files from a RAR archive with the directory structure on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-7.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can see, the output includes the directories in the RAR archive and the files each folder contains. So if you have directories in your RAR file, extracting archives using the "x" option can be more helpful.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to List RAR Files on Linux
 
  So you download a RAR file and want to know its contents without extracting it. That's where listing the files can help you. By adding the "l" option to the unrar command, you can list all the files and directories in your RAR file. In our case, we'll run:
@@ -135,13 +150,27 @@ unrar l Files.rar
 ![The Linux terminal displaying the contents of a RAR archive file without extracting it on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  What's more, you can see the file sizes, permissions, date and time of creation, and the total number of files.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Check the Integrity of RAR Files on Linux
 
  The unrar command lets you test the files in the archive for errors. If a file looks good, the command displays an "OK" status for that. To check the integrity of the files in an archive, use:
@@ -150,9 +179,6 @@ unrar t Files.rar
 
 ![The Linux terminal showing the integrity of all the files of a RAR archive on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  In our case, all files are good to go.
 
 ##  How to Add Files to an Existing RAR File
@@ -175,9 +201,6 @@ rar r test.rar
 
 ![The Linux terminal showing the process of fixing a RAR file on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Deleting files is simple. Simply specify the name of the files you want to delete from the archive. In our case, we want to delete "test6.txt" from the "test.rar" file. For that, we use:
 
 rar d test.rar test6.txt
@@ -185,9 +208,12 @@ rar d test.rar test6.txt
 ![The Linux terminal displaying the deletion of a single file from a RAR archive on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can see if the file was deleted by listing the archive contents.
 
 ##  How to Split a RAR File Using rar
@@ -198,13 +224,17 @@ rar a -v1M Files.part.rar test1.txt test2.txt
 
  The "a" option adds new files to the archive. We specify the size of each archive with the "-v" option. The naming of the RAR file is important here. After creating the RAR archive, you'll notice that each file is named "Files.part.rar", "Files.part2.rar", "Files.part3.rar", and so on. Finally, add the file and directory names you'd like to include in the archive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Protecting Your RAR File on Linux
 
  The last thing we'll cover is how you can make your RAR files more secure by adding a password or locking the file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ###  How to Password-Protect RAR Files
 
  To set a password for your RAR file, run:
@@ -235,8 +265,6 @@ rar k Files.rar
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -244,4 +272,18 @@ rar k Files.rar
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-recording-winning-calls-a-complete-guide-free-vs-paid-for-windows-and-mac-users/"><u>[New] In 2024, Recording Winning Calls A Complete Guide (Free vs Paid) for Windows & Mac Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-clearview-pro-5-screen-mastery/"><u>[Updated] ClearView Pro 5 - Screen Mastery</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-social-media-showdown-continues-the-ongoing-debate-on-igtv-and-youtube/"><u>[Updated] Social Media Showdown Continues The Ongoing Debate on IGTV and YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aerial-cutting-edge-the-ultimate-drone-editing-comparison-for-2024/"><u>Aerial Cutting Edge The Ultimate Drone Editing Comparison for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-personalized-command-feature-explained/"><u>ChatGPT's Personalized Command Feature Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/controlling-the-future-governmental-approaches-to-ai-regulation-explored/"><u>Controlling the Future: Governmental Approaches to AI Regulation Explored</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-exceptional-audioscape-for-cinematic-videos/"><u>In 2024, Exceptional Audioscape for Cinematic Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-mavix-m9-gaming-chair-ultimate-comfort-for-extended-play/"><u>In-Depth Evaluation of the Mavix M9 Gaming Chair: Ultimate Comfort for Extended Play</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-editing-on-inshot-mastering-the-art-of-transitioning-for-2024/"><u>Precision Editing on Inshot Mastering the Art of Transitioning for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-enhancing-your-resume-with-ai-assistance-from-chatgpt/"><u>Step-by-Step Guide: Enhancing Your Resume with AI-Assistance From ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-professional-edge-in-emails-leveraging-ai-for-clarity-and-precision/"><u>The Professional Edge in Emails: Leveraging AI for Clarity and Precision</u></a></li>
+</ul></div>
 

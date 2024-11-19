@@ -1,7 +1,7 @@
 ---
 title: "The True Price Tag on 'Free' Smartphones Offered by Cellular Network Operators: Insights and Analysis"
-date: 2024-11-03T22:59:51.465Z
-updated: 2024-11-08T04:37:47.240Z
+date: 2024-11-11T17:32:16.231Z
+updated: 2024-11-18T17:31:13.190Z
 tags:
   - apple
 categories:
@@ -26,6 +26,13 @@ At ZDNET, we've tested all of the best smartwatches on the market, testing their
 
 Based on both our [hands-on testing](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/) and insights from experts, we named the [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) the best smartwatch overall due to its new processor, long battery life, storage capacity, high-quality titanium materials, [sleep-tracking capabilities](https://www.zdnet.com/article/how-to-sleep-better-with-the-apple-watch/), women's wellness features, and advanced workout metric feature suite. If you're not an Apple user, read on to see how watches from [Samsung](https://www.zdnet.com/article/best-android-smartwatch/) (including its newest [Galaxy Watch Ultra](https://www.zdnet.com/article/the-galaxy-watch-ultra-convinced-me-to-replace-my-apple-watch-in-less-than-a-week-heres-why/)), Google (including its newest [Pixel Watch 3](https://www.zdnet.com/article/hands-on-with-the-pixel-watch-3-the-three-features-google-got-right/)), [Garmin,](https://www.zdnet.com/article/best-garmin-watch/) Withings, and Amazfit compare, to find the best smartwatch for your needs and your wrist. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The best smartwatches of 2024
 
 Show less 
@@ -43,14 +50,14 @@ Cons
 * No offline mapping
 * May be too large for small wrists
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch Ultra 2
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best smartwatch overall
 
@@ -80,13 +87,6 @@ Cons
 * Less than two-day battery life
 
 ## Apple Watch Series 9
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best smartwatch for iPhone users
 
@@ -183,26 +183,13 @@ Pros
 Cons 
 * Large display is likely to consumer more battery power
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Watch 7
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best Samsung smartwatch for smaller wrists
@@ -234,19 +221,6 @@ Cons
 * Limited sleep details
 
 ## Apple Watch SE
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best value Apple Watch
 
@@ -310,6 +284,13 @@ Pros
 Cons 
 * No Google Assistant support
 * Overwhelming smartphone app experience
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Amazfit Balance
 
@@ -407,6 +388,13 @@ Smartwatches serve as companions to our smartphones, and there are several thing
 * **Battery life:** Expect your smartwatch to last a full day and night, so you can track your sleep and then charge it while you get ready for work. A few new smartwatches are now easily lasting 48 hours between charging, with some pushing that another day or two so we are seeing improvements in battery life.
 * **Cellular connectivity:** While smartwatches serve as companions to our smartphones, some models support cellular connectivity. If you buy one of these then you will need a watch line with your carrier, but these are typically $10 per month. The Apple Watch Ultra 2 and Samsung Galaxy Watch Ultra include LTE support by default, but you are not required to enable cellular service. Cellular capability is great for those who want to leave their phones behind and still remain connected for communications, application usage, and safety.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How we test smartwatches
 
 All of the smartwatches included in this list were chosen based on how they performed when [tested in the real world](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/) by the ZDNET team. When we test smartwatches, we typically follow the same routine for each one to see which performs best.
@@ -455,10 +443,10 @@ While you can leave your iPhone at home while you run, go to the store, or strol
 After initial setup, a cellular-enabled Samsung Galaxy Watch or Google Pixel Watch can act as a stand-alone mobile device. With the latest Galaxy Watch 7, Watch Ultra, or Pixel Watch 3 running Wear OS, many more apps can be used on the go, so you can leave the phone behind in most cases.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the hot new features in the latest smartwatches?
@@ -476,16 +464,10 @@ People also regularly have video calls with family and friends, not just coworke
 In addition, as AI continues to integrate into our lives, having this technology available in our watches should help provide data faster and more accurately than simple web search queries that we may carry out with Siri or Google Assistant.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's the best smartwatch for health monitoring?
@@ -503,16 +485,10 @@ The FDA released a [safety communication](https://www.fda.gov/medical-devices/sa
 Devices, like those from [Dexcom](https://www.dexcom.com/all-access/dexcom-cgm-explained/cgm-and-smartwatch), send real-time glucose data directly to a compatible watch. For Dexcom monitors, this includes most versions of the Apple Watch. Make sure to check both your glucose monitor and your smartwatch compatibility before deciding whether or not to use your smartwatch to connect to your monitor and smartphone.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What about tracking blood pressure?
@@ -583,22 +559,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-leading-tips-seamless-youtube-to-mpeg-conversion-guide-for-2024/"><u>[Updated] Leading Tips Seamless YouTube-to-MPEG Conversion Guide for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-streamline-your-playback-the-ultimate-guide-to-roblox-replays-on-a-mac/"><u>2024 Approved Streamline Your Playback The Ultimate Guide to Roblox Replays on a Mac</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/break-writing-barriers-with-our-5-innovative-text-generators/"><u>Break Writing Barriers with Our 5 Innovative Text Generators</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/building-a-brand-in-the-metaverse-ecosystem/"><u>Building a Brand in the Metaverse Ecosystem</u></a></li>
-<li><a href="https://driver-download.techidaily.com/efficient-printing-with-epson-ds-530-secure-downloads-for-updated-drivers-on-windows-11-x64-platforms/"><u>Efficient Printing with Epson DS-530: Secure Downloads for Updated Drivers on Windows 11 X64 Platforms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-privacy-concerns-with-chatgpt-should-users-be-worried/"><u>Evaluating Privacy Concerns with ChatGPT: Should Users Be Worried?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-fodt-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .fodt file free</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-an-ai-black-box-operate-unveiling-the-mystery-of-intelligent-systems/"><u>How Does an AI Black Box Operate? Unveiling the Mystery of Intelligent Systems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-13-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 13 without Password?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-profit-from-spotting-code-flaws-in-openais-challenge-arena/"><u>How to Profit From Spotting Code Flaws in OpenAI's Challenge Arena</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-xs-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone XS Max How to Bypass?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-use-leading-lines-in-photography-for-iphone-photos/"><u>In 2024, How to Use Leading Lines in Photography for iPhone Photos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-learn-to-extract-twitter-media-as-audible-files/"><u>In 2024, Learn to Extract Twitter Media as Audible Files</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-dangers-of-fraudgpt-a-comprehensive-guide-for-self-protection/"><u>The Hidden Dangers of FraudGPT - A Comprehensive Guide for Self-Protection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-length-restrictions-of-ai-outputs/"><u>Understanding the Length Restrictions of AI Outputs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-potential-integrating-chatgpt-with-add-ons/"><u>Unleashing Potential: Integrating ChatGPT with Add-Ons</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-predictive-ai-its-mechanism-and-functionality/"><u>Unraveling Predictive AI: Its Mechanism and Functionality</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-art-of-assembly-crafting-your-personalized-4k-video-editor-pc/"><u>[New] 2024 Approved The Art of Assembly Crafting Your Personalized 4K Video Editor PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-brand-identity-in-pictures-how-to-watermark-on-instagram/"><u>[New] Brand Identity in Pictures How to Watermark on Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-to-sonic-treasures-downloading-app-based-audio-content-for-2024/"><u>[Updated] Navigating to Sonic Treasures Downloading App-Based Audio Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-great-digital-debate-meta-vs-omni/"><u>[Updated] The Great Digital Debate Meta Vs. Omni</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-fundamentals-of-gif-animation-mastery/"><u>2024 Approved Fundamentals of GIF Animation Mastery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-combine-photos-for-captivating-instagram-stories/"><u>2024 Approved How to Combine Photos for Captivating Instagram Stories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/anticipate-these-top-3-groundbreaking-iphone-16-functions-and-why-they-warrant-an-immediate-upgrade-insights-from-zdnet/"><u>Anticipate These Top 3 Groundbreaking iPhone 16 Functions & Why They Warrant an Immediate Upgrade! - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-amazfit-helio-rings-cost-debut-timeline-and-technical-specifications/"><u>Comprehensive Guide: Amazfit Helio Ring's Cost, Debut Timeline, and Technical Specifications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-improved-ease-of-repair-for-the-new-iphone-cuffs-in-depth-analysis-by-apple-experts-at-zdnet/"><u>Discover Improved Ease of Repair for the New iPhone Cuffs | In-Depth Analysis by Apple Experts at ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-android-to-apple-the-iphone-16-attributes-that-may-just-persuade-me/"><u>From Android to Apple? The iPhone 16 Attributes That May Just Persuade Me!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/hacker-alert-reclaiming-your-social-network/"><u>Hacker Alert Reclaiming Your Social Network</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-handle-liquid-found-in-iphone-usb-c-or-lightning-charger-port-top-2-remedies/"><u>How to Handle Liquid Found in iPhone USB-C or Lightning Charger Port: Top 2 Remedies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-photo-skills-speed-and-simplicity-with-windows-10-paint-app/"><u>In 2024, Boosting Photo Skills Speed & Simplicity with Windows 10 Paint App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-turn-on-windows-11s-dynamic-hdr-mode/"><u>In 2024, Guide Turn on Windows 11'S Dynamic HDR Mode</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-the-groundbreaking-feature-the-google-pixel-9-your-lifeline-with-satellite-based-emergency-messaging/"><u>Introducing the Groundbreaking Feature: The Google Pixel 9 - Your Lifeline with Satellite-Based Emergency Messaging</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/switching-upgrades-why-i-opted-for-affordable-alternatives-over-the-apple-vision-pro-and-meta-quest-3/"><u>Switching Upgrades: Why I Opted for Affordable Alternatives Over the Apple Vision Pro & Meta Quest 3</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-price-of-your-carriers-complimentary-smartphone-a-deep-dive-into-the-real-cost/"><u>The Hidden Price of Your Carrier's Complimentary Smartphone: A Deep Dive Into the Real Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-cutting-edge-ipad-peripherals-insights/"><u>The Ultimate Guide to Cutting-Edge iPad Peripherals : Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrading-to-a-faster-experience-compare-apples-latest-m3-macbook-air-against-its-m2-counterpart-for-your-perfect-laptop-choice/"><u>Upgrading to a Faster Experience? Compare Apple's Latest M3 MacBook Air Against Its M2 Counterpart for Your Perfect Laptop Choice</u></a></li>
 </ul></div>
 

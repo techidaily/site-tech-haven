@@ -1,7 +1,7 @@
 ---
 title: Exploring the Charm of Regional Data Safeguards
-date: 2024-08-29T02:13:38.724Z
-updated: 2024-08-30T02:13:38.724Z
+date: 2024-11-16T21:56:36.902Z
+updated: 2024-11-18T16:11:47.102Z
 tags:
   - deals
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An iPhone on the iCloud storage screen with a cloud icon in the center and a cleaning icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-icloud-storage-cleanup-featured.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lucas Gouveia / Justin Duino / How-To Geek | [FellowNeko](https://www.shutterstock.com/image-photo/kharkov-ukraine-november-21-2021-icloud-2082705979) / Shutterstock
 
  Then there is the small matter of the eye-watering subscription prices. Google Drive charges more than $100 a year for the 2TB plan. iCloud is even more expensive at $130 a year. You can buy a 2TB SSD for less (more on that later.) If you cancel the plan or stop paying, they’ll just wipe your storage.
@@ -41,9 +48,6 @@ Lucas Gouveia / Justin Duino / How-To Geek | [FellowNeko](https://www.shuttersto
 
 ![Multiple kinds of storage drives.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/ssd-hdd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Corbin Davenport/How-to Geek
 
  You can migrate files from one backup solution to another with ease. You can even create multiple fail safes by storing your files on multiple drives and storing them in different locations (say in your office and at home.)
@@ -62,6 +66,13 @@ Corbin Davenport/How-to Geek
 
  They’re designed to “mirror” folders. So if you have a folder called “Work” on your desktop. You’d connect an external drive to the computer and run one of these apps to mirror that onto the drive. So if the “Work” folder has 10 items, it’ll copy them all to the drive. When you add another item, it’ll only copy that eleventh file. You can also set the apps to sync and back up automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Effortlessly Create Local Backups
 
  This is how you can use FreeFileSync to effortlessly manage your local backups. To start, [download the FreeFileSync installer](https://freefilesync.org/download.php) from its official website.
@@ -69,9 +80,12 @@ Corbin Davenport/How-to Geek
 ![The official download page for FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-012544.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Double-click the setup to launch the installer, accept the terms and conditions, and press “Next” a couple of times to finish the setup. Launch FreeFileSync from the desktop or the search box.
 
 Close 
@@ -80,33 +94,27 @@ Close
 
 ![Selecting source and backup directories on FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-012807.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To mirror the folder onto the external drive, click the arrow button next to the green gear icon and select “Mirror," then click “Synchronize.” Confirm by pressing “Start.”
 
 ![Starting the synchronization on FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-013145.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Wait for the sync to finish and press “Close.”
 
 ![Files synced successfully using FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-013417.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Whenever you make changes to the folder being backed up, you can sync again to update the backup.
 
  If a folder has a lot of items, and you want to compare the backup and original versions, you don’t have to do that manually. You just press the “Compare” button, and it’ll show you a list of files that need to be synced.
 
 ![Running a comparison between source and backup folders using FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-014331-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  You can also automate this whole process. To do that, you can either use the Task Schedule built into Windows or the RealTime Sync tool provided by FreeFileSync. It’ll automatically monitor the source folder for any recent changes and mirror them on the external drive. Alternatively, you can set it to automatically back up any changes whenever you attach the USB stick or an external disk.
 
  First, you need to create a batch file. You can create one after you’ve successfully performed your first manual backup. Click the “Save as Batch Job” button and then “Save As.” You can click “Run Minimized” if you want quiet backups.
@@ -137,8 +145,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +152,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-illumination-best-covered-ig-highlights-on-the-move/"><u>[Updated] 2024 Approved Instagram Illumination Best-Covered IG Highlights on the Move</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cadence-captors-embrace-free-online-tempo-apps-for-2024/"><u>[Updated] Cadence Captors – Embrace Free Online Tempo Apps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-trust-chatgpt-a-breakdown-of-six-potential-cybersecurity-hazards/"><u>Can You Trust ChatGPT? A Breakdown of Six Potential Cybersecurity Hazards</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-ai-controls-essential-insights-into-regulation-and-responsibility/"><u>Demystifying AI Controls: Essential Insights Into Regulation and Responsibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-vs-bert-face-off-exploring-how-they-stand-out-as-leading-nlp-technologies/"><u>GPT Vs. BERT Face-Off: Exploring How They Stand Out as Leading NLP Technologies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changefake-your-tecno-camon-20-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Tecno Camon 20 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-guide-to-integrating-music-and-editing-in-canva-vids/"><u>In 2024, The Guide to Integrating Music & Editing in Canva Vids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-azure-guide-to-speech-to-text-integration-for-2024/"><u>The Complete Azure Guide to Speech-to-Text Integration for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-dilemma-of-gpt-in-programming-weapons/"><u>The Dilemma of GPT in Programming Weapons</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-method-for-making-your-xbox-360-slims-interiors-known/"><u>The Method for Making Your Xbox 360 Slim's Interiors Known</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "July's Top Discounted Apple Gadgets: IPhones to iPads - Special Deals Revealed by ZDNET"
-date: 2024-11-05T21:21:40.947Z
-updated: 2024-11-08T08:50:33.415Z
+date: 2024-11-15T22:44:19.576Z
+updated: 2024-11-18T22:54:24.435Z
 tags:
   - apple
 categories:
@@ -125,6 +125,13 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -157,6 +164,13 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb8114c70-8128-4be6-9cd8-0cc4fe36c521%7Cdtp&dtb=1)
@@ -171,34 +185,20 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
 
@@ -218,19 +218,6 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -252,6 +239,13 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -297,18 +291,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-choosing-game-bar-substitutes/"><u>[New] The Ultimate Guide to Choosing Game Bar Substitutes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capture-the-action-5-ways-to-record-windows-10-games/"><u>[Updated] 2024 Approved Capture the Action 5 Ways to Record Windows 10 Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/connect-your-pc-effortlessly-to-any-bluetooth-speaker-a-step-by-step-guide/"><u>Connect Your PC Effortlessly to Any Bluetooth Speaker – A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-to-implement-chatgpt-widget-in-your-android-device/"><u>Effective Strategies to Implement ChatGPT Widget in Your Android Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-on-how-to-get-your-huion-tablet-pen-working-again-with-these-5-troubleshooting-steps/"><u>Expert Tips on How to Get Your Huion Tablet Pen Working Again with These 5 Troubleshooting Steps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/go-anywhere-talk-ai-mastering-the-use-of-chatgpt-and-chatgpt-everywhere-on-the-go/"><u>Go Anywhere, Talk AI: Mastering the Use of ChatGPT and ChatGPT Everywhere on the Go</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-oppo-a18-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo A18 Phone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/loophole-busted-no-more-unjust-refunds/"><u>Loophole Busted: No More Unjust Refunds</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/photoshop-basics-top-tips-to-transform-images-like-a-pro/"><u>Photoshop Basics Top Tips to Transform Images Like a Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pinnacle-extensions-combining-chatgpt-with-vs-code/"><u>Pinnacle Extensions: Combining ChatGPT with VS Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-potential-stepwise-setup-of-auto-gpt/"><u>Unleash Potential: Stepwise Setup of Auto-GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/visionaries-converge-globally-minded-perspectives-on-ai/"><u>Visionaries Converge: Globally-Minded Perspectives on AI</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-cream-of-the-crop-top-8-sites-for-rich-3d-and-text/"><u>[New] 2024 Approved The Cream of the Crop Top 8 Sites for Rich 3D & Text</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-perfecting-iphone-capture-and-record-at-once/"><u>[New] In 2024, Perfecting iPhone Capture & Record at Once</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726028549540-pc/"><u>「PC用ガイド：動画から高品質なスクリーンショットをキャプチャする方法」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breakthrough-features-of-the-new-iphone-16-explored-seamless-space-recording-technology-and-enhanced-thin-profiling-for-all-versions/"><u>Breakthrough Features of the New iPhone 16 Explored: Seamless Space Recording Technology and Enhanced Thin Profiling for All Versions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-fitness-tracking-with-apple-watch-os-11-a-look-at-its-latest-upgrades-and-cutting-edge-functionality/"><u>Elevate Your Fitness Tracking with Apple Watch OS 11: A Look at Its Latest Upgrades and Cutting-Edge Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-guide-to-properly-disinfecting-your-airpods-protect-your-health-with-expert-tips/"><u>Essential Guide to Properly Disinfecting Your AirPods – Protect Your Health with Expert Tips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-understanding-and-solving-the-volsnapsys-blue-screen-of-death-in-windows/"><u>Guide: Understanding and Solving the Volsnap.sys Blue Screen of Death in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-install-new-drivers-for-your-intel-centrino-advanced-n-client-1398-pcie/"><u>How to Successfully Install New Drivers for Your Intel Centrino Advanced-N Client 1398 PCIe</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/making-the-switch-worthwhile-is-it-time-to-upgrade-from-an-m1-to-an-m3-macbook-pro-expert-analysis-on-apples-latest-laptop-offerings-zdnet/"><u>Making the Switch Worthwhile: Is It Time to Upgrade From an M1 to an M3 MacBook Pro? Expert Analysis on Apple's Latest Laptop Offerings | ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/post-prime-day-bargain-snag-the-new-10th-generation-apple-ipad-for-only-299-now-available/"><u>Post-Prime Day Bargain: Snag the New 10Th Generation Apple iPad for Only $299 - Now Available !</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/powershot-g9x-mark-ii-retro-meets-high-end-tech/"><u>PowerShot G9X Mark II: Retro Meets High-End Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/score-a-discounted-ipad-at-amazons-labor-day-deals-only-199/"><u>Score a Discounted iPad at Amazon's Labor Day Deals - Only $199!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-for-setting-up-an-ipad-expert-advice-from-zdnet-professionals/"><u>Step-by-Step Instructions for Setting Up an iPad: Expert Advice From ZDNet Professionals</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-for-compatible-video-conversion-to-apple-tv-playback/"><u>Step-by-Step Tutorial for Compatible Video Conversion to Apple TV Playback</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiled-and-explained-the-full-scope-of-apples-new-ai-technology-from-wwdc-2024/"><u>Unveiled and Explained: The Full Scope of Apple's New AI Technology From WWDC 2024</u></a></li>
 </ul></div>
 

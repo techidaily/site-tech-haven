@@ -1,7 +1,7 @@
 ---
 title: Easy Methods for Configuring a Linux Swap Partition
-date: 2024-08-29T02:12:47.483Z
-updated: 2024-08-30T02:12:47.483Z
+date: 2024-11-16T19:53:23.382Z
+updated: 2024-11-19T00:12:59.431Z
 tags:
   - desktop
 categories:
@@ -60,6 +60,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This is much less of a concern nowadays, and [many SSDs that are on sale have life expectancies that will outlast most PCs](https://mondly-stories.techidaily.com/arabic-for-beginners-a-step-by-step-guide/). A swap file on an SSD will have a far better performance than a swap partition on a mechanical hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Checking Existing Swap Space
 
  Look before you leap. Let's check what swap space is available on your computer. You can do this two ways, and we'll use both. [The free command will display the used and free memory](https://hardware-updates.techidaily.com/get-the-latest-lenovo-ideapad-vehicle-your-ultimate-guide-to-driver-updates-on-windows-10/). The -h (human readable) option will cause `free` to use sensible units when it displays the memory values.
@@ -68,9 +75,6 @@ free -h
 
 ![fre -h  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/1-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  The output from `free` shows that there is no swap space configured on this machine.
 
  Swap is never discussed without RAM and free RAM cropping up. So it's worth noting that the free RAM is given as 237 MB. Don't mistake that for the total of RAM available for use. That value is provided by the "available" figure, which is 881 MB.
@@ -88,8 +92,12 @@ swapon --show
  If these commands had revealed some swap space is already configured, the size of the existing swap space should be factored into decisions regarding the size of the swap file you're going to create.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How Much Swap Space Do I Need?
 
  The traditional response was "twice the amount of RAM you have." But this was coined when computers used to have very limited RAM. As RAM has become cheaper, and programs and games more demanding of memory, PC specifications have adjusted accordingly. Home PCs with 32 GB of RAM are not uncommon nowadays. And you're not going to allocate 64 GB of hard drive space to swap space if you've got 32 GB of RAM. That's plainly excessive.
@@ -100,9 +108,6 @@ swapon --show
 
  Pick [a swap file size from the table](https://help.ubuntu.com/community/SwapFaq#How%5Fmuch%5Fswap%5Fdo%5FI%5Fneed.3F), and run it for a while. Monitor your system's use of the swap space. If fine-tuning is required, changes are easily made. With swap files, It's a two-minute job. Compare that to adjusting partitions on a live Linux computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ##  Creating the Swap File
 
  You shouldn't use the `fallocate` command [to create your swapfile](http://man7.org/linux/man-pages/man1/fallocate.1.html). This is from the man page for `swapon`:
@@ -130,13 +135,17 @@ sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576
 
 ![sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/5-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some statistics are provided when the file is created.
 
 ![output from sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  We can see the number of blocks (records) that were written to the file, the size of the file, the time taken to create the file, and the effective data transfer rate.
 
  Use the `ls` command to see the file in the root directory:
@@ -145,9 +154,6 @@ ls /
 
 ![ls / in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ##  Preparing the Swap File
 
  We need to [prepare the swap file](http://man7.org/linux/man-pages/man8/mkswap.8.html) with the `mkswap` command before it can be used. We don't need to provide any parameters to `mkswap` other than the path and name of the file:
@@ -158,6 +164,13 @@ sudo mkswap /swapfile
 
  The file is prepared for use as a swap file. Note the warning about file permissions. We'll need to change those so that the root user is the only one who can read and write to the swap file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Using the Swap File
 
  The default permissions are too liberal, we need to restrict them so that only root can use the swapfile. [Use chmod to change the file permissions](https://extra-guidance.techidaily.com/new-perfect-synchronization-enhancing-audio-visual-with-subtitles-in-wmp/):
@@ -165,6 +178,13 @@ sudo mkswap /swapfile
 sudo chmod 600 /swapfile
 
 ![sudo chmod 600 /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/12-4.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This removes all permissions from the file group members and others, but allows the file owner, root, to read and write to the file.
 
@@ -175,13 +195,14 @@ sudo swapon /swapfile
 ![sudo swapon /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/9-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The swap file is now active.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Adding the Swap File to fstab
 
  To make sure your swap file is available after a reboot, [add it to the /etc/fstab file](https://win-forum.techidaily.com/complete-disk-usage-overload-in-windows-s-10-heres-how-to-fix-it/). You can use any text editor you prefer, but we'll show the process [using the graphical Gedit text editor](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-passcode-without-computer-drfone-by-drfone-ios/).
@@ -196,9 +217,6 @@ sudo gedit /etc/fstab
 
 ![/etc/fstab with the swapfile entry highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/11-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The fields are:
 
 * **File system**: The path and name of the swap file.
@@ -211,8 +229,12 @@ sudo gedit /etc/fstab
  Save the changes and close the editor.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Checking Swap Usage
 
  To see if your swap space is being used, use the `swapon` command with the `--show` option:
@@ -221,9 +243,6 @@ swapon --show
 
 ![swapon --show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/13-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  The columns are:
 
 * **Name**: The name of the swap partition or swap file.
@@ -249,8 +268,18 @@ swapon -- show
 ![swapon -- show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/15-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The priority of this swap space has been elevated to 10\. Which is proof positive that the options field in the `/etc/fstab` entry is not ignored.
 
 ##  Swap Space Made Easy
@@ -287,8 +316,6 @@ swapon --show
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -296,4 +323,22 @@ swapon --show
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-agricultural-bliss-the-10-perfect-gaming-friends-for-farmers/"><u>[New] 2024 Approved Agricultural Bliss The 10 Perfect Gaming Friends for Farmers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unlocking-the-secrets-to-overwatch-video-capture/"><u>[New] In 2024, Unlocking the Secrets to Overwatch Video Capture</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-digital-chronicles-recording-and-preserving-your-roblox-playthroughs-on-macos-for-2024/"><u>[Updated] Digital Chronicles Recording and Preserving Your Roblox Playthroughs on MacOS for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-file-funneling-features-5-techniques-to-desktops/"><u>[Updated] In 2024, File Funneling Features 5 Techniques to Desktops</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-transforming-trips-into-tales-the-roadmap-to-becoming-a-travel-blogger/"><u>2024 Approved Transforming Trips Into Tales The Roadmap to Becoming a Travel Blogger</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-nova-y91-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Nova Y91?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-4-utilities-for-detecting-ai-writings-by-students-professors-and-leaders/"><u>Essential 4 Utilities for Detecting AI Writings by Students, Professors & Leaders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-making-money-with-chatgpt-a-dream-or-reality-a-look-at-8-profitable-gigs/"><u>Is Making Money with ChatGPT a Dream or Reality? A Look at 8 Profitable Gigs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-portable-conversations-your-comprehensive-guide-to-connect-with-chatgpt-globally-via-chatgpt-everywhere/"><u>Master Portable Conversations: Your Comprehensive Guide to Connect with ChatGPT Globally via ChatGPT Everywhere</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/misconception-alert-no-official-chatgpt-for-windows-these-copies-are-harmful/"><u>Misconception Alert: No Official ChatGPT for Windows – These Copies Are Harmful</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-beginnings-in-ai-interactive-design/"><u>Navigating Beginnings in AI Interactive Design</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-hurdles-key-mistakes-to-circumvent-when-using-chamtgpt-for-content-creation/"><u>Navigating the Hurdles: Key Mistakes to Circumvent When Using ChamTGPT for Content Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-the-most-frequent-hurdles-of-auto-gpt-implementation-tips-and-solutions/"><u>Overcoming the Most Frequent Hurdles of Auto-GPT Implementation – Tips & Solutions</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/step-by-step-guide-replace-your-pcs-motherboard-and-processor-under-windows-os-windows-7-8-10-etc/"><u>Step-by-Step Guide: Replace Your PC's Motherboard & Processor Under Windows OS (Windows 7, 8, 10, Etc.)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-oppo-a1x-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Oppo A1x 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+</ul></div>
 
