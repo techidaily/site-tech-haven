@@ -1,7 +1,7 @@
 ---
 title: "Unlock Seamless Shopping with Apple Pay: Benefits & Strategies for Using It Offline and Online"
-date: 2024-11-16T19:40:07.073Z
-updated: 2024-11-19T01:07:40.520Z
+date: 2024-11-27T16:11:05.124Z
+updated: 2024-11-28T16:00:29.881Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -39,6 +43,10 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -62,13 +70,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -84,6 +85,10 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -115,22 +120,12 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -142,6 +137,10 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -149,19 +148,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -176,13 +162,6 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -218,18 +197,14 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-podcasters-handbook-writing-strategies-and-sample-scripts-available-free/"><u>[New] 2024 Approved The Podcaster's Handbook Writing Strategies & Sample Scripts Available Free</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-digital-compositing-a-complete-kinemaster-green-screen-tutorial/"><u>[New] Mastering Digital Compositing A Complete Kinemaster Green Screen Tutorial</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/windows-111087ssd/"><u>如何修复在Windows版本 (11/10/8/7)中克隆SSD不起作用的问题</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cost-effective-stratosphere-storage-for-large-archives/"><u>Cost-Effective Stratosphere Storage for Large Archives</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-motorola-moto-g04-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Motorola Moto G04</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-swiftly-mastering-the-art-of-smoothing-iphone-shots-four-methods/"><u>In 2024, Swiftly Mastering the Art of Smoothing iPhone Shots (Four Methods)</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unlock-animation-magic-top-8-photo-animation-tools/"><u>New In 2024, Unlock Animation Magic Top 8 Photo Animation Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secure-your-apple-watch-series-10-before-release-and-discover-top-savings-tips/"><u>Secure Your Apple Watch Series 10 Before Release and Discover Top Savings Tips</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/syntax-highlighting-features-in-emeditor-a-powerful-text-editing-tool/"><u>Syntax Highlighting Features in EmEditor - A Powerful Text Editing Tool</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-pixel-watch-3-revolution-tackling-key-issues-with-wearables-at-google-according-to-zdnet/"><u>The Pixel Watch 3 Revolution: Tackling Key Issues with Wearables at Google, According to ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-top-3-apple-vision-pro-pitfalls-steer-clear-or-risk-losing-it-all-expert-advice-from-zdnet/"><u>The Top 3 Apple Vision Pro Pitfalls - Steer Clear or Risk Losing It All: Expert Advice From ZDNet.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/thrills-and-tires-of-watching-favorite-shows-on-apple-vision-pro-a-surprisingly-glorious-and-odd-encounter-featured/"><u>Thrills and Tires of Watching Favorite Shows on Apple Vision Pro; A Surprisingly Glorious & Odd Encounter, Featured</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-malfunctioning-logitech-g-pro-x-microphone/"><u>Troubleshooting Steps for a Malfunctioning Logitech G Pro X Microphone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-tier-funny-editing-tool/"><u>[Updated] 2024 Approved Top-Tier Funny Editing Tool</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-curls-and-contours-creating-a-personalized-beauty-channel/"><u>[Updated] In 2024, Crafting Curls and Contours Creating a Personalized Beauty Channel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-chatgpt-impersonation-scams-how-to-recognize-and-react/"><u>Avoiding ChatGPT Impersonation Scams: How to Recognize and React</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ballads-battleground-chatgpt-vs-shepherds-alpacas-unite/"><u>Ballads Battleground: ChatGPT vs Shepherds, Alpacas Unite</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-software-solutions-manage-share-and-backup-chatgpt-dialogue-records/"><u>Best Software Solutions: Manage, Share & Backup ChatGPT Dialogue Records</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-writing-discover-the-best-ai-prompts-to-develop-unique-book-personalities/"><u>Boost Your Writing: Discover the Best AI Prompts to Develop Unique Book Personalities</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/fixing-the-issue-resolving-pc-crashes-in-halo-3/"><u>Fixing the Issue: Resolving PC Crashes in Halo 3</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-simple-guide-to-get-the-latest-hid-keyboard-driver-download/"><u>Quick & Simple Guide to Get the Latest HID Keyboard Driver Download</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-out-elden-ring-play-with-these-six-swift-fixes-for-fps-and-stuttering-problems/"><u>Smooth Out 'Elden Ring' Play with These Six Swift Fixes for FPS and Stuttering Problems</u></a></li>
 </ul></div>
 

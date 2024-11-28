@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Use iMessages on a Windows Computer | Tech Tips by ZDNet
-date: 2024-11-13T22:49:37.469Z
-updated: 2024-11-18T19:01:35.980Z
+date: 2024-11-22T16:14:18.722Z
+updated: 2024-11-28T16:05:48.614Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
@@ -62,13 +66,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -85,24 +82,25 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -111,13 +109,6 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -139,11 +130,19 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -151,25 +150,11 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,20 +192,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-instagrams-filters-a-comprehensive-guide-to-enhance-your-posts/"><u>[New] Unveiling Instagram's Filters A Comprehensive Guide to Enhance Your Posts</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production-for-2024/"><u>[Updated] SDR Vs. HDR The Superiority of High Dynamic Range in Video Production for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-simplified-breaking-down-complex-concepts-into-easy-terms/"><u>AI Simplified: Breaking Down Complex Concepts Into Easy Terms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/are-generative-artifice-intelligence-techniques-transforming-into-novel-methods-of-disseminating-false-information/"><u>Are Generative Artifice Intelligence Techniques Transforming Into Novel Methods of Disseminating False Information?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-chatgpt-discover-7-robust-programming-alternatives-with-ai-capabilities/"><u>Beyond ChatGPT: Discover 7 Robust Programming Alternatives with AI Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-co-pilot-for-car-modifications-how-to-get-started/"><u>ChatGPT as a Co-Pilot for Car Modifications: How to Get Started</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-top-six-troubleshooting-tips-fixing-the-most-common-gaffes/"><u>ChatGPT's Top Six Troubleshooting Tips: Fixing the Most Common Gaffes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/coding-in-the-age-of-artificial-intelligence/"><u>Coding in the Age of Artificial Intelligence</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-y200-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y200 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-netgear-c3700-a-versatile-cable-modem-and-wireless-router-combo/"><u>In-Depth Analysis of the Netgear C3700: A Versatile Cable Modem and Wireless Router Combo</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/g-fx-magic-a-novices-step-into-animated-worlds/"><u>Making FX Magic A Novice's Step Into Animated Worlds</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-printing-on-windows-11-10-and-8-download-the-latest-epson-artisan-1430-drivers-today/"><u>Seamless Printing on Windows 11, 10 & 8: Download the Latest Epson Artisan 1430 Drivers Today!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-26-free-pc-maintenance-tools-the-ultimate-registry-cleaners-list-2024-edition/"><u>Top 26 Free PC Maintenance Tools: The Ultimate Registry Cleaners List - 2024 Edition</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/unlocking-the-secrets-to-efficient-image-capturing-for-2024/"><u>Unlocking the Secrets to Efficient Image Capturing for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/visual-consistency-through-masterful-use-of-luts-in-ae/"><u>Visual Consistency Through Masterful Use of LUTs in AE</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-from-sketches-to-scores-making-dance-videos-on-your-macos/"><u>[New] From Sketches to Scores Making Dance Videos on Your MacOS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-srgb-efficiency-against-basic-rgb/"><u>[New] Srgb Efficiency Against Basic Rgb</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-average-time-to-watch-a-20-megabit-movie/"><u>[Updated] Average Time to Watch a 20 Megabit Movie</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-hololens-breakthrough-by-microsoft-a-3d-reality-revolution/"><u>[Updated] In 2024, HoloLens Breakthrough by Microsoft – A 3D Reality Revolution</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/comprehensive-guide-over-100-crucial-russian-phrases/"><u>Comprehensive Guide: Over 100 Crucial Russian Phrases</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977686897-download-targus-docking-station-drivers-fast-setup/"><u>Download Targus Docking Station Drivers - Fast Setup!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-realme-c33-2023-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Realme C33 2023 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-x6-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco X6 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-auto-gpt-installation-on-ubuntu-expert-instructions-and-insights/"><u>Mastering Auto-GPT Installation on Ubuntu - Expert Instructions and Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-prompt-engineering-in-ai-learning/"><u>Navigating Prompt Engineering in AI Learning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/novel-blueprint-structuring-a-story-with-gpt-support/"><u>Novel Blueprint: Structuring a Story with GPT Support</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ransomware-demystified-for-budget-phones-exclusive-chatgpt-podcast-edition-stay-safe-and-informed/"><u>Ransomware Demystified for Budget Phones: Exclusive ChatGPT Podcast Edition - Stay Safe and Informed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-building-a-rpg-storyline-with-ai-powered-by-chatgpt/"><u>Step-by-Step Tutorial on Building a RPG Storyline with AI Powered by ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tech-titans-tale-blizzard-merge-with-ms-opens-new-horizons-for-ai-translation-audio-debate/"><u>Tech Titans' Tale: Blizzard Merge with MS Opens New Horizons for AI Translation [Audio Debate]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ai-enhancement-challenge-githubs-copilot-vs-openais-gpt/"><u>The AI Enhancement Challenge: GitHub's Copilot Vs. OpenAI's GPT</u></a></li>
 </ul></div>
 

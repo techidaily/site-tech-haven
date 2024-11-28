@@ -1,7 +1,7 @@
 ---
 title: "July's Top Discounted Apple Gadgets: IPhones to iPads - Special Deals Revealed by ZDNET"
-date: 2024-11-15T22:44:19.576Z
-updated: 2024-11-18T22:54:24.435Z
+date: 2024-11-21T16:11:17.696Z
+updated: 2024-11-28T16:01:33.038Z
 tags:
   - apple
 categories:
@@ -25,6 +25,10 @@ Below, you'll find the best sales and discounts on Apple products, including Mac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Apple deals of July 2024
 
@@ -126,10 +130,7 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  More Apple deals
@@ -165,10 +166,7 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple accessory deals
@@ -185,16 +183,13 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
 
@@ -241,10 +236,7 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -291,20 +283,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-cream-of-the-crop-top-8-sites-for-rich-3d-and-text/"><u>[New] 2024 Approved The Cream of the Crop Top 8 Sites for Rich 3D & Text</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-perfecting-iphone-capture-and-record-at-once/"><u>[New] In 2024, Perfecting iPhone Capture & Record at Once</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726028549540-pc/"><u>「PC用ガイド：動画から高品質なスクリーンショットをキャプチャする方法」</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/breakthrough-features-of-the-new-iphone-16-explored-seamless-space-recording-technology-and-enhanced-thin-profiling-for-all-versions/"><u>Breakthrough Features of the New iPhone 16 Explored: Seamless Space Recording Technology and Enhanced Thin Profiling for All Versions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-fitness-tracking-with-apple-watch-os-11-a-look-at-its-latest-upgrades-and-cutting-edge-functionality/"><u>Elevate Your Fitness Tracking with Apple Watch OS 11: A Look at Its Latest Upgrades and Cutting-Edge Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-guide-to-properly-disinfecting-your-airpods-protect-your-health-with-expert-tips/"><u>Essential Guide to Properly Disinfecting Your AirPods – Protect Your Health with Expert Tips</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-understanding-and-solving-the-volsnapsys-blue-screen-of-death-in-windows/"><u>Guide: Understanding and Solving the Volsnap.sys Blue Screen of Death in Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-successfully-install-new-drivers-for-your-intel-centrino-advanced-n-client-1398-pcie/"><u>How to Successfully Install New Drivers for Your Intel Centrino Advanced-N Client 1398 PCIe</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/making-the-switch-worthwhile-is-it-time-to-upgrade-from-an-m1-to-an-m3-macbook-pro-expert-analysis-on-apples-latest-laptop-offerings-zdnet/"><u>Making the Switch Worthwhile: Is It Time to Upgrade From an M1 to an M3 MacBook Pro? Expert Analysis on Apple's Latest Laptop Offerings | ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/post-prime-day-bargain-snag-the-new-10th-generation-apple-ipad-for-only-299-now-available/"><u>Post-Prime Day Bargain: Snag the New 10Th Generation Apple iPad for Only $299 - Now Available !</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/powershot-g9x-mark-ii-retro-meets-high-end-tech/"><u>PowerShot G9X Mark II: Retro Meets High-End Tech</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/score-a-discounted-ipad-at-amazons-labor-day-deals-only-199/"><u>Score a Discounted iPad at Amazon's Labor Day Deals - Only $199!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-for-setting-up-an-ipad-expert-advice-from-zdnet-professionals/"><u>Step-by-Step Instructions for Setting Up an iPad: Expert Advice From ZDNet Professionals</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-for-compatible-video-conversion-to-apple-tv-playback/"><u>Step-by-Step Tutorial for Compatible Video Conversion to Apple TV Playback</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiled-and-explained-the-full-scope-of-apples-new-ai-technology-from-wwdc-2024/"><u>Unveiled and Explained: The Full Scope of Apple's New AI Technology From WWDC 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-secrets-to-updating-your-facebook-banner/"><u>2024 Approved Secrets to Updating Your Facebook Banner</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-resolving-the-ocidll-error-on-your-computer/"><u>Complete Tutorial: Resolving the OCI.Dll Error on Your Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-imaginary-realms-a-guide-to-utilizing-chatgpt-in-storytelling/"><u>Crafting Imaginary Realms: A Guide to Utilizing ChatGPT in Storytelling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/debunking-prevailing-myths-in-the-world-of-artificial-intelligence-based-chatbots/"><u>Debunking Prevailing Myths in the World of Artificial Intelligence-Based Chatbots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decode-the-power-of-openai-practical-uses-explored/"><u>Decode the Power of OpenAI: Practical Uses Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-secret-discovering-the-essence-of-elon-musks-truthgpt-endeavor/"><u>Decoding the Secret: Discovering the Essence of Elon Musk's TruthGPT Endeavor!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-success-how-do-these-7-advanced-ai-apps-leverage-gpt-4/"><u>Decoding the Success: How Do These 7 Advanced AI Apps Leverage GPT-4?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-most-effective-ai-programs-designed-for-mastering-math-puzzles/"><u>Discover the Most Effective AI Programs Designed for Mastering Math Puzzles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-fixes-to-tackle-these-6-prevalent-gpt-automation-setup-issues/"><u>Easy Fixes to Tackle These 6 Prevalent GPT Automation Setup Issues</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/lenovo-dvd2024/"><u>Lenovo DVD再生トラブルに直す2024年版ガイド</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-lost-steam-file-privileges-a-comprehensive-solution/"><u>Restoring Lost Steam File Privileges - A Comprehensive Solution</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95943807-9781633410794-the-bardic-book-of-becoming/"><u>The Bardic Book of Becoming | Free Book</u></a></li>
+<li><a href="https://facebook.techidaily.com/think-twice-before-enabling-facebooks-link-tracker/"><u>Think Twice Before Enabling Facebook's Link Tracker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-e8024002e-in-windows/"><u>Troubleshooting Error E:8024002E in Windows</u></a></li>
 </ul></div>
 

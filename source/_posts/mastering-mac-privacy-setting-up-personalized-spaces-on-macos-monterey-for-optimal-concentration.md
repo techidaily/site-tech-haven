@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Privacy: Setting Up Personalized Spaces on macOS Monterey for Optimal Concentration"
-date: 2024-11-15T16:14:16.283Z
-updated: 2024-11-18T21:32:24.677Z
+date: 2024-11-21T16:09:30.461Z
+updated: 2024-11-28T16:13:20.596Z
 tags:
   - apple
 categories:
@@ -31,10 +31,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -51,6 +48,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -58,10 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,13 +67,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -86,10 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -97,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,18 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-infographic-inquiry-unraveling-the-stats-of-yt-2017/"><u>[New] 2024 Approved Infographic Inquiry! Unraveling the Stats of YT (2017)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unveiling-the-art-of-perfectly-synchronized-android-time-lapses/"><u>[Updated] Unveiling the Art of Perfectly Synchronized Android Time-Lapses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-in-room-entertainment-with-apple-airplay-top-hotels-embrace-smart-connectivity-zdnet-insight/"><u>Enhance In-Room Entertainment with Apple Airplay – Top Hotels Embrace Smart Connectivity | ZDNET Insight</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-lava-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Lava Devices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-essential-tips-for-smooth-youtube-content-trimming/"><u>In 2024, Essential Tips for Smooth YouTube Content Trimming</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oppo-reno-10-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Oppo Reno 10 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-make-memories-shine-video-editing-secrets-for-amateur-filmmakers/"><u>New 2024 Approved Make Memories Shine Video Editing Secrets for Amateur Filmmakers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-ssleay32dll-file-is-missing-windows-issue/"><u>Resolving the 'ssleay32.dll File Is Missing' Windows Issue</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/score-two-premium-nomad-iphone-cases-for-the-price-of-one-with-our-exclusive-deal-start-shopping-today-at-zdnet/"><u>Score Two Premium Nomad iPhone Cases for the Price of One with Our Exclusive Deal - Start Shopping Today at ZDNET!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/swapped-out-my-apple-vision-pro-and-meta-quest-3-save-big-with-high-value-alternatives-to-xr-wearables-zdnet-analysis/"><u>Swapped Out My Apple Vision Pro & Meta Quest 3: Save Big with High-Value Alternatives to XR Wearables | ZDNet Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-keyboards-featured-and-analyzed-by-tech-gurus-insights/"><u>Top-Rated Keyboards Featured & Analyzed by Tech Gurus - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-mac-software-expert-picks-and-reviews-zdnet/"><u>Top-Rated Mac Software : Expert Picks and Reviews - ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-premier-defenders-of-timepieces-a-comprehensive-review-on-apple-watch-screens-by-zdnet/"><u>Unveiling the Premier Defenders of Timepieces : A Comprehensive Review on Apple Watch Screens by ZDNET</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-tutorial-from-webp-to-jpeg-for-2024/"><u>[Updated] Ultimate Tutorial From WebP to JPEG for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-sending-and-receiving-imessages-from-your-pc-with-windows-tips-and-tricks/"><u>Guide: Sending & Receiving iMessages From Your PC with Windows - Tips & Tricks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-zte-nubia-flip-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast ZTE Nubia Flip 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-m34-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy M34 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transformative-podcast-branding-through-logo-artistry/"><u>In 2024, Transformative Podcast Branding Through Logo Artistry</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ipad-showdown-exploring-the-distinctions-between-mini-and-air-versions/"><u>IPad Showdown: Exploring the Distinctions Between Mini and Air Versions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-time-display-on-windows-11-taskbar/"><u>Mastering Time Display on Windows 11 Taskbar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-neural-network-nuances-avoidably/"><u>Navigating Neural Network Nuances Avoidably</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-web-ais-emerging-influence/"><u>Navigating the Web: AI's Emerging Influence</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-endless-entertainment-10-best-free-online-video-loopers/"><u>New Endless Entertainment 10 Best Free Online Video Loopers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/redefining-academic-excellence-gpt-vs-student-writing-skills/"><u>Redefining Academic Excellence: GPT Vs. Student Writing Skills?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-chatgpt-authentication-issues-a-step-by-step-guide/"><u>Resolving ChatGPT Authentication Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725286648103-windows-winx-video-converter/"><u>Windows ユーザー向けの無料ビデオ変換ツール WinX Video Converter：導入ガイド</u></a></li>
 </ul></div>
 

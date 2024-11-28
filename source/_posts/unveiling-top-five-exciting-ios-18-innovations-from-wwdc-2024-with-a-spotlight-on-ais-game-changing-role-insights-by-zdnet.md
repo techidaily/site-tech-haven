@@ -1,7 +1,7 @@
 ---
 title: Unveiling Top Five Exciting iOS 18 Innovations From WWDC 2024, with a Spotlight on AI's Game-Changing Role - Insights by ZDNet
-date: 2024-10-18T16:24:45.010Z
-updated: 2024-10-21T19:55:26.897Z
+date: 2024-11-26T16:19:24.408Z
+updated: 2024-11-28T16:03:02.741Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. AI all around
 
 Apple is planning to [fully bake AI into iOS 18](https://www.zdnet.com/article/3-ai-features-ios-18-needs-to-catch-up-with-android/), according to several reports.
@@ -51,10 +55,7 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -64,16 +65,7 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -85,16 +77,7 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -104,10 +87,7 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -148,19 +128,19 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-evaluating-recmeisters-innovation-in-video-capture/"><u>[Updated] In 2024, Evaluating Recmeister's Innovation in Video Capture</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-linking-up-tweeted-movies-and-music-on-fb-platform/"><u>[Updated] Linking Up Tweeted Movies and Music on FB Platform</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-initial-guide-to-zoom-room-segregation/"><u>2024 Approved Initial Guide to Zoom Room Segregation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-stay-controlled-online-guide-to-blocking-distracting-youtube-channels/"><u>2024 Approved Stay Controlled Online Guide to Blocking Distracting YouTube Channels</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/access-chatgpt-anywhere-download-the-app-for-your-android-device/"><u>Access ChatGPT Anywhere: Download the App for Your Android Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/achieve-regular-mindfulness-with-chatgpt-tips-and-techniques-revealed/"><u>Achieve Regular Mindfulness with ChatGPT: Tips and Techniques Revealed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-breakthrough-alert-how-gpt-navigates-the-future-of-do-it-yourself-industries/"><u>AI Breakthrough Alert: How GPT-Navigates the Future of Do-It-Yourself Industries</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-influence-on-software-development-shaping-future-workflows/"><u>AI's Influence on Software Development: Shaping Future Workflows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoid-personal-data-collection-chatgpt-no-more/"><u>Avoid Personal Data Collection - ChatGPT No More</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-ai-like-chatgpt-assist-with-solving-math-problems-efficiently/"><u>Can AI Like ChatGPT Assist with Solving Math Problems Efficiently?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convert-video-formats-at-no-cost-mp3-mpeg-and-more-to-ogg-vorbis-with-movavis-online-tool/"><u>Convert Video Formats at No Cost: MP3, MPEG & More to Ogg Vorbis with Movavi's Online Tool</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/te-engagement-crafting-anime-subscribe-bars-for-youtube-content/"><u>Elevate Engagement Crafting Anime Subscribe Bars for YouTube Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-step-by-step-vimeo-recording-process/"><u>In 2024, Step-by-Step Vimeo Recording Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insight-into-the-workings-of-windows-odbc-tools/"><u>Insight Into the Workings of Windows ODBC Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-average-earnings-per-view-whats-the-income-for-youtubers-per-ad-playback-in-2024/"><u>[New] Average Earnings Per View What's the Income for YouTubers per Ad Playback, In 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-a-step-by-step-guide-to-amplify-your-content-through-spotlighting/"><u>[New] In 2024, A Step-by-Step Guide to Amplify Your Content Through Spotlighting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-8-essential-tools-for-your-youtube-to-avi-needs/"><u>[Updated] In 2024, 8 Essential Tools for Your YouTube-to-AVI Needs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-google-meet-unlocked-a-free-in-depth-user-manual/"><u>2024 Approved Google Meet Unlocked A Free, In-Depth User Manual</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/1716809753637-2024-approved-how-to-upload-videos-to-youtube-a-step-by-step-guide/"><u>2024 Approved How To Upload Videos to YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-enhancing-skills-in-board-games-and-visual-arts-using-chatgpts-bot-technology/"><u>Comprehensive Guide: Enhancing Skills in Board Games and Visual Arts Using ChatGPT's Bot Technology</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-perfect-youtube-channel-names-a-comprehensive-guide-for-video-content-creators-maximum-length-156-characters/"><u>Crafting Perfect Youtube Channel Names A Comprehensive Guide for Video Content Creators (Maximum Length 156 Characters)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-your-digital-twins-words-techniques-for-adapting-chatgpt-to-mimic-your-prose/"><u>Crafting Your Digital Twins Words: Techniques for Adapting ChatGPT to Mimic Your Prose</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creative-ai-at-your-fingertips-utilizing-dall-e-3-seamlessly-with-microsofts-bing-for-free/"><u>Creative AI at Your Fingertips: Utilizing DALL-E 3 Seamlessly with Microsoft's Bing for Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/critical-concerns-a-deep-dive-into-chatgpts-obstacles-and-limitations/"><u>Critical Concerns: A Deep Dive Into ChatGPT's Obstacles and Limitations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-artificial-intelligence-black-boxes-exploring-how-they-operate/"><u>Demystifying Artificial Intelligence Black Boxes – Exploring How They Operate</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-enhanced-system-cleaning-capabilities-with-revo-uninstaller-pro-v5-update/"><u>Discover Enhanced System Cleaning Capabilities with Revo Uninstaller Pro v5 Update</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-fun-explore-these-top-6-games-available-on-chatgpt/"><u>Discover Fun: Explore These Top 6 Games Available on ChatGPT</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elevate-your-profiles-visual-appeal-for-2024/"><u>Elevate Your Profile's Visual Appeal for 2024</u></a></li>
 </ul></div>
 

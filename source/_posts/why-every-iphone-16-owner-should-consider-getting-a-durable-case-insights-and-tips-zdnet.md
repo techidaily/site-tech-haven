@@ -1,7 +1,7 @@
 ---
 title: Why Every iPhone 16 Owner Should Consider Getting a Durable Case - Insights & Tips [ZDNet]
-date: 2024-11-15T01:19:43.036Z
-updated: 2024-11-18T23:52:07.394Z
+date: 2024-11-22T16:17:57.601Z
+updated: 2024-11-28T16:10:58.363Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. We need a clearer Apple Intelligence timeline
 
 Jason Hiner/ZDNET
@@ -39,10 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,18 +124,24 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-transforming-shopping-insights-into-youtube-paychecks/"><u>[Updated] 2024 Approved Transforming Shopping Insights Into YouTube Paychecks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/home-entertainment-ideas-how-to-set-up-a-successful-house-karaoke-night/"><u>Home Entertainment Ideas: How To Set Up A Successful House Karaoke Night</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-integrating-end-screen-elements-with-vimeo/"><u>In 2024, Integrating End Screen Elements with Vimeo</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-screencasting-simplified-adopting-the-ezvide-method/"><u>In 2024, Screencasting Simplified Adopting the EZvide Method</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-the-art-of-deleting-previous-exchanges-with-microsofts-chatgpt/"><u>Master the Art of Deleting Previous Exchanges with Microsoft's ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-canva-and-gpt-for-rapid-design-output/"><u>Mastering Canva & GPT for Rapid Design Output</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-car-ai-troubleshooting-and-fixing-6-common-mishaps/"><u>Mastering Car AI: Troubleshooting & Fixing 6 Common Mishaps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-daw-soundscapes-using-chatgpts-innovative-text-to-sound-techniques/"><u>Mastering DAW Soundscapes Using ChatGPT's Innovative Text-to-Sound Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/schritt-fur-schritt-tutorial-zum-abrufen-und-transformieren-mit-macx-dvd-ripper-pro-von-dvd-in-mp4-fur-ipad-iphone-and-ipod/"><u>Schritt-Für-Schritt-Tutorial Zum Abrufen Und Transformieren Mit MacX DVD Ripper Pro - Von DVD in MP4 Für iPad, iPhone & iPod</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-x5-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleashing-clarity-the-ultimate-video-enhancer-22-techniques-for-2024/"><u>Unleashing Clarity The Ultimate Video Enhancer 2.2 Techniques for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-deciphering-the-unheard-advanced-audio-separation-techniques-for-digital-videos-for-2024/"><u>Updated Deciphering the Unheard Advanced Audio Separation Techniques for Digital Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-social-presence-the-art-of-uploading-many-images-and-videos-to-instagram/"><u>[New] Elevate Your Social Presence The Art of Uploading Many Images and Videos to Instagram</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-content-with-these-20-pro-video-shortcuts/"><u>[Updated] 2024 Approved Elevate Your Content With These 20 Pro Video Shortcuts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elevate-your-cinematography-skills-editing-and-sharing-360-videos-on-youtube/"><u>[Updated] Elevate Your Cinematography Skills Editing and Sharing 360° Videos on YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-closer-look-the-8-major-problems-in-chatgpt/"><u>A Closer Look: The 8 Major Problems in ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721767594808-access-chatgpt-anywhere-the-new-mobile-app-is-here/"><u>Access ChatGPT Anywhere: The New Mobile App Is Here!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advance-prompt-formulation-skills-using-7-key-web-tools/"><u>Advance Prompt Formulation Skills Using 7 Key Web Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-driven-script-my-podcast-adventure/"><u>AI-Driven Script: My Podcast Adventure</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721753789238-bypassing-phone-numbers-for-secure-login-on-messaging-services-your-ultimate-guide/"><u>Bypassing Phone Numbers for Secure Login on Messaging Services - Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-pro-100-driver-download-and-installation-for-windows-users-hassle-free-setup/"><u>Canon PRO 100 Driver Download & Installation for Windows Users - Hassle-Free Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-powered-podcasts-on-budget-phones-safety/"><u>ChatGPT-Powered Podcasts on Budget Phones' Safety</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-12-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi 12 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-x50-gt-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor X50 GT</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722069088504-join-the-elite-club-of-bug-detectives-at-openai/"><u>Join the Elite Club of Bug Detectives at OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722138475909-not-only-patience-find-out-about-a-superb-open-source-chatbot-replacement-today/"><u>Not Only Patience: Find Out About a Superb Open-Source Chatbot Replacement Today</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-pova-5-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-chatgpt-installing-new-features-now/"><u>Unlocking ChatGPT: Installing New Features Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-past-of-ai-pinpointing-when-it-first-appeared/"><u>Unraveling the Past of AI: Pinpointing When It First Appeared</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/using-chatgpt-over-vpn-does-it-enhance-privacy-and-access/"><u>Using ChatGPT Over VPN – Does It Enhance Privacy And Access?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Apple Pay Usage: A Guide for In-Store and E-Commerce Transactions - Expert Tips"
-date: 2024-11-15T22:25:33.029Z
-updated: 2024-11-18T17:49:04.164Z
+date: 2024-11-22T16:08:21.591Z
+updated: 2024-11-28T16:16:03.934Z
 tags:
   - apple
 categories:
@@ -28,16 +28,13 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -48,10 +45,7 @@ Tap on the Wallet app to open it.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
@@ -76,6 +70,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -85,10 +83,7 @@ Double-press the iPhone's right-side button to access Apple Pay.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
@@ -98,13 +93,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -120,14 +108,11 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I set up Apple Pay from my iPhone Settings?
 
@@ -212,15 +197,24 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-adjustment-elevating-your-photography/"><u>[New] The Art of Adjustment Elevating Your Photography</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/fine-tune-your-visual-storytelling-in-videoleap-footage/"><u>Fine-Tune Your Visual Storytelling in Videoleap Footage</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-to-update-your-intel-based-imac-a-comprehensive-step-by-step-manual/"><u>How To Update Your Intel-Based iMac: A Comprehensive Step-by-Step Manual</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/regaining-control-over-online-privacy-a-guide-to-deleting-link-tracking-data-on-macos-safari/"><u>Regaining Control Over Online Privacy: A Guide to Deleting Link Tracking Data on macOS Safari</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/reviewing-vn-video-editor-the-ultimate-video-editing-app-for-2024/"><u>Reviewing VN Video Editor The Ultimate Video Editing App for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tiny-tech-with-big-impact-unveiling-the-m4-engineered-space-savvy-mac-mini-how-does-it-stack-up-against-apples-streaming-device/"><u>Tiny Tech with Big Impact: Unveiling the M4 Engineered, Space-Savvy Mac Mini - How Does It Stack Up Against Apple's Streaming Device?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-3-essential-gadgets-to-preserve-the-pristine-condition-of-your-iphone-13-insights/"><u>Top 3 Essential Gadgets to Preserve the Pristine Condition of Your iPhone 13 - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-kid-friendly-ipads-expert-picks/"><u>Top 4 Kid-Friendly iPads : Expert Picks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/unclog-youtube-videos-from-twitter-in-chrome/"><u>Unclog YouTube Videos From Twitter in Chrome</u></a></li>
-<li><a href="https://solve-news.techidaily.com/1725288731273-winx-dvd/"><u>WinX DVD 최신 소프트웨어 구성 단계를 이해하는 매우 유용한 개인 지침</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-5-game-ready-keyboards-under-100-a-comparison/"><u>[New] Top 5 Game-Ready Keyboards Under $100 – A Comparison</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-extensive-analysis-the-complete-gear-360-camera-experience/"><u>[Updated] 2024 Approved Extensive Analysis The Complete Gear 360 Camera Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-view-old-stories-on-facebook-laptop-and-mobile/"><u>[Updated] 2024 Approved How to View Old Stories on Facebook? [Laptop and Mobile]</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-a-beginners-tutorial-on-using-luts-in-ar/"><u>2024 Approved A Beginner's Tutorial on Using LUTs in AR</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-own-blemishes-overlooked/"><u>AI's Own Blemishes Overlooked</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artists-guide-safeguarding-masterpieces-against-copycat-ai-using-the-power-of-nightshade/"><u>Artists' Guide: Safeguarding Masterpieces Against Copycat AI Using the Power of Nightshade</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-data-snooping-gpt-and-vpn-connection-tips/"><u>Avoiding Data Snooping: GPT & VPN Connection Tips?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-free-mac-video-compression-software-in-2-top-picks/"><u>Best Free Mac Video Compression Software in 2#! - Top Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-hacking-limits-exploring-7-key-factors-that-render-chatgpt-jailbreaks-obsolete/"><u>Beyond Hacking Limits: Exploring 7 Key Factors That Render ChatGPT Jailbreaks Obsolete</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-directive-perfection-using-these-innovative-online-helpers/"><u>Boost Directive Perfection Using These Innovative Online Helpers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-instruction-crafting-skills-using-these-innovative-aids/"><u>Boost Your Instruction Crafting Skills Using These Innovative Aids</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/claude-2-decoded-how-does-it-work-and-why-use-it-for-your-projects/"><u>Claude 2 Decoded – How Does It Work and Why Use It for Your Projects?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/constructing-fitness-goals-leveraging-ai-insight/"><u>Constructing Fitness Goals: Leveraging AI Insight</u></a></li>
+<li><a href="https://win-blog.techidaily.com/correct-approaches-to-handle-helldivers-2s-msvcr110dll-disappearance/"><u>Correct Approaches to Handle Helldivers 2'S MSVCR110.dll Disappearance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-responsive-bots-the-job-of-todays-engineers/"><u>Crafting Responsive Bots: The Job of Today's Engineers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-budget-friendly-vlogging-cameras-unveiled-our-picks/"><u>In 2024, Budget-Friendly Vlogging Cameras Unveiled Our Picks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-art-of-color-correction-a-final-cut-pro-guide-for-2024/"><u>New The Art of Color Correction A Final Cut Pro Guide for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/al-lens-selection-for-smooth-vlogging-experience-for-2024/"><u>Optimal Lens Selection for Smooth Vlogging Experience for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/wachten-op-de-gelegenheid-te-scannen-van-een-hartseksus-voor-bijwonende-interventies/"><u>Wachten Op De Gelegenheid Te Scannen Van Een Hartseksus Voor Bijwonende Interventies!</u></a></li>
 </ul></div>
 

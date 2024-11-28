@@ -1,7 +1,7 @@
 ---
 title: "Independence Day Deal Alert: Score Apple's Top-Rated AirPods at a Steal with $40 Off | Insights"
-date: 2024-11-18T01:25:56.954Z
-updated: 2024-11-18T20:47:20.813Z
+date: 2024-11-26T16:11:47.524Z
+updated: 2024-11-28T16:15:59.298Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Lucky for us, that already-affordable price dropped once more, and the deal is s
 The second-generation AirPods come with a Lightning charger case. They offer solid sound, five hours of battery of life (and a fully-charged case can recharge them five times, giving you up to 24 hours), and voice-activated Siri access. They're also super easy to set up and to switch between your Apple devices. 
 
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1f6d5217-9e48-4dc5-983a-0c6b42c3fbdb%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -58,33 +62,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/xplore-elite-gaming-opening-tutorials-free-and-premium-alternatives-for-2024/"><u>[New] Explore Elite Gaming Opening Tutorials Free & Premium Alternatives for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-full-screen-mastery-for-premier-pro-users-for-2024/"><u>[New] Full Screen Mastery for Premier Pro Users for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-efficient-techniques-sharing-video-content-from-youtube-fb/"><u>[Updated] 2024 Approved Efficient Techniques Sharing Video Content From YouTube FB</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-beyond-single-pictures-creating-a-story-with-montages-for-2024/"><u>[Updated] Beyond Single Pictures Creating a Story with Montages for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-15-pro-max-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 15 Pro Max iCloud Lock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/book-your-apple-vision-pro-demo-discover-improved-experience-and-get-insider-tips-techguide/"><u>Book Your Apple Vision Pro Demo: Discover Improved Experience & Get Insider Tips | TechGuide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/broadcasting-higher-integrating-dji-drones-for-facebook-live/"><u>Broadcasting Higher - Integrating DJI Drones for Facebook Live</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-face-unlock-issues-on-ios-devices-a-guide-to-overcoming-face-id-malfunctions/"><u>Fixing Face Unlock Issues on iOS Devices: A Guide to Overcoming Face ID Malfunctions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-to-using-imessage-on-pc-compatibility-with-windows-operating-systems/"><u>Guide to Using iMessage on PC: Compatibility with Windows Operating Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-decide-on-your-next-ipad-pro-upgrade-m1-vs-m2-insights-from-zdnet/"><u>How to Decide on Your Next iPad Pro Upgrade: M1 Vs. M2, Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-skyrocketing-earnings-through-video-affiliates/"><u>In 2024, Skyrocketing Earnings Through Video Affiliates</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimal-home-theater-choosing-the-right-3d-blu-ray-devices/"><u>Optimal Home Theater Choosing the Right 3D Blu-Ray Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tech-face-off-google-pixel/"><u>Tech Face-Off: Google Pixel</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-reason-to-use-a-vpn-for-enhanced-security-on-vision-pro-and-other-mixed-reality-headsets-expert-tips-by-zdnet/"><u>The Ultimate Reason to Use a VPN for Enhanced Security on Vision Pro & Other Mixed Reality Headsets | Expert Tips by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-2022-leading-gamer-cellphones-cnet-choice-awards/"><u>Ultimate Guide to the 2022 Leading Gamer Cellphones | CNET Choice Awards</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-the-quintessential-thumbnails-for-live-video-success/"><u>[New] Crafting the Quintessential Thumbnails for Live Video Success</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-efficiently-delete-unwanted-video-feedback/"><u>[New] How to Efficiently Delete Unwanted Video Feedback</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimized-titling-techniques-for-youtube-success/"><u>[New] Optimized Titling Techniques for YouTube Success</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-xcover-7-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Samsung Galaxy XCover 7 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/compose-your-story-best-mobile-annotation-tools/"><u>Compose Your Story Best Mobile Annotation Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic5-ultimate-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic5 Ultimate Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-effectively-interact-with-the-nvidia-rtx-ai-chat-service-on-windows-or-mac-pcs/"><u>How to Effectively Interact with the NVIDIA RTX AI Chat Service on Windows or Mac PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/investigating-the-realm-of-virtual-sticker-decoration-for-2024/"><u>Investigating the Realm of Virtual Sticker Decoration for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-your-chatbots-confidentiality-compromised-an-insight-into-neural-network-inversion-exploits/"><u>Is Your Chatbot's Confidentiality Compromised? An Insight Into Neural Network Inversion Exploits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-productivity-leveraging-chatgpt-as-a-professional-aide/"><u>Mastering Productivity: Leveraging ChatGPT as a Professional Aide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-imaginary-interpretations-in-artificial-intelligence/"><u>Navigating Through Imaginary Interpretations in Artificial Intelligence</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/podcasts-vs-youtube-which-one-is-the-right-choice-for-2024/"><u>Podcasts Vs. YouTube Which One Is the Right Choice for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-productivity-at-home-discover-6-creative-ways-to-utilize-chatgpt/"><u>Revolutionize Productivity at Home: Discover 6 Creative Ways to Utilize ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secrets-unveiled-deleting-every-bit-of-your-history-with-chatgpt/"><u>Secrets Unveiled: Deleting Every Bit of Your History with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplify-document-drafting-with-chatgpt-integration-into-ms-word-top-tips-and-tricks/"><u>Simplify Document Drafting with ChatGPT Integration Into MS Word - Top Tips & Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ai-illusion-unveiled-nine-major-issues-with-gpt/"><u>The AI Illusion Unveiled: Nine Major Issues with GPT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-implementing-podcast-seo/"><u>The Ultimate Guide to Implementing Podcast SEO</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

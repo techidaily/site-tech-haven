@@ -1,7 +1,7 @@
 ---
 title: Why the iPhone 16 Pro Isn't Worth It When You Have a Trusty iPhone 14 - Insights
-date: 2024-11-13T20:20:52.021Z
-updated: 2024-11-18T16:14:34.829Z
+date: 2024-11-21T16:05:21.804Z
+updated: 2024-11-28T16:04:44.119Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. We need a clearer Apple Intelligence timeline
 
 Jason Hiner/ZDNET
@@ -39,10 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,21 +124,20 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-advanced-tips-excelling-at-slide-show-recordings/"><u>[Updated] Advanced Tips Excelling at Slide Show Recordings</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-top-5-low-cost-pinterest-video-download-software-for-2024/"><u>[Updated] Top 5 Low-Cost Pinterest Video Download Software for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/audio-gear-reviews-and-ratings/"><u>Audio Gear Reviews & Ratings</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-narzo-60x-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme Narzo 60x 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/building-a-robust-brand-partnership-portfolio-on-youtube/"><u>Building a Robust Brand Partnership Portfolio on YouTube</u></a></li>
-<li><a href="https://blog-min.techidaily.com/descargar-y-convertir-archivo-tga-a-imagen-de-formato-jpg-sin-coste-soluciones-en-linea-con-movavi/"><u>Descargar Y Convertir Archivo TGA a Imagen De Formato JPG Sin Coste: Soluciones en Línea Con Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/distinguishing-features-of-an-ipad-vs-general-tablets/"><u>Distinguishing Features of an iPad Vs. General Tablets</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experts-choice-of-ultimate-small-tablets-in-2-2024-in-depth-analysis-and-ratings-zdnet/"><u>Experts' Choice of Ultimate Small Tablets in 2# # 2024: In-Depth Analysis and Ratings | ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/global-sales-rankings-reveal-iphones-unprecedented-sweep-of-top-7-slots-analyzed-by-zdnet/"><u>Global Sales Rankings Reveal iPhone's Unprecedented Sweep of Top 7 Slots, Analyzed by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-time-to-consider-upgrading-a-critical-review-of-ipad-air-that-may-challenge-your-loyalty-to-ipad-pro/"><u>Is It Time to Consider Upgrading? A Critical Review of iPad Air That May Challenge Your Loyalty to iPad Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secure-your-digital-footprint-how-a-vpn-is-crucial-for-safeguarding-on-vision-pro-and-other-xr-headsets/"><u>Secure Your Digital Footprint: How a VPN Is Crucial for Safeguarding on Vision Pro and Other XR Headsets</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-10-must-watch-christmas-films-for-a-festive-holiday-night-in-2019/"><u>Top 10 Must-Watch Christmas Films for a Festive Holiday Night in 2019</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-iphone-12-and-12-pro-protectors-2023s-ultimate-guide-by-zdnet/"><u>Top-Rated iPhone 12 & 12 Pro Protectors: 2023'S Ultimate Guide by ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-of-new-airpower-video-sparks-questions-about-revival-of-apples-discontinued-wireless-charging-pad-with-qi-technology-zdnet/"><u>Unveiling of New AirPower Video Sparks Questions About Revival of Apple's Discontinued Wireless Charging Pad with Qi Technology | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-ultimate-protection-testing-apples-strongest-iphone-case-with-an-innovative-safety-mechanism-a-deep-dive-by-zdnet/"><u>Unveiling the Ultimate Protection: Testing Apple's Strongest iPhone Case with an Innovative Safety Mechanism - A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/why-my-affection-for-the-huawei-p30-pro-persists-an-in-depth-review/"><u>Why My Affection for the Huawei P30 Pro Persists: An In-Depth Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-hands-free-tips-saving-instagram-stories-as-videos/"><u>[New] Hands-Free Tips Saving Instagram Stories as Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-ultimate-hdr-experience-with-asuss-4k-monitor/"><u>[Updated] 2024 Approved The Ultimate HDR Experience with Asus's 4K Monitor</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-cultivating-companions-best-farm-games-to-share-with-pals/"><u>2024 Approved Cultivating Companions Best Farm Games to Share with Pals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/complete-guide-to-screen-capturing-in-minecraft-for-2024/"><u>Complete Guide to Screen Capturing in Minecraft for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-agni-2-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Agni 2 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-huawei-nova-y71-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Huawei Nova Y71 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-xiaomi-redmi-note-12-pro-4g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Xiaomi Redmi Note 12 Pro 4G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pioneering-advanced-fabrication-with-ai-powered-chatgpt/"><u>Pioneering Advanced Fabrication with AI-Powered ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prepare-like-a-pro-how-chatgpt-can-enhance-your-job-interview-readiness/"><u>Prepare Like a Pro: How ChatGPT Can Enhance Your Job Interview Readiness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-personal-information-critical-analysis-of-potential-chatbot-privacy-concerns/"><u>Protect Personal Information: Critical Analysis of Potential Chatbot Privacy Concerns</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/revisiting-gamings-golden-age-the-ultimate-guide-to-super-mario-bros-on-the-vintage-handheld-gem/"><u>Revisiting Gaming's Golden Age: The Ultimate Guide to Super Mario Bros. On the Vintage Handheld Gem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-setup-process-integrating-auto-gpt-with-ubuntu-operating-system/"><u>Seamless Setup Process: Integrating Auto-GPT with Ubuntu Operating System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-writing-with-hix-ai-and-gpt-4-the-ultimate-automation-solution/"><u>Streamline Your Writing with HIX AI & GPT-4: The Ultimate Automation Solution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ai-rivalry-heats-up-as-google-enters-the-fray-with-bard-to-challenge-chatgpt/"><u>The AI Rivalry Heats Up as Google Enters the Fray with Bard to Challenge ChatGPT</u></a></li>
 </ul></div>
 

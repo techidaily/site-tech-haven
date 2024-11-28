@@ -1,7 +1,7 @@
 ---
 title: Just Scored the Latest iPad (9Th Gen) for an Unbeatable Price of $250 After Apple's New Release | Shop Today at ZDNet
-date: 2024-11-13T01:38:16.425Z
-updated: 2024-11-18T21:56:56.491Z
+date: 2024-11-25T16:02:53.509Z
+updated: 2024-11-28T16:06:29.400Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Lucky for us, that already-affordable price dropped once more, and the deal is s
 The second-generation AirPods come with a Lightning charger case. They offer solid sound, five hours of battery of life (and a fully-charged case can recharge them five times, giving you up to 24 hours), and voice-activated Siri access. They're also super easy to set up and to switch between your Apple devices. 
 
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc897cc8f-f17e-41e6-8410-d72f180f8ed4%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -58,25 +62,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-intersecting-realities-metaverse-and-multiverse-differences/"><u>[New] Intersecting Realities Metaverse and Multiverse Differences</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pro-level-clarity-top-8k-cameras-for-the-ultimate-picture/"><u>[New] Pro-Level Clarity Top 8K Cameras for the Ultimate Picture</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-social-media-potential-stream-to-fb-via-obs-for-2024/"><u>[Updated] Unlocking Social Media Potential Stream to FB via OBS for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-infinix-hot-40i-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Infinix Hot 40i</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722897500223-exploring-whether-the-papacy-has-adapted-to-modern-communication-with-email-usage/"><u>Exploring Whether the Papacy Has Adapted to Modern Communication with Email Usage</u></a></li>
-<li><a href="https://video-capture.techidaily.com/how-to-insert-custom-srt-captions-into-an-mp4-video-file-a-step-by-step-guide/"><u>How to Insert Custom SRT Captions Into an MP4 Video File: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-kid-friendly-ipad-models-expert-review-by-zdnet/"><u>Top 4 Kid-Friendly iPad Models : Expert Review by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-budget-laptops-for-july-2024-exclusive-offers-on-zdnet/"><u>Top-Rated Budget Laptops for July 2024 - Exclusive Offers on ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-magsafe-wallets-professional-ratings-and-in-depth-analysis-techreview/"><u>Top-Rated Magsafe Wallets : Professional Ratings & In-Depth Analysis | TechReview</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-y27-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo Y27 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-choosing-the-best-apple-watch-straps-for-2eplusty-featuring-professional-tests-and-ratings/"><u>Ultimate Guide to Choosing the Best Apple Watch Straps for 2E+tY, Featuring Professional Tests and Ratings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-premium-compact-tablets-of-2024-comprehensive-tests-and-expert-insights/"><u>Ultimate Guide to Premium Compact Tablets of 2024: Comprehensive Tests and Expert Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-im-choosing-apples-new-mini-iphone-16-pro-over-the-max-model-exclusive-insights-and-reasons/"><u>Why I'm Choosing Apple's New Mini-iPhone 16 Pro Over the Max Model : Exclusive Insights and Reasons</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-explore-the-latest-trends-with-these-snapchat-ideas/"><u>[Updated] In 2024, Explore the Latest Trends with These Snapchat Ideas</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-integral-rulebook-ensuring-harmonious-video-sharing/"><u>[Updated] Integral Rulebook Ensuring Harmonious Video Sharing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-client-trust-in-financial-institutions-with-abbyy-id-proofing-and-confirmation-services/"><u>Enhancing Client Trust in Financial Institutions with ABBYY ID Proofing and Confirmation Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-trustworthiness-of-ai-assistants-such-as-chatgpt-and-bard-in-managing-wealth/"><u>Exploring the Trustworthiness of AI Assistants Such as ChatGPT & Bard in Managing Wealth</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gemini-15-changing-the-game-in-cryptocurrency-through-its-unprecedented-use-of-tokens/"><u>Gemini 1.5: Changing the Game in Cryptocurrency Through Its Unprecedented Use of Tokens</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-io-2023-unveiling-bards-latest-groundbreaking-ai-traits/"><u>Google I/O 2023: Unveiling Bard's Latest, Groundbreaking AI Traits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-detect-and-respond-to-a-chatgpt-based-cyber-fraud-attempt/"><u>How to Detect and Respond to a ChatGPT-Based Cyber Fraud Attempt</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-motorola-moto-g13-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Motorola Moto G13 FRP</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-a1x-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo A1x 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-ai-assistance-how-to-link-chatgpt-and-whatsapp-for-superior-client-support/"><u>Integrating AI Assistance: How to Link ChatGPT and WhatsApp for Superior Client Support</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-6-heavyweights-big-language-frameworks/"><u>Leading 6 Heavyweights: BIG Language Frameworks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-storytelling-with-these-11-powerful-chatgpt-prompts-for-character-building/"><u>Master Storytelling with These 11 Powerful ChatGPT Prompts for Character Building</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-addition-of-chatgpt-features-with-user-friendly-steps/"><u>Mastering the Addition of ChatGPT Features with User-Friendly Steps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pros-cons-and-guide-to-utilizing-samsung-photo-editor-for-2024/"><u>Pros, Con's, and Guide to Utilizing Samsung PHOTO EDITOR for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-tecno-spark-20c-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Tecno Spark 20C Location | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

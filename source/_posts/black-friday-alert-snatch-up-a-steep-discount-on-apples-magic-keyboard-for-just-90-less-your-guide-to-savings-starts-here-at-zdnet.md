@@ -1,7 +1,7 @@
 ---
 title: Black Friday Alert! Snatch Up a Steep Discount on Apple's Magic Keyboard for Just $90 Less – Your Guide to Savings Starts Here at ZDNet.
-date: 2024-11-15T21:09:27.145Z
-updated: 2024-11-18T21:46:38.239Z
+date: 2024-11-23T16:04:37.238Z
+updated: 2024-11-28T16:14:28.877Z
 tags:
   - apple
 categories:
@@ -39,6 +39,10 @@ And while spending $100 on a four-pack doesn't seem that bad after living throug
 
 Since AirTags are powered by a CR2032 coin cell battery, you can [replace the battery](https://www.zdnet.com/article/how-to-change-the-battery-in-your-apple-airtag/) whenever it dies, preventing you from buying a new one each time. Remember, since AirTags are thin pocket-sized devices, you can use them for just about anything and repurpose them as often as you'd like. From helping you find a parking spot to tracking your child's favorite toy, there are endless possibilities with your AirTags -- you just have to get [creative](https://www.zdnet.com/article/seven-ways-apple-airtags-can-help-you-beyond-tracking-keys/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -73,23 +77,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-10-must-have-drone-accessories-and-parts/"><u>[Updated] In 2024, 10 Must Have Drone Accessories and Parts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-iphone-night-photography-step-by-step/"><u>[Updated] In 2024, IPhone Night Photography Step by Step</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-next-decades-digital-marketing-shifts-in-facebook-advertising-for-2024/"><u>[Updated] Next Decade's Digital Marketing Shifts in Facebook Advertising for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cutting-edge-creativity-unleashed-discover-the-transformative-features-of-final-cut-pro-for-ipad-macworld-expo-blog/"><u>Cutting Edge Creativity Unleashed: Discover the Transformative Features of Final Cut Pro for iPad | Macworld Expo Blog</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-enhanced-privacy-in-ai-conversations-try-duckduckgo-for-more-than-just-chatgpt/"><u>Explore Enhanced Privacy in AI Conversations: Try DuckDuckGo for More Than Just ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximizing-college-budgets-with-microsoft-how-to-access-exclusive-discounts-for-students/"><u>Maximizing College Budgets with Microsoft: How to Access Exclusive Discounts for Students</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revamped-sound-experience-lgs-complimentary-audio-enhancement-tailored-for-apple-fans-unveiled/"><u>Revamped Sound Experience: LG's Complimentary Audio Enhancement Tailored for Apple Fans Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-rise-of-siri-apples-strategic-move-beyond-bing-towards-an-intelligent-ai-future-insights-on-tech-with-zdnet/"><u>The Rise of Siri: Apple's Strategic Move Beyond Bing Towards an Intelligent, AI Future | Insights on Tech with ZDNET</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-facebooks-whitelist-system/"><u>Understanding Facebook's Whitelist System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-im-choosing-apples-slimmer-iphone-16-pro-over-the-max-insights/"><u>Why I'm Choosing Apple's Slimmer iPhone 16 Pro Over the Max : Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zdnets-comprehensive-evaluation-of-apples-third-generation-airpods-notable-enhancements-highlighted/"><u>ZDNet's Comprehensive Evaluation of Apple's Third-Generation AirPods: Notable Enhancements Highlighted</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-in-depth-evaluation-of-clipcreator-editor-updated/"><u>[New] 2024 Approved In-Depth Evaluation of ClipCreator Editor - Updated</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-real-time-engagement-strategies-for-online-streamers/"><u>[New] Real-Time Engagement Strategies for Online Streamers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-popular-websites-to-download-aesthetic-wallpapers-for-laptop-for-2024/"><u>10 Popular Websites to Download Aesthetic Wallpapers for Laptop for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-strategies-enhancing-googles-bard-with-advanced-palm-2-capabilities/"><u>6 Strategies Enhancing Google's Bard with Advanced PaLM 2 Capabilities</u></a></li>
+<li><a href="https://discover-great.techidaily.com/free-online-solution-for-transforming-mp4-videos-into-mp3-audio-step-by-step-tutorial/"><u>Free Online Solution for Transforming MP4 Videos Into MP3 Audio : Step-by-Step Tutorial</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-charting-your-course-through-youtube-compliance/"><u>In 2024, Charting Your Course Through YouTube Compliance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-film-makers-guide-to-selecting-between-hero-and-cube-videos/"><u>In 2024, Film Maker's Guide to Selecting Between Hero and Cube Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photo-realism-in-artwork-illustrator-motion-magic/"><u>In 2024, Photo Realism in Artwork Illustrator Motion Magic</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-zlibdll-absence-issues-a-step-by-step-guide/"><u>Resolving zlib.dll Absence Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-unveiled-exploring-facebook-twitter-instagram-and-youtubes-influence/"><u>Social Media Giants Unveiled: Exploring Facebook, Twitter, Instagram, and YouTube's Influence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-ai-potential-step-by-step-access-to-microsofts-newly-released-gpt-4/"><u>Unlocking AI Potential: Step-by-Step Access to Microsoft's Newly Released GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-new-linguistic-skills-through-gpt-plus/"><u>Unlocking New Linguistic Skills Through GPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-how-generative-ai-powers-up-search-capabilities-for-top-tech-giants/"><u>Unveiling How Generative AI Powers Up Search Capabilities for Top Tech Giants</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-grok-ai-by-elon-musk-and-why-you-should-pay-attention-to-its-price/"><u>What Is Grok AI by Elon Musk and Why You Should Pay Attention to Its Price</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-leaving-confidentials-to-chatgpt-is-a-no-no/"><u>Why Leaving Confidentials to ChatGPT Is a No-No</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/zero-dollars-down-discover-the-five-secrets-to-free-gpt-assistance/"><u>Zero Dollars Down - Discover The Five Secrets to FREE GPT Assistance</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

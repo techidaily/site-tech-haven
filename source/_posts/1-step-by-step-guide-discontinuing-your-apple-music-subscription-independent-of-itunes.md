@@ -1,7 +1,7 @@
 ---
 title: "1. Step-by-Step Guide: Discontinuing Your Apple Music Subscription Independent of iTunes"
-date: 2024-11-13T02:31:16.903Z
-updated: 2024-11-19T00:13:18.818Z
+date: 2024-11-22T16:02:07.378Z
+updated: 2024-11-28T16:12:23.387Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ iTunes is dead. iTunes has been dead since 2019\. Alas, poor iTunes, we knew you
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [How to customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-customize-your-iphones-new-control-center-with-ios-18/)
@@ -36,10 +40,7 @@ But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Ap
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
@@ -59,10 +60,7 @@ David Gewirtz/Screenshot
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
@@ -123,22 +121,22 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-step-by-step-tutorial-to-monetize-product-videography/"><u>[New] 2024 Approved A Step-by-Step Tutorial to Monetize Product Videography</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-best-asmr-apps-for-android-and-ios-you-should-know/"><u>[New] In 2024, Best ASMR Apps for Android and iOS You Should Know</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-a-compre-written-by-daniel-kelley-for-2024/"><u>[Updated] A Compre Written by Daniel Kelley for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-professionals-handbook-to-blending-natural-and-artificial-backgrounds/"><u>[Updated] A Professional's Handbook to Blending Natural and Artificial Backgrounds</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-pro-tips-record-your-macs-display/"><u>[Updated] Pro Tips Record Your Mac's Display</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-unleashing-iphones-potential-for-dynamic-shots/"><u>2024 Approved Unleashing iPhone’s Potential for Dynamic Shots</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/celebrating-the-10-best-moba-games-on-android-for-2024/"><u>Celebrating the #10 Best MOBA Games on Android for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-your-ultimate-smartphone-google-pixel/"><u>Choosing Your Ultimate Smartphone: Google Pixel</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-the-latest-exploring-the-distinctions-of-apple-airpods-pro-and-airpods-max-a-comparison-guide/"><u>Discovering the Latest: Exploring the Distinctions of Apple AirPods Pro and AirPods Max - A Comparison Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-the-apple-studio-display-stunning-yet-pricey-27-5k-screen-tailored-for-creative-professionals-on-mac-a-review/"><u>Experience the Apple Studio Display: Stunning Yet Pricey 27 5K Screen Tailored for Creative Professionals on Mac - A Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-apples-latest-innovations-in-ai-will-amplify-the-power-of-the-new-m4-chip-within-the-ipad-pro-showcased-at-wwdc-digital-trends/"><u>How Apple's Latest Innovations in AI Will Amplify the Power of the New M4 Chip Within the iPad Pro Showcased at WWDC | Digital Trends</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/independence-day-sweetest-mobile-promotions-find-the-top-2023-celebration-specials-androidauthority/"><u>Independence Day Sweetest Mobile Promotions: Find the Top 2023 Celebration Specials - AndroidAuthority</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone-15-insights-and-expert-analysis-top-picks-for-power-users-a-closer-look/"><u>IPhone 15 Insights & Expert Analysis: Top Picks for Power Users - A Closer Look</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/syncing-your-beats-effortless-apple-music-playlist-transfers-to-youtube-music/"><u>Syncing Your Beats: Effortless Apple Music Playlist Transfers to YouTube Music</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-the-power-of-the-new-m4-ipad-pro-how-ai-innovations-set-to-shine-at-apples-worldwide-developers-conference/"><u>Unleashing the Power of the New M4 iPad Pro: How AI Innovations Set to Shine at Apple’s Worldwide Developers Conference</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-a1-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo A1 5G Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-isnt-my-mic-capturing-sound-expert-tips-and-solutions/"><u>Why Isn't My Mic Capturing Sound? Expert Tips & Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ontent-strategy-boost-top-8-youtube-rank-watcher-revealed/"><u>[New] Content Strategy Boost Top 8 YouTube Rank Watcher Revealed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-winning-the-subscriber-race-on-youtube/"><u>[New] In 2024, Winning the Subscriber Race on YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparative-edge-how-the-chatgpt-desktop-app-outperforms-the-website-experience/"><u>Comparative Edge: How the ChatGPT Desktop App Outperforms the Website Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conversational-ai-redefining-smartwatch-functionality-with-gpts-6-tactics/"><u>Conversational AI Redefining Smartwatch Functionality with GPT's 6 Tactics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-emotive-poetry-with-chatgpt-a-step-by-step-tutorial/"><u>Creating Emotive Poetry with ChatGPT - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-leaders-which-large-language-model-reigns-supreme-bard-chatgpt-or-offline-alpaca/"><u>Decoding the Leaders: Which Large Language Model Reigns Supreme - Bard, ChatGPT or Offline Alpaca?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-purpose-and-application-of-hugging-face-in-ai/"><u>Decoding the Purpose and Application of Hugging Face in AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/do-luxury-ai-services-offer-value-for-your-money/"><u>Do Luxury AI Services Offer Value for Your Money?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/does-ai-limit-response-length-characterswords/"><u>Does AI Limit Response Length: Characters/Words?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-distributing-your-conversations-with-chatgpt-online/"><u>Effective Strategies for Distributing Your Conversations with ChatGPT Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-premium-audio-at-unbeatable-deals-save-40-on-select-airpods-before-independence-day-exclusive-insight/"><u>Get Premium Audio at Unbeatable Deals! Save $40 on Select AirPods Before Independence Day - Exclusive Insight</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-analysis-mastering-video-production-with-xmedia-suite/"><u>In 2024, Comprehensive Analysis Mastering Video Production with XMedia Suite</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-a79-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo A79 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-of-the-line-messaging-app/"><u>In-Depth Analysis of the Line Messaging App</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/screens-on-record-unveiling-the-leading-screencap-software/"><u>Screens on Record Unveiling The Leading Screencap Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-nxt-headset-profile/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest Nxt Headset Profile</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-honor-90-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Honor 90 Pro.</u></a></li>
 </ul></div>
 

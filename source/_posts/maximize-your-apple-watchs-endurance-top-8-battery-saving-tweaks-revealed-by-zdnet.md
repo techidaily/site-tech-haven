@@ -1,7 +1,7 @@
 ---
 title: Maximize Your Apple Watch's Endurance - Top 8 Battery-Saving Tweaks Revealed by ZDNet
-date: 2024-11-11T16:00:07.283Z
-updated: 2024-11-18T23:55:43.399Z
+date: 2024-11-24T16:07:30.736Z
+updated: 2024-11-28T16:07:08.277Z
 tags:
   - apple
 categories:
@@ -50,13 +50,6 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -66,10 +59,7 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -90,24 +80,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -118,10 +99,7 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
@@ -132,11 +110,19 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -179,22 +165,14 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-masterclass-guide-screen-recording-hulu-videos-effortlessly/"><u>[New] 2024 Approved Masterclass Guide Screen Recording Hulu Videos Effortlessly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-screenflow-simplified-streamlining-your-video-projects-on-a-mac/"><u>[New] ScreenFlow Simplified Streamlining Your Video Projects on a Mac</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-live-stream-heroes-face-off-xsplit-vs-obs-showcase/"><u>[Updated] Live Stream Heroes Face Off – XSplit Vs. OBS Showcase</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-best-tales-spun-8-divisions-of-cinematic-genres/"><u>2024 Approved Best Tales Spun 8 Divisions of Cinematic Genres</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-shutter-showdown-best-for-slow-motion-videos/"><u>2024 Approved The Ultimate Shutter Showdown Best for Slow Motion Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-still-utilize-chatgpt-services-when-connected-via-vpn/"><u>Can You Still Utilize ChatGPT Services When Connected Via VPN?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/data-security-with-chatgpt-features/"><u>Data Security with ChatGPT Features</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/futuristic-enlightenment-the-best-30-virtual-musings/"><u>Futuristic Enlightenment The Best 30 Virtual Musings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-excellent-mac-bandicam-substitutes-5/"><u>In 2024, Excellent Mac Bandicam Substitutes [#5]</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-phantom-v-flip-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Phantom V Flip to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-navigating-modern-and-future-terrain-with-drones/"><u>In 2024, Navigating Modern and Future Terrain with Drones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/penning-poetic-wonders-how-to-harness-chatgpt-for-crafting-your-dream-book-of-poems/"><u>Penning Poetic Wonders: How to Harness ChatGPT for Crafting Your Dream Book of Poems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-tips-editing-dall-e-3-generated-images-from-webp-to-classic-jpg-and-png/"><u>Quick Tips: Editing DALL-E 3 Generated Images From WebP to Classic JPG and PNG</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/starcraft-2-no-more-crashes-ultimate-solutions-for-a-smooth-gaming-experience-on-desktops/"><u>StarCraft 2 No More Crashes: Ultimate Solutions for a Smooth Gaming Experience on Desktops</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tailoring-twitter-threads-for-maximum-impact-chatgpt/"><u>Tailoring Twitter Threads for Maximum Impact (ChatGPT)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-artificeal-intelligence-will-machines-triumph-in-the-turing-challenge/"><u>The Future of Artificeal Intelligence: Will Machines Triumph in the Turing Challenge?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-ai-advancements-for-enterprise-leaders/"><u>The Ultimate List of AI Advancements for Enterprise Leaders</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instamixer-uniting-android-and-ios-photo-sessions/"><u>[New] InstaMixer Uniting Android & iOS Photo Sessions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-step-by-step-guide-ps4-gaming-streams-using-obs/"><u>[Updated] In 2024, Step-by-Step Guide PS4 Gaming Streams Using OBS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-ultimate-list-of-world-explorers-on-youtube/"><u>2024 Approved The Ultimate List of World Explorers on Youtube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/balancing-ais-drive-the-control-conundrum/"><u>Balancing AI's Drive: The Control Conundrum</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-personal-care-discover-the-top-9-uses-of-chatgpt-in-health-management/"><u>Boosting Personal Care: Discover the Top 9 Uses of ChatGPT in Health Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vision-unveiled-8-revolutionary-applications-for-professionals-and-enthusiasts-alike/"><u>ChatGPT Vision Unveiled: 8 Revolutionary Applications for Professionals and Enthusiasts Alike</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-4-explored-the-pinnacle-of-social-verification/"><u>ChatGPT-4 Explored: The Pinnacle of Social Verification</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategies-for-downloading-twitter-video-content-to-mp3/"><u>Strategies for Downloading Twitter Video Content to MP3</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/vdy-pro-recorder-summary-detailed-analysis/"><u>VDY Pro Recorder Summary Detailed Analysis</u></a></li>
 </ul></div>
 

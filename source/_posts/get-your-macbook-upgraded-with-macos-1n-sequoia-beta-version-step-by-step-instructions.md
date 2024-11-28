@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Upgraded with macOS 1N Sequoia Beta Version - Step-by-Step Instructions!
-date: 2024-11-11T23:40:31.961Z
-updated: 2024-11-18T23:54:18.233Z
+date: 2024-11-21T16:12:49.527Z
+updated: 2024-11-28T16:12:06.663Z
 tags:
   - apple
 categories:
@@ -26,13 +26,14 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -40,10 +41,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -54,13 +52,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -68,6 +59,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -85,6 +80,10 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -98,13 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,18 +140,15 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-seamless-integration-of-snap-camera-in-video-conferencing-tools/"><u>[New] 2024 Approved Seamless Integration of Snap Camera in Video Conferencing Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-youtube-channels-for-filmmakers-to-learn-filmmaking-tips/"><u>[New] In 2024, YouTube Channels for Filmmakers to Learn Filmmaking Tips</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-online-orbiters-youtube-personalities-at-the-zenith/"><u>[Updated] In 2024, Online Orbiters YouTube Personalities at the Zenith</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-develops-secure-operating-system-for-advanced-ai-data-center-management-insights-and-forecast/"><u>Apple Develops Secure Operating System for Advanced AI Data Center Management, Insights & Forecast</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/boost-your-gaming-experience-by-overcoming-fps-issues-in-outriders/"><u>Boost Your Gaming Experience by Overcoming FPS Issues in Outriders</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-elite-mac-lineup-highlighted-review/"><u>Discover the Elite Mac Lineup : Highlighted Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/hands-on-review-apples-new-27-inch-5k-retina-studio-display-a-stunning-choice-or-a-costly-investment-for-creative-professionals/"><u>Hands-On Review: Apple's New 27-Inch 5K Retina Studio Display - A Stunning Choice or a Costly Investment for Creative Professionals?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-huawei-nova-y91-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Huawei Nova Y91 Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ipad-air-powered-by-apples-new-m2-chip-is-it-your-ideal-purchase-expert-insights/"><u>IPad Air Powered by Apple's New M2 Chip: Is It Your Ideal Purchase? Expert Insights .</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/masterful-viewing-for-artists-best-monitor-guide/"><u>Masterful Viewing for Artists – Best Monitor Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-13-apps-de-videoconferencia-para-computadoras-su-guia-integral/"><u>Top 13 Apps De Videoconferencia Para Computadoras: Su Guía Integral</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/urgent-security-advisory-apple-warns-iphone-users-of-surge-in-mercenary-hacking-incidents-are-you-prepared/"><u>Urgent Security Advisory: Apple Warns iPhone Users of Surge in Mercenary Hacking Incidents. Are You Prepared?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-you-wont-find-the-latest-apple-ai-innovations-on-your-outdated-iphone-insights-from-zdnet/"><u>Why You Won't Find the Latest Apple AI Innovations on Your Outdated iPhone – Insights From ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-art-of-haul-videography-pre-and-post-editing-processes/"><u>[New] 2024 Approved The Art of Haul Videography Pre and Post Editing Processes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-seamless-sound-changes-with-premiere-pro/"><u>[Updated] Seamless Sound Changes with Premiere Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-look-at-openais-gpt-series-understanding-the-differences-between-models-gpt-1-gpt-2-gpt-3-and-gpt-4/"><u>A Comprehensive Look at OpenAI’s GPT Series: Understanding the Differences Between Models GPT-1, GPT-2, GPT-3 & GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722047277736-affordable-cybersecurity-insights-on-mobile-devices-understanding-decryption-for-just-50-listen-to-our-chatgpt-powered-podcast/"><u>Affordable Cybersecurity Insights on Mobile Devices - Understanding Decryption for Just $50! Listen to Our ChatGPT-Powered Podcast</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-driven-solutions-for-more-engaging-and-efficient-remote-team-gatherings/"><u>AI-Driven Solutions for More Engaging and Efficient Remote Team Gatherings</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-usb-prep-for-upgrading-to-windows-11-3-tried-and-true-methods/"><u>Effortless USB Prep for Upgrading to Windows 11: 3 Tried-and-True Methods</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-6s-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 6s</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-srt-a-complete-guide-overview-for-2024/"><u>Mastering SRT A Complete Guide Overview for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/your-screen-time-concurrent-youtube-content-consumption-for-2024/"><u>Sync Your Screen Time Concurrent YouTube Content Consumption for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voice-controlled-tips-mastering-chatgpt-using-speech-commands/"><u>Voice-Controlled Tips: Mastering ChatGPT Using Speech Commands</u></a></li>
 </ul></div>
 

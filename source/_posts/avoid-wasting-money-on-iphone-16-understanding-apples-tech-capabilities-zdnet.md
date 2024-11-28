@@ -1,7 +1,7 @@
 ---
 title: Avoid Wasting Money on iPhone 16 - Understanding Apple's Tech Capabilities | ZDNet
-date: 2024-11-15T17:11:24.116Z
-updated: 2024-11-18T20:50:39.792Z
+date: 2024-11-22T16:13:01.435Z
+updated: 2024-11-28T16:04:27.818Z
 tags:
   - apple
 categories:
@@ -46,15 +46,16 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -71,6 +72,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -91,10 +96,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
@@ -109,13 +111,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -125,10 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -165,20 +157,24 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-cloud-costs-2024s-top-storages-and-cheapest-options/"><u>[New] Cloud Costs 2024'S Top Storages & Cheapest Options</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-highlighted-best-free-efficient-3d-videos-player-software/"><u>[Updated] 2024 Approved Highlighted Best Free, Efficient 3D Videos Player Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guide-to-selecting-best-vhs-edits-via-computer/"><u>[Updated] Guide to Selecting Best VHS Edits via Computer</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-avoid-every-interruption-the-ultimate-guide-to-7-adblocking-tools/"><u>[Updated] In 2024, Avoid Every Interruption The Ultimate Guide to 7 AdBlocking Tools</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/building-confidence-against-youtube-critiques/"><u>Building Confidence Against YouTube Critiques</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-best-sound-quality-on-windows-fresh-microsoft-audio-driver-release-free-downloads-here/"><u>Get the Best Sound Quality on Windows: Fresh Microsoft Audio Driver Release – Free Downloads Here</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-realme-gt-5-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Realme GT 5 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-gen-ai-escalating-cybersecurity-concerns/"><u>Next-Gen AI: Escalating Cybersecurity Concerns</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-gen-tech-showcase-the-5-best-ai-hardware-developments-to-watch/"><u>Next-Gen Tech Showcase: The 5 Best AI Hardware Developments to Watch</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/novelists-toolbox-expanded-9-uses-of-chatgpt-for-crafting-stories/"><u>Novelists' Toolbox Expanded: 9 Uses of ChatGPT for Crafting Stories</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/palm-2-vs-gpt-4-showdown-unveiling-the-divergences-in-next-gen-language-models/"><u>PaLM 2 Vs. GPT-4 Showdown: Unveiling the Divergences in Next-Gen Language Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/probing-the-dependability-of-zerogpt-tools-including-others/"><u>Probing the Dependability of ZeroGPT Tools, Including Others</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/retrieve-whats-gone-expert-tips-on-reclaiming-deleted-chatgpt-exchange-records/"><u>Retrieve What's Gone: Expert Tips on Reclaiming Deleted ChatGPT Exchange Records</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-online-research-how-artificial-intelligence-is-reshaping-site-exploration/"><u>Revolutionizing Online Research: How Artificial Intelligence Is Reshaping Site Exploration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-real-and-unreal-top-8-ai-advances/"><u>Revolutionizing Real & Unreal: Top 8 AI Advances</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-windows-8-tips-record-your-screen/"><u>[New] In 2024, Essential Windows 8 Tips Record Your Screen</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-top-ranked-screen-recorder-for-seamless-youtubing/"><u>[Updated] 2024 Approved Top-Ranked Screen Recorder for Seamless YouTubing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-full-time-careers-meet-video-content-a-harmonious-mix/"><u>[Updated] In 2024, Full-Time Careers Meet Video Content A Harmonious Mix</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-beginners-tutorial-setting-up-your-youtube-presence/"><u>2024 Approved Beginner's Tutorial Setting Up Your YouTube Presence</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/9-command-center-of-live-gaming-streams-for-2024/"><u>9 Command Center of Live Gaming Streams for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/academic-integrity-beyond-auto-generated-texts/"><u>Academic Integrity Beyond Auto-Generated Texts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adapting-to-success-top-six-tactics-for-the-automation-era-jobscape/"><u>Adapting to Success: Top Six Tactics for the Automation Era Jobscape</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-next-phase-brings-heightened-security-threats/"><u>AI's Next Phase Brings Heightened Security Threats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-perfection-our-curated-list-of-best-tools-for-prompts/"><u>Artificial Intelligence Perfection: Our Curated List of Best Tools for Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beating-isolation-harnessing-chatgpts-power/"><u>Beating Isolation: Harnessing ChatGPT's Power</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-daily-output-top-7-methods-chatgpt-improves-job-efficiency/"><u>Boosting Daily Output: Top 7 Methods ChatGPT Improves Job Efficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-user-confidentiality-understanding-potential-risks/"><u>ChatGPT and User Confidentiality: Understanding Potential Risks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-tool-for-designing-high-performance-workflow-systems/"><u>ChatGPT as a Tool for Designing High-Performance Workflow Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-versatile-polyglot-companion-enhancing-language-accessibility-through-ai-translation-tools/"><u>ChatGPT as a Versatile Polyglot Companion: Enhancing Language Accessibility Through AI Translation Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/getting-unstuck-troubleshooting-absent-fb-vids-for-2024/"><u>Getting Unstuck Troubleshooting Absent FB Vids for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-charting-new-territories-innovations-in-office-spaces-for-enhanced-output/"><u>In 2024, Charting New Territories Innovations in Office Spaces for Enhanced Output</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-resources-for-text-style-adjustment-files-for-2024/"><u>Prime Resources for Text Style Adjustment Files for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/wie-man-kopierschutz-bei-dvds-fur-windowsmac-entfernt-losungen-von-winxdvd/"><u>Wie Man Kopierschutz Bei DVDs Für Windows/Mac Entfernt – Lösungen Von WinXDVD</u></a></li>
 </ul></div>
 

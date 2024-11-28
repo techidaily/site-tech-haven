@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Management System - A Comprehensive Guide"
-date: 2024-11-11T18:21:13.937Z
-updated: 2024-11-18T18:45:41.904Z
+date: 2024-11-24T16:08:02.786Z
+updated: 2024-11-28T16:00:51.989Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ But then something sort of magical happened -- I started using the app. Once I u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Craft?
 
 According to the official website, Craft is built for digital devices from the ground up and brings the joy back to writing.   
@@ -36,10 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,19 +129,24 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-why-are-videos-vanishing-from-a6400/"><u>[New] In 2024, Why Are Videos Vanishing From A6400?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-step-by-step-srt-mp4-enhancement/"><u>[Updated] Comprehensive Step-by-Step SRT MP4 Enhancement</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-power-of-preview-a-complete-user-guide-for-mac/"><u>[Updated] Unlocking the Power of Preview A Complete User Guide for Mac</u></a></li>
-<li><a href="https://os-tips.techidaily.com/14-proven-strategies-resolve-your-no-service-issue-on-an-iphone/"><u>14 Proven Strategies: Resolve Your 'No Service' Issue on an iPhone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creating-imaginary-realms-mastering-fiction-building-with-chatgpt/"><u>Creating Imaginary Realms: Mastering Fiction Building with ChatGPT</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-behind-the-scenes-the-genesis-of-a-mukbang-video/"><u>In 2024, Behind the Scenes The Genesis of a Mukbang Video</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-harmonious-integration-spotify-meets-discord/"><u>In 2024, Harmonious Integration Spotify Meets Discord</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-w7-wi-fi-extender-no-hassle/"><u>Install W7 Wi-Fi Extender, No Hassle</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-list-of-free-online-video-merger-tools-2023-edition/"><u>New 2024 Approved The Ultimate List of Free Online Video Merger Tools (2023 Edition)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-fast-track-guide-to-kodi-software-enhancement/"><u>The Fast Track Guide to Kodi Software Enhancement</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-ai-arrives-meet-openais-latest-innovation-gpt-cutting-edge/"><u>The Future of AI Arrives: Meet OpenAI's Latest Innovation, GPT-Cutting Edge</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/token-renaissance-with-gemini-15s-million-dollar-shift/"><u>Token Renaissance with Gemini 1.5'S Million-Dollar Shift</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-strategies-to-enhance-conversational-ai-boosting-chatgpt-outputs/"><u>Top 7 Strategies to Enhance Conversational AI: Boosting ChatGPT Outputs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-the-full-scope-of-apples-ai-announcement-at-wwdc-24/"><u>Unveiling the Secrets: The Full Scope of Apple's AI Announcement at WWDC '24</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-scale-up-influence-crafting-content-that-resonates/"><u>[Updated] In 2024, Scale Up Influence Crafting Content That Resonates</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-leading-edge-tech-for-high-quality-video-discs-via-macos-for-2024/"><u>[Updated] Leading Edge Tech for High-Quality Video Discs via MacOS for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-filmmakers-key-to-cohesion-mastering-kinemaster-edits/"><u>[Updated] The Filmmaker's Key to Cohesion Mastering Kinemaster Edits</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-is-nvidia-shield-tv-pro-the-perfect-streaming-console-for-hardcore-players/"><u>Review: Is Nvidia Shield TV Pro the Perfect Streaming Console for Hardcore Players?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-microphone-not-functioning-in-windows-11-a-guide/"><u>Solving 'Microphone Not Functioning' In Windows 11 – A Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-picks-hd-recording-with-nintendo-switch/"><u>Top Picks HD Recording with Nintendo Switch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-your-approach-persuasive-proposal-via-ai/"><u>Transforming Your Approach: Persuasive Proposal via AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/triple-pathways-to-augmenting-chatgpt-with-wolframalpha/"><u>Triple Pathways to Augmenting ChatGPT with WolframAlpha</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-audio-malfunctions-in-windows-11-fast-and-simple-steps/"><u>Troubleshoot Audio Malfunctions in Windows 11 - Fast and Simple Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/twitters-emoji-free-linuss-unmasking-insights-trojans-explored-and-chatgpt-flaws-highlighted/"><u>Twitters Emoji-Free, Linus's Unmasking Insights, Trojans Explored, & ChatGPT Flaws Highlighted</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-the-leading-rechargeable-battery-chargers/"><u>Ultimate Guide: The Leading Rechargeable Battery Chargers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-risks-7-reasons-to-think-twice-before-using-ai-for-messaging-applications/"><u>Understanding the Risks: 7 Reasons to Think Twice Before Using AI for Messaging Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-creativity-with-our-top-picks/"><u>Unleash Creativity with Our Top Picks:</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-new-potential-with-our-guide-to-using-chatgpts-vision-in-8-ways/"><u>Unlock New Potential with Our Guide to Using ChatGPT's Vision in 8 Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-creative-potential-crafting-stunning-images-using-chatgpts-ai-capabilities/"><u>Unlocking Creative Potential: Crafting Stunning Images Using ChatGPT's AI Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-importance-of-chatgpts-code-interpretation-capabilities/"><u>Unveiling the Importance of ChatGPT's Code Interpretation Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-can-shape-offer-from-openai/"><u>What Can ShapE Offer From OpenAI?</u></a></li>
 </ul></div>
 

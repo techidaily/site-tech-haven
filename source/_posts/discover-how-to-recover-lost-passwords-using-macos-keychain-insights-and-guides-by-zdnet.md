@@ -1,7 +1,7 @@
 ---
 title: Discover How to Recover Lost Passwords Using macOS Keychain | Insights & Guides by ZDNET
-date: 2024-11-16T02:03:15.874Z
-updated: 2024-11-19T01:06:36.573Z
+date: 2024-11-25T16:13:31.727Z
+updated: 2024-11-28T16:07:09.602Z
 tags:
   - apple
 categories:
@@ -18,9 +18,17 @@ I will start this out by reminding everyone that you should be using a password 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
 
@@ -31,16 +39,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -54,10 +53,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -75,16 +71,7 @@ As you can see, the password is hidden from sight. To view the password for the 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating a password entry
@@ -94,13 +81,6 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 **Figure 3**
 
 Creating a new password entry to be stored in the Keychain Access tool. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -133,19 +113,22 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-x-sound-engineer-edition-pc/"><u>[New] 2024 Approved X-Sound Engineer Edition - PC</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-close-encounters-experiencing-roblox-at-greater-detail/"><u>[New] Close Encounters Experiencing Roblox At Greater Detail</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-make-lip-sync-video-without-installing-any-app/"><u>2024 Approved How to Make Lip Sync Video Without Installing Any App</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/3-strategie-efficaci-per-migliorare-la-migrazione-di-ad-da-windows-server-2008-a-2amo/"><u>3 Strategie Efficaci per Migliorare La Migrazione Di AD Da Windows Server 2008 a 2Amo</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-glimpse-into-the-future-my-positive-encounter-with-apple-vision-pros-early-release-insights-for-tech-enthusiasts-zdnet/"><u>A Glimpse Into the Future: My Positive Encounter with Apple Vision Pro's Early Release - Insights for Tech Enthusiasts | ZDNet</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-timecode-conversion-tools-for-filmmaker/"><u>Best Timecode Conversion Tools for Filmmaker</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725290311628-dvd-dvd/"><u>DVD リプリケーションガイド | 著作権を侵害せずにDVDのコピーとバッキング</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/future-proofing-your-wrist-in-depth-comparison-between-the-apple-watch-ultra-and-series-8-to-find-your-ideal-match-zdnet/"><u>Future-Proofing Your Wrist: In-Depth Comparison Between The Apple Watch Ultra & Series 8 to Find Your Ideal Match | ZDNET</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-quickly-enhance-drivers-in-windows-guide-for-all-win-10817/"><u>How to Quickly Enhance Drivers in Windows: Guide for All (Win 10,8.17)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ipad-pro-comparison-navigating-features-of-latest-flagship-tablets-from-apple-a-buyers-decision-maker-guide-gadgetpundit/"><u>IPad Pro Comparison: Navigating Features of Latest Flagship Tablets From Apple - A Buyer's Decision-Maker Guide | GadgetPundit</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/macbook-showdown-in-depth-comparison-of-macbook-pro-vs-macbook-air-to-help-you-pick-your-ideal-laptop-cnet/"><u>MacBook Showdown: In-Depth Comparison of MacBook Pro Vs. MacBook Air to Help You Pick Your Ideal Laptop | CNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/meet-the-ultimate-workout-buddy-how-apples-airpods-pro-3-track-your-heart-rate-for-optimal-training-results/"><u>Meet the Ultimate Workout Buddy: How Apple's AirPods Pro 3 Track Your Heart Rate for Optimal Training Results</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-language-learning-with-chatgpts-premium-features/"><u>Optimize Your Language Learning with ChatGPT's Premium Features</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-13t-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi 13T Pro support - Forgotten screen lock.</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-pioneering-perspectives-on-first-moments-in-audio/"><u>[Updated] Pioneering Perspectives on First Moments in Audio</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-ensure-clarity-leading-downloader-software-for-youtubers/"><u>2024 Approved Ensure Clarity Leading Downloader Software for YouTubers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-investing-successfully-with-a-makeup-channel/"><u>2024 Approved Investing Successfully with a Makeup Channel</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-zoom-utilization-for-team-conferencing-on-msteams-for-2024/"><u>Advanced Zoom Utilization for Team Conferencing on MSTEAMS for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-the-thrill-of-competition-with-our-pick-of-top-rated-sports-movies-today/"><u>Experience the Thrill of Competition with Our Pick of Top-Rated Sports Movies Today</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-novice-to-pro-creating-snapchat-boomers/"><u>In 2024, From Novice to Pro Creating Snapchat Boomers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-guide-to-adding-dynamic-captions-to-instagram-media/"><u>In 2024, Guide to Adding Dynamic Captions to Instagram Media</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-bingchatgpt-scam-tokens-strategies-for-investor-protection/"><u>Navigating Through BingChatGPT Scam Tokens - Strategies for Investor Protection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/never-be-without-chatgpt-a-step-by-step-tutorial-for-using-chatgpt-everywhere/"><u>Never Be Without ChatGPT: A Step-by-Step Tutorial for Using ChatGPT Everywhere</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-leap-in-neural-networks-what-about-gpt-5/"><u>Next Leap in Neural Networks: What About GPT-5?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-unveils-groundbreaking-gpt-4-ai-revolutionizing-technology/"><u>OpenAI Unveils Groundbreaking GPT-4 AI Revolutionizing Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-daily-living-with-ai-the-chatgpt-guide/"><u>Optimizing Daily Living with AI: The ChatGPT Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/perfecting-the-chatflow-manage-gpt-3-with-folders/"><u>Perfecting the ChatFlow: Manage GPT-3 with Folders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-yourself-from-counterfeit-chatbot-applications-on-iphone-and-ipad-stores/"><u>Protecting Yourself From Counterfeit Chatbot Applications on iPhone and iPad Stores</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-simple-steps-to-install-your-lexar-usb-drives/"><u>Quick and Simple Steps to Install Your Lexar USB Drives</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/repairing-disconnections-between-chatgpt-and-external-services/"><u>Repairing Disconnections Between ChatGPT and External Services</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-alternatives-to-chatgpt-you-should-consider/"><u>Top 10 Alternatives to ChatGPT You Should Consider</u></a></li>
 </ul></div>
 

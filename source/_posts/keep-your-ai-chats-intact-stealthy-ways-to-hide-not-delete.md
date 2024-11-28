@@ -1,7 +1,7 @@
 ---
 title: "Keep Your AI Chats Intact: Stealthy Ways to Hide, Not Delete"
-date: 2024-08-24T12:48:35.652Z
-updated: 2024-08-25T12:48:35.652Z
+date: 2024-11-23T16:01:25.770Z
+updated: 2024-11-28T16:03:00.961Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
 * [How to Hide ChatGPT Chats on the Web](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-the-web)
 * [How to Hide ChatGPT Chats on Your iPhone](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-your-iphone)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -46,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
 ![Accessing ChatGPT settings on the web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/accessing-chatgpt-settings-on-the-web.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 1. Click on your OpenAI account name in the bottom-left corner of the ChatGPT page.
 2. Select**Settings** from the context menu.
 3. When the settings menu pops up, click**Manage** next to**Archived chats** .
@@ -59,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Hide ChatGPT Chats on Your iPhone
 
  ChatGPT's mobile app also lets you archive chats, but for now, the feature is limited to the iOS version of the app. However,[OpenAI confirmed on X (formerly Twitter)](https://twitter.com/OpenAI/status/1737517702766633063) that the feature will make it to Android soon. Here's how to hide your ChatGPT chats on iOS:
@@ -72,16 +74,21 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  If you don't see the**Archive** option, make sure your app is updated. Once you archive a chat, you won't be able to find it by searching for it from the sidebar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View Your Hidden Chats in the ChatGPT App
 
@@ -95,18 +102,13 @@ Close
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  As you can see, archiving your conversations is much more convenient than[deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) if all you want to do is quickly hide specific chats.
@@ -115,14 +117,11 @@ Close
 
  While archiving is a great way to organize your secret conversations with ChatGPT, it's not a perfect solution like[using ChatGPT Folders to sort all your chats](https://www.makeuseof.com/how-to-use-chatgpt-folders-to-manage-chatgpt-conversations/) . It'd be nice if OpenAI let users lock archived chats behind a password for extra protection in a future update.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +130,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-a-360-degree-view-transformative-media-experience/"><u>[Updated] 2024 Approved A 360-Degree View Transformative Media Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-a-step-by-step-journey-through-vo-and-powerpoint-magic/"><u>[Updated] A Step-by-Step Journey Through VO and Powerpoint Magic</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-historical-gems-art-unshackled-by-laws/"><u>[Updated] Historical Gems Art Unshackled by Laws</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/battle-of-the-bots-analyzing-the-effectiveness-of-chatgpt-vs-claudes-ai-technology/"><u>Battle of the Bots: Analyzing the Effectiveness of ChatGPT Vs. Claude's AI Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-digital-creations-leveraging-canva-and-chatgpt-for-scalable-outputs/"><u>Boost Your Digital Creations: Leveraging Canva & ChatGPT for Scalable Outputs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-research-skills-with-chatgpt-in-educational-settings/"><u>Boost Your Research Skills with ChatGPT in Educational Settings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-human-and-machine-for-exceptional-job-applications/"><u>Bridging Human and Machine for Exceptional Job Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-now-allows-unique-user-defined-gpt-variants-through-its-new-enhancement/"><u>ChatGPT Now Allows Unique, User-Defined GPT Variants Through Its New Enhancement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-text-summarization-when-accuracy-matters-should-you-trust-the-ai/"><u>ChatGPT Text Summarization: When Accuracy Matters, Should You Trust the AI?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/crafting-a-tailored-pc-experience-versus-off-the-shelf-solutions/"><u>Crafting a Tailored PC Experience Versus Off-the-Shelf Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-success-6-masterstrokes-with-chatgpts-interpreter/"><u>Decoding Success: 6 Masterstrokes With ChatGPT's Interpreter</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-turing-test-and-envisioning-a-winner/"><u>Decoding the Turing Test & Envisioning a Winner</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-print-job-importation-techniques-pc-and-printer-syncing-tips/"><u>Effortless Print Job Importation Techniques: PC & Printer Syncing Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fast-track-windows-os-version-identification-guide/"><u>Fast Track Windows OS Version Identification Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-find-tiktok-background-video-some-templates/"><u>How to Find TikTok Background Video Some Templates</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-m34-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy M34 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-creative-energy-video-creation-tips-on-the-latest-windows-10-edition/"><u>Unleash Creative Energy Video Creation Tips on the Latest Windows 10 Edition</u></a></li>
+</ul></div>
 

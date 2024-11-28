@@ -1,7 +1,7 @@
 ---
 title: Preheating, Balanced Welding Sequences, and Post-Weld Stress Relief Techniques Are Used to Mite Residual Stresses and Prevent Distortion.
-date: 2024-11-18T01:25:47.786Z
-updated: 2024-11-18T20:02:26.336Z
+date: 2024-11-26T16:03:55.746Z
+updated: 2024-11-28T16:06:37.995Z
 tags:
   - apple
 categories:
@@ -27,10 +27,7 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0030e106-6fcb-4a82-b8e0-c075a87c771e%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best small tablets of 2024
@@ -49,13 +46,6 @@ Cons
 * Expensive
 
 ## Apple iPad Mini 6th Generation
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -88,14 +78,11 @@ Cons
 * Performance is slightly slow
 * Cameras aren't as great as other options
 
-## Amazon Fire 7 Tablet
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Amazon Fire 7 Tablet
 
 ### Best budget small tablet
 
@@ -127,14 +114,11 @@ Cons
 * Expensive
 * Some complaints of lag
 
-## Boox Tab Mini C
-
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Boox Tab Mini C
 
 ### Best small tablet for note-taking
 
@@ -207,6 +191,10 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best small tablet?
 
 The best small tablet is the iPad Mini because of its sharp display and impressive cameras. Plus, the A15 Bionic chip is packed with power in a small package. 
@@ -240,6 +228,10 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -253,10 +245,7 @@ We also compare the display's performance with what the manufacturer promised, t
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the smallest tablet screen size?
@@ -264,13 +253,6 @@ For a deeper look into our testing process, check out our comprehensive [tablet 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What brand of tablet is best?
 
@@ -280,24 +262,15 @@ Keep in mind in certain cases (Apple, Samsung), you can pair your other devices 
 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are mini Android tablets worth it?
 
 Yes, they can be. Small Android tablets allow you to do everything you would normally do, like reading e-books and video calling, without the higher price tags. 
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the smallest iPad?
 
@@ -349,21 +322,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-decadal-list-prime-meme-designs/"><u>[Updated] 2024 Approved Decadal List Prime Meme Designs</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-chuckle-cache-timed-humor-categorized-by-occasion-for-2024/"><u>[Updated] Chuckle Cache Timed Humor Categorized by Occasion for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-filching-frames-from-films-for-windows-10-photos-collection/"><u>[Updated] Filching Frames From Films for Windows 10 Photos Collection</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nokia-c22-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nokia C22 Activity | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-se-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-generating-ai-powered-graphics-with-chatgpt/"><u>Mastering the Art of Generating AI-Powered Graphics with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-ai-assistance-crafting-queries-for-chatgpts-help-with-vehicle-modifications/"><u>Navigating AI Assistance: Crafting Queries for ChatGPT's Help with Vehicle Modifications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/programming-prowess-comparison-can-chatgpt-outshine-gemini-as-an-ai-developer-assistant/"><u>Programming Prowess Comparison: Can ChatGPT Outshine Gemini as an AI Developer Assistant?</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-rise-in-popularity-of-ai-chatbots-an-in-depth-look-at-what-makes-them-special/"><u>The Rise in Popularity of AI Chatbots: An In-Depth Look at What Makes Them Special</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-user-rated-4k-ultra-hd-blu-ray-players-review/"><u>Top User Rated 4K Ultra HD Blu-Ray Players Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-artificeal-intelligence-an-insight-into-its-risks/"><u>Understanding Artificeal Intelligence: An Insight Into Its Risks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-professional-growth-with-these-6-reasons-to-embrace-chatgpt-skills/"><u>Unlock Professional Growth with These 6 Reasons to Embrace ChatGPT Skills</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-better-accessibility-how-the-chatgpt-ios-app-surpasses-its-web-version-in-usability-and-features/"><u>Unlocking Better Accessibility: How the ChatGPT iOS App Surpasses Its Web Version in Usability and Features</u></a></li>
-<li><a href="https://driver-install.techidaily.com/usb-drivers-revamp-in-vintage-windows-environments/"><u>USB Drivers Revamp in Vintage Windows Environments</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-delving-into-ffmpeg-for-pure-unchanged-auditory-extraction-for-2024/"><u>[New] Delving Into FFmpeg for Pure, Unchanged Auditory Extraction for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-comprehensive-look-at-vr-video-recording-systems/"><u>2024 Approved A Comprehensive Look at VR Video Recording Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaining-unauthorized-entry-to-c-spans-vault/"><u>2024 Approved Gaining Unauthorized Entry to C-Span's Vault</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-critical-aspects-of-leveraging-chatgpt-effectively-for-mental-health-support/"><u>5 Critical Aspects of Leveraging ChatGPT Effectively for Mental Health Support</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-compelling-reasons-why-chatgpt-is-an-asset-for-personalized-health-advice/"><u>7 Compelling Reasons Why ChatGPT Is an Asset for Personalized Health Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/academic-research-revolutionized-discover-how-ai-tools-play-a-vital-role/"><u>Academic Research Revolutionized: Discover How AI Tools Play a Vital Role</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-creative-domain-who-holds-the-title/"><u>AI's Creative Domain: Who Holds The Title?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/anticipating-chatgpt-desktop-launch-explore-an-exceptional-open-source-option-now/"><u>Anticipating ChatGPT Desktop Launch? Explore an Exceptional Open-Source Option Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-expensive-ai-solutions-effective-enough-to-warrant-their-price-tag/"><u>Are Expensive AI Solutions Effective Enough to Warrant Their Price Tag?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721975867228-discover-unrivaled-efficiency-with-perplexity-ai-the-top-ai-enhanced-google-search-experience-waiting-for-you/"><u>Discover Unrivaled Efficiency with Perplexity AI: The Top AI-Enhanced Google Search Experience Waiting for You!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722166540642-get-the-latest-in-search-innovation-access-bings-artificial-intelligence-features-for-mobile-users-now/"><u>Get the Latest in Search Innovation: Access Bing's Artificial Intelligence Features for Mobile Users Now!</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-asus-rog-phone-7-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Asus ROG Phone 7 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-6-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 6 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts/"><u>In 2024, How to Captivate Audiences and Gain Traction with YouTube Shorts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ios-meets-classic-play-best-ps2-game-emulators-reviewed/"><u>IOS Meets Classic Play Best PS2 Game Emulators Reviewed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphone-speech-input-glitches-for-seamless-dictation-experience/"><u>Resolving iPhone Speech Input Glitches for Seamless Dictation Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-clear-the-clutter-a-comprehensive-guide-to-freeing-up-space-on-your-fcpx-mac/"><u>Updated Clear the Clutter A Comprehensive Guide to Freeing Up Space on Your FCPX Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y02t-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y02T Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/will-chatgpt-revolutionize-the-way-we-use-search-engines-today/"><u>Will ChatGPT Revolutionize the Way We Use Search Engines Today?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Compact Tablets : Comprehensive Reviews by Tech Specialists"
-date: 2024-10-17T16:17:15.955Z
-updated: 2024-10-21T21:10:58.266Z
+date: 2024-11-21T16:19:13.639Z
+updated: 2024-11-28T16:08:05.722Z
 tags:
   - apple
 categories:
@@ -22,9 +22,17 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4e447550-637c-42c3-b414-2bfd5c6e681c%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best small tablets of 2024
 
@@ -42,16 +50,7 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple iPad Mini 6th Generation
@@ -87,19 +86,6 @@ Cons
 * Performance is slightly slow
 * Cameras aren't as great as other options
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Amazon Fire 7 Tablet
 
 ### Best budget small tablet
@@ -134,13 +120,6 @@ Cons
 
 ## Boox Tab Mini C
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best small tablet for note-taking
 
 Boox is an e-reader and drawing tablet with a vivid color display, so your e-book's illustrations will pop as you read, and so will your color-coordinated notes. Speaking of which, the note-taking templates on the Tab Mini C are handy. Whether you're a student taking Cornell-style notes, a desk job employee making an hourly plan for your day, a musician crafting a piece of sheet music, or a historian drafting a timeline, the Tab Mini C offers a template for that. 
@@ -168,14 +147,11 @@ Cons
 * Web browser functionality could be better
 * No warm light option
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Amazon Kindle 11th generation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet for reading
 
@@ -208,10 +184,7 @@ Cons
 ## Samsung Galaxy Tab A7 Lite
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Samsung small tablet
@@ -225,6 +198,10 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 **Samsung Galaxy Tab A7 Lite tech specs: Display**: 8.7-inch, 1340x800 display | **Processor**: MediaTek MT8768N | **Storage**: 32GB or 64GB | **Colors**: Gray | **Cameras**: 2MP front and 8MP rear | **Weight**: 0.81lbs | **Dimensions**: 8.37 x 4.91 x 0.31 inches | **Connections**: 3.5mm headphone jack, USB-C | **Battery:** 10 to 12 hours
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best small tablet?
 
@@ -277,13 +254,6 @@ The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What brand of tablet is best?
 
 Tablets made by Apple, Samsung, and Microsoft are the best-made tablets in terms of quality. Amazon has well-rounded tablets in its Fire lineup but with fewer performance-focused features. Boox is also proving to be an industry underdog, with impressive tablets that function as e-readers and illustrators. 
@@ -299,10 +269,7 @@ Yes, they can be. Small Android tablets allow you to do everything you would nor
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the smallest iPad?
@@ -355,21 +322,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ivoting-with-purpose-rotate-and-rethink-with-youtubes-latest-tools/"><u>[New] Pivoting with Purpose Rotate and Rethink with YouTube's Latest Tools</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-se-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone SE</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/chatgpt-plus-reviewed-is-it-a-deal-breaker-or-boon-explore-5-key-advantages/"><u>ChatGPT Plus Reviewed - Is It a Deal-Breaker or Boon? Explore 5 Key Advantages!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensure-compatibility-with-the-latest-broder-hl-l2360dw-driver-click-to-download/"><u>Ensure Compatibility with the Latest Brøder HL-L2360DW Driver - Click to Download</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-generate-images-with-microsoft-bing-and-dall-e-3-at-no-cost/"><u>How to Generate Images with Microsoft Bing and DALL-E 3 at No Cost</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c02-bootloader-easily-by-drfone-android/"><u>How to Unlock Nokia C02 Bootloader Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-seamless-integration-and-usage-of-chatgpt-plug-ins-for-enhanced-functionality/"><u>How To: Seamless Integration & Usage of ChatGPT Plug-Ins For Enhanced Functionality</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-the-enigma-deciphering-the-role-and-operation-of-ai-black-boxes-in-ai-systems/"><u>Inside the Enigma: Deciphering the Role and Operation of 'AI Black Boxes' In AI Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-chatgpt-with-smart-home-technology-feasibility-and-benefits/"><u>Integrating ChatGPT with Smart Home Technology: Feasibility and Benefits</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/intelligent-automation-for-ubuntu-auto-gpt-setup/"><u>Intelligent Automation for Ubuntu: Auto-GPT Setup</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/intrigue-and-innovation-delve-into-4-futuristic-online-mysteries/"><u>Intrigue and Innovation: Delve Into 4 Futuristic Online Mysteries</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/introduction-to-langchain-llm-a-beginners-guide/"><u>Introduction to LangChain LLM: A Beginner’s Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola Edge 40? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/nokia-130-music-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia 130 Music Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-ring-specs-revealed-when-to-expect-and-how-much-will-it-cost/"><u>Samsung Galaxy Ring Specs Revealed – When to Expect and How Much Will It Cost?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-optimizing-mac-ipad-iphone-browsing-via-pip/"><u>[New] 2024 Approved Optimizing Mac, iPad, iPhone Browsing via PIP</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-rhythmic-resonance-harmony-for-visuals/"><u>[New] Rhythmic Resonance Harmony for Visuals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ideal-top-ten-video-calls-applications-for-alltech/"><u>[Updated] 2024 Approved Ideal Top-Ten Video Calls Applications for Alltech</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-all-encompassing-razer-camera-report/"><u>2024 Approved All-Encompassing Razer Camera Report</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-mp4-to-avi-transformation-guide-for-macos-users/"><u>Free MP4 to AVI Transformation Guide for macOS Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-issues-leveraging-the-power-of-apples-in-house-support-software/"><u>Navigating iPhone Issues: Leveraging the Power of Apple’s In-House Support Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-permissions-understanding-and-working-around-the-trustedinstaller-in-windows-11/"><u>Navigating Permissions: Understanding and Working Around the TrustedInstaller in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-high-volume-content-design-using-canva-and-chatgpt/"><u>The Ultimate Guide to High-Volume Content Design Using Canva & ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-substitute-options-for-openais-sora-offering-no-cost-access-to-state-of-the-art-ai/"><u>Top 5 Substitute Options for OpenAI's Sora, Offering No Cost Access to State-of-the-Art AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-interview-skills-with-chatgpt-strategies-and-tips/"><u>Transform Your Interview Skills with ChatGPT Strategies and Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/uncover-all-about-instagrams-video-cap/"><u>Uncover All About Instagram's Video Cap</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-generative-artificn-intelligence-an-in-depth-guide/"><u>Understanding Generative Artificn Intelligence: An In-Depth Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-clause-2-uses-demystified/"><u>Unlocking Clause 2: Uses Demystified</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-gpts-boundaries-an-overview/"><u>Unlocking GPT's Boundaries: An Overview</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-bot-wins-gpt-plus-or-perplexity-face-off/"><u>Which Bot Wins? GPT Plus or Perplexity Face-Off</u></a></li>
 </ul></div>
 

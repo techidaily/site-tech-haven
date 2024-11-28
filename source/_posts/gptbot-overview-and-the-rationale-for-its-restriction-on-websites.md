@@ -1,7 +1,7 @@
 ---
 title: GPTBot Overview & The Rationale for Its Restriction on Websites
-date: 2024-08-24T12:45:14.853Z
-updated: 2024-08-25T12:45:14.853Z
+date: 2024-11-25T16:02:58.767Z
+updated: 2024-11-28T16:11:10.503Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
  Recent developments in AI-powered chatbots and writing tools have made waves in the creative industry. They’ve come a long way from producing incoherent texts. Nowadays, even free platforms can generate a logical, grammatically correct 1,000-word article on any given topic within seconds.
 
  Although convenient, chatbots and writing tools aren’t perfect. We've listed the top reasons why blindly relying on them compromises the quality of your articles and diminishes your credibility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. AI Doesn’t Fact-Check Information
 
@@ -39,13 +43,14 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
 
 ![ChatGPT Generated a 200-Word Article on Cats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-on-cats.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, compare it with the below photo. You’ll notice that the response follows the exact template, although this one talks about dogs.
 
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
 
  AI has further simplified “research.” Instead of combing through Google search results, you can just ask chatbots and writing tools. They’ll provide brief, concise answers.
@@ -55,15 +60,13 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
  Before writing, make sure you study your subject. Extensive research is the core of every well-written piece—spend at least 30 to 60 minutes reading online sources. You can provide value by comparing resources, laying down verified facts, and asserting well-founded conclusions. Simply paraphrasing what chatbots say is senseless.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. AI Scrapes Commonly Published Information
 
 ![Copy.ai Generates an Article on Taking Care of Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-on-dogs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  AI avoids inaccuracies by generating generic responses. Take the above piece as an example. When we asked an AI writing tool to talk about dog care, it focused on super-common tips, which readers have likely seen multiple times. The below photo also shows that its insights came from an unreliable source.
 
 ![Copy.ai Lists Down Article Sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-sources.jpg)
@@ -73,8 +76,9 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
  Of course, you can still discuss general subjects. Just make sure you cover a unique angle or stand that aligns with your branding and image.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. AI Generates the Same Results for Similar Questions
 
  While AI scans billions of resources, its answers contain the same information. Chatbots and writing tools generate formulaic text comprising repeated data, regardless of how you state questions. Restructuring prompts will only trigger sentence variations.
@@ -84,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
 ## 6\. AI Can’t Adopt Your Tone
 
 ![ChatGPT Generates Dog Articles in Different Tones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-dog-articles-examples.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AI writing tools and chatbots can structure responses in certain ways. For instance, the above photo shows that ChatGPT could form professional and casual variations of the same topic. Generally, if you insert specific keywords into your prompts, you’ll trigger detailed changes.
 
@@ -103,32 +111,23 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
 
 ![Plagiarism Checker Results of AI-Generated Text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/plagiarism-checker-results.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  AI doesn’t gather information from just one site. Before producing an appropriate response, it runs relevant data from billions of resources through its language model. You can’t trace AI pieces back to a single source.
 
  With that said, they’re still unoriginal. Chatbots and writing tools only escape plagiarism technicalities through formulaic paraphrasing. Spinning bypasses many plagiarism detectors, after all.
 
  Writers have differing opinions about the morality of publishing AI content and plagiarism, but as a respectable professional, you should do your own research. Never risk plagiarizing content. Study the topics for yourself, draw logical conclusions, then convey them in your own words.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Use AI Chatbots Responsibly
 
  Treat AI like a tool, not a content production department. Always remember that writing tools check for neither plagiarism nor factual accuracy. Publishing AI-generated pieces as is will plummet your site’s SERP ranking, hurt your credibility, and diminish your writing quality. It’s also hard to shake off the reputation of being a lazy, AI-dependent writer.
 
  With that said, writers don’t have to avoid AI altogether. Despite its shortcomings, it presents innovative features that will streamline your workflow and automate tedious tasks. Explore ways of responsibly utilizing it. For instance, AI could assist with non-writing activities like plagiarism detection, basic editing, keyword research, and site-building.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +136,26 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-battle-for-asgard-the-ragnarok-chronicles-for-2024/"><u>[Updated] Battle for Asgard The Ragnarök Chronicles for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-navigating-safaris-picture-in-picture-for-mobiledesktop-for-2024/"><u>[Updated] Navigating Safari’s Picture in Picture for Mobile/Desktop for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effective-fixes-for-alt-codes-failing-in-windows-60-characters/"><u>Effective Fixes for ALT Codes Failing in Windows (60 Characters)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-oppo-a1-5g-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Oppo A1 5G</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/joint-development-of-scalable-llms-by-sony-intelligence-and-ai-singapore-announced-futuretech-weekly/"><u>Joint Development of Scalable LLMs by Sony Intelligence and AI Singapore Announced | FutureTech Weekly</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-edit-like-a-pro-the-ultimate-free-guide-to-gopro-video-editing/"><u>New Edit Like a Pro The Ultimate Free Guide to GoPro Video Editing</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-youtube-sound-issues-overcoming-audio-rendering-glitches-in-windows-1nk/"><u>Resolving YouTube Sound Issues: Overcoming Audio Rendering Glitches in Windows 1Nk</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-photo-transformations-with-adobe-photoshops-background-erase-technique-for-2024/"><u>Seamless Photo Transformations with Adobe Photoshop's Background Erase Technique for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/snapchats-personal-assistant-my-ai-versus-openais-chatgpt-which-fits-your-needs/"><u>Snapchat's Personal Assistant My AI versus OpenAI's ChatGPT – Which Fits Your Needs?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-dual-sides-of-ai-benefits-and-potential-dangers-exposed/"><u>The Dual Sides of AI: Benefits and Potential Dangers Exposed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-key-6-considerations-prior-to-adopting-chatgpt-for-emotional-support-services/"><u>The Key 6 Considerations Prior to Adopting ChatGPT for Emotional Support Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-paperclip-maximization-challenge-unraveling-its-impact-on-artifice-intelligence-ai-evolution/"><u>The Paperclip Maximization Challenge: Unraveling Its Impact on Artifice Intelligence (AI) Evolution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-preserving-chatgpt-interactions-for-future-reference/"><u>The Ultimate Guide: Preserving ChatGPT Interactions for Future Reference</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-showdown-palm-2-vs-openais-gpt-4/"><u>The Ultimate Showdown: PaLM 2 Vs. OpenAI's GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/to-go-global-or-stay-local-9-pros-and-cons-of-each-for-llms/"><u>To Go Global or Stay Local? 9 Pros and Cons of Each for LLMs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-samsung-galaxy-f14-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Samsung Galaxy F14 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/turning-text-to-audio-with-ais-help/"><u>Turning Text to Audio with AI's Help</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/twitters-smileless-tweets-linuss-discoveries-unveiled-trojan-explanation-and-gpt-limitations-showcased/"><u>Twitters Smileless Tweets, Linus’s Discoveries Unveiled, Trojan Explanation, & GPT Limitations Showcased</u></a></li>
+</ul></div>
 

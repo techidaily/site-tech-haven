@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Role of AI-Powered Bots in Online Communication Controls: Effects on Individual Experience"
-date: 2024-08-24T12:48:04.034Z
-updated: 2024-08-25T12:48:04.034Z
+date: 2024-11-26T16:03:46.903Z
+updated: 2024-11-28T16:07:19.931Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
  However, it's important to understand[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) so that you can use it efficiently. By having a better understanding of how it was created and trained and how it generates responses, you will be able to make the most of it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Hasn't ChatGPT Affected the Search Engines So Far?
 
  Despite ChatGPT's immense popularity, it's still not ready to significantly impact the search engine industry for several reasons. Here are a few of them:
@@ -46,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
  Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. ChatGPT Can Generate Incorrect Response
 
  Despite being AI-driven, ChatGPT often gives inaccurate responses. OpenAI, the parent company of ChatGPT, admits that the chatbot sometimes generates inaccurate answers. The company has listed this shortcoming as one of the limitations of its product on its official blog.
@@ -55,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 ![ChatGPT Saying It Can Also Generate Wrong Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-also-generate-wrong-answers-and-explains-why-it-does-so.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. ChatGPT Is Less Credible
 
  On search engines, you know where information is coming from. Each time you search for something, you know the source of the webpage (i.e., brand or website). By putting in some effort, you can also check the authenticity of authors.
@@ -65,14 +71,8 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
 ![ChatGPT  Saying It Can't Add References](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-add-references.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  You can[sign up and start using ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) in just a few minutes. If you haven't tried it yet, take advantage of it to enhance your productivity. Although ChatGPT isn't ready to disrupt the search engine industry just yet, does it have the potential to do so in the future?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Is ChatGPT Capable of Disrupting Search Engines in the Future?
 
  Even though ChatGPT has some limitations, it has some strengths that make it an excellent candidate to disrupt the search engine industry. Let's discuss a few of them.
@@ -86,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
  For example, if you ask ChatGPT to write an essay on any topic and later ask it to keep the essay under 2000 words, the chatbot will know the topic on which you want it to write a 2000-word essay. Therefore, it won't be necessary to write the subject again.
 
  On the other hand, search engines give you results based on your queries, so you need to fine-tune your keyword selection to get the best results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Soon Could ChatGPT Significantly Impact the Search Engine Industry?
 
@@ -102,11 +106,9 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 ![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Let ChatGPT Evolve
 
  It will take time before people trust ChatGPT as they do on search engine results; it will be fascinating to see how this technology evolves.
@@ -115,14 +117,11 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
  Have you tried ChatGPT? If you haven't tried it yet, you should. Whether you need help writing an essay, generating code, composing an engaging email, or breaking down a complex topic, ChatGPT can take care of it all.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +130,20 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ace-virtual-imagery-ideal-google-meet-screens-for-2024/"><u>[New] Ace Virtual Imagery Ideal Google Meet Screens for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-uncovering-untapped-territories-in-meme-culture/"><u>[Updated] Uncovering Untapped Territories in Meme Culture</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-pathway-to-professional-fb-reel-development/"><u>2024 Approved The Pathway to Professional FB Reel Development</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/activate-your-androids-voice-command-capabilities-with-a-customized-chatgpt-through-the-voicegpt-app/"><u>Activate Your Android's Voice Command Capabilities with a Customized ChatGPT Through the VoiceGPT App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/auto-gpt-vs-gpt-4-determining-the-value-of-using-auto-gpt-without-the-next-generation-model/"><u>Auto-GPT Vs. GPT-4: Determining the Value of Using Auto-GPT Without the Next Generation Model</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bot-communication-how-they-pretend-to-speak/"><u>Bot Communication: How They Pretend to Speak</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-creative-writing-tool-explore-six-tactics-to-improve-your-craft/"><u>ChatGPT as a Creative Writing Tool: Explore Six Tactics to Improve Your Craft</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engaging-with-gpt-3-a-strategy-for-openai/"><u>Engaging with GPT-3: A Strategy for OpenAI</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-websites-for-digital-graffiti-fonts/"><u>Essential Websites for Digital Graffiti Fonts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-finest-ps1-emulators-for-seamless-gaming-experience/"><u>In 2024, The Finest PS1 Emulators for Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/sicherung-ihrer-buffalo-network-attached-storage-nas-daten-auf-eine-externe-festplatte-schnelles-tutorial/"><u>Sicherung Ihrer Buffalo Network Attached Storage (NAS) Daten Auf Eine Externe Festplatte - Schnelles Tutorial</u></a></li>
+<li><a href="https://media-tips.techidaily.com/universal-playlist-master-seamless-audio-and-video-on-pc-macos-win11-and-mac-el-capitan/"><u>Universal Playlist Master: Seamless Audio & Video on PC, MacOS, Win11 & Mac El Capitan</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-maximize-your-edit-10-best-free-fcpx-plugins/"><u>Updated 2024 Approved Maximize Your Edit 10 Best Free FCPX Plugins</u></a></li>
+</ul></div>
 

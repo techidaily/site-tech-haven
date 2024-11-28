@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Purchase of Apple Vision Pro: Expert Advice on Optimal Facial Scans & Hidden Strategies"
-date: 2024-11-14T16:08:39.479Z
-updated: 2024-11-19T01:46:19.188Z
+date: 2024-11-24T16:11:27.339Z
+updated: 2024-11-28T16:03:01.663Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ But then something sort of magical happened -- I started using the app. Once I u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Craft?
 
 According to the official website, Craft is built for digital devices from the ground up and brings the joy back to writing.   
@@ -36,10 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,16 +129,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-source-guide-4-top-skype-ringtones/"><u>2024 Approved The Ultimate Source Guide 4 Top Skype Ringtones</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-htc-u23-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your HTC U23 Pro FRP Locks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-zte-axon-40-lite-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 ZTE Axon 40 Lite Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-motorola-moto-g14-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Motorola Moto G14 Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-your-ipad-with-expert-advice-10-key-tips-and-setups-every-apple-user-must-know/"><u>Master Your iPad with Expert Advice: 10 Key Tips and Setups Every Apple User Must Know</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/meta-quest-3-leapfrogs-with-ai-capabilities-before-vision-pro-launch-tips-to-activate-and-explore-by-zdnet/"><u>Meta Quest 3 Leapfrogs with AI Capabilities Before Vision Pro Launch - Tips to Activate and Explore by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/save-24-today-on-apples-latest-bluetooth-earbuds-with-hearing-aid-compatibility-get-airpods-pro-2/"><u>Save 24% Today on Apple's Latest Bluetooth Earbuds with Hearing Aid Compatibility - Get AirPods Pro 2</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/spectacular-20-anime-openers-hits-for-2024/"><u>Spectacular 20 Anime Openers' Hits for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-35-tablet-bargains-unbeatable-prime-day-2024-offers-in-stock-tech-insights/"><u>Top 35 Tablet Bargains: Unbeatable Prime Day 2024 Offers in Stock | Tech Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-flash-drives-to-boost-ps5-performance/"><u>Top Flash Drives to Boost PS5 Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-mp3-devices-features-and-reviews/"><u>Top-Rated MP3 Devices : Features and Reviews</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-from-zero-to-hero-how-to-triumph-with-10-powerful-fb-strategies/"><u>[Updated] 2024 Approved From Zero to Hero How to Triumph with 10 Powerful FB Strategies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-infuse-joy-and-creativity-in-every-snap-with-anime-filters/"><u>[Updated] 2024 Approved Infuse Joy and Creativity in Every Snap with Anime Filters</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/98410503-updated-free-tribe-50-branding-banners-ready-to-unleash/"><u>[Updated] Free Tribe 50 Branding Banners Ready to Unleash</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-seamless-creation-a-closer-look-at-magix-video-pro-x/"><u>2024 Approved Seamless Creation A Closer Look at Magix Video Pro X</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-motorola-moto-g24-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Motorola Moto G24.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-dell-xps-13-2-in-1-a-superior-computing-experience-unveiled/"><u>Exploring the Dell XPS 13 2-in-1: A Superior Computing Experience Unveiled</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/proven-strategies-for-securing-your-iphones-information-through-efficient-backups/"><u>Proven Strategies for Securing Your iPhone's Information Through Efficient Backups</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-insider-guide-to-leveraging-chatgpts-advanced-custom-command-options/"><u>The Insider Guide to Leveraging ChatGPT's Advanced Custom Command Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-science-behind-generative-ai-search-an-overview-of-corporate-applications/"><u>The Science Behind Generative AI Search – An Overview of Corporate Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-top-10-strategies-for-using-chatgpt-to-secure-your-next-job-on-linkedin/"><u>The Top 10 Strategies for Using ChatGPT to Secure Your Next Job on LinkedIn</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-storytelling-skills-by-building-a-detailed-text-based-rpg-with-chatgpt/"><u>Transform Your Storytelling Skills by Building a Detailed Text-Based RPG with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/true-academic-success-beyond-chatgpts-capabilities/"><u>True Academic Success Beyond ChatGPT's Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-ransomware-decode-on-the-go-tech-guide/"><u>Understanding Ransomware Decode - On-the-Go Tech Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-truth-the-google-bard-app-is-not-safe-for-download/"><u>Unveiling the Truth: The Google Bard App Is Not Safe for Download</u></a></li>
 </ul></div>
 

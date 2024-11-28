@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Top Secret Superpower of This Awesome iPhone Case with a Physical Keyboard!
-date: 2024-11-11T22:40:06.912Z
-updated: 2024-11-18T17:44:09.917Z
+date: 2024-11-21T16:07:27.607Z
+updated: 2024-11-28T16:12:12.126Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. We need a clearer Apple Intelligence timeline
 
 Jason Hiner/ZDNET
@@ -39,10 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,21 +124,20 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-diy-youtube-trailer-production-via-filmora-software/"><u>[New] 2024 Approved DIY YouTube Trailer Production via Filmora Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-laughterlink-join-now-and-start-your-journey/"><u>[New] 2024 Approved LaughterLink Join Now & Start Your Journey</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-breezy-setup-for-podcast-broadcasts-for-2024/"><u>[New] Breezy Setup for Podcast Broadcasts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-avoiding-the-blank-thumbnail-scenario-in-shorts/"><u>[Updated] In 2024, Avoiding the Blank Thumbnail Scenario in Shorts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-discovering-cinematic-splendor-in-4k-lgs-digital-cinema-31mu97-b/"><u>2024 Approved Discovering Cinematic Splendor in 4K LG's Digital Cinema 31MU97-B</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/all-the-buzz-from-wwdc-today-dive-deeper-into-apples-world-of-enhancements-with-siri-upgrades-and-beyond-tech-insider/"><u>All the Buzz From WWDC Today: Dive Deeper Into Apple’s World of Enhancements with Siri Upgrades and Beyond | Tech Insider</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/co-singers-capturing-hearts-online/"><u>Co-Singers Capturing Hearts Online</u></a></li>
-<li><a href="https://blog-min.techidaily.com/como-convertir-archivos-mp4-al-formato-mpg-de-gratis-online-con-movieconvert/"><u>Cómo Convertir Archivos MP4 Al Formato MPG De Gratis Online Con MovieConvert</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-spark-sponsorships-a-guide-to-easy-fundraising-for-budget-channels/"><u>In 2024, Spark Sponsorships A Guide to Easy Fundraising for Budget Channels</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ios-18-update-enables-direct-phone-call-recording-no-need-for-external-apps/"><u>IOS 18 Update Enables Direct Phone Call Recording - No Need for External Apps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimize-your-iphone-phone-conversations-with-these-top-tips-for-better-sound-fidelity/"><u>Optimize Your iPhone Phone Conversations with These Top Tips for Better Sound Fidelity!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-fitness-routine-with-airpods-pros-latest-feature-precision-heart-rate-monitoring-cnet/"><u>Revolutionize Your Fitness Routine with AirPods Pro's Latest Feature: Precision Heart Rate Monitoring | CNET</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/seagate-backup-plus-5tb-restoration-het-top-titol-in-herstelsoftware/"><u>Seagate Backup Plus 5TB Restoration: Het Top-Titol in Herstelsoftware</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-compelling-reason-im-staying-with-apple-watch-series-7-instead-of-switching-to-series-10-tech-analysis-on-zdnet/"><u>The Compelling Reason I'm Staying with Apple Watch Series 7 Instead of Switching to Series 10 | Tech Analysis on ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-upgrades-android-must-embrace-to-challenge-apples-ios-dominance-expert-analysis-from-zdnet-tech-news/"><u>Top 5 Upgrades Android Must Embrace to Challenge Apple's iOS Dominance - Expert Analysis From ZDNet (Tech News)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zdnet-reveals-the-groundbreaking-feature-of-the-new-google-pixel-9-innovative-satellite-emergency-messaging-for-android-devices/"><u>ZDNet Reveals: The Groundbreaking Feature of the New Google Pixel 9 - Innovative Satellite Emergency Messaging for Android Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/op-5-chill-out-scenes-to-add-zest-to-your-snowy-videos/"><u>[New] Top 5 Chill-Out Scenes to Add Zest to Your Snowy Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-your-pathway-to-perfect-igtv-footage-from-phone-to-dslr/"><u>[New] Your Pathway to Perfect IGTV Footage From Phone to DSLR</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-waveform-wisdom-dimming-audio-with-expertise-in-premiere/"><u>[Updated] In 2024, Waveform Wisdom Dimming Audio with Expertise in Premiere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-nikon-d7500-performance-for-2024/"><u>Comprehensive Guide to Nikon D7500 Performance for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effettuare-il-riparo-del-boot-manager-uefi-in-windows-server-2019-scopri-i-tecniche-ottime/"><u>Effettuare Il Riparo Del BOOT Manager UEFI in Windows Server 2019: Scopri I Tecniche Ottime!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-adjusting-colors-in-gopro-video/"><u>In 2024, The Ultimate Guide to Adjusting Colors in GoPro Video</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-10-decibel-boosters-windows-macos-iphones-for-2024/"><u>Leading 10 Decibel Boosters Windows, MacOS, iPhones for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726225230337-mkv-ogg-movavi/"><u>MKV 直接OGG免费转换在线服务 - 通过Movavi提供专业解决方案</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/truthgpt-coin-demystifying-the-cryptocurrency-is-it-a-trustworthy-investment-or-a-ploy/"><u>TruthGPT Coin – Demystifying the Cryptocurrency: Is It a Trustworthy Investment or a Ploy?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatbots-in-human-like-discussions/"><u>Understanding Chatbots in Human-Like Discussions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-gemini-15-the-significance-of-its-newfound-token-processing-power/"><u>Understanding Gemini 1.5: The Significance of Its Newfound Token Processing Power</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-impact-how-chatgpt-using-latest-info-benefits-us-all/"><u>Understanding the Impact: How ChatGPT Using Latest Info Benefits Us All</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-paperclip-maximization-dilemma-implications-for-artificial-intelligence/"><u>Understanding the Paperclip Maximization Dilemma: Implications for Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-chatgpts-api-capabilities/"><u>Unveiling the Power of ChatGPT's API Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-the-maximum-word-count-allowed-in-a-chatgpt-reply/"><u>What Is the Maximum Word Count Allowed in a ChatGPT Reply?</u></a></li>
 </ul></div>
 

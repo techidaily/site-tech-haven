@@ -1,7 +1,7 @@
 ---
 title: "Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch From ZDNet"
-date: 2024-11-12T01:44:51.652Z
-updated: 2024-11-18T17:28:58.284Z
+date: 2024-11-26T16:03:33.002Z
+updated: 2024-11-28T16:11:15.100Z
 tags:
   - apple
 categories:
@@ -26,9 +26,17 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -40,25 +48,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -82,6 +76,10 @@ When the timer is up to indicate that you should have reached your destination, 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Change the time for a Check In
 
 If you don't want to share the default details with a Check In, you can easily change them. After starting or resuming a conversation in Messages with your trusted contact, tap the + icon and select Check In. At the Check In screen, tap Edit. The next screen displays several settings that you can modify.
@@ -93,16 +91,7 @@ If you still wish to use a timer for the Check In option but change the amount o
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
@@ -119,18 +108,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -168,18 +154,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-secrets-when-to-share-content-for-youtube-success/"><u>[New] 2024 Approved Secrets When to Share Content for YouTube Success</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-stealthy-watcher-of-digital-tales-for-2024/"><u>[New] Stealthy Watcher of Digital Tales for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/2024s-ultimate-computer-showdown-how-apple-dell-and-others-stack-up-in-the-latest-zdnet-rankings/"><u>2024'S Ultimate Computer Showdown: How Apple, Dell, and Others Stack Up in the Latest ZDNET Rankings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-ipad-air-with-m2-chip-the-ideal-choice-for-consumers-a-comprehensive-analysis-by-zdnet/"><u>Apple iPad Air with M2 Chip: The Ideal Choice For Consumers - A Comprehensive Analysis by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/compact-and-slim-apple-vision-pro-case-reduces-size-by-nearly-50-a-revolutionary-design/"><u>Compact and Slim Apple Vision Pro Case Reduces Size by Nearly 50% – A Revolutionary Design!</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-zte-nubia-z60-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your ZTE Nubia Z60 Ultra Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/game-optimization-success-stability-and-performance-upgrades-to-mass-effect-legendary-series/"><u>Game Optimization Success! Stability & Performance Upgrades to Mass Effect Legendary Series</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-innovating-messaging-sounds-a-guide-to-downloading-and-personalizing-whatsapp-ringtones/"><u>In 2024, Innovating Messaging Sounds A Guide to Downloading & Personalizing WhatsApp Ringtones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secure-your-copy-of-apple-watch-series-10-today-exclusive-pre-order-guide-and-money-saving-tips-techwise/"><u>Secure Your Copy of Apple Watch Series 10 Today: Exclusive Pre-Order Guide & Money-Saving Tips | TechWise</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/set-up-your-apple-watch-for-slack-notifications-with-these-simple-steps-zdnet/"><u>Set Up Your Apple Watch for Slack Notifications with These Simple Steps | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/upcoming-fall-releases-exploring-the-latest-innovations-in-apples-ecosystem-including-artificial-intelligence-detailed-insights-from-zdnet/"><u>Upcoming Fall Releases: Exploring the Latest Innovations in Apple's Ecosystem Including Artificial Intelligence - Detailed Insights From ZDNet</u></a></li>
-<li><a href="https://solve-help.techidaily.com/windows-friendly-guide-how-to-replace-motherboard-and-processor-effortlessly/"><u>Windows-Friendly Guide: How to Replace Motherboard and Processor Effortlessly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-creators-currency-how-to-turn-streams-into-dollars-for-2024/"><u>[New] The Creator’s Currency How To Turn Streams Into Dollars for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-driving-engagement-the-art-of-building-a-buzz/"><u>[Updated] 2024 Approved Driving Engagement The Art of Building a Buzz</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-perfect-snapchat-video-maximizing-mac-capabilities/"><u>[Updated] 2024 Approved Perfect Snapchat Video Maximizing Mac Capabilities</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/assessing-the-longevity-and-support-life-cycle-of-huawei-p10/"><u>Assessing the Longevity & Support Life Cycle of Huawei P10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-safe-are-external-chatgpt-browser-additions-or-tools/"><u>How Safe Are External ChatGPT Browser Additions or Tools?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-itel-a05s-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Itel A05s in Minutes | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improve-your-schedule-with-chatgpt-5-key-tactics/"><u>Improve Your Schedule with ChatGPT - 5 Key Tactics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-mastering-video-conferencing-combining-the-power-of-zoom-and-skype/"><u>In 2024, Mastering Video Conferencing Combining the Power of ZOOM & SKYPE</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovating-poetry-through-chatgpt-interactions/"><u>Innovating Poetry Through ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-ways-to-utilize-gpt-3-within-python-environments/"><u>Innovative Ways to Utilize GPT-3 Within Python Environments</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-on-device-ai-functionality-and-processes-unraveled/"><u>Inside On-Device AI: Functionality and Processes Unraveled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-gpt-chat-a-practical-api-overview/"><u>Integrating GPT-Chat: A Practical API Overview</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/interactive-multilingualism-chatgpt-at-the-forefront/"><u>Interactive Multilingualism: ChatGPT at the Forefront</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leveraging-alternative-footage-in-filmmaking/"><u>Leveraging Alternative Footage in Filmmaking</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-efficiency-with-chatgpt-a-guide-to-crafting-effective-workflows/"><u>Maximizing Efficiency with ChatGPT: A Guide to Crafting Effective Workflows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/method-to-resolve-plugin-service-link-failures-in-chatgpt/"><u>Method to Resolve Plugin-Service Link Failures in ChatGPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-google-pixel-8-pro-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Google Pixel 8 Pro has been deleted.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-battlefields-restoring-sounds-in-battlefield-4/"><u>Silent Battlefields: Restoring Sounds in Battlefield 4</u></a></li>
 </ul></div>
 

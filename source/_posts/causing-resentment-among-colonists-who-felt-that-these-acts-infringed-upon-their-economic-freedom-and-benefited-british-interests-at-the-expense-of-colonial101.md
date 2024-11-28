@@ -1,7 +1,7 @@
 ---
 title: Causing Resentment Among Colonists Who Felt that These Acts Infringed upon Their Economic Freedom and Benefited British Interests at the Expense of Colonial Development.
-date: 2024-11-14T17:49:10.987Z
-updated: 2024-11-19T00:46:26.371Z
+date: 2024-11-27T16:03:19.555Z
+updated: 2024-11-28T16:11:18.181Z
 tags:
   - apple
 categories:
@@ -68,6 +68,10 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -87,10 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -108,10 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -136,10 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -168,10 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,19 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-the-art-of-backward-movies-on-snapchat/"><u>[New] In 2024, Mastering the Art of Backward Movies on Snapchat</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-speech-to-text-efficient-conversion-techniques-for-microsoft-word-users/"><u>[New] Speech to Text Efficient Conversion Techniques for Microsoft Word Users</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-complete-users-manual-to-youtube-editing-via-finalcut-pro/"><u>[New] The Complete User's Manual to YouTube Editing via FinalCut Pro</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-from-frame-to-story-vertical-video-editing-guide-for-fcpx-users-on-insta/"><u>[Updated] 2024 Approved From Frame to Story Vertical Video Editing Guide for FCPX Users on Insta</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/hacking-tiktoks-video-pace-efficiently-for-2024/"><u>Hacking TikTok's Video Pace Efficiently for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-redmi-k70-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi Redmi K70 Pro FRP In 3 Different Ways</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-effective-strategies-for-podcast-on-insta-story-and-posts/"><u>In 2024, Effective Strategies for Podcast on Insta Story & Posts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphones-unveiled-deciding-if-the-iphone-13-pro-or-pro-max-is-right-for-you-expert-insights/"><u>IPhones Unveiled: Deciding if the iPhone 13 Pro or Pro Max Is Right for You – Expert Insights</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/731693-9781780990149-living-an-extraordinary-life-in-an-ordinary-reality/"><u>Living an Extraordinary Life in an Ordinary Reality | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secure-your-advance-order-on-iphone-15-and-apple-watch-series-9ultra-2-with-top-savings-insights-from-zdnet/"><u>Secure Your Advance Order on iPhone 15 & Apple Watch Series 9/Ultra 2 with Top Savings - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-3-groundbreaking-iphone-16-innovations-that-will-make-you-rethink-your-next-phone-upgrade-insights-from-zdnet/"><u>Top 3 Groundbreaking iPhone 16 Innovations That Will Make You Rethink Your Next Phone Upgrade - Insights From ZDNet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitters-guide-posting-tiktok-videos/"><u>Twitter's Guide Posting TikTok Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-premium-wireless-charging-devices-of-2024-features-and-reviews-tested-by-professionals-zdnet/"><u>Ultimate Guide to Premium Wireless Charging Devices of 2024 - Features and Reviews Tested by Professionals | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/upgrading-to-iphone-16-pro-or-sticking-with-iphone-14-pro-insights-and-value-comparison/"><u>Upgrading to iPhone 16 Pro or Sticking with iPhone 14 Pro? Insights & Value Comparison</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-mastering-a-standout-linkedin-profile/"><u>[New] 2024 Approved Mastering a Standout LinkedIn Profile</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-uncomplicated-techniques-archiving-your-google-voice-calls/"><u>[New] Uncomplicated Techniques Archiving Your Google Voice Calls</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-master-privacy-unveil-faces-less-clearly/"><u>2024 Approved Master Privacy Unveil Faces Less Clearly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unlock-xbox-gaming-memories-with-these-4-methods/"><u>2024 Approved Unlock Xbox Gaming Memories with These 4 Methods</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/from-download-to-implementation-installing-obs-on-a-macpc/"><u>From Download to Implementation Installing OBS on a MacPC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-4-revolutionizes-ai-making-it-accessible/"><u>GPT-4 Revolutionizes AI, Making It Accessible</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24plus-bootloader-easily-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24+ Bootloader Easily</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ideal-culmination-in-virtual-ventures/"><u>Ideal Culmination in Virtual Ventures</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-integration-how-to-effectively-utilize-chatgpt-and-wolfram-language-in-3-ways/"><u>Innovative Integration: How to Effectively Utilize ChatGPT and Wolfram Language in 3 Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/just-start-chatting-chatgpt-ready/"><u>Just Start Chatting - ChatGPT Ready!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-ai-writing-with-chatgpt-discover-9-key-benefits-for-authors/"><u>Leverage AI Writing with ChatGPT - Discover 9 Key Benefits for Authors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-for-success-how-chatgpt-can-transform-your-proposal-writing-strategy/"><u>Leveraging AI for Success: How ChatGPT Can Transform Your Proposal Writing Strategy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/masterful-resumes-made-easy-with-ai-assistance-from-chatgpt/"><u>Masterful Resumes Made Easy with AI Assistance From ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-job-interviews-a-step-by-step-guide-with-chatgpt/"><u>Mastering Job Interviews: A Step-by-Step Guide with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-mindfulness-using-chatgpt-to-establish-regular-meditation-sessions/"><u>Mastering Mindfulness: Using ChatGPT to Establish Regular Meditation Sessions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/play-like-a-pro-in-nba-2k19-championship-basketball-simulator/"><u>Play Like a Pro in NBA 2K19: Championship Basketball Simulator</u></a></li>
 </ul></div>
 

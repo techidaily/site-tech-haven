@@ -1,7 +1,7 @@
 ---
 title: Protect Privacy by Removing Old Messages From ChatGPT Records
-date: 2024-08-24T12:50:54.512Z
-updated: 2024-08-25T12:50:54.512Z
+date: 2024-11-27T16:02:16.627Z
+updated: 2024-11-28T16:04:46.215Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 
  Most AI chatbots have censorship mechanisms that ensure they do not comply with or answer questions deemed harmful or inappropriate. The censorship of generative AI chatbots can significantly impact your experience and content quality and has long-term implications for general-use artificial intelligence.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Are AI Chatbots Censored?
 
 ![illustration of man wearing a mask with censored on the face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Censored-image.jpg)
@@ -39,24 +43,17 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
  There are other reasons why generative AI chatbots are censored, but these four cover the majority of restrictions.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Censorship Mechanisms in AI Chatbots
 
 ![Gold steel gears](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/what-is-ai-chatbot-censorship-mechanism.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Not all AI chatbots use the same censorship mechanisms. Censorship mechanisms vary depending on the AI chatbot's design and purpose.
 
 * **Keyword Filtering** : This form of censorship aims to program AI chatbots to identify and filter out specific keywords or phrases that certain regulations deem inappropriate or offensive during your conversation.
@@ -68,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
  You'll often find AI chatbots using a combination of the tools above to ensure they don't escape the boundaries of their censorship. A good example is[ChatGPT jailbreak methods](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) that attempt to find ways around OpenAI's limitations on the tool. With time, users break through ChatGPT's censorship and encourage it to answer normally off-limits topics,[create dangerous malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) , or otherwise.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Balance Between Freedom of Speech and Censorship
 
  Balancing freedom of speech and censorship in AI chatbots is a complex issue. Censorship is essential for safeguarding users and complying with regulations. On the other hand, it must never infringe upon the right of people to express ideas and opinions. Striking the right balance is challenging.
@@ -83,37 +81,28 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 ![giant computer array showing ai person being censored from speaking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/giant-computer-array-showing-ai-person-being-censored-from-speaking.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The simple answer is no. While most chatbots have censoring mechanisms, some uncensored ones exist. Content filters or safety guidelines do not restrict them. An example of this chatbot is[FreedomGPT](https://chat.freedomgpt.com/) .
 
  Some publicly available large language models lack censorship. People can use such models to create uncensored chatbots. This risk may raise ethical, legal, and user security concerns.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Why Chatbot Censorship Affects You
 
  While censorship aims to protect you as the user, misusing it can lead to a breach of your privacy or limit your freedom of information. Breaching of privacy can happen when human moderators enforce censorship and during data handling. This is why[checking the privacy policy](https://www.makeuseof.com/spot-bad-privacy-policy/) before using these chatbots is important.
 
  On the other hand, governments and organizations can use censorship as a loophole to ensure the chatbots do not respond to input they deem inappropriate. Or even use them to spread misinformation among citizens or employees.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Evolution of AI in Censorship
 
  AI and chatbot technology continually evolve, leading to sophisticated chatbots with an understanding of context and user intent. A good example is the development of deep learning models like GPT. This significantly increases the accuracy and precision of censorship mechanisms, reducing the number of false positives.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +111,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-the-most-of-your-youtube-watches-gif-magic-for-devices/"><u>[New] 2024 Approved How to Make the Most of Your YouTube Watches GIF Magic for Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-from-sky-to-screen-live-streaming-from-dji-drones-for-2024/"><u>[New] From Sky to Screen Live-Streaming From DJI Drones for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-tricks-of-the-trade-for-instagram-video-preservation/"><u>[New] In 2024, Tricks of the Trade for Instagram Video Preservation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-google-meet-easy-backdrop-swap-for-pc-and-phones/"><u>[New] Mastering Google Meet Easy Backdrop Swap for PC & Phones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-how-to-banish-spotifys-recommended-podcasts/"><u>[Updated] 2024 Approved How to Banish Spotify's Recommended Podcasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-seamless-video-to-photo-conversion-for-windows-users-for-2024/"><u>[Updated] Seamless Video-to-Photo Conversion for Windows Users for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/deutsche-bank-ag/"><u>Deutsche Bank AG</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/facetune-photos-app-complete-review-and-guide-for-2024/"><u>Facetune Photos App Complete Review and Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722206995069-get-started-with-gpt4all-a-cost-free-localized-chatgpt-cloning-for-your-pc/"><u>Get Started with GPT4All - A Cost-Free, Localized ChatGPT Cloning for Your PC!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/peak-summit-in-virtual-landscapes/"><u>Peak Summit in Virtual Landscapes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/smartwatch-face-off-which-newcomer-takes-the-crown-comparing-google-pixel-watch-2-and-apple-watch-series-9-for-tech-enthusiasts-zdnet-insights/"><u>Smartwatch Face-Off: Which Newcomer Takes the Crown - Comparing Google Pixel Watch 2 and Apple Watch Series 9 for Tech Enthusiasts | ZDNet Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722011194526-try-out-these-6-free-generative-pre-trained-transformer-replacements-today/"><u>Try Out These 6 Free Generative Pre-Trained Transformer Replacements Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721919485759-twitters-without-smiles-linuss-leaked-knowledge-trojan-deconstruction-and-gpt-shortcomings-explored/"><u>Twitters Without Smiles, Linus’s Leaked Knowledge, Trojan Deconstruction, & GPT Shortcomings Explored.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-hugging-face-exploring-its-purpose-and-applications/"><u>Unveiling the Power of Hugging Face: Exploring Its Purpose & Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-what-chatgpt-enterprise-has-to-offer-compared-to-standard-models/"><u>Unveiling What ChatGPT Enterprise Has to Offer Compared to Standard Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/using-chatgpt-for-emotional-support-and-reducing-isolation/"><u>Using ChatGPT for Emotional Support and Reducing Isolation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-cant-you-break-out-7-reasons-behind-the-security-fortitude-against-ai-jailbreaking/"><u>Why Can't You Break Out? 7 Reasons Behind the Security Fortitude Against AI Jailbreaking</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/writers-vs-chatbots-the-intangible-edge-argument/"><u>Writers vs Chatbots: The Intangible Edge Argument</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/your-guide-to-understanding-and-using-claude-3/"><u>Your Guide to Understanding and Using Claude 3</u></a></li>
+</ul></div>
 

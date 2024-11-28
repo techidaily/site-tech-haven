@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Offer: Get the New Apple Pencil (2Nd Generation) at a Steep Discount - Only $95 This Labor Day! Shop Now on ZDNet"
-date: 2024-11-14T23:24:39.922Z
-updated: 2024-11-18T23:44:06.609Z
+date: 2024-11-25T16:10:03.426Z
+updated: 2024-11-28T16:00:05.465Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ The Apple Pencil is super responsive and has pixel-perfect precision with indust
 By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model), you'll get exclusive features like the new hover feature that makes part of the iPad's interface come to life when the tip of the Apple Pencil gets within 12mm of the iPad's display. 
 
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -67,29 +71,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-of-the-best-10-timeless-family-vacation-films/"><u>[New] 2024 Approved Best of the Best 10 Timeless Family Vacation Films</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-takes-best-camcorders-for-video/"><u>[New] Expert Takes Best Camcorders for Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premium-commercial-sky-data-haven/"><u>[New] Premium Commercial Sky Data Haven</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-cutting-edge-fullscreen-capture-programs/"><u>[Updated] 2024 Approved Cutting-Edge Fullscreen Capture Programs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-ignores-iphone-protection-are-consumers-hearing-the-message/"><u>Apple Ignores iPhone Protection: Are Consumers Hearing the Message?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-visionary-leap-introducing-camera-equipped-airpods-slated-for-2026-release/"><u>Apple's Visionary Leap: Introducing Camera-Equipped AirPods Slated for 2026 Release</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bridging-the-divide-top-four-ai-innovations-apple-must-embrace-to-compete-with-android-devices/"><u>Bridging the Divide: Top Four AI Innovations Apple Must Embrace to Compete with Android Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-the-upcoming-apple-watch-series-10-track-your-blood-pressure-accurately-insights/"><u>Can the Upcoming Apple Watch Series 10 Track Your Blood Pressure Accurately? Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-windows-11-geforce-x0001-hiccup/"><u>Eradicating Windows 11 GeForce X0001 Hiccup</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/groundbreaking-screenplays-in-8-movie-categories-for-2024/"><u>Groundbreaking Screenplays in 8 Movie Categories for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-apples-hidden-ipad-pro-sale-makes-this-prime-day-historic-exclusive-analysis-by-zdnet/"><u>How Apple's Hidden iPad Pro Sale Makes This Prime Day Historic - Exclusive Analysis by ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-screen-record-on-xiaomi-11t-mi-11mi-11-lite-for-2024/"><u>How to Screen Record on Xiaomi 11T/ Mi 11/Mi 11 Lite for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-apple-devices-to-avoid-purchasing-at-this-moment-insights-from-zdnet/"><u>Top 4 Apple Devices To Avoid Purchasing at This Moment: Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-list-of-iphone-1616-pro-sleeves-and-shields-in-202er-expert-reviews-and-comparisons/"><u>Ultimate List of iPhone 16/16 Pro Sleeves and Shields in 202Er: Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-the-full-potential-of-your-iphone-expert-tips-on-mastering-secret-siri-shortcuts-techsavvy/"><u>Unleash the Full Potential of Your iPhone: Expert Tips on Mastering Secret Siri Shortcuts | TechSavvy</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-top-10-elite-sites-for-high-res-vectors/"><u>[New] 2024 Approved Top 10 Elite Sites For High-Res Vectors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-diving-into-digital-delights-facebook-video-repository/"><u>[Updated] In 2024, Diving Into Digital Delights Facebook Video Repository</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/achieve-job-targets-6-creative-chatgpt-applications/"><u>Achieve Job Targets: 6 Creative ChatGPT Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-the-trap-6-frequent-mistakes-in-formulating-your-chatgpt-questions/"><u>Avoid the Trap: 6 Frequent Mistakes in Formulating Your ChatGPT Questions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-the-fraudulent-chatgpt-extension-for-chrome-that-steals-facebook-account-logins/"><u>Beware the Fraudulent ChatGPT Extension for Chrome that Steals Facebook Account Logins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-dialogue-advanced-generative-systems/"><u>Beyond Dialogue: Advanced Generative Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-efficiency-and-accuracy-leveraging-bings-ai-on-android-devices/"><u>Boosting Efficiency and Accuracy: Leveraging Bing's AI on Android Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-rely-on-chatgpt-for-accurate-math-solutions/"><u>Can You Rely on ChatGPT for Accurate Math Solutions?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-tecno-spark-20c-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Tecno Spark 20C Phone Hassle-Free</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-transforms-education-landscape-connecting-70plus-million-people/"><u>Mondly Transforms Education Landscape, Connecting 70+ Million People</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-routine-how-chatgpt-can-transform-your-life-experience/"><u>Revolutionize Your Routine: How ChatGPT Can Transform Your Life Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/social-media-sensation-tiktoks-top-10-per-share/"><u>Social Media Sensation TikTok's Top 10 Per Share</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/triumphant-comeback-trump-in-the-digital-age/"><u>Triumphant Comeback: Trump in the Digital Age</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

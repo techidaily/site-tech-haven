@@ -1,7 +1,7 @@
 ---
 title: "Poetic Creations Simplified: Leveraging ChatGPT for Innovative Poems"
-date: 2024-08-24T12:51:02.452Z
-updated: 2024-08-25T12:51:02.452Z
+date: 2024-11-21T16:02:19.573Z
+updated: 2024-11-28T16:00:33.932Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The [ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to [totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
  The Bing app has a whole new look, and perhaps the most interesting part is that it now supports voice to help make your prompts and searches even more intuitive.
@@ -38,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
  You get started by tapping the Bing icon at the bottom of the screen to begin a chat session. Your responses come in the form of text, bullet points, or simple replies, and you can use it for more than just search.[Microsoft suggests](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/) you might use it to write emails or poems, for example.
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Skype Gets AI Features
 
@@ -48,9 +60,9 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to [join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -62,8 +74,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -78,8 +91,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,4 +98,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-professional-stream-techniques-for-high-res-fb-views-for-2024/"><u>[New] Professional Stream Techniques for High-Res FB Views for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-spotting-the-top-10-discreet-instagram-story-followers/"><u>[Updated] 2024 Approved Spotting the Top 10 Discreet Instagram Story Followers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertise-in-covert-sound-suppression-with-audacity/"><u>[Updated] Expertise in Covert Sound Suppression with Audacity</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-create-a-youtube-account/"><u>[Updated] In 2024, How to Create a YouTube Account</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/av1-decoded-for-starters-for-2024/"><u>AV1 Decoded for Starters for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-replies-from-chatgpt-vary-in-size-and-count/"><u>Can Replies From ChatGPT Vary in Size and Count?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-unleashed-10-innovative-modifications-revealed/"><u>ChatGPT Unleashed: 10 Innovative Modifications Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-the-key-to-simplified-web-application-creation-for-beginners/"><u>ChatGPT: The Key to Simplified Web Application Creation for Beginners</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-gpt-4-gpt-4-turbo-and-gpt-4o-unveiling-key-distinctions/"><u>Comparing GPT-4, GPT-4 Turbo, and GPT-4o: Unveiling Key Distinctions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-language-tools-chatgpt-vs-google-translate-who-wins-the-battle-of-accuracy/"><u>Comparing Language Tools: ChatGPT Vs. Google Translate – Who Wins the Battle of Accuracy?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-ai-strategies-7-proven-tips-unveiled/"><u>Cutting-Edge AI Strategies: 7 Proven Tips Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cybersecurity-threats-how-ai-contributes-to-crime-in-5-ways/"><u>Cybersecurity Threats: How AI Contributes to Crime in 5 Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-superiority-how-does-llama-3-stack-up-against-gpt-4/"><u>Decoding Superiority - How Does Llama 3 Stack Up Against GPT-4?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fixing-connectivity-and-output-issues-with-hp-deskjet-win11/"><u>Fixing Connectivity & Output Issues with HP Deskjet (Win11)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-commercial-viability-of-creative-video-content/"><u>In 2024, The Commercial Viability of Creative Video Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/initial-steps-creating-a-new-twitter-identity-for-2024/"><u>Initial Steps Creating a New Twitter Identity for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-sharing-showdown-comparing-streamers-strengths-vimeo-youtube-and-dailymotion-for-2024/"><u>Video Sharing Showdown Comparing Streamers' Strengths Vimeo, YouTube & Dailymotion for 2024</u></a></li>
+</ul></div>
 

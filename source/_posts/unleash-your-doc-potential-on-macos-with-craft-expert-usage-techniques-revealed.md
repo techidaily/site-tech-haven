@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Doc Potential on macOS with Craft: Expert Usage Techniques Revealed"
-date: 2024-11-16T23:34:29.215Z
-updated: 2024-11-19T00:15:55.323Z
+date: 2024-11-22T16:01:50.161Z
+updated: 2024-11-28T16:10:30.640Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ But then something sort of magical happened -- I started using the app. Once I u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Craft?
 
 According to the official website, Craft is built for digital devices from the ground up and brings the joy back to writing.   
@@ -36,10 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,18 +129,17 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-dimming-dynamics-stepwise-sound-dissipation-in-adobe-premiere-for-2024/"><u>[New] Dimming Dynamics Stepwise Sound Dissipation in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-how-to-add-logowatermark-to-youtube-video/"><u>[New] In 2024, How to Add Logo/Watermark to YouTube Video</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/affordable-and-eco-friendly-choices-the-finest-non-apple-rechargeable-airtags-for-your-belongings/"><u>Affordable & Eco-Friendly Choices: The Finest Non-Apple Rechargeable AirTags for Your Belongings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-apple-watchs-endurance-top-8-settings-tweaks-that-enhance-battery-performance-insights/"><u>Boost Your Apple Watch's Endurance: Top 8 Settings Tweaks That Enhance Battery Performance - Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/classic-refresh-a-modern-take-on-windows-98-vibe/"><u>Classic Refresh: A Modern Take on Windows 98 Vibe</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortlessly-power-and-cool-your-apple-gadgets-with-our-3-in-1-magsafe-charging-station-explore/"><u>Effortlessly Power and Cool Your Apple Gadgets with Our 3-in-1 MagSafe Charging Station - Explore</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-windows-crashing-with-rtwlanesys-a-comprehensive-guide/"><u>How to Stop Windows Crashing with 'rtwlane.sys': A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/in-depth-look-at-apples-new-ai-powered-m3-macbook-air-tech-for-everyone-has-finally-arrived/"><u>In-Depth Look at Apple's New AI-Powered M3 MacBook Air: Tech for Everyone Has Finally Arrived</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/stay-powered-and-cooled-the-ultimate-3-in-1-magsafe-dock-for-all-your-apple-gadgets-explore/"><u>Stay Powered and Cooled: The Ultimate 3-in-1 MagSafe Dock for All Your Apple Gadgets - Explore</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/syncing-your-icloud-notes-with-linux-systems-a-comprehensive-guide/"><u>Syncing Your iCloud Notes with Linux Systems: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/troubleshooting-tips-for-flawless-video-viewing-eliminating-error-code-0xc00d36c4/"><u>Troubleshooting Tips for Flawless Video Viewing – Eliminating Error Code 0xC00D36C4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-distinctions-siri-vs-chatgpt-unveiled/"><u>Understanding the Distinctions: Siri Vs. ChatGPT Unveiled</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-power-of-ai-thumbnail-generators/"><u>Updated 2024 Approved Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-make-free-intros-for-youtube-plustemplates/"><u>[New] In 2024, How to Make Free Intros for YouTube? [+Templates]</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamline-your-gameplay-win10-screen-record-tech/"><u>[New] In 2024, Streamline Your Gameplay Win10 Screen Record Tech</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-disseminating-data-driven-insights-you-vs-others-on-video-markets/"><u>[Updated] 2024 Approved Disseminating Data-Driven Insights You Vs. Others on Video Markets</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-list-top-10-high-res-4k-cameras-in-smartphones/"><u>[Updated] Ultimate List Top 10 High-Res 4K Cameras in Smartphones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-criteria-preparing-chatgpt-as-a-mental-wellness-aid/"><u>6 Criteria: Preparing ChatGPT as a Mental Wellness Aid</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-critical-errors-to-evade-in-chatai-engagements/"><u>6 Critical Errors to Evade in ChatAI Engagements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721957480697-free-gpt-4-for-all-plus-still-provides-an-exclusive-set-of-6-premium-features/"><u>Free GPT-4 for All! Plus Still Provides an Exclusive Set of 6 Premium Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722208516904-harnessing-the-potential-of-chatgpt-developing-interactive-narratives-for-text-based-rpg-enthusiasts/"><u>Harnessing the Potential of ChatGPT: Developing Interactive Narratives for Text-Based RPG Enthusiasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/maximizing-quality-in-ppt-recordings/"><u>Maximizing Quality in PPT Recordings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ons-watch-but-how-much-do-they-earn-in-2024/"><u>Millions Watch, But How Much Do They Earn, In 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/play-for-free-the-top-10-game-download-sites-you-need-to-know-pc-android-2024/"><u>Play for Free The Top 10 Game Download Sites You Need to Know PC, Android, 2024</u></a></li>
 </ul></div>
 

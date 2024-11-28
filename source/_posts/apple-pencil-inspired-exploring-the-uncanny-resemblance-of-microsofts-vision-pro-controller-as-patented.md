@@ -1,7 +1,7 @@
 ---
 title: Apple Pencil Inspired? Exploring the Uncanny Resemblance of Microsoft's Vision Pro Controller as Patented
-date: 2024-11-15T00:10:27.464Z
-updated: 2024-11-19T00:31:24.735Z
+date: 2024-11-26T16:03:23.164Z
+updated: 2024-11-28T16:00:25.547Z
 tags:
   - apple
 categories:
@@ -75,25 +75,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-the-blueprint-for-successful-individual-podcasts/"><u>[Updated] The Blueprint for Successful Individual Podcasts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-efficient-facebook-video-upload-on-computer-and-mobile-systems/"><u>2024 Approved Efficient Facebook Video Upload on Computer & Mobile Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-split-between-panoramic-and-virtual-realities/"><u>2024 Approved The Split Between Panoramic & Virtual Realities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dare-to-innovate-with-claude-3-the-top-4-reasons-to-switch-up/"><u>Dare to Innovate with Claude 3: The Top 4 Reasons to Switch Up</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-tips-for-freelancers-mastering-chatgpt-for-content-creation-success/"><u>Essential Tips for Freelancers: Mastering ChatGPT for Content Creation Success</u></a></li>
-<li><a href="https://facebook.techidaily.com/experiential-rollout-of-meta-drops-to-instagram-and-fb-fans/"><u>Experiential Rollout of Meta Drops to Instagram & FB Fans</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/historical-insights-pinpointing-when-artificial-neural-networks-came-to-be/"><u>Historical Insights: Pinpointing When Artificial Neural Networks Came to Be</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-precision-in-reducing-image-size-the-essential-guide-to-thumbnails/"><u>In 2024, Precision in Reducing Image Size The Essential Guide to Thumbnails</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-look-highlights-and-missing-links-from-applee-fast-and-furious-tech-event-a-detailed-analysis-zdnet/"><u>Inside Look: Highlights and Missing Links From Apple'e 'Fast & Furious Tech' Event – A Detailed Analysis | ZDNET</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/maximize-engagement-uploading-and-posting-funny-gifs-on-instagram-easy-guide-for-2024/"><u>Maximize Engagement Uploading & Posting Funny GIFs on Instagram (Easy Guide) for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-integrating-codegpt-into-your-visual-studio-code/"><u>Step-by-Step Guide: Integrating CodeGPT Into Your Visual Studio Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/take-your-chatgpt-skills-further-unleashing-power-through-5-lesser-known-attributes/"><u>Take Your ChatGPT Skills Further: Unleashing Power Through 5 Lesser-Known Attributes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-data-analysis-with-chatgpt-uncover-these-six-insightsful-techniques/"><u>Transforming Data Analysis with ChatGPT: Uncover These Six Insightsful Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-switch-showdown-top-10-arcade-combat-classics-for-2024/"><u>[New] Switch Showdown Top 10 Arcade Combat Classics for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-direct-conversation-on-snapchat-follow-these-steps-for-2024/"><u>[New] Unlocking Direct Conversation on Snapchat - Follow These Steps for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-pictolaugh-design-humor-graphics/"><u>[Updated] In 2024, PictoLaugh Design Humor Graphics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-framing-character-arcs-on-screen/"><u>2024 Approved Framing Character Arcs on Screen</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-going-against-gravity-innovative-ways-to-rewind-youtube-content/"><u>2024 Approved Going Against Gravity Innovative Ways to Rewind YouTube Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-students-guide-utilizing-chatgpt-in-educational-settings-5-key-methods/"><u>A Student's Guide: Utilizing ChatGPT in Educational Settings (5 Key Methods)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/depicting-epic-journeys-using-ai-tools-to-formulate-dandd-heroes/"><u>Depicting Epic Journeys: Using AI Tools to Formulate D&D Heroes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-functionality-of-chatgpt-shared-links/"><u>Exploring the Functionality of ChatGPT Shared Links</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-potential-of-chatgpt-in-developing-cybersecurity-threats-fact-or-fiction/"><u>Exploring the Potential of ChatGPT in Developing Cybersecurity Threats: Fact or Fiction?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-reasons-for-heightened-ai-control-advocacy-by-openais-ceo-what-you-need-to-know/"><u>Exploring the Reasons for Heightened AI Control Advocacy by OpenAI's CEO – What You Need to Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-keyboard-to-genius-mode-automating-your-document-writing-with-chatgpt-and-word/"><u>From Keyboard to Genius Mode: Automating Your Document Writing with ChatGPT & Word</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-assisted-storytelling-9-essential-guides-for-novelists/"><u>GPT-Assisted Storytelling: 9 Essential Guides for Novelists</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-leverage-chatgpt-within-whatsapp-for-superior-customer-assistance/"><u>How to Leverage ChatGPT Within WhatsApp for Superior Customer Assistance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-essential-writing-habits-for-successful-fb-campaigns/"><u>In 2024, Essential Writing Habits for Successful FB Campaigns</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-chatgpt-enterprise-what-sets-it-apart-from-standard-models/"><u>Inside ChatGPT Enterprise: What Sets It Apart From Standard Models?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/interactive-playscapes-and-the-rise-of-ai-generated-games/"><u>Interactive Playscapes and the Rise of AI-Generated Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpts-intelligence-for-a-dream-job-breakthrough/"><u>Leveraging ChatGPT's Intelligence for a Dream Job Breakthrough</u></a></li>
+<li><a href="https://win-best.techidaily.com/top-solutions-dusmt-pour-une-migration-sans-probleme-des-profils-et-parametres-utilisateurs/"><u>Top Solutions D'USMT Pour Une Migration Sans Problème Des Profils Et Paramètres Utilisateurs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/zeroing-in-on-audio-quality-achievable-sans-mic-for-2024/"><u>Zeroing in on Audio Quality Achievable Sans Mic for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

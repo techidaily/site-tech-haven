@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices To Avoid Purchasing at This Moment: Insights From ZDNet"
-date: 2024-11-14T20:13:48.516Z
-updated: 2024-11-18T18:56:25.977Z
+date: 2024-11-26T16:13:44.837Z
+updated: 2024-11-28T16:02:19.638Z
 tags:
   - apple
 categories:
@@ -57,6 +57,10 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The 'Nice' list**
 
 ### **Apple iPhone 16**
@@ -66,13 +70,6 @@ iPhone 16
 Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
 
@@ -97,16 +94,7 @@ Along with the updated processor, this MacBook Air can also power two external m
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple Vision Pro**
@@ -123,6 +111,10 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Apple 14-inch and 16-inch MacBook Pro**
 
 This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M3 to the [insanely powerful M3 Max](https://www.zdnet.com/article/apples-m3-m3-pro-and-m3-max-chipsets-everything-you-should-know-before-buying/). Here are the specs:
@@ -138,6 +130,10 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -152,19 +148,6 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -188,10 +171,7 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple AirTag**
@@ -234,20 +214,18 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/apple-pencil-inspired-vision-pro-controller-unveiled-in-latest-patent-reveal-insights/"><u>Apple Pencil Inspired Vision Pro Controller Unveiled in Latest Patent Reveal - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/esr-unveils-latest-qi2-magsafe-charging-series-rapidly-power-up-your-iphone-16-seamlessly-and-cooler-the-innovative-cryoboost-technology-explained/"><u>ESR Unveils Latest Qi2 MagSafe Charging Series: Rapidly Power Up Your iPhone 16, Seamlessly & Cooler – The Innovative CryoBoost Technology Explained</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211352286-9791223001431-estrelas-e-personalidades/"><u>Estrelas e Personalidades | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-black-screen-issue/"><u>How to Fix Windows 11 Black Screen Issue</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-honor-magic-6-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Honor Magic 6? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 12R</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-livestreaming-pre-recorded-content-on-facebook-platform/"><u>In 2024, Livestreaming Pre-Recorded Content on Facebook Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/insights-into-apples-future-ai-enhancements-teased-with-recent-strategic-purchase/"><u>Insights Into Apple's Future: AI Enhancements Teased with Recent Strategic Purchase</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ios-ipados-and-macos-get-set-to-integrate-chatgpt-through-apples-collaboration-with-microsoft-backed-ai-pioneer-openai/"><u>IOS, iPadOS & MacOS Get Set to Integrate ChatGPT Through Apple's Collaboration with Microsoft-Backed AI Pioneer OpenAI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-ios-with-sight-alone-explore-how-apples-latest-accessibility-innovations-empower-users-to-command-iphones-and-ipads-using-their-gaze-insights/"><u>Navigating iOS with Sight Alone: Explore How Apple's Latest Accessibility Innovations Empower Users to Command iPhones and iPads Using Their Gaze | Insights</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-vivo-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Vivo</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-iphone-16-charging-experience-with-the-new-esr-qi2-magsafe-charger-cooler-and-quicker-than-ever-zdnet/"><u>Revolutionize Your iPhone 16 Charging Experience with the New ESR Qi2 MagSafe Charger – Cooler and Quicker than Ever | ZDNET</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-8-best-video-converter-on-iphonedesktop/"><u>Top 8 Best Video Converter on iPhone/Desktop</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zdnets-ultimate-guide-to-essential-applications-and-tools-for-pc-and-mac-enthusiasts/"><u>ZDNet's Ultimate Guide to Essential Applications and Tools for PC and Mac Enthusiasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-basic-scan-capture-program-windows-10/"><u>[New] In 2024, Basic Scan-Capture Program - Windows 10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-find-anything-you-want-to-know-about-instagram-video-limit/"><u>[Updated] 2024 Approved Find Anything You Want to Know About Instagram Video Limit</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-maximize-gameplay-efficiency-with-top-monitor-extensions/"><u>2024 Approved Maximize Gameplay Efficiency With Top Monitor Extensions</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/6dvd/"><u>6効果的な手段でDVD画質向上 - 優れた体験が保証される方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bypassing-the-chatgpt-bodystream-error-a-guide-to-7-proven-methods/"><u>Bypassing the ChatGPT BodyStream Error: A Guide to 7 Proven Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-trust-chatgpt-with-your-secrets-investigating-privacy-safeguards/"><u>Can You Trust ChatGPT with Your Secrets? Investigating Privacy Safeguards</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/code-masters-clash-determining-if-gemini-can-surpass-chatgpt-in-programming-excellence/"><u>Code Masters Clash: Determining if Gemini Can Surpass ChatGPT in Programming Excellence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/command-line-control-of-chatgpt-bash-and-shellgpt-synergy/"><u>Command-Line Control of ChatGPT: Bash & ShellGPT Synergy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-epic-dandd-personas-with-ai-tips-on-using-chatgpt-and-dall-e/"><u>Crafting Epic D&D Personas with AI: Tips on Using ChatGPT & DALL-E</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-stunning-visuals-integrating-dall-e-and-chatgpt-4-for-advanced-imagery/"><u>Crafting Stunning Visuals: Integrating DALL-E and ChatGPT-4 for Advanced Imagery</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-v29e-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo V29e to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-motorola-moto-g04-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Motorola Moto G04 Location | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/jovial-jamboree-accessing-comic-crafts-for-free/"><u>Jovial Jamboree Accessing Comic Crafts for Free</u></a></li>
 </ul></div>
 

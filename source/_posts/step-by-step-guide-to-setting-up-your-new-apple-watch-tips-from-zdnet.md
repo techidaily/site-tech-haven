@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Setting Up Your New Apple Watch - Tips From ZDNet
-date: 2024-11-17T00:05:16.421Z
-updated: 2024-11-18T17:32:20.184Z
+date: 2024-11-27T16:07:17.475Z
+updated: 2024-11-28T16:05:54.613Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Well, my [AirPods Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to clean and sanitize your AirPods
 
 Note that while I'm cleaning AirPods Pro here, the process is similar for the standard AirPods. Apple also offers an official guide on [how to clean AirPods](https://support.apple.com/en-us/102672), but below is a more in-depth breakdown of how to get the most gunk out of your earbuds.
@@ -49,13 +53,6 @@ I've come across people who use isopropyl alcohol for cleaning but I'm reluctant
 
 These [lens wipes](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00GL64QG6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdd095f53-e313-40a1-a736-c0a63a5b1d8d%7Cdtp&dtb=1) are inexpensive and only contain 40-50% alcohol, so they're less abrasive and fit for cleaning glasses, camera lenses, screens, and, in this case, AirPods.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Assess the damage
 
 First, I assessed just how bad things are. My second-generation AirPods Pro are about a year old. Despite a lot of use, they look quite new. The charging case lives inside another protective case -- one from ESR -- and apart from being dirty, looks like new.
@@ -73,10 +70,7 @@ A little bit of dirt in the charge port
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Clean the case
@@ -90,6 +84,10 @@ However, it's nothing that a lens wipe and a Q-tip can't solve. I will wrap a le
 The Q-tip was particularly handy for cleaning around the charge connectors, however, be careful, because you don't want to break the delicate connectors, because if you do that, you'll be buying a new charge case.
 
 Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Clean the AirPods
 
@@ -106,10 +104,7 @@ Cleaning the silicone earbud tip.
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Clean the charge port
@@ -132,6 +127,10 @@ Mostly clean, but a lot more hygienic.
 
 Adrian Kingsley-Hughes/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ## Why do you use lens wipes?
@@ -141,13 +140,6 @@ I use lens wipes because they are lint-free, use a tiny amount of cleaning fluid
 ## How often should you clean your AirPods?
 
 It really depends. Probably every few months would help to keep the AirPods looking fresh. However, It's probably been over a year since I cleaned my AirPods Pro case, so to each their own.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why do my AirPods sound muffled?
 
@@ -189,19 +181,24 @@ The same goes for household cleaners and isopropyl alcohol. You should also neve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-a-deep-dive-into-metaverse-gear-top-8-recommendations/"><u>[New] A Deep Dive Into Metaverse Gear Top 8 Recommendations</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-mastering-ppt-recording-essential-tips-for-2024/"><u>[New] Mastering PPT Recording Essential Tips for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-selective-selection-best-bands-for-ringtones/"><u>[New] Selective Selection Best Bands for Ringtones</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-chorus-companion-selecting-scores-for-clips/"><u>[Updated] Chorus Companion Selecting Scores for Clips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fitness-meets-tech-discover-how-the-new-airpods-pro-track-your-workout-heart-rate-insights/"><u>Fitness Meets Tech: Discover How the New AirPods Pro Track Your Workout Heart Rate - Insights</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebooks-most-popular-video-gems-uncovered/"><u>In 2024, Facebook's Most Popular Video Gems Uncovered</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-xiaomi-13t-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Xiaomi 13T Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-a-steady-surface-pro-screen-tips-to-tame-flicker-and-shakes/"><u>Mastering the Art of a Steady Surface Pro Screen - Tips to Tame Flicker & Shakes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/prepare-to-power-up-your-apple-devices-top-anker-chargers-reviewed-by-zdnets-experts/"><u>Prepare to Power Up Your Apple Devices: Top Anker Chargers Reviewed by ZDNet's Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1727785718828-seamless-transfer-of-images-from-google-photos-to-icloud-a-simple-guide/"><u>Seamless Transfer of Images From Google Photos to iCloud – A Simple Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-choices-for-uncertain-occasions-finding-the-ideal-token-of-appreciation/"><u>Top Choices for Uncertain Occasions: Finding the Ideal Token of Appreciation</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unnoticed-consumers-of-fb-stories/"><u>Unnoticed Consumers of Fb Stories</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/upcoming-release-a-complete-guide-on-when-and-how-to-secure-your-pair-of-latest-airpods-insights-from-zdnet/"><u>Upcoming Release: A Complete Guide on When & How to Secure Your Pair of Latest AirPods - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-prominent-applications-wont-make-it-to-the-apple-vision-pro-lineup-discover-now/"><u>Which Prominent Applications Won't Make It to the Apple Vision Pro Lineup – Discover Now</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-selection-of-mp4-devices/"><u>[New] Premium Selection of MP4 Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-top-shots-premium-video-cams-for-slow-motion-magic/"><u>[New] Top Shots Premium Video Cams for Slow-Motion Magic</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-becoming-a-metaverse-veteran-top-7-gadgets-for-the-experts/"><u>[Updated] Becoming a Metaverse Veteran Top 7 Gadgets for the Experts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-zero-cost-maximum-impact-mastering-your-characters-voice-in-free-fire-gameplay-for-2024/"><u>[Updated] Zero Cost, Maximum Impact Mastering Your Character's Voice in Free Fire Gameplay for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-enhanced-image-quality-with-midjourney-v5-say-goodbye-to-frustrating-mishaps/"><u>1. Enhanced Image Quality with MidJourney v5: Say Goodbye to Frustrating Mishaps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-redefined-essential-updates-in-gpts-latest-release/"><u>AI Redefined: Essential Updates in GPT's Latest Release</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/battle-of-the-brains-discovering-differences-between-snapchat-my-ai-and-microsofts-bing-chat-in-skype/"><u>Battle of the Brains: Discovering Differences Between Snapchat My AI & Microsoft's Bing Chat in Skype</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bert-vs-gpt-unraveling-key-differences-in-advanced-language-processing-techniques/"><u>BERT Vs. GPT: Unraveling Key Differences in Advanced Language Processing Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-ordinary-how-perplexity-ai-redefines-google-search-mastery-for-the-avant-garde-seeker/"><u>Beyond Ordinary: How Perplexity AI Redefines Google Search Mastery for the Avant-Garde Seeker</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bid-farewell-to-lost-chats-securing-archives/"><u>Bid Farewell to Lost Chats: Securing Archives</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bypassing-the-500-word-cap-with-chatgpt/"><u>Bypassing the 500-Word Cap with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-in-minutes/"><u>ChatGPT Mastery in Minutes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-top-ai-assistant-claude-vs-chatgpt-for-daily-use/"><u>Choosing the Top AI Assistant: Claude Vs. ChatGPT for Daily Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparative-analysis-llama-3-against-gpt-n4-the-ultimate-verdict/"><u>Comparative Analysis: Llama 3 Against GPT-N4 - The Ultimate Verdict</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-windows-camera-error-code-0xa00f4292/"><u>How to Resolve the Windows Camera Error (Code 0Xa00f4292)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-multiple-tasks-with-chatgpt-from-learning-board-games-to-image-creation/"><u>Mastering Multiple Tasks with ChatGPT: From Learning Board Games to Image Creation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nto-endless-stock-imagery-through-favorite-4-youtube-vids/"><u>Tap Into Endless Stock Imagery Through Favorite 4 Youtube Vids</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-80s-films-you-must-see-immediately/"><u>Top 8 '80S Films You Must See Immediately</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-to-rtx-is-your-system-ready-for-enhanced-performance/"><u>Upgrading to RTX: Is Your System Ready for Enhanced Performance?</u></a></li>
 </ul></div>
 

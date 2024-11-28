@@ -1,7 +1,7 @@
 ---
 title: "Crafting an Impressive Resume with ChatGPT: A Step-by-Step Guide"
-date: 2024-08-24T12:49:41.253Z
-updated: 2024-08-25T12:49:41.253Z
+date: 2024-11-23T16:01:11.293Z
+updated: 2024-11-28T16:04:07.847Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,23 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-techniques-for-next-level-lut-creation/"><u>[Updated] Innovative Techniques for Next-Level LUT Creation</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1-transforming-your-documents-into-interactive-pdf-books-with-easy-to-use-templates-a-guide-using-flipbook/"><u>1) Transforming Your Documents Into Interactive PDF Books with Easy-to-Use Templates: A Guide Using FlipBook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-get-crystal-clear-iphone-photos-with-our-free-red-eye-toolkit/"><u>2024 Approved Get Crystal Clear iPhone Photos with Our Free Red-Eye Toolkit</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-ideas-to-delivery-creating-presentations-with-chatgpt/"><u>From Ideas to Delivery: Creating Presentations with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpts-secret-arsenal-5-features-underutilized-by-most-users/"><u>GPT's Secret Arsenal: 5 Features Underutilized by Most Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-text-based-models-for-universe-creation/"><u>Harnessing Text-Based Models for Universe Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-achieved-record-breaking-growth-exploring-its-five-key-drivers/"><u>How ChatGPT Achieved Record-Breaking Growth: Exploring Its Five Key Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-is-redefining-the-approach-to-writing-student-papers/"><u>How ChatGPT Is Redefining the Approach to Writing Student Papers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-create-a-bespoke-conversational-agent-with-your-own-data-insights/"><u>How to Create a Bespoke Conversational Agent with Your Own Data Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-enable-chatgpt-for-effortless-pdf-content-extraction-4-proven-strategies/"><u>How to Enable ChatGPT for Effortless PDF Content Extraction: 4 Proven Strategies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-lava-yuva-2-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Lava Yuva 2</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-schedule-meetings-on-zoom-webdesktopmobile/"><u>How to Schedule Meetings on Zoom [Web/Desktop/Mobile]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-modern-electronics-by-toms-expertise/"><u>In-Depth Analysis of Modern Electronics by Tom's Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prologue-to-productivity-starting-windows-and-stickies-together/"><u>Prologue to Productivity: Starting Windows & Stickies Together</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-users-the-gains-from-dxvk-adoption/"><u>Windows Users - The Gains From DXVK Adoption</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

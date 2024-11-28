@@ -1,7 +1,7 @@
 ---
 title: Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them?
-date: 2024-11-13T02:00:51.481Z
-updated: 2024-11-18T17:33:45.746Z
+date: 2024-11-26T16:16:53.730Z
+updated: 2024-11-28T16:01:05.774Z
 tags:
   - apple
 categories:
@@ -58,16 +58,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check if your iPad or Mac has a Thread radio
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Find your device's model number or FCC ID
 
@@ -77,6 +74,10 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Access the Apple FCC database
 
 You can access the Apple FCC database by clicking [FCC.Report/company/Apple](https://fcc.report/company/apple). This will bring up a complete list of the company's FCC reports, from the first one in 1981 through today.
@@ -84,13 +85,6 @@ You can access the Apple FCC database by clicking [FCC.Report/company/Apple](htt
 ## 3\. Search for your device's model number or FCC ID
 
 Search for your device's model number or FCC ID by performing a quick **Find** using _Ctrl F_ or _cmd F_.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Click on the device's report
 
@@ -104,13 +98,6 @@ Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the
 
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## What is Thread?
@@ -122,10 +109,7 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Thread border router?
@@ -144,6 +128,10 @@ Thread creates a self-healing mesh network, so having more border routers in a s
 
 For example, if you have a Thread smart lock and temperature sensor and a Wi-Fi smart thermostat, a Thread border router like the HomePod mini connects the smart lock and sensor to the Wi-Fi network and enables communication between the sensor and thermostat. It also would allow you to control all three devices through a single app -- in this case, Apple Home -- even if you're not home.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why would Apple give some iPads and Macs Thread radios and not all?
 
 No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](https://fcc.report/FCC-ID/BCGA2902/) or the [13-inch M3 Macbook Air](https://fcc.report/FCC-ID/BCGA3113/). This doesn't guarantee that a Thread radio isn't included in these devices, but Apple likely used a simpler chip for these starter models.
@@ -161,10 +149,7 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is the iPad a smart home hub?
@@ -219,22 +204,18 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-capture-every-word-a-guide-to-recording-in-google-meet/"><u>[New] 2024 Approved Capture Every Word A Guide to Recording in Google Meet</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-deep-dive-into-du-recorders-design-and-functionality/"><u>[New] Deep Dive Into Du Recorder's Design and Functionality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hidden-treasures-the-undisclosed-window-11-tricks-youve-overlooked/"><u>[New] Hidden Treasures The Undisclosed WINDOW 11 Tricks You've Overlooked</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-boost-podcast-visibility-through-strategic-seo-tactics/"><u>2024 Approved Boost Podcast Visibility Through Strategic SEO Tactics</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/craft-and-share-360-videos-to-youtube-an-essential-guide-for-creators/"><u>Craft and Share 360 Videos to YouTube An Essential Guide for Creators</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-diy-cinematic-tips-fast-ways-to-improve-your-indie-projects/"><u>In 2024, DIY Cinematic Tips Fast Ways to Improve Your Indie Projects</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/seamless-tiktok-conversion-pure-mp4-extractors-guide/"><u>Seamless TikTok Conversion Pure MP4 Extractors Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/synchronized-synergy-selecting-the-best-ai-tools-for-dynamic-prompts/"><u>Synchronized Synergy: Selecting the Best AI Tools for Dynamic Prompts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-art-of-verse-integrating-chatgpt-in-book-writing/"><u>The Art of Verse: Integrating ChatGPT in Book Writing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-dark-side-of-ai-evaluating-the-threat-of-cyber-attacks-using-tools-like-chatgpt-on-bankingpersonal-computers/"><u>The Dark Side of AI: Evaluating the Threat of Cyber Attacks Using Tools Like ChatGPT on Banking/Personal Computers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-evolution-of-ai-at-google-introducing-the-revolutionary-palm-2-llm/"><u>The Evolution of AI at Google: Introducing the Revolutionary PaLM 2 LLM</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-is-here-anticipating-key-improvements-in-gpt-5-technology/"><u>The Future Is Here: Anticipating Key Improvements in GPT-5 Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-paperclip-maximizing-conundrum-explained-in-relation-to-ai-systems/"><u>The Paperclip Maximizing Conundrum Explained in Relation to AI Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-synergy-of-technology-and-spirituality-with-chatgpt/"><u>The Synergy of Technology and Spirituality with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-artificial-intelligence-applications-for-business-leaders/"><u>Top 5 Artificial Intelligence Applications for Business Leaders</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-techniques-for-transforming-vlc-videos-into-mp4-format-with-movavi-converter/"><u>Top Techniques for Transforming VLC Videos Into MP4 Format with Movavi Converter</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-360-degree-panoramic-shot-systems/"><u>[New] 360 Degree Panoramic Shot Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-analysis-bublcams-360-vision/"><u>2024 Approved Comprehensive Analysis Bublcam's 360 Vision</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/drive-sales-through-smart-use-of-snapchats-tools/"><u>Drive Sales Through Smart Use of Snapchat's Tools</u></a></li>
+<li><a href="https://fox-within.techidaily.com/guia-rapida-recuperacion-del-disco-seagate-no-detectado-en-la-interfaz-de-usuario-de-mac/"><u>Guía Rápida: Recuperación Del Disco Seagate No Detectado en La Interfaz De Usuario De Mac</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-top-anker-usb-30-superhub-unleashing-full-power-capacity/"><u>In-Depth Analysis of the Top Anker USB 3.0 SuperHub: Unleashing Full Power Capacity</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-wmv-video-splitter-free-download-top-choices/"><u>New WMV Video Splitter Free Download Top Choices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-mp4-recommendations/"><u>Premier MP4 Recommendations</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-turning-off-inprivate-browsing-in-google-chrome-with-malwarefox/"><u>Step-by-Step Guide: Turning Off InPrivate Browsing in Google Chrome with MalwareFox</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/step-by-step-tutorial-on-saving-exact-timestamps-in-online-videos-as-bookmarks/"><u>Step-by-Step Tutorial on Saving Exact Timestamps in Online Videos as Bookmarks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-best-free-ai-powered-tools-and-chatgpt-applications-for-quick-travel-itineraries/"><u>Top 7 Best FREE AI-Powered Tools & ChatGPT Applications for Quick Travel Itineraries</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-jailbreaking-is-it-worth-the-risk/"><u>Understanding ChatGPT Jailbreaking: Is It Worth The Risk?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-mystery-of-ai-black-boxes-an-in-depth-guide/"><u>Understanding the Mystery of AI Black Boxes: An In-Depth Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unfolding-gpt-4-integration-in-these-7-modern-tools/"><u>Unfolding GPT-4 Integration in These 7 Modern Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Hands-On Review of ESR's Innovative Halolock - A Versatile Multi-Card Wallet & Compatible Adjustable Stand for iPhones
-date: 2024-11-17T16:39:20.507Z
-updated: 2024-11-18T20:04:32.728Z
+date: 2024-11-21T16:14:03.492Z
+updated: 2024-11-28T16:16:55.076Z
 tags:
   - apple
 categories:
@@ -30,21 +30,16 @@ Here's a look at what's new for the 6th generation iPad Air.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. A bigger screen option
 
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -66,10 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -77,16 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -127,24 +110,22 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-how-to-add-youtube-annotations-and-cards-in-2024/"><u>[New] How to Add YouTube Annotations and Cards, In 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-convert-with-confidence-best-apps-to-turn-spotify-into-youtube-channels/"><u>[New] In 2024, Convert with Confidence Best Apps to Turn Spotify Into YouTube Channels</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlock-facebook-slide-in-content-access/"><u>[New] In 2024, Unlock Facebook Slide-In Content Access</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-master-the-conversion-avi-files-become-gifs-using-filmora-software-windowsmac-for-2024/"><u>[New] Master the Conversion AVI Files Become GIFs Using Filmora Software (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-favorite-frameworks-top-instagram-filters-for-2024/"><u>[Updated] Favorite Frameworks Top Instagram Filters for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/1715759912345-updated-how-to-record-audio-with-audacity-on-mac/"><u>[Updated] How to Record Audio with Audacity on Mac</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-assisted-nutrition-delicious-healthy-creations/"><u>AI-Assisted Nutrition: Delicious, Healthy Creations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoid-these-6-gpt-tools-save-yourself-from-frustration/"><u>Avoid These 6 GPT Tools – Save Yourself From Frustration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bings-intelligence-vs-chatgpt-unveiling-the-top-ten-discrepancies/"><u>Bing's Intelligence Vs. ChatGPT: Unveiling the Top Ten Discrepancies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-love-quest-with-chatgpts-insights-and-advice/"><u>Boost Your Love Quest with ChatGPT's Insights and Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-users-trust-the-safety-of-chatgpts-operations/"><u>Can Users Trust the Safety of ChatGPT's Operations?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-companion-in-the-journey-of-storytelling-mastery/"><u>ChatGPT as Your Companion in the Journey of Storytelling Mastery</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-writing-partner-for-youtube-videos/"><u>ChatGPT as Your Writing Partner for YouTube Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-boundaries-discover-7-types-of-queries-it-cant-handle/"><u>ChatGPT Boundaries: Discover 7 Types of Queries It Can't Handle</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-plus-subscription-review-is-it-worth-your-money/"><u>ChatGPT Plus Subscription Review – Is It Worth Your Money?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/free-wmv-to-vob-converter-web-service-moveavi/"><u>Free WMV-to-VOB Converter Web Service - MoveAVI</u></a></li>
-<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revolutionizing-online-content-the-power-of-time-stamps-for-2024/"><u>Revolutionizing Online Content The Power of Time-Stamps for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unlocking-aspect-ratios-the-key-to-facebook-video-success-for-2024/"><u>Unlocking Aspect Ratios The Key to Facebook Video Success for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transforming-views-uncover-the-best-video-hacks-for-success/"><u>[New] Transforming Views Uncover the Best Video Hacks for Success</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-find-excellence-in-hd-on-android-our-top-10-player-guide/"><u>[Updated] 2024 Approved Find Excellence in HD on Android Our Top 10 Player Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-critical-game-analysis-from-top-creators/"><u>[Updated] In 2024, Critical Game Analysis From Top Creators</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-real-time-engagement-strategies-for-online-streamers/"><u>[Updated] Real-Time Engagement Strategies for Online Streamers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-deeper-dive-into-high-definition-online-visibility/"><u>2024 Approved A Deeper Dive Into High Definition Online Visibility</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-standout-instagram-unboxings-a-comprehensive-checklist/"><u>2024 Approved Standout Instagram Unboxings A Comprehensive Checklist</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-job-market-with-ai-10-essential-chatgpt-tactics-for-linkedin-success/"><u>Navigating the Job Market with AI: 10 Essential ChatGPT Tactics for LinkedIn Success</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/410841-9781439155134-the-power-of-soul/"><u>The Power of Soul | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-quest-for-artifice-intelligence-success-deciphering-the-turing-test/"><u>The Quest for Artifice Intelligence Success: Deciphering the Turing Test</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-chatgpt-in-advancing-cognitive-behavioral-therapy-techniques/"><u>The Role of ChatGPT in Advancing Cognitive Behavioral Therapy Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-urgent-need-for-tighter-ai-oversight-insights-from-the-head-of-openai/"><u>The Urgent Need for Tighter AI Oversight: Insights From the Head of OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-common-errors-in-crafting-chatgpt-prompts-steer-clear/"><u>Top 6 Common Errors in Crafting ChatGPT Prompts: Steer Clear</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-diet-with-gpt-powered-planning/"><u>Transform Your Diet with GPT-Powered Planning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-email-difficulties-into-ease-employing-chatgpt-for-improved-workplace-communication/"><u>Transforming Email Difficulties Into Ease: Employing ChatGPT for Improved Workplace Communication</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-math-potential-the-best-7-ai-tools-to-tackle-problems/"><u>Unleash Your Math Potential: The Best 7 AI Tools to Tackle Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-privacy-in-digital-dialogues-enjoy-secure-chats-with-duckduckgos-ai-technology-powered-by-chatgpt/"><u>Unlock Privacy in Digital Dialogues: Enjoy Secure Chats with DuckDuckGo’s AI Technology, Powered by ChatGPT</u></a></li>
 </ul></div>
 

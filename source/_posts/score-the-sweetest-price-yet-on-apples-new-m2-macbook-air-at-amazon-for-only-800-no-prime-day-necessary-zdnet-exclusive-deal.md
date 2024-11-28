@@ -1,7 +1,7 @@
 ---
 title: Score the Sweetest Price Yet on Apple's New M2 MacBook Air at Amazon for Only $800 – No Prime Day Necessary | ZDNet Exclusive Deal
-date: 2024-11-15T19:34:13.905Z
-updated: 2024-11-18T16:52:26.441Z
+date: 2024-11-22T16:04:45.851Z
+updated: 2024-11-28T16:09:27.013Z
 tags:
   - apple
 categories:
@@ -41,6 +41,10 @@ AI-powered laptops are the future, and right now, manufacturers are putting thei
 
 Many folks don't need top-of-the-line AI integration just yet. The reality is that day-to-day workflows for most people are still reliant on powerful, reliable laptops that can tackle whatever you throw at it, and the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C2R8MP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc29ebbda-99dd-4505-b503-7802d6019c7c%7Cdtp&dtb=1) is a machine that fulfills exactly that need, while being light as air. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -75,28 +79,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-capture-the-moment-iphone-time-lapse-tutorial/"><u>[Updated] 2024 Approved Capture the Moment IPhone Time-Lapse Tutorial</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1-simple-steps-to-implementing-easy-to-read-subtitles-in-your-videos/"><u>1. Simple Steps to Implementing Easy-to-Read Subtitles in Your Videos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/decoding-performance-the-ultimate-review-of-the-12mp-docooler-usb-camera-prototype/"><u>Decoding Performance: The Ultimate Review of the 12MP Docooler USB Camera Prototype</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-office-correspondence-skills-using-chatgpt-effective-strategies-inside/"><u>Enhance Your Office Correspondence Skills Using ChatGPT - Effective Strategies Inside!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-how-chatgpt-might-infringe-on-user-data-sovereignty/"><u>Evaluating How ChatGPT Might Infringe on User Data Sovereignty</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-ai-chatbots-what-makes-them-trendy-today/"><u>Exploring the World of AI Chatbots – What Makes Them Trendy Today?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/forging-a-safe-ai-landscape-ceo-urges-stronger-governance/"><u>Forging a Safe AI Landscape: CEO Urges Stronger Governance</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/1715860151582-in-2024-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems/"><u>In 2024, A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems.</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-laugh-out-loud-meme-making-techniques/"><u>In 2024, Laugh Out Loud Meme-Making Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-complete-guide-to-facebook-dominance-business-edition/"><u>In 2024, The Complete Guide to Facebook Dominance Business Edition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-troubleshooting-stop-spotify-from-disrupting-when-you-secure-your-device/"><u>IPhone Troubleshooting: Stop Spotify From Disrupting When You Secure Your Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-storm-understanding-why-security-challenges-in-generative-ai-are-getting-worse/"><u>Navigating the Storm: Understanding Why Security Challenges in Generative AI Are Getting Worse</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-ultimate-guide-to-creating-engaging-facebook-stories-for-2024/"><u>The Ultimate Guide to Creating Engaging Facebook Stories for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-3-strategies-for-leveraging-chatgpt-with-microsoft-excel/"><u>Top 3 Strategies for Leveraging ChatGPT with Microsoft Excel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-12-and-12-pro-protective-covers-expert-picks/"><u>Top Rated iPhone 12 & 12 Pro Protective Covers : Expert Picks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-of-chatgpt-jailbreaks-pros-cons-and-should-you-utilize-them/"><u>Unveiling the Secrets of ChatGPT Jailbreaks: Pros, Cons & Should You Utilize Them?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-digital-classrooms-prime-ed-tutorials-online/"><u>[New] 2024 Approved Digital Classrooms Prime Ed Tutorials Online</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-transforming-facebook-videos-steps-to-high-definition/"><u>[New] 2024 Approved Transforming Facebook Videos Steps to High Definition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-ten-financial-fortunes-in-gaming-24-edition/"><u>[New] Top Ten Financial Fortunes in Gaming - '24 Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-pricier-prompts-merely-premium-fluff/"><u>Are Pricier Prompts Merely Premium Fluff?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-conversational-basics-the-future-prospects-for-cutting-edge-generative-ai-and-bot-interactions/"><u>Beyond Conversational Basics: The Future Prospects for Cutting-Edge Generative AI & Bot Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-productivity-with-these-three-tips-on-chatgpt-wolfram-plugin-usage/"><u>Boost Productivity with These Three Tips on ChatGPT-Wolfram Plugin Usage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-wellness-routine-with-these-8-powerful-chatgpt-plugins/"><u>Boost Your Wellness Routine with These 8 Powerful ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/building-an-ai-conversationalist-from-scratch-with-your-organizations-data/"><u>Building an AI Conversationalist From Scratch with Your Organization's Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/building-bespoke-gpt-based-assistants-how-to-customize-your-own-version-of-chatgpt/"><u>Building Bespoke GPT-Based Assistants: How to Customize Your Own Version of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-googles-new-gemini-artificial-intelligence-rival-the-capabilities-of-chatgpt/"><u>Can Google's New Gemini Artificial Intelligence Rival the Capabilities of ChatGPT?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-motorola-moto-g-stylus-2023-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oneplus-11-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace OnePlus 11 5G Location | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-free-video-editing-software-top-alternatives-to-imovie/"><u>New In 2024, Free Video Editing Software Top Alternatives to iMovie</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728504019733-windows-11/"><u>Windows 11 系统防护功能显示为灰色的问题及其修复方法</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

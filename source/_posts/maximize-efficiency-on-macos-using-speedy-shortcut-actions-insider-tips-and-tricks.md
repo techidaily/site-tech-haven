@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Speedy Shortcut Actions - Insider Tips & Tricks
-date: 2024-11-17T01:01:47.103Z
-updated: 2024-11-18T17:33:10.852Z
+date: 2024-11-22T16:04:01.394Z
+updated: 2024-11-28T16:13:51.241Z
 tags:
   - apple
 categories:
@@ -18,6 +18,10 @@ The MacOS file manager, Finder, has a lot of handy tricks up its sleeve, many of
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-compatible-with-apples-ios-18-and-which-ones-arent/)
@@ -33,13 +37,6 @@ Of course, not every file type has an associated Quick Action but you can add ne
 
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What files offer Quick Actions?
 
 By default, the following file types offer Quick Actions from within the Finder context menu:
@@ -51,24 +48,22 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
 
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
 
@@ -97,10 +92,7 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -153,24 +145,18 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-leap-into-the-tiktok-live-crowd-a-quick-guide-for-2024/"><u>[New] Leap Into the TikTok Live Crowd A Quick Guide for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-your-influence-amidst-changing-social-media-ecosystem/"><u>[Updated] 2024 Approved Mastering Your Influence Amidst Changing Social Media Ecosystem</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-investing-5-yields-hundreds-of-new-viewers-now-for-2024/"><u>[Updated] Investing $5 Yields Hundreds of New Viewers Now for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/advancing-siri-apples-ai-enhancements-on-the-horizon-revealed/"><u>Advancing Siri: Apple's AI Enhancements on the Horizon Revealed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discounted-apple-macbook-air-with-m2-chip-sold-for-just-800-before-october-prime-day-find-deals-now/"><u>Discounted Apple MacBook Air with M2 Chip Sold for Just $800 Before October Prime Day - Find Deals Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-ai-enhancements-for-ios-18-that-would-bring-it-on-par-with-androids-capabilities-insights/"><u>Essential AI Enhancements for iOS 18 That Would Bring It on Par With Android's Capabilities - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-protection-why-every-iphone-user-should-consider-a-case-especially-with-the-latest-iphone-16-zdnet/"><u>Essential Protection: Why Every iPhone User Should Consider a Case, Especially With the Latest iPhone 16 (ZDNet)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/guffaw-gazette-twitters-funniest-threads/"><u>Guffaw Gazette Twitter's Funniest Threads</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/guia-diaria-para-dias-de-la-semana-en-espanol/"><u>Guía Diaria Para Días De La Semana en Español</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-best-options-top-live-streaming-platforms-according-to-types/"><u>In 2024, Best Options Top Live Streaming Platforms According to Types</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-civi-3-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Civi 3</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ios-18-unveiled-customize-and-optimize-your-iphone-control-center-with-expert-advice-from-zdnet/"><u>IOS 18 Unveiled: Customize & Optimize Your iPhone Control Center with Expert Advice From ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ipads-latest-calculator-app-so-sophisticated-youll-want-the-apple-pencil-discover-how-on-zdnet/"><u>IPad's Latest Calculator App: So Sophisticated, You'll Want the Apple Pencil – Discover How on ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-communication-on-the-go-effortless-contact-with-friends-and-family-through-your-apple-watch/"><u>Mastering Communication on the Go: Effortless Contact with Friends and Family Through Your Apple Watch</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/perfecting-content-aesthetics-crafting-personalized-thumbnails/"><u>Perfecting Content Aesthetics Crafting Personalized Thumbnails</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-accessing-disk-management-on-windows-11/"><u>Step-by-Step Guide: Accessing Disk Management on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-choosing-the-ideal-ipad-air-case-for-your-needs-the-2024-review-toms-hardware/"><u>Ultimate Guide to Choosing the Ideal iPad Air Case for Your Needs: The 2024 Review | Tom's Hardware</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/uncovering-the-value-in-depth-look-at-the-new-generation-totobay-alarm-clock-for-cost-conscious-shoppers/"><u>Uncovering the Value: In-Depth Look at the New Generation Totobay Alarm Clock for Cost-Conscious Shoppers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/upgrades-unveiled-comparing-features-of-the-latest-iphone-15-pro-to-iphone-14-pro-expert-insights/"><u>Upgrades Unveiled: Comparing Features of the Latest iPhone 15 Pro to iPhone 14 Pro - Expert Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-obscured-oath-vs-illuminated-ideal-black-vs-silver/"><u>[New] Obscured Oath Vs Illuminated Ideal Black vs Silver</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-a-thorough-introduction-to-gdocs-speech-to-text-capabilities/"><u>[Updated] 2024 Approved A Thorough Introduction to GDoc's Speech-to-Text Capabilities</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-art-of-virtual-exploration-a-tactical-approach-for-2024/"><u>[Updated] The Art of Virtual Exploration A Tactical Approach for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/achieve-optimal-frame-rates-expert-tips-for-overcoming-new-gameplay-lag-challenges/"><u>Achieve Optimal Frame Rates: Expert Tips for Overcoming New Gameplay Lag Challenges</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/diy-solutions-and-software-secrets-from-the-pros-at-stellar/"><u>DIY Solutions and Software Secrets From the Pros at Stellar</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-color-laserjet-m452dn-official-and-fast-printer-drivers-available-now/"><u>HP Color LaserJet M452dn - Official & Fast Printer Drivers Available Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-your-gaming-experience-with-kinemaster-and-its-top-competitors-reviewed/"><u>In 2024, Maximize Your Gaming Experience with KineMaster and Its Top Competitors Reviewed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-spreadsheet-setbacks-using-chatgpt-integration-in-excel/"><u>Overcoming Spreadsheet Setbacks Using ChatGPT Integration in Excel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-your-privacy-avoid-disclosing-sensitive-info-to-chatgpt/"><u>Protect Your Privacy: Avoid Disclosing Sensitive Info to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-simple-how-to-run-chatgpt-on-linux-using-bavarder-tool/"><u>Quick and Simple: How to Run ChatGPT on Linux Using Bavarder Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-at-home-workflows-with-these-six-powerful-uses-of-chatgpt-for-productivity/"><u>Revolutionize Your At-Home Workflows with These Six Powerful Uses of ChatGPT for Productivity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-creativity-customizing-call-alert-sounds-on-iphone/"><u>Unleash Creativity Customizing Call Alert Sounds on iPhone</u></a></li>
 </ul></div>
 

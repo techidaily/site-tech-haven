@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT & Health: Crafting Achievable Objectives"
-date: 2024-08-24T12:48:11.440Z
-updated: 2024-08-25T12:48:11.440Z
+date: 2024-11-22T16:01:59.959Z
+updated: 2024-11-28T16:07:30.460Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
 
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Personalized Responses
 
  ChatGPT's Custom Instructions give you greater control over how the AI chatbot responds to your inputs.[ChatGPT's custom instructions can range](https://www.makeuseof.com/best-ways-to-use-chatgpt-custom-instructions/) from in-depth information about your life, business, or otherwise, to simple instructions, such as making sure it only uses imperial measurements or always responds with your name.
@@ -47,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3 ChatGPT Memory and Temporary Chat
 
  ChatGPT Memory and Temporary Chat are two features launching together, aimed to give ChatGPT better recall—and a way to avoid that recall altogether.
@@ -58,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
 
  Part of ChatGPT's Memory is the supposition you're talking to it about anything and everything. It gives an example of "You mention that you have a toddler and that she loves jellyfish. When you ask ChatGPT to help create her birthday card, it suggests a jellyfish wearing a party hat." That's cute, no doubt, but it's not the sort of information most folks are providing to ChatGPT regularly (at least, I assume not).
@@ -68,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
 
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
@@ -78,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 
  In response, OpenAI revealed ideas for[Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq) , a mode that enables "a conversation with a blank slate." In Temporary Chat mode, ChatGPT won't be aware of any previous conversations or memory, but would still use your custom instructions if set. It's a little like Incognito or Private mode in a browser.
@@ -87,17 +91,15 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
  Unfortunately, at the time of writing, Temporary Chat mode is only available to a small number of users, limiting the amount of people using it. However, when it arrives, it'll be a useful tool for those moments you want to ask ChatGPT a question but don't want it linked to your profile forever more.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 Free Trial Invites
 
  Want to share ChatGPT Plus with your buddies, but they don't have the cash for the subscription? Well, you can use a ChatGPT Plus free trial invite to grant them a 14-day free ChatGPT Plus experience, with access to every feature.
 
  The only real downside to the ChatGPT Plus free trial is that anyone taking it has to sign up for an account using a credit or debit card—which means the card will be charged straight away when the trial ends.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5 Shared Links
 
  If the person you invite to trial ChatGPT is put off by the credit card sign-up, you could share your ChatGPT conversation with them instead.[ChatGPT's shared links launched in May 2023](https://www.makeuseof.com/what-are-chatgpt-shared-links-how-do-they-work/) and offer a way for ChatGPT users to share conversations outside the confines of the web interface or the smartphone app.
@@ -106,14 +108,11 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
 
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +121,24 @@ thumbnail: https://thmb.techidaily.com/98a74ce7172ad2a57d4310a18c57051ce671b66b0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-innovative-solutions-for-high-fidelity-webinars/"><u>[New] In 2024, Innovative Solutions for High Fidelity Webinars</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-efficiently-shortening-youtube-content/"><u>[Updated] In 2024, Efficiently Shortening YouTube Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-disappointing-visit-to-the-apple-store-insights-recent-experience/"><u>A Disappointing Visit to the Apple Store - Insights Recent Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/build-a-loyal-audience-on-facebook-using-effective-growth-methods/"><u>Build a Loyal Audience on Facebook Using Effective Growth Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-6-ai-driven-apps-for-analyzing-and-conversing-in-pdfs-like-a-pro/"><u>Discover the Ultimate List of 6 AI-Driven Apps for Analyzing and Conversing in PDFs Like a Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-your-iphone-experience-by-combining-siri-with-chatgpt-ai/"><u>Enhancing Your iPhone Experience by Combining Siri with ChatGPT AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-chatgpts-honesty-is-it-a-source-of-trustworthy-answers-or-fictitious-content/"><u>Evaluating ChatGPT’s Honesty - Is It a Source of Trustworthy Answers or Fictitious Content?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-huggingchat-your-comprehensive-guide-to-the-top-open-source-ai-conversational-agent/"><u>Exploring HuggingChat: Your Comprehensive Guide to the Top Open-Source AI Conversational Agent</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-your-insights-to-ingenious-ai-build-a-gpt-of-your-design/"><u>From Your Insights to Ingenious AI: Build a GPT of Your Design</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/global-outreach-for-chatgpt-sessions-techniques-for-link-sharing-success/"><u>Global Outreach for ChatGPT Sessions: Techniques for Link Sharing Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-personalized-language-models-can-compromise-your-data-and-steps-to-enhance-security/"><u>How Personalized Language Models Can Compromise Your Data and Steps to Enhance Security</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ideal-framework-top-20-most-engaging-github-and-chatgpt-dialogues/"><u>Ideal Framework: Top 20 Most Engaging Github and ChatGPT Dialogues</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-ideas-for-eye-catching-podcast-artwork-for-2024/"><u>Innovative Ideas for Eye-Catching Podcast Artwork for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/innovative-methods-for-enhancing-testimonial-video-authenticity/"><u>Innovative Methods for Enhancing Testimonial Video Authenticity</u></a></li>
+<li><a href="https://fox-links.techidaily.com/instantaneous-access-to-high-quality-passport-selfies-free-desktopweb-tool-for-2024/"><u>Instantaneous Access to High-Quality Passport Selfies – Free Desktop/Web Tool for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210086699-9781982169862-life-lessons-from-a-homemade-sourdough-starter/"><u>Life Lessons from a Homemade Sourdough Starter | Free Book</u></a></li>
+</ul></div>
 

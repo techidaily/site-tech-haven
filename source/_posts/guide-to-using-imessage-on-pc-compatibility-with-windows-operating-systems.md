@@ -1,7 +1,7 @@
 ---
 title: "Guide to Using iMessage on PC: Compatibility with Windows Operating Systems"
-date: 2024-11-16T00:05:35.478Z
-updated: 2024-11-18T22:14:51.548Z
+date: 2024-11-24T16:01:21.064Z
+updated: 2024-11-28T16:04:36.015Z
 tags:
   - apple
 categories:
@@ -42,14 +42,11 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to send and receive iMessages on Windows
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
 
@@ -62,6 +59,10 @@ Microsoft added iPhone support to Phone Link in Windows 11 in early 2023\. To ma
 Next, confirm that you're running the latest version of Phone Link. To do this, open the Microsoft Store app from the Start menu and click the Library icon. Click the Get Updates button and allow all your installed apps to be updated, including Phone Link if necessary.
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
 
@@ -91,13 +92,6 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
@@ -110,7 +104,15 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -119,13 +121,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -145,37 +140,21 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,21 +192,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-final-goodbye-to-youtubes-minis-a-step-by-step-process-for-2024/"><u>[New] Final Goodbye to YouTube's Minis A Step-by-Step Process for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-browsers-ai-capabilities-with-these-7-essential-chatgpt-chrome-tools/"><u>Boost Your Browser's AI Capabilities with These 7 Essential ChatGPT Chrome Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-regulation-challenges-latest-google-news-algorithm-update-and-securing-top-tier-wifi-on-holiday-getaways/"><u>ChatGPT Regulation Challenges, Latest Google News Algorithm Update, and Securing Top-Tier WiFi on Holiday Getaways</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversion-crisis-here-are-the-best-conver2mp3-replacements-for-uninterrupted-music-downloads/"><u>Conversion Crisis? Here Are the Best Conver2MP3 Replacements for Uninterrupted Music Downloads</u></a></li>
-<li><a href="https://solve-info.techidaily.com/elevating-your-sites-potential-through-advanced-cookiebot-integration/"><u>Elevating Your Site's Potential Through Advanced Cookiebot Integration</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-and-fix-a-frozen-spotify-on-windows-11/"><u>How to Stop and Fix a Frozen Spotify on Windows 11</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-top-8-youtube-thumbnail-secrets-for-high-traffic-videos/"><u>In 2024, Top 8 YouTube Thumbnail Secrets for High Traffic Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-safe-to-discuss-sensitive-topics-on-chatgpt-find-out-here/"><u>Is It Safe to Discuss Sensitive Topics on ChatGPT? Find Out Here</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/non-disclosive-keeping-ai-dialogues-undetectable/"><u>Non-Disclosive Keeping: AI Dialogues Undetectable</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/recognizing-artificial-intelligence-illusions-identifying-ai-hallucinations/"><u>Recognizing Artificial Intelligence Illusions: Identifying AI Hallucinations</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-sony-shopping-expertise-guidebook/"><u>The Sony Shopping Expertise Guidebook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-every-aspect-of-openai-in-detail/"><u>Understanding Every Aspect of OpenAI in Detail</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-ai-based-plagiarism-tools-fail-the-hidden-consequences/"><u>Why AI-Based Plagiarism Tools Fail - The Hidden Consequences</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-back-your-lost-scroll-wheel-control-on-a-windows-10-pc/"><u>Winning Back Your Lost Scroll Wheel Control on a Windows 10 PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-beyond-staged-success-ten-truths-about-reels-on-instagram/"><u>[Updated] In 2024, Beyond Staged Success Ten Truths About Reels on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-guide-integrating-titles-into-videos-within-windows-photos/"><u>[Updated] Quick Guide Integrating Titles Into Videos Within Windows Photos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-capturing-adventure-an-in-depth-gopro-model-review/"><u>2024 Approved Capturing Adventure An In-Depth GoPro Model Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-conversational-dynamics-the-evolution-of-response-mechanisms/"><u>AI Conversational Dynamics: The Evolution of Response Mechanisms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-in-the-wild-can-chatgpt-be-your-key-to-overcoming-wilderness-dangers/"><u>AI in the Wild: Can ChatGPT Be Your Key to Overcoming Wilderness Dangers?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-pioneering-role-in-prompt-creation-and-its-career-sustainability/"><u>AI's Pioneering Role in Prompt Creation & Its Career Sustainability</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722007728666-chatgpt-goes-portable-available-for-all-android-devices/"><u>ChatGPT Goes Portable – Available for All Android Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722042756275-dont-get-fooled-theres-no-trustworthy-chatgpt-client-on-windows-only-scams-and-viruses/"><u>Don't Get Fooled - There's No Trustworthy ChatGPT Client on Windows, Only Scams & Viruses</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-elden-rings-lag-issues-6-fast-solutions-for-optimal-gameplay/"><u>Fix Elden Ring's Lag Issues: 6 Fast Solutions for Optimal Gameplay</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insights-on-the-new-xbox-vr-setup-anticipated-launch-details-and-tech-specifications/"><u>Insights on the New Xbox VR Setup - Anticipated Launch Details & Tech Specifications</u></a></li>
+<li><a href="https://tools.techidaily.com/mt4copier/"><u>Local Trade Copier</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-tasks-5-top-tier-windows-car-drivers/"><u>Optimize Tasks: 5 Top-Tier Windows Car Drivers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Dialogue Design Dexterity: Constructing Custom AI"
-date: 2024-08-24T12:52:28.279Z
-updated: 2024-08-25T12:52:28.279Z
+date: 2024-11-23T16:01:57.681Z
+updated: 2024-11-28T16:02:57.956Z
 tags:
   - chatgpt
   - open-ai
@@ -43,11 +43,12 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The more context you provide your AI tool, the better of a response you'll receive.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -56,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
@@ -74,11 +72,16 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -89,8 +92,9 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -99,11 +103,11 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -121,19 +125,13 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +140,26 @@ thumbnail: https://thmb.techidaily.com/28e42e440f02f5ea5682c6780700b9aec886bd9ac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-seamless-replay-on-iphone-a-how-to-guide/"><u>[New] 2024 Approved Seamless Replay on iPhone A How-To Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-clear-audio-crystal-clear-view-premium-webcams-for-podcasts/"><u>[Updated] Clear Audio, Crystal-Clear View Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-resolve-instagram-video-glitches-today/"><u>[Updated] In 2024, Resolve Instagram Video Glitches Today</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/analyzing-the-dji-phantom-4-vision-tech-for-2024/"><u>Analyzing the DJI Phantom 4 Vision Tech for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/audio-log-analysis-guidebook/"><u>Audio Log Analysis Guidebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-why-apples-latest-ipad-air-with-m2-chip-is-the-ideal-choice-for-consumers-insights/"><u>Comprehensive Guide: Why Apple's Latest iPad Air with M2 Chip Is the Ideal Choice for Consumers - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-simple-clips-to-complex-systems-ais-role-in-optimizing-paperclips/"><u>From Simple Clips to Complex Systems: AI's Role in Optimizing Paperclips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hone-your-prompt-writing-skills-for-maximum-chatgpt-impact/"><u>Hone Your Prompt Writing Skills for Maximum ChatGPT Impact</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-good-is-chatgpt-at-making-cocktails/"><u>How Good Is ChatGPT at Making Cocktails?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-will-artificial-intelligence-impact-our-psychological-well-being-boon-or-bane/"><u>How Will Artificial Intelligence Impact Our Psychological Well-Being: Boon or Bane?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-deployment-top-8-adaptable-gpt-models-awaiting-your-use/"><u>Immediate Deployment: Top 8 Adaptable GPT Models Awaiting Your Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-review-how-does-mistral-ais-le-chat-hold-up-next-to-chatgpt/"><u>In-Depth Review: How Does Mistral AI's Le Chat Hold Up Next to ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-uses-of-chatgpt-boosting-your-excel-skills-with-3-key-techniques/"><u>Innovative Uses of ChatGPT: Boosting Your Excel Skills with 3 Key Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-everyones-gpt-4-simplified-access-and-implementation-explained/"><u>Introducing Everyone's GPT-4: Simplified Access and Implementation Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-horizon-for-iphone-chatgpt-app/"><u>New Horizon for iPhone: ChatGPT App</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/original-prusa-xl-uncovered-benefits-of-a-large-printing-surface-and-multi-tool-use/"><u>Original Prusa XL Uncovered: Benefits of a Large Printing Surface and Multi-Tool Use</u></a></li>
+<li><a href="https://article-tips.techidaily.com/quick-quirks-lasting-impact-fast-track-to-fame-with-9gag-memes/"><u>Quick Quirks, Lasting Impact Fast Track to Fame with 9GAG Memes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-freezing-problems-on-call-of-duty-vanguard-easy-no-cost-solutions/"><u>Resolving Freezing Problems on Call of Duty: Vanguard – Easy, No-Cost Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-driver-upgrades-enhancing-msi-gpu-performance-in-windows-11-and-7/"><u>Seamless Driver Upgrades: Enhancing MSI GPU Performance in Windows 11 and 7</u></a></li>
+</ul></div>
 

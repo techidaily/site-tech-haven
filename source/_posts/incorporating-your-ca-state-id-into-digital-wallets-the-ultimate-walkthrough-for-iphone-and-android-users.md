@@ -1,7 +1,7 @@
 ---
 title: "Incorporating Your CA State ID Into Digital Wallets: The Ultimate Walkthrough for iPhone & Android Users"
-date: 2024-11-11T20:33:37.829Z
-updated: 2024-11-18T16:30:13.035Z
+date: 2024-11-27T16:11:03.530Z
+updated: 2024-11-28T16:05:40.861Z
 tags:
   - apple
 categories:
@@ -28,14 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to customize your iPhone's new Control Center with iOS 18
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
 
@@ -44,10 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -58,24 +52,25 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -92,16 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -140,14 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-screen-logger-az-audits-and-diversions/"><u>[New] 2024 Approved Ultimate Screen Logger - AZ Audits & Diversions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-directly-engage-with-facebooks-video-offerings-via-your-apple-device/"><u>[New] Directly Engage with Facebook's Video Offerings via Your Apple Device</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-streaming-made-easy-with-these-11-advanced-recording-tips-for-2024/"><u>[Updated] Streaming Made Easy with These 11 Advanced Recording Tips for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chapter-by-chapter-discover-how-chatgpt-transforms-novel-writing-in-9-ways/"><u>Chapter by Chapter: Discover How ChatGPT Transforms Novel Writing in 9 Ways</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/commanding-artificial-intelligence-best-educational-sessions/"><u>Commanding Artificial Intelligence: Best Educational Sessions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparative-analysis-of-publicly-available-information-sources-traditional-and-contemporary-models/"><u>Comparative Analysis of Publicly Available Information Sources: Traditional and Contemporary Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/desktop-dominance-why-chatgpts-computer-version-excels-over-its-online-counterpart/"><u>Desktop Dominance: Why ChatGPT's Computer Version Excels Over Its Online Counterpart</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-manage-and-disable-recommended-podcast-episodes-in-spotify/"><u>In 2024, How to Manage and Disable Recommended Podcast Episodes in Spotify</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-depth-instructions-installing-countdown-clocks-in-obs-for-2024/"><u>[New] In-Depth Instructions Installing Countdown Clocks in OBS for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-memetic-mayhem-the-20-most-shared-gems/"><u>[New] Memetic Mayhem The 20 Most Shared Gems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-recording-virtual-sessions-ios-and-android-methods/"><u>[Updated] Recording Virtual Sessions IOS & Android Methods</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-best-free-subtitles-and-downloader-guide/"><u>2024 Approved Best Free Subtitles & Downloader Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-where-is-youtube-video-manager-all-you-need-to-know/"><u>2024 Approved Where Is Youtube Video Manager? [All You Need to Know]</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877806-9781908421616-experiences-of-physical-phenomena-in-the-21st-century/"><u>Experiences of Physical Phenomena in the 21st Century | Free Book</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-poco-f5-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Poco F5 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-of-bandicams-functionality-and-cost-comparison-movavi-insights/"><u>In-Depth Analysis of Bandicam's Functionality and Cost Comparison - Movavi Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-windows-challenges-solutions-for-when-chatgpt-reaches-maximum-load/"><u>Overcoming Windows Challenges: Solutions for When ChatGPT Reaches Maximum Load</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pinpointing-bingchats-deceptive-crypto-schemes/"><u>Pinpointing BingChat's Deceptive Crypto Schemes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-yourself-from-these-9-deceptive-chatgpt-clone-virus-and-malware-apps-endangering-your-data-security/"><u>Protect Yourself From These 9 Deceptive ChatGPT Clone Virus and Malware Apps Endangering Your Data Security</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pushing-language-frontiers-exploring-gpt-and-bert-variances/"><u>Pushing Language Frontiers: Exploring GPT & BERT Variances</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-unseen-strain-7-side-effects-of-virtual-interaction/"><u>The Unseen Strain: 7 Side-Effects of Virtual Interaction</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: A Step-by-Step Guide and Compatible iPhone Models Revealed"
-date: 2024-11-17T18:47:56.338Z
-updated: 2024-11-18T19:43:31.398Z
+date: 2024-11-26T16:13:06.951Z
+updated: 2024-11-28T16:09:31.421Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
@@ -37,10 +41,7 @@ Jason Hiner/ZDNET
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
@@ -48,10 +49,7 @@ Go to your iPhone's Settings and select General.
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Download and install
@@ -76,6 +74,10 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Can you still download the iOS 18 public beta?
 
 You can always be part of the Apple Beta program to get the latest beta versions of iOS. Before you download a beta version of an operating system, you should have some housekeeping items in mind:
@@ -96,10 +98,7 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
@@ -117,19 +116,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -175,24 +161,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/solved-diablo-4-fps-drops-and-stuttering-on-pc/"><u>[SOLVED] Diablo 4 FPS Drops and Stuttering on PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-guide-to-the-updated-facetune-photo-editing/"><u>2024 Approved Comprehensive Guide to the Updated Facetune Photo Editing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-let-loose-event-highlights-the-revolutionary-m4-ipad-pro-slimmer-13-inch-ipad-air-and-improved-apple-pencil-pro-revealed-detailed-coverage-gadgetpund12/"><u>Apple's 'Let Loose' Event Highlights: The Revolutionary M4 iPad Pro, Slimmer 13-Inch iPad Air & Improved Apple Pencil Pro Revealed - Detailed Coverage | GadgetPundit.</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-an-in-depth-analysis/"><u>AVS Video Editor An In-Depth Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-apple-watchs-endurance-top-8-essential-settings-tweaks-for-extended-battery-life-insights/"><u>Boost Your Apple Watch's Endurance: Top 8 Essential Settings Tweaks for Extended Battery Life - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-list-apple-watch-os-11-compatibility-models-included-and-excluded/"><u>Comprehensive List: Apple Watch OS 11 Compatibility - Models Included and Excluded</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-overview-of-the-latest-innovations-revealed-by-apple-in-its-scary-fast-october-showcase-what-you-need-to-know/"><u>Comprehensive Overview of the Latest Innovations Revealed by Apple in Its 'Scary Fast' October Showcase: What You Need to Know!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ver-top-platforms-for-youtube-brand-partnerships/"><u>Discover Top Platforms for YouTube Brand Partnerships</u></a></li>
-<li><a href="https://solve-info.techidaily.com/enhanced-site-engagement-through-cookiebots-smart-visitor-tracking-solutions/"><u>Enhanced Site Engagement Through Cookiebot's Smart Visitor Tracking Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/high-end-laptop-clash-samsung-galaxy-book-2-ultra-versus-apple-macbook-pro-in-depth-comparison-on-zdnet/"><u>High-End LAPTOP Clash: Samsung Galaxy Book 2 Ultra versus Apple MacBook Pro - In-Depth Comparison on ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-latest-asus-laptop-driver-software-free-downloads-and-updates/"><u>How to Get the Latest ASUS Laptop Driver Software: Free Downloads and Updates</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovations-highlighted-in-s3700s-2023-review-for-2024/"><u>Innovations Highlighted in S3700's 2023 Review for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ios-update-1751-fixes-glitch-reviving-deleted-images-on-devices-tech-insights/"><u>IOS Update 17.5.1 Fixes Glitch Reviving Deleted Images on Devices - Tech Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone-12-now-supports-enhanced-qi2-wireless-charging-without-requiring-magsafe-accessory-tech-news/"><u>IPhone 12 Now Supports Enhanced Qi2 Wireless Charging Without Requiring MagSafe Accessory | Tech News</u></a></li>
-<li><a href="https://games-able.techidaily.com/reversing-windows-gpu-hang-addressing-error-code-0x887a0006/"><u>Reversing Window's GPU Hang: Addressing Error Code 0X887A0006</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionary-esr-qui2-series-ultra-fast-magsafe-charging-for-iphone-16s-with-cooler-performance-as-reviewed/"><u>Revolutionary ESR Qui2 Series: Ultra-Fast MagSafe Charging for iPhone 16S With Cooler Performance, as Reviewed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-recovering-lost-passwords-from-your-macos-keychain/"><u>The Ultimate Guide to Recovering Lost Passwords From Your macOS Keychain</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vivid-chroma-optimizer/"><u>Vivid Chroma Optimizer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-record-to-remember-top-5-best-tools-for-virtual-meeting-capture/"><u>[Updated] In 2024, Record to Remember Top 5 Best Tools for Virtual Meeting Capture</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-time-traveling-through-history-students-top-youtubes-to-watch/"><u>[Updated] In 2024, Time Traveling Through History Students' Top YouTubes To Watch</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-ai-driven-nomenclature-best-10-name-generators-online/"><u>In 2024, AI-Driven Nomenclature Best 10 Name Generators Online</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-friendly-reminder-how-to-chill-at-someones-tiktok-party/"><u>In 2024, Friendly Reminder How To Chill at Someone's TikTok Party</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-content-creation-leveraging-canva-plus-gpt-for-automated-design-workflows/"><u>Streamline Your Content Creation: Leveraging Canva Plus GPT for Automated Design Workflows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/teaching-chatgpt-your-voice-the-ultimate-guide-to-customizing-its-writing-abilities/"><u>Teaching ChatGPT Your Voice: The Ultimate Guide to Customizing Its Writing Abilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-mental-health-care-can-ai-provide-better-assistance/"><u>The Future of Mental Health Care: Can AI Provide Better Assistance?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-humorous-side-of-ai-plus-tracing-the-journey-of-laptop-innovation-and-vpn-enhancements/"><u>The Humorous Side of AI - Plus, Tracing the Journey of Laptop Innovation & VPN Enhancements</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/top-7-no-cost-open-source-dvd-ripping-and-copying-tools/"><u>Top 7 No-Cost, Open-Source DVD Ripping & Copying Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-samsung-galaxy-z-fold-7-prospective-launch-details-cost-estimates-and-latest-leaks/"><u>Unveiling the Samsung Galaxy Z Fold 7: Prospective Launch Details, Cost Estimates, and Latest Leaks</u></a></li>
 </ul></div>
 

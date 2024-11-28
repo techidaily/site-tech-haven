@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: How One Simple Tactic Can Clear Out Clutter Without Creating New Accounts or Strict Filters – Learn the Secrets with ZDNet"
-date: 2024-11-15T01:11:56.853Z
-updated: 2024-11-18T16:50:21.664Z
+date: 2024-11-27T16:07:31.891Z
+updated: 2024-11-28T16:05:07.918Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The magic of email aliases
 
 An alias is an alternate email address that's linked to your main account. Messages addressed to an alias go to your inbox, right alongside messages sent to your primary address. But because they're _not_ using your regular email address, you can set up your email client to perform custom actions using those aliases.
@@ -61,10 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,10 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -154,19 +146,24 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-discover-top-cost-effective-dvd-player-apps/"><u>[New] Discover Top Cost-Effective DVD Player Apps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-wizards-whisper-are-voice-changer-apps-actual-magic-unveil-other-choices-for-2024/"><u>[New] Wizard's Whisper Are Voice Changer Apps Actual Magic? Unveil Other Choices for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-monetization-carryminati-ajey-nagar-youtube-income/"><u>[New] YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-duration-estimate-for-an-hd-20mb-movie-file/"><u>[Updated] In 2024, Duration Estimate for an HD 20Mb Movie File</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unraveling-sierras-icloud-full-access-guide/"><u>[Updated] Unraveling Sierra's iCloud Full Access Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-viewers-engagement-through-youtube-music-use-in-videos/"><u>2024 Approved Optimizing Viewers' Engagement Through YouTube Music Use in Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-webcam-wizardry-on-macbook-pro/"><u>2024 Approved Webcam Wizardry on MacBook Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/big-news-apple-developers-enhance-your-code-with-our-newly-upgraded-complimentary-ai-integration/"><u>Big News Apple Developers: Enhance Your Code with Our Newly Upgraded Complimentary AI Integration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/corporate-guide-expert-analysis-of-microsoft-surface-pro-8-features-performance-and-pricing/"><u>Corporate Guide: Expert Analysis of Microsoft Surface Pro 8 - Features, Performance & Pricing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enabling-and-using-imessages-on-pc-a-step-by-step-tutorial/"><u>Enabling & Using iMessages on PC: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/october-is-now-on-the-horizon-anticipated-arrival-of-apples-intelligent-systems-confirmed-by-insiders-gadgetworld/"><u>October Is Now on the Horizon: Anticipated Arrival of Apple’s Intelligent Systems Confirmed by Insiders - GadgetWorld</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/save-big-with-acers-amazing-deals-during-amazons-prime-day-event-of/"><u>Save Big with Acer's Amazing Deals During Amazon's Prime Day Event Of</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-your-inner-fan-with-apple-sports-discover-the-ultimate-complimentary-experience-on-your-iphone-exclusively-featured/"><u>Unleash Your Inner Fan with Apple Sports: Discover the Ultimate Complimentary Experience on Your iPhone - Exclusively Featured</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-ios-16-potential-discover-my-favorite-features-and-learn-how-to-utilize-them-perfectly/"><u>Unlocking iOS 16 Potential: Discover My Favorite Features & Learn How to Utilize Them Perfectly</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unearth-tiktoks-best-and-hidden-emoji-treasures/"><u>[New] Unearth TikTok's Best & Hidden Emoji Treasures</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-optimal-video-sizing-for-an-instagram-standout/"><u>[Updated] 2024 Approved Optimal Video Sizing for an Instagram Standout</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-faithful-chimes-how-to-personalize-them/"><u>[Updated] Faithful Chimes - How to Personalize Them</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-leading-downloader-software-facebooks-top-choices-5-for-2024/"><u>[Updated] Leading Downloader Software Facebook's Top Choices #5 for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/compare-and-contrast-unpacking-the-8-most-important-features-between-snapchat-my-ai-and-bing-chat-on-skype/"><u>Compare and Contrast: Unpacking the 8 Most Important Features Between Snapchat My AI and Bing Chat on Skype</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-conversationalists-who-wins-between-chatgpt-and-claude-ai/"><u>Comparing Conversationalists: Who Wins Between ChatGPT and Claude AI?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-gemini-advanced-and-chatgpt-plus-determining-the-superior-option/"><u>Comparing Gemini Advanced and ChatGPT Plus: Determining the Superior Option</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creative-crusade-why-artists-like-sarah-silverman-are-challenging-openai-and-meta-in-court-over-their-use-of-ai-technologies/"><u>Creative Crusade: Why Artists Like Sarah Silverman Are Challenging OpenAI and Meta in Court Over Their Use of AI Technologies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cyber-deception-ai-and-romantic-scams/"><u>Cyber Deception: AI and Romantic Scams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dialing-down-deceptive-data-from-ai-with-purposeful-prompts/"><u>Dialing Down Deceptive Data From AI with Purposeful Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dive-into-gptzeros-capabilities-for-textual-source-identification/"><u>Dive Into GPTZero's Capabilities for Textual Source Identification</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-interview-standards-with-smart-use-of-chatgpt/"><u>Elevate Interview Standards with Smart Use of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-office-workflow-integrating-gpt-for-word-docs/"><u>Elevate Office Workflow: Integrating GPT for Word Docs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722850398032-enhancing-your-furry-friends-portraits-techniques-to-remove-pupil-glare-and-redness/"><u>Enhancing Your Furry Friend's Portraits: Techniques to Remove Pupil Glare and Redness</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guide-complet-creez-avec-succes-votre-cle-usb-bootable-norton-ghost-sur-windows-version-1087-les-2-plus-efficaces-methodes/"><u>Guide Complet: Créez Avec Succès Votre Clé USB Bootable Norton Ghost Sur Windows (Version 10/8/7) - Les 2 Plus Efficaces Méthodes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-sharpened-internet-video-views-for-2024/"><u>Mastering the Art of Sharpened Internet Video Views for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/opus-wav-movavi-audio-converter/"><u>OPUS文件簡單上手 WAV格式在線無料改編 - 解決方案: Movavi Audio Converter</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/squadrons-the-next-chapter-of-star-wars-gaming-in-depth-combat-experience-breakdown-and-critique/"><u>Squadrons: The Next Chapter of Star Wars Gaming - In-Depth Combat Experience Breakdown & Critique</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/starfive-unveils-new-laptop-mainboard-partnered-with-framework-integrates-cutting-edge-risc-v-processor-technology/"><u>StarFive Unveils New Laptop Mainboard: Partnered With Framework, Integrates Cutting-Edge RISC-V Processor Technology</u></a></li>
 </ul></div>
 

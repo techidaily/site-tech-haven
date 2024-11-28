@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Customize & Optimize Your iPhone Control Center with Expert Advice From ZDNET"
-date: 2024-11-12T17:34:33.732Z
-updated: 2024-11-18T23:45:52.558Z
+date: 2024-11-22T16:05:09.687Z
+updated: 2024-11-28T16:03:27.447Z
 tags:
   - apple
 categories:
@@ -26,11 +26,23 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -39,13 +51,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -56,16 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -85,10 +81,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -104,13 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -154,24 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-precision-focused-speech-conversion-using-google-services/"><u>[Updated] 2024 Approved Precision-Focused Speech Conversion Using Google Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-the-age-update-process-on-tiktok/"><u>2024 Approved Streamline the Age Update Process on TikTok</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/diverse-tongues-common-purpose-in-classrooms/"><u>Diverse Tongues, Common Purpose in Classrooms</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/effective-strategies-for-real-time-video-sharing-on-facebook/"><u>Effective Strategies for Real-Time Video Sharing on Facebook</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-asus-rog-phone-7-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-honor-x50iplus-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Honor X50i+ and Browser | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/instantaneously-unleashing-web-based-agents-with-agentgpt/"><u>Instantaneously Unleashing Web-Based Agents with AgentGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-the-power-of-windows-diskusage-for-storage-optimization/"><u>Leveraging the Power of Windows' DiskUsage for Storage Optimization</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-gpt-navigate-through-the-openai-interface-easily/"><u>Mastering GPT-Navigate Through the OpenAI Interface Easily!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-ai-coding-assistance-comparing-the-capabilities-of-base-copilot-versus-the-enhanced-copilot-pro/"><u>Maximizing AI Coding Assistance: Comparing the Capabilities of Base Copilot Versus the Enhanced Copilot Pro</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/must-have-server-enclosures-and-racks-industry-experts-choice/"><u>Must-Have Server Enclosures & Racks - Industry Experts' Choice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-around-chatgpts-input-size-constraint-for-extended-dialogues/"><u>Navigating Around ChatGPT's Input Size Constraint for Extended Dialogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-future-of-tech-in-business-harnessing-powerful-insights-from-chatgpt-and-whisper-apis/"><u>Navigating the Future of Tech in Business: Harnessing Powerful Insights From ChatGPT and Whisper APIs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-the-chatgpt-is-busy-hurdle-on-windows-platform/"><u>Overcoming the 'ChatGPT Is Busy' Hurdle on Windows Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/plan-like-a-pro-on-a-budget-top-eb-free-ai-itinerary-generators-and-chatgpt-applications-for-travel-buffs/"><u>Plan Like a Pro on a Budget: Top Eb-Free AI Itinerary Generators & ChatGPT Applications for Travel Buffs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simple-steps-to-archive-and-retrieve-past-chatgpt-dialogues-whenever-you-need-them/"><u>Simple Steps to Archive and Retrieve Past ChatGPT Dialogues Whenever You Need Them</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/sony-xperia-5-v-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 5 V Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-interfacing-with-ai-via-quoras-poe-feature/"><u>Step-by-Step Guide: Interfacing With AI via Quora's Poe Feature</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-a-step-by-step-approach-for-effective-spotify-marketing/"><u>[New] 2024 Approved A Step-by-Step Approach for Effective Spotify Marketing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/voiding-invisibility-strategies-for-effective-use-of-youtubes-featured-channels/"><u>[New] Avoiding Invisibility Strategies for Effective Use of Youtube's Featured Channels</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/2024s-top-iphone-data-restoration-software-ranked-for-ios-17-users-uncover-the-leading-options/"><u>2024'S Top iPhone Data Restoration Software Ranked for iOS 17 Users – Uncover the Leading Options!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-mystery-of-grok-ai-with-musks-insight-into-purpose-and-expenses/"><u>Decoding the Mystery of Grok AI with Musk's Insight Into Purpose & Expenses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-edge-computing-the-ins-and-outs-of-on-device-ai/"><u>Demystifying Edge Computing: The Ins and Outs of On-Device AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-how-these-7-apps-master-gpt-4s-ai/"><u>Demystifying How These 7 Apps Master GPT-4's AI</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974903665-effortless-driver-download-for-your-brother-hl-3170cdw-start-now/"><u>Effortless Driver Download for Your Brother HL-3170CDW - Start Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empower-your-customer-experience-by-integrating-chatgpt-with-whatsapp/"><u>Empower Your Customer Experience by Integrating ChatGPT with WhatsApp</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-guide-to-leveraging-anthropics-newly-released-claude-3-platform/"><u>Essential Guide to Leveraging Anthropic's Newly-Released Claude 3 Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exclusive-text-tools-for-you-openais-gpt-tailored-marketplace/"><u>Exclusive Text Tools for You: OpenAI’s GPT Tailored Marketplace</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-genre-to-page-the-ultimate-guide-to-top-5-ai-reading-apps-and-sites/"><u>From Genre to Page: The Ultimate Guide to Top 5 AI Reading Apps and Sites</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macx-mediatrans-30-ios-10-iphone-e6/"><u>MacX MediaTrans バージョン3.0 リリース：iOS 10 / iPhone Eに対応、6つの革新的な新機能を追加！</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/success-story-overcoming-the-challenge-of-a-non-starting-computer-system/"><u>Success Story: Overcoming The Challenge of a Non-Starting Computer System</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unpacking-whatsapps-telephony-and-messaging-system-for-2024/"><u>Unpacking WhatsApp's Telephony and Messaging System for 2024</u></a></li>
 </ul></div>
 

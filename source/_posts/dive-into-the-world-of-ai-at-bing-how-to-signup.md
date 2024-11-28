@@ -1,7 +1,7 @@
 ---
 title: "Dive Into the World of AI at Bing: How-To Signup"
-date: 2024-08-24T12:45:41.002Z
-updated: 2024-08-25T12:45:41.002Z
+date: 2024-11-24T16:09:06.158Z
+updated: 2024-11-28T16:07:54.149Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 
  This [bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and [AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). You may report these to [OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
  OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
@@ -48,24 +52,23 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Here, you must fill in the following information:
 
 1. A title clearly and briefly describing the vulnerability
@@ -81,13 +84,15 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Vulnerabilities Are Eligible for Rewards?
 
  You will be rewarded for any security, functionality, performance, and documentation vulnerability you find in api.openai.com, third-party targets, ChatGPT, ChatGPT plugins, <https://openai.org>, \*/openai.org, OpenAI API keys, openai.com, \*/openai.com, and developer platform playground.
@@ -96,9 +101,6 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Earn Money While Improving OpenAI's Systems
 
  OpenAI's bug bounty program is a great way for you—as an ethical hacker, security researcher, or tech enthusiast—to earn while improving the firm's AI systems.
@@ -109,14 +111,11 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 
  On April 11, 2023, OpenAI announced a bug bounty program as part of its commitment to developing reliable, secure, and advanced AI systems, and anyone with the right skill set can potentially help out.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +124,24 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-macs-best-gif-capture-tools-ranked-and-reviewed/"><u>[New] Mac's Best GIF Capture Tools Ranked and Reviewed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-first-steps-in-using-zooms-group-rooms-for-2024/"><u>[Updated] First Steps in Using Zoom's Group Rooms for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-hubs-for-finding-googles-ad-sponsors-on-video/"><u>2024 Approved Hubs for Finding Google's Ad Sponsors on Video</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-role-in-advancing-research-endeavors/"><u>AI's Role in Advancing Research Endeavors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/androids-voice-controlled-gpt-experience-begins-here/"><u>Android's Voice Controlled GPT Experience Begins Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-generative-ai-models-turning-into-weapons-of-misinformation/"><u>Are Generative AI Models Turning Into Weapons of Misinformation?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/automating-mundane-hr-tasks-through-gpt/"><u>Automating Mundane HR Tasks Through GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-practices-for-avoiding-writing-gaffes-with-chatgpt/"><u>Best Practices for Avoiding Writing Gaffes with ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-windows-prefixes-with-microsoft-services/"><u>Bridging Windows Prefixes with Microsoft Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-20-proven-prompts-that-will-transform-your-ai-experience-curated-by-github-enthusiasts/"><u>ChatGPT Mastery: 20 Proven Prompts That Will Transform Your AI Experience – Curated by GitHub Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-best-ai-companion-gemini-vs-chatgpt-plus/"><u>Choosing the Best AI Companion: Gemini Vs. ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparative-analysis-snapchats-ai-vs-microsofts-bing-chat-on-skype-top-8-distinctions/"><u>Comparative Analysis: Snapchat's AI Vs. Microsoft's Bing Chat on Skype - Top 8 Distinctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-and-tips-for-resolving-the-ce-34878-code-on-your-ps4-console/"><u>Effective Fixes and Tips for Resolving the 'CE-34878' Code on Your PS4 Console</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210713583-9798987218525-how-to-poof-your-best-life/"><u>How to Poof Your Best Life | Free Book</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-navigating-personal-brand-identity-high-engagement/"><u>In 2024, Navigating Personal Brand Identity [High Engagement]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-steam-server-connection-errors/"><u>Troubleshooting Guide: Resolving Steam Server Connection Errors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winxvideo-ai-revamp-your-screen-recordings-with-advanced-webcam-and-audio-capture/"><u>WinxVideo AI: Revamp Your Screen Recordings with Advanced Webcam and Audio Capture</u></a></li>
+</ul></div>
 

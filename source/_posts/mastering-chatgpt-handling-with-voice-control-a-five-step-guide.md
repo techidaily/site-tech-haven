@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT Handling With Voice Control: A Five-Step Guide"
-date: 2024-08-24T12:54:07.834Z
-updated: 2024-08-25T12:54:07.834Z
+date: 2024-11-23T16:01:32.677Z
+updated: 2024-11-28T16:00:57.565Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
 
  OpenAI's advanced chatbot may have reinvigorated the public's interest in artificial intelligence, but few have seriously contemplated the potential security risks associated with this product.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT: Security Threats and Issues
 
  The technology underpinning ChatGPT and other chatbots may be similar, but ChatGPT is in a category of its own. This is great news if you intend to use it as a kind of personal assistant, but worrying if you consider that threat actors also use it.
@@ -29,9 +33,17 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
 
  This just underscores how important it is to[limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) , which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is ChatGPT a Threat to Your Privacy?
 
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/) , but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
 
@@ -40,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
  In any case, you should be careful when using ChatGPT, especially[if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt) , or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Addressing the Security Risks Associated With ChatGPT
 
  Artificial intelligence will be regulated at some point, but it's difficult to imagine a world in which it doesn't pose a security threat. Like all technology, it can—and will—be abused.
@@ -51,22 +64,20 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Raising Awareness Is Key
 
  What will ChatGPT be capable of five or 10 years from now? We can only speculate, but what we do know for sure is that artificial intelligence is not going anywhere.
 
  As even more advanced chatbots emerge, entire industries will have to adjust and learn how to use them responsibly. This includes the cybersecurity industry, which is already being shaped by AI. Raising awareness about the security risks associated with AI is key, and will help ensure these technologies are developed and used in an ethical way.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,4 +86,19 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-twinned-voices-celebrated-on-tiktok/"><u>[New] In 2024, Twinned Voices Celebrated on TikTok</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-lol-factory-robotic-deadwalkers-for-2024/"><u>[Updated] LOL Factory Robotic Deadwalkers for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/effortless-audio-capture-techniques-for-new-windows-11-users-for-2024/"><u>Effortless Audio Capture Techniques for New Windows 11 Users for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exclusive-tips-for-unrestricted-gpt-access-worldwide/"><u>Exclusive Tips for Unrestricted GPT Access Worldwide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-huggingchat-your-open-source-answer-to-chatbot-innovation/"><u>Exploring HuggingChat: Your Open-Source Answer to Chatbot Innovation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-potential-threats-in-the-use-of-chatgpt/"><u>Exploring Potential Threats in the Use of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-a-malfunctioning-computer-with-chatgpts-assistance-effective-strategies/"><u>Fixing a Malfunctioning Computer with ChatGPT's Assistance: Effective Strategies</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/fixing-itunes-how-to-successfully-transfer-music-and-movies-to-your-iphone/"><u>Fixing iTunes: How to Successfully Transfer Music and Movies to Your iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/freelancers-guide-evaluating-bing-chat-and-chatgpt-what-are-the-key-factors/"><u>Freelancer's Guide: Evaluating Bing Chat and ChatGPT - What Are the Key Factors?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-hidden-history-in-your-browser-how-to-tackle/"><u>In 2024, The Hidden History in Your Browser How to Tackle?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/time-lapse-mastery-the-best-mobile-apps-for-creating-breathtaking-videos/"><u>Time-Lapse Mastery The Best Mobile Apps for Creating Breathtaking Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-picks-unleash-creativity-with-free-text-visualizers-online/"><u>Top Picks Unleash Creativity with Free Text Visualizers Online</u></a></li>
+</ul></div>
 

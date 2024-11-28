@@ -1,7 +1,7 @@
 ---
 title: Discover the Top 7 Innovative Features of BARD Introduced at Google I/O 2023
-date: 2024-08-24T12:49:07.897Z
-updated: 2024-08-25T12:49:07.897Z
+date: 2024-11-25T16:04:58.719Z
+updated: 2024-11-28T16:06:47.812Z
 tags:
   - chatgpt
   - open-ai
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 ## Unveiling the Advancements in Google's Bard AI via PaLM 2 - Explore 7 Features
 
  On May 10th, 2023, Google announced a major upgrade to its large language model (LLM) chatbot Bard AI at Google I/O.Google's Pathways Language Model 2 (PaLM 2) will improve Bard's performance by featuring support for different programming languages, third-party extensions, integration with other Google products, and other interesting additions. Let's explore in detail how PaLM 2 will revolutionize Bard AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Support for Different Programming Languages
 
@@ -40,33 +44,29 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) emphasize language, which is why computing mathematical questions and queries can be challenging. They need to use third-party plugins to circumvent this challenge.
 
  However, the PaLM 2 model will better adapt to mathematics, logic, and common sense reasoning. Google developed the model using many science and math texts, including mathematical expressions. Therefore, PaLM 2 will not only solve mathematical problems easily but also reason through the puzzles and offer appropriate diagram illustrations.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Med-PaLM 2
 
 ![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Med-PaLM 2 is a specialized medical LLM model that focuses on medical knowledge. This version is trained and equipped with massive medical texts, including journals, textbooks, clinical notes, and patient records.
 
  According to[Google](https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/) , Med-PaLM 2 can provide answers to medical exam problems at the expert level of a doctor, with an accuracy level of 85%. As of the time of writing, Google is opening up Med-PaLM 2 to a closed group of Google Cloud customers for testing and feedback.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Sec-PaLM 2
 
 ![a padlock on a computer keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/computer-and-web-security-lock.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  Besides Med-PaLM 2, there's Sec-PaLM 2, dedicated to security applications. This AI tool is designed to detect security threats.
 
  Sec-PaLM can analyze and explain the behavior of potentially malicious scripts and detect which ones are actually threats to people and organizations. It was trained on many publicly available security datasets, such as malware samples, vulnerability reports, exploit code, phishing emails, etc.
@@ -82,22 +82,20 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
  Furthermore, Bard can connect to its other company products like Search and Maps. Google Maps will use the AI upgrade to provide immersive views of routes, including landmarks. Google Search will also receive an AI upgrade, enabling it to respond directly to search queries in an interactive, conversational manner.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Workspace
 
 ![Google Docs logo on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Google-Docs-Logo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  Another key area the company plans to upgrade Bard with PaLM 2 is the "Workspace AI collaborator." PaLM 2 will feature on the company's full product range—in Cloud, Colab, Meet, Docs, Maps, Sheets, and others.
 
  The process will become even more seamless as Google promises upgrades for exporting data. You can write codes with Bard and export them into Replit or Google Colab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PaLM 2 WIll Revolutionize Google Bard
 
@@ -105,14 +103,11 @@ No advertising on the website.
 
  So keep your eyes open to see how these new upgrades to Bing AI will perform in the near future.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,4 +116,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-5-hdmi-21-gaming-monitors-you-can-find/"><u>[Updated] In 2024, Top 5 HDMI 2.1 Gaming Monitors You Can Find</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-guide-to-premium-business-sims-of-24-mobilepc-for-2024/"><u>[Updated] The Ultimate Guide to Premium Business Sims of '24 (Mobile/PC) for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-as-a-catalyst-for-mental-resilience/"><u>Artificial Intelligence as a Catalyst for Mental Resilience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-deception-true-tales-of-tech-and-false-fakes/"><u>Avoid Deception: True Tales of Tech & False Fakes!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/battle-of-ingenuity-how-three-distinctive-chatbots-answered-a-creative-challenge/"><u>Battle of Ingenuity: How Three Distinctive Chatbots Answered a Creative Challenge</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-ways-to-unlock-iphone-14-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Best ways to unlock iPhone 14 screen lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-no-legitimate-chatgpt-app-for-windows-thats-malicious-software/"><u>Beware: No Legitimate ChatGPT App for Windows – That's Malicious Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-health-journey-8-essential-chatgpt-add-ons-for-fitness-enthusiasts/"><u>Boost Your Health Journey: 8 Essential ChatGPT Add-Ons for Fitness Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/building-serenity-daily-grounding-techniques-via-ai/"><u>Building Serenity: Daily Grounding Techniques via AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-artificial-intelligence-turn-us-laughing-the-role-of-chatgpt-in-generating-jokes/"><u>Can Artificial Intelligence Turn Us Laughing? The Role of ChatGPT in Generating Jokes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/confidentiality-concerns-why-using-chatgpt-for-private-info-can-be-dangerous/"><u>Confidentiality Concerns: Why Using ChatGPT for Private Info Can Be Dangerous</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gigglemaker-step-by-step-to-fun-videos/"><u>In 2024, GiggleMaker Step-by-Step to Fun Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unlock-easy-paths-for-exceptional-yt-thumbnails/"><u>In 2024, Unlock Easy Paths for Exceptional YT Thumbnails</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/limits-of-video-data-storage-on-modern-drives-a-closer-look-at-64128gb/"><u>Limits of Video Data Storage on Modern Drives - A Closer Look at 64/128GB</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/resolving-hidden-usb-partitions-on-your-pc-a-comprehensive-guide/"><u>Resolving Hidden USB Partitions on Your PC - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-big-with-last-chance-savings-top-38-must-have-costco-cyber-monday-offers-for-electronics-zdnet/"><u>Score Big with Last Chance Savings: Top 38 Must-Have Costco Cyber Monday Offers for Electronics | ZDNET</u></a></li>
+</ul></div>
 

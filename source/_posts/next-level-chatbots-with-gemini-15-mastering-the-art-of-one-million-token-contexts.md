@@ -1,7 +1,7 @@
 ---
 title: "Next-Level Chatbots with Gemini 1.5: Mastering the Art of One Million Token Contexts"
-date: 2024-08-24T12:48:34.397Z
-updated: 2024-08-25T12:48:34.397Z
+date: 2024-11-26T16:03:15.956Z
+updated: 2024-11-28T16:02:24.418Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,10 @@ The below image shows ChatGPT suggesting text corrections.
 
 ![Asking ChatGPT to Edit Text and Spot Grammar Errors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-spotting-spelling-errors.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Bing Chat provides more accurate results by referencing other grammar checkers in real-time.
 
 ![Bing Chat Edits Paragraphs by Quillbot's Standards ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-edits-text.jpg)
@@ -42,6 +46,10 @@ The below image shows ChatGPT suggesting text corrections.
  For instance, the below photo shows that ChatGPT doesn’t know its own launch date.
 
 ![ChatGPT Answering Question About Itself Wrong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-stating-incorrect-information.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Despite these limitations, some writers wholly depend on ChatGPT for topic research. They want quick, convenient answers. However, you can’t replace proper research with AI chatbot conversations. You’ll end up publishing incorrect information.
 
@@ -57,9 +65,6 @@ The below image shows ChatGPT suggesting text corrections.
 
  The upside is that Google rewards well-researched content. Googlebot eventually replaces ranking AI articles that provide no added value to readers. Even results on page one could quickly drop. Just keep publishing quality pieces. You could also brush up on[Google’s helpful content guide update](https://www.makeuseof.com/tips-to-write-for-google-helpful-content-update/) to write even better.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Marketers Revamp Their SEO Strategies
 
  SEO tools often come with a steep price tag. Widely used options like[Ahrefs](https://ahrefs.com/) and[Semrush](https://semrush.sjv.io/c/119570/995972/13053?subId1=UUmuoUeUpU2024741&subId2=emuo&u=https%3A%2F%2Fwww.semrush.com%2F) could set you back by hundreds a month. The fees don’t make sense unless you run all their features.
@@ -73,11 +78,16 @@ The below image shows Bing Chat’s keyword research on AI.
  Since Bing Chat wasn’t designed for SEO research, you must phrase your prompts properly. Don’t just say you need SEO analytics. Ask for specific data, like top-ranking LSI keywords, search volume analytics, and market trends.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Content Mills Publish AI-Generated Articles in Masses
 
 ![Asking ChatGPT to Write a 1,000 word Article on AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-1-000-word-article.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Content mills have always prioritized quantity over quality. But with the availability of AI-driven chatbots, they further sped up the writing process at no extra cost. It’s common for them to publish hundreds of AI content daily.
 
@@ -85,9 +95,6 @@ The below image shows Bing Chat’s keyword research on AI.
 
  Avoid content mills like the plague. They pay industry-low rates, set unrealistic output expectations, and place zero value on quality writing. Your writing career won’t progress while working for them.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Plagiarism Has Become More Widespread
 
  Plagiarism has become more widespread recently. Remember: AI repeats answers. So if multiple writers were to discuss one topic, their articles would share the same angle, structure, outline, and theme. Some writers rephrase texts to avoid getting flagged for plagiarism.
@@ -101,19 +108,21 @@ The below image shows Bing Chat’s keyword research on AI.
 ![ChatGPT Answering a Basic Question General Kowledge Question About AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answers-general-knowledge-question-about-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We started a new chat and reused our prompt, but ChatGPT provided identical facts. It only rephrased its output.
 
 ![Trying to Get ChatGPT to Answer the Same Question About AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answering-a-regenerated-question-about-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Since chatbots generate the same information, writers publishing AI-generated content end up sharing angles. Many even follow similar article structures.
 
  Ultimately, the lack of variation and originality triggers plagiarism offenses. Your site’s ranking will quickly drop, and visitors won’t bother reading your blogs if they’ve already seen them elsewhere.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. AI Chatbots Commodify Subpar Content
 
  As content mills bombard readers with AI-generated pieces, other publications are forced to fight back. Even global media publishers invest in writing tools nowadays. Some use them ironically, while others churn out content to stay relevant.
@@ -122,23 +131,17 @@ The below image shows Bing Chat’s keyword research on AI.
 
  Also, AI writing tools are unsustainable.[Google](https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t) prioritizes authoritative websites that publish well-researched articles—it might start cracking down on AI content soon. It already prohibits manipulating SERP rankings with AI, after all.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Do AI Chatbots Positively or Negatively Impact the Content Industry?
 
  Despite all these points, you can’t just call AI chatbots a positive or negative influence on the content industry. AI is inherently unbiased. Instead of criticizing chatbots, blame writers for exploiting them. Harmful, plagiarized, and damaging output stem from human prejudices—machines only respond to input.
 
  Writers should learn to use AI responsibly. Find out about platforms that can help you find typos, research topics, outline articles, and analyze SEO keywords. Automate rote work whenever possible. Free up your time for writing tasks that require critical thinking and creativity.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +150,20 @@ The below image shows Bing Chat’s keyword research on AI.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-capturefreeplay-cutting-edge-recording-for-gamers/"><u>[Updated] 2024 Approved CaptureFreePlay Cutting-Edge Recording for Gamers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/delving-into-artificial-intelligence-policy-changes-and-their-implications-driven-by-openais-chief-executive/"><u>Delving Into Artificial Intelligence Policy Changes and Their Implications, Driven by OpenAI's Chief Executive</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/does-chatgpt-enforce-any-limitations-on-response-length-in-characters-or-words/"><u>Does ChatGPT Enforce Any Limitations on Response Length in Characters or Words?</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-camon-20-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Camon 20 Pro 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-and-enhance-discover-top-9-gpt-integration-tools/"><u>Elevate & Enhance: Discover Top 9 GPT Integration Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-health-journey-the-best-8-chatgpt-add-ons-for-a-balanced-life/"><u>Elevate Your Health Journey: The Best 8 ChatGPT Add-Ons for a Balanced Life</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-ai-experience-by-choosing-claude-3-over-chatgpt-today/"><u>Enhance Your AI Experience by Choosing Claude 3 Over ChatGPT Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/estrategias-maestrias-para-mejorar-el-desempeno-de-videojuegos-en-windows-10/"><u>Estrategias Maestrías Para Mejorar El Desempeño De Videojuegos en Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-samsung-galaxy-a24-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Samsung Galaxy A24 Phones? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-xiaomi-redmi-note-12-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Xiaomi Redmi Note 12 5G Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-how-to-use-markers-in-video-recording-and-editing/"><u>In 2024, How to Use Markers in Video Recording and Editing?</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-attaching-notes-to-windows-apps/"><u>The Art of Attaching Notes to Windows Apps</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-digital-resonance-a-comprehensive-tutorial-for-echo-addition-in-windows-and-web-audio-applications/"><u>Updated 2024 Approved Digital Resonance A Comprehensive Tutorial for Echo Addition in Windows and Web Audio Applications</u></a></li>
+</ul></div>
 

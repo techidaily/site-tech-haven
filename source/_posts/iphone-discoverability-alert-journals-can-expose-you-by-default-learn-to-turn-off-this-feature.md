@@ -1,7 +1,7 @@
 ---
 title: "IPhone Discoverability Alert: Journals Can Expose You by Default - Learn To Turn Off This Feature"
-date: 2024-11-16T19:27:22.798Z
-updated: 2024-11-18T17:20:12.040Z
+date: 2024-11-21T16:09:41.081Z
+updated: 2024-11-28T16:09:05.386Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to disable Apple Journal's 'Discoverable by Others' setting
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
@@ -50,18 +54,15 @@ To find the Journal app setting, open your Settings app on your iPhone.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Find Privacy & Security
 
 Scroll down and open Privacy & Security within your Apple device's Settings app.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Tap on Journaling Suggestions
 
@@ -70,10 +71,7 @@ Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverabl
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
@@ -85,24 +83,18 @@ Maria Diaz/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **FAQ**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
 
@@ -156,14 +148,16 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-fraps-revolutionizing-gamers-screen-recording/"><u>[New] 2024 Approved Fraps Revolutionizing Gamer's Screen Recording</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-essential-steps-for-organizing-youtube-content/"><u>[New] Essential Steps for Organizing YouTube Content</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-a-unique-ai-writer-guidelebase-for-training-chatgpt-in-your-tone/"><u>Crafting a Unique AI Writer: Guidelebase for Training ChatGPT in Your Tone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-individualistic-gpt-3-writing-guidelines/"><u>Crafting Individualistic GPT-3 Writing Guidelines</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cyber-love-traps-how-artificial-intelligence-fuels-digital-relationship-swindles/"><u>Cyber Love Traps: How Artificial Intelligence Fuels Digital Relationship Swindles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-mysteries-of-claude-2/"><u>Decoding the Mysteries of Claude 2</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-x100-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo X100 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-episodes-your-guide-to-gpodc-mastery/"><u>Prime Episodes Your Guide to GPodC Mastery</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-from-graphics-to-emojis-turning-gifs-into-stickers-on-telegram-and-more-for-2024/"><u>[New] From Graphics to Emojis Turning GIFs Into Stickers on Telegram & More for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplifying-avi-gif-conversion-with-filmora-on-windowsmac/"><u>[Updated] Simplifying AVI-GIF Conversion with Filmora on Windows/Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tier-computing-at-a-desktop-level/"><u>2024 Approved Top-Tier Computing at a Desktop Level</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-g2-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo G2 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-fading-audio-in-adobe-rush/"><u>New Fading Audio in Adobe Rush</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/self-healing-through-tech-are-there-dangers-you-should-watch-for/"><u>Self-Healing Through Tech: Are There Dangers You Should Watch For?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-accessing-chatgpts-extension-options/"><u>Step-by-Step Guide to Accessing ChatGPT's Extension Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-for-leveraging-chatgpt-on-google-sheets-using-gpt-tools/"><u>Step-by-Step Instructions for Leveraging ChatGPT on Google Sheets Using GPT Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-s17-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo S17? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-4-key-advantages-of-integrating-chatgpt-into-your-website-design-strategy/"><u>The 4 Key Advantages of Integrating ChatGPT Into Your Website Design Strategy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-hazards-of-ai-based-therapy-and-psychological-support-systems/"><u>The Hidden Hazards of AI-Based Therapy and Psychological Support Systems</u></a></li>
 </ul></div>
 

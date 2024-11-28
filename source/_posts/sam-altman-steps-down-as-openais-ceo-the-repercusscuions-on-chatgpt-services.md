@@ -1,7 +1,7 @@
 ---
 title: Sam Altman Steps Down as OpenAI's CEO - The Repercusscuions on ChatGPT Services
-date: 2024-08-24T12:49:57.874Z
-updated: 2024-08-25T12:49:57.874Z
+date: 2024-11-23T16:03:36.371Z
+updated: 2024-11-28T16:02:26.709Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,20 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/mplify-your-online-presence-top-5-effective-youtube-strategies-for-2024/"><u>[New] Amplify Your Online Presence Top 5 Effective YouTube Strategies for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-perfect-recording-tool-for-exceptional-youtube-videos/"><u>2024 Approved Perfect Recording Tool For Exceptional YouTube Videos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-z37download-asus-z370-e-drivers-quick-and-easy-step-by-step-tutorial/"><u>ASUS Z37([DOWNLOAD] ASUS Z370-E Drivers | Quick & Easy): Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-12-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 12?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-8-key-problematic-areas-with-openais-chatgpt/"><u>Navigating Through 8 Key Problematic Areas with OpenAI's ChatGPT</u></a></li>
+<li><a href="https://extra-support.techidaily.com/picsart-guide-adding-motion-blur-to-facial-shots-for-dynamic-images-for-2024/"><u>Picsart Guide Adding Motion Blur to Facial Shots for Dynamic Images for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/predictive-security-analysis-spotlight-on-the-biggest-7-upcoming-cyber-trends/"><u>Predictive Security Analysis: Spotlight on the Biggest 7 Upcoming Cyber Trends</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pros-and-cons-of-opting-for-a-local-llm-is-it-the-right-choice/"><u>Pros & Cons of Opting for a Local LLM: Is It the Right Choice?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prove-your-prowess-in-programming-by-uncovering-hidden-flaws-at-openai/"><u>Prove Your Prowess in Programming by Uncovering Hidden Flaws at OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/redefine-your-browsing-experience-bings-smart-ai-search/"><u>Redefine Your Browsing Experience: Bing's Smart AI Search.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-lag-problems-in-rainbow-six-siege-top-fixes-and-tips/"><u>Resolving Lag Problems in Rainbow Six Siege - Top Fixes and Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-browsing-experience-the-ultimate-list-of-chatgpt-extensions/"><u>Revolutionize Your Browsing Experience: The Ultimate List of ChatGPT Extensions</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->

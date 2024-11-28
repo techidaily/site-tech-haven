@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Monitoring Internet Consumption: A Step-by-Step Guide"
-date: 2024-08-24T12:54:17.330Z
-updated: 2024-08-25T12:54:17.330Z
+date: 2024-11-26T16:00:49.269Z
+updated: 2024-11-28T16:01:24.983Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Art of Monitoring Internet Consumption: A Step-by-Step Guide"
@@ -29,16 +29,31 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 2. Then, navigate to**Screen and Video** .  
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -50,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +112,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs-for-2024/"><u>[Updated] Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-video-platform-economics-a-tale-of-two-titles-income-potentials/"><u>2024 Approved Video Platform Economics A Tale of Two Titles' Income Potentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effektieve-videoclips-verkorte-nieuwaardigheid-experimenteer-met-movavis-sterke-verslenginstrumente/"><u>Effektieve Videoclips Verkorte Nieuwaardigheid | Experimenteer Met Movavi's Sterke Verslenginstrumente</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-v30-by-fonelab-android-recover-data/"><u>How to recover lost data from V30?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/implications-of-chatgpts-ability-to-harness-current-data-what-it-signifies-for-all/"><u>Implications of ChatGPT's Ability to Harness Current Data: What It Signifies for All</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insight-into-predictive-ai-working-principles-and-applications/"><u>Insight Into Predictive AI: Working Principles and Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-the-art-of-converting-dall-e-3s-webp-designs-into-popular-jpeg-and-png-pictures/"><u>Master the Art of Converting DALL-E 3'S WebP Designs Into Popular JPEG and PNG Pictures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/masterful-use-of-chatgpt-cutting-out-inefficient-tools/"><u>Masterful Use of ChatGPT: Cutting Out Inefficient Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-user-persona-development-with-chatgpt-a-guide-for-enhanced-outcomes/"><u>Mastering User Persona Development with ChatGPT: A Guide for Enhanced Outcomes</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-tactics-to-conquer-def5-error-windows-11s-onedrive/"><u>Nine Tactics to Conquer DEF5 Error: Windows 11'S Onedrive</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-bert-the-next-evolution-beyond-gpt-for-text-comprehension/"><u>Unveiling the Secrets of BERT: The Next Evolution Beyond GPT for Text Comprehension</u></a></li>
+</ul></div>
 

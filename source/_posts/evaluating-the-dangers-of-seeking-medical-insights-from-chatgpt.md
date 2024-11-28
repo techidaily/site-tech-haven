@@ -1,7 +1,7 @@
 ---
 title: Evaluating the Dangers of Seeking Medical Insights From ChatGPT
-date: 2024-08-24T12:45:13.715Z
-updated: 2024-08-25T12:45:13.715Z
+date: 2024-11-26T16:08:41.684Z
+updated: 2024-11-28T16:00:53.140Z
 tags:
   - chatgpt
   - open-ai
@@ -50,18 +50,20 @@ Here is the standard interpretation of the Turing Test:
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Eugene Goostman
 
  In June 2014, a chatbot named Eugene Goostman claimed to have passed the Turing Test for the first time. Developed by a team of Ukranian programmers, the chatbot posed as a 13-year-old Ukranian boy and managed to convince 33% of a panel consisting of 30 human participants in a series of five-minute conversations.
@@ -71,8 +73,9 @@ Here is the standard interpretation of the Turing Test:
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Google's LaMBDA
 
  So Eugene Goostman may not have passed the Turing test, but how about Google's LaMDA?
@@ -84,8 +87,9 @@ Here is the standard interpretation of the Turing Test:
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore,[Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/) . This is currently available to users in the UK and the United States.
@@ -94,9 +98,6 @@ Here is the standard interpretation of the Turing Test:
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if[AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) .
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
@@ -104,8 +105,9 @@ Here is the standard interpretation of the Turing Test:
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Turing Test Has Not Been Definitively Passed
 
  Artificial intelligence continues to grow, and although there have been several claims, there is still no definitive agreed industry agreement that the Turing Test has been beaten. This is largely due to the subjective nature of what constitutes "intelligence" and the limitations of the Turing Test parameters.
@@ -114,14 +116,11 @@ Here is the standard interpretation of the Turing Test:
 
  The Turing Test might be iconic, but maybe it's time that we shelve it and move on.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +129,19 @@ Here is the standard interpretation of the Turing Test:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-profile-perfection-expert-tips-for-personalized-and-engaging-fb-biographies/"><u>[Updated] 2024 Approved Profile Perfection Expert Tips for Personalized and Engaging FB Biographies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-is-sns-hdr-pro-worth-it-top-alternatives-reviewed/"><u>[Updated] In 2024, Is SNS HDR Pro Worth It? Top Alternatives Reviewed</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-download-various-format-options-zapkolik-video-in-mp4-mov-avi-flv-and-more/"><u>1. Download Various Format Options: Zapkolik Video in MP4, MOV, AVI, FLV, and More</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-dasung-paperlike-color-portable-e-ink-technology-a-high-res-12-screen-at-just-849-in-the-usa/"><u>Experience Dasung Paperlike Color Portable E-Ink Technology: A High-Res 12 Screen at Just $849 in the USA</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oneplus-12-is-unlocked-by-drfone-android/"><u>How To Check if Your OnePlus 12 Is Unlocked</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-heres-what-you-dont-know-about-instagram-story-viewer/"><u>In 2024, Here's What You Don't Know About Instagram Story Viewer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-photomontages-a-comprehensive-guide/"><u>In 2024, Mastering PhotoMontages A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-potential-with-chatgpt-discover-6-creative-ways-to-utilize-its-code-interpreter-feature/"><u>Unlock Potential with ChatGPT: Discover 6 Creative Ways to Utilize Its Code Interpreter Feature</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-greater-potential-with-these-10-advanced-gpt-personalizations-beating-out-chatgpt/"><u>Unlocking Greater Potential with These 10 Advanced GPT Personalizations Beating Out ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-gpt-4-top-5-methods-to-use-it-at-no-cost/"><u>Unlocking the Power of GPT-4: Top 5 Methods to Use It at No Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175727174-upgrade-your-pcs-cooling-with-noctuas-back-in-business-exceptional-120mm-airflow-at-a-steal-for-99/"><u>Upgrade Your PC's Cooling with Noctua's Back in Business – Exceptional 120Mm Airflow at a Steal for $99</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-does-the-shift-in-leadership-at-openai-imply-for-the-development-and-future-of-chatgpt/"><u>What Does the Shift in Leadership at OpenAI Imply for the Development and Future of ChatGPT?</u></a></li>
+</ul></div>
 

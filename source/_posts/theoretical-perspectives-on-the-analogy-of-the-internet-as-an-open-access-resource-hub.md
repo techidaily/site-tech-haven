@@ -1,7 +1,7 @@
 ---
 title: Theoretical Perspectives on the Analogy of the Internet as an Open-Access Resource Hub
-date: 2024-08-24T12:47:15.932Z
-updated: 2024-08-25T12:47:15.932Z
+date: 2024-11-23T16:02:00.853Z
+updated: 2024-11-28T16:03:43.469Z
 tags:
   - chatgpt
   - open-ai
@@ -38,8 +38,9 @@ False news can be categorized into three types:
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -51,13 +52,15 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -69,6 +72,10 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -77,9 +84,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -89,8 +93,9 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -102,23 +107,17 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +126,22 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-behind-the-scenes-top-storytelling-channels-on-yt-2023/"><u>[New] Behind-the-Scenes Top Storytelling Channels on YT, 2023</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hort-video-showdown-comparing-success-on-youtubes-vs-tiktok/"><u>[New] Short Video Showdown Comparing Success on YouTubes Vs. TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-game-optimized-screens-for-ps5-xbox-series-x-gamers/"><u>[Updated] Game-Optimized Screens for PS5, Xbox Series X Gamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>[Updated] Twitch Vs. YouTube An In-Depth Comparative Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capture-the-essence-of-movement-in-iphone-photography/"><u>2024 Approved Capture the Essence of Movement in iPhone Photography</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/close-competition-pumpless-240mm-aio-cooler-trails-by-a-minor-degree-in-benchmarking-against-conventional-pump-units/"><u>Close Competition: Pumpless 240Mm AIO Cooler Trails by a Minor Degree in Benchmarking Against Conventional Pump Units</u></a></li>
+<li><a href="https://review-topics.techidaily.com/comprehensive-guide-addressing-and-repairing-csgo-startup-errors/"><u>Comprehensive Guide: Addressing and Repairing CSGO Startup Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-conversation-the-key-to-outdoor-emergency-prep/"><u>Is Conversation the Key to Outdoor Emergency Prep?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-ai-prompt-creation-discover-the-top-5-online-educational-resources/"><u>Master AI Prompt Creation: Discover the Top 5 Online Educational Resources</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-codegpt-easy-implementation-into-your-visual-studio-workflow/"><u>Mastering CodeGPT: Easy Implementation Into Your Visual Studio Workflow</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-technology-with-toms-expertise/"><u>Navigating the World of Technology with Tom's Expertise</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-gen-conversational-tools-the-10-breakthroughs-outshining-chatgpt/"><u>Next-Gen Conversational Tools: The 10 Breakthroughs Outshining ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-unveils-revolutionary-gpt-4-ai-transforming-technology/"><u>OpenAI Unveils Revolutionary GPT-4 AI: Transforming Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-product-understanding-through-chatgpts-personas/"><u>Optimizing Product Understanding Through ChatGPT's Personas</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/standout-80s-visual-tricks-to-enhance-films-for-2024/"><u>Standout 80S Visual Tricks to Enhance Films for 2024</u></a></li>
+</ul></div>
 

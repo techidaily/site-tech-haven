@@ -1,7 +1,7 @@
 ---
 title: "The Next Generation of iPhones: ZDNet Exposes Spatial Recording and Thinner Edges in the Upcoming iPhone 16 Lineup"
-date: 2024-11-17T18:40:39.713Z
-updated: 2024-11-18T16:06:31.408Z
+date: 2024-11-25T16:14:22.616Z
+updated: 2024-11-28T16:02:28.721Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -46,16 +50,7 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
@@ -71,10 +66,7 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
@@ -103,22 +95,12 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -136,6 +118,10 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417993%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417993.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -171,22 +157,20 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-luminouslabs-top-10-free-and-paid-filters-compare/"><u>[New] 2024 Approved LuminousLabs Top 10 Free & Paid Filters Compare</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-strategies-for-effective-ppt-sharing-in-google-meet-sessions/"><u>[Updated] 2024 Approved Strategies for Effective PPT Sharing in Google Meet Sessions</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-10-immersive-traits-in-filmoras-editing-software/"><u>[Updated] 2024 Approved Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-authenticity-avoiding-copyright-infringement/"><u>ChatGPT Authenticity: Avoiding Copyright Infringement</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-unveiled-navigating-through-8-significant-obstacles/"><u>ChatGPT Unveiled: Navigating Through 8 Significant Obstacles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/contrastive-analysis-the-8-unique-features-of-myai-on-snapchat-against-bing-chat-on-skype/"><u>Contrastive Analysis: The 8 Unique Features of MyAI on Snapchat Against Bing Chat on Skype</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deleting-gpt-3-complete-step-guide/"><u>Deleting GPT-3: Complete Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-how-chatgpt-can-revolutionize-your-time-management-techniques-5-tips-inside/"><u>Discover How ChatGPT Can Revolutionize Your Time-Management Techniques (5 Tips Inside)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-seven-key-upgrades-elevating-googles-bard-ai-with-palm-2-technology/"><u>Discover the Seven Key Upgrades Elevating Google's Bard AI with PaLM 2 Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dodge-scams-authentic-gpt-usage/"><u>Dodge Scams: Authentic GPT Usage</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210405688-9781956736908-dusty-roads-australia/"><u>Dusty Roads Australia | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-chatgpt-now-with-gpt-4-integration/"><u>Elevate Your ChatGPT Now with GPT-4 Integration</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-loom-capture-toolkit-essential-screen-casts-tips/"><u>In 2024, Loom Capture Toolkit Essential Screen Casts Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-fix-authentication-hiccups-with-android-wlan/"><u>Mastering the Fix: Authentication Hiccups with Android WLAN</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-master-key-to-a-clutter-free-steam-account-game-deletion-guide/"><u>The Master Key to a Clutter-Free Steam Account: Game Deletion Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-5-exceptional-sleep-monitoring-apps-on-your-apple-watch/"><u>The Ultimate List: 5 Exceptional Sleep Monitoring Apps on Your Apple Watch</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/top-strategies-for-finding-and-using-a-lost-iphone-x-for-2024/"><u>Top Strategies for Finding & Using a Lost iPhone X for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apc-back-ups-be600m1-review-exceptional-battery-safety-features-with-built-in-phone-charger-function/"><u>APC Back-UPS BE600M1 Review - Exceptional Battery Safety Features with Built-In Phone Charger Function</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-tips-for-perfect-hdr-shots-with-your-iphone/"><u>Essential Tips for Perfect HDR Shots with Your iPhone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-15-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-beginners-pathway-building-a-simple-youtube-signup/"><u>In 2024, A Beginner’s Pathway Building a Simple YouTube Signup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-privacy-in-the-age-of-ai-safeguarding-yourself-from-chatgpt-risks/"><u>Navigating Privacy in the Age of AI: Safeguarding Yourself From ChatGPT Risks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-world-with-toms-hardware-insights-and-reviews/"><u>Navigating the Digital World with Tom's Hardware Insights and Reviews</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/nutrition-blueprints-via-ai-gpt-tips/"><u>Nutrition Blueprints via AI: GPT Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-and-meta-face-litigation-as-artists-rally-behind-sarah-silverman-in-ai-controversy/"><u>OpenAI and Meta Face Litigation as Artists Rally Behind Sarah Silverman in AI Controversy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimizing-visuals-editing-videos-with-storyremix-and-windows-11-photos/"><u>Optimizing Visuals Editing Videos with StoryRemix and Windows 11 Photos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/problems-with-non-appearing-siri-suggestions-heres-how-to-make-them-pop-up-again-on-your-iphone/"><u>Problems with Non-Appearing Siri Suggestions? Here's How to Make Them Pop Up Again on Your iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pros-vs-cons-leveraging-chatgpt-for-your-next-literary-project/"><u>Pros Vs. Cons: Leveraging ChatGPT for Your Next Literary Project</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/publicizing-personalized-gpt-dialogues-securely/"><u>Publicizing Personalized GPT Dialogues Securely</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/recover-lost-files-after-your-iphones-fresh-start-expert-strategies/"><u>Recover Lost Files After Your iPhone's Fresh Start: Expert Strategies 💼</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-information-access-the-role-of-ai-powered-search-engines-for-websites/"><u>Revolutionizing Information Access: The Role of AI-Powered Search Engines for Websites</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/side-earnings-strategies-with-ai-tools-like-chatgpt-expert-advice-on-pc-construction-projects-and-retro-gaming-devices-rundown/"><u>Side Earnings Strategies with AI Tools Like ChatGPT, Expert Advice on PC Construction Projects, and Retro Gaming Devices Rundown</u></a></li>
 </ul></div>
 

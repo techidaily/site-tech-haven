@@ -1,7 +1,7 @@
 ---
 title: Why Upgrading to an iPhone 16 Pro Doesn't Make Sense for Me and My iPhone Ebastion | A Closer Look at Four Major Concerns Addressed by ZDNET
-date: 2024-11-15T22:55:03.124Z
-updated: 2024-11-18T18:52:33.335Z
+date: 2024-11-22T16:12:54.463Z
+updated: 2024-11-28T16:10:27.902Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. We need a clearer Apple Intelligence timeline
 
 Jason Hiner/ZDNET
@@ -39,10 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,20 +124,14 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-essential-tips-to-eliminate-instagram-video-issues/"><u>[New] In 2024, Essential Tips to Eliminate Instagram Video Issues</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-amateur-to-expert-a-compreenhensive-tutorial-on-zoom-recording-quality/"><u>[Updated] From Amateur to Expert A Compreenhensive Tutorial on Zoom Recording Quality</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-high-definition-mastery-best-hd-screen-recorder-selections/"><u>[Updated] High Definition Mastery Best HD Screen Recorder Selections</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unveiling-the-best-zoomed-experience-in-virtual-meetings/"><u>[Updated] In 2024, Unveiling the Best Zoomed Experience in Virtual Meetings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-step-by-step-iphone-guide-for-free-downloaded-podcast-episodes/"><u>2024 Approved Step-by-Step iPhone Guide for Free Downloaded Podcast Episodes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-motorola-defy-2-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Motorola Defy 2</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/llamacow-vs-gpt-4-showdown-determining-the-superior-ai/"><u>Llamacow Vs. GPT-4 Showdown: Determining the Superior AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-restoration-the-key-four-issues/"><u>Mastering ChatGPT Restoration: The Key Four Issues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-text-tech-openais-tailored-language-model-store/"><u>Mastering Text Tech: OpenAI’s Tailored Language Model Store</u></a></li>
-<li><a href="https://article-posts.techidaily.com/next-gen-vision-top-10-cameras-of-the-year-2024/"><u>Next-Gen Vision – Top 10 Cameras of the Year 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-job-hunting-discover-the-power-of-chatgpt-in-six-steps/"><u>Revolutionize Job Hunting: Discover the Power of ChatGPT in Six Steps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-ai-communication-implementing-the-microsoft-bing-chatbot-in-your-androids-keyboard-settings/"><u>Seamless AI Communication: Implementing the Microsoft Bing Chatbot in Your Android's Keyboard Settings</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solve-your-fallout-4-dead-pixels-fixing-the-perplexing-black-display-problem/"><u>Solve Your Fallout 4 Dead Pixels: Fixing the Perplexing Black Display Problem</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/speak-up-discover-how-openai-revolutionizes-chatbot-experience-with-voice-recognition-in-chatgpt/"><u>Speak Up! Discover How OpenAI Revolutionizes Chatbot Experience with Voice Recognition in ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-cyberspace-quest-hackers-and-chatgpt/"><u>The Cyberspace Quest: Hackers and ChatGPT</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-learn-to-speak-text-mastering-ms-words-recognition-capabilities/"><u>[Updated] In 2024, Learn to Speak Text Mastering MS Word's Recognition Capabilities</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-the-full-potential-of-your-instagram-story-with-multiple-images/"><u>[Updated] Unlocking the Full Potential of Your Instagram Story with Multiple Images</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/account-takeover-restoring-access-in-the-new-year-for-2024/"><u>Account Takeover? Restoring Access in the New Year for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bypass-the-blockade-on-chatgpt-understanding-and-resolving-4-common-reasons/"><u>Bypass the Blockade on ChatGPT: Understanding & Resolving 4 Common Reasons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-versus-claude-ai-determining-the-superior-language-model/"><u>ChatGPT versus Claude AI: Determining the Superior Language Model</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chrome-boost-seamless-integration-for-chatgpt-prompts/"><u>Chrome Boost: Seamless Integration for ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/clash-of-the-titans-exploring-8-key-variations-between-snapchat-and-bing-ais-on-skype/"><u>Clash of the Titans: Exploring 8 Key Variations Between Snapchat and Bing AIs on Skype</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-the-most-efficient-combo-of-cable-modems-and-routers-for-this-year/"><u>Expert Picks: The Most Efficient Combo of Cable Modems & Routers for This Year</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-gear-vr-a-comprehensive-phone-compatibility-list-2023-for-2024/"><u>Mastering Gear VR A Comprehensive Phone Compatibility List 2023 for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Organize Email Like a Pro with This Simple Trick—No Need for Complex Rules or Separate Accounts | ZDNET
-date: 2024-11-16T00:50:48.464Z
-updated: 2024-11-18T18:54:31.452Z
+date: 2024-11-21T16:10:28.283Z
+updated: 2024-11-28T16:00:55.811Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The magic of email aliases
 
 An alias is an alternate email address that's linked to your main account. Messages addressed to an alias go to your inbox, right alongside messages sent to your primary address. But because they're _not_ using your regular email address, you can set up your email client to perform custom actions using those aliases.
@@ -61,10 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,10 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -154,19 +146,22 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/advanced-anonymization-techniques-to-blur-faces/"><u>Advanced Anonymization Techniques to Blur Faces</u></a></li>
-<li><a href="https://driver-download.techidaily.com/boost-your-pcs-gameplay-download-the-new-steelseries-engine-for-windows-11-enthusiasts/"><u>Boost Your PC's Gameplay: [Download] The New SteelSeries Engine for Windows 11 Enthusiasts</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/conversion-gratuite-de-pef-a-ligne-movavi-un-guide-complet/"><u>Conversion Gratuite De PEF À Ligne - Movavi: Un Guide Complet</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/effortless-subtitle-acquisition-for-videos-using-vlcs-quick-download-capability/"><u>Effortless Subtitle Acquisition for Videos Using VLC's Quick Download Capability</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evolving-developer-workflows-with-ai/"><u>Evolving Developer Workflows with AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-reality-of-prompt-engineering-as-a-career-key-aspects/"><u>Exploring the Reality of Prompt Engineering as a Career: Key Aspects</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/future-of-digital-safety-7-key-trends/"><u>Future of Digital Safety: 7 Key Trends</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-automated-content-crafting/"><u>Harness the Power of Automated Content Crafting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-ais-power-for-creative-endeavors-an-insight-into-the-strengths-and-weaknesses-of-chatgpt/"><u>Harnessing AI's Power for Creative Endeavors: An Insight Into the Strengths and Weaknesses of ChatGPT</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y36? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-gpt-into-daily-schedules-easily/"><u>Integrating GPT Into Daily Schedules Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/intuitive-guide-to-crafting-chatgpt-requests-using-a-powerful-chrome-enhancement/"><u>Intuitive Guide to Crafting ChatGPT Requests Using a Powerful Chrome Enhancement</u></a></li>
-<li><a href="https://techtrends.techidaily.com/masterclass-transforming-pets-gaze-in-portraits-with-editing-tools/"><u>Masterclass: Transforming Pet's Gaze in Portraits with Editing Tools</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-league-of-legends-slow-download-issue/"><u>[FIXED] League of Legends Slow Download Issue</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-optimizing-content-sharing-from-twitters-to-snaps-for-2024/"><u>[New] Optimizing Content Sharing From Twitters to Snaps for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dial-back-your-playlist-quick-steps-to-reverse-order/"><u>[Updated] In 2024, Dial Back Your Playlist Quick Steps to Reverse Order</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/battle-of-the-brains-evaluating-llama-3-against-gpt-n-4/"><u>Battle of the Brains: Evaluating Llama 3 Against GPT-N-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-your-language-skills-with-chatgpt-plus-a-comprehensive-guide/"><u>Boosting Your Language Skills with ChatGPT Plus: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-coding-quirk-an-insight-into-why-it-fails-at-self-editing-tasks/"><u>ChatGPT's Coding Quirk: An Insight Into Why It Fails at Self-Editing Tasks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-ai-branches-unveiling-the-distinctions-between-nlp-and-ml/"><u>Comparing AI Branches: Unveiling the Distinctions Between NLP and ML</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/converging-ai-and-messaging-chatgpt-meets-whatsapp/"><u>Converging AI & Messaging: ChatGPT Meets WhatsApp</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/craft-your-ais-voice-integrating-your-dataset-with-a-homemade-chatgpt-model/"><u>Craft Your AI's Voice: Integrating Your Dataset with a Homemade ChatGPT Model</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/create-like-never-before-utilizing-free-dall-e-3-via-microsoft-bing/"><u>Create Like Never Before: Utilizing Free DALL-E 3 via Microsoft Bing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cultivating-emotional-savvy-with-chatgpt-techniques-for-personal-growth/"><u>Cultivating Emotional Savvy with ChatGPT: Techniques for Personal Growth</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-c53-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-ps4-captures-with-obs-studio-your-complete-guide/"><u>In 2024, Mastering PS4 Captures with OBS Studio - Your Complete Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-sustained-engagement-determining-the-ideal-frequency-for-your-youtube-channel/"><u>In 2024, Sustained Engagement Determining the Ideal Frequency for Your YouTube Channel</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-video-playback-speeds-in-minutes-not-hours/"><u>Master Video Playback Speeds in Minutes, Not Hours</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vivid-visionary-views-premium-4k-screen-choices/"><u>Vivid Visionary Views Premium 4K Screen Choices</u></a></li>
 </ul></div>
 

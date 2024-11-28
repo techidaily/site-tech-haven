@@ -1,7 +1,7 @@
 ---
 title: "Apple's 'Let Loose' Event Highlights: The Revolutionary M4 iPad Pro, Slimmer 13-Inch iPad Air & Improved Apple Pencil Pro Revealed - Detailed Coverage | GadgetPundit."
-date: 2024-11-13T21:38:07.050Z
-updated: 2024-11-18T17:06:31.237Z
+date: 2024-11-24T16:00:56.331Z
+updated: 2024-11-28T16:05:27.226Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
@@ -33,10 +37,7 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -59,13 +60,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -81,6 +75,10 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -98,34 +96,22 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -174,22 +160,16 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-meme-crafters-guide-to-kinemaster/"><u>[New] Meme Crafters' Guide to KineMaster</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/1715859892938-updated-top-15-open-world-games-to-beat-the-climb/"><u>[Updated] Top 15 Open World Games to Beat the Climb!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-upcoming-autumn-reveal-innovative-additions-to-iphone-ipad-mac-and-beyond-with-cutting-edge-ai-technology/"><u>Apple's Upcoming Autumn Reveal: Innovative Additions to iPhone, iPad, Mac, & Beyond with Cutting-Edge AI Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/are-the-newly-released-2022-airpods-pro-worth-your-money-a-comprehensive-review-by-an-expert-findings/"><u>Are the Newly Released 2022 AirPods Pro Worth Your Money? A Comprehensive Review by an Expert Findings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-right-apple-laptop-macbook-pro-vs-macbook-air-find-your-perfect-match/"><u>Choosing the Right Apple Laptop: MacBook Pro Vs. MacBook Air - Find Your Perfect Match</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/grab-the-apple-pencil-gen-2-for-just-95-this-labor-day-deals-and-discounts/"><u>Grab the Apple Pencil Gen 2 for Just $95 This Labor Day - Deals & Discounts</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-s17e-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo S17e Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi 13T Bootloader Easily</u></a></li>
-<li><a href="https://driver-error.techidaily.com/i-am-also-known-as-a/"><u>I Am Also Known as A</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-10-superior-virtual-background-switchers-guide/"><u>In 2024, 10 Superior Virtual Background Switchers Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-issues-with-windows-event-log-services-connection-problems/"><u>Overcoming Issues with Windows Event Log Services Connection Problems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionary-magsafe-powered-charger-sleek-design-and-rapid-recharge-unveiled/"><u>Revolutionary MagSafe-Powered Charger: Sleek Design & Rapid Recharge Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/supercharge-your-macos-productivity-with-customized-hot-corners-explained-pro-tips/"><u>Supercharge Your macOS Productivity with Customized Hot Corners Explained – Pro Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-mac-optimization-tools-of-2022-recommended-by-tech-experts-at-zdnet/"><u>Top Mac Optimization Tools of 2022 - Recommended by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-of-free-apple-music-access-a-comprehensive-guide-for-students/"><u>Unlocking the Secrets of Free Apple Music Access: A Comprehensive Guide for Students</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-revolutionize-your-workflow-with-lenovos-screen-capture-tools/"><u>[New] Revolutionize Your Workflow with Lenovo's Screen Capture Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-top-10-crafting-engaging-songs-for-fb-videos/"><u>[Updated] FB Top 10 Crafting Engaging Songs for FB Videos</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/building-a-billion-view-empire-your-step-by-step-youtube-strategy-for-2024/"><u>Building a Billion-View Empire Your Step-by-Step Youtube Strategy for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-the-triad-commonplace-vs-controlled-ai-systems/"><u>Demystifying the Triad: Commonplace Vs. Controlled AI Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-5-tools-ai-prompt-generators-transforming-ai-engagement/"><u>Discover the Ultimate 5 Tools: AI Prompt Generators Transforming AI Engagement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dissecting-the-effects-of-restrictions-in-digital-chat-companions/"><u>Dissecting the Effects of Restrictions in Digital Chat Companions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-vulnerability-potential-can-bank-security-be-compromised-by-cybercriminals-through-chatgpt/"><u>Exploring the Vulnerability Potential: Can Bank Security Be Compromised by Cybercriminals Through ChatGPT?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-official-method-to-unlock-your-apple-iphone-13-pro-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 Pro Official Method to Unlock Your Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722956854906-there-must-be-no-clear-right-choice-in-the-situation/"><u>There Must Be No Clear Right Choice in the Situation.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Honor X50 GT | Dr.fone</u></a></li>
 </ul></div>
 

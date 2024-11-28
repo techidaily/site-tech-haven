@@ -1,7 +1,7 @@
 ---
 title: Unveiling Anthropic's Revolutionary Prompt Library
-date: 2024-08-24T12:50:56.278Z
-updated: 2024-08-25T12:50:56.278Z
+date: 2024-11-27T16:00:01.068Z
+updated: 2024-11-28T16:01:55.874Z
 tags:
   - chatgpt
   - open-ai
@@ -27,11 +27,19 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 
 ![Man writing code on a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bug-bounty-programs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  OpenAI promises to protect you from liabilities or penalties if you follow its stated guidelines and will also acknowledge submissions and remedy validated vulnerabilities promptly. Furthermore, OpenAI claims it will publicly recognize your contribution if it is unique and leads to a configuration or code change.
 
  However, you cannot disclose your vulnerability-related findings to the public after submitting them.
 
  This[bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and[AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . You may report these to[OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
@@ -44,8 +52,9 @@ The maximum reward you can earn is $20,000.
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
@@ -53,16 +62,13 @@ The maximum reward you can earn is $20,000.
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 Here, you must fill in the following information:
 
 1. A title clearly and briefly describing the vulnerability
@@ -77,15 +83,8 @@ Here, you must fill in the following information:
 
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Vulnerabilities Are Eligible for Rewards?
 
  You will be rewarded for any security, functionality, performance, and documentation vulnerability you find in api.openai.com, third-party targets, ChatGPT, ChatGPT plugins, <https://openai.org>, \*/openai.org, OpenAI API keys, openai.com, \*/openai.com, and developer platform playground.
@@ -95,22 +94,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Earn Money While Improving OpenAI's Systems
 
  OpenAI's bug bounty program is a great way for you—as an ethical hacker, security researcher, or tech enthusiast—to earn while improving the firm's AI systems.
 
  However, ensure you comply with all specified guidelines and rules of engagement.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +116,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-demystifying-the-journey-to-knowing-who-watches-you/"><u>[New] 2024 Approved Demystifying the Journey to Knowing Who Watches You</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-effortless-online-subtitles-the-leading-free-services/"><u>[New] In 2024, Effortless Online Subtitles The Leading Free Services</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/48761694-new-sharing-stories-that-resonate-with-a-digital-audience-yt/"><u>[New] Sharing Stories that Resonate with a Digital Audience YT</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-significant-aspects-in-techno-narrative-design/"><u>[Updated] 2024 Approved Significant Aspects in Techno Narrative Design</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-pixma-ts3222-driver-installation-and-update-guide/"><u>Canon PIXMA TS3222 Driver Installation & Update Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-masterful-method-smart-watch-to-access-mac/"><u>In 2024, Masterful Method Smart Watch to Access Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715859649632-in-2024-screenmasters-unite/"><u>In 2024, ScreenMasters Unite!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mac-users-guide-effortlessly-recording-impeccable-sounds-for-no-cost/"><u>Mac Users' Guide: Effortlessly Recording Impeccable Sounds for No Cost</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-v30-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo V30 and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-4-big-no-nos-when-creating-content-with-chatgpt/"><u>The 4 Big No-Nos When Creating Content with ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-security-advantage-adding-passcodes-to-your-nintendo-switch-console/"><u>The Security Advantage: Adding Passcodes to Your Nintendo Switch Console</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-ai-language-learn-these-29-important-definitions-for-mastery-in-artifice-intelligence/"><u>The Ultimate Guide to AI Language: Learn These 29 Important Definitions for Mastery in Artifice Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-identifying-and-evading-the-top-9-imitation-viruses-targeting-chatgpt-users/"><u>The Ultimate Guide to Identifying and Evading the Top 9 Imitation Viruses Targeting ChatGPT Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-excel-skills-using-chatgpt-tips/"><u>Transform Your Excel Skills Using ChatGPT Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-imagination-into-visual-reality-with-microsofts-copilot-image-creator-tutorial/"><u>Transform Your Imagination Into Visual Reality with Microsoft's Copilot Image Creator Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-auto-gpt-vs-chatgpt-a-comparative-overview/"><u>Understanding Auto-GPT Vs. ChatGPT: A Comparative Overview</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-the-power-of-chatgpt-on-android-a-users-handbook/"><u>Unleashing the Power of ChatGPT on Android: A User's Handbook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-productivity-chatgpt-for-effective-time-utilization/"><u>Unlocking Productivity: ChatGPT for Effective Time Utilization</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-smart-search-with-bings-ai-on-your-android-device-an-easy-guide/"><u>Unlocking Smart Search with Bing’s AI on Your Android Device: An Easy Guide</u></a></li>
+</ul></div>
 

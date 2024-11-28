@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple's Innovative M4 Processors: Integrating Advanced AI Capabilities Across All Mac Models - Release Timeline"
-date: 2024-11-17T00:54:55.449Z
-updated: 2024-11-18T21:01:59.670Z
+date: 2024-11-27T16:17:53.579Z
+updated: 2024-11-28T16:19:53.915Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is expected at WWDC 2024?
 
 WWDC is typically the event in which Apple takes the wraps off the next major versions of its assorted operating systems. That means we should anticipate demos of iOS 18, iPadOS 18, MacOS 15, WatchOS 11, tvOS 18, and VisionOS 2.0\. 
@@ -49,10 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,20 +128,20 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-streamline-your-virtual-conferencing-from-skype-to-zoom/"><u>[New] 2024 Approved Streamline Your Virtual Conferencing From Skype to Zoom</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-guidelines-for-authoritative-life-lesson-videos/"><u>[Updated] Guidelines for Authoritative Life Lesson Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-direct-hit-the-techno-friendly-way-to-upload-your-short-clips/"><u>[Updated] In 2024, Direct Hit The Techno-Friendly Way to Upload Your Short Clips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/game-on-dive-into-our-funny-reaction-to-plants-vs-zombies-battle-for-neighborville/"><u>Game On! Dive Into Our Funny Reaction to Plants Vs. Zombies Battle for Neighborville</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-105-classic-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Nokia 105 Classic Phones</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/innovative-approaches-to-lut-creation-for-2024/"><u>Innovative Approaches to LUT Creation for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimize-tasks-effortlessly-5-key-tactics-for-chatgpt-and-wolfram-alpha-users/"><u>Optimize Tasks Effortlessly: 5 Key Tactics for ChatGPT & Wolfram Alpha Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/securing-personal-chats-from-chatgpt-saving-mechanisms-essential-advice/"><u>Securing Personal Chats From ChatGPT Saving Mechanisms: Essential Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamlining-your-dialogue-flow-the-role-of-folders-in-chatgpt-conversations/"><u>Streamlining Your Dialogue Flow: The Role of Folders in ChatGPT Conversations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-advantages-of-claude-3-over-gpt-3-top-4-facts/"><u>The Advantages of Claude 3 Over GPT-3 - Top 4 Facts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-etiquette-of-engaging-with-artificial-intelligence-chatgpt-alexa-and-siri/"><u>The Etiquette of Engaging with Artificial Intelligence: ChatGPT, Alexa & Siri</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-narrative-network-7-artistic-ways-to-use-ai-in-game-writing/"><u>The Narrative Network: 7 Artistic Ways to Use AI in Game Writing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-scales-of-ai-capability-comparing-strong-and-weak/"><u>The Scales of AI Capability: Comparing Strong and Weak</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-edit-like-a-pro-best-vertical-video-apps-for-ios-and-android/"><u>Updated 2024 Approved Edit Like a Pro Best Vertical Video Apps for iOS and Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-adding-linguistic-accessibility-to-your-igtv-videos/"><u>[New] In 2024, Adding Linguistic Accessibility to Your IGTV Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-business-mastery-through-youtubes-top-ten-channels/"><u>[Updated] In 2024, Business Mastery Through YouTube's Top Ten Channels</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-starting-from-scratch-stardews-ginger-island-guide/"><u>[Updated] In 2024, Starting From Scratch Stardew's Ginger Island Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-achieving-video-popularity-mastering-youtube-thumbnail-selection/"><u>In 2024, Achieving Video Popularity Mastering YouTube Thumbnail Selection</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-90-lite-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor 90 Lite via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-m54-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy M54 5G?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-integration-of-chatgpt-into-your-google-sheets-a-complete-guide/"><u>Mastering the Integration of ChatGPT Into Your Google Sheets: A Complete Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-document-management-efficiency-officedoc-and-ai-dialogue/"><u>Maximizing Document Management Efficiency: OfficeDoc & AI Dialogue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/my-ai-encounters-vs-bings-virtual-assistant/"><u>My AI Encounters vs Bing's Virtual Assistant</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/practical-tips-and-tricks-for-integrating-artificial-intelligence-agents-into-your-web-browser-with-agentgpt/"><u>Practical Tips and Tricks for Integrating Artificial Intelligence Agents Into Your Web Browser with AgentGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prevent-data-theft-by-ai-scrappers/"><u>Prevent Data Theft by AI Scrappers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/professional-note-capturing-techniques-with-chatgpt-simplified/"><u>Professional Note-Capturing Techniques with ChatGPT Simplified</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/silent-symphony-softening-computer-sounds-system-wide/"><u>Silent Symphony Softening Computer Sounds System-Wide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solving-the-chatgpt-is-currently-overloaded-issue-in-windows/"><u>Solving the 'ChatGPT Is Currently Overloaded' Issue in Windows</u></a></li>
 </ul></div>
 

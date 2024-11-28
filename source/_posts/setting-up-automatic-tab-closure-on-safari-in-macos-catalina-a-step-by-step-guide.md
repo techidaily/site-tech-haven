@@ -1,7 +1,7 @@
 ---
 title: "Setting up Automatic Tab Closure on Safari in macOS Catalina: A Step-by-Step Guide"
-date: 2024-11-17T01:37:33.457Z
-updated: 2024-11-18T20:32:19.791Z
+date: 2024-11-21T16:01:47.262Z
+updated: 2024-11-28T16:03:52.409Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ I connect to a lot of different networks. At home, I have three different LANs t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Macs Apple's Mac lineup can be confusing as the company transitions from Intel processors to its own Apple Silicon processors. But we're here to help.  Read now](https://www.zdnet.com/article/best-mac/)
@@ -39,10 +43,7 @@ Let me show you how it works.
 ## How to create different network locations in MacOS
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -54,10 +55,7 @@ The only thing you'll need is a device running an updated version of MacOS. This
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Network
@@ -73,10 +71,7 @@ Creating a new Network Location in MacOS Monterey.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Configure the new location
@@ -90,10 +85,7 @@ Image: Jack Wallen
 Once you've configured the location exactly how you need it, click Apply to save everything.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Switching to a different Network Location
@@ -139,20 +131,20 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-getting-the-most-out-of-google-meet-for-free/"><u>[New] Getting the Most Out of Google Meet (For Free)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-lightning-windows-image-inspector/"><u>[New] Lightning Windows Image Inspector</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-crafting-countdowns-the-essentials-for-obs-users/"><u>[Updated] 2024 Approved Crafting Countdowns The Essentials for OBS Users</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-tecno-pop-8-frp-bypass-by-drfone-android/"><u>About Tecno Pop 8 FRP Bypass</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beginners-vectors-guide-types-and-applications-demystified-for-2024/"><u>Beginner's Vectors Guide Types & Applications Demystified for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-potential-security-risks-in-using-chatgpt-services/"><u>Exploring Potential Security Risks in Using ChatGPT Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/getting-started-with-chatgpt-on-smartphones-tips-for-android-and-ios/"><u>Getting Started with ChatGPT on Smartphones: Tips for Android and iOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-chatgpt-for-detailed-poetry-books-crafting/"><u>Harnessing ChatGPT for Detailed Poetry Books Crafting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/improving-chatgpt-dialogues-a-guide-to-7-effective-techniques/"><u>Improving ChatGPT Dialogues: A Guide to 7 Effective Techniques</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-play-8t-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Honor Play 8T Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovate-with-ai-navigating-the-features-and-capabilities-of-the-openai-platform/"><u>Innovate with AI: Navigating the Features and Capabilities of the OpenAI Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-user-interaction-crucial-to-advancing-chatgpts-capabilities/"><u>Is User Interaction Crucial to Advancing ChatGPT's Capabilities?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-get-rid-of-tiktok-watermarks-the-best-online-removal-methods-for-2024/"><u>New Get Rid of TikTok Watermarks The Best Online Removal Methods for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-free-from-the-fog-unsticking-sea-of-thieves-load-screen-woes/"><u>Resolving the Issue: Free From the Fog - Unsticking 'Sea of Thieves' Load Screen Woes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-free-and-premium-substitutes-for-adobe-software/"><u>Top Free and Premium Substitutes for Adobe Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-essential-aspects-ignored-by-instagram-story-observers/"><u>2024 Approved Essential Aspects Ignored by Instagram Story Observers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-iphone-efficiency-with-top-secret-voice-triggers-revealed-by-zdnet/"><u>Boost Your iPhone Efficiency with Top-Secret Voice Triggers Revealed by ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-a34-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/repairing-a-broken-wi-fi-link-with-your-surface-pro-a-comprehve-guide/"><u>Repairing a Broken Wi-Fi Link with Your Surface Pro - A Comprehve Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211252805-9782898640209-the-13-keys-to-happiness/"><u>The 13 Keys to Happiness | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tune-up-the-mundane-how-to-add-custom-ringtones-and-sounds-for-a-unique-auditory-experience-on-android/"><u>Tune Up the Mundane How to Add Custom Ringtones & Sounds for a Unique Auditory Experience on Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721955708309-turn-by-turn-navigation/"><u>Turn-by-Turn Navigation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-the-legacy-how-usb-composite-devices-shaped-modern-connectivity/"><u>Understanding the Legacy: How USB Composite Devices Shaped Modern Connectivity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-impostor-gpt-through-mention-driven-inspection/"><u>Unveiling Impostor GPT Through Mention-Driven Inspection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-practical-use-cases-for-chatgpt-a-look-at-seven-key-areas/"><u>Unveiling the Practical Use Cases for ChatGPT: A Look at Seven Key Areas</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-truth-the-top-7-reasons-why-chatgpt-jailbreak-attempts-fail/"><u>Unveiling the Truth: The Top 7 Reasons Why ChatGPT Jailbreak Attempts Fail</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/vacation-internet-tips-maximize-your-experience/"><u>Vacation Internet Tips: Maximize Your Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voice-enabled-chatgpt-on-your-android-device-the-ultimate-how-to/"><u>Voice-Enabled ChatGPT on Your Android Device - The Ultimate How-To</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-artificial-intelligence-isnt-a-one-size-fits-all-solution-for-content-creators/"><u>Why Artificial Intelligence Isn't a One-Size-Fits-All Solution for Content Creators</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-your-pcs-frame-rate-drops-by-two-fps-explained/"><u>Why Your PC's Frame Rate Drops by Two FPS - Explained</u></a></li>
 </ul></div>
 

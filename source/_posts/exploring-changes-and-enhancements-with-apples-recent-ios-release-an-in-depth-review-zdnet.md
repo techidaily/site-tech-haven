@@ -1,7 +1,7 @@
 ---
 title: Exploring Changes and Enhancements with Apple's Recent iOS Release - An In-Depth Review | ZDNet
-date: 2024-11-16T22:39:28.358Z
-updated: 2024-11-18T19:58:08.903Z
+date: 2024-11-22T16:13:42.848Z
+updated: 2024-11-28T16:03:58.662Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Hey Siri, let's talk about Microsoft
 
 Yet now, and urgently, Apple is thrusting itself further into AI. Cupertino [already claims](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) its on-device AI is better than GPT-4\. The name of its on-device system? ReALM (Reference Resolution As Language Modeling), apparently.
@@ -73,16 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -131,22 +126,16 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-the-secrets-of-facebook-lives-dual-display/"><u>[Updated] Unveiling the Secrets of Facebook Live's Dual Display</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1728479758998-windows-11/"><u>网络环境下 Windows 11 共同文件夹详解 - 一个完整指南</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-elevates-the-mac-experience-with-the-launch-of-mac-studio-a-mac-mini-reborn-tech-analysis-by-zdnet/"><u>Apple Elevates the Mac Experience with the Launch of Mac Studio - A Mac Mini Reborn | Tech Analysis by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/controlling-biometrics-for-domain-admins-on-windows-11/"><u>Controlling Biometrics for Domain Admins on Windows 11</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/descargar-musica-sin-problemas-los-13-convertidores-online-libres-de-youtube-a-mp3-lo-mejor-del-202-cuyo/"><u>Descargar Música Sin Problemas: Los 13 Convertidores Online Libres De YouTube a MP3, ¡Lo Mejor Del 202 Cuyo!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-apples-hidden-gem-the-outstanding-iphone-feature-unveiled-by-zdnet/"><u>Discover Apple's Hidden Gem: The Outstanding iPhone Feature Unveiled by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-ipados-18s-latest-enhancements-rolled-out-at-wwdc-2024-find-out-which-models-are-eligible/"><u>Discover iPadOS 18'S Latest Enhancements Rolled Out at WWDC 2024 - Find Out Which Models Are Eligible!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-ways-to-upgrade-windows-storage-safely/"><u>Efficient Ways to Upgrade Windows Storage Safely</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721202670688-effortless-drive-cleanup-with-bitraser-available-now-for-immediate-purchase/"><u>Effortless Drive Cleanup with BitRaser – Available Now for Immediate Purchase!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/introducing-apples-enchanting-on-device-image-generator-the-new-era-post-dall-e-magic-in-photography-futuretech-today/"><u>Introducing Apple's Enchanting On-Device Image Generator: The New Era Post-DALL-E Magic in Photography | FutureTech Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone-upgrade-alert-your-step-by-step-guide-for-accessing-ios-16-beta-version-today-caution-advised-expert-tips-by-zdnet/"><u>IPhone Upgrade Alert: Your Step-by-Step Guide for Accessing iOS 16 Beta Version Today (Caution Advised) | Expert Tips by ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-code-apples-latest-free-ai-upgrade-empowers-developers-read/"><u>Revolutionizing Code? Apple's Latest Free AI Upgrade Empowers Developers - Read !</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/siri-gets-smarter-with-planned-intellectual-upgrades-for-202-still-few-changes-expected-before-that-revealed-by-technewszdnet/"><u>Siri Gets Smarter with Planned Intellectual Upgrades for 202^; Still Few Changes Expected Before That – Revealed by TechNewsZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-energy-savings-activating-battery-saving-features-on-your-apple-watch-techadvice/"><u>Unlocking Energy Savings: Activating Battery Saving Features on Your Apple Watch | TechAdvice</u></a></li>
-<li><a href="https://win-studio.techidaily.com/windows-10-update-pricing-revealed-microsoft-announces-plans-to-charge-users-next-year-comprehensive-analysis/"><u>Windows 10 Update Pricing Revealed: Microsoft Announces Plans to Charge Users Next Year - Comprehensive Analysis</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pocket-sized-mac-viewer-absolutely-free/"><u>[Updated] Pocket-Sized Mac Viewer - Absolutely Free</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-cinematography-closing-in-on-details/"><u>[Updated] Precision Cinematography Closing in on Details</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/demystifying-income-for-t-series-on-youtube-for-2024/"><u>Demystifying Income for T-Series on YouTube for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-smartphone-rankings-shaken-up-as-iphones-capture-top-7-selling-spots-for-the-first-time-insights/"><u>Global Smartphone Rankings Shaken Up as iPhones Capture Top 7 Selling Spots for the First Time | Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-google-pixel-8-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Google Pixel 8 Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-evolutionary-leap-how-gpt4all-works/"><u>The Evolutionary Leap: How GPT4All Works</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-insiders-look-at-openais-bug-bounties-participation-steps-and-rewards-explained/"><u>The Insider's Look at OpenAI's Bug Bounties: Participation Steps and Rewards Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-steps-to-erase-all-of-your-chatgpt-conversation-records/"><u>The Ultimate Guide: Steps to Erase All of Your ChatGPT Conversation Records</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-interaction-with-technology-using-openais-latest-ai-marvel-the-gpt-4-model/"><u>Transform Your Interaction With Technology Using OpenAI's Latest AI Marvel: The GPT-4 Model</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-overwatchs-impact-on-stream-stability-and-latency/"><u>Understanding Overwatch's Impact on Stream Stability and Latency</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor V Purse | Dr.fone</u></a></li>
 </ul></div>
 

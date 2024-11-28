@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Apple's 'Glowtime': A Comprehensive Guide to New Features, Devices, and Specs Announced for the iPhone 16 Event"
-date: 2024-11-13T21:10:43.803Z
-updated: 2024-11-18T17:34:10.376Z
+date: 2024-11-21T16:02:43.049Z
+updated: 2024-11-28T16:05:54.267Z
 tags:
   - apple
 categories:
@@ -27,6 +27,10 @@ If you didn't get to tune in or want a detailed summary of the announcements, ke
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. iPhone 16 series
 
@@ -61,10 +65,7 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -88,16 +89,7 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -125,10 +117,7 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -146,10 +135,7 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -198,17 +184,20 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-cloaking-in-content-an-introduction-to-video-smoothing/"><u>[New] Cloaking in Content An Introduction to Video Smoothing</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-dialogue-dynamics-balancing-verisimilitude-and-style/"><u>[Updated] 2024 Approved Dialogue Dynamics Balancing Verisimilitude and Style</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleashing-the-potential-of-youtube-live-in-depth-insights-into-wirecast-streaming/"><u>2024 Approved Unleashing the Potential of YouTube Live In-Depth Insights Into WireCast Streaming</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-look-at-the-acer-xfa2ns-design-philosophy-its-all-about-function/"><u>Comprehensive Look at the Acer XFA2n's Design Philosophy - It’s All About Function</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convertissez-vos-videos-au-format-webm-sans-frais-guide-pratique-pour-la-transformation-a-partir-du-mkv/"><u>Convertissez Vos Vidéos Au Format WEBM Sans Frais - Guide Pratique Pour La Transformation À Partir Du MKV</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-6-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 6?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ios-18-unveiled-a-step-by-step-guide-to-personalizing-your-iphones-control-center-insights/"><u>IOS 18 Unveiled: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-lawful-mastering-phone-call-recording-features-on-iphones-across-the-usa/"><u>Is It Lawful? Mastering Phone Call Recording Features on iPhones Across the USA.</u></a></li>
-<li><a href="https://techidaily.com/navigating-wet-conditions-with-your-apple-watch-uncover-its-water-resistant-secrets/"><u>Navigating Wet Conditions with Your Apple Watch: Uncover Its Water-Resistant Secrets</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-36-unbeatable-prime-day-bargains-exclusive-apple-products-you-cant-miss/"><u>Top 36 Unbeatable Prime Day Bargains: Exclusive Apple Products You Can't Miss!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-new-possibilities-how-apples-integration-of-nfc-in-iphones-with-third-party-apps-enhances-your-user-experience/"><u>Unlocking New Possibilities: How Apple's Integration of NFC in iPhones with Third-Party Apps Enhances Your User Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/visionos-2-update-showcased-at-worldwide-developers-conference-a-deep-dive-into-new-features-surprises-and-confusions/"><u>VisionOS 2 Update Showcased at Worldwide Developers Conference: A Deep Dive Into New Features, Surprises & Confusions.</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-10-key-devices-for-effective-zoom-sessions/"><u>[New] In 2024, 10 Key Devices for Effective Zoom Sessions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-pioneering-pixels-a-detailed-analysis-of-8k-tvs/"><u>[New] In 2024, Pioneering Pixels A Detailed Analysis of 8K TVs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unveiling-digital-storytellings-key-concepts/"><u>[New] Unveiling Digital Storytelling's Key Concepts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-incredible-drone-photoshoot-contenders-10/"><u>[Updated] 2024 Approved Incredible Drone Photoshoot Contenders #10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-pewdiepie-financial-overview-monetary-metrics/"><u>[Updated] 2024 Approved PewDiePie Financial Overview – Monetary Metrics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-best-lyric-video-makers-you-should-try/"><u>2024 Approved Best Lyric Video Makers You Should Try</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-in-education-how-to-utilize-it-wisely-without-compromising-your-learning/"><u>ChatGPT in Education: How to Utilize It Wisely Without Compromising Your Learning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-on-mobile-discover-why-its-ios-app-outshines-the-traditional-web-interface-in-6-ways/"><u>ChatGPT on Mobile: Discover Why Its iOS App Outshines the Traditional Web Interface in 6 Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-navigating-workplace-rules-and-potential-firing-cases/"><u>ChatGPT: Navigating Workplace Rules and Potential Firing Cases</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-right-tool-chatgpt-with-web-browser-integration-vs-chatgpt-plugin-alternatives/"><u>Choosing the Right Tool: ChatGPT with Web Browser Integration Vs. ChatGPT Plugin Alternatives</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/content-authenticity-at-risk-explore-these-8-pitfalls-when-using-ai-chatbots-for-writing/"><u>Content Authenticity at Risk? Explore These 지8 Pitfalls When Using AI Chatbots for Writing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/copilot-comparison-essential-features-and-upgrades/"><u>CoPilot Comparison: Essential Features & Upgrades</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-chatbot-moderation-in-artificial-intelligence-and-its-influence-on-you/"><u>Decoding Chatbot Moderation in Artificial Intelligence and Its Influence on You</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-revive-your-unresponsive-turtle-beach-recon-70-microphone-a-step-by-step-guide/"><u>How to Revive Your Unresponsive Turtle Beach Recon 70 Microphone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-vs-dailymention-identifying-key-variations-for-2024/"><u>YouTube Vs. DailyMention Identifying Key Variations for 2024</u></a></li>
 </ul></div>
 

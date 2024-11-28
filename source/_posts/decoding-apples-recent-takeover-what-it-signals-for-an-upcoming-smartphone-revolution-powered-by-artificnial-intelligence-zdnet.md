@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple's Recent Takeover: What It Signals for an Upcoming Smartphone Revolution Powered by Artificnial Intelligence | ZDNET"
-date: 2024-11-16T19:09:13.278Z
-updated: 2024-11-19T02:21:25.040Z
+date: 2024-11-22T16:12:02.369Z
+updated: 2024-11-28T16:13:42.546Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
 
@@ -55,13 +59,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -79,10 +76,7 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -97,13 +91,6 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How does systemwide AI text generation work?
 
 Apple
@@ -116,6 +103,10 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Image Playground?
 
 Apple
@@ -127,6 +118,10 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -157,10 +152,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -218,16 +210,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-premier-chillout-pc-game-hits/"><u>[New] 2024 Approved Premier Chillout PC Game Hits</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-enhancing-your-media-projects-with-screenflow/"><u>[New] In 2024, The Ultimate Guide to Enhancing Your Media Projects with ScreenFlow</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-add-a-snapshot-to-your-instagram-story-for-2024/"><u>[Updated] Add a Snapshot to Your Instagram Story for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-flex-your-viewing-muscles-handling-multiple-youtube-videos/"><u>[Updated] In 2024, Flex Your Viewing Muscles Handling Multiple YouTube Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-screen-recording-snapshots-on-mobile/"><u>2024 Approved Step-by-Step Screen Recording Snapshots on Mobile</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-iphones-iphone-16-versus-iphone-15-essential-points-for-choosing-apples-latest-smartphone-cnet/"><u>Comparing iPhones: IPhone 16 Versus iPhone 15 – Essential Points for Choosing Apple's Latest Smartphone | CNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/identifying-and-locating-hidden-airtags-around-you-insights-from-zdnet/"><u>Identifying and Locating Hidden AirTags Around You - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/selecting-the-perfect-ipad-pro-a-head-to-head-analysis-of-the-m1-vs-m2-processors-techadvisor/"><u>Selecting the Perfect iPad Pro: A Head-to-Head Analysis of the M1 Vs. M2 Processors | TechAdvisor</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-adding-a-license-to-iphones-wallet-app-varies-by-location-tech-insights/"><u>Step-by-Step Tutorial on Adding a License to iPhone's Wallet App (Varies by Location) | Tech Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-apple-watch-straps-of-2024-professional-ratings-and-reviews-by-tech-experts/"><u>Top-Rated Apple Watch Straps of 2024: Professional Ratings & Reviews by Tech Experts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-successfully-installed-gpu-after-errors/"><u>Windows: Successfully Installed GPU After Errors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-essential-sports-highlight-film-manual/"><u>[New] 2024 Approved The Essential Sports Highlight Film Manual</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/uilding-your-asmr-empire-key-concepts-and-best-practices-for-2024/"><u>[New] Building Your ASMR Empire Key Concepts and Best Practices for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-capture-and-preserve-windows-11-screens/"><u>[New] In 2024, Capture & Preserve Windows 11 Screens</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-comprehensive-guide-to-ringtones-for-snapchat-users/"><u>[New] In 2024, Comprehensive Guide to Ringtones for Snapchat Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-targeted-success-identifying-youtube-niche-demand/"><u>[Updated] 2024 Approved Targeted Success Identifying YouTube Niche Demand</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-vertical-vs-horizontal-deciding-facebook-video-orientation/"><u>[Updated] In 2024, Vertical vs Horizontal Deciding Facebook Video Orientation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-moto-g04-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola Moto G04 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-love-with-ai-how-chatgpt-can-transform-your-tinder-experience/"><u>Navigating Love with AI: How ChatGPT Can Transform Your Tinder Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-numbers-with-ai-7-cutting-edge-tools-for-mathematical-success/"><u>Navigating Numbers with AI: 7 Cutting-Edge Tools for Mathematical Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/no-emoji-tweets-on-twitter-linuss-insight-revealed-trojans-explained-and-chatgpt-concerns-addressed/"><u>No Emoji Tweets on Twitter, Linus's Insight Revealed, Trojans Explained, & ChatGPT Concerns Addressed.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-writings-with-ai-help/"><u>Optimizing Writings with AI Help</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-start-navigating-and-maximizing-your-experience-with-openais-custom-gpt-solutions/"><u>Quick Start: Navigating and Maximizing Your Experience with OpenAI’s Custom GPT Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-website-building-process-using-chatgpt-4-key-strategies/"><u>Revolutionize Your Website Building Process Using ChatGPT - 4 Key Strategies</u></a></li>
 </ul></div>
 

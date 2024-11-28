@@ -1,7 +1,7 @@
 ---
 title: "High-End LAPTOP Clash: Samsung Galaxy Book 2 Ultra versus Apple MacBook Pro - In-Depth Comparison on ZDNet"
-date: 2024-11-18T01:53:07.548Z
-updated: 2024-11-19T00:44:01.692Z
+date: 2024-11-24T16:08:01.371Z
+updated: 2024-11-28T16:02:40.580Z
 tags:
   - apple
 categories:
@@ -50,10 +50,7 @@ There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic
 Samsung
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You're committed to Samsung's ecosystem
@@ -72,6 +69,10 @@ If you've already got a Galaxy smartphone or tablet, there are definitely practi
 
 Macs have never matched their Windows-based counterparts when it comes to gaming. Despite the massive boost in power provided by Apple's M2 Pro and Max chips, this remains true. Of course there's the issue that a handful of gaming titles are available for MacOS, almost none of which are new or AAA games. But an equally big problem is MacBooks' lack of discrete GPUs. The Galaxy Book 3 Ultra, on the other hand, has options for an [Nvidia RTX 4050 or 4070 GPU](https://www.zdnet.com/article/nvidia-unveils-its-latest-studio-laptop-series-which-showcases-its-fastest-most-powerful-gpu-chip/), either of which should offer frame rates that are playable to exceptional for almost any title. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  3\. You want maximum software compatibility
 
 Two factors make Samsung's Galaxy Book 3 Ultra more widely compatible: its operating system and its CPU. First, the device runs Windows, which remains the OS with the widest range of supported software across most categories. MacOS is in a much better place than it once was, but there remain software titles that are still available only for Windows. 
@@ -82,6 +83,10 @@ The other factor is Apple's switch to its own silicon. When Apple was using Inte
 
 [Buy Samsung's Galaxy Book 3 Ultra $2,199 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy Apple's 16-inch M2-gen MacBook Pro if...
 
 The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook Pro.
@@ -89,10 +94,7 @@ The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook 
 Apple
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You, or your family, are committed to Apple's ecosystem
@@ -114,16 +116,13 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 **Also:** [**Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which Android flagship is king?**](https://www.zdnet.com/article/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You're a content creator looking for a mobile desktop replacement
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  3\. You need a ton of RAM or storage
 
@@ -132,13 +131,6 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 **Also: [Apple's new MacBook Pro with M2 Pro chip is a compelling package](https://www.zdnet.com/article/apples-new-macbook-pro-with-m2-pro-chip-is-a-compelling-package/)**
 
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -193,22 +185,18 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/peedy-workshop-converting-your-visuals-into-stellar-youtube-pics/"><u>[New] Speedy Workshop Converting Your Visuals Into Stellar YouTube Pics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-deleting-items-from-your-youtubeumbers-list/"><u>[Updated] In 2024, Guide Deleting Items From Your YouTube'umbers List</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-quick-fixes-to-resume-paused-stream-on-facebook/"><u>[Updated] In 2024, Quick Fixes to Resume Paused Stream on Facebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-powerpoint-presentations-enhancing-clarity-with-voiceovers-for-2024/"><u>[Updated] PowerPoint Presentations Enhancing Clarity with Voiceovers for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-your-ultimate-roadmap-for-optimal-youtube-video-resolution-width-and-height-for-2024/"><u>[Updated] Your Ultimate Roadmap for Optimal YouTube Video Resolution, Width & Height for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-monthly-earnings-from-youtube-for-creators/"><u>2024 Approved Monthly Earnings From YouTube for Creators</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-tomorrows-reality-progress-in-virtual-worlds/"><u>2024 Approved Tomorrow's Reality Progress in Virtual Worlds</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-perfect-tablet-and-finding-the-best-device/"><u>Choosing the Perfect Tablet and Finding the Best Device.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expand-your-workspace-seamlessly-set-up-a-second-monitor-on-your-m1-mac-mini-with-ease-insights-by-zdnet/"><u>Expand Your Workspace: Seamlessly Set Up a Second Monitor on Your M1 Mac Mini with Ease | Insights by ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-cause-behind-yesterdays-failed-imessage-deliveries-insights/"><u>Exploring the Cause Behind Yesterday’s Failed iMessage Deliveries: Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/get-your-hands-on-apple-m2-macbook-air-for-less-than-850-now-at-amazon-way-ahead-of-octobers-prime-day-specials-cnet-deals-spotlight/"><u>Get Your Hands on Apple M2 MacBook Air for Less Than $850 Now at Amazon, Way Ahead of October's Prime Day Specials! | CNET Deals Spotlight</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/instant-solutions-for-unresponsive-gaming-controllers-step-by-step-repair-tips/"><u>Instant Solutions for Unresponsive Gaming Controllers - Step-by-Step Repair Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone-16-care-tips-how-investing-in-a-quality-case-can-save-you-from-costly-repairs/"><u>IPhone 16 Care Tips: How Investing in a Quality Case Can Save You From Costly Repairs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/snag-the-new-9th-generation-ipad-at-a-bargain-price-of-250-following-apples-recent-launch-insights/"><u>Snag the New 9Th Generation iPad at a Bargain Price of $250 Following Apple's Recent Launch - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-strategies-for-saving-iphone-files-via-icloud-and-macos-utilities/"><u>Step-by-Step Strategies for Saving iPhone Files via iCloud and macOS Utilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1727794698378-top-rated-ipad-models-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated iPad Models - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveil-advanced-gadgets-through-toms-comprehhardware-overview/"><u>Unveil Advanced Gadgets Through Tom's Compreh#Hardware Overview</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expert-strategies-for-choosing-ideal-youtube-banner-dimensions/"><u>[Updated] 2024 Approved Expert Strategies for Choosing Ideal YouTube Banner Dimensions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-personalized-cost-free-epilogue-soundscape-creation/"><u>[Updated] Personalized, Cost-Free Epilogue Soundscape Creation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-new-photography-these-are-your-cams-in-24/"><u>2024 Approved New Photography? These Are Your Cams in '24</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722150421458-combat-digital-kidnappers-with-50-mobile-defense-insights-and-updates-on-our-ai-powered-podcast-journey/"><u>Combat Digital Kidnappers with $50 Mobile Defense – Insights & Updates on Our AI-Powered Podcast Journey</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/comparing-apples-m1-pro-and-m1-max-key-distinctions/"><u>Comparing Apple's M1 Pro and M1 Max Key Distinctions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-moto-g-stylus-2023-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-curated-selections-find-your-perfect-tv-with-these-6-prime-online-retailers/"><u>Expertly Curated Selections: Find Your Perfect TV with These 6 Prime Online Retailers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secure-your-privacy-with-easy-to-follow-picscanner-methods/"><u>Secure Your Privacy with Easy-to-Follow PicScanner Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transition-at-apple-phasing-out-finewoven-products-in-favor-of-newly-launched-beats-cases-reveals-analysis-by-zdnet/"><u>Transition at Apple: Phasing Out FineWoven Products in Favor of Newly Launched Beats Cases, Reveals Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-duo-gemini-max-and-supercharged-gpt/"><u>Ultimate Duo: Gemini Max & Supercharged GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-claude-2-an-in-depth-guide-on-its-capabilities-and-applications/"><u>Unveiling Claude 2: An In-Depth Guide on Its Capabilities and Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/whynosubscriptions-eager-for-gpt-resumption/"><u>WhyNoSubscriptions: Eager for GPT Resumption</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/worried-about-your-privacy-with-chatgpt-learn-the-steps-to-disconnect/"><u>Worried About Your Privacy with ChatGPT? Learn the Steps to Disconnect</u></a></li>
 </ul></div>
 

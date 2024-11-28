@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Making It Easier for iOS Users to Switch to Android - Apple's New Initiative | CNET News"
-date: 2024-11-13T02:51:38.887Z
-updated: 2024-11-18T21:13:42.830Z
+date: 2024-11-26T16:04:02.475Z
+updated: 2024-11-28T16:11:04.584Z
 tags:
   - apple
 categories:
@@ -35,10 +35,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,6 +62,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -82,10 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -97,10 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,16 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -172,24 +158,21 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-captivating-content-for-a-consistent-climb-in-subscribers/"><u>[Updated] Crafting Captivating Content for a Consistent Climb in Subscribers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-picks-for-instagram-soundtracks-and-how-to-design-a-stellar-chime/"><u>[Updated] Top Picks for Instagram Soundtracks & How to Design a Stellar Chime</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-focusing-on-fine-details-a-minecraft-journey/"><u>2024 Approved Focusing on Fine Details A Minecraft Journey</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/amazons-persuasive-power-how-i-found-myself-unplannedly-buying-an-apple-watch-zdnet-insights/"><u>Amazon's Persuasive Power: How I Found Myself Unplannedly Buying an Apple Watch | ZDNET Insights</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-xiaomi-redmi-12-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Xiaomi Redmi 12 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-latest-offer-the-apple-watch-ultra-slashed-to-historic-lows-before-the-festive-season-shop-smart-s-guide/"><u>Apple's Latest Offer: The Apple Watch Ultra Slashed to Historic Lows Before the Festive Season - Shop Smart 'S Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-iphone-1e-pro-and-iphone-14-pro-max-a-comprehensive-guide-to-making-the-right-switch/"><u>Comparing iPhone 1E Pro and iPhone 14 Pro Max: A Comprehensive Guide to Making the Right Switch</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/detailed-dissection-what-makes-obs-a-top-recorder-in-2024/"><u>Detailed Dissection What Makes OBS a Top Recorder, In 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-improved-airpods-4-from-apple-now-comes-with-a-speaker-tracker-and-convenient-usb-c-connection-gizmoworld-insights/"><u>Discover the Improved AirPods 4 From Apple, Now Comes With a Speaker Tracker and Convenient USB-C Connection - GizmoWorld Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/end-of-an-era-saying-goodbye-to-iphone-13-and-15-pro-top-picks-for-your-next-smartphone-tech-analysis/"><u>End of an Era: Saying Goodbye to iPhone 13 and 15 Pro - Top Picks for Your Next Smartphone | Tech Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-ios-175-brought-back-deleted-photos-insights-from-apple-and-future-actions-for-users/"><u>How iOS 17.5 Brought Back Deleted Photos - Insights From Apple & Future Actions for Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-the-apple-watch-ultra-2-became-a-game-changing-wearable-for-me-now-with-100-off-on-labor-day-exclusive-review-by-zdnet/"><u>How the Apple Watch Ultra 2 Became a Game-Changing Wearable for Me, Now with $100 Off on Labor Day | Exclusive Review by ZDNET</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitterscapes-peak-hours-top-10-influencing-videos-of-the-day/"><u>In 2024, Twitterscape's Peak Hours Top 10 Influencing Videos of the Day</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-playback-problems-why-wont-my-dvd-work-on-windows-heres-help/"><u>Solving Playback Problems: Why Won't My DVD Work on Windows? Here’s Help!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723262284445-sticking-to-plans-the-much-awaited-ryzen-5000xt-series-drops-this-month-as-promised-by-amd/"><u>Sticking to Plans: The Much-Awaited Ryzen 5000XT Series Drops This Month, as Promised by AMD.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-almost-perfect-tech-accessory-on-my-arm-score-the-apple-watch-ultra-2-for-100-less-this-labor-day-exclusive-review/"><u>The Almost Perfect Tech Accessory on My Arm - Score the Apple Watch Ultra 2 for $100 Less This Labor Day | Exclusive Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-laptop-face-off-apples-macbook-pro-meets-samsungs-galaxy-book-groovy-vs-in-depth-comparison-by-pcmag/"><u>Ultimate Laptop Face-Off: Apple's MacBook Pro Meets Samsung's Galaxy Book Groovy vs - In Depth Comparison by PCMag</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unpacking-the-sensible-choice-a-detailed-review-of-the-apple-iphone-se-2e/"><u>Unpacking the Sensible Choice - A Detailed Review of the Apple iPhone SE 2E</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-advice-enhancing-control-over-snapchat-video-speed/"><u>[New] Expert Advice Enhancing Control Over Snapchat Video Speed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-ultimate-amazon-prime-series-most-liked-and-watched-on-twitter/"><u>[New] The Ultimate Amazon Prime Series Most Liked & Watched on Twitter</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unlock-vivid-visuals-windows-hdplus-guide-to-hdr-mastery/"><u>[New] Unlock Vivid Visuals Windows HD+ Guide to HDR Mastery</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unlock-the-power-of-partnerships-youtube-ads-with-a-famebit-edge/"><u>[Updated] 2024 Approved Unlock the Power of Partnerships YouTube Ads with a FameBit Edge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722167425676-50-bargain-alert-for-the-latest-mobiles-plus-a-deep-dive-into-decoding-ransomware-with-chatgpt-dont-miss-our-informative-podcast/"><u>$50 Bargain Alert for the Latest Mobiles! Plus a Deep Dive Into Decoding Ransomware with ChatGPT - Don't Miss Our Informative Podcast</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722209485861-50-mobiles-and-mastering-ransomware-decryption-join-us-as-chatgpt-helps-write-the-latest-episode-of-our-podcast/"><u>$50 Mobiles & Mastering Ransomware Decryption: Join Us as ChatGPT Helps Write the Latest Episode of Our Podcast</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-magic-vs-2withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Magic Vs 2with/without a PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-magic-6-lite-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Magic 6 Lite has been deleted.</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/storage-solutions-increase-your-pcs-capacity/"><u>Storage Solutions: Increase Your PC's Capacity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-for-protecting-emails-with-macos-mail-safelisting-techniques/"><u>The Ultimate Walkthrough for Protecting Emails with MacOS Mail Safelisting Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721832631940-transform-how-you-search-bings-ai-ready-for-mobile-devices/"><u>Transform How You Search: Bing’s AI Ready for Mobile Devices.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722191689928-unravel-crime-scenes-with-these-top-4-advanced-ai-detective-games-sharpen-your-deduction-skills/"><u>Unravel Crime Scenes with These Top 4 Advanced AI Detective Games - Sharpen Your Deduction Skills!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-bing-ai-chat-in-android-keyboard-technology/"><u>Unveiling the Power of Bing AI Chat in Android Keyboard Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/vpn-innovations-meet-silicon-jokesters-how-secure-connections-shape-smart-comedy/"><u>VPN Innovations Meet Silicon Jokesters: How Secure Connections Shape Smart Comedy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-can-keeping-up-with-latest-data-matter-for-all-when-using-chatgpt/"><u>Why Can Keeping Up with Latest Data Matter for All When Using ChatGPT?</u></a></li>
 </ul></div>
 

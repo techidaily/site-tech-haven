@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Installing the Open Source Office Program, LibreOffice, in Place of MS Office on macOS Devices | ZDNET Insights
-date: 2024-11-14T19:12:24.776Z
-updated: 2024-11-18T19:08:20.426Z
+date: 2024-11-24T16:06:22.145Z
+updated: 2024-11-28T16:08:50.441Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ That's why ZDNET is here to cut through the noise. Here's our one-stop guide for
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A screen protector
 
 An iPad is an investment, and a [screen protector](https://www.zdnet.com/article/best-ipad-screen-protector/) is a low-cost way to equip your iPad with an added layer of protection. Plus, some iPad screen protectors offer extra features, like blue light filtering and privacy screening in addition to guarding against fingerprints, dust, dirt, drops, cracks, and scratches. It should be common sense to outfit your iPad with one, just as I'd recommend ensuring your phone has a screen protector, too. 
@@ -43,13 +47,6 @@ It fits onto your screen tightly with an EZ Apply Tray to simplify application, 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BFBTBBHR%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1611728030&subId1=zd-__COM_CLICK_ID__-dtp)[View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6518316%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6518316.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1) 
 
 [Best iPad screen protector for a paper-like feel Paperlike 2.1 iPad Screen Protector The Paperlike screen protector transforms your screen to feel like a piece of paper and mimics a more realistic writing, drawing, and sketching experience. It's made of tempered glass with a smooth, scratch-resistant surface and reinforced edges for better longevity. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJS86VV9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[Best privacy iPad screen protector Sahara iPad ZeroDamage UltraStrong+ Tempered Glass Screen Protector You'll also be assured that whatever you're watching, working on, or browsing stays unseen by passerbys thanks to the Sahara's privacy screen, which blocks the view of any person trying to view your screen, whether to the left or right of you, within a 38-degree angle. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BNCGQJ18%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A basic case
 
@@ -70,6 +67,10 @@ What's even better is that Zugu offers a [one-time AppleCare+ repair fee](https:
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F288500020&subId1=zd-__COM_CLICK_ID__-dtp)[View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6478014%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6478014.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)[View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07YF3PZ7Z%2Fref%3Dasc%5Fdf%5FB07YF3PZ7Z1727521200000%3Fcreative%3D395261%26creativeASIN%3DB07YF3PZ7Z%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1) 
 
 [Best standard iPad case Casetify Impact Case The Casetify Impact Case combines style and function. It features Casetify's EcoShock technology and enhanced protective corners for extra security, and is drop-rated up to 4ft. Along with a secure exterior, the Impact case features Apple Pencil charging for easy stylus integration. View at Casetify](https://casetify.hyyc7q.net/c/159047/228232/3937?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.casetify.com%2Fproduct%2FhISQZ%5Fgroovy-pattern%2Fipad-air-109-2020%2Fipad-ultra-impact-case&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best iPad case from Apple Apple Smart Folio Case It's hard to beat a case coming straight from the manufacturer. When you choose the Apple-designed Smart Folio for your iPad, you're not just guaranteed a perfect fit. You also get functionality that can make it easier to both protect and use your tablet, like the ability to charge your Apple Pencil with the case on. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-smart-folio-for-ipad-10th-generation-sky%2F6340395.p%3F&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A keyboard case
 
@@ -109,19 +110,6 @@ Keep in mind that the third iteration of Apple's handy [pencil may be launching 
 
 [Best Apple Pencil for new iPad models (2024) Apple Pencil Pro Apple's newest Apple Pencil Pro is available for preorder now. Designed for the new iPad Air and Pro models, it features Find My technology, as well as offers new features like squeeze and barrel roll for more precision. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best comfortable stylus Logitech Crayon Even though this stylus is from Logitech, it is built using Apple Pencil technology and can be used with hundreds of Apple Pencil-supported apps. In fact, it's the only non-Apple stylus with Apple's stamp of approval (and even sold on Apple's website). Its flat form factor is much more comfortable than the Apple Pencil, offering a reassuring grip. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07JFP5G4L%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[Best dual-tip stylus Zagg Pro Stylus The Zagg Pro stylus stands out in our list because it's a dual-tip stylus. The end tip is excellent for scrolling, while the active tip is built for drawing and writing (with tilt recognition to boot). It also has palm-rejection technology and can attach magnetically to iPad Pro models. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08M6FGQ94%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You might also need:
 
 While everyone's idea of essential accessories for their iPad will be different, here's a few other top-tested items we think amp up your iPad's function and are worth the investment.
@@ -143,28 +131,12 @@ While everyone's idea of essential accessories for their iPad will be different,
 [Logitech i345 Portable Wireless Mouse for iPad $22.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08MY7JDT4%2Fref%3Dasc%5Fdf%5FB08MY7JDT41727521200000%3Fcreative%3D395261%26creativeASIN%3DB08MY7JDT4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best iPad?
 
 ZDNET's top pick for the best iPad is the iPad Air (5th generation) because it includes nearly all of the best features the iPad has to offer at a price that's more approachable than the iPad Pro. However, we'd recommend the 10th-generation iPad model for Facetime and Zoom purposes, and those who want a portable tablet for reading should go with the iPad Mini (6th generation). 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the new iPad models?
 
@@ -174,6 +146,10 @@ Apple announced the 6th-generation iPad Air and the 7th-generation iPad Pro mode
 
 The new iPad Air comes in two sizes for the first time (11 inches and 13 inches) and features the M2 chip. In addition, the iPad Air now starts at 128GB instead of the mere 64GB that Apple previous included in the base model.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is there a new Magic Keyboard?
 
 Yes, there is a new Magic Keyboard for the iPad Pro. On May 7, Apple announced an upgraded version of its Apple Magic Keyboard for the iPad Pro, where the brand simultaneously unveiled brand new iPads. 
@@ -181,6 +157,10 @@ Yes, there is a new Magic Keyboard for the iPad Pro. On May 7, Apple announced a
 **Also:** [**Everything Apple announced at its 'Let Loose' iPad event**](https://www.zdnet.com/article/everything-apple-announced-at-its-ipad-event-today-ipad-pro-air-pencil-m4-and-more/)
 
 This new Magic Keyboard is only compataible with the new M4 iPad Pro 11-inch and 13-inch models, and includes a larger trackpad, a function row, and other upgraded features. It is available for preorder now. The [11-inch Magic Keyboard](https://www.apple.com/shop/product/MWR03LL/A/magic-keyboard-for-ipad-pro-11%E2%80%91inch-m4-us-english-white) model will costs $299 while the [13-inch is $399](https://www.apple.com/shop/product/MWR43LL/A/magic-keyboard-for-ipad-pro-13%E2%80%91inch-m4-us-english-white). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's the Apple Pencil Pro?
 
@@ -216,21 +196,19 @@ The Apple Pencil Pro was announced on May 7 and features a slew of new features 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-discover-the-best-online-ringtone-stores-for-pixels/"><u>[New] Discover the Best Online Ringtone Stores for Pixels</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728499427242-windows-7/"><u>「コマンドラインでWindows 7ファイルを複写する方法」</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/automated-marketing-with-cutting-edge-cookiebot-technology/"><u>Automated Marketing with Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-a05-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy A05 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/complete-guide-fixing-fifa-20-game-crashes-on-windows-pcs/"><u>Complete Guide: Fixing FIFA 20 Game Crashes on Windows PCs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-openai-reward-security-researchers-with-its-bug-bounty-scheme/"><u>How Does OpenAI Reward Security Researchers with Its Bug Bounty Scheme?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-image-creation-with-chatgpt-an-ultimate-guide/"><u>Mastering the Art of Image Creation with ChatGPT: An Ultimate Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/prioritizing-factors-when-implementing-ai-for-emotional-support-via-chatgpt/"><u>Prioritizing Factors when Implementing AI for Emotional Support via ChatGPT</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-google-pixel-8-pro-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Google Pixel 8 Pro has been deleted.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-routine-how-chatgpt-elevates-your-lifestyle/"><u>Revolutionizing Routine: How ChatGPT Elevates Your Lifestyle</u></a></li>
-<li><a href="https://article-tips.techidaily.com/straightforward-approach-to-mastering-simple-hdr-techniques-for-2024/"><u>Straightforward Approach to Mastering Simple HDR Techniques for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-flaws-of-zerogpt-and-the-challenge-of-relying-solely-on-detection-software/"><u>The Hidden Flaws of ZeroGPT and the Challenge of Relying Solely on Detection Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-free-ai-image-creation-top-5-open-source-solutions-unveiled/"><u>The Ultimate Guide to Free AI Image Creation: Top 5 Open Source Solutions Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-your-sales-potential-writing-winning-proposals-using-chatgpt-techniques/"><u>Unleashing Your Sales Potential: Writing Winning Proposals Using ChatGPT Techniques</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/webm-to-mp3-made-easy-top-converter-reviews/"><u>WebM to MP3 Made Easy Top Converter Reviews</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-does-italy-immediately-prohibit-chatgpt/"><u>Why Does Italy Immediately Prohibit ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bard-how-google-is-stepping-up-to-compete-in-the-ai-conversationalist-space-against-chatgpt/"><u>'BARD': How Google Is Stepping Up to Compete in the AI Conversationalist Space Against ChatGPT</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-navigating-advanced-features-in-obs-studio-android/"><u>[New] In 2024, Navigating Advanced Features in OBS Studio (Android)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-flair-and-finesse-in-your-gaming-youtube-channel/"><u>[Updated] Flair and Finesse in Your Gaming YouTube Channel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-oversight-four-potential-regulatory-avenues/"><u>Artificial Intelligence Oversight: Four Potential Regulatory Avenues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breakdown-of-artificial-intelligence-lexicon-grasping-29-keywords-you-need/"><u>Breakdown of Artificial Intelligence Lexicon: Grasping 29 Keywords You Need</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-interactions-with-users-help-improve-chatgpts-learning-process/"><u>Can Interactions With Users Help Improve ChatGPT's Learning Process?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-tutorial-on-extracting-and-exporting-chatgpt-dialogues/"><u>Comprehensive Tutorial on Extracting & Exporting ChatGPT Dialogues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-success-in-youtubes-creator-hub/"><u>Crafting Success in YouTube's Creator Hub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-on-an-assistant-in-depth-look-at-claude-and-chatgpt-for-daily-functionality/"><u>Deciding on an Assistant: In-Depth Look at Claude and ChatGPT for Daily Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-greatest-12-locations-to-enjoy-free-cinema-online/"><u>Discover the Greatest 12 Locations to Enjoy Free Cinema Online</u></a></li>
+<li><a href="https://win-help.techidaily.com/four-effective-solutions-and-a-handy-tip-to-resolve-windows-10-doesnt-recognize-micro-sd-card/"><u>Four Effective Solutions & a Handy Tip to Resolve 'Windows 10 Doesn't Recognize Micro SD Card'</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-3gp-video-cutter-software-a-review-of-the-best-tools/"><u>New 3GP Video Cutter Software A Review of the Best Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-an-unresponsive-astro-a20-mic/"><u>Troubleshooting Guide: Resolving Issues with an Unresponsive Astro A20 Mic</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unbeatable-choices-top-free-online-intros-for-2024/"><u>Unbeatable Choices Top Free Online Intros for 2024</u></a></li>
 </ul></div>
 

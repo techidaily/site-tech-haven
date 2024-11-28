@@ -1,7 +1,7 @@
 ---
 title: "Solving the Irritating Issues with iPhones: How Apple Can Improve User Experience"
-date: 2024-11-11T22:34:09.277Z
-updated: 2024-11-19T01:23:13.298Z
+date: 2024-11-23T16:09:36.183Z
+updated: 2024-11-28T16:14:15.831Z
 tags:
   - apple
 categories:
@@ -31,10 +31,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -58,13 +52,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -72,16 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -89,6 +67,10 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -103,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,24 +126,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-instagram-game-with-pro-edit-techniques/"><u>[New] Elevate Your Instagram Game with Pro Edit Techniques</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-fix-quiet-tweets-with-youtube-links-for-2024/"><u>[New] Fix Quiet Tweets with YouTube Links for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-social-media-spotlight-todays-top-8-video-phenomena/"><u>[New] Social Media Spotlight Today’s Top 8 Video Phenomena</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-record-vimeo/"><u>[Updated] How to Record Vimeo?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-advanced-tips-for-accurate-and-smooth-hp-laptop-screen-capture/"><u>2024 Approved Advanced Tips for Accurate and Smooth HP Laptop Screen Capture</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-latest-breakthrough-bringing-google-lens-powered-visual-intelligence-to-iphone-16-cameras-exclusive-coverage-on-zdnet/"><u>Apple's Latest Breakthrough: Bringing Google Lens-Powered Visual Intelligence to iPhone 16 Cameras | Exclusive Coverage on ZDNET</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/close-up-clarity-mastering-the-art-of-intense-focus-for-2024/"><u>Close-Up Clarity Mastering the Art of Intense Focus for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-all-iphones-compatible-with-latest-apple-ai-enhancements-including-siri/"><u>Comprehensive Guide: All iPhones Compatible with Latest Apple AI Enhancements, Including Siri</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-top-8-parent-approved-internet-safety-apps-of-2024/"><u>Discover the Top 8 Parent-Approved Internet Safety Apps of 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-seamless-sound-transitions-in-adobe-premiere-for-2024/"><u>Expert Strategies for Seamless Sound Transitions in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-vintage-video-production-techniques-for-timelessness/"><u>In 2024, Vintage Video Production Techniques for Timelessness</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-apples-tech-revolution-comprehensive-guide-to-ai-enhanced-features-for-next-gen-iphones-macbooks-and-ipads/"><u>Navigating Apple's Tech Revolution: Comprehensive Guide to AI Enhanced Features for Next-Gen iPhones, MacBooks & iPads</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionary-qi2-charger-the-ultimate-power-solution-every-apple-user-must-experience-insights/"><u>Revolutionary Qi2 Charger: The Ultimate Power Solution Every Apple User Must Experience - Insights</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-showdown-macbook-pro-vs-macbook-air-what-to-buy-insights-for-apple-enthusiasts-zdnet/"><u>The Ultimate Showdown: MacBook Pro Vs. MacBook Air – What to Buy? Insights for Apple Enthusiasts | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-your-mac-efficiency-with-hot-corners-setup-tutorial-discover-the-ultimate-shortcut-technique-from-zdnet/"><u>Unleash Your Mac Efficiency with Hot Corners Setup Tutorial | Discover the Ultimate Shortcut Technique From ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-new-possibilities-top-benefits-of-upgrading-to-macos-15-on-your-apple-macbook-tech-insights/"><u>Unlocking New Possibilities: Top Benefits of Upgrading to macOS 15 on Your Apple MacBook | Tech Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-hidden-radios-are-they-lurking-inside-your-mac-and-ipad-find-out-now/"><u>Unveiling Hidden Radios: Are They Lurking Inside Your Mac & iPad? Find Out Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-apple-avoids-using-exclamation-marks-unveiling-their-strategic-branding-choice/"><u>Why Apple Avoids Using Exclamation Marks: Unveiling Their Strategic Branding Choice</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-comprehensively-covering-minecraft-playback-setup/"><u>[New] Comprehensively Covering Minecraft Playback Setup</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-clearer-iphone-hd-images-post-production-with-4-key-premiere-pro-fixes/"><u>[New] In 2024, Clearer iPhone HD Images Post-Production with 4 Key Premiere Pro Fixes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-premium-picks-where-to-grab-classical-ringtones-for-2024/"><u>[New] Premium Picks Where to Grab Classical Ringtones for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-bing-ai-exploring-10-key-differences-in-their-functionality/"><u>ChatGPT vs Bing AI: Exploring 10 Key Differences in Their Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-powered-interview-preparation-techniques-for-successful-outcomes/"><u>ChatGPT-Powered Interview Preparation Techniques for Successful Outcomes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/democratizing-artificial-intelligence-the-complete-walkthrough-for-using-gpt-erence/"><u>Democratizing Artificial Intelligence: The Complete Walkthrough for Using GPT-Erence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-ai-categories-the-distinctive-features-of-public-private-and-personal-artificial-intelligence/"><u>Demystifying AI Categories – The Distinctive Features of Public, Private, and Personal Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-key-ai-technologies-an-entry-level-overview-in-9-groups/"><u>Discover Key AI Technologies: An Entry-Level Overview in 9 Groups</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-honor-magic-vs-2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Honor Magic Vs 2 Phones with/without a PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-eliminate-slow-boot-up-delays-in-fallout-4-top-tips-and-tricks/"><u>How to Eliminate Slow Boot-Up Delays in Fallout 4 - Top Tips & Tricks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-video-lifeline-downloading-made-simple-pcmac/"><u>In 2024, Instagram Video Lifeline Downloading Made Simple (PC/Mac)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steps-to-preventing-pc-crashes-caused-by-the-gray-zone-warfare-problem/"><u>Steps to Preventing PC Crashes Caused by the Gray Zone Warfare Problem</u></a></li>
 </ul></div>
 

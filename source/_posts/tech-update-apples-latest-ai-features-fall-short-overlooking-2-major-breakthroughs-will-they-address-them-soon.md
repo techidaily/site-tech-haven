@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Apple's Latest AI Features Fall Short, Overlooking 2 Major Breakthroughs - Will They Address Them Soon?"
-date: 2024-10-14T20:09:15.724Z
-updated: 2024-10-21T17:15:44.051Z
+date: 2024-11-24T16:11:05.272Z
+updated: 2024-11-28T16:10:22.392Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A trained charm offensive
 
 But before I could bathe in that oddness, a charming saleswoman wandered over and asked if she could help.
@@ -79,10 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -124,10 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -193,18 +191,18 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-process-for-clearing-backdrops-using-picsart/"><u>[New] Step-By-Step Process for Clearing Backdrops Using Picsart</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-uniting-windows-and-mac-users-with-skype-groups/"><u>[Updated] 2024 Approved Uniting Windows & Mac Users with Skype Groups</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-bandicam-unveiled-a-comprehensive-screen-recorder-analysis/"><u>2024 Approved Bandicam Unveiled A Comprehensive Screen Recorder Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/converting-dall-e-3-creations-an-easy-method-for-switching-from-webp-to-jpgpng/"><u>Converting DALL-E 3 Creations: An Easy Method for Switching From WebP to JPG/PNG</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-artificial-intelligence-and-its-risks/"><u>Deciphering Artificial Intelligence & Its Risks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-facts-the-real-deal-on-truthgpt-cryptocurrency/"><u>Decoding the Facts: The Real Deal on TruthGPT Cryptocurrency</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/desktop-dominance-how-chatgpts-application-exceeds-website-capabilities/"><u>Desktop Dominance: How ChatGPT's Application Exceeds Website Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/desktop-vs-website-why-choose-the-enhanced-chatgpt-app/"><u>Desktop Vs. Website: Why Choose the Enhanced ChatGPT App?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-harmonyheed-evaluating-audio-artifacts/"><u>In 2024, HarmonyHeed Evaluating Audio Artifacts</u></a></li>
-<li><a href="https://facebook.techidaily.com/intentionally-decreasing-social-media-intake-for-better-focus/"><u>Intentionally Decreasing Social Media Intake for Better Focus</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-romantic-gestures-how-to-make-a-stunning-valentines-day-video-for-your-partner/"><u>New 2024 Approved Romantic Gestures How to Make a Stunning Valentines Day Video for Your Partner</u></a></li>
-<li><a href="https://techtrends.techidaily.com/regain-sharp-vision-how-to-restore-autofocus-functionality-in-your-iphones-camera/"><u>Regain Sharp Vision: How to Restore Autofocus Functionality in Your iPhone's Camera</u></a></li>
-<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-s23-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy S23 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigating-gopro-livestreams-to-popular-channels-facebook-and-periscope/"><u>[New] In 2024, Navigating GoPro Livestreams to Popular Channels (Facebook & Periscope)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-full-spectrum-maximizing-story-linking/"><u>[Updated] Facebook's Full Spectrum Maximizing Story Linking</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigating-the-clouds-and-crowds-stream-from-dji-to-facebook/"><u>2024 Approved Navigating the Clouds and Crowds Stream From DJI to Facebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-look-at-googles-gemini-advancing-the-frontiers-of-ai-research/"><u>In-Depth Look at Google's Gemini: Advancing the Frontiers of AI Research</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-economically-sensible-to-opt-for-high-quality-artificial-intelligence-prompts/"><u>Is It Economically Sensible to Opt for High-Quality Artificial Intelligence Prompts?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-cutting-edge-technology-using-microsofts-bing-app-on-android/"><u>Leveraging Cutting-Edge Technology: Using Microsoft's Bing App on Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-output-a-guide-to-using-canva-and-chatgpt-for-high-volume-designs/"><u>Maximize Output: A Guide to Using Canva & ChatGPT for High Volume Designs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-virtual-meetings-leveraging-chatgpt-for-efficient-team-collaboration/"><u>Maximizing Virtual Meetings: Leveraging ChatGPT for Efficient Team Collaboration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/misguided-treatment-the-five-pitfalls-of-using-chatgpt-for-your-health-questions/"><u>Misguided Treatment? The Five Pitfalls of Using ChatGPT for Your Health Questions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/os-melhores-ferramentas-publicas-top-9-para-a-criacao-de-discos-oticos-em-computadores-desktopportatil/"><u>Os Melhores Ferramentas Públicas Top 9 Para a Criação De Discos Óticos Em Computadores Desktop/Portátil</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solution-steps-overcoming-samsung-multi-function-device-drivers-troubles-with-windows/"><u>Solution Steps: Overcoming Samsung Multi-Function Device Drivers' Troubles with Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-pinnacle-of-participation-chronicling-the-most-upvoted-posts-on-reddit-for-2024/"><u>The Pinnacle of Participation Chronicling the Most Upvoted Posts on Reddit for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-troubleshoot-helldivers-2-pc-issues/"><u>Ultimate Guide to Troubleshoot Helldivers 2 PC Issues</u></a></li>
 </ul></div>
 

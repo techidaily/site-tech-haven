@@ -1,7 +1,7 @@
 ---
 title: How Apple's Hidden iPad Pro Sale Makes This Prime Day Historic - Exclusive Analysis by ZDNet
-date: 2024-11-12T01:19:20.415Z
-updated: 2024-11-19T02:05:29.527Z
+date: 2024-11-25T16:10:31.559Z
+updated: 2024-11-28T16:13:29.128Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ Kerry Wan/ZDNET
 Internally, the new iPad Pro features Apple's most powerful Silicon yet, the M4, besting the M3 on MacBooks. What a time to be alive, eh? That lends the tablet improved multitasking performance, improved efficiency when running AI-related tasks, and a significantly brighter display. Thanks to a Tandem OLED display -- the stacking of two OLED panels to boost brightness -- the 2024 iPad Pro is better to look at and work with, especially for creative tasks.
 
 Right now, Amazon has both the [11- and 13-inch options on sale for $928 and $1,198](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C928c76e0-7991-4296-835f-5fc747ca6ed4%7Cdtp&dtb=1), respectively. Again, you'll only be saving between $80 to $100, but the discount can be offloaded towards [additional accessories](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3Dipad%2Bpro%2B2024%2Baccessories%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C928c76e0-7991-4296-835f-5fc747ca6ed4%7Cdtp&dtb=1).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -81,24 +85,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-the-perfect-dimension-formula-for-youtube-videos/"><u>[New] 2024 Approved The Perfect Dimension Formula for YouTube Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-peak-performances-in-oly-x-cross-2022/"><u>2024 Approved Peak Performances in Oly X-Cross 2022</u></a></li>
-<li><a href="https://fox-info.techidaily.com/drone-titans-for-industrial-lifting-challenges-for-2024/"><u>Drone Titans for Industrial Lifting Challenges for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exclusive-analysis-how-apple-bypassed-crucial-ai-breakthroughs-in-latest-event-zdnet/"><u>Exclusive Analysis: How Apple Bypassed Crucial AI Breakthroughs in Latest Event | ZDNet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/free-methods-for-changing-mkv-files-into-mp4-format-easily/"><u>Free Methods for Changing MKV Files Into MP4 Format Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-artificial-intelligence-in-music-creation-with-apples-updated-logic-pro-your-ipad-and-macs-new-virtual-band-members/"><u>Harness the Power of Artificial Intelligence in Music Creation with Apple's Updated Logic Pro – Your iPad and Mac's New Virtual Band Members</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-screens-ever-the-ultimate-top-ten/"><u>In 2024, Best Screens Ever – The Ultimate Top Ten</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-visual-ventures-a-guide-to-social-video-growth/"><u>In 2024, Visual Ventures A Guide to Social Video Growth</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone-15-ultimate-guide-pros-and-cons-explained-ideal-or-not-techwise/"><u>IPhone 15 Ultimate Guide - Pros and Cons Explained, Ideal or Not? | TechWise</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/new-ipad-air-top-4-convincing-arguments-why-you-should-upgrade-now-insights-from-tech-expert/"><u>New iPad Air: Top 4 Convincing Arguments Why You Should Upgrade Now - Insights From Tech Expert</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pros-and-cons-is-it-time-to-switch-to-the-iphone-16-insights-from-leading-zdnet-editors/"><u>Pros & Cons: Is It Time to Switch to the iPhone 16? Insights From Leading ZDNet Editors</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-your-sound-experience-in-windows-11/"><u>Tailoring Your Sound Experience in Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-filter-mastery-essential-skills/"><u>[New] Instagram Filter Mastery - Essential Skills</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-picks-for-the-modern-buyer-advanced-360cams/"><u>[Updated] In 2024, Top Picks for the Modern Buyer Advanced 360Cams</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-perfect-phone-for-your-child-see-our-expert-picks-on-zdnets-best-list/"><u>Choosing the Perfect Phone for Your Child? See Our Expert Picks on ZDNet's Best List!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-huggingchat-a-comprehensive-guide-to-this-free-open-source-chatbot-alternative/"><u>Exploring HuggingChat: A Comprehensive Guide to This Free, Open Source Chatbot Alternative</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-advantages-and-disadvantages-of-chatgpt-in-creative-writing-ventures/"><u>Exploring the Advantages & Disadvantages of ChatGPT in Creative Writing Ventures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-generative-ai-an-in-depth-guide/"><u>Exploring the World of Generative AI: An In-Depth Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-set-up-instant-access-to-tailored-gpt-solutions-for-your-needs/"><u>Get Set Up: Instant Access to Tailored GPT Solutions for Your Needs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-3-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Lava Yuva 3 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-advanced-techniques-using-jump-cuts-effectively/"><u>In 2024, Advanced Techniques Using Jump Cuts Effectively</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oneplus-ace-2-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of OnePlus Ace 2 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

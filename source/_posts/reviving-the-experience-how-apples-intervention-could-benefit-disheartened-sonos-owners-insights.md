@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Experience: How Apple's Intervention Could Benefit Disheartened Sonos Owners - Insights"
-date: 2024-11-14T19:31:36.000Z
-updated: 2024-11-19T01:38:02.290Z
+date: 2024-11-26T16:12:46.100Z
+updated: 2024-11-28T16:05:41.509Z
 tags:
   - apple
 categories:
@@ -49,10 +49,7 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -72,10 +69,7 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -83,6 +77,10 @@ On the other hand, Apple "later this year" will enable you to create displays wi
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -94,6 +92,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -103,10 +105,7 @@ Screenshot by David Gewirtz/ZDNET
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
@@ -118,13 +117,6 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -179,21 +171,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-efficient-screen-recording-on-mac-utilizing-key-combos/"><u>[New] 2024 Approved Efficient Screen Recording on Mac Utilizing Key Combos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ourney-journaling-paving-your-way-in-the-world-of-travel-vlogging-for-2024/"><u>[New] Journey Journaling Paving Your Way in the World of Travel Vlogging for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-secrets-to-optimize-gopro-camera-energy-consumption/"><u>[Updated] Secrets to Optimize GoPro Camera Energy Consumption</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-exploring-essential-screen-recording-software-for-educators/"><u>In 2024, Exploring Essential Screen Recording Software for Educators</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y28-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y28 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721952284796-new-chatgpt-ios-app-revealed/"><u>New ChatGPT iOS App Revealed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/panoramic-insights-digest/"><u>Panoramic Insights Digest</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-audio-features-the-ultimate-troubleshooting-tips-for-sound-problems-in-hp-notebooks-with-win10-solved/"><u>Reviving Audio Features: The Ultimate Troubleshooting Tips for Sound Problems in HP Notebooks with Win10 [SOLVED]</u></a></li>
-<li><a href="https://app-tips.techidaily.com/tech-advancement-alert-verizon-business-partners-with-startup-celona-for-next-gen-private-5g-services/"><u>Tech Advancement Alert: Verizon Business Partners with Startup Celona for Next-Gen Private 5G Services</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/unleash-creativity-in-the-classroom-best-animation-software-for-2024/"><u>Unleash Creativity in the Classroom Best Animation Software for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-free-ai-conversations-set-up-your-own-restriction-free-gpt-experience-on-windows-using-freedomgpt/"><u>Unleashing Free AI Conversations: Set Up Your Own Restriction-Free GPT Experience on Windows Using FreedomGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-more-potential-with-chatgpt-desktop-app-versus-online-interface/"><u>Unlocking More Potential with ChatGPT Desktop App Versus Online Interface</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-peak-performance-7-powerful-uses-of-chatgpt-for-increased-productivity-at-work/"><u>Unlocking Peak Performance: 7 Powerful Uses of ChatGPT for Increased Productivity at Work</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveil-the-easy-side-of-ai-dialogues-via-chrome-enhancement/"><u>Unveil the Easy Side of AI Dialogues via Chrome Enhancement</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-potential-chatgpts-role-in-transforming-healthcare-services/"><u>Unveiling the Potential: ChatGPT's Role in Transforming Healthcare Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-is-superior-evaluating-claude-against-chatgpt-in-everyday-applications/"><u>Which Is Superior? Evaluating Claude Against ChatGPT in Everyday Applications</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-non-athletic-games-the-best-10-front-rows/"><u>[New] Non-Athletic Games The Best 10 Front Rows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pilot-to-perfection-complete-review-of-dji-phantom-4/"><u>[New] Pilot to Perfection Complete Review of DJI Phantom 4</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ultimate-selection-economical-hd-action-recordings-for-2024/"><u>[Updated] Ultimate Selection Economical HD Action Recordings for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-vrecorder-ez-instal-your-step-by-step/"><u>[Updated] VRecorder EZ-Instal Your Step-by-Step</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-why-does-imovie-enforce-dimensions-in-2024/"><u>[Updated] Why Does iMovie Enforce Dimensions, In 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-evolution-of-ai-with-googles-gemini-compared-to-chatgpt/"><u>Exploring the Evolution of AI with Google's Gemini Compared to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-future-of-ai-with-gpt-4-without-investment/"><u>Exploring the Future of AI with GPT-4 Without Investment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-significant-limitations-of-openais-chatgpt-technology/"><u>Exploring the Significant Limitations of OpenAI’s ChatGPT Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-decoded-principles-simplified/"><u>Generative AI Decoded: Principles Simplified</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-many-characters-does-chatgpt-allow-strategies-to-exceed-the-threshold/"><u>How Many Characters Does ChatGPT Allow? Strategies to Exceed the Threshold</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-y78plus-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo Y78+ Phone?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-key-aspects-of-gif-animation/"><u>In 2024, Understanding Key Aspects of GIF Animation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-the-mystery-an-in-depth-look-at-how-artificial-intelligence-black-boxes-operate/"><u>Inside the Mystery: An In-Depth Look at How Artificial Intelligence Black Boxes Operate</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/interactive-illusions-leveraging-gpt-in-crafting-immersive-dandd-worlds/"><u>Interactive Illusions: Leveraging GPT in Crafting Immersive D&D Worlds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-safe-to-use-chatgpt-at-work-evaluating-risks-and-consequences-in-10-scenarios/"><u>Is It Safe to Use ChatGPT at Work? Evaluating Risks and Consequences in 10 Scenarios</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-storytelling-with-chatgpt-6-techniques-for-an-unmatched-gaming-experience-as-a-dm/"><u>Master Storytelling with ChatGPT: 6 Techniques for an Unmatched Gaming Experience as a DM</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/microsoft-sculpt-ergo-keyboard-analysis-superior-quality-at-an-excellent-price/"><u>Microsoft Sculpt Ergo-Keyboard Analysis: Superior Quality at an Excellent Price</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/seamless-streaming-in-vlc-player/"><u>Seamless Streaming in VLC Player</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/suitable-for-high-pressures-and-temperatures-in-harsh-conditions/"><u>Suitable for High Pressures and Temperatures in Harsh Conditions</u></a></li>
 </ul></div>
 

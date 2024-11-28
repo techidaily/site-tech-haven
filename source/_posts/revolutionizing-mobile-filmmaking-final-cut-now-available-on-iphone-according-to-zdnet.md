@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Mobile Filmmaking: Final Cut Now Available on iPhone, According to ZDNET"
-date: 2024-11-17T21:49:22.099Z
-updated: 2024-11-18T18:04:20.492Z
+date: 2024-11-27T16:11:42.287Z
+updated: 2024-11-28T16:08:33.212Z
 tags:
   - apple
 categories:
@@ -24,11 +24,19 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### SPECIAL FEATURE
 
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -77,10 +85,7 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
@@ -102,13 +107,6 @@ Then there's the [Samsung Galaxy S23](https://shop-links.co/link/?url=https%3A%2
 Many smartphones today capture 8K video directly into phone storage. These include the [Samsung Galaxy S23](https://www.zdnet.com/article/samsung-galaxy-s23-plus-review/) (8K was supported as far back as the [S20](https://www.zdnet.com/article/galaxy-s20-s20-plus-s20-ultra-prices-specs-release-date-and-more-you-need-to-know/)), the [Asus ZenFone 9](https://www.zdnet.com/article/asus-zenfone-9-review/), the [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-max-50-photos-that-show-what-the-new-camera-system-can-do/) can all record 8K video directly into the device.
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
 
@@ -135,6 +133,10 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 "But the conversation has moved to the different ways cameras like the iPhone can be used," he continued. "I think AI and machine learning features -- like the iPhone 15's scene, skin and sky segmentation and detection, periscope zoom lens, and Portrait Mode -- have opened up the possibilities of how smartphones can be used by everyone."
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Image quality
 
@@ -171,10 +173,7 @@ This technique pits a "generator" algorithm against a "discriminator" algorithm 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
@@ -198,13 +197,6 @@ Predictive algorithms and object detection models are often used for real-time t
 One thing that's important to note: [Generative AI](https://www.zdnet.com/article/generative-ai-filled-us-with-wonder-in-2023-but-all-magic-comes-with-a-price/) is something that occurs _outside_ of the camera.
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Looking to the future
 
@@ -262,24 +254,14 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-adapting-to-instagrams-evolved-content-curation-for-2024/"><u>[New] Adapting to Instagram's Evolved Content Curation for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-pinnacle-of-scripts-across-the-cinematic-universes-sections/"><u>[New] In 2024, The Pinnacle of Scripts Across the Cinematic Universe's Sections</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-guide-to-online-photo-cropting-accuracy/"><u>[Updated] The Ultimate Guide to Online Photo Cropting Accuracy</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-itel-a60-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/differentiating-amongst-public-access-corporate-owned-and-user-centric-artificial-intelligence-solutions/"><u>Differentiating Amongst Public-Access, Corporate-Owned, and User-Centric Artificial Intelligence Solutions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ient-deletion-techniques-for-online-discussions-for-2024/"><u>Efficient Deletion Techniques for Online Discussions for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ensuring-privacy-with-personalized-language-models-how-to-defend-against-potential-data-leaks/"><u>Ensuring Privacy with Personalized Language Models: How to Defend Against Potential Data Leaks</u></a></li>
-<li><a href="https://facebook.techidaily.com/ensuring-quality-connections-how-to-block-on-fb/"><u>Ensuring Quality Connections: How to Block on FB</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-chatgpt-and-its-transformative-applications-in-the-world-of-advanced-generative-ai/"><u>Exploring ChatGPT & Its Transformative Applications in the World of Advanced Generative AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/huggingchat-unveiled-an-affordable-community-driven-rival-for-chatgpt/"><u>HuggingChat Unveiled: An Affordable, Community-Driven Rival for ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/identifying-counterfeit-chatgpt-mobile-applications-in-the-ios-marketplace/"><u>Identifying Counterfeit ChatGPT Mobile Applications in the iOS Marketplace</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-speak-out-leverage-ai-gratis/"><u>In 2024, Speak Out, Leverage AI Gratis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-ai-techniques-crafting-epic-dandd-characters-with-chatgpt-and-dall-e/"><u>Innovative AI Techniques: Crafting Epic D&D Characters with ChatGPT and DALL-E</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/linus-torvalds-unveils-his-views-on-artificial-intelligence-and-rust-in-modern-computing-spotlighting-the-heartbeat-of-technology-the-linux-kernel-zdnet/"><u>Linus Torvalds Unveils His Views on Artificial Intelligence and Rust in Modern Computing, Spotlighting the Heartbeat of Technology - The Linux Kernel | ZDNET</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/maximizing-gopro-footage/"><u>Maximizing GoPro Footage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/picking-the-perfect-partner-which-is-better-claude-or-chatgpt-for-daily-interactions/"><u>Picking the Perfect Partner: Which Is Better, Claude or ChatGPT for Daily Interactions?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-evolution-of-language-models-discovering-differences-between-auto-gpt-and-chatgpt/"><u>The Evolution of Language Models: Discovering Differences Between Auto-GPT and ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-internet-safety-a-glimpse-at-seven-predicted-cyber-trends/"><u>The Future of Internet Safety: A Glimpse at Seven Predicted Cyber Trends</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-speak-and-stun-on-snapchat-voice-change-made-simple/"><u>[Updated] In 2024, Speak and Stun on Snapchat Voice Change Made Simple</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-nubia-z50s-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Nubia Z50S Pro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/fullview-pacts-the-art-of-media-company-selection-for-2024/"><u>FullView Pacts The Art of Media Company Selection for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-sound-creation-utilizing-chatgpt-within-your-digital-audio-workstation/"><u>Mastering Sound Creation: Utilizing ChatGPT Within Your Digital Audio Workstation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-visibility-tips-for-linking-and-sharing-chatbot-talks/"><u>Maximizing Visibility: Tips for Linking and Sharing Chatbot Talks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/my-ai-assisted-adventure-in-podcast-scripting/"><u>My AI-Assisted Adventure in Podcast Scripting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-era-of-employment-gpts-replacement-potential/"><u>New Era of Employment: GPT's Replacement Potential?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-packet-loss-on-discord-for-smooth-voice-calls/"><u>Solution Guide: Overcoming Packet Loss on Discord for Smooth Voice Calls</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-optimizing-windows-media-players-audio-operations-from-cds/"><u>The Art of Optimizing Windows Media Player's Audio Operations From Cds</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Smartphones Cherished Staff - A Behind-the-Scenes Look
-date: 2024-11-13T21:42:40.534Z
-updated: 2024-11-18T23:59:13.375Z
+date: 2024-11-25T16:02:31.131Z
+updated: 2024-11-28T16:06:43.763Z
 tags:
   - apple
 categories:
@@ -17,6 +17,10 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -47,13 +51,6 @@ Cons
 * New design Cameras are impressive Performance Battery life
 
 ## iPhone 12 Pro
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Jason Cipriani and Simon Bisson
 
@@ -102,20 +99,10 @@ Cons
 * Long battery life Strong performance The camera is very impressive
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone 12 Pro Max
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Matthew Miller
 
@@ -124,13 +111,6 @@ Cons
 **Next phone or dream phone?** Samsung Galaxy Fold 3\. I purchased the first two Galaxy Fold devices, and they were awesome. However, until this phone includes a level of water resistance and support for the S Pen, the big iPhone will be my primary daily driver.
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPhone SE (2020)
 
@@ -160,13 +140,6 @@ Pros
 Cons 
 * Gorgeous flat glass OLED Flat matte edges Vibrant blue color iOS 14 with Android elements 5G Loud stereo speakers
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone 12
 
 ### Chris Matyszczyk
@@ -195,13 +168,14 @@ Cons
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Ulefone Armor 9
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Adrian Kingsley-Hughes
@@ -220,6 +194,10 @@ Cons
 
 ## Google Pixel 2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tony Baer
 
 **Tony Baer:** I like the Pixel because unlike branded phones (e.g., Samsung Galaxy), it has just one operating system, and therefore, just one app for things like photos. This was an endless source of confusion for me during the days with my old Samsung phones: Which photo app did my pictures go in? (Etc., etc. for other bundled apps.) However, the Pixel 2 has one mechanical defect: The charging port is just slightly too large, meaning that when I plug in the charger, I can't always be sure that the phone is getting any juice. For work at home, this is just an inconvenience, but when we go back on the road again, this will be a show stopper. 
@@ -235,10 +213,7 @@ Show less
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Huawei P20 Pro
@@ -303,6 +278,10 @@ Cons
 
 ## iPhone XS Max
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Asha Barbaschow
 
 I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse to use a case, so I'm onto phone No. 2 after shattering my first XS Max like a disco ball. The screen size is great. I had the first Max iteration and probably won't ever be able to have a smaller screen again as a result.
@@ -312,10 +291,7 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone 7 Plus
@@ -327,6 +303,10 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
 ## iPhone 6s Plus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### David Gewirtz and Iliana Meir
 
@@ -360,6 +340,10 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###   
 
 #### **ZDNET** Recommends
@@ -392,14 +376,18 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagram-archive-storing-your-iphone-images-and-videos-for-2024/"><u>[New] Instagram Archive Storing Your iPhone Images and Videos for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-live-webcam-capture-in-vlc-media-player/"><u>[Updated] In 2024, Live Webcam Capture in VLC Media Player</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/build-a-robust-full-stack-application-for-free-using-vue-laravel-and-json-api-techniques/"><u>Build a Robust Full Stack Application for Free Using Vue, Laravel, and JSON API Techniques</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-11-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 11 Pro Max If Youve Tried Everything</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-color-in-online-beauty-content/"><u>In 2024, The Art of Color in Online Beauty Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/love-in-a-digital-age-chatgpt-to-the-rescue/"><u>Love in a Digital Age: ChatGPT to the Rescue</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maintain-confidentiality-delete-your-entire-chatgpt-transcript-history-today/"><u>Maintain Confidentiality: Delete Your Entire ChatGPT Transcript History Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-presentations-with-chatgpt/"><u>Mastering the Art of Presentations with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/need-access-to-chatgpt-heres-how-to-confirm-its-availability-today/"><u>Need Access to ChatGPT? Here's How to Confirm Its Availability Today</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-tricks-to-faster-periscope-live-feeds/"><u>[Updated] 2024 Approved Tricks to Faster Periscope Live Feeds</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-the-power-of-instagram-stories-with-this-essential-guide/"><u>[Updated] Unlocking the Power of Instagram Stories with This Essential Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/4-cutting-edge-artificial-intelligence-solutions-for-dynamic-storytelling/"><u>4 Cutting-Edge Artificial Intelligence Solutions for Dynamic Storytelling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-free-ai-tools-to-generate-professional-emails-with-chatgpt-and-summarize-your-inbox/"><u>5 Free AI Tools to Generate Professional Emails With ChatGPT & Summarize Your Inbox</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-breakdown-of-features-and-capabilities/"><u>A Comprehensive Breakdown of Features and Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/aggregate-of-top-20-chatgpt-question-and-response-examples/"><u>Aggregate of Top 20 ChatGPT Question and Response Examples</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722141706459-discover-top-6-free-substitutes-for-the-openais-phi-your-ultimate-guide/"><u>Discover Top 6 FREE Substitutes for the OpenAI's Phi: Your Ultimate Guide</u></a></li>
+<li><a href="https://win-studio.techidaily.com/exclusive-with-zdnet-steve-ballmer-previous-microsoft-leader-reveals-personal-struggle-with-valor/"><u>Exclusive with ZDNet: Steve Ballmer, Previous Microsoft Leader, Reveals Personal Struggle With Valor</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-g22-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-in-windows-11107-by-drivereasy-guide/"><u>How to install and update device drivers manually in Windows 11/10/7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722147689219-transform-your-windows-computer-with-an-easy-to-install-free-clone-of-the-latest-ai-conversationalist-gpt4all/"><u>Transform Your Windows Computer with an Easy-to-Install Free Clone of the Latest AI Conversationalist, GPT4All</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-are-we-switching-gears-insights-on-embracing-electric-mobility/"><u>Why Are We Switching Gears? Insights on Embracing Electric Mobility</u></a></li>
 </ul></div>
 
