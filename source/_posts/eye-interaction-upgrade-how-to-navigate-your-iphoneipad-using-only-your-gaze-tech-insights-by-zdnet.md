@@ -1,7 +1,7 @@
 ---
 title: "Eye Interaction Upgrade: How to Navigate Your iPhone/iPad Using Only Your Gaze - Tech Insights by ZDNet"
-date: 2024-11-24T16:11:33.457Z
-updated: 2024-11-28T16:03:16.242Z
+date: 2024-12-06T17:14:38.688Z
+updated: 2024-12-07T21:50:12.904Z
 tags:
   - apple
 categories:
@@ -33,6 +33,10 @@ If you're going to be one of those people, read on.
 
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  1\. Update
 
 Before you even think about wiping your old iPhone, there are some things that you should do. I'm going to assume that you're selling an iPhone that's still being supported and is capable of [running iOS 15](https://www.zdnet.com/article/here-are-8-ios-15-features-you-need-to-know-about/). 
@@ -53,12 +57,16 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### read this
@@ -71,10 +79,6 @@ I'd definitely check any banking and financial apps for any special process invo
 
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3\. Protect your data
 
 Next up, I want you to think about your data. How upset would you be if you lost your notes, photos, texts or other data that's on your iPhone? 
@@ -86,10 +90,6 @@ Make sure to back up your data. To be honest, you should be doing that anyway. i
 Don't have enough iCloud space? Don't worry! Apple will let you borrow some [temporary iCloud storage](https://support.apple.com/en-us/HT212732). (It helps to [keep your iPhone storage under control](https://www.zdnet.com/article/running-out-of-space-on-your-iphone-do-this-before-you-buy-a-new-one/), and you really should consider getting more storage for your future backup needs.) 
 
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
 
@@ -104,6 +104,10 @@ Tap **Get Started** to begin the process of backing up your iPhone and getting r
 Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
 
@@ -133,7 +137,7 @@ Remember, once you start this process, there's no going back!
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -142,10 +146,6 @@ Remember, once you start this process, there's no going back!
 * [How to clean your Apple Watch in 5 steps](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/)
 * [How to clean and sanitize your AirPods](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
 
@@ -187,22 +187,17 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-master-the-art-of-tiktok-tidying-up-smart-strategies-for-oversized-drafts-for-2024/"><u>[New] Master the Art of TikTok Tidying Up Smart Strategies for Oversized Drafts for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/14382885-updated-in-2024-closing-your-vlog-right-top-6-free-youtube-outro-tools/"><u>[Updated] In 2024, Closing Your Vlog Right Top 6 Free YouTube Outro Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-lightning-fast-windowed-image-viewer/"><u>[Updated] Lightning-Fast Windowed Image Viewer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-nokia-xr21-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Nokia XR21 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-right-ai-companion-comparing-chatgpt-plus-and-perplexity/"><u>Choosing the Right AI Companion: Comparing ChatGPT Plus and Perplexity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/connecting-with-ai-through-quoras-poe-routes/"><u>Connecting with AI Through Quora's POE Routes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-fantasies-gpts-role-in-imagination/"><u>Crafting Fantasies: GPT's Role in Imagination</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/craftsmanship-redefined-generating-novelty-in-ai-through-microsoft-copilot/"><u>Craftsmanship Redefined: Generating Novelty in AI Through Microsoft Copilot</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/curating-child-friendly-gpt-conversations-with-care-in-5-ways/"><u>Curating Child-Friendly GPT Conversations with Care in 5 Ways</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-maximum-characters-per-message-bypassing-restrictions/"><u>Exploring ChatGPT's Maximum Characters per Message: Bypassing Restrictions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-elon-musks-latest-venture-inside-insights-on-truthgpt/"><u>Exploring Elon Musk's Latest Venture: Inside Insights on TruthGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/googles-palm-2-decoded-pioneering-large-language-innovations/"><u>Google's PaLM 2 Decoded: Pioneering Large Language Innovations</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-11-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 11 Pro without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-initiating-seamless-zoom-gatherings/"><u>In 2024, Initiating Seamless Zoom Gatherings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sony-a6400-video-vanishing-how-to-stop-it-in-2024/"><u>Sony A6400 Video Vanishing - How to Stop It, In 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-pathway-to-stunning-window-display-quality/"><u>The Ultimate Pathway to Stunning Window Display Quality</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/titre-verification-historique-des-fichiers-est-ce-que-vous-ne-trouverez-aucun-enregistrement-precedent/"><u>Titre: Vérification Historique Des Fichiers : Est-Ce Que Vous Ne Trouverez Aucun Enregistrement Précédent ?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-capture-and-complement-expert-choices-for-frame-integrating-sites-for-2024/"><u>[New] Capture & Complement Expert Choices for Frame-Integrating Sites for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-explore-top-10-dynamic-picture-background-switchers-for-2024/"><u>[New] Explore Top 10 Dynamic Picture-Background Switchers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieving-a-natural-sound-curve-dimming-audio-smoothly-for-2024/"><u>Achieving a Natural Sound Curve Dimming Audio Smoothly for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bulk-generating-stunning-visuals-with-canva-and-chatgpt-for-efficient-content-strategy/"><u>Bulk Generating Stunning Visuals with Canva and ChatGPT for Efficient Content Strategy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-compelling-narratives-ais-role-in-game-storytelling/"><u>Crafting Compelling Narratives: AI's Role in Game Storytelling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-upgrades-needed-in-chatgpts-plug-in-ecosnace-a-roadmap/"><u>Essential Upgrades Needed in ChatGPT's Plug-In Ecosnace: A Roadmap</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-vector-database-power-to-boost-ai-capabilities/"><u>Harnessing Vector Database Power to Boost AI Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-expression-calculation-a-guide-to-using-expr-on-linux-systems/"><u>Mastering Expression Calculation: A Guide to Using 'Expr' On Linux Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-restarting-a-sluggish-macbook-pro/"><u>Quick Fixes for Restarting a Sluggish MacBook Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-8k-video-codecs-optimal-choice-for-ultra-high-definition-4320p-resolution/"><u>Top 8K Video Codecs: Optimal Choice for Ultra-High Definition 4320P Resolution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unforeseen-risks-6-reasons-for-careful-engagement-with-ai/"><u>Unforeseen Risks: 6 Reasons for Careful Engagement With AI</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877297-9781612834436-wild-wisdom/"><u>Wild Wisdom | Free Book</u></a></li>
 </ul></div>
 

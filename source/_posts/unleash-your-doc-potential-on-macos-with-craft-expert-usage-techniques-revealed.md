@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Doc Potential on macOS with Craft: Expert Usage Techniques Revealed"
-date: 2024-11-22T16:01:50.161Z
-updated: 2024-11-28T16:10:30.640Z
+date: 2024-12-01T22:31:58.385Z
+updated: 2024-12-07T19:09:38.186Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,17 +129,19 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-make-free-intros-for-youtube-plustemplates/"><u>[New] In 2024, How to Make Free Intros for YouTube? [+Templates]</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamline-your-gameplay-win10-screen-record-tech/"><u>[New] In 2024, Streamline Your Gameplay Win10 Screen Record Tech</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-disseminating-data-driven-insights-you-vs-others-on-video-markets/"><u>[Updated] 2024 Approved Disseminating Data-Driven Insights You Vs. Others on Video Markets</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-list-top-10-high-res-4k-cameras-in-smartphones/"><u>[Updated] Ultimate List Top 10 High-Res 4K Cameras in Smartphones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/6-criteria-preparing-chatgpt-as-a-mental-wellness-aid/"><u>6 Criteria: Preparing ChatGPT as a Mental Wellness Aid</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/6-critical-errors-to-evade-in-chatai-engagements/"><u>6 Critical Errors to Evade in ChatAI Engagements</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721957480697-free-gpt-4-for-all-plus-still-provides-an-exclusive-set-of-6-premium-features/"><u>Free GPT-4 for All! Plus Still Provides an Exclusive Set of 6 Premium Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722208516904-harnessing-the-potential-of-chatgpt-developing-interactive-narratives-for-text-based-rpg-enthusiasts/"><u>Harnessing the Potential of ChatGPT: Developing Interactive Narratives for Text-Based RPG Enthusiasts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/maximizing-quality-in-ppt-recordings/"><u>Maximizing Quality in PPT Recordings</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ons-watch-but-how-much-do-they-earn-in-2024/"><u>Millions Watch, But How Much Do They Earn, In 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/play-for-free-the-top-10-game-download-sites-you-need-to-know-pc-android-2024/"><u>Play for Free The Top 10 Game Download Sites You Need to Know PC, Android, 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-viral-video-vanguards-top-10-with-staggering-subscriber-growth/"><u>[New] 2024 Approved Viral Video Vanguards Top 10 with Staggering Subscriber Growth</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-revealing-10-hidden-viewers-of-stories/"><u>[New] In 2024, Revealing 10 Hidden Viewers of Stories</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-crafting-unique-valorant-thumbnails-with-style-and-flair/"><u>2024 Approved Crafting Unique Valorant Thumbnails with Style and Flair</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/curtailing-fictional-insights-from-ai-through-precise-prompting/"><u>Curtailing Fictional Insights From AI Through Precise Prompting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-troubleshooting-for-windows-11-users-now-playing/"><u>Cyberpunk 2077 Sound Troubleshooting for Windows 11 Users - Now Playing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96160771-9780997722246-diary-of-a-beautiful-disaster/"><u>Diary of a Beautiful Disaster | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-top-7-real-world-applications-of-chatgpt-today/"><u>Discover the Top 7 Real-World Applications of ChatGPT Today</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/fixing-save-file-issues-in-genshin-impact-for-seamless-gameplay-continuation/"><u>Fixing Save File Issues in Genshin Impact for Seamless Gameplay Continuation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-enroll-in-chatgpt-plugin-upgrades-now/"><u>How to Enroll in ChatGPT Plugin Upgrades Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-ai-communication-best-tools-for-crafting-ideal-ai-prompts/"><u>Mastering AI Communication: Best Tools for Crafting Ideal AI Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategic-advancement-in-the-office-how-chatgpt-can-revamp-your-work-processes/"><u>Strategic Advancement in the Office: How ChatGPT Can Revamp Your Work Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-win11-external-drive-access/"><u>Streamlining Win11 External Drive Access</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-emergence-of-ai-powered-search-shifting-paradigms-in-website-visibility-and-online-traffic-generation/"><u>The Emergence of AI-Powered Search: Shifting Paradigms in Website Visibility and Online Traffic Generation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/thinking-about-leap-is-a-revamped-apple-watch-ideal-for-me/"><u>Thinking About Leap: Is a Revamped Apple Watch Ideal for Me?</u></a></li>
 </ul></div>
 

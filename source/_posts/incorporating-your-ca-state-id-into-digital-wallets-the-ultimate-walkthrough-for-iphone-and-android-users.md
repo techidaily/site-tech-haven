@@ -1,7 +1,7 @@
 ---
 title: "Incorporating Your CA State ID Into Digital Wallets: The Ultimate Walkthrough for iPhone & Android Users"
-date: 2024-11-27T16:11:03.530Z
-updated: 2024-11-28T16:05:40.861Z
+date: 2024-12-05T19:50:38.289Z
+updated: 2024-12-07T17:13:10.270Z
 tags:
   - apple
 categories:
@@ -29,20 +29,20 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,6 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -59,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,7 +73,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,18 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-depth-instructions-installing-countdown-clocks-in-obs-for-2024/"><u>[New] In-Depth Instructions Installing Countdown Clocks in OBS for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-memetic-mayhem-the-20-most-shared-gems/"><u>[New] Memetic Mayhem The 20 Most Shared Gems</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-recording-virtual-sessions-ios-and-android-methods/"><u>[Updated] Recording Virtual Sessions IOS & Android Methods</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-best-free-subtitles-and-downloader-guide/"><u>2024 Approved Best Free Subtitles & Downloader Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-where-is-youtube-video-manager-all-you-need-to-know/"><u>2024 Approved Where Is Youtube Video Manager? [All You Need to Know]</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210877806-9781908421616-experiences-of-physical-phenomena-in-the-21st-century/"><u>Experiences of Physical Phenomena in the 21st Century | Free Book</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-poco-f5-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Poco F5 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-of-bandicams-functionality-and-cost-comparison-movavi-insights/"><u>In-Depth Analysis of Bandicam's Functionality and Cost Comparison - Movavi Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-windows-challenges-solutions-for-when-chatgpt-reaches-maximum-load/"><u>Overcoming Windows Challenges: Solutions for When ChatGPT Reaches Maximum Load</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pinpointing-bingchats-deceptive-crypto-schemes/"><u>Pinpointing BingChat's Deceptive Crypto Schemes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-yourself-from-these-9-deceptive-chatgpt-clone-virus-and-malware-apps-endangering-your-data-security/"><u>Protect Yourself From These 9 Deceptive ChatGPT Clone Virus and Malware Apps Endangering Your Data Security</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pushing-language-frontiers-exploring-gpt-and-bert-variances/"><u>Pushing Language Frontiers: Exploring GPT & BERT Variances</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-unseen-strain-7-side-effects-of-virtual-interaction/"><u>The Unseen Strain: 7 Side-Effects of Virtual Interaction</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nhancing-social-reach-youtube-videos-on-facebook-sites-for-2024/"><u>[New] Enhancing Social Reach YouTube Videos on Facebook Sites for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-duality-mastering-image-turnover-on-social-media-giants/"><u>[New] In 2024, The Art of Duality Mastering Image Turnover on Social Media Giants</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-picsart-breakdown-insights-and-instructions-2024/"><u>[New] The Complete PicsArt Breakdown Insights and Instructions 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-work-efficiency-the-power-of-onlyoffice-docspace-integrating-with-chatgpt/"><u>Boosting Work Efficiency: The Power of ONLYOFFICE DocSpace Integrating with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-poetry-with-ai-mastering-the-art-of-using-chatgpt/"><u>Creating Poetry with AI: Mastering the Art of Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/debunking-myth-no-legitimate-chatgpt-app-for-windows-beware-of-fake-versions/"><u>Debunking Myth: No Legitimate ChatGPT App for Windows - Beware of Fake Versions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/engage-and-scrutinize-your-pdfs-using-these-6-innovative-chatgpt-conversational-tools/"><u>Engage and Scrutinize Your PDFs Using These 6 Innovative ChatGPT Conversational Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-distinctions-between-auto-gpt-and-chatgpt/"><u>Exploring the Distinctions Between Auto-GPT & ChatGPT</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-motorola-edge-40-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Motorola Edge 40 Pro FRP?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-a24-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy A24 Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/redefining-intelligence-evaluation-beyond-the-classic-trial/"><u>Redefining Intelligence Evaluation Beyond the Classic Trial</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-hardware-drivers-in-device-manager/"><u>Resolving Hardware Drivers in Device Manager</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-prime-headset-mic-failure-solutions-at-hand/"><u>SteelSeries Arctis Prime Headset Mic Failure - Solutions at Hand</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-the-power-of-books-with-these-best-ai-based-reading-platforms/"><u>Unleash the Power of Books with These Best AI-Based Reading Platforms</u></a></li>
 </ul></div>
 

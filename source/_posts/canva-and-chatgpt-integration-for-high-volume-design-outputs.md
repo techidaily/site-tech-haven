@@ -1,7 +1,7 @@
 ---
 title: Canva and ChatGPT Integration for High-Volume Design Outputs
-date: 2024-08-20T12:10:00.778Z
-updated: 2024-08-21T12:10:00.778Z
+date: 2024-12-03T18:19:14.510Z
+updated: 2024-12-07T20:45:18.792Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 ---
 
 ## Ready for a Conversational AI on Your PC but Can't Find It? Our Open Source Solution Is Here
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -49,21 +54,19 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
 3. Launch the ChatGPT Desktop Application.
@@ -73,11 +76,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## When Is the Official ChatGPT Desktop Version Launching?
 
  The official ChatGPT Desktop app is already slowly rolling out to macOS users.
@@ -86,14 +87,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,4 +100,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-30-innovative-video-themes-and-layouts-for-2024/"><u>[New] 30 Innovative Video Themes and Layouts for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-compre-writters-manual-for-great-documentary-storytelling/"><u>[New] In 2024, The Compre Writter's Manual for Great Documentary Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-compendium-of-2024s-videography-tech/"><u>[New] The Ultimate Compendium of 2024'S Videography Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieve-uniqueness-with-character-vocal-changes-in-free-fire-at-zero-price/"><u>[Updated] Achieve Uniqueness with Character Vocal Changes in Free Fire, at Zero Price</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-ordinary-to-outstanding-transforming-your-meetings-with-zoom-filters/"><u>[Updated] From Ordinary to Outstanding Transforming Your Meetings with Zoom Filters</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-capture-attention-with-top-mobile-video-editing-software-for-snapchats/"><u>[Updated] In 2024, Capture Attention with Top Mobile Video Editing Software for Snapchats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-disallowed-in-italy-exploring-the-immediate-effect-policy-shift/"><u>ChatGPT Disallowed in Italy: Exploring the 'Immediate Effect' Policy Shift</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-engaging-youtube-scripts-with-chatgpt-a-step-by-step-guide/"><u>Creating Engaging YouTube Scripts with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-how-ios-changes-your-gpt-game/"><u>Discovering How iOS Changes Your GPT Game</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminating-the-dsounddll-not-found-issue-in-windows-computers/"><u>Eliminating the dsound.dll Not Found Issue in Windows Computers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evolving-intelligence-deciphering-the-five-key-differences-between-microsofts-latest-model-gpt-4-and-its-previous-version-gpt-35/"><u>Evolving Intelligence: Deciphering the Five Key Differences Between Microsoft's Latest Model, GPT-4, and Its Previous Version, GPT-3.5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-virtual-to-visual-selecting-movies-through-chatgpt/"><u>From Virtual to Visual: Selecting Movies Through ChatGPT</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y200e-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y200e 5G FRP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-gt-neo-5-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme GT Neo 5 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y200e-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200e 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-a-neighborhood-lawyer-right-for-you-examining-the-pros-and-cons/"><u>Is a Neighborhood Lawyer Right for You? Examining the Pros and Cons.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/smartly-sell-your-ideas-persuasive-proposals-and-ai-collaboration/"><u>Smartly Sell Your Ideas: Persuasive Proposals & AI Collaboration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-pitfalls-in-utilizing-chatgpt-for-generating-digital-content/"><u>Top 4 Pitfalls in Utilizing ChatGPT for Generating Digital Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-potential-of-intelligent-mobile-search-on-any-smartphone-try-bings-innovative-feature-for-iosandroid-today/"><u>Unlock the Potential of Intelligent Mobile Search on Any Smartphone – Try Bing's Innovative Feature for iOS/Android Today</u></a></li>
+</ul></div>
 

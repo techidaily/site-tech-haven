@@ -1,7 +1,7 @@
 ---
 title: Apple Pencil Inspired? Exploring the Uncanny Resemblance of Microsoft's Vision Pro Controller as Patented
-date: 2024-11-26T16:03:23.164Z
-updated: 2024-11-28T16:00:25.547Z
+date: 2024-11-30T21:33:25.235Z
+updated: 2024-12-07T20:41:42.558Z
 tags:
   - apple
 categories:
@@ -75,28 +75,26 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-switch-showdown-top-10-arcade-combat-classics-for-2024/"><u>[New] Switch Showdown Top 10 Arcade Combat Classics for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-direct-conversation-on-snapchat-follow-these-steps-for-2024/"><u>[New] Unlocking Direct Conversation on Snapchat - Follow These Steps for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-pictolaugh-design-humor-graphics/"><u>[Updated] In 2024, PictoLaugh Design Humor Graphics</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-framing-character-arcs-on-screen/"><u>2024 Approved Framing Character Arcs on Screen</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-going-against-gravity-innovative-ways-to-rewind-youtube-content/"><u>2024 Approved Going Against Gravity Innovative Ways to Rewind YouTube Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-students-guide-utilizing-chatgpt-in-educational-settings-5-key-methods/"><u>A Student's Guide: Utilizing ChatGPT in Educational Settings (5 Key Methods)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/depicting-epic-journeys-using-ai-tools-to-formulate-dandd-heroes/"><u>Depicting Epic Journeys: Using AI Tools to Formulate D&D Heroes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-functionality-of-chatgpt-shared-links/"><u>Exploring the Functionality of ChatGPT Shared Links</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-potential-of-chatgpt-in-developing-cybersecurity-threats-fact-or-fiction/"><u>Exploring the Potential of ChatGPT in Developing Cybersecurity Threats: Fact or Fiction?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-reasons-for-heightened-ai-control-advocacy-by-openais-ceo-what-you-need-to-know/"><u>Exploring the Reasons for Heightened AI Control Advocacy by OpenAI's CEO – What You Need to Know</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-keyboard-to-genius-mode-automating-your-document-writing-with-chatgpt-and-word/"><u>From Keyboard to Genius Mode: Automating Your Document Writing with ChatGPT & Word</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-assisted-storytelling-9-essential-guides-for-novelists/"><u>GPT-Assisted Storytelling: 9 Essential Guides for Novelists</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-leverage-chatgpt-within-whatsapp-for-superior-customer-assistance/"><u>How to Leverage ChatGPT Within WhatsApp for Superior Customer Assistance</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-essential-writing-habits-for-successful-fb-campaigns/"><u>In 2024, Essential Writing Habits for Successful FB Campaigns</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-chatgpt-enterprise-what-sets-it-apart-from-standard-models/"><u>Inside ChatGPT Enterprise: What Sets It Apart From Standard Models?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/interactive-playscapes-and-the-rise-of-ai-generated-games/"><u>Interactive Playscapes and the Rise of AI-Generated Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpts-intelligence-for-a-dream-job-breakthrough/"><u>Leveraging ChatGPT's Intelligence for a Dream Job Breakthrough</u></a></li>
-<li><a href="https://win-best.techidaily.com/top-solutions-dusmt-pour-une-migration-sans-probleme-des-profils-et-parametres-utilisateurs/"><u>Top Solutions D'USMT Pour Une Migration Sans Problème Des Profils Et Paramètres Utilisateurs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/zeroing-in-on-audio-quality-achievable-sans-mic-for-2024/"><u>Zeroing in on Audio Quality Achievable Sans Mic for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-game-changing-strategies-for-effective-video-capture/"><u>[New] 2024 Approved Game-Changing Strategies for Effective Video Capture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-vintage-visions-unearthing-free-art-treasures/"><u>[New] Vintage Visions Unearthing Free Art Treasures</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-elevate-your-gaming-the-funimate-way/"><u>[Updated] 2024 Approved Elevate Your Gaming - The Funimate Way</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-easy-methods-flipping-film-frames-using-vlc/"><u>[Updated] In 2024, Easy Methods Flipping Film Frames Using VLC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bot-brainpower-battle-same-idea-varied-solutions/"><u>Bot Brainpower Battle: Same Idea, Varied Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparative-analysis-of-open-access-digital-libraries-the-internets-role-in-information-dissemination/"><u>Comparative Analysis of Open-Access Digital Libraries: The Internet's Role in Information Dissemination</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-large-scale-language-models-work-a-comprehensive-guide/"><u>How Large-Scale Language Models Work: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-motorola-moto-g73-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Motorola Moto G73 5G</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-live-image-processing-into-continuous-action-frames/"><u>In 2024, Live Image Processing Into Continuous Action Frames</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-chatgpt-for-perfect-pre-interview-skills/"><u>Leverage ChatGPT for Perfect Pre-Interview Skills</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210989175-resolve-your-valorant-startup-hang-up-steps-to-end-infinite-loading/"><u>Resolve Your Valorant Startup Hang-Up: Steps to End Infinite Loading</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-ai-explanation-guide/"><u>Simple AI Explanation Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-search-habits-navigating-through-the-advanced-features-of-ai-enhanced-bing-app-on-android/"><u>Transform Your Search Habits: Navigating Through the Advanced Features of AI-Enhanced Bing App on Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-youtube-scriptwriting-with-chatgpt-tips-and-tricks/"><u>Transform Your YouTube Scriptwriting with ChatGPT - Tips and Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-of-chatgpts-interpretation-engine-understanding-its-significance/"><u>Unveiling the Secrets of ChatGPT's Interpretation Engine: Understanding Its Significance</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-art-of-seamless-audio-transitions-in-final-cut-pro-x-for-2024/"><u>Updated The Art of Seamless Audio Transitions in Final Cut Pro X for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

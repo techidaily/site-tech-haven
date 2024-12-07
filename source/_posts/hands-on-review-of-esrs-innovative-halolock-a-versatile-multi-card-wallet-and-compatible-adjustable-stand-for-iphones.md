@@ -1,7 +1,7 @@
 ---
 title: Hands-On Review of ESR's Innovative Halolock - A Versatile Multi-Card Wallet & Compatible Adjustable Stand for iPhones
-date: 2024-11-21T16:14:03.492Z
-updated: 2024-11-28T16:16:55.076Z
+date: 2024-11-30T19:13:45.938Z
+updated: 2024-12-07T20:43:03.639Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A bigger screen option
@@ -39,7 +39,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -110,22 +110,16 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-transforming-views-uncover-the-best-video-hacks-for-success/"><u>[New] Transforming Views Uncover the Best Video Hacks for Success</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-find-excellence-in-hd-on-android-our-top-10-player-guide/"><u>[Updated] 2024 Approved Find Excellence in HD on Android Our Top 10 Player Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-critical-game-analysis-from-top-creators/"><u>[Updated] In 2024, Critical Game Analysis From Top Creators</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-real-time-engagement-strategies-for-online-streamers/"><u>[Updated] Real-Time Engagement Strategies for Online Streamers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-deeper-dive-into-high-definition-online-visibility/"><u>2024 Approved A Deeper Dive Into High Definition Online Visibility</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-standout-instagram-unboxings-a-comprehensive-checklist/"><u>2024 Approved Standout Instagram Unboxings A Comprehensive Checklist</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-job-market-with-ai-10-essential-chatgpt-tactics-for-linkedin-success/"><u>Navigating the Job Market with AI: 10 Essential ChatGPT Tactics for LinkedIn Success</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/410841-9781439155134-the-power-of-soul/"><u>The Power of Soul | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-quest-for-artifice-intelligence-success-deciphering-the-turing-test/"><u>The Quest for Artifice Intelligence Success: Deciphering the Turing Test</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-role-of-chatgpt-in-advancing-cognitive-behavioral-therapy-techniques/"><u>The Role of ChatGPT in Advancing Cognitive Behavioral Therapy Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-urgent-need-for-tighter-ai-oversight-insights-from-the-head-of-openai/"><u>The Urgent Need for Tighter AI Oversight: Insights From the Head of OpenAI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-common-errors-in-crafting-chatgpt-prompts-steer-clear/"><u>Top 6 Common Errors in Crafting ChatGPT Prompts: Steer Clear</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-diet-with-gpt-powered-planning/"><u>Transform Your Diet with GPT-Powered Planning</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-email-difficulties-into-ease-employing-chatgpt-for-improved-workplace-communication/"><u>Transforming Email Difficulties Into Ease: Employing ChatGPT for Improved Workplace Communication</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-your-math-potential-the-best-7-ai-tools-to-tackle-problems/"><u>Unleash Your Math Potential: The Best 7 AI Tools to Tackle Problems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-privacy-in-digital-dialogues-enjoy-secure-chats-with-duckduckgos-ai-technology-powered-by-chatgpt/"><u>Unlock Privacy in Digital Dialogues: Enjoy Secure Chats with DuckDuckGo’s AI Technology, Powered by ChatGPT</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-mini-music-magic-tips-for-shortform-soundtracks/"><u>[Updated] Unlocking Mini-Music Magic Tips for Shortform Soundtracks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-the-security-of-chatgpt-extensions/"><u>Evaluating the Security of ChatGPT Extensions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-ai-operating-chatgpt-seamlessly-on-a-mac/"><u>Harness the Power of AI: Operating ChatGPT Seamlessly on a Mac</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-poco-c50-is-unlocked-by-drfone-android/"><u>How To Check if Your Poco C50 Is Unlocked</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagram-adding-borders-to-your-photos/"><u>In 2024, Mastering Instagram Adding Borders to Your Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/light-up-dull-iphone-videos-in-seconds-for-2024/"><u>Light Up Dull Iphone Videos in Seconds for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-reading-experience-with-these-5-cutting-edge-recommender-tools/"><u>Revolutionize Your Reading Experience with These 5 Cutting-Edge Recommender Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-is-here-navigating-bing-after-microsoft-infuses-it-with-cutting-edge-ai/"><u>The Future Is Here: Navigating Bing After Microsoft Infuses It with Cutting-Edge AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/worth-the-extra-cash-the-benefits-of-premium-ai-prompt-platforms/"><u>Worth the Extra Cash: The Benefits of Premium AI Prompt Platforms</u></a></li>
 </ul></div>
 

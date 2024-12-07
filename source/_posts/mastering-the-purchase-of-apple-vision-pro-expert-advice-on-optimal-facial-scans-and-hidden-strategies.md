@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Purchase of Apple Vision Pro: Expert Advice on Optimal Facial Scans & Hidden Strategies"
-date: 2024-11-24T16:11:27.339Z
-updated: 2024-11-28T16:03:01.663Z
+date: 2024-12-05T22:48:50.035Z
+updated: 2024-12-07T21:38:23.152Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,21 +129,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-from-zero-to-hero-how-to-triumph-with-10-powerful-fb-strategies/"><u>[Updated] 2024 Approved From Zero to Hero How to Triumph with 10 Powerful FB Strategies</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-infuse-joy-and-creativity-in-every-snap-with-anime-filters/"><u>[Updated] 2024 Approved Infuse Joy and Creativity in Every Snap with Anime Filters</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/98410503-updated-free-tribe-50-branding-banners-ready-to-unleash/"><u>[Updated] Free Tribe 50 Branding Banners Ready to Unleash</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-seamless-creation-a-closer-look-at-magix-video-pro-x/"><u>2024 Approved Seamless Creation A Closer Look at Magix Video Pro X</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-motorola-moto-g24-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Motorola Moto G24.</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-dell-xps-13-2-in-1-a-superior-computing-experience-unveiled/"><u>Exploring the Dell XPS 13 2-in-1: A Superior Computing Experience Unveiled</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/proven-strategies-for-securing-your-iphones-information-through-efficient-backups/"><u>Proven Strategies for Securing Your iPhone's Information Through Efficient Backups</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-insider-guide-to-leveraging-chatgpts-advanced-custom-command-options/"><u>The Insider Guide to Leveraging ChatGPT's Advanced Custom Command Options</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-science-behind-generative-ai-search-an-overview-of-corporate-applications/"><u>The Science Behind Generative AI Search – An Overview of Corporate Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-top-10-strategies-for-using-chatgpt-to-secure-your-next-job-on-linkedin/"><u>The Top 10 Strategies for Using ChatGPT to Secure Your Next Job on LinkedIn</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-storytelling-skills-by-building-a-detailed-text-based-rpg-with-chatgpt/"><u>Transform Your Storytelling Skills by Building a Detailed Text-Based RPG with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/true-academic-success-beyond-chatgpts-capabilities/"><u>True Academic Success Beyond ChatGPT's Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ransomware-decode-on-the-go-tech-guide/"><u>Understanding Ransomware Decode - On-the-Go Tech Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-truth-the-google-bard-app-is-not-safe-for-download/"><u>Unveiling the Truth: The Google Bard App Is Not Safe for Download</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-peering-through-the-lens-an-in-depth-review-of-polaroid-cubeplus/"><u>[New] In 2024, Peering Through the Lens An In-Depth Review of Polaroid Cube+</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-visual-verve-essential-guide-for-iphones-photo-cropping/"><u>[Updated] 2024 Approved Visual Verve Essential Guide for iPhone's Photo Cropping</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-football-info-youtube-trend-infographics-for-2024/"><u>[Updated] Essential Football Info YouTube Trend Infographics for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/develop-your-emotional-smarts-using-chatgpt-tactics/"><u>Develop Your Emotional Smarts Using ChatGPT Tactics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-remote-dialogues-chatgpt-for-teams/"><u>Empowering Remote Dialogues: ChatGPT for Teams</u></a></li>
+<li><a href="https://article-posts.techidaily.com/expert-tips-for-procuring-unlocked-picture-frame-videos/"><u>Expert Tips for Procuring Unlocked Picture Frame Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpts-future-foresight-outshining-magazine-astrology/"><u>GPT's Future Foresight: Outshining Magazine Astrology?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-microsoft-written-install-net-message/"><u>How to Resolve Microsoft' Written: Install .NET Message</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-preventing-total-loss-of-image-in-streaming-videos-on-youtube/"><u>In 2024, Preventing Total Loss of Image in Streaming Videos on YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/keeping-your-vision-unique-in-a-digital-world-nightshade-for-artistic-integrity/"><u>Keeping Your Vision Unique in a Digital World: Nightshade for Artistic Integrity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-small-tablet-devices-of-202/"><u>Leading Small Tablet Devices of 202</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mouse-navigation-turn-off-acceleration-windows-1011/"><u>Mastering Mouse Navigation: Turn Off Acceleration Windows 10/11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-common-challenges-in-preserving-conversations-on-chatgpt/"><u>Overcoming Common Challenges in Preserving Conversations on ChatGPT</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quick-mac-screen-capture-tips-and-shortcuts-guide-for-2024/"><u>Quick Mac Screen Capture Tips and Shortcuts Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-ai-prompt-engineering-unveiling-its-potential-as-a-stable-job-market-prospect/"><u>What Is AI Prompt Engineering? Unveiling Its Potential as a Stable Job Market Prospect</u></a></li>
 </ul></div>
 

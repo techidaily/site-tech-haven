@@ -1,7 +1,7 @@
 ---
 title: "Fitness Meets Tech: Discover How the New AirPods Pro Track Your Workout Heart Rate - Insights"
-date: 2024-11-23T16:07:29.068Z
-updated: 2024-11-28T16:04:40.535Z
+date: 2024-12-06T18:47:23.650Z
+updated: 2024-12-07T21:02:57.907Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ How and why did I come to those conclusions? Let's dig in.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,6 +63,10 @@ How and why did I come to those conclusions? Let's dig in.
 | Colors           | Midnight, Starlight, Blue, Purple, Product RED                    |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Familiar design, with one exception
 
@@ -83,7 +87,7 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -91,7 +95,7 @@ Jason Cipriani/ZDNET
 If you visit [Apple's comparison tool](https://www.apple.com/iphone/compare/?modelList=iphone13,iphone14,iphone14plus), pitting the [iPhone 13 against the iPhone 14](https://www.zdnet.com/article/iphone-13-vs-iphone-14/), you'll notice that the phones use the same A15 Bionic processor. This is the first time Apple has used the previous-generation processor in a new iPhone model, with the iPhone maker relying on the already solid performance the A15 Bionic brought to the iPhone 13\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -133,7 +137,7 @@ Jason Cipriani/ZDNET
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Safety first
@@ -145,10 +149,6 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 [Buy the Apple iPhone 14 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-14%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -186,22 +186,17 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-digital-rehearsal-mastery-in-recording-streaming-audio/"><u>[New] 2024 Approved Digital Rehearsal Mastery in Recording Streaming Audio</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-essential-strategies-for-high-quality-youtube-recording/"><u>[New] Essential Strategies for High-Quality YouTube Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-pcs-top-choice-essential-ps1-emulators/"><u>[Updated] 2024 Approved PC's Top Choice Essential PS1 Emulators</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enlightenment-in-education-top-10-history-youtube-channels-for-2024/"><u>[Updated] Enlightenment in Education Top 10 History YouTube Channels for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-ais-rising-tide-of-security-issues/"><u>Advanced AI's Rising Tide of Security Issues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbots-clash-discovering-best-generative-ai-rivals/"><u>ChatBots Clash: Discovering Best Generative AI Rivals</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-management-made-easy-creating-and-utilizing-separate-folders-for-organized-conversations/"><u>ChatGPT Management Made Easy: Creating and Utilizing Separate Folders for Organized Conversations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/connecting-with-chatgpt-through-a-vpn-what-you-need-to-know/"><u>Connecting with ChatGPT Through a VPN: What You Need to Know</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/counteracting-ai-reproduction-protective-measures-using-nightshades/"><u>Counteracting AI Reproduction: Protective Measures Using Nightshades</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-future-with-elon-musk-and-his-ambitious-truthgpt-project/"><u>Decoding the Future with Elon Musk and His Ambitious TruthGPT Project</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-best-ai-tools-for-automated-professional-quality-slideshows/"><u>Discover the Best AI Tools for Automated, Professional-Quality Slideshows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-ai-dominance-generative-chatbot-showdown/"><u>Discovering AI Dominance - Generative Chatbot Showdown</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diy-ai-conversation-bot-setting-up-your-uncensored-gpt-counterpart-on-a-windows-machine-via-freedomgpt/"><u>DIY AI Conversation Bot: Setting Up Your Uncensored GPT Counterpart on a Windows Machine via FreedomGPT</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On OnePlus Ace 2V? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-youtube-unleashed-a-creators-guide-to-greatness/"><u>In 2024, YouTube Unleashed A Creator's Guide to Greatness</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/pixel-perfect-free-mobile-photography-booster/"><u>Pixel Perfect Free Mobile Photography Booster</u></a></li>
-<li><a href="https://games-able.techidaily.com/sony-unveils-10-must-have-games-on-deal/"><u>Sony Unveils 10 Must-Have Games on Deal</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-through-post-production-color-nuances/"><u>[New] Navigating Through Post-Production Color Nuances</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-essential-user-manual-for-music-licensing-on-insta/"><u>[Updated] 2024 Approved The Essential User Manual for Music Licensing on Insta</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-pc-game-screenshots/"><u>[Updated] In 2024, The Ultimate Guide to PC Game Screenshots</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-utilizing-edges-split-screen-feature-pip/"><u>[Updated] In 2024, Utilizing Edge's Split Screen Feature PIP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-leading-stylus-tablets-ranking-in-depth-analysis-and-expert-evaluation/"><u>2024'S Leading Stylus Tablets Ranking: In-Depth Analysis and Expert Evaluation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/begin-using-microsofts-bing-with-ai-step-by-step-registration-guide/"><u>Begin Using Microsoft's Bing with AI: Step-by-Step Registration Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/behind-the-screen-9-debunked-beliefs-about-artificial-intelligence-bots/"><u>Behind the Screen: 9 Debunked Beliefs About Artificial Intelligence Bots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-gpt-the-best-programming-aids-outside-chatgpt/"><u>Beyond GPT: The Best Programming Aids Outside ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-free-travel-arranger-applications-get-swift-smart-itineraries-now/"><u>Essential Free Travel Arranger Applications: Get Swift, Smart Itineraries Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gptzero-demystified-how-this-innovation-helps-you-detect-fake-written-content/"><u>GPTZero Demystified – How This Innovation Helps You Detect Fake Written Content</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/photo-perfection-how-to-automatically-save-snaps-from-snapchat/"><u>Photo Perfection How to Automatically Save Snaps From Snapchat</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-legacy-boot-configurations/"><u>Reinstating Legacy Boot Configurations</u></a></li>
 </ul></div>
 

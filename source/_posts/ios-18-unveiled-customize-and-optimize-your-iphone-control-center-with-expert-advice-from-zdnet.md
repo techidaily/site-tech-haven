@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Customize & Optimize Your iPhone Control Center with Expert Advice From ZDNET"
-date: 2024-11-22T16:05:09.687Z
-updated: 2024-11-28T16:03:27.447Z
+date: 2024-12-02T22:48:04.099Z
+updated: 2024-12-07T22:42:24.785Z
 tags:
   - apple
 categories:
@@ -27,13 +27,13 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -41,7 +41,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -61,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -81,7 +81,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -140,20 +140,19 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-a-step-by-step-approach-for-effective-spotify-marketing/"><u>[New] 2024 Approved A Step-by-Step Approach for Effective Spotify Marketing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/voiding-invisibility-strategies-for-effective-use-of-youtubes-featured-channels/"><u>[New] Avoiding Invisibility Strategies for Effective Use of Youtube's Featured Channels</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/2024s-top-iphone-data-restoration-software-ranked-for-ios-17-users-uncover-the-leading-options/"><u>2024'S Top iPhone Data Restoration Software Ranked for iOS 17 Users – Uncover the Leading Options!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-mystery-of-grok-ai-with-musks-insight-into-purpose-and-expenses/"><u>Decoding the Mystery of Grok AI with Musk's Insight Into Purpose & Expenses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-edge-computing-the-ins-and-outs-of-on-device-ai/"><u>Demystifying Edge Computing: The Ins and Outs of On-Device AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-how-these-7-apps-master-gpt-4s-ai/"><u>Demystifying How These 7 Apps Master GPT-4's AI</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974903665-effortless-driver-download-for-your-brother-hl-3170cdw-start-now/"><u>Effortless Driver Download for Your Brother HL-3170CDW - Start Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/empower-your-customer-experience-by-integrating-chatgpt-with-whatsapp/"><u>Empower Your Customer Experience by Integrating ChatGPT with WhatsApp</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-guide-to-leveraging-anthropics-newly-released-claude-3-platform/"><u>Essential Guide to Leveraging Anthropic's Newly-Released Claude 3 Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exclusive-text-tools-for-you-openais-gpt-tailored-marketplace/"><u>Exclusive Text Tools for You: OpenAI’s GPT Tailored Marketplace</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-genre-to-page-the-ultimate-guide-to-top-5-ai-reading-apps-and-sites/"><u>From Genre to Page: The Ultimate Guide to Top 5 AI Reading Apps and Sites</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/macx-mediatrans-30-ios-10-iphone-e6/"><u>MacX MediaTrans バージョン3.0 リリース：iOS 10 / iPhone Eに対応、6つの革新的な新機能を追加！</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/success-story-overcoming-the-challenge-of-a-non-starting-computer-system/"><u>Success Story: Overcoming The Challenge of a Non-Starting Computer System</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/unpacking-whatsapps-telephony-and-messaging-system-for-2024/"><u>Unpacking WhatsApp's Telephony and Messaging System for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-best-text-plugins-for-ae-users/"><u>[Updated] Top 10 Best Text Plugins for AE Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-epic-launcher-on-pcs-a-quick-guide/"><u>Accelerating Epic Launcher on PCs: A Quick Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-nokia-c32-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nokia C32 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/differentiating-apples-true-chatgpt-offerings/"><u>Differentiating Apple's True ChatGPT Offerings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-seamlessly-integrate-chatgpt-extensions-into-your-system/"><u>How To Seamlessly Integrate ChatGPT Extensions Into Your System</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-ever-fading-memories-revived-youtubes-lost-content-hunt/"><u>In 2024, Ever-Fading Memories Revived YouTube's Lost Content Hunt</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-zero-5g-2023-turbo-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Zero 5G 2023 Turbo Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-secure-to-use-third-party-chatgpt-addons-and-plugins/"><u>Is It Secure to Use Third-Party ChatGPT Addons & Plugins?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-cellular-connection-problems-essential-tips-for-keeping-your-apple-watch-online/"><u>Solving Cellular Connection Problems: Essential Tips for Keeping Your Apple Watch Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-risks-of-bot-interactions-exploring-the-dangers-of-neural-network-inversion-attacks/"><u>The Hidden Risks of Bot Interactions: Exploring the Dangers of Neural Network Inversion Attacks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-benefits-why-choose-microsoft-copilot-over-chatgpt-for-ai-assistance/"><u>Top 4 Benefits: Why Choose Microsoft Copilot Over ChatGPT for AI Assistance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/forming-youtube-sounds-into-high-quality-wav-files/"><u>Transforming YouTube Sounds Into High-Quality WAV Files</u></a></li>
 </ul></div>
 

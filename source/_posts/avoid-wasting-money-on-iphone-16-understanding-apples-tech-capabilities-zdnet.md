@@ -1,7 +1,7 @@
 ---
 title: Avoid Wasting Money on iPhone 16 - Understanding Apple's Tech Capabilities | ZDNet
-date: 2024-11-22T16:13:01.435Z
-updated: 2024-11-28T16:04:27.818Z
+date: 2024-12-04T18:23:03.392Z
+updated: 2024-12-07T18:16:34.012Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -46,16 +50,12 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -65,6 +65,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -72,10 +76,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -96,12 +96,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -118,10 +122,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,24 +157,14 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-windows-8-tips-record-your-screen/"><u>[New] In 2024, Essential Windows 8 Tips Record Your Screen</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-top-ranked-screen-recorder-for-seamless-youtubing/"><u>[Updated] 2024 Approved Top-Ranked Screen Recorder for Seamless YouTubing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-full-time-careers-meet-video-content-a-harmonious-mix/"><u>[Updated] In 2024, Full-Time Careers Meet Video Content A Harmonious Mix</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-beginners-tutorial-setting-up-your-youtube-presence/"><u>2024 Approved Beginner's Tutorial Setting Up Your YouTube Presence</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/9-command-center-of-live-gaming-streams-for-2024/"><u>9 Command Center of Live Gaming Streams for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/academic-integrity-beyond-auto-generated-texts/"><u>Academic Integrity Beyond Auto-Generated Texts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/adapting-to-success-top-six-tactics-for-the-automation-era-jobscape/"><u>Adapting to Success: Top Six Tactics for the Automation Era Jobscape</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-next-phase-brings-heightened-security-threats/"><u>AI's Next Phase Brings Heightened Security Threats</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-perfection-our-curated-list-of-best-tools-for-prompts/"><u>Artificial Intelligence Perfection: Our Curated List of Best Tools for Prompts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beating-isolation-harnessing-chatgpts-power/"><u>Beating Isolation: Harnessing ChatGPT's Power</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-daily-output-top-7-methods-chatgpt-improves-job-efficiency/"><u>Boosting Daily Output: Top 7 Methods ChatGPT Improves Job Efficiency</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-user-confidentiality-understanding-potential-risks/"><u>ChatGPT and User Confidentiality: Understanding Potential Risks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-tool-for-designing-high-performance-workflow-systems/"><u>ChatGPT as a Tool for Designing High-Performance Workflow Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-versatile-polyglot-companion-enhancing-language-accessibility-through-ai-translation-tools/"><u>ChatGPT as a Versatile Polyglot Companion: Enhancing Language Accessibility Through AI Translation Tools</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/getting-unstuck-troubleshooting-absent-fb-vids-for-2024/"><u>Getting Unstuck Troubleshooting Absent FB Vids for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-charting-new-territories-innovations-in-office-spaces-for-enhanced-output/"><u>In 2024, Charting New Territories Innovations in Office Spaces for Enhanced Output</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-resources-for-text-style-adjustment-files-for-2024/"><u>Prime Resources for Text Style Adjustment Files for 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/wie-man-kopierschutz-bei-dvds-fur-windowsmac-entfernt-losungen-von-winxdvd/"><u>Wie Man Kopierschutz Bei DVDs Für Windows/Mac Entfernt – Lösungen Von WinXDVD</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-top-8-collaborative-affordable-android-video-mosaics/"><u>[Updated] Exploring the Top 8 Collaborative, Affordable Android Video Mosaics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creativity-catalyst-chatai-and-visual-thinking/"><u>Creativity Catalyst: ChatAI & Visual Thinking</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-best-artificial-intelligence-apps-for-creating-stunning-presentations/"><u>Discover the Best Artificial Intelligence Apps for Creating Stunning Presentations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/free-professional-slideshow-resources-for-entrepreneurs/"><u>Free Professional Slideshow Resources for Entrepreneurs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/gratuitous-high-quality-ideas-for-profitable-slideshows-for-2024/"><u>Gratuitous, High-Quality Ideas for Profitable Slideshows for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-bingchatgpt-token-frauds-a-guide-to-recognizing-and-avoiding-cryptocurrency-scams/"><u>Identifying BingChatGPT Token Frauds: A Guide to Recognizing & Avoiding Cryptocurrency Scams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-shifting-spectrum-skills-pro-tips-unveiled/"><u>In 2024, Shifting Spectrum Skills - Pro Tips Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-look-elon-musk-unveils-grok-ai-understanding-its-capabilities-and-pricing/"><u>In-Depth Look: Elon Musk Unveils Grok AI - Understanding Its Capabilities & Pricing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ate-guide-to-choosing-a-top-tier-gif-maker/"><u>Ultimate Guide to Choosing a Top-Tier GIF Maker</u></a></li>
 </ul></div>
 

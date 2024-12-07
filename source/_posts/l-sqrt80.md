@@ -1,7 +1,7 @@
 ---
 title: \\[ L = \\Sqrt{80} \\
-date: 2024-11-27T16:10:01.259Z
-updated: 2024-11-28T16:10:37.381Z
+date: 2024-12-05T16:05:36.479Z
+updated: 2024-12-07T22:23:31.199Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | **Google Pixel 6 Pro** | **iPhone 13 Pro**                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                             |
@@ -49,10 +45,14 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the Google Pixel 6 Pro if…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You want fun and experimental camera features
@@ -63,10 +63,6 @@ One standout camera feature on the Pixel 6 Pro is **Motion Mode,** whichallows u
 
 Another new and useful feature is **Magic Eraser.** Like Photoshop's Content Aware Fill, the software trick allows you to magically erase unwanted objects from a photo. Using the feature is as simple as circling what you'd like to erase from your image, whether that's strangers in the background, stain marks, or signage, and the Pixel 6 Pro does the rest. When done correctly, the image will look like it was perfectly captured in the first place. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a bigger battery
 
 While Apple's iPhones have made significant improvements to battery life since the early days, the Google Pixel 6 Pro wins the endurance battle. With 5,003 mAh (versus the iPhone's suggested 3,095 mAh), the Pixel 6 Pro can withstand a day's use with more ease than Apple's Pro phone. Google says the Pixel 6 Pro can support up to 9 hours of YouTube playback with just a single charge, which is close to our in-house experiences. It also helps that the Pixel supports USB-C fast charging, a more standardized method of charging than Apple's proprietary Lightning port. 
@@ -74,10 +70,6 @@ While Apple's iPhones have made significant improvements to battery life since t
 **Also: [One year later, Google Pixel 6 Pro is still Google's best smartphone](https://www.zdnet.com/article/google-pixel-6-pro-review/)**
 
 CNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want a sleek, innovative design
 
@@ -89,11 +81,11 @@ Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 
 
 [Buy the Google Pixel 6 Pro $418.88 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HYR2NC8%2Fref%3Dasc%5Fdf%5FB09HYR2NC81727521200000%3Fcreative%3D395261%26creativeASIN%3DB09HYR2NC8%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5b1293-c7f0-4074-bebc-aa1278013569%7Cdtp&dtb=1)
 
-##  You should buy the iPhone 13 Pro if...
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+##  You should buy the iPhone 13 Pro if...
 
 ###  1\. You want cinematic camera features
 
@@ -107,6 +99,10 @@ The iPhone 13 Pro also features new photographic styles. Different from your typ
 
 Lastly, Cinematic Mode shoots videos with a soft, out-of-focus background so that the subject of interest and the depth map are kept separate. With AI processing, the focus can intelligently shift when the subject turns around and his or her back is then facing the camera. Overall, the special mode gives a more movie-like quality to your iPhone videos 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You own other Apple products (AirPods, Apple Watch, iPad, MacBook, etc.)
 
 There's a reason for Apple's cult following and customer loyalty. Its products have always followed a "strength in numbers" philosophy, enhancing existing services when more than one device is integrated. This interlocking of hardware and software is best described as Apple's walled garden, making it difficult for users to switch out once they're invested. 
@@ -114,6 +110,10 @@ There's a reason for Apple's cult following and customer loyalty. Its products h
 While not an actual product, the Apple ecosystem is still very much part of the product you purchase when investing in, say, an iPhone. Your Apple ID credentials serve as the ecosystem's life source, allowing you to manage and protect multiple devices effortlessly. If you already own a pair of AirPods, an Apple Watch, or a MacBook, then buying the iPhone 13 Pro will make more sense usability-wise. 
 
 Image: Apple
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
 
@@ -153,19 +153,22 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-elevate-your-tiktok-content-mastering-text-additions/"><u>[New] 2024 Approved Elevate Your TikTok Content Mastering Text Additions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-experts-picks-top-5-webcams-revolutionizing-game-streaming/"><u>[New] Expert's Picks Top 5 Webcams Revolutionizing Game Streaming</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-guide-to-cam-alternatives-not-like-gopro-for-2024/"><u>[New] The Ultimate Guide to Cam Alternatives Not Like GoPro for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-time-lapse-magic-animation-through-the-lens-of-movie-maker/"><u>[Updated] In 2024, Time-Lapse Magic Animation Through the Lens of Movie Maker</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-gionee-f3-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Gionee F3 Pro</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/excellent-mkv-player-on-ios-android/"><u>Excellent MKV Player on iOS, Android</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-s24plus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy S24+ to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secrets-to-keeping-a-record-of-your-interactions-a-guide-to-preserving-chatgpt-chats-easily/"><u>Secrets to Keeping a Record of Your Interactions: A Guide to Preserving ChatGPT Chats Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-building-custom-ai-chatbot-from-personal-data/"><u>Step-by-Step Guide to Building Custom AI Chatbot From Personal Data</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-customizing-your-iphone-lock-screen-with-text/"><u>Step-by-Step Guide: Customizing Your iPhone Lock Screen with Text</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-on-how-to-get-and-set-up-auto-gpt/"><u>Step-By-Step Instructions on How to Get and Set Up Auto-GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-complete-anthropic-guide-to-claude-3-usage/"><u>The Complete Anthropic Guide to Claude 3 Usage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-conceptual-framework-and-societal-impacts-of-comparing-digital-libraries-with-traditional-models/"><u>The Conceptual Framework and Societal Impacts of Comparing Digital Libraries with Traditional Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-educators-blueprint-embracing-ai-in-classrooms/"><u>The Educator's Blueprint: Embracing AI in Classrooms</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-classic-film-aesthetics-masterclass-in-video-production/"><u>[New] Classic Film Aesthetics Masterclass in Video Production</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/10-simple-vlog-ideas-for-you-to-try-out-for-2024/"><u>10 Simple Vlog Ideas for You to Try Out for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbot-face-off-key-differences-in-capabilities-between-microsofts-bing-ai-and-chatgpt-revealed/"><u>Chatbot Face-Off: Key Differences in Capabilities Between Microsoft's Bing AI & ChatGPT Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deception-decoded-tech-tactics-of-online-thieves/"><u>Deception Decoded: Tech Tactics of Online Thieves</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-6-aspects-to-evaluate-when-implementing-chatgpt-in-psychological-wellness/"><u>Essential 6 Aspects to Evaluate When Implementing ChatGPT in Psychological Wellness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-automated-conversations-how-does-censorship-shape-your-interaction-with-chatbots/"><u>Exploring Automated Conversations: How Does Censorship Shape Your Interaction with Chatbots?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722962394573-get-and-upgrade-your-creative-webcameras-windows-drivers-here-no-charge/"><u>Get and Upgrade Your Creative WebCamera's Windows Drivers Here – No Charge</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-ai-opinions-and-predictions-by-10-pioneering-technology-figures/"><u>Navigating AI: Opinions and Predictions by 10 Pioneering Technology Figures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-low-usb-controller-limitation-error/"><u>Remedying “Low USB Controller Limitation” Error</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-definitive-walkthrough-for-downloading-and-upgrading-ralink-drivers-in-windows/"><u>The Definitive Walkthrough for Downloading & Upgrading Ralink Drivers in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-perils-in-conversing-with-ai-chatgpt/"><u>The Hidden Perils in Conversing with AI: ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-real-deal-on-truthgpt-coin-investigating-its-authenticity-and-safety-for-investors/"><u>The Real Deal on TruthGPT Coin – Investigating Its Authenticity and Safety for Investors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-concepts-to-images-the-dall-e-and-gpt-4-methodology/"><u>Transforming Concepts to Images: The DALL-E & GPT-4 Methodology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-major-development-errors-a-guide-for-call-of-dutys-latest-titles/"><u>Troubleshooting Major Development Errors: A Guide for Call of Duty's Latest Titles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-effects-of-artificeus-censorship-on-your-daily-interactions-with-chatbots/"><u>Understanding the Effects of Artificeus' Censorship on Your Daily Interactions with Chatbots</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Civi 3 | Dr.fone</u></a></li>
 </ul></div>
 

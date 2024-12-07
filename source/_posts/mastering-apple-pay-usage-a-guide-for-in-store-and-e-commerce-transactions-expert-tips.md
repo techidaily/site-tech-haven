@@ -1,7 +1,7 @@
 ---
 title: "Mastering Apple Pay Usage: A Guide for In-Store and E-Commerce Transactions - Expert Tips"
-date: 2024-11-22T16:08:21.591Z
-updated: 2024-11-28T16:16:03.934Z
+date: 2024-12-02T17:50:28.968Z
+updated: 2024-12-07T16:22:57.065Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Apple Pay online and in stores
@@ -45,7 +45,7 @@ Tap on the Wallet app to open it.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
@@ -70,10 +70,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -81,10 +77,6 @@ Double-clicking, or, rather, double-pressing, the button on the right side of yo
 Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
@@ -108,10 +100,14 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -140,6 +136,10 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 **Also: [Venmo and PayPal now offer 'Tap to Pay' on iPhone for businesses](https://www.zdnet.com/article/venmo-and-paypal-now-offer-tap-to-pay-on-iphone-for-businesses/)**
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Apple Cash?
 
@@ -197,24 +197,20 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-5-game-ready-keyboards-under-100-a-comparison/"><u>[New] Top 5 Game-Ready Keyboards Under $100 – A Comparison</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-extensive-analysis-the-complete-gear-360-camera-experience/"><u>[Updated] 2024 Approved Extensive Analysis The Complete Gear 360 Camera Experience</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-view-old-stories-on-facebook-laptop-and-mobile/"><u>[Updated] 2024 Approved How to View Old Stories on Facebook? [Laptop and Mobile]</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-a-beginners-tutorial-on-using-luts-in-ar/"><u>2024 Approved A Beginner's Tutorial on Using LUTs in AR</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-own-blemishes-overlooked/"><u>AI's Own Blemishes Overlooked</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artists-guide-safeguarding-masterpieces-against-copycat-ai-using-the-power-of-nightshade/"><u>Artists' Guide: Safeguarding Masterpieces Against Copycat AI Using the Power of Nightshade</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoiding-data-snooping-gpt-and-vpn-connection-tips/"><u>Avoiding Data Snooping: GPT & VPN Connection Tips?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-free-mac-video-compression-software-in-2-top-picks/"><u>Best Free Mac Video Compression Software in 2#! - Top Picks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-hacking-limits-exploring-7-key-factors-that-render-chatgpt-jailbreaks-obsolete/"><u>Beyond Hacking Limits: Exploring 7 Key Factors That Render ChatGPT Jailbreaks Obsolete</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-directive-perfection-using-these-innovative-online-helpers/"><u>Boost Directive Perfection Using These Innovative Online Helpers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-instruction-crafting-skills-using-these-innovative-aids/"><u>Boost Your Instruction Crafting Skills Using These Innovative Aids</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/claude-2-decoded-how-does-it-work-and-why-use-it-for-your-projects/"><u>Claude 2 Decoded – How Does It Work and Why Use It for Your Projects?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/constructing-fitness-goals-leveraging-ai-insight/"><u>Constructing Fitness Goals: Leveraging AI Insight</u></a></li>
-<li><a href="https://win-blog.techidaily.com/correct-approaches-to-handle-helldivers-2s-msvcr110dll-disappearance/"><u>Correct Approaches to Handle Helldivers 2'S MSVCR110.dll Disappearance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-responsive-bots-the-job-of-todays-engineers/"><u>Crafting Responsive Bots: The Job of Today's Engineers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-budget-friendly-vlogging-cameras-unveiled-our-picks/"><u>In 2024, Budget-Friendly Vlogging Cameras Unveiled Our Picks</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-art-of-color-correction-a-final-cut-pro-guide-for-2024/"><u>New The Art of Color Correction A Final Cut Pro Guide for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/al-lens-selection-for-smooth-vlogging-experience-for-2024/"><u>Optimal Lens Selection for Smooth Vlogging Experience for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/wachten-op-de-gelegenheid-te-scannen-van-een-hartseksus-voor-bijwonende-interventies/"><u>Wachten Op De Gelegenheid Te Scannen Van Een Hartseksus Voor Bijwonende Interventies!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-cutting-edge-strategies-for-igtv-backgrounds/"><u>[New] Cutting-Edge Strategies for IGTV Backgrounds</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-ultimate-guide-how-to-make-money-from-instagram/"><u>[Updated] 2024 Approved Ultimate Guide How to Make Money From Instagram</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-eight-outstanding-choices-for-private-video-communication/"><u>2024 Approved Eight Outstanding Choices for Private Video Communication</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-riding-the-viral-wave-transform-your-brand-on-tiktok/"><u>2024 Approved Riding the Viral Wave Transform Your Brand on TikTok</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-its-legal-concerns-revolutionizing-googles-news-algorithm-plus-strategies-for-improved-mobile-internet-during-holidays/"><u>ChatGPT and Its Legal Concerns: Revolutionizing Google's News Algorithm Plus Strategies for Improved Mobile Internet During Holidays</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cutting-edge-srt-modifications-for-modern-computers/"><u>Cutting-Edge SRT Modifications for Modern Computers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-xs-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone XS If Youve Tried Everything</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-your-files-with-these-gpt-interaction-apps/"><u>Master Your Files with These GPT Interaction Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/share-your-chatgpt-exchanges-with-ease-a-step-by-step-guide/"><u>Share Your ChatGPT Exchanges with Ease - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-converting-dvdmedia-files-to-mp4-format-on-a-mac/"><u>Step-by-Step Guide: Converting DVDMedia Files to MP4 Format on a Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-to-bypass-chatgpts-input-limits/"><u>Strategies to Bypass ChatGPT's Input Limits</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-overcoming-the-black-ops-cold-war-stuck-on-shader-compile-error-solution-included/"><u>Troubleshooting Guide: Overcoming the Black Ops Cold War 'Stuck on Shader Compile' Error (Solution Included)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-top-8-methods-to-resolve-multiversus-game-crashes/"><u>Ultimate Guide: Top 8 Methods to Resolve MultiVersus Game Crashes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-potential-with-ai-harnessing-the-power-of-chabtgpt-for-inspired-content-creation/"><u>Unleashing Potential with AI: Harnessing the Power of ChabtGPT for Inspired Content Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-how-chatgpt-and-whisper-api-integration-revolutionizes-business-operations/"><u>Unlocking Potential: How ChatGPT & Whisper API Integration Revolutionizes Business Operations</u></a></li>
 </ul></div>
 

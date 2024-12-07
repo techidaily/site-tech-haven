@@ -1,7 +1,7 @@
 ---
 title: "Newly Released AirPower Footage: Could This Signal the Return of Apple's Discontinued Qi-Compatible Charger?"
-date: 2024-11-23T16:09:55.339Z
-updated: 2024-11-28T16:15:49.175Z
+date: 2024-11-30T16:36:42.121Z
+updated: 2024-12-07T21:57:55.272Z
 tags:
   - apple
 categories:
@@ -35,7 +35,7 @@ more buying choices
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -45,7 +45,7 @@ I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 With configurations ranging from $999 to $2,599, keep in mind that the higher storage tiers (1TB and 2TB) also come with double the RAM (16GB vs. 8GB) and an extra CPU core. It's a subtle, under-the-hood difference that's easy to miss, especially when cross-shopping [between iPad models](https://www.zdnet.com/article/best-ipad/). If you can use the greater compute, have an offline-heavy workflow, and/or want the most future-proofed iPad on the market, it's worth the upcharge. Otherwise, the base 11- or 13-inch model will serve you just fine, as they have for me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -62,15 +62,15 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How I tested the iPad Pro (2024)
 
 Over the past week and a half, I've used (or attempted to use) the 11-inch iPad Pro as my primary computer for work and as a secondary, entertainment-only device. When it wasn't paired to a Wi-Fi connection 90% of the time, it ran off my phone's T-Mobile hotspot. While Apple sells an [LTE version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) of the iPad Pro, my primary testing grounds for the device have been at home, a local café, and my work office -- nowhere adventurous enough to justify the always-connected upgrade.
 
 I also paired the iPad with Apple's revamped [Magic Keyboard](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR03LL%2FA%2Fmagic-keyboard-for-ipad-pro-11%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The $299 starting price gave me pause when I first checked out the accessory, but the thinner, lighter aluminum form factor, larger trackpad, and a new row of function keys this year make the keyboard case more essential than ever for the full iPad experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What are the best features of the iPad Pro (2024)?
 
@@ -110,10 +110,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What I'd like to see in the next model
 
 **More flexible software:** The limitations of iPadOS remain with every generation of iPad reviewed; I can talk all day about how lovely it'd be to have native apps that give me something remotely close to their desktop counterparts or how every iPadOS update feels like another small step towards an ever-distant [touchscreen MacBook dream](https://www.zdnet.com/article/touchscreen-macbook-4-reasons-why-we-love-the-idea-and-4-reasons-why-we-dont/).
@@ -132,6 +128,10 @@ I'm also aware that Apple sells iPads like no other tablet maker, generating an 
 
 Of course, slimming down the iPad Pro means Apple likely won't move towards adding ports. Given how essential the Magic Keyboard is to the iPad, however, it could be even more so with the additional I/O.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Final thought
 
 Apple's tablet lineup is ultimately (and has always been) confined by an operating system that promotes flexibility and ease of use over high-power multitasking. That balance may shift come WWDC, should the company pitch a more ambitious, AI-driven version of iPadOS.
@@ -139,7 +139,7 @@ Apple's tablet lineup is ultimately (and has always been) confined by an operati
 Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) is, for all intents and purposes, an iPad -- a tablet you carry around for getting certain tasks done and for consuming content. For many, being the [best tablet](https://www.zdnet.com/article/best-tablet/) on the market -- not the [best laptop or PC](https://www.zdnet.com/article/best-laptop/) \-- is more than enough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -176,22 +176,22 @@ Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-premier-seminar-title-inventor-suite/"><u>[New] Premier Seminar Title Inventor Suite</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/a-step-by-step-guide-to-utilizing-bandicams-capture-feature-for-2024/"><u>A Step-by-Step Guide to Utilizing Bandicam's Capture Feature for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-image-creation-with-chatgpt-step-by-step-guide-to-unleash-creative-potential/"><u>AI Image Creation with ChatGPT: Step-by-Step Guide to Unleash Creative Potential</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artistic-defense-the-collective-suit-against-meta-and-openais-ai/"><u>Artistic Defense: The Collective Suit Against Meta & OpenAI's AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoid-data-exposure-with-chatgpt-heres-your-guide-to-opting-out-safely/"><u>Avoid Data Exposure with ChatGPT? Here’s Your Guide to Opting Out Safely</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bridging-the-gap-between-ios-and-android-messaging-incorporate-imessage-into-your-android-experience/"><u>Bridging the Gap Between iOS and Android Messaging - Incorporate iMessage Into Your Android Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-conundrum-unveiling-why-chatgpt-fails-at-self-detecting-text-generation/"><u>Chatbot Conundrum: Unveiling Why ChatGPT Fails at Self-Detecting Text Generation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-desktop-not-out-yet-heres-an-incredible-free-alternative-to-try-now/"><u>ChatGPT Desktop Not Out Yet? Here's an Incredible Free Alternative to Try Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-ai-slang-your-comprehensive-guide-to-29-important-ai-concepts/"><u>Deciphering AI Slang: Your Comprehensive Guide to 29 Important AI Concepts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-generative-ai-foundations-uncovered/"><u>Deciphering Generative AI: Foundations Uncovered</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-gpt-4-bridging-the-gap-between-elite-tech-and-public-accessibility/"><u>Decoding GPT-^4: Bridging the Gap Between Elite Tech and Public Accessibility</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-sharefake-location-on-whatsapp-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevate-your-snapstreak-game-with-savvy-tactics/"><u>In 2024, Elevate Your Snapstreak Game with Savvy Tactics</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-frozen-windows-update-with-precision/"><u>Tackling Frozen Windows Update With Precision</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-htc-u23-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your HTC U23 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-future-of-storytelling-full-rotational-videography/"><u>[New] The Future of Storytelling Full Rotational Videography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-file-sync-up-the-5-fundamental-ways-for-your-computer-upload/"><u>[Updated] File Sync-Up The 5 Fundamental Ways for Your Computer Upload</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-getting-more-from-instagram-videos-and-photos/"><u>[Updated] Getting More From Instagram Videos & Photos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-your-ultimate-guide-to-unmissable-games/"><u>[Updated] In 2024, Your Ultimate Guide to Unmissable Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-guide-to-mobile-image-mastery-for-2024/"><u>[Updated] The Ultimate Guide to Mobile Image Mastery for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1-como-refrescar-o-reinstalar-windows-11-sin-perder-tus-programas-y-datos-una-guia-completa/"><u>1. Cómo Refrescar O Reinstalar Windows 11 Sin Perder Tus Programas Y Datos: Una Guía Completa</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-computers-crack-a-joke-discovering-ai-comedy-skills-alongside-the-rise-of-laptops-and-enhanced-internet-privacy-with-vpns/"><u>Can Computers Crack a Joke? Discovering AI Comedy Skills Alongside the Rise of Laptops and Enhanced Internet Privacy with VPNs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-pathway-to-a-relaxed-existence/"><u>ChatGPT’s Pathway to a Relaxed Existence</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/effortless-tricks-to-repair-non-responsive-quick-access-in-windows-11/"><u>Effortless Tricks to Repair Non-Responsive Quick Access in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/engaging-with-algorithms-mistrals-encounter-with-chatgpt/"><u>Engaging with Algorithms: Mistral's Encounter With ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-5-launch-speculations-and-predicted-timeline-for-the-next-ai-leap/"><u>GPT-5 Launch Speculations and Predicted Timeline for the Next AI Leap</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-pros-and-cons-of-prompt-engineering-as-a-job-understanding-its-legitimacy-with-key-indicators/"><u>The Pros and Cons of Prompt Engineering as a Job: Understanding Its Legitimacy with Key Indicators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-tools-interacting-with-text-in-pdfs-and-docs-through-conversational-ai/"><u>Top 6 Tools: Interacting with Text in PDFs & Docs Through Conversational AI</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/icks-7-exceptional-android-adblocking-apps/"><u>Top Picks 7 Exceptional Android AdBlocking Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-creativity-with-5-outstanding-free-ai-photo-generators-available-now/"><u>Unleash Your Creativity with 5 Outstanding Free AI Photo Generators Available Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-truth-about-ai-hallucinations-detection-techniques-explored/"><u>Unveiling the Truth About AI Hallucinations: Detection Techniques Explored</u></a></li>
 </ul></div>
 

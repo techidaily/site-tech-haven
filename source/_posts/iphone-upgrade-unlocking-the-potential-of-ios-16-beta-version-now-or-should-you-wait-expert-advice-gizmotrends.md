@@ -1,7 +1,7 @@
 ---
 title: "IPhone Upgrade: Unlocking the Potential of iOS 16 Beta Version Now or Should You Wait? Expert Advice | GizmoTrends"
-date: 2024-11-21T16:19:45.908Z
-updated: 2024-11-28T16:08:36.522Z
+date: 2024-12-01T17:38:13.633Z
+updated: 2024-12-07T20:32:18.404Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Customize your lock screen
@@ -39,6 +39,10 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -70,6 +74,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -88,19 +96,11 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -116,10 +116,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -129,7 +125,7 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -139,6 +135,10 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,20 +180,20 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-comparing-old-and-new-movavi-video-editor-2024-analysis/"><u>[New] Comparing Old & New Movavi Video Editor 2024 Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-excellence-collection-highest-quality-webcam-supports/"><u>[Updated] 2024 Approved Excellence Collection Highest Quality Webcam Supports</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertly-alter-imagesvideo-with-mobile-3dluts/"><u>2024 Approved Expertly Alter Images/Video with Mobile 3DLUTs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-best-no-cost-pc-games-and-demystify-the-world-of-mechanical-keyboards-today/"><u>Discover the Best No-Cost PC Games and Demystify the World of Mechanical Keyboards Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-ai-interaction-chrome-add-on-streamlines-prompting-for-chatgpt/"><u>Effortless AI Interaction: Chrome Add-On Streamlines Prompting for ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-document-generation-with-chatgpt-for-ms-office-users/"><u>Effortless Document Generation with ChatGPT for MS Office Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elon-musk-introduces-grok-the-innovative-ai-technology-discover-its-functionality-and-price-tag/"><u>Elon Musk Introduces Grok: The Innovative AI Technology – Discover Its Functionality & Price Tag!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/end-data-harvesting-the-chatgpt-opt-out-procedure/"><u>End Data Harvesting: The ChatGPT Opt-Out Procedure</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-googles-cutting-edge-ai-dive-into-the-capabilities-of-palm-2-the-next-generation-language-processing-giant/"><u>Exploring Google's Cutting-Edge AI: Dive Into the Capabilities of PaLM 2, the Next Generation Language Processing Giant</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-ai-landscape-understanding-public-vs-private-vs-personal-variants/"><u>Exploring the AI Landscape: Understanding Public Vs. Private Vs. Personal Variants</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-official-method-to-unlock-your-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 12 Pro Official Method to Unlock Your iPhone 12 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus with a Mask On</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac/"><u>In 2024, The Ultimate Guide to Leveraging Preview Capabilities on a Mac</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719580093229-the-british-lingo-book-saying-it-right/"><u>The British Lingo Book: Saying It Right!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ultimate-compilation-top-11-streaming-gear-insights/"><u>Ultimate Compilation Top 11 Streaming Gear Insights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/alculating-earnings-ad-revenues-in-the-world-of-youtube-for-2024/"><u>[New] Calculating Earnings Ad Revenues in the World of YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-new-frontiers-a-guide-to-metaverse-promotion/"><u>[New] Navigating New Frontiers A Guide to Metaverse Promotion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-cost-free-innovative-photo-overlays-for-mobile-devices/"><u>10 Cost-Free, Innovative Photo Overlays for Mobile Devices</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-the-ultimate-guide-to-going-viral-with-tiktok-edits/"><u>2024 Approved The Ultimate Guide to Going Viral with TikTok Edits</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-ambient-weather-ws-1002-wifi-thermometer-luxury-at-a-higher-price-point/"><u>Comprehensive Analysis of the Ambient Weather WS-1002 WiFi Thermometer - Luxury at a Higher Price Point</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/core-principles-of-internet-storytelling-for-2024/"><u>Core Principles of Internet Storytelling for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/customizing-ai-conversations-discover-the-latest-update-in-chatgpt-for-personalized-gpt-models/"><u>Customizing AI Conversations: Discover the Latest Update in ChatGPT for Personalized GPT Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/digital-dexterity-ai-comedy-and-laptop-legacy-unveiled/"><u>Digital Dexterity: AI Comedy & Laptop Legacy Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-productivity-with-these-ai-driven-chrome-addons-top-picks/"><u>Maximize Your Productivity with These AI-Driven Chrome Addons - Top Picks!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-a-sea-of-ai-imagery-with-microsoft-copilot/"><u>Navigating Through a Sea of AI Imagery with Microsoft Copilot</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/personalizing-teams-windows-for-effective-calls/"><u>Personalizing Teams Windows for Effective Calls</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/smarter-solutions-discover-your-8-ai-matches-now/"><u>Smarter Solutions: Discover Your 8 AI Matches Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-era-of-automated-writing-is-the-classic-student-essay-a-thing-of-the-past-due-to-innovations-like-chatgpt/"><u>The Era of Automated Writing: Is the Classic Student Essay a Thing of the Past Due to Innovations Like ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/vocal-command-unleashing-the-power-of-chatgpt-with-just-your-voice/"><u>Vocal Command: Unleashing the Power of ChatGPT with Just Your Voice</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-note-12r-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi Redmi Note 12R support - Turn Off Screen Lock.</u></a></li>
 </ul></div>
 

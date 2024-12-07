@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Recovering Lost Passwords From Your macOS Keychain on ZDNet
-date: 2024-11-22T16:02:28.373Z
-updated: 2024-11-28T16:04:07.973Z
+date: 2024-12-03T20:21:04.751Z
+updated: 2024-12-07T22:28:36.643Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -27,7 +27,7 @@ I will start this out by reminding everyone that you should be using a password 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
@@ -39,7 +39,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -51,6 +51,10 @@ To open the Keychain Access tool, click on the Launchpad located in the Dock. Fr
 The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
 
@@ -66,10 +70,6 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -79,7 +79,7 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -113,24 +113,24 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-explore-the-best-phone-options-for-enhanced-gear-vr-immersion/"><u>[New] 2024 Approved Explore the Best Phone Options for Enhanced Gear VR Immersion</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-understanding-instagrams-video-length-cap/"><u>[New] Understanding Instagram's Video Length Cap</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-audio-input-reduction-zero-price-included/"><u>[Updated] Audio Input Reduction - Zero Price Included</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-recommendations-the-best-handhited-hd-players/"><u>[Updated] Expert Recommendations The Best Handhited HD Players</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-twittersphere-treasure-trove/"><u>[Updated] The Twittersphere Treasure Trove</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-accelerate-your-gaming-experience-with-top-extensions/"><u>2024 Approved Accelerate Your Gaming Experience with Top Extensions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/auditory-ascension-mastering-the-art-of-audio-driver-refresh-on-ws11/"><u>Auditory Ascension: Mastering the Art of Audio Driver Refresh on WS11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-traits-the-selection-guide-to-chatbot-services/"><u>Essential Traits: The Selection Guide to Chatbot Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-bot-excellence-gpt-plus-versus-perplexity/"><u>Exploring Bot Excellence: GPT Plus versus Perplexity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/foundations-in-creating-interactive-conversation-elements/"><u>Foundations in Creating Interactive Conversation Elements</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/gaming-galore-top-10-virtual-reality-for-phones/"><u>Gaming Galore Top 10 Virtual Reality for Phones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-ai-face-off-notion-ai-versus-chatgpt-determining-the-top-contender/"><u>Generative AI Face-Off: Notion AI Versus ChatGPT – Determining the Top Contender</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guarding-against-unintended-data-leakage-in-custom-gpts/"><u>Guarding Against Unintended Data Leakage in Custom GPTs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/incredible-enlightenment-direct-dialogue-with-chatgpt/"><u>Incredible Enlightenment: Direct Dialogue With ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovating-engagement-the-finest-5-ai-prompt-generators-reviewed/"><u>Innovating Engagement: The Finest 5 AI Prompt Generators Reviewed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-minds-in-silicon-the-battle-of-bot-creativity-on-a-shared-idea/"><u>Innovative Minds in Silicon: The Battle of Bot Creativity on a Shared Idea</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-ai-in-bing-an-android-guide/"><u>Maximizing AI in Bing: An Android Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/reestablishing-iphone-x-trust-restoring-biometric-lock/"><u>Reestablishing iPhone X Trust Restoring Biometric Lock</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unleash-the-potential-of-video-marketing-on-facebook-for-2024/"><u>Unleash the Potential of Video Marketing on Facebook for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-step-by-step-to-facial-obscurity-in-image-editing/"><u>[New] A Step-by-Step to Facial Obscurity in Image Editing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-the-secrets-of-premium-instagram-image-creation-for-2024/"><u>[New] Unlock the Secrets of Premium Instagram Image Creation for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-demystifying-encoding-a-beginners-approach-to-av1/"><u>[Updated] 2024 Approved Demystifying Encoding A Beginner's Approach to AV1</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-edit-like-a-pro-with-any-of-these-top-7-free-options/"><u>[Updated] 2024 Approved Edit Like a Pro with Any of These Top 7 Free Options</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>[Updated] Essential Offline iOS Game List - Unplugged Fun Awaits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-masters-tutorial-total-deep-dive-into-xmedia-suite-workshop/"><u>[Updated] Master's Tutorial Total Deep Dive Into XMedia Suite Workshop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-chatgpt-variants-direct-browsing-and-extension-capabilities-explored/"><u>Comparing ChatGPT Variants: Direct Browsing and Extension Capabilities Explored</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/discovering-the-superiority-of-apples-m1-macbooks-for-2024/"><u>Discovering the Superiority of Apple's M1 MacBooks for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-fusion-of-real-and-imagined-top-8-effects-of-artificial-intelligence/"><u>Exploring the Fusion of Real & Imagined: Top 8 Effects of Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-shielding-your-web-pages-against-openai-data-extraction-techniques/"><u>Guide: Shielding Your Web Pages Against OpenAI Data Extraction Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-the-potential-of-claude-artificial-intelligence-systems/"><u>Harnessing the Potential of Claude Artificial Intelligence Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-gt-neo-5-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme GT Neo 5 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-blockchain-interactions-find-your-perfect-gpt-plugin-amongst-our-top-8-picks/"><u>Mastering Blockchain Interactions: Find Your Perfect GPT Plugin Amongst Our Top 8 Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-productivity-in-excel-discover-3-powerful-chatgpt-applications/"><u>Maximize Productivity in Excel: Discover 3 Powerful ChatGPT Applications</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revealing-the-future-with-microsofts-hololens-analysis-for-2024/"><u>Revealing the Future with Microsoft's HoloLens Analysis for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sharpening-reality-of-ai-conclusions-with-6-precision-prompts/"><u>Sharpening Reality of AI Conclusions with 6 Precision Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/smart-shopping-for-routers-dive-into-our-tp-link-archer-a6-ac1200-examination/"><u>Smart Shopping for Routers? Dive Into Our TP-Link Archer A6 AC1200 Examination!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tips-to-circumvent-chatgpts-max-characters/"><u>Tips to Circumvent ChatGPT’s Max Characters</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-a-library-of-free-audiobooks-with-your-us-spotify-premium-account/"><u>Unlock a Library of Free Audiobooks with Your U.S. Spotify Premium Account</u></a></li>
 </ul></div>
 

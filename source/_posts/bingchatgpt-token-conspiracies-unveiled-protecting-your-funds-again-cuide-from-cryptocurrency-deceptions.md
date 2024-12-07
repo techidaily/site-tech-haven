@@ -1,7 +1,7 @@
 ---
 title: "BingChatGPT Token Conspiracies Unveiled: Protecting Your Funds Again Cuide From Cryptocurrency Deceptions"
-date: 2024-08-20T12:09:28.979Z
-updated: 2024-08-21T12:09:28.979Z
+date: 2024-12-05T19:55:39.184Z
+updated: 2024-12-07T17:23:09.397Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,9 +61,24 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-2022-speed-skating-spectacle/"><u>[New] 2024 Approved 2022 Speed Skating Spectacle</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-elevating-your-role-a-guide-to-exceptional-interviews/"><u>[New] In 2024, Elevating Your Role A Guide to Exceptional Interviews</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-scope-on-splitcam-highest-quality-camera/"><u>[Updated] 2024 Approved The Scope on SplitCam Highest Quality Camera?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-engaging-youtube-content-a-guide-to-writing-scripts-with-chatgpt/"><u>Crafting Engaging YouTube Content: A Guide to Writing Scripts with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-ai-illusions-separating-fact-from-fabricated-data/"><u>Deciphering AI Illusions: Separating Fact From Fabricated Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-ai-language-models-the-varied-facets-of-gpt-4-gpt-4-turbo-and-phi/"><u>Decoding AI Language Models: The Varied Facets of GPT-4, GPT-4 Turbo, and Phi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/five-leading-e-learning-platforms-to-excel-in-artificial-intelligence-ai-prompt-design/"><u>Five Leading E-Learning Platforms to Excel in Artificial Intelligence (AI) Prompt Design</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-a05s-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy A05s Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/llama-3-against-gpt-4-faceoff-who-emerges-victorious/"><u>Llama 3 Against GPT-4 Faceoff: Who Emerges Victorious?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/soundbot-sb210-review-the-high-quality-sound-device-that-thrives-under-ideal-circumstances/"><u>Soundbot SB210 Review - The High-Quality Sound Device That Thrives Under Ideal Circumstances</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-turing-test-alternatives-and-advancements-to-measure-intelligence/"><u>The Turing Test : Alternatives and Advancements to Measure Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-turing-test-demystified-can-machines-truly-mimic-human-thought/"><u>The Turing Test Demystified: Can Machines Truly Mimic Human Thought?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-companion-for-on-the-go-professionals-explore-the-msi-pro-mp161e2-monitor/"><u>The Ultimate Companion for On-the-Go Professionals: Explore the MSI Pro MP161E2 Monitor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-non-functioning-hdmi-sound-in-windows-7-systems/"><u>Ultimate Fixes for Non-Functioning HDMI Sound in Windows 7 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-immersive-dandd-by-leveraging-chatgpt-insights/"><u>Unlocking Immersive D&D by Leveraging ChatGPT Insights</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

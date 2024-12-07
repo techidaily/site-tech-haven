@@ -1,7 +1,7 @@
 ---
 title: How Apple's Hidden iPad Pro Sale Makes This Prime Day Historic - Exclusive Analysis by ZDNet
-date: 2024-11-25T16:10:31.559Z
-updated: 2024-11-28T16:13:29.128Z
+date: 2024-12-05T17:53:59.526Z
+updated: 2024-12-07T18:00:16.309Z
 tags:
   - apple
 categories:
@@ -38,7 +38,7 @@ Internally, the new iPad Pro features Apple's most powerful Silicon yet, the M4,
 Right now, Amazon has both the [11- and 13-inch options on sale for $928 and $1,198](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C928c76e0-7991-4296-835f-5fc747ca6ed4%7Cdtp&dtb=1), respectively. Again, you'll only be saving between $80 to $100, but the discount can be offloaded towards [additional accessories](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3Dipad%2Bpro%2B2024%2Baccessories%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C928c76e0-7991-4296-835f-5fc747ca6ed4%7Cdtp&dtb=1).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -85,15 +85,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-filter-mastery-essential-skills/"><u>[New] Instagram Filter Mastery - Essential Skills</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-picks-for-the-modern-buyer-advanced-360cams/"><u>[Updated] In 2024, Top Picks for the Modern Buyer Advanced 360Cams</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-the-perfect-phone-for-your-child-see-our-expert-picks-on-zdnets-best-list/"><u>Choosing the Perfect Phone for Your Child? See Our Expert Picks on ZDNet's Best List!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-huggingchat-a-comprehensive-guide-to-this-free-open-source-chatbot-alternative/"><u>Exploring HuggingChat: A Comprehensive Guide to This Free, Open Source Chatbot Alternative</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-advantages-and-disadvantages-of-chatgpt-in-creative-writing-ventures/"><u>Exploring the Advantages & Disadvantages of ChatGPT in Creative Writing Ventures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-generative-ai-an-in-depth-guide/"><u>Exploring the World of Generative AI: An In-Depth Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/get-set-up-instant-access-to-tailored-gpt-solutions-for-your-needs/"><u>Get Set Up: Instant Access to Tailored GPT Solutions for Your Needs</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-3-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Lava Yuva 3 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-advanced-techniques-using-jump-cuts-effectively/"><u>In 2024, Advanced Techniques Using Jump Cuts Effectively</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oneplus-ace-2-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of OnePlus Ace 2 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-effective-methods-to-end-w10-photo-app-freezes/"><u>[New] Unveiling Effective Methods to End W10 Photo App Freezes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-building-a-successful-youtube-channel-sidestep-these-8-frequent-faux-pas/"><u>[Updated] 2024 Approved Building a Successful YouTube Channel Sidestep These 8 Frequent Faux Pas</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/flacwebmmovavi/"><u>免费在线FLAC到WEBM数字转换解决方案——Movavi专业版本</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/brainchild-of-bard-googles-answer-to-the-ai-world-leaders/"><u>Brainchild of Bard: Google's Answer to the AI World Leaders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-one-advanced-techniques/"><u>Capture One Advanced Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-13-mini-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 13 mini Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/do-creators-profit-from-product-evaluations-on-youtube-for-2024/"><u>Do Creators Profit From Product Evaluations on YouTube for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-rise-of-gptbot-and-its-impact-on-site-accessibility/"><u>Exploring the Rise of GPTBot & Its Impact on Site Accessibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hearing-artificsic-intelligence-how-openais-chatgpt-now-answers-verbal-prompts/"><u>Hearing Artificsic Intelligence: How OpenAI's ChatGPT Now Answers Verbal Prompts</u></a></li>
+<li><a href="https://win11.techidaily.com/illuminating-creativity-with-dark-themes-in-paint/"><u>Illuminating Creativity with Dark Themes in Paint</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-forward-to-flawless-windows-11-photography/"><u>In 2024, Fast Forward to Flawless Windows 11 Photography</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-top-30-innovative-point-of-sale-systems-excluding-gpt/"><u>The Top 30 Innovative Point-of-Sale Systems, Excluding GPT</u></a></li>
 </ul></div>
 

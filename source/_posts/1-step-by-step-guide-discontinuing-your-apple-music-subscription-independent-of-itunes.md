@@ -1,7 +1,7 @@
 ---
 title: "1. Step-by-Step Guide: Discontinuing Your Apple Music Subscription Independent of iTunes"
-date: 2024-11-22T16:02:07.378Z
-updated: 2024-11-28T16:12:23.387Z
+date: 2024-12-04T20:15:15.493Z
+updated: 2024-12-07T21:24:55.544Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ iTunes is dead. iTunes has been dead since 2019\. Alas, poor iTunes, we knew you
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -40,7 +40,7 @@ But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Ap
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
@@ -60,7 +60,7 @@ David Gewirtz/Screenshot
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
@@ -121,22 +121,19 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ontent-strategy-boost-top-8-youtube-rank-watcher-revealed/"><u>[New] Content Strategy Boost Top 8 YouTube Rank Watcher Revealed</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-winning-the-subscriber-race-on-youtube/"><u>[New] In 2024, Winning the Subscriber Race on YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparative-edge-how-the-chatgpt-desktop-app-outperforms-the-website-experience/"><u>Comparative Edge: How the ChatGPT Desktop App Outperforms the Website Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/conversational-ai-redefining-smartwatch-functionality-with-gpts-6-tactics/"><u>Conversational AI Redefining Smartwatch Functionality with GPT's 6 Tactics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creating-emotive-poetry-with-chatgpt-a-step-by-step-tutorial/"><u>Creating Emotive Poetry with ChatGPT - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-leaders-which-large-language-model-reigns-supreme-bard-chatgpt-or-offline-alpaca/"><u>Decoding the Leaders: Which Large Language Model Reigns Supreme - Bard, ChatGPT or Offline Alpaca?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-purpose-and-application-of-hugging-face-in-ai/"><u>Decoding the Purpose and Application of Hugging Face in AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/do-luxury-ai-services-offer-value-for-your-money/"><u>Do Luxury AI Services Offer Value for Your Money?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/does-ai-limit-response-length-characterswords/"><u>Does AI Limit Response Length: Characters/Words?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-distributing-your-conversations-with-chatgpt-online/"><u>Effective Strategies for Distributing Your Conversations with ChatGPT Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-premium-audio-at-unbeatable-deals-save-40-on-select-airpods-before-independence-day-exclusive-insight/"><u>Get Premium Audio at Unbeatable Deals! Save $40 on Select AirPods Before Independence Day - Exclusive Insight</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-analysis-mastering-video-production-with-xmedia-suite/"><u>In 2024, Comprehensive Analysis Mastering Video Production with XMedia Suite</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-a79-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo A79 5G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-of-the-line-messaging-app/"><u>In-Depth Analysis of the Line Messaging App</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/screens-on-record-unveiling-the-leading-screencap-software/"><u>Screens on Record Unveiling The Leading Screencap Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-nxt-headset-profile/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest Nxt Headset Profile</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-honor-90-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Honor 90 Pro.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-essential-guide-to-building-youtube-music-playlists/"><u>[New] 2024 Approved The Essential Guide to Building YouTube Music Playlists</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-finding-your-ideal-screen-recorder-obs-or-fraps-in-2024/"><u>[New] Finding Your Ideal Screen Recorder OBS or Fraps, In 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-bring-your-text-to-life-techniques-for-3d-design-in-ps/"><u>[Updated] In 2024, Bring Your Text to Life Techniques for 3D Design in PS</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-14-pro-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 14 Pro Max to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7i-unleashed-an-in-depth-look-at-its-stellar-gen-9-perfomance/"><u>7I Unleashed: An In-Depth Look at Its Stellar Gen 9 Perfomance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adjusting-how-dates-and-times-appear-in-windows-11-simple-tips-for-personalized-settings/"><u>Adjusting How Dates & Times Appear in Windows 11: Simple Tips for Personalized Settings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960475045-effortless-installation-fresh-surface-book-2-drivers-at-your-fingertips/"><u>Effortless Installation: Fresh Surface Book 2 Drivers at Your Fingertips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-your-videos-impact-with-customizable-youtube-thumbnails-for-2024/"><u>Elevate Your Video's Impact with Customizable YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/funimate-on-your-phone-unzipping-the-apk-guide/"><u>Funimate on Your Phone Unzipping the APK Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-reno-10-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo Reno 10 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oneplus-12-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock OnePlus 12 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-youtubes-next-step-with-non-fungible-tokens-nfts-an-expected-strategy/"><u>Unveiling YouTube's Next Step with Non-Fungible Tokens (NFTs) - An Expected Strategy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/virtual-reality-in-action-a-realistic-approach-for-effective-diabetes-management/"><u>Virtual Reality in Action: A Realistic Approach for Effective Diabetes Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-lies-ahead-for-solid-state-drives-innovations-post-nvme-era/"><u>What Lies Ahead for Solid-State Drives: Innovations Post-NVMe Era</u></a></li>
 </ul></div>
 

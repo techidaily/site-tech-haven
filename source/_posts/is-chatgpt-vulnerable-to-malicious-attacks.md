@@ -1,7 +1,7 @@
 ---
 title: Is ChatGPT Vulnerable to Malicious Attacks?
-date: 2024-08-24T12:43:54.769Z
-updated: 2024-08-25T12:43:54.769Z
+date: 2024-11-30T21:55:27.089Z
+updated: 2024-12-07T20:41:52.264Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 ---
 
 ## Avoid Downloading the Malicious Google Bard Program - It's a Risk
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,13 +35,18 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are many[ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/) . You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
 
  The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why You Shouldn't Download the Google Bard App
 
  On November 13, 2023, Google announced on its official blog,[The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/) , that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on[ Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf) .
@@ -45,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit:[Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
 
  The scammers created social media pages under account names such as Google AI, AIGoogle Bard FB, and AIGoogleBard and ran advertisements encouraging users to download an app version of Google Bard.
@@ -60,22 +70,20 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stick With Google Bard on Your Browser
 
  If you're thinking about downloading an app version of Google Bard you saw advertised on Facebook, think twice;**it's malware** .
 
  There is no app version of Google Bard at the time of writing, so users should stick to the free web-based version until Google officially announces an app. Until then, use the web-based version and always check the source's reliability before downloading or installing any software.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -84,4 +92,24 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-top-10-igtv-edit-apps-maximize-your-video-content/"><u>[New] In 2024, Top 10 IGTV Edit Apps Maximize Your Video Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-4k-camera-guide-low-cost-options-(1000/"><u>2024 Approved 4K Camera Guide Low-Cost Options <$1,000</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/backupbuddy-ai-androids-data-guardian/"><u>BackupBuddy AI: Android's Data Guardian</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-google-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Google FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/essential-strategies-for-landing-bar-and-venue-bookings-as-a-dj-a-comprehensive-guide/"><u>Essential Strategies for Landing Bar and Venue Bookings as a DJ: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-compelling-podcast-names-a-detailed-guide-with-idea-examples/"><u>In 2024, Crafting Compelling Podcast Names A Detailed Guide with Idea Examples</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-take-your-chromebook-to-the-next-level-installing-linux-made-easy/"><u>New In 2024, Take Your Chromebook to the Next Level Installing Linux Made Easy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-to-best-slow-motion-phones-and-videos/"><u>Ultimate Guide to Best Slow-Motion Phones & Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-access-the-ultimate-guide-to-using-quora-as-a-gateway-to-ai-chatbots-and-large-language-models/"><u>Unlocking Access: The Ultimate Guide to Using Quora as a Gateway to AI Chatbots & Large Language Models</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-file-explorer-features-comprehensive-tricks-for-windows-ebusers/"><u>Unlocking File Explorer Features: Comprehensive Tricks for Windows Ebusers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-new-productivity-levels-the-synergy-between-onlyoffice-docspace-and-chatgpt/"><u>Unlocking New Productivity Levels: The Synergy Between ONLYOFFICE DocSpace and ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unreliable-flaws-in-zerogpt-and-similar-tech-detectors/"><u>Unreliable: Flaws in ZeroGPT & Similar Tech Detectors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-claude-2-how-it-works-and-its-versatility/"><u>Unveiling Claude 2: How It Works and Its Versatility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-our-impressions-mistral-ais-le-chat-vs-chatgpt-showdown/"><u>Unveiling Our Impressions: Mistral AI's Le Chat vs ChatGPT Showdown</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voice-enabled-responses-unveiling-openais-new-feature-for-chatgpt/"><u>Voice-Enabled Responses: Unveiling OpenAI's New Feature for ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-leads-in-ai-chatter-analyzing-chatgpt-versus-google-bards-capabilities/"><u>Which Leads in AI Chatter? Analyzing ChatGPT Versus Google Bard's Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/will-generative-ai-like-chatgpt-take-over-my-job-understanding-the-impact-on-employment/"><u>Will Generative AI Like ChatGPT Take Over My Job? Understanding the Impact on Employment</u></a></li>
+</ul></div>
 

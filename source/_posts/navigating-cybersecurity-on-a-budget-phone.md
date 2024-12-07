@@ -1,7 +1,7 @@
 ---
 title: Navigating Cybersecurity on a Budget Phone
-date: 2024-08-20T12:11:27.280Z
-updated: 2024-08-21T12:11:27.280Z
+date: 2024-12-04T22:01:03.876Z
+updated: 2024-12-07T19:04:38.057Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,20 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-lore-legends-top-10-roguelike-experiences/"><u>[New] Lore Legends Top 10 Roguelike Experiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-steadicams-tailored-for-uav-filmmaking-scenarios/"><u>[New] Premium Steadicams Tailored for UAV Filmmaking Scenarios</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-quick-tips-for-quality-animation-in-movie-maker/"><u>[New] Quick Tips for Quality Animation in Movie Maker</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-realme-12-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme 12 Pro 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818238108-bring-back-your-asus-notebooks-colorful-side/"><u>Bring Back Your Asus Notebook's Colorful Side!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-emotional-understanding-with-ai-tips-from-chatgpt/"><u>Elevate Emotional Understanding with AI: Tips From ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-your-3d-printing-skills-using-chatgpt-tips-and-tricks-unveiled/"><u>Enhancing Your 3D Printing Skills Using ChatGPT - Tips and Tricks Unveiled</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-mastering-supplementary-video-for-enhanced-storytelling/"><u>In 2024, Mastering Supplementary Video for Enhanced Storytelling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-claudes-magic-box-why-its-revolutionizing-industries/"><u>Inside Claude's Magic Box: Why It's Revolutionizing Industries</u></a></li>
+<li><a href="https://article-posts.techidaily.com/learn-to-link-zoom-effortlessly-with-email-clients-like-gmail-for-2024/"><u>Learn to Link Zoom Effortlessly with Email Clients Like Gmail for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-chatgpt-integration-a-step-by-step-guide/"><u>Mastering the Art of ChatGPT Integration: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiled-wonders-talk-to-chatgpt/"><u>Unveiled Wonders: Talk to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-chatgpt-enterprise-insights-into-its-offerings-and-differences/"><u>Unveiling the Power of ChatGPT Enterprise – Insights Into Its Offerings and Differences</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->

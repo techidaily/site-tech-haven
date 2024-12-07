@@ -1,7 +1,7 @@
 ---
 title: Black Friday Alert! Snatch Up a Steep Discount on Apple's Magic Keyboard for Just $90 Less – Your Guide to Savings Starts Here at ZDNet.
-date: 2024-11-23T16:04:37.238Z
-updated: 2024-11-28T16:14:28.877Z
+date: 2024-11-30T22:21:54.766Z
+updated: 2024-12-07T18:58:57.597Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ And while spending $100 on a four-pack doesn't seem that bad after living throug
 Since AirTags are powered by a CR2032 coin cell battery, you can [replace the battery](https://www.zdnet.com/article/how-to-change-the-battery-in-your-apple-airtag/) whenever it dies, preventing you from buying a new one each time. Remember, since AirTags are thin pocket-sized devices, you can use them for just about anything and repurpose them as often as you'd like. From helping you find a parking spot to tracking your child's favorite toy, there are endless possibilities with your AirTags -- you just have to get [creative](https://www.zdnet.com/article/seven-ways-apple-airtags-can-help-you-beyond-tracking-keys/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,21 +77,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-in-depth-evaluation-of-clipcreator-editor-updated/"><u>[New] 2024 Approved In-Depth Evaluation of ClipCreator Editor - Updated</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-real-time-engagement-strategies-for-online-streamers/"><u>[New] Real-Time Engagement Strategies for Online Streamers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-popular-websites-to-download-aesthetic-wallpapers-for-laptop-for-2024/"><u>10 Popular Websites to Download Aesthetic Wallpapers for Laptop for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/6-strategies-enhancing-googles-bard-with-advanced-palm-2-capabilities/"><u>6 Strategies Enhancing Google's Bard with Advanced PaLM 2 Capabilities</u></a></li>
-<li><a href="https://discover-great.techidaily.com/free-online-solution-for-transforming-mp4-videos-into-mp3-audio-step-by-step-tutorial/"><u>Free Online Solution for Transforming MP4 Videos Into MP3 Audio : Step-by-Step Tutorial</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-charting-your-course-through-youtube-compliance/"><u>In 2024, Charting Your Course Through YouTube Compliance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-film-makers-guide-to-selecting-between-hero-and-cube-videos/"><u>In 2024, Film Maker's Guide to Selecting Between Hero and Cube Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-photo-realism-in-artwork-illustrator-motion-magic/"><u>In 2024, Photo Realism in Artwork Illustrator Motion Magic</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-zlibdll-absence-issues-a-step-by-step-guide/"><u>Resolving zlib.dll Absence Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-giants-unveiled-exploring-facebook-twitter-instagram-and-youtubes-influence/"><u>Social Media Giants Unveiled: Exploring Facebook, Twitter, Instagram, and YouTube's Influence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-ai-potential-step-by-step-access-to-microsofts-newly-released-gpt-4/"><u>Unlocking AI Potential: Step-by-Step Access to Microsoft's Newly Released GPT-4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-new-linguistic-skills-through-gpt-plus/"><u>Unlocking New Linguistic Skills Through GPT Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-how-generative-ai-powers-up-search-capabilities-for-top-tech-giants/"><u>Unveiling How Generative AI Powers Up Search Capabilities for Top Tech Giants</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-is-grok-ai-by-elon-musk-and-why-you-should-pay-attention-to-its-price/"><u>What Is Grok AI by Elon Musk and Why You Should Pay Attention to Its Price</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-leaving-confidentials-to-chatgpt-is-a-no-no/"><u>Why Leaving Confidentials to ChatGPT Is a No-No</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zero-dollars-down-discover-the-five-secrets-to-free-gpt-assistance/"><u>Zero Dollars Down - Discover The Five Secrets to FREE GPT Assistance</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-harnessing-look-up-tables-luts-to-achieve-stunning-visuals/"><u>[New] In 2024, Harnessing Look-Up Tables (LUTs) to Achieve Stunning Visuals</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-balancing-acts-reducing-shakiness-for-better-gopro-vids-for-2024/"><u>[Updated] Balancing Acts Reducing Shakiness for Better GoPro Vids for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-keep-your-digital-treasures-storing-insta-media-on-iphone/"><u>[Updated] Keep Your Digital Treasures Storing Insta Media on iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-webcam-advancements-revolutionizing-video-capture-at-home/"><u>[Updated] WebCam Advancements Revolutionizing Video Capture at Home</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-your-ultimate-2024-camcorder-selection-compiled-here/"><u>[Updated] Your Ultimate 2024 Camcorder Selection Compiled Here</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-top-wireless-range-enhancers-to-maximize-signal-strength/"><u>Comprehensive Review: Top Wireless Range Enhancers to Maximize Signal Strength</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diy-pc-repair-with-chatgpt-effective-strategies-for-solving-common-issues/"><u>DIY PC Repair with ChatGPT: Effective Strategies for Solving Common Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-benefits-of-up-to-the-minute-info-with-chatgpt-for-everyone/"><u>Exploring the Benefits of Up-to-the-Minute Info with ChatGPT for Everyone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-zero-to-hero-with-auto-gpt-a-comprehensive-step-by-step-downloading-and-installation-guide/"><u>From Zero to Hero with Auto-GPT: A Comprehensive Step-by-Step Downloading & Installation Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-itel-s23plus-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Itel S23+.</u></a></li>
+<li><a href="https://howto.techidaily.com/oppo-k11x-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo K11x Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/proven-techniques-for-improving-chatgpt-the-ultimate-guide/"><u>Proven Techniques for Improving ChatGPT: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-hobby-enhancement-with-chatgpts-my-bot-capabilities/"><u>The Future of Hobby Enhancement with ChatGPT's My Bot Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-selection-of-smartphone-ai-programs-for-iphone-and-android-devices-top-8-picks/"><u>The Ultimate Selection of Smartphone AI Programs for iPhone and Android Devices: Top 8 Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-secrets-of-storytelling-mastery-using-chatgpt-techniques/"><u>Unlock the Secrets of Storytelling Mastery Using ChatGPT Techniques</u></a></li>
 </ul></div>
 

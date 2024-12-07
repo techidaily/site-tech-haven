@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Emotional Awareness: Mastering EQ with ChatGPT"
-date: 2024-08-24T12:44:44.413Z
-updated: 2024-08-25T12:44:44.413Z
+date: 2024-12-04T19:26:32.765Z
+updated: 2024-12-07T21:45:43.110Z
 tags:
   - chatgpt
   - open-ai
@@ -44,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Convert the PDF Into a Text Document
 
  ChatGPT will happily read text, after all, the beating heart of any AI chatbot is a large language model (LLM).[LLMs are huge text databases](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) that AI chatbots reference to supply human-like responses. Although PDFs contain text, they aren’t easy to edit. This makes it awkward if you want to work with this format in ChatGPT. But converting it to a more manageable format is easy.
@@ -58,31 +59,28 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 2. If the document does not appear, use the file type dropdown box and select**PDF Files** from the options.  
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
 
 [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader-ext/becfinhbfclcgokjlobojlnldbfillpf/related) is a free-to-install Chrome Extension that allows you to upload any file, including Word documents, Excel spreadsheets, image files, and, of course, PDFs. What makes this an excellent method is just how easy it is to use.
@@ -90,22 +88,20 @@ No advertising on the website.
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new**Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
 
  ChatGPT is a versatile tool that can handle various text-based tasks with ease. However, when it comes to working with PDFs, it can be challenging. Thankfully, there are four easy ways to work around this obstacle.
 
  These methods overcome ChatGPT's limitations with PDFs, allowing it to be even more useful in various text-based tasks. The quickest method is to simply copy the text from a PDF, but just occasionally this can be problematic. Make sure you're clued in with fixes in case you run into issues.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -114,4 +110,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-building-visual-story-arcs/"><u>[New] 2024 Approved Building Visual Story Arcs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-master-your-message-memes-on-kapwing-pro/"><u>[New] In 2024, Master Your Message Memes on Kapwing Pro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-smart-way-to-enhance-your-youtube-presence-legally/"><u>[New] In 2024, The Smart Way to Enhance Your YouTube Presence Legally</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailoring-iphone-audio-a-ringtone-makeover-journey/"><u>[New] Tailoring iPhone Audio A Ringtone Makeover Journey</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-beginning-and-attending-zoom-meetings-for-android-users/"><u>[Updated] 2024 Approved Beginning and Attending Zoom Meetings for Android Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-techniques-for-flawless-live-broadcasting-of-rl-games-for-2024/"><u>[Updated] Techniques for Flawless Live Broadcasting of RL Games for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/wma-mp3/"><u>準確迅速地將 WMA 格式轉換成 MP3：最佳無料解決方案</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/decoding-error-0xc00000e-an-in-depth-user-manual-for-troubleshooting-and-fixes/"><u>Decoding Error 0xC00000E: An In-Depth User Manual for Troubleshooting and Fixes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-overcoming-picture-deformation-on-streamed-videos/"><u>In 2024, Overcoming Picture Deformation on Streamed Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-wellness-setting-achievable-health-objectives-using-chatgpt/"><u>Mastering Wellness: Setting Achievable Health Objectives Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-future-how-timely-info-enhances-chatgpts-usefulness/"><u>Navigating the Future: How Timely Info Enhances ChatGPT's Usefulness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-installation-of-codegpt-into-vs-code/"><u>Navigating the Installation of CodeGPT Into VS Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-gen-ai-solutions-unveiling-the-top-5-hardware-technologies/"><u>Next-Gen AI Solutions: Unveiling the Top 5 Hardware Technologies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-legal-hurdles-with-chatgpt-refreshing-insights-from-googles-latest-news-algorithm-and-staying-connected-worldwide/"><u>Overcoming Legal Hurdles with ChatGPT, Refreshing Insights From Google's Latest News Algorithm, & Staying Connected Worldwide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/preserve-and-share-your-chat-history-with-these-excellent-gpt-applications-and-add-ons/"><u>Preserve & Share Your Chat History with These Excellent GPT Applications and Add-Ons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safe-smart-conversations-engage-in-secure-duckduckgo-chat-and-companion-services/"><u>Safe, Smart Conversations: Engage in Secure DuckDuckGo Chat & Companion Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-content-generation-using-hixgpt-4/"><u>Seamless Content Generation Using HIX/GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/spotting-deception-why-real-chatgpt-doesnt-have-a-windows-client-its-malware/"><u>Spotting Deception: Why Real ChatGPT Doesn't Have a Windows Client (It's Malware!)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-ranked-techniques-for-capturing-online-sport-spectacles-for-2024/"><u>Top-Ranked Techniques for Capturing Online Sport Spectacles for 2024</u></a></li>
+</ul></div>
 

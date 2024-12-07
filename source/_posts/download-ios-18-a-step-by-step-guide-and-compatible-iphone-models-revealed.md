@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: A Step-by-Step Guide and Compatible iPhone Models Revealed"
-date: 2024-11-26T16:13:06.951Z
-updated: 2024-11-28T16:09:31.421Z
+date: 2024-12-02T22:52:37.517Z
+updated: 2024-12-07T19:23:05.698Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ While the official iOS 18 general release is today, users have already been able
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to install iOS 18
@@ -36,12 +36,16 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
@@ -49,7 +53,7 @@ Go to your iPhone's Settings and select General.
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Download and install
@@ -62,6 +66,10 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### When is Apple Intelligence coming out?
@@ -73,10 +81,6 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -96,10 +100,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,15 +161,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-record-to-remember-top-5-best-tools-for-virtual-meeting-capture/"><u>[Updated] In 2024, Record to Remember Top 5 Best Tools for Virtual Meeting Capture</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-time-traveling-through-history-students-top-youtubes-to-watch/"><u>[Updated] In 2024, Time Traveling Through History Students' Top YouTubes To Watch</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-ai-driven-nomenclature-best-10-name-generators-online/"><u>In 2024, AI-Driven Nomenclature Best 10 Name Generators Online</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-friendly-reminder-how-to-chill-at-someones-tiktok-party/"><u>In 2024, Friendly Reminder How To Chill at Someone's TikTok Party</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-your-content-creation-leveraging-canva-plus-gpt-for-automated-design-workflows/"><u>Streamline Your Content Creation: Leveraging Canva Plus GPT for Automated Design Workflows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/teaching-chatgpt-your-voice-the-ultimate-guide-to-customizing-its-writing-abilities/"><u>Teaching ChatGPT Your Voice: The Ultimate Guide to Customizing Its Writing Abilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-mental-health-care-can-ai-provide-better-assistance/"><u>The Future of Mental Health Care: Can AI Provide Better Assistance?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-humorous-side-of-ai-plus-tracing-the-journey-of-laptop-innovation-and-vpn-enhancements/"><u>The Humorous Side of AI - Plus, Tracing the Journey of Laptop Innovation & VPN Enhancements</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/top-7-no-cost-open-source-dvd-ripping-and-copying-tools/"><u>Top 7 No-Cost, Open-Source DVD Ripping & Copying Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-samsung-galaxy-z-fold-7-prospective-launch-details-cost-estimates-and-latest-leaks/"><u>Unveiling the Samsung Galaxy Z Fold 7: Prospective Launch Details, Cost Estimates, and Latest Leaks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-effortlessly-connect-with-these-10-affordable-video-conferencing-services/"><u>[New] Effortlessly Connect with These 10 Affordable Video Conferencing Services</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/affordable-high-res-camera-options/"><u>Affordable High-Res Camera Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/confronting-googles-bard-and-microsofts-chatgpt-an-in-depth-comparison-to-find-the-leading-language-model/"><u>Confronting Google's BARD and Microsoft's ChatGPT: An In-Depth Comparison to Find The Leading Language Model</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-ai-exploring-the-facts-beyond-the-myth-of-true-artificial-intelligence/"><u>Demystifying AI: Exploring the Facts Beyond the Myth of True Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-google-bard-first-impressions-of-an-innovative-ai-chat-companion/"><u>Discovering Google Bard - First Impressions of an Innovative AI Chat Companion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-unmatched-performance-the-newly-revealed-electric-escalade-iq-from-cadillac-boasting-a-remarkable-450-mile-range/"><u>Experience Unmatched Performance: The Newly Revealed Electric Escalade IQ From Cadillac, Boasting a Remarkable 450-Mile Range</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-midjourneys-prowess-in-generating-ai-powered-artworks-a-comparative-analysis-of-models/"><u>Exploring Midjourney's Prowess in Generating AI-Powered Artworks: A Comparative Analysis of Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-uber-facilitates-package-delivery-with-ups-fedex-and-usps-insights-into-the-process/"><u>How Uber Facilitates Package Delivery with UPS, FedEx & USPS: Insights Into the Process</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 11 Pro Max</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-fps-enable-gpu-support-for-call-of-duty-warzone-on-windows-11/"><u>Maximize FPS: Enable GPU Support for Call of Duty: Warzone on Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/quickscreen-recorder-for-professionals/"><u>QuickScreen Recorder for Professionals</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-lava-blaze-2-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Lava Blaze 2 Android SIM Unlock APK</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-customizing-folder-and-subfolder-previews-on-macos/"><u>Ultimate Guide: Customizing Folder and Subfolder Previews on macOS</u></a></li>
 </ul></div>
 

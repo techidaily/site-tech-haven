@@ -1,7 +1,7 @@
 ---
 title: "Stationary Phase:"
-date: 2024-11-26T16:05:29.850Z
-updated: 2024-11-28T16:07:51.751Z
+date: 2024-12-03T20:17:53.993Z
+updated: 2024-12-07T16:33:18.242Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ How and why did I come to those conclusions? Let's dig in.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -65,7 +65,7 @@ How and why did I come to those conclusions? Let's dig in.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Familiar design, with one exception
@@ -85,10 +85,6 @@ As for the colors, you can get the iPhone 14 in Midnight, Starlight, Blue, Purpl
 The side of the iPhone no longer has a SIM card slot. 
 
 Jason Cipriani/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Performance and battery life
 
@@ -114,6 +110,10 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Camera upgrades
 
 The biggest changes Apple made to the iPhone 14 all have to do with the camera. Apple calls the iPhone 14's camera system an "advanced dual-camera system," thanks in part to some hardware upgrades but also because of some [iOS camera software features](https://www.zdnet.com/article/ios-16-has-a-hidden-photoshop-like-feature-where-to-find-it-and-how-to-use-it-and-why-youre-going-to-love-it/) that are new this year. 
@@ -133,7 +133,7 @@ Jason Cipriani/ZDNET
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Safety first
@@ -147,7 +147,7 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -186,22 +186,20 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-x-master-recorder-software-pc-edition-for-2024/"><u>[Updated] X-Master Recorder Software, PC Edition for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/advanced-photo-editing-how-to-clean-up-unwanted-space-for-2024/"><u>Advanced Photo Editing How to Clean Up Unwanted Space for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/changing-the-game-unveiling-top-6-in-nft-arts-and-culture/"><u>Changing the Game Unveiling Top 6 in NFT Arts & Culture</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-anker-powercoreplus-26800-charger-setup/"><u>Comprehensive Analysis of the Anker PowerCore+ 26800 Charger Setup</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/directing-attention-how-to-eradicate-background-from-your-virtual-conferences-for-2024/"><u>Directing Attention How to Eradicate Background From Your Virtual Conferences for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/enabling-fortnite-on-non-compatible-graphics-cards-in-the-windows-environment-workarounds-and-tweaks/"><u>Enabling Fortnite on Non-Compatible Graphics Cards in the Windows Environment – Workarounds and Tweaks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-shoot-hdr-photos-with-iphone/"><u>In 2024, How to Shoot HDR Photos with iPhone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-pioneering-6-networks-supporting-business-development/"><u>In 2024, Pioneering 6 Networks Supporting Business Development</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726228261452-obs-studio-windowsmac/"><u>OBS Studio 簡易入門：透過Windows或Mac系統進行安全下載，並了解其真正價值</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/script-revolution-unlocking-creativity-with-chatgpt-in-gaming/"><u>Script Revolution: Unlocking Creativity with ChatGPT in Gaming</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sculpt-individualized-language-models/"><u>Sculpt Individualized Language Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secrets-unveiled-stealthy-methods-to-keep-your-chatgpt-interactions-safe-and-invisible/"><u>Secrets Unveiled: Stealthy Methods to Keep Your ChatGPT Interactions Safe and Invisible</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tech-titans-speak-out-discovering-ai-chatbot-kingpins/"><u>Tech Titans Speak Out: Discovering AI Chatbot Kingpins</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-complete-tutorial-on-how-to-wipe-clean-your-chatgpt-past-messages/"><u>The Complete Tutorial on How To Wipe Clean Your ChatGPT Past Messages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-dangers-of-generative-techs-abilities/"><u>The Hidden Dangers of Generative Tech's Abilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-insidious-art-of-online-manipulation/"><u>The Insidious Art of Online Manipulation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-new-kid-on-the-block-googles-bard-the-next-big-thing-in-the-chatbot-arena-opposing-chatgpt/"><u>The New Kid on the Block: Google's Bard – The Next Big Thing in the Chatbot Arena Opposing ChatGPT</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-the-art-of-disabling-youtube-shorts/"><u>[New] In 2024, Mastering the Art of Disabling YouTube Shorts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-green-thumbs-united-top-10-farm-titles-for-friendly-playtime/"><u>2024 Approved Green Thumbs United Top 10 Farm Titles for Friendly Playtime</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-y78-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo Y78 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/horizontal-monitor-solution-found/"><u>Horizontal Monitor Solution Found</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/leading-free-and-open-source-options-top-5-alternatives-to-vmware/"><u>Leading Free and Open-Source Options: Top 5 Alternatives to VMware</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-video-production-with-powerdirector-24-for-2024/"><u>Mastering Video Production with PowerDirector '24 for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/refresh-your-content-fresh-approaches-for-modern-search-engines/"><u>Refresh Your Content: Fresh Approaches for Modern Search Engines</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-12-mini-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 12 mini</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-to-transform-vitalsource-vbk-books-into-user-friendly-pdf-documents/"><u>Simple Steps to Transform VitalSource VBK Books Into User-Friendly PDF Documents</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-accessing-and-reading-epub-books-on-your-windows-or-mac-computer/"><u>Step-by-Step Guide: Accessing and Reading EPUB Books on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-drm-free-conversion-of-ebooks-starting-at-chapter-7/"><u>Step-by-Step Guide: DRM-Free Conversion of eBooks - Starting at Chapter 7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-modifying-your-kindle-fires-physical-keyboard/"><u>Step-by-Step Guide: Modifying Your Kindle Fire's Physical Keyboard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-safely-bypassing-drm-on-epub-pdf-and-mobi-ebooks/"><u>Step-by-Step Guide: Safely Bypassing DRM on EPUB, PDF, and MOBI eBooks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-visual-tutorial-converting-your-kobo-reads-for-kindle-enjoyment/"><u>Step-by-Step Visual Tutorial: Converting Your Kobo Reads for Kindle Enjoyment</u></a></li>
 </ul></div>
 
