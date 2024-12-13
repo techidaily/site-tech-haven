@@ -1,7 +1,7 @@
 ---
 title: "Bard's Next-Gen AI: Seven Innovations Unveiled by Google I/O 2023"
-date: 2024-08-20T12:05:10.213Z
-updated: 2024-08-21T12:05:10.213Z
+date: 2024-12-10T20:03:42.869Z
+updated: 2024-12-13T18:07:51.047Z
 tags:
   - chatgpt
   - open-ai
@@ -31,51 +31,46 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 
 ![Different language dictionaries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Different-language-dictionaries.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  PaLM 2 will expand the multilingual capabilities of Bard AI, making it perform well with multilingual tasks, as it is being trained with diverse texts from over 100 languages.
 
  So Bard AI will be able to understand and, in turn, generate text in several languages from different parts of the world, including underrepresented languages on the internet. In addition, the AI chatbot can also understand more nuanced forms of language, like poems, proverbs, and riddles, than in its older versions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Better Logic and Reasoning
 
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) emphasize language, which is why computing mathematical questions and queries can be challenging. They need to use third-party plugins to circumvent this challenge.
 
  However, the PaLM 2 model will better adapt to mathematics, logic, and common sense reasoning. Google developed the model using many science and math texts, including mathematical expressions. Therefore, PaLM 2 will not only solve mathematical problems easily but also reason through the puzzles and offer appropriate diagram illustrations.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Med-PaLM 2
 
 ![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Med-PaLM 2 is a specialized medical LLM model that focuses on medical knowledge. This version is trained and equipped with massive medical texts, including journals, textbooks, clinical notes, and patient records.
 
  According to[Google](https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/) , Med-PaLM 2 can provide answers to medical exam problems at the expert level of a doctor, with an accuracy level of 85%. As of the time of writing, Google is opening up Med-PaLM 2 to a closed group of Google Cloud customers for testing and feedback.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Sec-PaLM 2
 
 ![a padlock on a computer keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/computer-and-web-security-lock.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Besides Med-PaLM 2, there's Sec-PaLM 2, dedicated to security applications. This AI tool is designed to detect security threats.
 
  Sec-PaLM can analyze and explain the behavior of potentially malicious scripts and detect which ones are actually threats to people and organizations. It was trained on many publicly available security datasets, such as malware samples, vulnerability reports, exploit code, phishing emails, etc.
@@ -86,16 +81,10 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 
 ![Adobe apps on a MacBook Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-apps-on-a-macbook-pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  PaLM 2 will bring third-party extensions to Bard, connecting Google with third-party brands like Adobe, Spotify, Khan Academy, and Uber Eats. For example, with Adobe integration, Bard can access Firefly, Adobe's image-generating tool. This will help you export images you generate into Adobe Express.
 
  Furthermore, Bard can connect to its other company products like Search and Maps. Google Maps will use the AI upgrade to provide immersive views of routes, including landmarks. Google Search will also receive an AI upgrade, enabling it to respond directly to search queries in an interactive, conversational manner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 7\. Workspace
 
 ![Google Docs logo on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Google-Docs-Logo.jpg)
@@ -104,20 +93,21 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 
  The process will become even more seamless as Google promises upgrades for exporting data. You can write codes with Bard and export them into Replit or Google Colab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PaLM 2 WIll Revolutionize Google Bard
 
  PaLM 2 LLM has provided Google with an appropriate response to Microsoft's Bing search engine and OpenAI's ever-popular ChatGPT. The new upgrades to Bard will not only give you better satisfaction but provide you with increased safety across Google products.
 
  So keep your eyes open to see how these new upgrades to Bing AI will perform in the near future.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +116,26 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-off-mode-how-to-deactivate-igtv-for-2024/"><u>[Updated] Off Mode How to Deactivate IGTV for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028690259-windows-10118/"><u>動画の音声を抜き取るためにおすすめ Windows 10/11向けソフトウェア8選・サイトリスト</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-hd/"><u>最強動画カットソフトがこれだ！日本人に選ばれた上位6つ - HDビデオ編集完璧!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029970832-iphoneandroid7/"><u>最新ビデオ音をクリアにする: IPhone/Android用上位7つの静音アプリ</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/becoming-the-ultimate-streamer-on-youtube-and-twitch-using-obs-for-2024/"><u>Becoming the Ultimate Streamer on YouTube and Twitch Using OBS for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-practices-for-securely-downloading-erome-videos-with-top-3-software-options/"><u>Best Practices for Securely Downloading Erome Videos with Top 3 Software Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-audio-quality-easily-with-the-latest-nahimic-driver-update/"><u>Boost Your Audio Quality Easily with the Latest Nahimic Driver Update</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/buy-swf-video-converter-factory-pro-securely-at-no-hidden-costs-safe-and-guaranteed-purchase-experience/"><u>Buy Swf Video Converter Factory Pro Securely at No Hidden Costs: Safe and Guaranteed Purchase Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-instructions-for-integrating-the/"><u>Comprehensive Instructions for Integrating The</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/critical-examination-unpacking-the-top-5-flaws-of-blackberry-playbook/"><u>Critical Examination: Unpacking the Top 5 Flaws of BlackBerry PlayBook</u></a></li>
+<li><a href="https://media-tips.techidaily.com/direct-from-your-iphone-11-to-windows-and-macos-mastering-4k-airplay-with-ios-13/"><u>Direct From Your iPhone 11 to Windows & macOS: Mastering 4K AirPlay with iOS 13</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-techniques-for-reducing-the-size-of-your-audio-recordings-using-windows-11-tools/"><u>Effective Techniques for Reducing the Size of Your Audio Recordings Using Windows 11 Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhance-engagement-sharing-videos-on-instagram/"><u>Enhance Engagement Sharing Videos on Instagram</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fifa-20-and-pc-compatibility-solutions-your-all-in-one-resource-for-eradicating-game-interruptions/"><u>FIFA 20 and PC Compatibility Solutions: Your All-in-One Resource for Eradicating Game Interruptions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-huawei-nova-y71-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Huawei Nova Y71</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-xiaomi-redmi-a2-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Xiaomi Redmi A2 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/kopien-von-geschutzter-dvds-machen-entdecken-sie-7-effektive-techniken/"><u>Kopien Von Geschützter DVDs Machen: Entdecken Sie 7 Effektive Techniken</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030632394-premiere-pro/"><u>Premiere Proで効果的なファイルロード問題のトラブルシューティング</u></a></li>
+</ul></div>
 

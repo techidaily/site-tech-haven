@@ -1,7 +1,7 @@
 ---
 title: "Enhance Communication: Using Your Apple Watch to Reach Loved Ones Effortlessly | ZDNET"
-date: 2024-12-05T22:46:41.238Z
-updated: 2024-12-07T18:03:10.107Z
+date: 2024-12-10T17:16:20.186Z
+updated: 2024-12-13T22:56:10.626Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ Below, we break down the coolest new features coming to your Apple Watch in Watc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Track your strain and recovery with Vitals and Training Load
 
 One of the biggest additions to the Apple Watch in WatchOS 11 is the new Vitals app, which helps you explore and contextualize your health by tracking your heart rate, respiratory rate, wrist temperature, and blood oxygen while you're asleep. These metrics are processed through an algorithm and displayed on a chart the next morning to tell you whether you're in your normal range. 
@@ -43,7 +47,7 @@ Serious athletes will likely be drawn to these features since this is the first 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
@@ -67,7 +71,7 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The Photos face, powered by machine learning
@@ -84,13 +88,13 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
 
@@ -98,13 +102,13 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
 
@@ -113,10 +117,6 @@ Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhi
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -152,20 +152,21 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-selection-for-captivating-youtube-content-starts/"><u>[New] The Ultimate Selection for Captivating YouTube Content Starts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-techniques-for-creating-a-poetry-anthology/"><u>ChatGPT Techniques for Creating a Poetry Anthology</u></a></li>
-<li><a href="https://extra-information.techidaily.com/chuckling-chronicles-your-essential-meme-tools-list-for-2024/"><u>Chuckling Chronicles Your Essential Meme Tools List for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-microsofts-language-models-a-comparison-of-gpt-4-gpt-4-turbo-and-gpt-4o/"><u>Demystifying Microsoft's Language Models: A Comparison of GPT-4, GPT-4 Turbo and GPT-4o</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-the-benefits-of-auto-gpt-is-it-effective-without-access-to-gpt-4/"><u>Evaluating the Benefits of Auto-GPT: Is It Effective Without Access to GPT-4?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-se-2022-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone SE (2022) Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/logitec-mouse-hw-quick-fix-for-windows-7-users/"><u>Logitec Mouse HW Quick Fix for Windows 7 Users!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-redmi-note-12-proplus-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi Redmi Note 12 Pro+ 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pushing-frontiers-elons-ai-project-scoop/"><u>Pushing Frontiers: Elon's AI Project Scoop</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quit-side-by-side-tech-showdown-ai-differences-explored/"><u>Quit Side-by-Side Tech Showdown: AI Differences Explored</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-openai-transition-from-basic-to-advanced-ai-gpt-14/"><u>The OpenAI Transition: From Basic to Advanced AI (GPT-1–4)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-a25-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-powerful-visual-studio-code-plugins-based-on-gpt-technology/"><u>Top 6 Powerful Visual Studio Code Plugins Based on GPT Technology</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062744227-tp-link-compatible-usb-adapter-get-it-fast-and-free/"><u>TP Link Compatible USB Adapter - Get It Fast & Free!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-professional-screen-recorders-for-the-web/"><u>[New] 2024 Approved Professional Screen Recorders for the Web</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-achieve-video-perfection-youtube-studio-edition-tips-and-tricks/"><u>[New] Achieve Video Perfection YouTube Studio Edition Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-get-your-fb-message-videos-flowing-again-on-mobile-devices-for-2024/"><u>[New] How to Get Your FB Message Videos Flowing Again on Mobile Devices for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-14-effective-methods-zero-budget-webinar-recording-tips/"><u>[Updated] 2024 Approved 14 Effective Methods Zero Budget Webinar Recording Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-speed-in-seizing-picture-plus-pitch/"><u>2024 Approved Speed in Seizing Picture + Pitch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-list-of-apple-watch-models-compatible-with-watchos-11-whats-new-and-unsupported/"><u>Comprehensive List of Apple Watch Models Compatible with WatchOS 11: What's New and Unsupported?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-exclusive-savings-on-laptops-for-july-2vee-featured-selection/"><u>Discover Exclusive Savings on Laptops for July 2Vee - Featured Selection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-cutting-edge-features-of-the-latest-ipad-calculator-app-a-game-changer-worth-investing-in-an-apple-pencil-for/"><u>Discover the Cutting-Edge Features of the Latest iPad Calculator App: A Game Changer Worth Investing in an Apple Pencil For!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expertly-evaluated-and-ranked-best-smartwatches-of-2024-insiders-guide-on-zdnet/"><u>Expertly Evaluated & Ranked Best Smartwatches of 2024 - Insider's Guide on ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improved-iphone-16-durability-apple-reveals-enhanced-repairability-over-past-models-zdnet/"><u>Improved iPhone 16 Durability: Apple Reveals Enhanced Repairability Over Past Models | ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/tailored-imagery-putting-together-a-social-media-gallery/"><u>Tailored Imagery: Putting Together a Social Media Gallery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-apple-vision-pro-revealed-pricing-breakdown-feature-overview-and-hands-on-impressions-in-depth-tech-review/"><u>The Apple Vision Pro Revealed: Pricing Breakdown, Feature Overview, and Hands-On Impressions | In Depth Tech Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-new-macos-15-capabilities-how-to-benefit-from-the-latest-upgrade-on-your-apple-macbook-insights/"><u>Unveiling New MacOS 15 Capabilities: How to Benefit From the Latest Upgrade on Your Apple MacBook - Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-quick-access-for-the-snipping-tool-on-win-11/"><u>Utilizing Quick Access for the Snipping Tool on Win 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/web-traffic-boosted-by-the-power-of-cookiebot/"><u>Web Traffic Boosted by the Power of Cookiebot</u></a></li>
 </ul></div>
 

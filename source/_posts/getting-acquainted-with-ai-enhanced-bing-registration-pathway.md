@@ -1,7 +1,7 @@
 ---
 title: "Getting Acquainted with AI-Enhanced Bing: Registration Pathway"
-date: 2024-08-20T12:06:26.969Z
-updated: 2024-08-21T12:06:26.969Z
+date: 2024-12-07T22:48:41.971Z
+updated: 2024-12-13T21:01:32.738Z
 tags:
   - chatgpt
   - open-ai
@@ -19,9 +19,17 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
 
  GPT-4 didn't come with some of the much-touted features it was rumored to have. However, the latest model significantly improves on GPT-3.5 and its predecessors. But how is GPT-4 different from GPT-3.5? We'll take you through some key differences between GPT-4 and GPT-3.5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. GPT-4 vs. GPT-3.5: Creativity
 
 ![gpt-4 language model with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-4-language-model-with-openai-logo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One of the most pronounced advantages of the GPT-4 model over GPT-3.5 is its ability to provide more creative replies to prompts. Don't get me wrong; GPT-3.5 is very creative. There's a long list of[creative things you can do with ChatGPT that uses the model](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) . However, it already outperforms many large language models in terms of creativity.
 
@@ -39,43 +47,39 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  During the GPT-4 announcement live stream, an OpenAI engineer fed the model with a screenshot of a Discord server. GPT-4 could describe every detail on it, including the names of users online at the time. An image of a hand-drawn mockup of a joke website was also fed to the model with instructions to turn it into a website, and amazingly, GPT-4 provided a working code for a website that matched the image.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
 
 ​​​​​​
 
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
 
@@ -85,21 +89,15 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## GPT-4: A Step Up from GPT-3.5
 
  Undoubtedly, GPT-4 is a significant step up from its predecessor models. While it is still plagued with some of the limitations of GPT-3.5, significant improvements in several areas and the addition of new capabilities make the model an exciting new step in the pursuit of truly intelligent AI language models.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +106,24 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-video-excellence-and-staff-picks-at-vimeo/"><u>[New] In 2024, The Ultimate Guide to Video Excellence & Staff Picks at Vimeo</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-guide-to-professional-youtube-live-broadcast-with-wirecast/"><u>[New] Step-by-Step Guide to Professional YouTube Live Broadcast with WireCast</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-behind-the-mascara-youtubes-top-makeup-artists-unveiled/"><u>[Updated] 2024 Approved Behind the Mascara YouTube's Top Makeup Artists Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-create-and-edit-videos-on-windows-11/"><u>[Updated] How to Create and Edit Videos on Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-turning-onoff-comments-with-ease-on-youtube-platform/"><u>[Updated] In 2024, Turning On/Off Comments with Ease on YouTube Platform</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-curating-customized-instagram-highlight-banners/"><u>2024 Approved Curating Customized Instagram Highlight Banners</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-internet-speed-with-the-lightweight-ourlink-u6i-usb-wireless-card/"><u>Boost Your Internet Speed with the Lightweight Ourlink U6ˈi USB Wireless Card</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/four-regulatory-tactics-used-by-authorities-to-oversee-artific-10-ways-governments-can-safeguard-society-through-ai-regulation/"><u>Four Regulatory Tactics Used by Authorities to Oversee Artific 10 Ways Governments Can Safeguard Society Through AI Regulation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-the-synergy-of-canva-and-ai-for-content-production/"><u>Harness the Synergy of Canva and AI for Content Production</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-14-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi 14 Lock Screen Password?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-integration-utilizing-gpt-4-with-chatgpt-today/"><u>Immediate Integration: Utilizing GPT-4 with ChatGPT Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-ai-tools-shaping-the-future-of-enterprise-management/"><u>Innovative AI Tools Shaping the Future of Enterprise Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-languages-with-ai-discover-how-chatgpt-plus-enhances-your-learning-journey/"><u>Mastering Languages with AI: Discover How ChatGPT Plus Enhances Your Learning Journey</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-essence-and-mechanics-of-predictive-ai-explored/"><u>The Essence and Mechanics of Predictive AI Explored</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317579-9781401931957-the-secret-of-instant-healing/"><u>The Secret of Instant Healing | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-why-arent-my-airpods-automatically-roaming-among-my-ipad-apple-watch-and-more/"><u>Troubleshooting: Why Aren't My AirPods Automatically Roaming Among My iPad, Apple Watch, & More?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-7-superior-mobile-bots-beyond-openais-chatgpt/"><u>Unveiling 7 Superior Mobile Bots: Beyond OpenAI's ChatGPT</u></a></li>
+</ul></div>
 

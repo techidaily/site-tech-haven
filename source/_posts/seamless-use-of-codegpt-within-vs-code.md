@@ -1,7 +1,7 @@
 ---
 title: Seamless Use of CodeGPT Within VS Code
-date: 2024-08-20T12:03:09.195Z
-updated: 2024-08-21T12:03:09.195Z
+date: 2024-12-07T19:18:41.747Z
+updated: 2024-12-13T16:03:03.421Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
  However, although the hype is high, practical uses are rare—so we've identified some of the best custom GPTs you can try now.
 
  Links have not been provided for each custom GPT because the documents uploaded as a knowledge base contain private information. However, you can still take the title and outline and make each idea your own, with your own private information. Just be careful if you share any custom GPTs, as you may accidentally grant access to sensitive information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Resume and Cover Letter Creator
 
@@ -44,38 +48,29 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 **Try this GPT:** [Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Programming Project Assistant
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It is no news that[ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) . It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Personal Movie Recommender
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Let's be honest, Netflix can be horrible at suggesting what to watch next. I asked classic ChatGPT to recommend some historical Korean TV shows. I wanted shows with themes of power, royalty, heroism, and war. The result was a mixed bag. Some options were strong, while others seemed randomly selected based on popularity rather than relevance.
 
  Of course, I built a custom K-Drama GPT by uploading several lists and reviews of the best Korean TV shows online. I also uploaded a small text file of what I love to see in Korean TV shows. When queried, this tailored GPT provided targeted drama suggestions that precisely matched my request—complex power dynamics, royal intrigue, bold heroes, and military conflicts. The difference was night and day. If historical K-dramas are your favorite genre, you can try out my K-Drama GPT.
@@ -86,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but[interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/) . You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
 
  We tried several RPG games with GPTs, which were impressive and immersive. Coming up with the rules can be a bit tedious, but you'll find several sites dedicated to creating prompts for RPG games on ChatGPT. A good example is[RPG Prompts](http://www.rpgprompts.com/) ; you'll find dozens of interesting RPG prompts you can use to kickstart your RPG experience on ChatGPT.
@@ -115,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.
 
  For example, as a graphic designer side gig, I built a custom GPT to create geometric Google-inspired logos using my client's brand colors: blue, red, yellow, and green. I trained it by uploading several examples of logos we designed in this style. Now, when prompted to create a logo for anything, the GPT generates professional logo options that meet the brand requirements. While a simple illustration, it demonstrates how tailored GPTs can replicate elements of human work.
@@ -123,23 +119,17 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Custom GPTs: Endless Possibilities for Work and Fun
 
  While ChatGPT provides a strong foundation, custom GPTs can take performance to new levels in specific domains. By training GPTs on niche datasets, we can create purpose-built AI assistants that excel at specific needs. The applications are vast, and we've barely scratched the surface of what could be possible.
 
  While Custom GPTs are still in their infancy, early examples provide a glimpse of their potential. As the technology matures, it will become an indispensable tool. With good data and clear objectives, our programmable companions can solve problems we never dreamed AI could handle. So don't just use ChatGPT as-is—start building your own custom GPTs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +138,18 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-guide-to-fisheye-camera-capabilities-for-2024/"><u>[New] The Ultimate Guide to Fisheye Camera Capabilities for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-facebook-videos-on-browsers-today/"><u>2024 Approved Seamless Facebook Videos on Browsers Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5yuv55s75yaf5a6544ks5rs755so44gx44gf6auy5zob6loq44gu6z2z5q2i55s757sg5p2q5l2c5oiq5oml5rov/"><u>動画内容を活用した高品質の静止画素材作成手法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/affordable-techniques-for-changing-opus-audio-files-to-ogg-format/"><u>Affordable Techniques for Changing Opus Audio Files to Ogg Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-and-easy-to-use-mp4-video-converter-tools-for-pcs-and-macs-ranked/"><u>Best and Easy-to-Use MP4 Video Converter Tools for PCs and Macs - Ranked!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-tecno-camon-20-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Tecno Camon 20 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-find-n3-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo Find N3 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-refine-image-quality-on-canon-devices-using-free-plus-payable-lut-tools/"><u>In 2024, Refine Image Quality on Canon Devices Using Free + Payable LUT Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/timeless-play-changing-regions-on-xbox-system/"><u>Timeless Play: Changing Regions on Xbox System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44gv44gplus44gw44gplus44gq5b2i5byp44g46zplusz5qw9lplusocquodvoodhplusocoplusocquodleocoeocpoodqpluswkieapmyatios4goimpplusihqa/"><u>さまざまな形式へ音楽/オーディオファイル変換 - 一覧表</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44oq44oz44oa44kk44ob44oj44oz44on44or44gu44ot44oh44kq44kv44oq44od44ox44gm6kal44gf44gepydjgrnjg6djg7zjgrrjgarpjllnllvvvibjgrvjg7zjg5bmiyvpoibjgpllrabjgbbvvie.72/"><u>バンダイチャンネルのビデオクリップが見たい? スムーズな録画＆セーブ手順を学ぶ！</u></a></li>
+</ul></div>
 

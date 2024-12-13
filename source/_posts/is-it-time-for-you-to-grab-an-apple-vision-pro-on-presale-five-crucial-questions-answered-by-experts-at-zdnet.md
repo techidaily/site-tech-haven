@@ -1,7 +1,7 @@
 ---
 title: Is It Time for You to Grab an Apple Vision Pro on Presale? Five Crucial Questions Answered by Experts at ZDNet
-date: 2024-12-02T20:44:44.363Z
-updated: 2024-12-07T20:53:51.483Z
+date: 2024-12-08T20:24:35.440Z
+updated: 2024-12-13T22:16:23.853Z
 tags:
   - apple
 categories:
@@ -34,6 +34,10 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. The camera
 
 Perhaps one of the most important features of any smartphone these days is the camera, so it is no surprise that camera quality is a big consideration for ZDNET editors. It probably is for you, too. The iPhone 16 lineup includes a new [Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/) feature that works in landscape or portrait mode with a button on the side of the iPhone. In addition, you can lightly press the button to show camera functions you can choose from, such as zoom, exposure, or focal lengths, by swiping between the options. 
@@ -45,10 +49,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 **Also:** [**I want to be excited about the iPhone 16's new camera button, but can't (for now)**](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/)
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
 
@@ -63,7 +63,7 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -92,6 +92,10 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. The Apple Intelligence features aren't perfect
 
 Apple's biggest flexes over the last few months have been their Apple Intelligence and AI features, [which the iPhone 16 is the guinea pig for](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). While some of these new AI features are undeniably cool, like the new Camera Control, enhanced Siri features, and more, the features are still limited to the iPhone 15 Pro and above and rolling out only in beta over the next few weeks. 
@@ -102,10 +106,6 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -115,7 +115,7 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -125,7 +125,7 @@ Sometimes it's the most obvious factors that influence our choices. The expense 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
@@ -168,24 +168,24 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-exclusive-preview-general-knowledge-quiz-networks-of-2024/"><u>[Updated] Exclusive Preview General Knowledge Quiz Networks of 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-screens-and-keyboards-unmasking-virtual-voyeurs-in-light-of-the-dead-internet-hypothesis/"><u>Beyond Screens and Keyboards: Unmasking Virtual Voyeurs in Light of the Dead Internet Hypothesis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-to-tackle-microsoft-edge-malfunction-on-your-windows-tenth-gen-pc/"><u>Comprehensive Solutions to Tackle Microsoft Edge Malfunction on Your Windows Tenth-Gen PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-truthgpt-law-enforcements-raid-on-mullvad-vpn-prime-listings-for-no-cost-computer-games-and-demystifying-mechanical-keyboards/"><u>Discovering TruthGPT: Law Enforcement's Raid on Mullvad VPN, Prime Listings for No-Cost Computer Games, and Demystifying Mechanical Keyboards</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-8-plus-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 8 Plus to Roku? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-airborne-tenacity-top-10-longest-flying-drones/"><u>In 2024, Airborne Tenacity Top 10 Longest-Flying Drones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intuitive-bavarder-installation-on-linux-distros/"><u>Intuitive Bavarder Installation on Linux Distros</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-change-how-automated-content-creation-could-transform-the-video-game-industry/"><u>Navigating Change: How Automated Content Creation Could Transform the Video Game Industry</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/openai-redefines-future-with-the-launch-of-innovative-gpt-4-algorithm/"><u>OpenAI Redefines Future with the Launch of Innovative GPT-4 Algorithm</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/l-your-vlogs-forward-top-seo-tech-unveiled/"><u>Propel Your Vlogs Forward – Top SEO Tech Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/psvr-2-insider-info-fresh-news-on-price-points-release-schedule-and-detailed-hardware-specs/"><u>PSVR 2 Insider Info: Fresh News on Price Points, Release Schedule & Detailed Hardware Specs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quintessential-6-giants-mammoth-data-model-excellence/"><u>Quintessential 6 Giants: Mammoth Data Model Excellence</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102667819-resolving-the-missing-coprocessor-driver-issue-in-windows-11-a-step-by-step-guide/"><u>Resolving the Missing Coprocessor Driver Issue in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/safety-assessment-for-gpt-browser-integrations/"><u>Safety Assessment for GPT Browser Integrations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sarah-silverman-joins-legal-battle-against-openai-and-meta-the-fight-over-artificial-intelligence/"><u>Sarah Silverman Joins Legal Battle Against OpenAI & Meta: The Fight Over Artificial Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secure-your-digital-assets-blocking-ai-powered-bots-from-scoping-your-sites-content/"><u>Secure Your Digital Assets: Blocking AI-Powered Bots From Scoping Your Site's Content</u></a></li>
-<li><a href="https://video-capture.techidaily.com/streamlining-creative-processes-with-obs-studio-tools/"><u>Streamlining Creative Processes with OBS Studio Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-personalizing-gpt-with-10-tweaks/"><u>The Ultimate Guide to Personalizing GPT with 10 Tweaks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-8-ai-chromium-addons-to-supercharge-your-daily-tasks-and-enhance-efficiency/"><u>Top 8 AI Chromium Addons to Supercharge Your Daily Tasks and Enhance Efficiency</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-smooth-sailing-navigating-the-world-of-igtv-videos/"><u>[New] In 2024, Smooth Sailing Navigating the World of IGTV Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-streamline-your-screenshots-using-ezvides-capabilities/"><u>[New] In 2024, Streamline Your Screenshots Using EZvide's Capabilities</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-profit-potential-earning-from-your-youtube-mobile-subscribers/"><u>[New] Profit Potential Earning From Your YouTube Mobile Subscribers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-techniques-for-more-extended-instagram-video-posts-for-2024/"><u>[New] Unveiling Techniques for More Extended Instagram Video Posts for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-80plus-creative-cooking-channel-names-to-attract-more-audience/"><u>[Updated] 2024 Approved 80+ Creative Cooking Channel Names to Attract More Audience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-ultimate-guide-to-enhancing-reels-with-harmonious-tunes/"><u>[Updated] 2024 Approved The Ultimate Guide to Enhancing Reels with Harmonious Tunes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-elevate-your-tiktok-unboxer-experience-for-maximum-likes/"><u>[Updated] In 2024, Elevate Your TikTok Unboxer Experience for Maximum Likes</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/diagnosing-no-audio-problems-how-to-fix-a-malfunctioning-sound-card-with-tips-from-yl-software/"><u>Diagnosing No Audio Problems: How to Fix a Malfunctioning Sound Card, with Tips From YL Software</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effiziente-methode-zum-ubertragen-von-dokumenten-zwischen-laufwerken-in-windows-nicht-11/"><u>Effiziente Methode Zum Übertragen Von Dokumenten Zwischen Laufwerken in Windows Nicht 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/launching-into-personalization-how-to-navigate-and-utilize-openais-new-gpt-store/"><u>Launching Into Personalization: How to Navigate and Utilize OpenAI's New GPT Store</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-4-techniques-for-reading-pdfs/"><u>Mastering ChatGPT: 4 Techniques for Reading PDFs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-gpt-3-conversations-5-critical-chat-prompt-faux-pas-to-sidestep/"><u>Mastering GPT-3 Conversations: 5 Critical Chat Prompt Faux Pas to Sidestep</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-idea-generation-utilizing-mindmaps-and-chatgpt/"><u>Mastering Idea Generation: Utilizing Mindmaps & ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-chatgpt-api-for-advanced-automated-communication-solutions/"><u>Navigating the ChatGPT API for Advanced Automated Communication Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/perfect-integration-add-ons-unleash-chatgpt-power-with-vs-code/"><u>Perfect Integration Add-Ons: Unleash ChatGPT Power with VS Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safer-chatgpt-experiences-for-children-embracing-five-security-measures/"><u>Safer ChatGPT Experiences for Children: Embracing Five Security Measures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/social-media-posts-refined-by-chatgpt-methods/"><u>Social Media Posts Refined by ChatGPT Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/spotlight-on-sham-dialogues-using-mentions-wisely/"><u>Spotlight on Sham Dialogues: Using Mentions Wisely</u></a></li>
 </ul></div>
 

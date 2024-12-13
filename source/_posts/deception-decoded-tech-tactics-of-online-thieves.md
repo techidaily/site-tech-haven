@@ -1,7 +1,7 @@
 ---
 title: "Deception Decoded: Tech Tactics of Online Thieves"
-date: 2024-08-20T12:04:33.377Z
-updated: 2024-08-21T12:04:33.377Z
+date: 2024-12-09T19:34:59.128Z
+updated: 2024-12-13T17:08:09.301Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,10 @@ Close
 
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Conversations Retain the Last 3,000 Words
 
  Contextual memory helps AI provide more accurate responses. Instead of taking prompts at face value, chatbots will reference relevant information in active conversations. Let’s say you’re looking for side hustles. AI-driven chatbots will also consider your skills and career background, assuming you provide them.
@@ -50,8 +54,9 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. My AI Can Pull Real-Time Information
 
  My AI has some access to real-time data. Although it has trouble answering specific questions about current events, it can quickly pull general information online, such as weather forecasts, news headlines, and local events.
@@ -62,9 +67,6 @@ Close
 
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
@@ -78,15 +80,13 @@ Close
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  Just note that Snapchat also displays your active location if you enable GPS services. But you can turn off this feature to ensure more privacy, Click your avatar on the top-left corner of the screen, then go to >**Settings** \>**Privacy Controls** \>**My Location** . Toggle the Ghost Mode button to hide your location.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 5\. My AI Solves Intermediate Word Problems Correctly
 
  A[side-by-side comparison of ChatGPT, Bard AI, and Bing Chat](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) shows that AI chatbots struggle with math questions. ChatGPT answers intermediate to advanced math problems better than competitors.
@@ -96,8 +96,9 @@ Close
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
 
 Close
@@ -105,8 +106,9 @@ Close
  Try rephrasing word problems that My AI answers wrong. You’ll generate better output if you compose clear, detailed prompts—avoid vague phrasing.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Snapchat Continuously Updates My AI
 
  Snapchat unexpectedly joined the AI race. Initial users responded poorly to My AI—it faced backlash for its faulty training and restrictions.[The Washington Post](https://www.washingtonpost.com/technology/2023/03/14/snapchat-myai/) even showed the chatbot providing harmful advice.
@@ -115,20 +117,21 @@ Close
 
  Snapchat also adds new features consistently. Take My AI’s image prompting feature as an example. The chatbot is getting way better at recognizing images, even ones you take yourself. Meanwhile, other chatbots have yet to adopt image prompting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try Snapchat’s New AI Assistant
 
  My AI was initially limited to Snapchat+ subscriptions. But Snapchat has made the chatbot available for free users.
 
  Run different prompts once you get access. My AI performs several helpful tasks, like solving math problems, composing essays, and translating foreign languages to English.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +140,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-simple-paths-to-start-recording-on-hp-computers/"><u>[New] Simple Paths to Start Recording on HP Computers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/system-issue-unable-to-locate-hp-print-drivers-on-win11/"><u>[System Issue] - Unable to Locate HP Print Drivers on Win11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-essential-5-accessories-for-beneath-waves-shooting/"><u>[Updated] 2024 Approved Essential 5 Accessories for Beneath Waves Shooting</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-captivate-viewers-earn-accolades-tips-for-staff-picks-on-vimeo/"><u>2024 Approved Captivate Viewers, Earn Accolades Tips for Staff Picks on Vimeo</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/m4-a-web-4/"><u>最高の無料 M4-A 統合ソフトウェアとWebサイト 上位4選択: 専門家がお薦め!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/annual-energy-usage-one-advanced-ai-driven-gpu-devours-up-to-37m-wh-surpassing-the-electricity-needs-of-over-13-million-households/"><u>Annual Energy Usage: One Advanced AI-Driven GPU Devours Up To 3.7M Wh – Surpassing the Electricity Needs of Over 1.3 Million Households</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fix-the-windows-media-player-plays-sound-no-video-problem-with-these-easy-fixes/"><u>Fix the 'Windows Media Player Plays Sound, No Video' Problem with These Easy Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-edge-40-neo-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-safely-copy-content-from-hd-dvds-and-blu-ray-discs/"><u>How to Safely Copy Content From HD DVDs and Blu-Ray Discs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/itunesdvd/"><u>ITunesで簡単な手順でDVD動画のインポートガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/jpegmovwindows-11/"><u>JPEG形式へMOV動画を変換するためのWindows 11ガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mmfmp3/"><u>MMFファイルからMP3への完全な変換ガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/most-effective-hd-dvd-ripper-tools-for-windows-11-expert-picks-2024/"><u>Most Effective HD DVD Ripper Tools for Windows 11 - Expert Picks 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/prepping-hard-drives-for-second-life-effective-clean-up-techniques-explored/"><u>Prepping Hard Drives for Second Life: Effective Clean-Up Techniques Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-of-top-rated-hds-in-2vew-6vew-or-8vew-for-desktop-and-nas-enthusiasts/"><u>The Ultimate List of Top-Rated HDs in 2Vew, 6Vew or 8Vew for Desktop & NAS Enthusiasts</u></a></li>
+</ul></div>
 

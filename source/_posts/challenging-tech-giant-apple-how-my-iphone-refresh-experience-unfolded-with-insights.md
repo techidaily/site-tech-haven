@@ -1,7 +1,7 @@
 ---
 title: "Challenging Tech Giant Apple: How My iPhone Refresh Experience Unfolded with Insights"
-date: 2024-12-02T19:45:39.001Z
-updated: 2024-12-07T17:29:47.792Z
+date: 2024-12-07T22:26:47.028Z
+updated: 2024-12-13T17:46:52.126Z
 tags:
   - apple
 categories:
@@ -26,13 +26,13 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -51,7 +51,7 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -70,19 +70,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -100,6 +92,10 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -108,6 +104,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
@@ -115,7 +115,7 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -154,18 +154,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-rgbs-legacy-and-how-srgb-is-paving-the-way-forward/"><u>[New] RGB's Legacy and How Srgb Is Paving the Way Forward</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-5-inspirational-winter-bgs-to-heat-your-videos/"><u>[Updated] In 2024, 5 Inspirational Winter Bgs to Heat Your Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-length-and-style-in-your-instagram-videos/"><u>[Updated] Leveraging Length and Style in Your Instagram Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tech-hack-for-free-swiftly-remove-red-eyes-from-iphone-photos/"><u>[Updated] Tech Hack for Free Swiftly Remove Red Eyes From iPhone Photos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-photographys-best-haven-seamlessly-merge-free-and-charged-digital-space/"><u>2024 Approved Photography's Best Haven Seamlessly Merge Free and Charged Digital Space</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-premier-digital-hubs-seamless-ringtones-acquisition/"><u>2024 Approved Premier Digital Hubs Seamless Ringtones Acquisition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-installation-modernize-your-system-with-the-latest-acer-bluetooth-driver-software/"><u>Effortless Installation: Modernize Your System with the Latest Acer Bluetooth Driver Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-v29-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo V29 Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-leading-edge-top-5-advances-in-artifice-intelligence-hardware/"><u>Exploring the Leading Edge: Top 5 Advances in Artifice Intelligence Hardware</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-ai-with-hugging-face-understanding-its-purpose-and-applications/"><u>Exploring the World of AI with Hugging Face: Understanding Its Purpose & Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-pluses-against-perplexity-ais-elite-challenge/"><u>GPT Pluses Against Perplexity: AI's Elite Challenge</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-comprehensive-guide-to-using-google-duos-with-gmail-tips-and-tricks-included/"><u>The Comprehensive Guide to Using Google Duos with Gmail – Tips & Tricks Included</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-routine-in-9-ways-thanks-to-chatgpt-assistance/"><u>Transform Your Routine in 9 Ways Thanks to ChatGPT Assistance</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-access-youtube-beats-freshly-split-with-this-compelling-list-of-17-crackers/"><u>[New] Access YouTube Beats Freshly Split With This Compelling List of 17 Crackers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-flip-the-script-unique-approaches-to-retracing-yt-content/"><u>[Updated] Flip the Script Unique Approaches to Retracing YT Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-film-finishing-finesse-download-personalized-epilogues-no-money/"><u>2024 Approved Film Finishing Finesse Download Personalized Epilogues, No Money</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/affordable-and-effective-how-the-anker-power-bank-at-just-20-transforms-portable-charging-expert-tips-from-zdnet/"><u>Affordable & Effective: How the Anker Power Bank at Just $20 Transforms Portable Charging - Expert Tips From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apples-development-of-secure-operating-systems-for-enhanced-ai-center-security-insights/"><u>Apple's Development of Secure Operating Systems for Enhanced AI Center Security | Insights</u></a></li>
+<li><a href="https://win-premium.techidaily.com/como-recuperar-imagenes-borradas-de-amazon-photos-guia-paso-a-paso-para-multiples-dispositivos/"><u>Cómo Recuperar Imágenes Borradas De Amazon Photos: Guía Paso a Paso Para Múltiples Dispositivos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-future-of-smartphones-with-apples-iphone-15-dont-miss-out-zdnet/"><u>Discover the Future of Smartphones with Apple's iPhone 15 - Don't Miss Out! [ZDNet]</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/front-row-diversions-beyond-sports-galore/"><u>Front Row Diversions Beyond Sports Galore</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-macos-montereys-energy-saving-features-a-step-by-step-guide-to-activating-low-power-mode/"><u>Mastering MacOS Monterey's Energy-Saving Features: A Step-by-Step Guide to Activating Low Power Mode</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/step-by-step-guide-to-retrieving-files-from-your-wiped-windows-11-hdd/"><u>Step-by-Step Guide to Retrieving Files From Your Wiped Windows 11 HDD</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-galaxys-giant-a-review-of-the-ford-f-150-rc-vehicle-masterpiece/"><u>The Ultimate Guide to Galaxy's Giant: A Review of the Ford F-150 RC Vehicle Masterpiece</u></a></li>
 </ul></div>
 

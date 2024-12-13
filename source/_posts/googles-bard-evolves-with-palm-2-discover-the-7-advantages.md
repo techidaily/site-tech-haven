@@ -1,7 +1,7 @@
 ---
 title: Google's Bard Evolves with PaLM 2 - Discover the 7 Advantages
-date: 2024-08-20T12:06:04.327Z
-updated: 2024-08-21T12:06:04.327Z
+date: 2024-12-08T22:38:26.397Z
+updated: 2024-12-13T20:16:56.669Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
 
 ## Steer Clear of the Dangerous Google Bard App – It's Infected with Viruses
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Scammers are using Google's generative AI tool, Bard, to infect users with malware and steal login credentials.
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
  Scammers are taking advantage of Google's generative AI tool, Bard, to infect unsuspecting users with dangerous malware and steal their login credentials.
 
  Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Google Bard?
 
@@ -36,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
  The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why You Shouldn't Download the Google Bard App
 
  On November 13, 2023, Google announced on its official blog,[The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/) , that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on[ Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf) .
@@ -45,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit:[Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
 
  The scammers created social media pages under account names such as Google AI, AIGoogle Bard FB, and AIGoogleBard and ran advertisements encouraging users to download an app version of Google Bard.
@@ -60,22 +70,20 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stick With Google Bard on Your Browser
 
  If you're thinking about downloading an app version of Google Bard you saw advertised on Facebook, think twice;**it's malware** .
 
  There is no app version of Google Bard at the time of writing, so users should stick to the free web-based version until Google officially announces an app. Until then, use the web-based version and always check the source's reliability before downloading or installing any software.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -84,4 +92,18 @@ thumbnail: https://thmb.techidaily.com/d8fc0a6dc40b2c266ea46ef0e0946f6a6f2bfc24f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-between-audio-and-video-which-platform-takes-the-lead/"><u>[New] Between Audio and Video, Which Platform Takes the Lead?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-immersive-futures-the-essence-of-vr-ar-and-mr/"><u>[Updated] 2024 Approved Immersive Futures The Essence of VR, AR, & MR</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-ultimate-guide-to-mp4-from-instagram-advanced-2-step-processes-for-2024/"><u>[Updated] Ultimate Guide to MP4 From Instagram Advanced 2-Step Processes for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-facebook-updates-with-chatgpt-insights/"><u>Boost Your Facebook Updates with ChatGPT Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-client-results-with-chatgpt-powered-custom-workout-programs/"><u>Boosting Client Results with ChatGPT-Powered Custom Workout Programs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-essential-artifice-intelligence-vocabulary/"><u>Comprehensive Guide to Essential Artifice Intelligence Vocabulary</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-install-of-epson-stylus-nx420-printer-drivers-on-your-pc-windows-7-8-or-10/"><u>Easy Install of Epson Stylus NX420 Printer Drivers on Your PC (Windows 7, 8 or 10)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-registering-for-bings-ai-enhanced-search-platform/"><u>Guide: Registering for Bing's AI Enhanced Search Platform</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-2023how-to-share-videos-on-twitter-on-your-phone-without-retweeting/"><u>In 2024, 2023|How to Share Videos on Twitter on Your Phone Without Retweeting?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-productivity-for-free-master-gpt-4-accelerated-technology-with-copilot-assistance/"><u>Maximize Productivity for Free – Master GPT-4 Accelerated Technology with Copilot Assistance</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-windows-10-video-editing-made-easy-top-imovie-alternatives-for-2024/"><u>New Windows 10 Video Editing Made Easy Top iMovie Alternatives for 2024</u></a></li>
+</ul></div>
 

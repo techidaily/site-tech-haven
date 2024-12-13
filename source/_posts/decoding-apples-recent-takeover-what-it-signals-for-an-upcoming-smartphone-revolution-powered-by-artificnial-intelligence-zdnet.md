@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple's Recent Takeover: What It Signals for an Upcoming Smartphone Revolution Powered by Artificnial Intelligence | ZDNET"
-date: 2024-12-04T16:56:40.026Z
-updated: 2024-12-07T17:57:09.431Z
+date: 2024-12-11T19:14:17.935Z
+updated: 2024-12-13T22:03:13.666Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Intelligence?
 
 Apple
@@ -35,10 +39,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -58,10 +58,6 @@ Some of the biggest AI features from Apple Intelligence include:
 Aside from these AI features, iOS 18 will include new customizable icons and interface updates for Control Center, Settings, and Messages. Apple is also launching a new [Passwords app](https://www.zdnet.com/article/apple-to-unveil-password-manager-app-at-wwdc-2024-what-it-is-and-how-it-works/) to replace the iCloud Keychain and give users a more user-friendly option, similar to 1Password and LastPass.
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
 
@@ -92,7 +88,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -119,6 +115,10 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -130,6 +130,10 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -147,10 +151,6 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -167,7 +167,7 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -210,14 +210,17 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-screen-capture-software-guide-apowersoft-included/"><u>[New] In 2024, The Ultimate Screen Capture Software Guide - Apowersoft Included</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-essential-steps-for-clearance-prior-to-tiktok-uploads/"><u>[Updated] In 2024, The Essential Steps for Clearance Prior to TikTok Uploads</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-se-2022-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone SE (2022) How to Bypass?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creative-ais-face-off-on-equal-ground-prompt/"><u>Creative AIs Face Off on Equal Ground Prompt</u></a></li>
-<li><a href="https://win-blog.techidaily.com/online-arw-to-jpeg-converter-quick-and-no-cost-solutions-from-movavi/"><u>Online ARW-to-JPEG Converter: Quick and No Cost Solutions From Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/remote-excellence-through-chatgpt-6-must-try-techniques-for-freelancers/"><u>Remote Excellence Through ChatGPT: 6 Must-Try Techniques for Freelancers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-connecting-your-oculus-quest-2-headset-to-your-television/"><u>Ultimate Guide: Connecting Your Oculus Quest 2 Headset to Your Television</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-work-potential-with-insights-from-ai-dialogues/"><u>Unleashing Work Potential with Insights From AI Dialogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-ais-magic-the-science-of-transfer-learning/"><u>Unraveling AI's Magic: The Science of Transfer Learning</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-a-comprehensive-overview-of-cost-free-cloud-communication-software/"><u>[New] In 2024, A Comprehensive Overview of Cost-Free Cloud Communication Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-offline-masterpieces-top-10-ios-game-selections-without-internet-for-2024/"><u>[New] Offline Masterpieces Top 10 iOS Game Selections Without Internet for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-10plus-leading-web-based-screen-capture-tools/"><u>[Updated] In 2024, 10+ Leading Web-Based Screen Capture Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-apples-vision-the-next-generation-of-smart-homes-with-a-robotic-helper/"><u>Exploring Apple's Vision: The Next Generation of Smart Homes with a Robotic Helper</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-ahead-of-the-curve-essential-anker-charging-gear-for-your-upcoming-iphone-purchase-insights-by-zdnet/"><u>Get Ahead of the Curve: Essential Anker Charging Gear for Your Upcoming iPhone Purchase | Insights by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-project-your-video-conference-onto-a-tv-setup-with-zoom/"><u>How To Project Your Video Conference Onto a TV Setup With Zoom</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-11-pro-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 11 Pro Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y78-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo Y78 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/snag-the-latest-gadgets-expert-tips-on-securing-your-iphone-15-and-apple-watch-series-9-ultra-save-big-with-our-preorder-guide-zdnet/"><u>Snag the Latest Gadgets: Expert Tips on Securing Your iPhone 15 & Apple Watch Series 9 Ultra - Save Big with Our Preorder Guide | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-qi2-multi-function-charger-a-game-changer-for-apple-devices-dive-in/"><u>Ultimate Qi2 Multi-Function Charger: A Game-Changer for Apple Devices - Dive In !</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
 </ul></div>
 

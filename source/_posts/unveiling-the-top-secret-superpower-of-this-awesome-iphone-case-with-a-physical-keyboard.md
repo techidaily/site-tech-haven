@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Top Secret Superpower of This Awesome iPhone Case with a Physical Keyboard!
-date: 2024-12-05T17:58:39.612Z
-updated: 2024-12-07T22:44:57.343Z
+date: 2024-12-10T16:47:18.521Z
+updated: 2024-12-13T19:58:34.687Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,18 +124,15 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-best-tech-in-cards-for-4k-video-editing/"><u>[New] In 2024, Best Tech in Cards For 4K Video Editing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-speeding-up-your-periscope-streams-effortlessly/"><u>[New] Speeding Up Your Periscope Streams Effortlessly</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-stepwise-guide-to-leveraging-picture-in-picture-feature-on-microsoft-edge/"><u>[Updated] 2024 Approved Stepwise Guide to Leveraging Picture-in-Picture Feature on Microsoft Edge</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-frame-by-frame-screen-capturer/"><u>2024 Approved Frame-by-Frame Screen Capturer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/building-and-tailoring-your-own-ai-dialogue-system-with-exclusive-datasets/"><u>Building and Tailoring Your Own AI Dialogue System With Exclusive Datasets</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722965373271-easy-amd-vega-graphics-card-driver-downloads-and-updates-enhancing-your-gaming-experience/"><u>Easy AMD Vega Graphics Card Driver Downloads & Updates: Enhancing Your Gaming Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/get-the-latest-gigabyte-network-adapter-drivers-download-now/"><u>Get the Latest Gigabyte Network Adapter Drivers - Download Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-embed-codegpt-within-your-visual-studio-code-setup/"><u>How to Embed CodeGPT Within Your Visual Studio Code Setup</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-expert-reviews-and-advice-from-toms-hardware-solutions/"><u>Master Your PC: Expert Reviews and Advice From Tom's Hardware Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-downloading-and-setting-up-auto-gpt/"><u>Step by Step Instructions: Downloading and Setting up Auto-GPT</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-setting-up-wake-on-lan-in-windows-10-and-11/"><u>Step-by-Step Tutorial: Setting Up Wake-on-LAN in Windows 10 and 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-walkthrough-for-setting-up-and-configuring-auto-gpt-on-ubuntu/"><u>The Ultimate Walkthrough for Setting Up and Configuring Auto-GPT on Ubuntu</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-mobvoi-ticwatch-e2-affordable-option-or-missed-opportunity-for-quality/"><u>Unveiling the Mobvoi TicWatch E2: Affordable Option or Missed Opportunity for Quality?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-navigating-the-path-to-profitable-snapchat-ventures/"><u>[New] In 2024, Navigating the Path to Profitable Snapchat Ventures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-metaverse-muse-a-reflective-collection-of-thoughts-arvr/"><u>[Updated] Metaverse Muse A Reflective Collection of Thoughts [AR/VR]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-right-apple-tablet-a-comprehensive-guide-comparing-ipad-pro-models-find-your-perfect-match/"><u>Choosing the Right Apple Tablet: A Comprehensive Guide Comparing iPad Pro Models - Find Your Perfect Match!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unveil-the-potential-of-vfx-animated-text-for-free/"><u>In 2024, Unveil the Potential of VFX Animated Text for Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-your-apple-watch-unlock-the-secrets-of-the-handy-double-click-command/"><u>Mastering Your Apple Watch: Unlock the Secrets of the Handy Double-Click Command!</u></a></li>
+<li><a href="https://tools.techidaily.com/premiumfxbot/products/"><u>Premiumfxbot's Products</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-the-irritating-issue-plaguing-your-iphone-solutions-apple-must-embrace/"><u>Resolving the Irritating Issue Plaguing Your iPhone: Solutions Apple Must Embrace</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/simple-strategies-for-integrating-pictures-with-videos-top-3-techniques-explained/"><u>Simple Strategies for Integrating Pictures with Videos - Top 3 Techniques Explained</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/superior-software-for-beat-alteration-tech-for-2024/"><u>Superior Software for Beat Alteration Tech for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-hidden-gem-discover-apples-secret-iphone-enhancement-you-missed-tech-insights-by-zdnet/"><u>Unveiling the Hidden Gem: Discover Apple's Secret iPhone Enhancement You Missed | Tech Insights by ZDNet</u></a></li>
 </ul></div>
 

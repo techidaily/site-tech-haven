@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Best AI Prompts Sites – Your Essential Guide to Cutting-Edge Creativity
-date: 2024-08-20T12:05:02.992Z
-updated: 2024-08-21T12:05:02.992Z
+date: 2024-12-12T19:17:23.798Z
+updated: 2024-12-13T21:19:53.590Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/144ba6c2b445ab473f613c1a9b64b4025f1536845
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Originally called "The Imitation Game," the Turing Test was developed by Alan Turing. Despite its name, the Turing Test is not a true test—at least, not in the common sense of the word. It's more of a thought experiment. Nevertheless, Alan Turing was a highly influential mathematician who formalized many concepts that led to the birth of computer science.
 
  The Turing Test is a set of guidelines meant to determine whether a machine is indistinguishable from a human. It tries to answer the question, "Can machines think?" Turing believed it was possible and designed something that could be resembled as a kind of game.
@@ -40,6 +44,14 @@ Here is the standard interpretation of the Turing Test:
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -50,21 +62,16 @@ Here is the standard interpretation of the Turing Test:
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Eugene Goostman
 
  In June 2014, a chatbot named Eugene Goostman claimed to have passed the Turing Test for the first time. Developed by a team of Ukranian programmers, the chatbot posed as a 13-year-old Ukranian boy and managed to convince 33% of a panel consisting of 30 human participants in a series of five-minute conversations.
@@ -73,9 +80,6 @@ Here is the standard interpretation of the Turing Test:
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Google's LaMBDA
 
  So Eugene Goostman may not have passed the Turing test, but how about Google's LaMDA?
@@ -87,8 +91,9 @@ Here is the standard interpretation of the Turing Test:
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore,[Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/) . This is currently available to users in the UK and the United States.
@@ -103,9 +108,6 @@ Here is the standard interpretation of the Turing Test:
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The Turing Test Has Not Been Definitively Passed
 
  Artificial intelligence continues to grow, and although there have been several claims, there is still no definitive agreed industry agreement that the Turing Test has been beaten. This is largely due to the subjective nature of what constitutes "intelligence" and the limitations of the Turing Test parameters.
@@ -114,14 +116,11 @@ Here is the standard interpretation of the Turing Test:
 
  The Turing Test might be iconic, but maybe it's time that we shelve it and move on.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +129,23 @@ Here is the standard interpretation of the Turing Test:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-crafting-visually-striking-fb-ad-videos/"><u>[New] 2024 Approved Crafting Visually Striking FB Ad Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-skullduggery-scribblers-den-for-2024/"><u>[New] Skullduggery Scribbler's Den for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-adobe-photoshop-shake-reduction-is-it-really-useful/"><u>[Updated] 2024 Approved Adobe Photoshop Shake Reduction | Is It Really Useful?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-top-rated-free-software-for-seamless-conversion-of-pvr-files-into-universal-formats-like-mp4-and-avi/"><u>1. Top-Rated FREE Software for Seamless Conversion of PVR Files Into Universal Formats Like MP4 and AVI</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-extensive-breakdown-what-the-google-podcast-app-means-for-you/"><u>2024 Approved Extensive Breakdown What the Google Podcast App Means for You</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/11/"><u>今年発表！有名無名なくり返し厳選された無料のビデオエディティングソフト11枚</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029516265-flvmp33/"><u>最適なFLVからMP3への無料変換ソフトウェアトップ3をご紹介</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-troubleshooting-a-non-launching-lethal-brand/"><u>Effective Solutions for Troubleshooting a Non-Launching 'Lethal' Brand</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-deciphering-youtubes-processing-after-uploading/"><u>In 2024, Deciphering YouTube's Processing After Uploading</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mapping-authenticity-navigating-through-fake-data-generated-by-ai/"><u>Mapping Authenticity: Navigating Through Fake Data Generated by AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-deduction-with-advanced-ai-discover-4-engaging-cyber-sleuthing-challenges/"><u>Mastering Deduction with Advanced AI: Discover 4 Engaging Cyber Sleuthing Challenges</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029136082-mkv/"><u>MKVファイルの品質保持型マージ手順</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027103184-openrectv/"><u>OPENREC.tvビデオをダウンロードして保管する詳細ガイド</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/schutz-ihres-iphone-14-lose-abhangigkeit-von-itunes-und-icloud/"><u>Schutz Ihres iPhone 14: Lose Abhängigkeit Von iTunes Und iCloud!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027166279-gif/"><u>ゲームイラストを簡単に制作するためのGIFガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028877707-youtube/"><u>パソコン上でYouTubeビデオを同時に聞きながら録音するステップバイステップ</u></a></li>
+</ul></div>
 

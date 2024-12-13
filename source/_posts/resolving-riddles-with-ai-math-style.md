@@ -1,7 +1,7 @@
 ---
 title: Resolving Riddles with AI, Math Style
-date: 2024-08-20T12:00:41.189Z
-updated: 2024-08-21T12:00:41.189Z
+date: 2024-12-09T16:26:32.490Z
+updated: 2024-12-13T18:27:30.790Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 * [Upgraded Code Analysis](https://www.makeuseof.com/chatgpt-new-features-spring-update/#upgraded-code-analysis)
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ChatGPT now converses with image inputs and outputs, providing accurate results and generated images in its responses.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 * ChatGPT-4o enables users to engage in multi-modal voice and video interactions, fostering real-time conversations and versatile AI assistance.
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Image Input and Output Capabilities
 
@@ -52,13 +60,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Expanded Knowledge Base and Cross-Chat Memory
 
  ChatGPT's upgraded web browsing capabilities allow it to retrieve up-to-date information from the web with better accuracy. It ensures responses are based on the latest available data and insights, making it particularly valuable for quickly evolving topics like news, technology, and market trends.
@@ -69,16 +73,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## Multi-Modal Voice and Video Interactions
 
  Everyone[wanted to see more modality in ChatGPT](https://www.makeuseof.com/gpt-5-features-we-want-to-see/) . The new ChatGPT-4o model gives access to multi-modal voice and video interaction, allowing users to engage in continuous voice and video conversations with ChatGPT, like making a video call with a human assistant. ChatGPT-4o's conversation support, video capability, and human-like voice and emotions make this new feature different from other voice assistants.
@@ -90,9 +88,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -101,9 +99,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
@@ -113,22 +108,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
  Temporary Chat is available to both Plus and Free tier users. You can access it through the model drop-down menu by selecting the Temporary Chat option. Once activated, you can now enjoy a private and non-persistent chat experience.
 
  The latest updates to ChatGPT introduce a host of features that cater to a wide range of user needs, from enhanced interactivity and data analysis to real-time information access and personalized experiences. Whether you're a professional, student, or casual user, these features offer powerful new ways to leverage ChatGPT for improved productivity, learning, and everyday convenience.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +130,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ptimize-video-performance-elite-youtube-ranks-tools-for-2024/"><u>[New] Optimize Video Performance Elite YouTube Ranks Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-elevate-your-farming-adventures-with-stardews-top-7-mods-for-2024/"><u>[Updated] Elevate Your Farming Adventures with Stardew's Top 7 Mods for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-fixing-non-appearing-thumbnails-in-youtube-shorts/"><u>[Updated] Fixing Non-Appearing Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-ultimate-guide-customizing-and-streamlining-your-macos-sonoma-dockbar/"><u>1. Ultimate Guide: Customizing & Streamlining Your MacOS Sonoma Dockbar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/all-the-buzz-from-wwdc-today-dive-deeper-into-apples-world-of-enhancements-with-siri-upgrades-and-beyond-tech-insider/"><u>All the Buzz From WWDC Today: Dive Deeper Into Apple’s World of Enhancements with Siri Upgrades and Beyond | Tech Insider</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/error-code-0x8024a205-a-winupdate-solution-guide/"><u>Error Code 0X8024a205: A WinUpdate Solution Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ios-18-update-enables-direct-phone-call-recording-no-need-for-external-apps/"><u>IOS 18 Update Enables Direct Phone Call Recording - No Need for External Apps</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/master-your-pcs-energy-efficiency-expert-tips-on-managing-power-settings-by-yl-computing/"><u>Master Your PC's Energy Efficiency: Expert Tips on Managing Power Settings by YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavi-tv-mpe-wma/"><u>Movavi의 인터넷 TV에서 MPE 문자열로 WMA를 무료로 전환하는 방법</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimize-your-iphone-phone-conversations-with-these-top-tips-for-better-sound-fidelity/"><u>Optimize Your iPhone Phone Conversations with These Top Tips for Better Sound Fidelity!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-and-flaunt-essential-iphone-13-upgrades-for-lasting-shine-as-featured/"><u>Protect and Flaunt: Essential iPhone 13 Upgrades for Lasting Shine as Featured</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-fitness-routine-with-airpods-pros-latest-feature-precision-heart-rate-monitoring-cnet/"><u>Revolutionize Your Fitness Routine with AirPods Pro's Latest Feature: Precision Heart Rate Monitoring | CNET</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/solving-the-puzzle-why-photorec-might-miss-out-on-your-files/"><u>Solving the Puzzle: Why PhotoRec Might Miss Out on Your Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supreme-session-naming-service-for-2024/"><u>Supreme Session Naming Service for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/zdnet-reveals-the-groundbreaking-feature-of-the-new-google-pixel-9-innovative-satellite-emergency-messaging-for-android-devices/"><u>ZDNet Reveals: The Groundbreaking Feature of the New Google Pixel 9 - Innovative Satellite Emergency Messaging for Android Devices</u></a></li>
+</ul></div>
 

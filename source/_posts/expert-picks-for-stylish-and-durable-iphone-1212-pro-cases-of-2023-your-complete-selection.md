@@ -1,7 +1,7 @@
 ---
 title: Expert Picks for Stylish and Durable iPhone 12/12 Pro Cases of 2023 - Your Complete Selection
-date: 2024-12-04T17:27:42.601Z
-updated: 2024-12-07T20:22:45.560Z
+date: 2024-12-11T20:58:53.658Z
+updated: 2024-12-13T16:43:06.125Z
 tags:
   - apple
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -51,7 +51,7 @@ Cons
 ## Pela case
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best iPhone 12 case overall
@@ -73,10 +73,6 @@ Pros
 
 Cons 
 * Pricier
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Silicone Case with MagSafe
 
@@ -106,10 +102,6 @@ Cons
 
 ## Bodyguardz Ace Pro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best budget iPhone 12 case
 
 The iPhone 12 and 12 Pro can be delicate, especially because the front and back materials are glass. BodyGuardz offers protective cases with considerable drop protection -- while keeping prices under $20.
@@ -133,14 +125,10 @@ Pros
 Cons 
 * Shipping can take up to 12 business days for US orders and up to 23 business days for non-US orders
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Casetify cases
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best customizable iPhone 12 case
@@ -163,6 +151,10 @@ Pros
 
 Cons 
 * May still yellow over time
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ESR Air Armor
 
@@ -193,7 +185,7 @@ Cons
 ## Incipio Organicore
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best eco-friendly iPhone 12 case
@@ -218,6 +210,10 @@ Cons
 * May show scratches easily
 
 ## Nomad Rugged case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best leather iPhone 12 case
 
@@ -245,6 +241,10 @@ Cons
 
 ## Speck Presidio Edition
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best iPhone 12 case for drop protection
 
 The Speck Presidio is a perfectly clear case that offers up to 13 feet of drop protection. This is how it works: When you drop your phone, the clear impact technology of the Speck case compresses on impact, absorbing shock, and protecting your phone. Speck's Perfect-Clear coating works against discoloration and yellowing to keep your case in clear condition. If you notice yellowing or discoloration, you can send your phone case back to Speck for a free replacement. 
@@ -269,10 +269,6 @@ Pros
 Cons 
 * No drop protection
 * Original price ($39) is too expensive for what it is
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Totallee case
 
@@ -299,6 +295,10 @@ The best iPhone 12 case is the Pela case, chosen for its environmental safety, d
 | Nomad Rugged case                | $25       | 10 feet             |
 | Speck Products Presidio Edition  | $23       | 13 feet             |
 | Totallee case                    | $19       | Unspecified         |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which iPhone case is right for you?
 
@@ -333,13 +333,13 @@ Wireless charging does work with phone cases. Almost all of the cases on this li
 
 The Pela case is my favorite because it combines drop protection with environmental friendliness and durability. The flax-based material is unique and 100% compostable -- and the case protects your phone from drops of up to 20 feet. It comes in a variety of colors and ships free to the United States and Canada in plastic-free packaging. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is OtterBox good for iPhone 12?
 
 Yes. OtterBox cases are durable, and I added an OtterBox option to my list of favorite alternatives. Some OtterBox lines are made with partially recycled materials. You can also alter the bulkiness of your OtterBox, depending on how much protection you need.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the safest case for iPhone 12 Pro?
 
@@ -389,18 +389,15 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-from-social-to-storage-iphone-and-android-gif-savings/"><u>[Updated] From Social to Storage IPhone & Android GIF Savings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-startup-strategy-guide-affordable-channels-to-monetize/"><u>[Updated] Startup Strategy Guide Affordable Channels to Monetize</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gaming-gains-total-earnings-for-pewdiepie/"><u>2024 Approved Gaming Gains Total Earnings for PewDiePie</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975333491-asus-ac68-pce-wireless-card-driver-installation-get-now/"><u>ASUS AC68 PCE Wireless Card Driver Installation - Get Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bard-vs-chatgpt-vs-offline-alpaca-an-ultimate-guide-to-the-best-llms/"><u>Bard Vs. ChatGPT Vs. Offline Alpaca: An Ultimate Guide to the Best LLMs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-chatgpt-enterprise-insightful-overview-of-services-offered-and-comparative-analysis/"><u>Demystifying ChatGPT Enterprise: Insightful Overview of Services Offered & Comparative Analysis</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-honor-90-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor 90 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-a2-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo A2 Phone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-virtual-visage-creation-shaping-your-exaggerated-image/"><u>In 2024, Virtual Visage Creation Shaping Your Exaggerated Image</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/master-the-skies-an-authoritative-review-on-why-djis-mavic-air-drone-reigns-supreme/"><u>Master the Skies: An Authoritative Review on Why DJI's Mavic Air ^ Drone Reigns Supreme</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pushing-the-limits-of-programmed-imagination/"><u>Pushing the Limits of Programmed Imagination</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revamping-cars-with-conversational-ai-a-step-by-step-plan/"><u>Revamping Cars with Conversational AI: A Step-by-Step Plan</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-text-adding-bings-intelligent-chat-feature-to-android-keyboards/"><u>Transforming Text: Adding Bing's Intelligent Chat Feature to Android Keyboards</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-srt-pinnacle-selecting-the-premier-turbo-charger-systems-for-os-xwin/"><u>2024 Approved SRT Pinnacle Selecting the Premier Turbo Charger Systems for OS X/Win</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-10-proplus-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/affordable-wireless-magnetic-charging-pad-for-iphone-only-35/"><u>Affordable Wireless Magnetic Charging Pad For iPhone - Only $35!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apples-newly-affordable-m2-mac-mini-at-historic-low-of-479-in-depth-analysis/"><u>Apple's Newly Affordable M2 Mac Mini at Historic Low of $479 | In-Depth Analysis</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-lava-storm-5g-by-drfone-android/"><u>How to Bypass FRP on Lava Storm 5G?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/huge-savings-alert-for-tech-lovers-secure-your-new-macbook-air-now-during-presidents-day-promotion-with-a-whopping-300-cut-only-at-zdnet/"><u>Huge Savings Alert for Tech Lovers! Secure Your New MacBook Air Now During Presidents' Day Promotion with a Whopping $300 Cut – Only at ZDNET!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-fixes-apple-approves-reuse-of-components-in-certain-repair-jobs/"><u>IPhone Fixes: Apple Approves Reuse of Components in Certain Repair Jobs</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/master-the-art-of-diy-iphone-screen-replacement/"><u>Master the Art of DIY iPhone Screen Replacement</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725286656980-successfully-installing-handbrake-on-your-windows-11-pc-a-step-by-step-guide/"><u>Successfully Installing HandBrake on Your Windows 11 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-15-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 15 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
 </ul></div>
 

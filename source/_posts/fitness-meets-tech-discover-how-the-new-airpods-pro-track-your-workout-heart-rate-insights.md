@@ -1,7 +1,7 @@
 ---
 title: "Fitness Meets Tech: Discover How the New AirPods Pro Track Your Workout Heart Rate - Insights"
-date: 2024-12-06T18:47:23.650Z
-updated: 2024-12-07T21:02:57.907Z
+date: 2024-12-09T22:47:37.615Z
+updated: 2024-12-13T22:00:13.388Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ How and why did I come to those conclusions? Let's dig in.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -65,7 +65,7 @@ How and why did I come to those conclusions? Let's dig in.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Familiar design, with one exception
@@ -87,7 +87,7 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -95,7 +95,7 @@ Jason Cipriani/ZDNET
 If you visit [Apple's comparison tool](https://www.apple.com/iphone/compare/?modelList=iphone13,iphone14,iphone14plus), pitting the [iPhone 13 against the iPhone 14](https://www.zdnet.com/article/iphone-13-vs-iphone-14/), you'll notice that the phones use the same A15 Bionic processor. This is the first time Apple has used the previous-generation processor in a new iPhone model, with the iPhone maker relying on the already solid performance the A15 Bionic brought to the iPhone 13\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -137,7 +137,7 @@ Jason Cipriani/ZDNET
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Safety first
@@ -186,17 +186,24 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-navigating-through-post-production-color-nuances/"><u>[New] Navigating Through Post-Production Color Nuances</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-essential-user-manual-for-music-licensing-on-insta/"><u>[Updated] 2024 Approved The Essential User Manual for Music Licensing on Insta</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-pc-game-screenshots/"><u>[Updated] In 2024, The Ultimate Guide to PC Game Screenshots</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-utilizing-edges-split-screen-feature-pip/"><u>[Updated] In 2024, Utilizing Edge's Split Screen Feature PIP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024s-leading-stylus-tablets-ranking-in-depth-analysis-and-expert-evaluation/"><u>2024'S Leading Stylus Tablets Ranking: In-Depth Analysis and Expert Evaluation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/begin-using-microsofts-bing-with-ai-step-by-step-registration-guide/"><u>Begin Using Microsoft's Bing with AI: Step-by-Step Registration Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/behind-the-screen-9-debunked-beliefs-about-artificial-intelligence-bots/"><u>Behind the Screen: 9 Debunked Beliefs About Artificial Intelligence Bots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-gpt-the-best-programming-aids-outside-chatgpt/"><u>Beyond GPT: The Best Programming Aids Outside ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-free-travel-arranger-applications-get-swift-smart-itineraries-now/"><u>Essential Free Travel Arranger Applications: Get Swift, Smart Itineraries Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gptzero-demystified-how-this-innovation-helps-you-detect-fake-written-content/"><u>GPTZero Demystified – How This Innovation Helps You Detect Fake Written Content</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/photo-perfection-how-to-automatically-save-snaps-from-snapchat/"><u>Photo Perfection How to Automatically Save Snaps From Snapchat</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-legacy-boot-configurations/"><u>Reinstating Legacy Boot Configurations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2023s-undisclosed-video-download-tools-1-8-rankings/"><u>[New] 2023'S Undisclosed Video Download Tools #1-8 Rankings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-quick-and-effortless-gif-to-professional-video-transformation-tools/"><u>[New] Quick and Effortless GIF to Professional Video Transformation Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-tips-for-monetizing-with-spotify-marketing-for-2024/"><u>[Updated] Essential Tips for Monetizing with Spotify Marketing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-navigating-the-best-lipo-cells-for-quality-flight-time/"><u>2024 Approved Navigating the Best LiPo Cells for Quality Flight Time</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/2024s-elite-tablets-ranked-in-depth-tester-insights-and-evaluations-digitalsavvy/"><u>2024'S Elite Tablets Ranked: In-Depth Tester Insights and Evaluations | DigitalSavvy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-the-2022-released-airpods-pro-still-a-top-notch-choice-an-in-depth-analysis/"><u>Are the 2022 Released AirPods Pro Still a Top-Notch Choice? An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-apples-latest-enhancements-explore-the-most-impressive-new-features-of-apple-carplay-unveiled-at-wwdc-2024-read-all/"><u>Discover Apple's Latest Enhancements: Explore the Most Impressive New Features of Apple CarPlay Unveiled at WWDC 2024 - Read All</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/environmental-education-promotes-awareness-and-understanding-of-environmental-issues-among-the-public-fostering-a-culture-of-conservation/"><u>Environmental Education Promotes Awareness and Understanding of Environmental Issues Among the Public, Fostering a Culture of Conservation.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hands-on-review-of-the-apple-studio-display-attractive-design-overpriced-at-500-more-than-rivals-for-pros-on-mac-cnet/"><u>Hands-On Review of the Apple Studio Display: Attractive Design, Overpriced at $500 More Than Rivals for Pros on Mac | CNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-realme-gt-5-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Realme GT 5 Pro?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/impulsive-tech-shopping-alert-why-apples-latest-earpods-at-just-17-and-with-usb-c-charging-became-my-must-have-on-prime-day-the-zdnet-guide/"><u>Impulsive Tech Shopping Alert! Why Apple’s Latest EarPods at Just $17 & With USB-C Charging Became My Must-Have on Prime Day | The ZDNet Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-users-ultimate-how-to-jumping-into-shared-photo-collections-with-ease/"><u>IPhone Users' Ultimate How-To: Jumping Into Shared Photo Collections with Ease!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1727788397518-iphone/"><u>IPhone 지대 선택의 도전 : 균일, 더 큰, 프로, 프로 마우스를 비교하기</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/perfekt-qualitats-dvd-konvertierung-ohne-datenverlust-erklart-und-durchgefuhrt/"><u>Perfekt Qualitäts-DVD Konvertierung Ohne Datenverlust Erklärt Und Durchgeführt</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/recuperar-momentos-perdidos-tecnicas-gratuitas-para-rescatar-videos-de-drone-dji-eliminados/"><u>Recuperar Momentos Perdidos: Técnicas Gratuitas Para Rescatar Videos De Drone DJI Eliminados</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-smartphone-photography-iphone-16s-camera-now-boasts-intelligent-visual-recognition-skills-similar-to-google-lens/"><u>Revolutionizing Smartphone Photography: IPhone 16'S Camera Now Boasts Intelligent Visual Recognition Skills Similar to Google Lens</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-step-by-step-tutorial-crafting-gifs-from-photos-using-photoshop/"><u>Ultimate Step-by-Step Tutorial: Crafting GIFs From Photos Using Photoshop</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/understanding-why-your-scanner-wont-detect-insights-from-yl-computing/"><u>Understanding Why Your Scanner Won't Detect: Insights From YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-the-new-m4-ipad-pro-how-wwdc-showcases-its-capabilities-with-advanced-ai-integration/"><u>Unveiling the Power of the New M4 iPad Pro: How WWDC Showcases Its Capabilities with Advanced AI Integration</u></a></li>
 </ul></div>
 

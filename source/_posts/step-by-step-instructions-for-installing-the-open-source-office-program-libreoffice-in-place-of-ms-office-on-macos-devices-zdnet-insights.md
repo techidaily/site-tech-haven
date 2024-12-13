@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Installing the Open Source Office Program, LibreOffice, in Place of MS Office on macOS Devices | ZDNET Insights
-date: 2024-12-06T21:32:59.338Z
-updated: 2024-12-07T18:42:35.741Z
+date: 2024-12-06T22:44:22.820Z
+updated: 2024-12-13T19:31:50.036Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ That's why ZDNET is here to cut through the noise. Here's our one-stop guide for
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A screen protector
@@ -49,7 +49,7 @@ It fits onto your screen tightly with an EZ Apply Tray to simplify application, 
 [Best iPad screen protector for a paper-like feel Paperlike 2.1 iPad Screen Protector The Paperlike screen protector transforms your screen to feel like a piece of paper and mimics a more realistic writing, drawing, and sketching experience. It's made of tempered glass with a smooth, scratch-resistant surface and reinforced edges for better longevity. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJS86VV9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[Best privacy iPad screen protector Sahara iPad ZeroDamage UltraStrong+ Tempered Glass Screen Protector You'll also be assured that whatever you're watching, working on, or browsing stays unseen by passerbys thanks to the Sahara's privacy screen, which blocks the view of any person trying to view your screen, whether to the left or right of you, within a 38-degree angle. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BNCGQJ18%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A basic case
@@ -91,7 +91,7 @@ When ZDNET's Senior Reviews Editor, Kerry Wan, tested the Combo Touch and Logite
 [Best keyboard case from Apple Apple Magic Keyboard Folio Designed specially for the 10th-generation iPad, it features a built-in trackpad, a 14-key function row, an adjustable stand and detachable keyboard, and a versatile two-piece design. It's the most obvious choice on the market if you're looking for a keyboard case for your iPad, but keep in mind it costs over $200. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Magic-Keyboard-Folio-10th-Generation%2Fdp%2FB0BJLFH8RC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[Best iPad keyboard for the iPad Pro 13-inch Apple Magic Keyboard for iPad Pro (2024) Apple's newest Magic Keyboard is compatible with the new iPad Pro models. Available in an 11-inch or 13-inch configuration, this new keyboard offers a larger trackpad and a sleeker design, amongst other features. Preorder it now. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR43LL%2FA%2Fmagic-keyboard-for-ipad-pro-13%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best keyboard case for iPad Pro Apple Magic Keyboard for iPad Pro Apple's Magic Keyboard costs a hefty $299, but it features quiet, backlit keys and has angle adjustability, and is the flagship keyboard case for the iPad Pro. View at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMagic-Keyboard-for-iPad-Pro-11-inch-4th-generation-and-iPad-Air-5th-generation-US-English-Black-iPad-Not-Included%2F984505060&subId1=zd-__COM_CLICK_ID__-dtp)[Best budget keyboard case ESR Rebound Magnetic Keyboard Case The ESR Rebound Magnetic Keyboard features similar top specs like a trackpad, long-lasting battery, a floating, angled stand for viewing, laptop-style keys, a stylus holder and front and back protection, but at a lower price of $105. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Compatible-Cantilever-Precision-Multi-Touch%2Fdp%2FB09N744Y4C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A stylus
@@ -113,6 +113,10 @@ Keep in mind that the third iteration of Apple's handy [pencil may be launching 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07K1WWBJK%2Fref%3Dasc%5Fdf%5FB07K1WWBJK1727521200000%3Fcreative%3D395261%26creativeASIN%3DB07K1WWBJK%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[View now at B&H Photo-Video](https://www.bhphotovideo.com/c/product/1441874-REG/apple%5Fmu8f2am%5Fa%5Fapple%5Fpencil%5F2nd%5Fgeneration.html/BI/23252/KBID/28790/SID/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6252354%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6252354.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1) 
 
 [Best Apple Pencil for new iPad models (2024) Apple Pencil Pro Apple's newest Apple Pencil Pro is available for preorder now. Designed for the new iPad Air and Pro models, it features Find My technology, as well as offers new features like squeeze and barrel roll for more precision. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best comfortable stylus Logitech Crayon Even though this stylus is from Logitech, it is built using Apple Pencil technology and can be used with hundreds of Apple Pencil-supported apps. In fact, it's the only non-Apple stylus with Apple's stamp of approval (and even sold on Apple's website). Its flat form factor is much more comfortable than the Apple Pencil, offering a reassuring grip. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07JFP5G4L%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[Best dual-tip stylus Zagg Pro Stylus The Zagg Pro stylus stands out in our list because it's a dual-tip stylus. The end tip is excellent for scrolling, while the active tip is built for drawing and writing (with tilt recognition to boot). It also has palm-rejection technology and can attach magnetically to iPad Pro models. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08M6FGQ94%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You might also need:
 
@@ -138,10 +142,6 @@ While everyone's idea of essential accessories for their iPad will be different,
 
 ZDNET's top pick for the best iPad is the iPad Air (5th generation) because it includes nearly all of the best features the iPad has to offer at a price that's more approachable than the iPad Pro. However, we'd recommend the 10th-generation iPad model for Facetime and Zoom purposes, and those who want a portable tablet for reading should go with the iPad Mini (6th generation). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the new iPad models?
 
 Apple announced the 6th-generation iPad Air and the 7th-generation iPad Pro models on May 7\. You can preorder the tablets now at Apple's website, and they are officially available on May 17.
@@ -159,7 +159,7 @@ Yes, there is a new Magic Keyboard for the iPad Pro. On May 7, Apple announced a
 This new Magic Keyboard is only compataible with the new M4 iPad Pro 11-inch and 13-inch models, and includes a larger trackpad, a function row, and other upgraded features. It is available for preorder now. The [11-inch Magic Keyboard](https://www.apple.com/shop/product/MWR03LL/A/magic-keyboard-for-ipad-pro-11%E2%80%91inch-m4-us-english-white) model will costs $299 while the [13-inch is $399](https://www.apple.com/shop/product/MWR43LL/A/magic-keyboard-for-ipad-pro-13%E2%80%91inch-m4-us-english-white). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the Apple Pencil Pro?
@@ -196,17 +196,21 @@ The Apple Pencil Pro was announced on May 7 and features a slew of new features 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-how-to-fade-in-and-fade-out-video-clips/"><u>[New] 2024 Approved How to Fade-In and Fade-Out Video Clips</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-eternal-banishment-of-youtubes-quick-clips/"><u>[Updated] In 2024, Eternal Banishment of YouTube's Quick Clips</u></a></li>
-<li><a href="https://discover-great.techidaily.com/3gpmp3/"><u>3GPからMP3への変換 - 最も効果的なアプローチ</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-enjoy-unrestricted-access-to-chatgpt-via-a-secure-vpn-connection/"><u>Can You Enjoy Unrestricted Access to ChatGPT Via A Secure VPN Connection?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/does-chatgpt-improve-through-interacting-with-users/"><u>Does ChatGPT Improve Through Interacting With Users?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpts-application-safe-or-unsafe-in-cybersecurity/"><u>GPT's Application: Safe or Unsafe? In Cybersecurity</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/haul-videography-101-preparation-and-editing-for-maximum-impact/"><u>Haul Videography 101 Preparation & Editing for Maximum Impact</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-blitz-photograph-examiner-windows-edition/"><u>In 2024, Blitz Photograph Examiner - Windows Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-reveal-the-true-colors-top-10-apps-that-cleanse-blurry-shots/"><u>In 2024, Reveal the True Colors Top 10 Apps that Cleanse Blurry Shots</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/strategies-for-writing-persuasive-vlog-show-narratives/"><u>Strategies for Writing Persuasive Vlog Show Narratives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-mystery-of-reaction-times-investigating-why-chatgpt-4-is-not-as-quick-as-chatgpt-35/"><u>The Mystery of Reaction Times: Investigating Why ChatGPT-4 Is Not as Quick as ChatGPT-3.5</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/troubleshooting-techniques-for-network-problems-by-experts-at-yl-software/"><u>TroubleShooting Techniques for Network Problems by Experts at YL Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chasing-the-crash-action-cameras-reviewed/"><u>[New] Chasing the Crash Action Cameras Reviewed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-transformative-tactics-for-advanced-iphone-x-animoji-utilization/"><u>[New] Transformative Tactics for Advanced iPhone X Animoji Utilization</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-your-path-to-perfect-recording-5-must-know-techniques-for-minecraft-screenshots-macos/"><u>[New] Your Path to Perfect Recording 5 Must-Know Techniques for Minecraft Screenshots (MacOS)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleash-your-creative-vision-a-guide-to-android-editors/"><u>[Updated] Unleash Your Creative Vision A Guide to Android Editors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expanding-your-visual-workspace-with-ease-adding-a-second-thunderbolt-monitor-to-the-apple-m1-mac-mini-expert-tips-from-zdnet/"><u>Expanding Your Visual Workspace with Ease: Adding a Second Thunderbolt Monitor to the Apple M1 Mac Mini – Expert Tips From ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1727783850179-how-three-key-apple-watch-series-10-features-won-me-over-insights/"><u>How Three Key Apple Watch Series 10 Features Won Me Over - Insights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sculpting-memorable-moments-in-your-shows-start/"><u>In 2024, Sculpting Memorable Moments in Your Show's Start</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unbeatable-deals-discover-the-best-free-desktop-recorders/"><u>In 2024, Unbeatable Deals Discover the Best Free Desktop Recorders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-ipad-output-discover-key-apps-to-enhance-productivity-and-workflow-as-recommended-experts/"><u>Maximizing iPad Output? Discover Key Apps to Enhance Productivity and Workflow as Recommended Experts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/redefining-visual-standards-hdr-vs-standard-sdr-for-2024/"><u>Redefining Visual Standards HDR Vs. Standard SDR for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-lava-yuva-2-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Lava Yuva 2? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-surprising-star-of-apples-let-loose-in-depth-review-and-analysis-of-the-349-ipad-by-tech-experts-at-zdnet/"><u>The Surprising Star of Apple's 'Let Loose': In-Depth Review and Analysis of the $349 iPad by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-protective-sleeves-and-skins-for-the-new-iphone-1212-pro-latest-picks/"><u>Top-Rated Protective Sleeves & Skins for the New iPhone 12/12 Pro - Latest Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-weakness-in-apples-recent-device-theft-prevention-update-expert-solutions-revealed-digitalsafetypro/"><u>Unveiling the Weakness in Apple's Recent Device Theft Prevention Update - Expert Solutions Revealed | DigitalSafetyPro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-microsoft-video-editor-for-dummies-a-step-by-step-guide-for-2024/"><u>Updated Microsoft Video Editor for Dummies A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/whats-next-for-apple-discover-the-exciting-developments-in-its-revolutionary-game-mode/"><u>What's Next for Apple? Discover the Exciting Developments in Its Revolutionary Game Mode</u></a></li>
 </ul></div>
 

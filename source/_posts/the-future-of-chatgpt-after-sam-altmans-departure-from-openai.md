@@ -1,7 +1,7 @@
 ---
 title: The Future of ChatGPT After Sam Altman's Departure From OpenAI
-date: 2024-08-20T12:04:56.849Z
-updated: 2024-08-21T12:04:56.849Z
+date: 2024-12-08T19:49:58.785Z
+updated: 2024-12-13T20:23:59.624Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -34,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -49,20 +54,19 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
 3. Launch the ChatGPT Desktop Application.
@@ -72,30 +76,9 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## When Is the Official ChatGPT Desktop Version Launching?
 
  The official ChatGPT Desktop app is already slowly rolling out to macOS users.
@@ -104,14 +87,11 @@ Key features:
 
  Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +100,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-advanced-tools-for-broadcasting-professionals/"><u>[New] 2024 Approved Advanced Tools for Broadcasting Professionals</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/recise-posting-schedules-a-guide-to-youtube-excellence-for-2024/"><u>[New] Precise Posting Schedules A Guide to YouTube Excellence for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ultimate-camera-test-hero5-meets-sjcam/"><u>[Updated] 2024 Approved Ultimate Camera Test Hero5 Meets SJCAM</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-to-use-zoom-for-skype-easy-solutions/"><u>[Updated] In 2024, How to Use Zoom for Skype [Easy Solutions]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oneplus-12r-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to OnePlus 12R Phones? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keeping-up-to-date-a-tutorial-to-update-your-dell-xps-15s-system-drivers/"><u>Keeping Up-to-Date: A Tutorial to Update Your Dell XPS 15'S System Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/proven-methods-for-free-removal-of-logos-from-videos-a-comprehensive-guide/"><u>Proven Methods for Free Removal of Logos From Videos: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-easy-guide-turn-your-webm-files-into-mov-without-hassle-top-2-techniques/"><u>Quick & Easy Guide: Turn Your WebM Files Into MOV without Hassle - Top 2 Techniques!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-easy-strategies-for-audio-separation-from-avi-movies/"><u>Quick & Easy Strategies for Audio Separation From AVI Movies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-guide-enable-and-enjoy-ogg-audio-content-seamlessly-on-your-iphone/"><u>Quick Guide: Enable & Enjoy Ogg Audio Content Seamlessly on Your iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/rediscovered-site-section-the-wonderfox-corner-is-back/"><u>Rediscovered Site Section: The 'WonderFox' Corner Is Back!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-mxf-not-supported-error-in-after-effects-a-step-by-step-guide/"><u>Resolving 'MXF Not Supported' Error in After Effects - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/solutions-for-unclean-scanner-outputs-enhancing-image-quality-with-yl-computings-expert-advice/"><u>Solutions for Unclean Scanner Outputs: Enhancing Image Quality with YL Computing's Expert Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-adding-us-sports-channels-via-the-kodi-plug-in/"><u>Step-by-Step Guide: Adding US Sports Channels via the Kodi Plug-In</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-masterclass-on-free-gif-downloading-and-video-merging-techniques/"><u>Step-by-Step Masterclass on Free GIF Downloading and Video Merging Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-guide-saving-memories-from-your-ps4-gaming-experience/"><u>The Ultimate How-To Guide: Saving Memories From Your PS4 Gaming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cr2-bmp-movavi/"><u>무료 CR2 포트에서 BMP로의 단속: Movavi 방법 – 온라인 스위프트 기사</u></a></li>
+</ul></div>
 

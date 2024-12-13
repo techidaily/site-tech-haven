@@ -1,7 +1,7 @@
 ---
 title: "Navigating AI: Opinions and Predictions by 10 Pioneering Technology Figures"
-date: 2024-08-20T12:04:28.964Z
-updated: 2024-08-21T12:04:28.964Z
+date: 2024-12-07T16:35:24.854Z
+updated: 2024-12-13T22:33:23.518Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e3
  With the arrival of OpenAI's AI-powered chatbot, ChatGPT, in late November 2022, search engines now face tough competition. Since its release, Google and other search engine companies have stepped up their efforts to combat it.
 
  Is this technology going to disrupt the search engine industry? This question is on the minds of most tech enthusiasts. Here, we'll discuss how ChatGPT differs from search engines and whether it is a threat to them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Does ChatGPT Differ From Search Engines?
 
@@ -52,8 +56,13 @@ thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e3
 ![ChatGPT Saying It Can Also Generate Wrong Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-also-generate-wrong-answers-and-explains-why-it-does-so.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. ChatGPT Is Less Credible
 
  On search engines, you know where information is coming from. Each time you search for something, you know the source of the webpage (i.e., brand or website). By putting in some effort, you can also check the authenticity of authors.
@@ -63,22 +72,11 @@ thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e3
 ![ChatGPT  Saying It Can't Add References](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-add-references.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can[sign up and start using ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) in just a few minutes. If you haven't tried it yet, take advantage of it to enhance your productivity. Although ChatGPT isn't ready to disrupt the search engine industry just yet, does it have the potential to do so in the future?
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is ChatGPT Capable of Disrupting Search Engines in the Future?
 
  Even though ChatGPT has some limitations, it has some strengths that make it an excellent candidate to disrupt the search engine industry. Let's discuss a few of them.
@@ -93,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e3
 
  On the other hand, search engines give you results based on your queries, so you need to fine-tune your keyword selection to get the best results.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Soon Could ChatGPT Significantly Impact the Search Engine Industry?
 
  Despite ChatGPT's potential to take a significant chunk of search engine traffic, it still has a long way to go to overcome its limitations.
@@ -111,13 +106,9 @@ thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e3
 ![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Let ChatGPT Evolve
 
  It will take time before people trust ChatGPT as they do on search engine results; it will be fascinating to see how this technology evolves.
@@ -126,14 +117,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Have you tried ChatGPT? If you haven't tried it yet, you should. Whether you need help writing an essay, generating code, composing an engaging email, or breaking down a complex topic, ChatGPT can take care of it all.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +130,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-faster-insights-slower-pace-balancing-youtube-playback-rate/"><u>[Updated] 2024 Approved Faster Insights, Slower Pace Balancing YouTube Playback Rate</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-text-tips-enhancing-image-descriptions-for-pcmac-users/"><u>[Updated] In 2024, Text Tips Enhancing Image Descriptions for PC/Mac Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029558223-mp4/"><u>高品質保持でMP4動画ファイルの最適結合技術：ステップバイステップガイド</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-mp4-wmv/"><u>利用 Movavi 自由下載的圖形化編解碼工具，高效在線上 MP4 至 WMV 影像轉換</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028402050-dvd/"><u>市販DVDが動き出さない? ストレスなしでこの簡単対策を学べ</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028592819-clipchamp/"><u>効果的な動画合成 - Clipchamp利用ガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/11microphone/"><u>最新ウィンドウズ 11でMicrophone録音手順詳細解説</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-running-chkdsk-for-error-free-drives-in-windows/"><u>Comprehensive Tutorial: Running ChkDsk for Error-Free Drives in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-spatial-symphony-with-mac-recording/"><u>In 2024, Spatial Symphony with Mac Recording</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028303274-iphoneandroid/"><u>IPhone/Androidでカスタム着信メロディ設定: 従来の楽曲から自分だけの音源まで変更する完全ガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029270009-premiere-pro/"><u>Premiere Proでのビデオ再生トラブル - 音声のみが出力される方法</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/roku-or-fire-tv-stick-a-consumers-guide-to-selecting-a-streaming-device/"><u>Roku or Fire TV Stick? A Consumer's Guide to Selecting a Streaming Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-indestructible-link-methodology-for-tiktok-bio-info-for-2024/"><u>The Indestructible Link Methodology for TikTok Bio Info for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028431384-youtube/"><u>どうすれば映像のサイズを縮小できますか？ - YouTube</u></a></li>
+</ul></div>
 

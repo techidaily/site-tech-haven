@@ -1,7 +1,7 @@
 ---
 title: How Do Vector Databases Contribute to Advanced AI Systems?
-date: 2024-08-20T12:04:18.954Z
-updated: 2024-08-21T12:04:18.954Z
+date: 2024-12-07T16:31:21.604Z
+updated: 2024-12-13T17:52:28.188Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 ---
 
 ## Is It Better to Use Gemini Advanced Over ChatGPT Plus? Let's Find Out
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
  However, choosing between ChatGPT and Google Gemini isn't easy, especially as GPT-4 and Gemini Advanced (the premium large language models powering the AI chatbots) perform similarly in several areas.
 
 So, how do you choose between ChatGPT Plus and Google Gemini Advanced?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## User Interface
 
@@ -75,6 +83,10 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Optical Character Recognition
 
  The previous test shows that text can be extracted from an image. But how do both fare when presented with text of different sizes and colors?
@@ -84,8 +96,9 @@ Close
  Both seem to start well. ChatGPT generates a very accurate output, but Gemini drops the ball midway and starts summarizing the content in the image. Clearly, this is not a problem with the abilities, but Gemini Advanced lost a point here.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Can ChatGPT 4 & Gemini Advanced Summarize Videos?
 
  Just like images, can you summarize videos, too? There is no provision for uploading videos to ChatGPT. When you try to add a video link, the application says it cannot provide a transcript of an online video on YouTube. However, ChatGPT has a library of third-party GPTs, and a quick search will find tools like[Full Video Transcript GPT](https://chat.openai.com/g/g-8bFoeNNre-full-video-transcript-gpt) , which you can use to create a perfect text transcription.
@@ -96,9 +109,6 @@ Close
 
 ![Transcript generation by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/14-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  It is YouTube videos only, though. Neither can fetch videos from other online video services.
 
 Close
@@ -108,8 +118,9 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Mobile Apps Comparison
 
  Mobile phones, with their built-in cameras and microphones, allow for advanced functions within each chatbot's respective app. I am using a Google Pixel phone for these tests.
@@ -120,14 +131,8 @@ Close
 
 ![Question on the photo taken answered by ChatGPT on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Question on the photo taken answered by Google Gemini on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Photo related question answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-1.png)
 
 ![Photo related question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-2.png)
@@ -138,12 +143,13 @@ Close
 
 ![Headphones recognition by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Headphones recognition by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-2.png)
 
 ![Where to buy question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/29.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -154,14 +160,16 @@ Close
 ![Speech recording for conversion to text by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-1.png)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Speech conversion to text in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Converted text from speech prompt answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -169,16 +177,10 @@ Close
 
 ![Speech to text conversion in Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Converted text from speech prompt answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-2.png)
 
 ![Translation to telugu by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
  ChatGPT has a built-in voice conversation feature. It could speak out and translate it into the language I asked for. +1 for ChatGPT.
@@ -186,6 +188,10 @@ Close
 ![Voice conversations introduction page in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-1.png)
 
 ![Voice Conversation in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -211,49 +217,34 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tricky Question
 
  How about a tricky question, then? My question was about the birds sitting on a wire, and I wanted to test the ability to assess real-world implications. ChatGPT got this right, but Gemini is still in class.
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Graphs
 
  Next, I gave both chatbots data and asked them to plot it. Both ChatGPT and Gemini are accurate at plotting graphs. Gemini has some pre-built customizations to change the graph styles. You can do the same with ChatGPT too, with prompting.
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Programming
 
  Programming is the holy grail of AI, and bringing a layman's idea to life will be the pinnacle. When asked to write a code to delay the text input, both ChatGPT and Gemini Advanced did a wonderful job. It took a few more iterations to customize the code to fit the purpose, but it did work in the end. Each tool receives a point for this one.
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Creative Writing
 
  I asked both tools to write a 100-word story on AI. Most GPTs and AI tools are strong at writing creative stories, and both did well at this task.
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Image Generation
 
  The[image generation capabilities of GPTs](https://www.makeuseof.com/dall-e-creating-ai-images-pros-cons/) are improving all the time. Outputs look more realistic compared to the cartoon looks of previous versions. ChatGPT now has an edit tool, allowing you to select an area of interest in the generated image and modify it with prompting.
@@ -264,9 +255,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pricing and Limits
 
  Both ChatGPT Plus and Google Gemini cost $20 per month.[ChatGPT has a limit of 40 messages every 3 hours](https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4) , while Gemini allows 50\. A point here for Gemini.
@@ -304,14 +292,11 @@ Summing up everything, we have the final scores:
 
  The results speak for themselves. ChatGPT wins it, but Gemini is not far behind. On a different scale, ChatGPT's custom GPTs are alone worth more than 10 points. But, if you have to choose between them, go with ChatGPT Plus.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -320,4 +305,22 @@ Summing up everything, we have the final scores:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-haven.techidaily.com/a-step-by-step-guide/"><u>: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-expert-tips-streaming-youtube-and-fb-videos-seamlessly-with-apple-tv/"><u>[New] 2024 Approved Expert Tips Streaming YouTube & FB Videos Seamlessly with Apple TV</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-jumpstarting-your-youtube-dreams-setting-up-personalbusiness-channels-on-mobile/"><u>[New] In 2024, Jumpstarting Your YouTube Dreams Setting Up Personal/Business Channels on Mobile</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-the-minefield-suddenly-banned-videos-on-social-media/"><u>[New] In 2024, Navigating the Minefield Suddenly Banned Videos on Social Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-clipcartoon-detailed-assessment-and-guide-2024/"><u>[Updated] ClipCartoon Detailed Assessment & Guide 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-mastering-youtube-clips-beginnings-and-conclusions-on-a-budget/"><u>[Updated] In 2024, Mastering YouTube Clips Beginnings & Conclusions on a Budget</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030402123-202/"><u>「202</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advancing-photo-viewing-in-windows-11-merge-artistic-layers-and-soundtracks/"><u>2024 Approved Advancing Photo Viewing in Windows 11 Merge Artistic Layers and Soundtracks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5yid5a2m6icf44ks44kk44oj77ya44k344on44o844oi44kv44oe44o844or44ks5l244gj44gf57ch5y2y44gq44ot44oh44kq57eo6zug5oqa6kgt/"><u>初学者ガイド：ショートクツールを使った簡単なビデオ編集技術</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6zplusz5aow44ks57we44g6l6844ka44gf44kb44gu44or44ov44o844od44kk44oz44oi44gu5yplusw5omx44ge77ya5yq55p6c55qe44gq5oml6acg5pwz56il/"><u>音声を組み込むためのパワーポイントの取扱い：効果的な手順教程</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-step-by-step-guide-to-adding-crystal-clear-flac-music-to-your-itunes-library/"><u>A Step-by-Step Guide to Adding Crystal Clear FLAC Music to Your iTunes Library</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/automatic-caption-makers-discover-these-3-complimentary-solutions-to-add-subtitles-instantly/"><u>Automatic Caption Makers: Discover These 3 Complimentary Solutions to Add Subtitles Instantly!</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/joining-in-on-tiktok-gigs-without-causing-a-ruckus/"><u>Joining in on TikTok Gigs Without Causing a Ruckus</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210851423-9781800077850-the-little-book-of-zen/"><u>The Little Book of Zen | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029613228-zoom/"><u>Zoom リモート ミーティング中にビジュアル・オーディオが不良の場合、どうすればよいか？</u></a></li>
+</ul></div>
 

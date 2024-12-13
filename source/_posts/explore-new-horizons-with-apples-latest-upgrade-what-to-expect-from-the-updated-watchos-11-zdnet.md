@@ -1,7 +1,7 @@
 ---
 title: Explore New Horizons with Apple's Latest Upgrade - What to Expect From the Updated WatchOS 11 | ZDNET
-date: 2024-12-05T19:21:08.230Z
-updated: 2024-12-07T21:03:26.036Z
+date: 2024-12-09T22:05:36.530Z
+updated: 2024-12-13T16:42:42.276Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -45,13 +49,13 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -60,10 +64,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -74,7 +74,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -95,10 +95,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
@@ -111,6 +107,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -120,7 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -157,17 +157,17 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fostering-engagement-creating-budget-friendly-youtube-intros-for-2024/"><u>[Updated] Fostering Engagement Creating Budget-Friendly YouTube Intros for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-creativity-free-animation-techniques/"><u>[Updated] Unlocking Creativity Free Animation Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-prints-with-microsofts-edge-shield-windows-11/"><u>Activating Prints with Microsoft's Edge Shield (Windows 11)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/efficiently-set-up-your-epson-ds-530-with-windows-10-driver-included/"><u>Efficiently Set Up Your Epson DS-530 with Windows 10 [Driver Included]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimal-writing-techniques-dodging-the-common-pitfalls-with-chatgpt/"><u>Optimal Writing Techniques – Dodging the Common Pitfalls with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-secrets-behind-enigmatic-drm-methods/"><u>Understanding the Secrets Behind Enigmatic DRM Methods</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/k-your-creativity-editing-and-revamping-youtube-clips-in-wmm/"><u>Unlock Your Creativity Editing and Revamping YouTube Clips in WMM</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-content-a-comprehensive-tutorial-on-bypassing-drm-in-google-play-stored-titles/"><u>Unlocking Content: A Comprehensive Tutorial on Bypassing DRM in Google Play Stored Titles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-digital-restrictions-guide-to-bypass-prc-on-your-kindle-app-for-android/"><u>Unlocking Digital Restrictions: Guide to Bypass PRC on Your Kindle App for Android</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-full-potential-of-ebooks-a-guide-on-eliminating-drm-restrictions-in-bandn-nook-readers/"><u>Unlocking the Full Potential of eBooks: A Guide on Eliminating DRM Restrictions in B&N NOOK Readers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-the-differences-between-kindle-fire-models-a-comprehensive-guide/"><u>Unraveling the Differences Between Kindle Fire Models: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/icro-videos-in-the-spotlight-who-wins-youtube-shorts-or-tiktok/"><u>[New] Micro-Videos in the Spotlight Who Wins, YouTube Shorts or TikTok?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-streamline-fb-video-downloads-the-best-firefox-plugins-and-tools-of-the-year/"><u>[Updated] Streamline FB Video Downloads The Best Firefox Plugins and Tools of the Year</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/winxai/"><u>如何利用WinX视频AI：专业的录制、编辑指南和影片压缩技巧</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-future-of-iphone-intelligence-with-ios-amos-latest-ai-updates-and-what-to-expect-next/"><u>Explore the Future of iPhone Intelligence with iOS Amo's Latest AI Updates & What to Expect Next!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-apple-enhances-its-mac-line-up-with-cutting-edge-m4-chips-complete-with-onboard-artificnial-intelligence-anticipated-launch-dates-revealed/"><u>How Apple Enhances Its Mac Line-Up with Cutting-Edge M4 Chips, Complete with Onboard Artificnial Intelligence - Anticipated Launch Dates Revealed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-x-fold-2-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo X Fold 2</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-your-iphones-icloud-photos-when-they-wont-update-anymore/"><u>How to Fix Your iPhone's iCloud Photos When They Won't Update Anymore</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/strategies-to-handle-exclusive-video-formats/"><u>Strategies to Handle Exclusive Video Formats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-bright-outlook-for-apples-upcoming-product-a-firsthand-account-from-pre-ordering-the-vision-pro-an-analysis-by-zdnet/"><u>The Bright Outlook for Apple's Upcoming Product: A Firsthand Account From Pre-Ordering the Vision Pro - An Analysis by ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ssential-tips-for-maximizing-youtuber-profits-on-mobile/"><u>The Essential Tips for Maximizing YouTuber Profits on Mobile</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-11-unbeatable-discounts-on-apple-watches-in-july-2024-exclusive-offers-curated-by-zdnet/"><u>Top 11 Unbeatable Discounts on Apple Watches in July 2024 - Exclusive Offers Curated by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-macbook-enhancers-professional-evaluation-and-insights-techradar/"><u>Top-Rated MacBook Enhancers : Professional Evaluation & Insights | TechRadar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices To Avoid Purchasing at This Moment: Insights From ZDNet"
-date: 2024-12-02T19:30:54.107Z
-updated: 2024-12-07T17:30:19.323Z
+date: 2024-12-11T17:06:23.811Z
+updated: 2024-12-13T23:08:53.792Z
 tags:
   - apple
 categories:
@@ -58,13 +58,13 @@ Don't buy these devices:
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **The 'Nice' list**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
@@ -76,7 +76,7 @@ Jason Hiner/ZDNET
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
@@ -86,6 +86,10 @@ Apple Watch Series 10
 Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
 
@@ -115,10 +119,6 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Apple 14-inch and 16-inch MacBook Pro**
 
 This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M3 to the [insanely powerful M3 Max](https://www.zdnet.com/article/apples-m3-m3-pro-and-m3-max-chipsets-everything-you-should-know-before-buying/). Here are the specs:
@@ -133,10 +133,6 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 **Also: [M3 MacBook Pro buying advice: Who it's really for (and who should stick with M2 MacBook Air)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/)**
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple's 24-inch iMac**
 
@@ -173,6 +169,10 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 **Also: [Apple AirPods Pro (2nd Gen) review: Two major upgrades, tamed by one familiar flaw](https://www.zdnet.com/article/apple-airpods-pro-2-review/)**
 
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Apple AirTag**
 
@@ -214,24 +214,20 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ecoding-the-secrets-of-highly-successful-youtube-shorts-templates/"><u>[New] Decoding the Secrets of Highly Successful YouTube Shorts Templates</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-pathway-to-prominence-on-social-media/"><u>[New] In 2024, The Pathway to Prominence on Social Media</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-cinematic-frames-a-3-way-insta-guide-for-2024/"><u>[New] Mastering Cinematic Frames A 3-Way Insta Guide for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-best-youtube-video-ideas-to-spark-inspiration-for-youtube-channels-for-2024/"><u>[Updated] Best YouTube Video Ideas to Spark Inspiration [For YouTube Channels] for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-your-financial-course-the-3-step-methodology-for-estimating-youtube-income/"><u>Charting Your Financial Course The 3-Step Methodology for Estimating YouTube Income</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-power-of-chatgpt-teach-yourself-board-games-and-generate-images-using-ai-bots/"><u>Discover the Power of ChatGPT: Teach Yourself Board Games & Generate Images Using AI Bots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-premier-selection-of-8-crypto-trading-bots-and-addons/"><u>Discover the Premier Selection of 8 Crypto Trading Bots and Addons</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-hp-officejet-pro-8715-printer-drivers-for-windows-11-10-and-8-direct-download/"><u>Free HP Officejet Pro 8715 Printer Drivers for Windows 11, 10 & 8 - Direct Download</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/full-assessment-experiencing-the-world-in-360-with-samsung-for-2024/"><u>Full Assessment Experiencing the World in 360° with Samsung for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/getting-set-up-signing-up-for-chatgpt-telegram-and-whatsapp-without-your-cell/"><u>Getting Set Up: Signing Up for ChatGPT, Telegram & WhatsApp Without Your Cell</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ions-pro-3-unveiled-a-camera-ready-to-conquer-action-scenes-for-2024/"><u>ION's Pro 3 Unveiled - A Camera Ready to Conquer Action Scenes for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-yourself-from-impostor-programs-that-pretend-to-be-chatgpt-risking-your-private-data-security/"><u>Protect Yourself From Impostor Programs That Pretend to Be ChatGPT, Risking Your Private Data Security</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/starting-your-youtubian-journey-from-launchpad-to-loot/"><u>Starting Your Youtubian Journey From Launchpad to Loot</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-converting-dall-e-3-webp-outputs-to-common-image-formats/"><u>Step-by-Step Tutorial on Converting DALL-E 3 WebP Outputs to Common Image Formats</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-beginners-path-to-implementing-auto-gpt-on-ubuntu-linux/"><u>The Beginner's Path to Implementing Auto-GPT on Ubuntu Linux</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-top-techniques-for-turning-yt-order-upside-down-for-2024/"><u>The Top Techniques for Turning YT Order Upside-Down for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-gpt-tools-for-pdf-and-doc-interaction/"><u>Top 6 GPT Tools for PDF & Doc Interaction</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-productivity-install-microsoft-copilot-on-your-mac-today/"><u>Unlocking Productivity: Install Microsoft Copilot on Your Mac Today!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/vital-steps-for-a-more-innovative-and-user-friendly-chatgpt-plugin-store/"><u>Vital Steps for a More Innovative and User-Friendly ChatGPT Plugin Store</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-ultimate-aerial-imagery-crew-top-10-drones-compiled/"><u>[New] 2024 Approved Ultimate Aerial Imagery Crew Top 10 Drones Compiled</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-sub-from-srt-effective-techniques-for-format-shift/"><u>[Updated] 2024 Approved SUB From SRT Effective Techniques for Format Shift</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mirthmaker-join-and-start-your-humor-storytelling/"><u>2024 Approved MirthMaker Join & Start Your Humor Storytelling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/70-fte-as-of-2015-16/"><u>70 (FTE) (as of 2015-16)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-the-hype-unveiling-apples-practical-ai-advancments-at-the-upcoming-wwdc/"><u>Beyond the Hype: Unveiling Apple’s Practical AI Advancments at the Upcoming WWDC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-creativity-unleashed-discover-the-transformative-features-of-final-cut-pro-for-ipad-macworld-expo-blog/"><u>Cutting Edge Creativity Unleashed: Discover the Transformative Features of Final Cut Pro for iPad | Macworld Expo Blog</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-the-covert-intelligent-communication-chips-in-macs-and-ipads-do-you-own-them/"><u>Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-speed-with-nextorages-new-pcie-40-2230-ssd-7400-mbs-on-your-portable-game-console/"><u>Experience Unmatched Speed with Nextorage's New PCIe 4.0 2230 SSD - 7,400 MB/S on Your Portable Game Console</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-make-asmr-videos-all-you-need-to-know-for-2024/"><u>How to Make ASMR Videos All You Need to Know for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-14-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 14 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-switching-off-persistent-dark-mode/"><u>Mastering the Art of Switching Off Persistent Dark Mode</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-the-craft-perfecting-podcast-trailer-production-for-2024/"><u>Mastering the Craft Perfecting Podcast Trailer Production for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-pre-orders-essential-queries-for-potential-apple-vision-pro-buyers-explored-by-zdnet/"><u>Navigating Pre-Orders: Essential Queries for Potential Apple Vision Pro Buyers Explored by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-kid-friendly-smartphones-a-parents-guide-zdnet/"><u>Top Kid-Friendly Smartphones: A Parent's Guide (ZDNet)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-fastest-and-most-efficient-wireless-charger-models-technology-insights/"><u>Ultimate Guide to the Fastest and Most Efficient Wireless Charger Models | Technology Insights</u></a></li>
 </ul></div>
 

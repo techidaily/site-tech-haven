@@ -1,7 +1,7 @@
 ---
 title: "Writing a Stellar Resume with ChatGPT: A Step-by-Step Guide"
-date: 2024-08-20T12:07:42.812Z
-updated: 2024-08-21T12:07:42.812Z
+date: 2024-12-07T17:35:18.471Z
+updated: 2024-12-13T22:27:38.188Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
 
 ![chatgpt openai logos smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-openai-logos-smartphone-feature.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-photo/stuttgart-germany-12292022-mobile-phone-website-2245793859)
 
  So GPT-4 is here, but how do you join the action? How do you try out all its touted capabilities?
@@ -40,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
  For the free tier users, to get started with GPT-4, you'll need a ChatGPT Plus subscription. So, how do you upgrade to ChatGPT Plus?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Upgrade to ChatGPT Plus
 
 To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
@@ -50,26 +55,25 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 2. On the bottom of the left sidebar of the chat interface, locate and click on**Upgrade to Plus** .  
 ![Upgrade to ChatGPT+](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/upgrade-to-chatgpt.jpg)
 3. You'll get a pop-up comparing the free plan and the ChatGPT Plus plan. Tap on the green**Upgrade Plan** button.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT plus comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-comparison.jpg)
 4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Once your payment has been confirmed, you should now have access to the OpenAI GPT-4 model alongside the older GPT-3.5 default and GPT-3.5 legacy models.
 6. Choose the GPT-4 model from the drop-down on your ChatGPT chat interface, select the mode you want, and start using GPT-4 with ChatGPT.  
 ![screenshot of ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-code-interpreter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  One way to be sure you're using the GPT-4 model instead of the older models is to check the color of the OpenAI logo that precedes ChatGPT's responses. GPT-3.5 model responses are preceded with a green-white logo, while GPT-4 responses are preceded with a black-white logo.
 
 ## What Is the Difference Between GPT-3.5 and GPT-4?
 
  GPT-4 stands out from previous versions in two major ways: it demonstrates considerably enhanced capabilities, yet it imposes an unpopular, restrictive message quota.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Performance Improvement
 
@@ -80,17 +84,15 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  GPT-4 is a multimodal AI model with a significantly larger context window, able to process both text and image inputs. Its full capabilities were demoed during the official GPT-4 announcement event but have not been pushed to the public, likely due to a shortage of computer chips needed to back the massive amount of compute power required for such features.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Usage Cap
 
  Despite the improvements that come with GPT-4, access to the model comes with an inconvenient limitation—a usage cap. Unlike GPT-3.5, with which you can prompt all day long, GPT-4 users are restricted to anywhere from 25 to 200 messages every three hours. We are not sure how OpenAI decides who gets a higher cap, but it seems, at least for now, to be arbitrarily or by the luck of the draw. Once again, a limited supply of GPUs and the need to adequately balance server loads might be behind the mandatory usage cap.
 
  Notwithstanding, GPT-4 is an exciting and powerful model worth the $20 you'll need to pay for a ChatGPT Plus plan. But what if you don't want to upgrade to ChatGPT Plus? Is this the end of the road for free-tier users? Not really. Here's how to use GPT-4 for free.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use GPT-4 for Free
 
  While you can't currently access GPT-4 on the free version of ChatGPT, an alternative route is to use the Bing AI Chat. Yes, Bing AI is powered by OpenAI's GPT-4 model and has been for a while. So, if you've been using AI-powered Bing, you've been using GPT-4 without realizing it. If you're concerned about the difference in the quality of responses between GPT-4 on Bing Chat and GPT-4 on ChatGPT, don't panic.
@@ -105,14 +107,11 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
  However, despite the absence of some rumored capabilities, like video analysis, GPT-4 still packs the punch to impress even the most advanced users of ChatGPT.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,4 +120,24 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elite-free-screen-partnership-adventures/"><u>[New] 2024 Approved Elite Free Screen Partnership Adventures</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-disoriented-footage-instagrams-upside-down-trend/"><u>[New] Disoriented Footage Instagram's Upside-Down Trend</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-facebook-call-recording-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering Facebook Call Recording A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-dive-into-yi-4k-plus-action-camera-an-all-encompassing-review-for-2024/"><u>[Updated] Dive Into Yi 4K + Action Camera An All-Encompassing Review for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-efficiently-generating-clear-and-concise-images-thumbnails/"><u>[Updated] Efficiently Generating Clear and Concise Images Thumbnails</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-blur-the-outside-sharpen-inside-bokeh-balance-guide/"><u>[Updated] In 2024, Blur the Outside, Sharpen Inside Bokeh Balance Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bogus-chatbot-extension-hijacks-linkedin-sign-in-details/"><u>Bogus Chatbot Extension Hijacks LinkedIn Sign-In Details</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/compare-and-conquer-why-ios-chatgpt-wins-over-web/"><u>Compare & Conquer: Why iOS ChatGPT Wins Over Web</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficient-idea-generation-techniques-integrating-mindmaps-and-chatgpt-for-successful-brainstorming-sessions/"><u>Efficient Idea Generation Techniques: Integrating Mindmaps and ChatGPT for Successful Brainstorming Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-your-free-download-of-official-hp-spectre-x360-drivers-for-windows/"><u>Get Your [Free Download] of Official HP Spectre X360 Drivers for Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-streamline-your-internet-use-with-these-5-chromium-addons-for-vids/"><u>In 2024, Streamline Your Internet Use With These 5 Chromium Addons for Vids</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-enhanced-docspace-workflows/"><u>Leveraging ChatGPT for Enhanced DocSpace Workflows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-the-literary-world-using-artificial-intelligence-top-5-sites-and-apps-for-your-next-great-read/"><u>Navigate the Literary World Using Artificial Intelligence: Top 5 Sites & Apps for Your Next Great Read</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/viewing-valor-youtubes-daily-top-ten-highlights/"><u>Peak Viewing Valor YouTube's Daily Top Ten Highlights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguarding-ai-conversations-expert-guide-to-thwarting-model-inversion-attacks-on-your-bot/"><u>Safeguarding AI Conversations: Expert Guide to Thwarting Model Inversion Attacks on Your Bot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solutions-for-resolving-0x8007045d-errors-in-win11/"><u>Swift Solutions for Resolving 0X8007045D Errors in Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-chatgpts-feature-for-tailored-guidance-a-comprehensive-guide/"><u>Unveiling ChatGPT's Feature for Tailored Guidance - A Comprehensive Guide</u></a></li>
+</ul></div>
 

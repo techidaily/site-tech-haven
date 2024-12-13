@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: How One Simple Tactic Can Clear Out Clutter Without Creating New Accounts or Strict Filters – Learn the Secrets with ZDNet"
-date: 2024-11-30T17:51:05.800Z
-updated: 2024-12-07T22:19:26.574Z
+date: 2024-12-11T22:28:34.864Z
+updated: 2024-12-13T17:07:50.225Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The magic of email aliases
@@ -65,7 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -77,7 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -91,7 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -105,7 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -146,24 +146,24 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-optimize-your-posting-select-from-this-roundup-of-top-8-planners/"><u>[New] 2024 Approved Optimize Your Posting Select From This Roundup of Top 8 Planners</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-mastering-action-an-insight-into-sj-cam-s6/"><u>[Updated] In 2024, Mastering Action An Insight Into SJ-CAM S6</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/audio-harmony-mastering-the-cut-and-switch-for-2024/"><u>Audio Harmony Mastering the Cut and Switch for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bargain-basics-buddy-cams-analysis/"><u>Bargain-Basics Buddy Cams Analysis</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/crafting-perfect-slack-filmo-meeting-experiences/"><u>Crafting Perfect Slack-Filmo Meeting Experiences</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-dts-play-fi-the-future-of-streaming-car-audio-systems/"><u>Decoding DTS Play-Fi: The Future of Streaming Car Audio Systems</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/effortless-repetition-replay-your-youtube-videos-via-tv-connection/"><u>Effortless Repetition Replay Your YouTube Videos via TV Connection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-tecno-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Tecno</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-11-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 11 Pro Max Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-steadiness-in-imaging/"><u>In 2024, Master the Art of Steadiness in Imaging</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-accessing-the-control-panel-on-windows-10-7-and-8/"><u>Step-by-Step Guide: Accessing the Control Panel on Windows 10, 7 & 8</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-activating-system-guard-features-on-windows-10/"><u>Step-by-Step Guide: Activating System Guard Features on Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-executing-a-clean-boot-on-your-windows-10-device/"><u>Step-by-Step Guide: Executing a Clean Boot on Your Windows 10 Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-installing-latest-drivers-on-your-hp-envy-20-laptop/"><u>Step-by-Step Guide: Installing Latest Drivers on Your HP ENVY 20 Laptop</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tailor-made-visuals-transforming-your-windows-11-experience-with-personalized-themes/"><u>Tailor-Made Visuals: Transforming Your Windows 11 Experience with Personalized Themes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/taking-a-screenshot-in-windows-11/"><u>Taking a Screenshot in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-guide-for-fixing-downloading-issues-with-the-windows-insider-preview-version-15031/"><u>Troubleshooting Guide for Fixing Downloading Issues with the Windows Insider Preview Version 150_31</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-tips-fixing-the-windows-11-calculator-malfunction-issue/"><u>Troubleshooting Tips: Fixing the Windows 11 Calculator Malfunction Issue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-8-most-effective-authentic-promotion-techniques/"><u>[New] The 8 Most Effective, Authentic Promotion Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-10-proven-techniques-for-skyrocketing-social-media-supporters/"><u>2024 Approved 10 Proven Techniques for Skyrocketing Social Media Supporters</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-your-tiktok-pro-editors-playbook/"><u>2024 Approved Maximize Your TikTok Pro Editor's Playbook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-apple-watchs-endurance-top-8-essential-settings-tweaks-for-extended-battery-life-insights/"><u>Boost Your Apple Watch's Endurance: Top 8 Essential Settings Tweaks for Extended Battery Life - Insights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-poco-m6-pro-4g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Poco M6 Pro 4G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/efficient-workflow-screen-recording-techniques-in-os-x-via-keyboard-shortcuts/"><u>Efficient Workflow Screen Recording Techniques in OS X via Keyboard Shortcuts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exclusive-scoop-secure-your-dream-apple-gadget-with-the-finest-prime-day-deals-still-on-offer-from-zdnet/"><u>Exclusive Scoop! Secure Your Dream Apple Gadget with the Finest Prime Day Deals Still On Offer From ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-ultimate-fan-experience-with-apple-sports-a-must-have-no-cost-iphone-application/"><u>Explore the Ultimate Fan Experience with Apple Sports – A Must-Have, No Cost iPhone Application</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/eye-interaction-upgrade-how-to-navigate-your-iphoneipad-using-only-your-gaze-tech-insights-by-zdnet/"><u>Eye Interaction Upgrade: How to Navigate Your iPhone/iPad Using Only Your Gaze - Tech Insights by ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/first-step-guide-to-professional-vlogging/"><u>First-Step Guide to Professional Vlogging</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-c67-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme C67 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/high-end-laptop-clash-samsung-galaxy-book-2-ultra-versus-apple-macbook-pro-in-depth-comparison-on-zdnet/"><u>High-End LAPTOP Clash: Samsung Galaxy Book 2 Ultra versus Apple MacBook Pro - In-Depth Comparison on ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-can-i-watch-facebook-videos-on-my-apple-tv-for-2024/"><u>How Can I Watch Facebook Videos on My Apple TV for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ios-update-1751-fixes-glitch-reviving-deleted-images-on-devices-tech-insights/"><u>IOS Update 17.5.1 Fixes Glitch Reviving Deleted Images on Devices - Tech Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-12-now-supports-enhanced-qi2-wireless-charging-without-requiring-magsafe-accessory-tech-news/"><u>IPhone 12 Now Supports Enhanced Qi2 Wireless Charging Without Requiring MagSafe Accessory | Tech News</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionary-esr-qui2-series-ultra-fast-magsafe-charging-for-iphone-16s-with-cooler-performance-as-reviewed/"><u>Revolutionary ESR Qui2 Series: Ultra-Fast MagSafe Charging for iPhone 16S With Cooler Performance, as Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-steadicams-for-drone-shooting-precision-for-2024/"><u>Superior Steadicams for Drone Shooting Precision for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-recovering-lost-passwords-from-your-macos-keychain/"><u>The Ultimate Guide to Recovering Lost Passwords From Your macOS Keychain</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforma-archivos-mov-a-avi-sin-costo-utilizando-el-servicio-de-linea-de-moovavi/"><u>Transforma Archivos MOV a AVI Sin Costo Utilizando El Servicio De Línea De Moovavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding BERT: A Comprehensive Guide on Its Role in NLP & Key Distinctions From GPT"
-date: 2024-08-20T12:02:36.314Z
-updated: 2024-08-21T12:02:36.314Z
+date: 2024-12-07T18:20:17.377Z
+updated: 2024-12-13T22:30:22.724Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,18 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-boost-your-post-with-three-video-border-methods/"><u>[New] In 2024, Boost Your Post with Three Video Border Methods</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-ultimate-screen-experience-with-hp-envy-27-display/"><u>[Updated] 2024 Approved The Ultimate Screen Experience with HP Envy 27 Display</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-optimize-video-quality-with-expertise-in-studio-editor-use/"><u>[Updated] In 2024, Optimize Video Quality with Expertise in Studio Editor Use</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/challenges-with-ai-understanding-why-chatgpt-isnt-ideal-for-deciphering-the-world-of-cryptocurrency/"><u>Challenges with AI: Understanding Why ChatGPT Isn't Ideal for Deciphering the World of Cryptocurrency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-poetic-craft-using-chatgpt-wisdom/"><u>Elevate Your Poetic Craft Using ChatGPT Wisdom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elon-musk-showcases-grok-artificial-intelligence-what-it-can-do-and-its-market-price/"><u>Elon Musk Showcases Grok Artificial Intelligence - What It Can Do and Its Market Price?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/introducing-the-new-era-for-gamers-maingear-unveils-improved-north-xl-tower-edition/"><u>Introducing the New Era for Gamers: Maingear Unveils Improved North XL Tower Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prime-digital-marketplaces-for-ai-creativity/"><u>Prime Digital Marketplaces for AI Creativity</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-file-format-frustrations/"><u>Resolving File Format Frustrations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-insiders-view-of-gpt-4all-operations-performance-and-purpose/"><u>The Insider's View of GPT-4All: Operations, Performance, and Purpose</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->

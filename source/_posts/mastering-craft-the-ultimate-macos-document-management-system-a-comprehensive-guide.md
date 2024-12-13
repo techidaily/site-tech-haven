@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Management System - A Comprehensive Guide"
-date: 2024-12-03T21:37:26.132Z
-updated: 2024-12-07T21:39:21.397Z
+date: 2024-12-06T16:32:38.696Z
+updated: 2024-12-13T16:54:36.002Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,24 +129,15 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-top-10-mobile-photography-enhancers-ios-and-android-comparison/"><u>[New] Top 10 Mobile Photography Enhancers IOS & Android Comparison</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-yuva-2-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Lava Yuva 2 Pro</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-social-media-connectivity-embedding-live-streams-from-twitch-to-fb/"><u>2024 Approved Social Media Connectivity Embedding Live Streams From Twitch to FB</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-transitioning-google-photos-into-apples-icloud-service/"><u>A Step-by-Step Guide: Transitioning Google Photos Into Apple's iCloud Service</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-12-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone 12 Pro? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bring-back-the-past-a-guide-to-recovering-deleted-chat-history-from-microsofts-chatbot/"><u>Bring Back the Past: A Guide to Recovering Deleted Chat History From Microsoft's Chatbot</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/budget-friendly-lg-um7300-49-inch-4k-television-evaluation/"><u>Budget-Friendly LG UM7300 49-Inch 4K Television Evaluation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-the-future-of-sound-integrating-gpt-into-daws/"><u>Crafting the Future of Sound: Integrating GPT Into DAWs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-the-secrets-of-gpt-4-all-how-this-advanced-ai-engine-works/"><u>Discovering the Secrets of GPT- 4 All: How This Advanced AI Engine Works</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-top-9-chatgpt-add-ons-for-immediate-website-upgrade/"><u>Explore the Top 9 ChatGPT Add-Ons for Immediate Website Upgrade</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guarding-against-tech-giants-keep-openai-bots-off-your-content/"><u>Guarding Against Tech Giants: Keep OpenAI Bots Off Your Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-add-music-in-premiere-pro/"><u>In 2024, How To Add Music In Premiere Pro?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-storm-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Lava Storm 5G Phone without Google Account?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-intelligence-four-methods-for-chatgpt-to-read-your-pdfs/"><u>Integrating Intelligence: Four Methods for ChatGPT to Read Your PDFs</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/leveraging-tiktok-for-business-growth-strategies/"><u>Leveraging TikTok for Business Growth Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-bings-ai-chat-on-android-devices-essential-tips/"><u>Mastering Bing's AI Chat on Android Devices: Essential Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/progressive-breakdown-understanding-and-comparing-every-version-from-gpt-1-to-gpt-4/"><u>Progressive Breakdown: Understanding and Comparing Every Version From GPT-1 to GPT-4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-is-now-how-generative-artificial-intelligence-reshapes-careers-in-7-pivotal-ways/"><u>The Future Is Now: How Generative Artificial Intelligence Reshapes Careers in 7 Pivotal Ways</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-value-metas-latest-offer-on-the-512gb-quest-3-top-virtual-reality-bargain-at-moment/"><u>Unbeatable Value: Meta's Latest Offer on the 512GB Quest 3 - Top Virtual Reality Bargain at Moment</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-are-product-critiques-online-generated-income/"><u>[New] In 2024, Are Product Critiques Online Generated Income?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-pixelcutter-studio/"><u>[Updated] PixelCutter Studio</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-the-new-airpods-pro-2-vs-original-model-is-it-a-leap-forward-or-just-more-of-the-same/"><u>Comparing the New AirPods Pro 2 vs Original Model: Is It a Leap Forward or Just More of the Same?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978368389-easy-install-of-epson-wf-2750-printer-driver-download-now/"><u>Easy Install of Epson WF-2750 Printer Driver - Download Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embracing-innovation-how-apples-ipad-pro-stands-out-without-trying-to-replace-your-macbook-tech-reviews/"><u>Embracing Innovation: How Apple's IPad Pro Stands Out Without Trying to Replace Your MacBook Tech Reviews</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-frame-rate-issues-in-dying-light-2-how-to-improve-pc-gaming-performance/"><u>Fixing Frame Rate Issues in Dying Light 2: How to Improve PC Gaming Performance</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipad-air-macbook-air-and-the-latest-ipad-pro-set-for-potential-early-launch-this-march-reports-suggest-tech-insight-via-zdnet/"><u>IPad Air, MacBook Air, and the Latest iPad Pro Set for Potential Early Launch This March, Reports Suggest | Tech Insight via ZDNET</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/stand-out-in-the-crowd-top-15-innovative-snapchat-posts-for-2024/"><u>Stand Out in the Crowd Top 15 Innovative Snapchat Posts for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-macbook-enhancers-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated MacBook Enhancers : Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
 </ul></div>
 

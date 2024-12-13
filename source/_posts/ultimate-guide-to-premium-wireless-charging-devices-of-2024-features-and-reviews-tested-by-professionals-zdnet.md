@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Premium Wireless Charging Devices of 2024 - Features and Reviews Tested by Professionals | ZDNet
-date: 2024-12-05T19:01:10.648Z
-updated: 2024-12-07T20:22:11.135Z
+date: 2024-12-11T17:40:09.040Z
+updated: 2024-12-13T17:20:17.065Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ After hands-on testing the Logitech MX Keys S Wireless Keyboard and being blown 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best keyboards of 2024
 
 Show less 
@@ -46,6 +42,10 @@ Cons
 * Only one height setting
 
 ## Logitech MX Keys S Wireless Keyboard
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best keyboard overall
 
@@ -80,10 +80,6 @@ Cons
 
 ## Apple Magic Keyboard
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best keyboard for Mac users
 
 **Apple Magic Keyboard specs: Type:** Full size **| Wired/Wireless:** Wireless **| Number of keys:** 78 **| Dimensions:** 11.5 x 5 x 0.8 inches 
@@ -113,6 +109,10 @@ Cons
 
 ## Corsair K100 RGB Keyboard
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best gaming keyboard
 
 **Corsair K100 RGB Keyboard specs: Type:** Full size **| Wired/Wireless:** Wired **| Number of keys:** 110 **| Dimensions:** 19.3 x 3.2 x 9.4 inches
@@ -138,11 +138,11 @@ Cons
 * Can feel awkward
 * Lacks backlighting
 
-## Microsoft Sculpt Ergonomic Desktop Keyboard
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Microsoft Sculpt Ergonomic Desktop Keyboard
 
 ### Best ergonomic keyboard
 
@@ -172,7 +172,7 @@ Cons
 * Restricted to linear switches
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Razer Pro Type Ultra Keyboard
@@ -190,6 +190,10 @@ You can connect up to four devices at once through Bluetooth with the keyboard, 
 **Review** **:** [**Razer Pro Type Ultra Keyboard**](https://www.zdnet.com/home-and-office/home-entertainment/razer-pro-type-ultra-click-mini-and-glide-xxl-review/)
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best keyboard?
 
@@ -217,6 +221,10 @@ It can be a little tricky differentiating between the different keyboards, even 
 | Microsoft Sculpt Ergonomic Desktop Keyboard | The most comfortable keyboard. The ergonomic design makes this best keyboard a winning pick when comfort is your priority.      |
 | Razer Pro Type Ultra Keyboard               | A whisper-quiet keyboard. This best keyboard won't compete for sound when you are gaming or listening to your favorite content. |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did I choose these best keyboards?
 
 In my search for the best keyboards, I considered several different factors. 
@@ -225,10 +233,6 @@ In my search for the best keyboards, I considered several different factors.
 * **Size:** There are different types of keyboards that you can buy. Compact keyboards are often at a 60%, 68%, or 75% size, while tenkeyless keyboards come in an 80% package. There are also full-size and ergonomic keyboards, like the ones seen here.
 * **Connectivity:** There are both wired and wireless keyboards available, depending on your preference.
 * **Price:** The cost of keyboards can vary significantly, depending on the model and brand that you choose. For example, the Razer and Corsair models will cost you significantly more than the Apple keyboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What size keyboard should you buy?
 
@@ -240,10 +244,6 @@ There are a few different types of keyboard sizes from which to choose.
 "As for the keyboard size, it depends on what you like and how you'll use it," advises Rosenfeld. "Some people want a compact keyboard that's easy to carry around, while others might need a full-size keyboard with a built-in number pad for ease of use."
 
 Buzzetta agrees, saying it's up to user preference, "You want to take into consideration the size of your hands, the size of your desk space, and what you're comfortable with. It's like a car," he explains, "You really gotta test drive it to get the complete feel."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should I buy a wired or wireless keyboard?
 
@@ -264,7 +264,7 @@ Logitech is one of the best keyboard manufacturers that you can choose from for 
 [Best wireless keyboard alternative Logitech G915 TKL Save yourself a headache by skipping the fuss of wires. This best wireless keyboard keeps things neat. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC%2Fdp%2FB085RLZ1C4%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf8b2749c-da48-43c7-a742-ca9a7a96bfae%7Cdtp&dtb=1)[Best compact alternative Logitech MX Keys Mini If space is an issue, this best keyboard won't take up a lot of room. Users love its easy, compact design. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Minimalist-Illuminated-Bluetooth-Compatible%2Fdp%2FB098JPSVKY%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf8b2749c-da48-43c7-a742-ca9a7a96bfae%7Cdtp&dtb=1)[Best mechanical alternative Logitech MX Mechanical Keyboard If you are looking for a mechanical keyboard, Logitech makes that, too. This best mechanical keyboard comes highly recommended. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Mechanical-Illuminated-Performance-Bluetooth%2Fdp%2FB09LJWWX4Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf8b2749c-da48-43c7-a742-ca9a7a96bfae%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Meet the experts
@@ -318,19 +318,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-make-your-own-vr-gear-diy-guide-for-google-cardboard-viewers/"><u>[New] In 2024, Make Your Own VR Gear DIY Guide for Google Cardboard Viewers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reimagining-art-top-6-influencers-shaping-nft-culture/"><u>[Updated] Reimagining Art Top 6 Influencers Shaping NFT Culture</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-real-time-broadcasting-obs-to-instagram/"><u>2024 Approved Real-Time Broadcasting OBS to Instagram</u></a></li>
-<li><a href="https://program-issues.techidaily.com/carbon-monoxide-binds-with-hemoglobin-more-effectively-than-oxygen-reducing-the-bloods-oxygen-carrying-capacity-and-can-lead-to-hypoxic-injury-to-the-heart.451/"><u>Carbon Monoxide Binds with Hemoglobin More Effectively than Oxygen, Reducing the Blood's Oxygen-Carrying Capacity and Can Lead to Hypoxic Injury to the Heart.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/convert-videos-flawlessly-top-free-mp4-tools-for-your-amazon-kindle-fire-device/"><u>Convert Videos Flawlessly - Top Free MP4 Tools for Your Amazon Kindle Fire Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/convert-your-kindle-kpfkfn-ebooks-to-pdf-format-with-these-simple-tools/"><u>Convert Your Kindle KPF/KFN Ebooks to PDF Format with These Simple Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-top-11-audiobook-format-varieties-every-listener-should-be-aware-of/"><u>Discover the Top 11 Audiobook Format Varieties Every Listener Should Be Aware Of</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/download-our-selection-of-festive-free-ebooks-now/"><u>Download Our Selection of Festive Free eBooks Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/download-software-from-epubor-hub-your-ultimate-source-for-applications/"><u>Download Software From Epubor Hub: Your Ultimate Source for Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ecore-the-premium-sdk-for-high-level-ebook-format-transformation/"><u>ECore: The Premium SDK for High-Level eBook Format Transformation</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-6s-plus-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone 6s Plus and iPad?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-redmi-13c-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi Redmi 13C 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/resolving-windows-11s-unexpected-outcome-alerts-a-step-by-step-guide/"><u>Resolving Windows 11'S Unexpected Outcome Alerts: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-tech-picks-and-analysis-straight-from-toms-hardware-hub/"><u>Top Tech Picks and Analysis Straight From Tom's Hardware Hub</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-essential-guide-mac-screen-recording-techniques/"><u>[New] In 2024, Essential Guide Mac Screen Recording Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-experts-guide-to-minecraft-3d-shapes-crafting-for-2024/"><u>[Updated] Expert's Guide to Minecraft 3D Shapes Crafting for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cutting-edge-movie-creation-with-movavi-advanced-video-editor/"><u>Cutting-Edge Movie Creation with Movavi Advanced Video Editor.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-walmarts-ultimate-christmas-bargains-expert-picks-by-zdnet/"><u>Discover Walmart's Ultimate Christmas Bargains - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-the-common-steam-disk-write-error/"><u>Easy Fixes for the Common 'Steam Disk Write Error'</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-latest-features-top-5-must-see-updates-in-the-ios-18-developer-preview-insights/"><u>Explore the Latest Features: Top 5 Must-See Updates in the iOS 18 Developer Preview - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-artificial-intelligence-in-music-creation-with-apples-updated-logic-pro-your-ipad-and-macs-new-virtual-band-members/"><u>Harness the Power of Artificial Intelligence in Music Creation with Apple's Updated Logic Pro – Your iPad and Mac's New Virtual Band Members</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-new-hp-wireless-driver-on-windows-devices/"><u>How to Install New HP Wireless Driver on Windows Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/insta-explosion-supercharge-with-content-likes-and-videos/"><u>Insta Explosion Supercharge with Content, Likes & Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/labor-day-sale-save-up-to-700-on-the-amazing-new-2022-ipad-pro-exclusive-deals-from-zdnet/"><u>Labor Day Sale: Save Up To $700 on the Amazing New 2022 iPad Pro - Exclusive Deals From ZDNet!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-connection-a-step-by-step-guide-on-linking-airpods-with-quest-headphones-without-disturbing-others/"><u>Seamless Connection: A Step-by-Step Guide on Linking AirPods with Quest Headphones Without Disturbing Others</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secrets-unlocked-swiftly-moving-your-macbook-files-with-these-pro-techniques-discover-how-now/"><u>Secrets Unlocked: Swiftly Moving Your MacBook Files with These Pro Techniques - Discover How Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-and-setting-up-your-canon-dr-c225-for-windows-11108-users/"><u>Step-by-Step Guide: Downloading and Setting Up Your Canon DR-C225 for Windows 11/10/8 Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unlocking-4k-potential-an-in-depth-look-at-dell-p2715q/"><u>Unlocking 4K Potential An In-Depth Look at Dell P2715Q</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/updating-your-apple-studio-displays-firmware-a-simple-guide/"><u>Updating Your Apple Studio Display's Firmware - A Simple Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-the-iphone-16-pro-isnt-a-necessary-upgrade-from-iphone-14-insights-by-zdnet/"><u>Why the iPhone 16 Pro Isn't a Necessary Upgrade From iPhone 14 | Insights by ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Itel A60 | Dr.fone</u></a></li>
 </ul></div>
 

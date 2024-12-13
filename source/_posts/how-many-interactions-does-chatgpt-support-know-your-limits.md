@@ -1,7 +1,7 @@
 ---
 title: How Many Interactions Does ChatGPT Support? - Know Your Limits
-date: 2024-08-20T12:04:14.194Z
-updated: 2024-08-21T12:04:14.194Z
+date: 2024-12-07T16:42:01.285Z
+updated: 2024-12-13T16:01:13.243Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
  One such factor is the token system, which continues to break the evolution cycle, bringing the app's utility to its knees. If you use ChatGPT, you might want to know about ChatGPT's tokens and what to do when you run out of tokens.
 
  Let's take a step back and give you an insight into all there is to know about the app's underlying working mechanisms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's a ChatGPT Token?
 
@@ -51,6 +55,10 @@ Let's enter some sample text, such as:
 
 ![Tokenizer calculation from OpenAI's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tokenizer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As per the[OpenAI token calculator](https://platform.openai.com/tokenizer) :
 
  A helpful rule of thumb is that one token generally corresponds to \~4 text characters for common English text. This translates to roughly ¾ of a word (100 tokens \~= 75 words).
@@ -62,8 +70,13 @@ Let's enter some sample text, such as:
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
 
  To take it up a notch, you can even sign up for the[ChatGPT Plus Offer](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) , which sets you back by $20 a month. Given the extensive usage and popularity of the entire AI model, here are the top features of the paid subscription model:
@@ -74,16 +87,10 @@ Let's enter some sample text, such as:
 
  If you feel these features are entirely worth it and up your alley, you can enroll for the paid subscription and benefit from them immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT Token Pricing Structure
 
 ![Set of black opened envelope and cash dollars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-karolina-grabowska-4386370.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  There are a few different application models available, which you can choose based on your requirements:
 
 | Model             | Input Price for 1000 tokens (prompt) | Output Price for 1000 tokens (completion) |
@@ -101,8 +108,9 @@ Let's enter some sample text, such as:
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Maximum Token Limits
 
  Each model allows you to set the maximum number of tokens within each query. This method controls the maximum number of tokens the application generates in a single call, limiting the output. The max\_token feature is quite useful, especially when you want to control the length of your output while avoiding overusing your token usage and credits. The default length is fixed at 2,048 tokens, while the maximum can be set at 4,096 tokens.
@@ -125,23 +133,17 @@ Let's enter some sample text, such as:
 
  For example, within the ChatGPT model, the**prompt\_tokens + max\_tokens <= 4096** tokens**.**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Learn to Control Your ChatGPT Prompts for Best Results
 
  No matter how you use the AI-driven application, chances are you will have to devise ways to play smartly with your questions and phrases. Depending on your usage patterns, you will likely use ChatGPT extensively for every task.
 
  To get the best results, you must learn how to work with the token methodology and enhance your skills to ensure your usage limits remain intact while giving you the best possible answers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,4 +152,24 @@ Let's enter some sample text, such as:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-football-video-analysis-top-youtube-infographics-for-2024/"><u>[New] Football Video Analysis Top YouTube Infographics for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-microphone-for-youtuber/"><u>[Updated] 2024 Approved Best Microphone for YouTuber</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-obs-studio-for-ps4-step-by-step-screen-capture/"><u>[Updated] In 2024, Obs Studio for PS4 Step-by-Step Screen Capture</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airtags-hidden-safety-feature-issue-potential-risks-and-easy-fixes-zdnet/"><u>AirTag's Hidden Safety Feature Issue: Potential Risks and Easy Fixes | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dasungs-colorful-new-addition-to-the-market-a-849-12-inch-flexible-touchscreen-paperlike-monitor/"><u>Dasung's Colorful New Addition to the Market: A $849, 12-Inch Flexible Touchscreen Paperlike Monitor</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-itel-a60-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Itel A60 FRP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-battery-life-with-apple-watchs-low-power-mode-a-guide-for-optimal-performance-discover-how-at-zdnet/"><u>Mastering Battery Life with Apple Watch's Low Power Mode - A Guide for Optimal Performance | Discover How at ZDNET</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-common-h264-file-errors/"><u>Mending Common H.264 File Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-watching-usb-files-via-vu-smarttv-system/"><u>Step-by-Step Tutorial: Watching USB Files via VU SmartTV System</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-insiders-guide-to-mastering-igtv/"><u>The Insider's Guide to Mastering IGTV</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-top-7-alternatives-to-sharex-for-cross-platform-compatibility/"><u>The Ultimate List of Top 7 Alternatives to ShareX for Cross-Platform Compatibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-easy-split-screen-video-editing-tools-for-quick-and-effortless-split-screen-creation/"><u>Top 5 Easy Split Screen Video Editing Tools for Quick and Effortless Split-Screen Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-picks-the-ultimate-apps-for-downloading-and-sharing-your-festive-holiday-videography/"><u>Top Picks: The Ultimate Apps for Downloading and Sharing Your Festive Holiday Videography</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-substitutes-for-arconai-tv-down-in-providing-continuous-live-streaming-and-kodi-compatible-entertainment/"><u>Top Substitutes for ArconAI TV Down in Providing Continuous Live Streaming & Kodi-Compatible Entertainment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-techniques-for-seamless-mp4-to-hevc-transformation-while-preserving-video-excellence/"><u>Top Techniques for Seamless MP4 to HEVC Transformation While Preserving Video Excellence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshoot-dvdfab-hd-decrypter-issues-with-effective-solutions/"><u>Troubleshoot DVDFab HD Decrypter Issues with Effective Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-h264-format-problems-for-smooth-video-streaming-in-windows-10/"><u>Troubleshooting H.264 Format Problems for Smooth Video Streaming in Windows 10</u></a></li>
+</ul></div>
 

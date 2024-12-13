@@ -1,7 +1,7 @@
 ---
 title: Who Reigns Supreme? Google’s Bard or Microsoft’s Bing Chat
-date: 2024-08-20T12:08:58.485Z
-updated: 2024-08-21T12:08:58.485Z
+date: 2024-12-08T18:29:07.042Z
+updated: 2024-12-13T17:01:15.533Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
  AGI exhibits intelligence similar to human cognitive capabilities, and[the Turing Test](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/) —a test of a machine's ability to exhibit intelligent behavior indistinguishable from that of a human—remained almost unchallenged in the seven decades since it was first laid out.
@@ -35,24 +39,16 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
@@ -72,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -87,8 +84,9 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
@@ -105,27 +103,22 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
  Fortunately for comedians everywhere and the human race at large, none of the models were capable of generating an original joke.
@@ -146,14 +139,11 @@ You read it here first, folks.
 
  If you'd like to create great AI art without worrying that somebody's looking over your shoulder, it's easy to run an art AI model on your local machine, too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +152,24 @@ You read it here first, folks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-transform-your-short-form-content-top-10-mobile-video-cutting-tools/"><u>[New] In 2024, Transform Your Short-Form Content Top 10 Mobile Video Cutting Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-selection-of-non-bandicamp-cam-apps-for-mac-for-2024/"><u>[New] Ultimate Selection of Non-Bandicamp Cam Apps for Mac for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-security-alert-unpacking-the-workings-and-dangers-of-prompt-injection-attacks/"><u>AI Security Alert: Unpacking the Workings & Dangers of Prompt Injection Attacks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beginners-blueprint-downloading-and-installing-llama-2/"><u>Beginner's Blueprint: Downloading & Installing Llama 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cryptos-and-chatbots-top-5-collaboration-benefits/"><u>Cryptos and Chatbots: Top 5 Collaboration Benefits</u></a></li>
+<li><a href="https://article-tips.techidaily.com/exploring-dji-phantom-3s-advanced-aerial-capabilities/"><u>Exploring DJI Phantom 3’S Advanced Aerial Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-authenticity-of-truthgpt-coin-unveiling-its-legitimacy/"><u>Exploring the Authenticity of TruthGPT Coin: Unveiling Its Legitimacy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-archive-and-retrieve-your-chatgpt-exchange-history-successfully/"><u>How to Archive and Retrieve Your ChatGPT Exchange History Successfully</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-windows-10-installation-errors-successfully/"><u>How to Fix Windows 10 Installation Errors Successfully</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-your-network-speed-with-newly-released-wlan-drivers-compatible-with-win11-10-8-and-n7/"><u>Improve Your Network Speed with Newly Released WLAN Drivers – Compatible with Win11, 10, 8 & N7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introduce-a-cost-effective-localized-chatbot-model/"><u>Introduce a Cost-Effective Localized Chatbot Model</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguard-your-sensitive-information-the-downsides-of-trusting-it-with-chatgpt/"><u>Safeguard Your Sensitive Information: The Downsides of Trusting It with ChatGPT</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968420614-top-rated-free-motherboard-drivers-for-your-asus-rog-strix-z270-e-enhance-gaming-performance-now/"><u>Top-Rated Free Motherboard Drivers for Your ASUS ROG Strix Z270-E: Enhance Gaming Performance Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-written-communication-with-ai-companions/"><u>Transform Written Communication with AI Companions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/whats-behind-chatgpt-unleashing-limitless-creative-outputs/"><u>What's Behind ChatGPT? Unleashing Limitless Creative Outputs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-blue-screen-blues-heres-how-to-end-the-loop-of-unexpected-reboots/"><u>Windows 10 Blue Screen Blues? Here's How to End the Loop of Unexpected Reboots!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-against-latency-top-fixes-to-reduce-high-ping-while-playing-valheim-on-windows-pc/"><u>Winning Against Latency: Top Fixes to Reduce High Ping While Playing Valheim on Windows PC</u></a></li>
+</ul></div>
 

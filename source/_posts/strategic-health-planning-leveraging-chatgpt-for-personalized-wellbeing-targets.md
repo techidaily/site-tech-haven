@@ -1,7 +1,7 @@
 ---
 title: "Strategic Health Planning: Leveraging ChatGPT for Personalized Wellbeing Targets"
-date: 2024-08-20T12:07:15.913Z
-updated: 2024-08-21T12:07:15.913Z
+date: 2024-12-08T17:36:38.596Z
+updated: 2024-12-13T17:45:52.781Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 
  As a workaround, we can use OpenAI's API and LangChain to provide ChatGPT with custom data and updated info past 2021 to create a custom ChatGPT instance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Provide ChatGPT with Custom Data?
 
  Feeding ChatGPT with custom data and providing updated information beyond its knowledge cutoff date provides several benefits over just using ChatGPT as usual. Here are a few of them:
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 * **Current and Accurate Information:** Access to updated information ensures that ChatGPT stays current with the latest developments and knowledge. It can provide accurate responses based on recent events, news, or research, making it a more reliable source of information.
 
  Now that you understand the importance of providing custom data to ChatGPT, here's a step-by-step on how to do so on your local computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 1: Install and Download Software and Pre-Made Script
 
@@ -48,15 +56,17 @@ Start by installing:
 ![Adding Python to PATH](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/1-download-python.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When Installing Microsoft C++, you'll want to install**Microsoft Visual Studio Build Tools** first. Once installed, you can tick the**Desktop development with C++** option and click**Install** with all the optional tools automatically ticked on the right sidebar.
 
 ![Installing Microsoft C++ through Build Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-install-c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now that you have installed the latest versions of Python3, Git, and Microsoft C++, you can download the Python script to easily query custom local data.
 
 **Download:** [ChatGPT-retrieval script](https://github.com/techleadhd/chatgpt-retrieval) (Free)
@@ -67,9 +77,6 @@ Start by installing:
 
 Once downloaded, we can now set up a local environment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 2: Set Up the Local Environment
 
  To set up the environment, you'll need to open a terminal in the chatgpt-retrieval-main folder you downloaded. To do that, open**chatgpt-retrieval-main** folder, right-click, and select**Open in Terminal** .
@@ -86,9 +93,6 @@ pip install langchain openai chromadb tiktoken unstructured
 
 ![Creating secret API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/generate-api-key.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You will be provided with a string of characters. This is your OpenAI API key. Copy it by clicking on the copy icon on the side of the API key. Keep note that this API key should be kept secret. Do not share it with others unless you really intend for them to use it with you.
 
  Once copied, return to the chatgpt-retrieval-main folder and open constants with**Notepad** . Now replace the placeholder with your API key. Remember to save the file!
@@ -103,10 +107,11 @@ pip install langchain openai chromadb tiktoken unstructured
 
 ![Adding custom data for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can see from the screenshot above, I've added a text file containing a made-up personal schedule, an article I wrote on[AMD's Instinct Accelerators](https://www.makeuseof.com/what-are-amd-instinct-ai-accelerators/) , and a PDF document.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 4: Querying ChatGPT Through Terminal
 
@@ -126,14 +131,12 @@ Make sure to put your questions in quotation marks.
 
 ![Asking custom ChatGPT about topic outside knowledge cut off data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/m250x.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  As you can see, it correctly described the AMD Instinct MI250x, which was released after ChatGPT -3's knowledge cutoff date.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Limitations of Custom ChatGPT
 
  Although feeding GPT-3.5 with custom data opens more ways to apply and use the LLM, there are a few drawbacks and limitations.
@@ -148,14 +151,11 @@ Make sure to put your questions in quotation marks.
 
  Providing custom data to ChatGPT is a powerful way to get more out of the model. Through this method, you can feed the model with any text data you want and prompt it just like regular ChatGPT, albeit with some limitations. However, this will change in the future as it becomes easier to integrate our data with the LLM, along with access to the latest GPT-4 model.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +164,22 @@ Make sure to put your questions in quotation marks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-navigating-the-process-youtube-clips-become-engaging-animation-gifs/"><u>[New] 2024 Approved Navigating the Process YouTube Clips Become Engaging Animation Gifs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-craft-a-richer-user-experience-in-windows-photos-with-music-and-aesthetic-filters/"><u>[New] Craft a Richer User Experience in Windows Photos with Music and Aesthetic Filters</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-avoiding-the-ignored-making-your-video-a-staff-pick-on-vimeo/"><u>[Updated] Avoiding the Ignored Making Your Video a Staff Pick on Vimeo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-hdr-photography-capabilities-on-iphone/"><u>[Updated] Maximizing HDR Photography Capabilities on iPhone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-civi-3-disney-100th-anniversary-edition-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi Civi 3 Disney 100th Anniversary Edition? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/boost-stories-interaction-with-peculiar-creative-questions/"><u>Boost Stories Interaction with Peculiar Creative Questions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-docs-with-chatgpt-technology-6-innovative-applications-to-transform-pdfs-into-conversations/"><u>Enhance Your Docs with ChatGPT Technology: 6 Innovative Applications to Transform PDFs Into Conversations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-downsides-7-key-arguments-against-generative-ai-integration-in-messengers/"><u>Exploring the Downsides: 7 Key Arguments Against Generative AI Integration in Messengers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-chatgpt-experience-on-macos/"><u>Maximizing ChatGPT Experience on macOS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/metaverse-vs-multiverse-what-are-the-differences-complete-guide-for-2024/"><u>Metaverse Vs. Multiverse What Are the Differences [Complete Guide] for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/save-money-and-enhance-productivity-with-these-6-free-options-similar-to-openais-sora/"><u>Save Money & Enhance Productivity with These 6 FREE Options Similar to OpenAI’s Sora</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/iques-to-improve-video-visibility-on-youtube-platform/"><u>Techniques to Improve Video Visibility on YouTube Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-quintessential-elements-behind-chatgpts-unprecedented-surging-popularity-and-success/"><u>The Quintessential Elements Behind ChatGPT's Unprecedented Surging Popularity and Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-your-chatgpt-experience-a-plugin-journey/"><u>Transforming Your ChatGPT Experience: A Plugin Journey</u></a></li>
+</ul></div>
 

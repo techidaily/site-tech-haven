@@ -1,7 +1,7 @@
 ---
 title: How to Fix Persistent Lagging & Crashing in Warzone 2.0 on Windows/Mac Devices
-date: 2024-08-20T12:07:38.008Z
-updated: 2024-08-21T12:07:38.008Z
+date: 2024-12-11T21:28:03.459Z
+updated: 2024-12-13T20:45:19.717Z
 tags:
   - win11
   - win10
@@ -49,6 +49,10 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
@@ -56,8 +60,9 @@ The outdated or broken graphics driver often crashes the game.
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Verify the game files
 
  The game crash issue can also be caused by the corrupted game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -65,16 +70,23 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -83,9 +95,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -105,16 +114,10 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -136,8 +139,6 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +146,22 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-digital-repository-open-source-game-tunes-for-2024/"><u>[New] Digital Repository Open Source Game Tunes for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-rogelikes-past-present-and-emerging-futures/"><u>[New] Rogelikes Past, Present, & Emerging Futures</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mycam-review-a-step-toward-future-proofing-your-videos/"><u>[Updated] 2024 Approved MyCam Review A Step Toward Future-Proofing Your Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-most-immersive-iphone-vr-games-ever/"><u>[Updated] The Most Immersive iPhone VR Games Ever</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-extraordinary-assessment-and-alternative-choices/"><u>2024 Approved Extraordinary Assessment & Alternative Choices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-discussion-saving-techniques-for-easy-access-in-the-future/"><u>ChatGPT Discussion Saving Techniques for Easy Access in the Future</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diagnosing-and-fixing-integration-glitches-between-chatgpt-and-plugin-systems/"><u>Diagnosing and Fixing Integration Glitches Between ChatGPT and Plugin Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-most-exciting-features-of-bard-ai-launched-at-google-io-2023-top-seven-highlights/"><u>Explore the Most Exciting Features of Bard AI, Launched at Google I/O 2023: Top Seven Highlights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gratis-strategies-for-streaming-c-span-videos-online/"><u>In 2024, Gratis Strategies for Streaming C-Span Videos Online</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-moto-g-stylus-5g-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Moto G Stylus 5G (2023) Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-risks-seven-compelling-reasons-to-rethink-generative-ai-use-in-communication-apps/"><u>Navigating Risks: Seven Compelling Reasons to Rethink Generative AI Use in Communication Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-mundane-hr-tasks-using-just-5-powerful-chatgpt-prompts/"><u>Revolutionize Mundane HR Tasks Using Just 5 Powerful ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-bard-googles-visionary-step-beyond-chatgpt/"><u>Unleashing 'Bard': Google's Visionary Step Beyond ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/writing-wonders-how-to-triumph-over-machine-penning/"><u>Writing Wonders: How to Triumph Over Machine Penning</u></a></li>
+</ul></div>
 

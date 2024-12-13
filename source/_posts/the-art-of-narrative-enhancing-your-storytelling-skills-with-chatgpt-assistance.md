@@ -1,7 +1,7 @@
 ---
 title: "The Art of Narrative: Enhancing Your Storytelling Skills with ChatGPT Assistance"
-date: 2024-08-20T12:05:44.309Z
-updated: 2024-08-21T12:05:44.309Z
+date: 2024-12-10T19:30:05.394Z
+updated: 2024-12-13T16:20:37.712Z
 tags:
   - chatgpt
   - open-ai
@@ -36,16 +36,17 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
  So, which one should you be using?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is GitHub Copilot?
 
  GitHub Copilot is an AI-powered code completion tool developed by GitHub in collaboration with OpenAI. With the power of GPT-4, it provides real-time code suggestions as you type, helping to streamline the coding process. It is a paid service that you can easily use with most popular environments, including Visual Studio, Visual Studio Code, Vim/Neovim, Azure Data Studio, and JetBrains.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is ChatGPT?
 
  ChatGPT is OpenAI's chat-optimized AI chatbot. While not specifically designed for programming assistance like GitHub Copilot, ChatGPT’s strength lies in its ability to comprehend and generate text in a manner that closely mimics human language.
@@ -53,8 +54,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  This makes it a good programming tool as it can help clarify concepts, provide explanations, and even generate pseudocode based on user input. ChatGPT is a versatile tool. You can use it for non-coding tasks like planning, brainstorming, and problem-solving, all of which are useful in software development.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Comparing GitHub Copilot and ChatGPT
 
  So, which AI tool should you use for programming? Here’s a break-down of the strengths and weaknesses of each tool:
@@ -84,19 +86,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Easy code refactoring with GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/using-requests-in-github-copilot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your subscription to GitHub Copilot also comes bundled with GitHub Copilot Chat. You can use it to ask coding questions, debug your program, and generate new lines of code. GitHub Copilot Chat generates usable code that will be a good fit for your project:
 
 ![Customized code generation with GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/generate-code-with-github-copilot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If your primary focus is on programming, and you're looking for a tool to help you with writing, debugging, and refactoring code, GitHub Copilot is the clear choice. Its ability to generate accurate and contextually relevant code snippets can significantly speed up development workflows and reduce coding errors.
 
  Furthermore, its integration with popular IDEs, multi-language support, and collaborative coding system ensures GitHub Copilot works well on any team-based project. Whether you're programming for a passion project or a team player in a large company, GitHub Copilot provides advanced AI capabilities that make coding fast and easy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Better for Learning
 
@@ -104,18 +104,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Asking development related questions with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/asking-developer-questions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re learning to code, you can prompt ChatGPT to generate pseudocode to help you explore different solutions for a specific problem.
 
  Here’s how ChatGPT provided a way to query the minimum, maximum, and average price of products within a collection class:
 
 ![psedocode generation with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/generating-psudo-code-with-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re looking at a snippet of code you don’t quite understand, you can also use ChatGPT to reverse engineer it:
 
 ![Reverse engineering code snippet with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-explaining-code.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When it comes to understanding concepts or getting a detailed explanation of a coding topic, ChatGPT excels. Its ability to generate human-like responses makes it an ideal learning tool that any programmer can use. Whether it's a complex algorithm or a programming principle you're trying to grasp, ChatGPT can break it down into understandable parts.
 
@@ -125,9 +130,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Using both ChatGPT and GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/using-chatgpt-and-github-copilot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Why choose between GitHub Copilot and ChatGPT when you can use both to your benefit? Integrating these tools into your workflow can offer the best of both worlds.
 
  Use GitHub Copilot for code completion and ChatGPT to understand concepts and reinforce learning. Both together should provide enough help for you to program a well-thought-out project you’ll be happy to show off.
@@ -142,14 +144,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Aside from Claude AI, there are no really good alternatives to ChatGPT unless you want to spend time setting up a local chatbot. In that case, you may be interested in chatbots like GPT4All, Nvidia Chat with RTX, and the various BERT models using TextGen WebUI.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +157,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastering-the-art-of-green-screen-filming/"><u>[Updated] 2024 Approved Mastering the Art of Green Screen Filming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-step-by-step-guide-for-efficient-documentation-of-your-online-collaborations/"><u>[Updated] 2024 Approved Step-by-Step Guide for Efficient Documentation of Your Online Collaborations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-innovative-alternatives-for-affordable-camera-screenshots/"><u>2024 Approved Innovative Alternatives for Affordable Camera Screenshots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-how-to-on-using-voice-input-in-google-docs/"><u>2024 Approved The Ultimate How-To on Using Voice Input in Google Docs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/days-gone-multiplayer-release-pc-version-now-available/"><u>Days Gone Multiplayer Release - PC Version Now Available</u></a></li>
+<li><a href="https://fox-making.techidaily.com/denon-dj-mixamo-dx-3-compatibility-with-the-newly-released-mcx8000-controller-download-guide-and-maps/"><u>Denon DJ Mixamo DX-3 Compatibility with the Newly Released MCX8000 Controller: Download Guide and Maps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-windows-bsod-correct-wdf-issues/"><u>Eliminating Windows BSOD: Correct WDF Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-role-of-chatbot-intelligence-in-shaping-future-content-strategies/"><u>Exploring the Role of Chatbot Intelligence in Shaping Future Content Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-innovation-for-simplifying-hr-workflows/"><u>GPT Innovation for Simplifying HR Workflows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-t2-pro-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo T2 Pro 5G?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/installing-and-integrating-codegpt-with-your-vscode-workspace-a-comprehensive-tutorial/"><u>Installing & Integrating CodeGPT with Your VSCode Workspace – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lenovo-ideapad-notebook-assessment-an-efficient-device-with-impressive-design/"><u>Lenovo Ideapad Notebook Assessment: An Efficient Device with Impressive Design</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-this-device-can-perform-faster/"><u>SOLVED: This Device Can Perform Faster</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/swiftly-sidestep-common-chatgpt-login-blockades/"><u>Swiftly Sidestep Common ChatGPT Login Blockades</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-enigma-of-windows-11s-invisibles-menus-and-tools/"><u>The Enigma of Windows 11'S Invisibles Menus and Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-essence-of-chatgpt-forging-ai-driven-innovation-pathways/"><u>The Essence of ChatGPT: Forging AI-Driven Innovation Pathways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-folklore-merging-human-art-with-machine-learning/"><u>The Future of Folklore: Merging Human Art with Machine Learning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/trust-issues-chatgpts-shortcom-written-by-assistant/"><u>Trust Issues: ChatGPT's Shortcom Written by Assistant</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/your-pathway-to-a-successful-llama-2-installation-on-your-device/"><u>Your Pathway to a Successful Llama 2 Installation on Your Device</u></a></li>
+</ul></div>
 

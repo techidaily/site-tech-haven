@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Doc Potential on macOS with Craft: Expert Usage Techniques Revealed"
-date: 2024-12-01T22:31:58.385Z
-updated: 2024-12-07T19:09:38.186Z
+date: 2024-12-09T17:29:42.153Z
+updated: 2024-12-13T20:10:01.067Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,19 +129,24 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-viral-video-vanguards-top-10-with-staggering-subscriber-growth/"><u>[New] 2024 Approved Viral Video Vanguards Top 10 with Staggering Subscriber Growth</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-revealing-10-hidden-viewers-of-stories/"><u>[New] In 2024, Revealing 10 Hidden Viewers of Stories</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-crafting-unique-valorant-thumbnails-with-style-and-flair/"><u>2024 Approved Crafting Unique Valorant Thumbnails with Style and Flair</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/curtailing-fictional-insights-from-ai-through-precise-prompting/"><u>Curtailing Fictional Insights From AI Through Precise Prompting</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-sound-troubleshooting-for-windows-11-users-now-playing/"><u>Cyberpunk 2077 Sound Troubleshooting for Windows 11 Users - Now Playing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96160771-9780997722246-diary-of-a-beautiful-disaster/"><u>Diary of a Beautiful Disaster | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-top-7-real-world-applications-of-chatgpt-today/"><u>Discover the Top 7 Real-World Applications of ChatGPT Today</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/fixing-save-file-issues-in-genshin-impact-for-seamless-gameplay-continuation/"><u>Fixing Save File Issues in Genshin Impact for Seamless Gameplay Continuation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-enroll-in-chatgpt-plugin-upgrades-now/"><u>How to Enroll in ChatGPT Plugin Upgrades Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-ai-communication-best-tools-for-crafting-ideal-ai-prompts/"><u>Mastering AI Communication: Best Tools for Crafting Ideal AI Prompts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategic-advancement-in-the-office-how-chatgpt-can-revamp-your-work-processes/"><u>Strategic Advancement in the Office: How ChatGPT Can Revamp Your Work Processes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-win11-external-drive-access/"><u>Streamlining Win11 External Drive Access</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-emergence-of-ai-powered-search-shifting-paradigms-in-website-visibility-and-online-traffic-generation/"><u>The Emergence of AI-Powered Search: Shifting Paradigms in Website Visibility and Online Traffic Generation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/thinking-about-leap-is-a-revamped-apple-watch-ideal-for-me/"><u>Thinking About Leap: Is a Revamped Apple Watch Ideal for Me?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-resolving-bandwidth-issues-in-high-quality-obs-for-2024/"><u>[New] Resolving Bandwidth Issues in High Quality OBS for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-techniques-for-dell-pc-screen-saving/"><u>[Updated] 2024 Approved Essential Techniques for Dell PC Screen Saving</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-imitation-ingenuity-generating-parodies-of-films/"><u>[Updated] 2024 Approved Imitation Ingenuity Generating Parodies of Films</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-science-behind-your-top-ranked-youtube-videos/"><u>[Updated] The Science Behind Your Top-Ranked YouTube Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apples-airpower-update-released-are-they-bringing-back-the-original-qi-charger/"><u>Apple's AirPower Update Released - Are They Bringing Back the Original Qi Charger?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-smartphones-cherished-staff-a-behind-the-scenes-look/"><u>Discover the Smartphones Cherished Staff - A Behind-the-Scenes Look</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-a25-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy A25 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-storytelling-through-scenery/"><u>In 2024, Unveiling Storytelling Through Scenery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-the-art-of-location-sharing-on-macos-tips-tricks-and-why-it-matters/"><u>Navigate the Art of Location Sharing on macOS: Tips, Tricks and Why It Matters.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/setting-up-automatic-tab-closure-on-safari-in-macos-catalina-a-step-by-step-guide/"><u>Setting up Automatic Tab Closure on Safari in macOS Catalina: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-y36i-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo Y36i to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-detecting-and-eliminating-mobile-phone-spyware-tips-from-zdnet/"><u>Step-by-Step Guide: Detecting & Eliminating Mobile Phone Spyware - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/swipe-away-the-dirt-embrace-apple-airplay-the-select-hotel-experience-redefined-by-wireless-streaming-technology/"><u>Swipe Away the Dirt, Embrace Apple AirPlay – The Select Hotel Experience Redefined by Wireless Streaming Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-real-cost-behind-complimentary-cellphones-from-telecom-companies-insights-and-facts/"><u>The Real Cost Behind Complimentary Cellphones From Telecom Companies: Insights and Facts</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-p40-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from P40</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-choosing-the-perfect-small-tablets-in-202-cued-industry-experts-weigh-in/"><u>Ultimate Guide to Choosing the Perfect Small Tablets in 202 Cued: Industry Experts Weigh In</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-smallest-high-performance-tablets-of-2024-vetted-and-analyzed-by-industry-experts-choice/"><u>Ultimate Guide to the Smallest High-Performance Tablets of 2024 - Vetted and Analyzed by Industry Experts Choice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-unique-features-of-apples-ipad-vs-traditional-tablets/"><u>Unveiling the Unique Features of Apple's iPad vs Traditional Tablets</u></a></li>
 </ul></div>
 

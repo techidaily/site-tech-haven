@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up Microsoft Copilot on a macOS System"
-date: 2024-08-20T12:03:17.280Z
-updated: 2024-08-21T12:03:17.280Z
+date: 2024-12-06T18:12:57.034Z
+updated: 2024-12-13T22:13:15.599Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 
 ![Runway Gen 2 Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/runway-gen-2-home-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Free:** 125 Credits
 * **Standard:** $15/month ($12 when paid annually) for 625 monthly credits
 
@@ -42,15 +46,17 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
  Judging from the quality of Sora-generated clips shared by OpenAI, Sora bests Runway Gen-2 as an AI text-to-video generator. However, given the speed of development in the AI space (and the fact that Runway launched Gen-2 about a year before the first preview of Sora was released), it's clear OpenAI's Sora and Runway Gen-2 (and its future versions) will battle for the best text-to-video AI generator title.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 [Pika](https://pika.art/)
 
 ![screenshot of pika labs homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pika-labs-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * **Free:** 250 initial credits (free 30 credits daily after exhausting initial credits)
 * **Standard:** $10/month ($8 when paid annually) for 700 monthly credits
 
@@ -74,9 +80,6 @@ A stylish woman walks down a Tokyo street filled with warm glowing neon and anim
 
 ![screenshot of pixverse homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pixverse-homepage.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 * **Free**
 
  Pixverse is another alternative to Open AI's Sora that lets you create realistic videos with text prompts. Pixverse also offers two platforms for video creation: the web platform and the Discord server.
@@ -97,6 +100,10 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
 ![screenshot of kaiber homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-kaiber-homepage.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Free:** 100 initial credits
 * **Explorer:** $5/month for 300 credits.
 
@@ -113,8 +120,9 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 ![screenshot of synthesia homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-synthesia-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * **Free:** Test video
 * **Starter:** $29/month ($22 when billed annually) for 10 minutes of video.
 
@@ -126,16 +134,10 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  Synthesia is a good alternative to Sora for creating engaging and personalized videos for education, marketing, or entertainment purposes.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 [Vidnoz](http://www.vidnoz.com/)
 
 ![Screenshot of vidnoz homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-vidnoz-homepage.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * **Free:** 1 minute/day
 * **Starter:** $19.99 ($14.99 when billed annually) for 10 minutes of watermark-free videos
 
@@ -147,14 +149,11 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  If what followed OpenAI's launch of ChatGPT is anything to go by, then you can expect more AI text-to-video platforms to be introduced. You can also expect Google's Lumiere and Meta's Make-A-Video to become accessible to the public.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -163,4 +162,19 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-no-money-more-matches-live-record-and-trim-soccer-games/"><u>[Updated] No Money, More Matches Live, Record & Trim Soccer Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-to-purge-background-from-photos-using-photopea/"><u>[Updated] Techniques to Purge Background From Photos Using Photopea</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-tutorial-on-reducing-file-size-by-changing-your-24-bit-wavs-to-efficient-16-bit-audio/"><u>Easy Tutorial on Reducing File Size by Changing Your 24-Bit WAVs to Efficient 16-Bit Audio</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-editing-youtube-videos-pre-upload-cuts-post-upload-adjustments-and-download-modifications/"><u>Effective Strategies for Editing YouTube Videos: Pre-Upload Cuts, Post-Upload Adjustments & Download Modifications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-rip-and-backup-of-despicable-me-2-on-dvd-for-pc-and-mobile-viewing-do-it-your-way/"><u>Effortless Rip-and-Backup of 'Despicable Me 2' On DVD for PC and Mobile Viewing - Do It Your Way!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortlessly-transform-your-aiff-files-into-ogg-format-at-no-cost/"><u>Effortlessly Transform Your AIFF Files Into Ogg Format at No Cost</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-charting-success-navigating-youtube-statistics-with-social-blade/"><u>In 2024, Charting Success Navigating YouTube Statistics with Social Blade</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-filmora-13-editor-download-for-free/"><u>In 2024, Filmora 13 Editor Download for Free</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-note-12-4g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi Note 12 4G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-instagrams-inconsistent-video-timings/"><u>Navigating Instagram's Inconsistent Video Timings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-win1011s-audacity-audio-glitches/"><u>Solving Win10/11's Audacity Audio Glitches</u></a></li>
+<li><a href="https://blog-min.techidaily.com/vp10-explained-a-complete-guide-to-understanding-the-next-gen-video-coding-standard/"><u>VP10 Explained: A Complete Guide to Understanding the Next-Gen Video Coding Standard</u></a></li>
+</ul></div>
 

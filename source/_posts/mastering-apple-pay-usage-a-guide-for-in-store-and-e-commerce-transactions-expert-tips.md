@@ -1,7 +1,7 @@
 ---
 title: "Mastering Apple Pay Usage: A Guide for In-Store and E-Commerce Transactions - Expert Tips"
-date: 2024-12-02T17:50:28.968Z
-updated: 2024-12-07T16:22:57.065Z
+date: 2024-12-08T22:54:14.617Z
+updated: 2024-12-13T21:03:45.256Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Apple Pay online and in stores
@@ -45,7 +45,7 @@ Tap on the Wallet app to open it.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
@@ -78,6 +78,10 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -100,15 +104,7 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I set up Apple Pay from my iPhone Settings?
 
@@ -127,6 +123,10 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I use Apple Pay online?
 
 In addition to using Apple Pay at stores, you also can use it in some apps and with the many online retailers that support it. In fact, the list of online retailers that _don't_ support Apple Pay is shrinking every day. As of this writing, Walmart and Home Depot are among the few major retailers that don't (yet) accept Apple Pay for online purchases.
@@ -136,10 +136,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 **Also: [Venmo and PayPal now offer 'Tap to Pay' on iPhone for businesses](https://www.zdnet.com/article/venmo-and-paypal-now-offer-tap-to-pay-on-iphone-for-businesses/)**
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Apple Cash?
 
@@ -162,6 +158,10 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,20 +197,17 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-cutting-edge-strategies-for-igtv-backgrounds/"><u>[New] Cutting-Edge Strategies for IGTV Backgrounds</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-ultimate-guide-how-to-make-money-from-instagram/"><u>[Updated] 2024 Approved Ultimate Guide How to Make Money From Instagram</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-eight-outstanding-choices-for-private-video-communication/"><u>2024 Approved Eight Outstanding Choices for Private Video Communication</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-riding-the-viral-wave-transform-your-brand-on-tiktok/"><u>2024 Approved Riding the Viral Wave Transform Your Brand on TikTok</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-its-legal-concerns-revolutionizing-googles-news-algorithm-plus-strategies-for-improved-mobile-internet-during-holidays/"><u>ChatGPT and Its Legal Concerns: Revolutionizing Google's News Algorithm Plus Strategies for Improved Mobile Internet During Holidays</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/cutting-edge-srt-modifications-for-modern-computers/"><u>Cutting-Edge SRT Modifications for Modern Computers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-xs-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone XS If Youve Tried Everything</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-your-files-with-these-gpt-interaction-apps/"><u>Master Your Files with These GPT Interaction Apps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/share-your-chatgpt-exchanges-with-ease-a-step-by-step-guide/"><u>Share Your ChatGPT Exchanges with Ease - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-converting-dvdmedia-files-to-mp4-format-on-a-mac/"><u>Step-by-Step Guide: Converting DVDMedia Files to MP4 Format on a Mac</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategies-to-bypass-chatgpts-input-limits/"><u>Strategies to Bypass ChatGPT's Input Limits</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-overcoming-the-black-ops-cold-war-stuck-on-shader-compile-error-solution-included/"><u>Troubleshooting Guide: Overcoming the Black Ops Cold War 'Stuck on Shader Compile' Error (Solution Included)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-top-8-methods-to-resolve-multiversus-game-crashes/"><u>Ultimate Guide: Top 8 Methods to Resolve MultiVersus Game Crashes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-potential-with-ai-harnessing-the-power-of-chabtgpt-for-inspired-content-creation/"><u>Unleashing Potential with AI: Harnessing the Power of ChabtGPT for Inspired Content Creation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-potential-how-chatgpt-and-whisper-api-integration-revolutionizes-business-operations/"><u>Unlocking Potential: How ChatGPT & Whisper API Integration Revolutionizes Business Operations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-from-idea-to-action-founding-your-consumer-product-assessment-site/"><u>[New] 2024 Approved From Idea to Action Founding Your Consumer Product Assessment Site</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quick-fixes-for-seamless-phone-screencasting/"><u>[New] In 2024, Quick Fixes for Seamless Phone Screencasting</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-vs-video-edition-gopro-hero-or-polaroid-cube/"><u>[New] In 2024, Vs. Video Edition GoPro Hero or Polaroid Cube?</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-sword-and-fairy-7-keeps-crashing-on-pc/"><u>[SOLVED] Sword and Fairy 7 Keeps Crashing on PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-get-a-youtube-video-trending/"><u>How to Get a YouTube Video Trending</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-seamlessly-connect-chatgpt-with-siri-on-ios-devices/"><u>How to Seamlessly Connect ChatGPT with Siri on iOS Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722890149483-hulu-viewing-tips-for-lg-smart-tv-users-get-started-today/"><u>Hulu Viewing Tips for LG Smart TV Users - Get Started Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/human-actions-vs-natural-variability-in-global-warming-debates/"><u>Human Actions Vs. Natural Variability in Global Warming Debates</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-assistance-at-fingertips-bing-ai-on-the-go-with-android-keyboards/"><u>Immediate Assistance at Fingertips: Bing AI on the Go with Android Keyboards</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/jumping-to-ais-next-chapter-gpt-4-vs-gpt-35/"><u>Jumping to AI's Next Chapter: GPT-4 Vs. GPT-3.5</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unlocking-the-upside-exploring-asmrs-advantages-for-2024/"><u>Unlocking the Upside Exploring ASMR's Advantages for 2024</u></a></li>
 </ul></div>
 

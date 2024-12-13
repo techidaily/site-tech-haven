@@ -1,7 +1,7 @@
 ---
 title: "From GPT-3.5 to GPT-4: Spotlight on the Five Pivotal Evolutionary Steps in Generative Pre-Trained Transformer Technology"
-date: 2024-08-20T12:05:07.797Z
-updated: 2024-08-21T12:05:07.797Z
+date: 2024-12-07T17:36:47.842Z
+updated: 2024-12-13T17:24:50.921Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/e4153afed1e92622400da1f23af00065eea1b192c
 
  Of course, some may see[using AI to provide mental health advice as risky](https://www.makeuseof.com/dangers-using-ai-free-therapist-psychiatrist/) . We'll discuss the possible downsides of this a little later.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Monitoring Patient Progress With AI
 
 ![person typing on laptop next to stethoscope on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/stetho-laptop-1.jpg)
@@ -45,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/e4153afed1e92622400da1f23af00065eea1b192c
 
  But there are risks to consider here, and the AI system in use would have to be very thoroughly trained on how to spot possible red flags. Still, simply using this as an initial assessment could prove highly beneficial, both to doctors and patients.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Developing New Support Techniques With AI
 
  There's no denying that researchers are still working to further understand our brains and why they give way to mental illnesses. Not only is the origin of mental illness still being researched, but techniques on how to better treat patients are also being developed.
@@ -59,11 +60,16 @@ thumbnail: https://thmb.techidaily.com/e4153afed1e92622400da1f23af00065eea1b192c
  Though this all seems very promising, there are also[dangers associated with using AI](https://www.makeuseof.com/is-ai-dangerous-5-immediate-risks-of-artificial-intelligence/) in the mental health field and other ways that AI can worsen mental health in general.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Can AI Worsen Mental Health?
 
  While AI has significant potential to improve mental healthcare, there are also risks and dangers in the adoption of this fast-evolving technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Increased Reliance on AI
 
@@ -72,8 +78,9 @@ thumbnail: https://thmb.techidaily.com/e4153afed1e92622400da1f23af00065eea1b192c
  So, when AI becomes prominent across various industries, it could have a detrimental effect on mental health. For instance, an individual may opt to[use AI for their education](https://www.makeuseof.com/reasons-teachers-embrace-ai/) , work, entertainment, and other elements of their social life. This, in turn, may lead to something of an AI addiction. There are already plenty of people addicted to social media, online shopping, and online gaming today, which can often give way to feelings of anxiety and very real social and financial problems.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Lack of Human Contact
 
  Humans are, by nature, social beings. So, it can often be hugely beneficial to discuss your feelings with somebody else, instead of dealing with them alone.
@@ -82,14 +89,8 @@ thumbnail: https://thmb.techidaily.com/e4153afed1e92622400da1f23af00065eea1b192c
 
 ![hands reaching out to each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hands-reaching-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  At the moment, humans are seen as much more effective at conducting therapy than machines, and this may always be the case. This is why the application of AI in the mental health field should be regulated and monitored very carefully so that patients are still receiving the best care possible.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### AI Giving Faulty Advice or Solutions
 
  While AI is capable of some amazing things, it is also vulnerable to errors. This is a big concern when AI is being entrusted with people's mental health. Misjudging someone's state of mind, offering ineffective treatment, or misinterpreting important data could be catastrophic for the patient, so there are major considerations that need to be made here.
@@ -97,20 +98,18 @@ thumbnail: https://thmb.techidaily.com/e4153afed1e92622400da1f23af00065eea1b192c
  There are plenty of things that can go wrong while using AI, particularly as it is in its early stages. System malfunctions, software bugs, and improper training can all lead to issues, with malicious attacks also posing a possible risk.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI's Future in Mental Health Must Be Watched Carefully
 
  AI has so much potential that it's no secret why people are so excited about it. However, as is the case with any emerging technology, it is crucial that AI is not too quickly applied or outright misused. In mental healthcare, this could do more harm than good to patients. Time will tell if, or when, AI becomes a key element in the mental health industry and whether this turns out to be a blessing or a curse.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +118,24 @@ thumbnail: https://thmb.techidaily.com/e4153afed1e92622400da1f23af00065eea1b192c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-bridging-the-gap-youtube-editing-mastered-in-imovie-workflows/"><u>[New] 2024 Approved Bridging the Gap YouTube Editing Mastered in iMovie Workflows</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-unleash-potential-the-ultimate-guide-to-spectacous-tiktok-openers-mac/"><u>[New] 2024 Approved Unleash Potential The Ultimate Guide to Spectacous TikTok Openers (Mac)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unlocking-the-secrets-of-integrating-online-videos-in-slides/"><u>[Updated] In 2024, Unlocking the Secrets of Integrating Online Videos in Slides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apple-marks-9-new-mac-variants-as-obsolete-understanding-the-implications-for-consumers-and-resellers-zdnet/"><u>Apple Marks 9 New Mac Variants as Obsolete: Understanding the Implications for Consumers and Resellers | ZDNet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/blending-beats-posting-tunes-on-digital-diaries-for-2024/"><u>Blending Beats Posting Tunes on Digital Diaries for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-playback-of-ogg-media-compatible-windows-versions-including-11-10-8-and-7-explained/"><u>Mastering the Playback of OGG Media: Compatible Windows Versions Including 11, 10, 8, and 7 Explained!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mp4-to-flv-conversion-guide-step-by-step-instructions/"><u>MP4 to FLV Conversion Guide - Step-by-Step Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/octobers-amazing-prime-day-discounts-from-best-buy-are-here-dont-miss-out-cnet/"><u>October's Amazing Prime Day Discounts From Best Buy Are Here! Don't Miss Out | CNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/p90x3-dvd-iphone6/"><u>P90X3 DVDフォームロジック コレクション - iPhone6へ安全な書き戻し方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/paymentconfirmedbutunregisteredaccount/"><u>PaymentConfirmedButUnregisteredAccount – 解決策と注意事項</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pc-dvdwindowsmac/"><u>PCへ移行! DVD画像を簡単に取り込み方「Windows・Macオペレーティングシステム用」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-common-issues-a-step-by-step-guide-to-troubleshoot-4k-video-downloader-problems/"><u>Resolving Common Issues: A Step-by-Step Guide to Troubleshoot 4K Video Downloader Problems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-integration-with-updated-wacom-intuos-controls-effortless-driver-download/"><u>Seamless Integration with Updated Wacom Intuos Controls - Effortless Driver Download</u></a></li>
+<li><a href="https://windows11.techidaily.com/three-steps-for-ditching-microsofts-store/"><u>Three Steps for Ditching Microsoft's Store</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-gt-neo-5-se-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme GT Neo 5 SE Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mp4-mts3/"><u>スマホとパソコンでも使える無料MP4変換器 - MTSファイル対応のベスト3・・・今すぐ始めよう!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pc6/"><u>プログラマブルPCゲーム録画ソフト選び：6組をおすすめします！高解像度、対応機能付き</u></a></li>
+</ul></div>
 

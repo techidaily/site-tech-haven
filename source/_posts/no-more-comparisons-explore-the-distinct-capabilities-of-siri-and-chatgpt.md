@@ -1,7 +1,7 @@
 ---
 title: No More Comparisons - Explore the Distinct Capabilities of Siri and ChatGPT
-date: 2024-08-20T12:05:33.286Z
-updated: 2024-08-21T12:05:33.286Z
+date: 2024-12-10T21:09:58.566Z
+updated: 2024-12-13T19:00:10.270Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
 
 ## Introducing Grok by Elon Musk – Explore Its Capabilities and Find Out the Price Tag
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Elon Musk's AI startup xAI has unveiled Grok, a large language model aiming to compete with other leading models like OpenAI's GPT and Anthropic's Claude.
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
  Grok becomes a new addition to a busy generative AI world, aiming to compete with market-leading opposition OpenAI and its GPT models, along with Anthropic's Claude, Meta's Llama 2, Google's PaLM 2, and countless other LLMs.
 
  Musk has talked xAI's Grok up, but does it have what it takes to compete?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is xAI's Grok?
 
@@ -42,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
  For any casual observer, Musk's chortling about being based is anything but, landing more on the toe-curling plane of discomfort, delivering a visceral sense of embarrassment. But for Musk's legion of fans, xAI's Grok is the long-awaited "answer to the monstrosity of WokeGPT," a reference to the boundaries and perceived neutering of ChatGPT's capabilities by OpenAI.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Does Grok Perform? Is Grok Better Than ChatGPT?
 
  Given only a minute number of users have been given access to Grok so far, most of what we know about its performance comes from xAI. The company was keen to stress that "Grok is still a very early beta product" and that its current performance is "the best we could do with 2 months of training."
@@ -57,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
  Currently, it's difficult to say whether Grok is better than ChatGPT, and it's clear that Grok is speeding forward based on the work already laid out by other AI research companies.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Much Will Grok Cost? Who Can Use Grok?
 
  Grok is still currently in early testing. Limited beta access has been granted to a small number of X Premium Plus users, which currently costs $16 per month. Once Grok leaves its beta period, it will become available to all X Premium Plus subscribers, dangling a weighty AI-shaped carrot over X verification.
@@ -70,22 +80,20 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
  Musk has indicated that a separate version of Grok may launch in the future, but there is little information on that at the current time.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What's Next for xAI's Grok?
 
  xAI's development of Grok ticks off another goal for Musk, who was once part of the OpenAI team. He's long rallied against OpenAI's perceived censorship of ChatGPT, arguing that limiting its capabilities is limiting what people can and should be able to do with such powerful AI tools.
 
  What comes next for Grok is still unknown. While it's clear some limitations are built into Grok, the real test for its boundaries will only become clear once the public gets its hands on it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,4 +102,18 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-volume-ebb-and-flow-operating-systems-methods/"><u>[Updated] 2024 Approved Volume Ebb and Flow Operating Systems Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeted-treasures-your-path-to-preserving-pics-and-vids/"><u>[Updated] In 2024, Tweeted Treasures Your Path to Preserving Pics & Vids</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-the-ultimate-guide-to-the-onetastic-onenote-add-in/"><u>Comprehensive Analysis: The Ultimate Guide to the Onetastic OneNote Add-In</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-locate-a-specific-youtube-ad-saving-techniques-revealed/"><u>How to Locate a Specific YouTube Ad: Saving Techniques Revealed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-opting-for-applecareplus-coverage-worth-your-money-in-the-long-run-lets-find-out/"><u>Is Opting for AppleCare+ Coverage Worth Your Money in the Long Run? Let's Find Out!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/m4apcm/"><u>M4Aファイルの解説：アナログ、PCMへの変換手順</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-ios-media-playback-compatible-apps-and-tricks-for-streamlining-your-m4a-file-experience/"><u>Mastering iOS Media Playback: Compatible Apps and Tricks for Streamlining Your M4A File Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mpeg/"><u>MPEGフォーマット動画から高品質音声抽出テクニック</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-mail-missteps-solutions-for-error-x/"><u>Navigating Through Mail Missteps: Solutions for Error X</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761493-9781622031115-red-hot-and-holy/"><u>Red Hot and Holy | Free Book</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-10-screenrecord-tips-and-tricks-on-a-laptop/"><u>Top 10 ScreenRecord Tips and Tricks on a Laptop</u></a></li>
+</ul></div>
 

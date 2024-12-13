@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Selection of Prime Deals: Save Big on HP, Apple, and Razer Laptops in Our 18-Pick Guide | ZDNET's Tech Savvy Picks"
-date: 2024-12-01T20:30:23.770Z
-updated: 2024-12-07T19:47:26.776Z
+date: 2024-12-08T16:28:20.768Z
+updated: 2024-12-13T21:21:51.515Z
 tags:
   - apple
 categories:
@@ -75,6 +75,10 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41726830000000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -99,10 +103,6 @@ HPZDNET
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Lenovo deals
 
 Lenovo/ZDNET
@@ -111,7 +111,7 @@ Lenovo/ZDNET
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
@@ -122,6 +122,10 @@ Kyle Kucharski/ZDNET
 * [HP Chromebook x360 2-in-1 Laptop for $293 (save $35 at Walmart)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-HD-Touchscreen-2-in-1-Laptop-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Teal-14a-ca0130wm%2F518977383&subId1=zd-__COM_CLICK_ID__-dtp): In [our testing](https://www.zdnet.com/article/this-hp-chromebook-made-living-without-windows-easier-than-i-expected/), we found this 2-in-1 Chromebook easily flexes between a laptop and a tablet, with a large 14-inch screen, comfortable keyboard, and sturdy build.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
 
@@ -138,7 +142,7 @@ Kyle Kucharski/ZDNET
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
@@ -156,16 +160,12 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -230,19 +230,20 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-integrating-social-features-for-playlist-dissemination/"><u>[New] Integrating Social Features for Playlist Dissemination</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-amazing-ig-video-creation/"><u>[Updated] In 2024, Mastering Amazing IG Video Creation</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1-mastering-mobile-excel-table-management-a-user-friendly-guide/"><u>1. Mastering Mobile Excel Table Management: A User-Friendly Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/1719366357478-6-ultimate-methods-to-end-stuck-windows-updates-now/"><u>6 Ultimate Methods to End Stuck Windows Updates Now</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/from-audience-to-advocate-strategies-for-powerful-fb-covers-for-2024/"><u>From Audience to Advocate Strategies for Powerful FB Covers for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-effective-is-chatgpt-in-controlling-smart-home-devices/"><u>How Effective Is ChatGPT in Controlling Smart Home Devices?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-document-analysis-and-interaction-through-powerful-chatgpt-integrated-tools/"><u>Master Document Analysis and Interaction Through Powerful ChatGPT Integrated Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reimagine-your-interactions-with-this-chrome-gpt-companion/"><u>Reimagine Your Interactions with This Chrome GPT Companion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-activation-of-chatgpt-on-linux-a-comprehensive-bavarder-walkthrough/"><u>Seamless Activation of ChatGPT on Linux: A Comprehensive Bavarder Walkthrough</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-microsoft-copilot-on-a-macos-system/"><u>Step-by-Step Guide: Setting Up Microsoft Copilot on a macOS System</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-magic5-ultimate-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-the-best-places-to-buy-a-laptop/"><u>Ultimate Guide: The Best Places to Buy a Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-file-explorer-features-comprehensive-tricks-for-windows-ebusers/"><u>Unlocking File Explorer Features: Comprehensive Tricks for Windows Ebusers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-crafting-an-apple-powered-athletic-broadcast-platform/"><u>[Updated] Crafting an Apple-Powered Athletic Broadcast Platform</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-guide-to-flawless-remote-recording-experience/"><u>[Updated] In 2024, The Ultimate Guide to Flawless Remote Recording Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-classroom-captures-unveiling-the-ultimate-10-video-recorders-for-education/"><u>2024 Approved Classroom Captures Unveiling the Ultimate 10 Video Recorders for Education</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-the-new-apple-studio-display-tech-specifications-and-key-features/"><u>Comprehensive Guide to the New Apple Studio Display - Tech Specifications & Key Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/delayed-but-imminent-apples-latest-ipads-set-for-a-springtime-launch-in-march-or-april/"><u>Delayed but Imminent: Apple's Latest iPads Set for a Springtime Launch in March or April</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-data-protection-for-ios-devices-mastering-the-art-of-icloud-and-mac-integration-insights-by-zdnet/"><u>Effortless Data Protection for iOS Devices: Mastering the Art of iCloud and Mac Integration | Insights by ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-activating-bluetooth-on-your-pc-with-windows-11-and-10/"><u>Effortless Guide: Activating Bluetooth on Your PC with Windows 11 & 10</u></a></li>
+<li><a href="https://fox-making.techidaily.com/free-clone-sd-card-and-windows-while-offering-a-promise-of-value-with-terms-like-top-rated-ultimate-guide-and-safely/"><u>Free, Clone, SD Card, and Windows While Offering a Promise of Value with Terms Like Top Rated, Ultimate Guide, and Safely.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-ahead-of-the-curve-uncover-these-amazing-experiments-in-ios-18-beta-version-zdnet/"><u>Get Ahead of the Curve: Uncover These Amazing Experiments in iOS 18 Beta Version | ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-obtaining-professional-photo-banners-for-2024/"><u>Mastering the Art of Obtaining Professional Photo Banners for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-to-keep-your-windows-11-apps-running-as-an-admin/"><u>Step-by-Step Tutorial to Keep Your Windows 11 Apps Running as an Admin</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-pinnacle-of-playtime-apple-reinvents-fun-with-its-new-vision-pro-your-definitive-guide-to-the-top-device-on-the-market/"><u>The Pinnacle of Playtime: Apple Reinvents Fun with Its New 'Vision Pro' – Your Definitive Guide to the Top Device on the Market</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-boosting-call-sound-quality-on-your-iphone-expert-advice/"><u>Ultimate Guide to Boosting Call Sound Quality on Your iPhone - Expert Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-guide-sending-and-receiving-imessage-texts-like-a-pro-tips/"><u>Windows Guide: Sending & Receiving iMessage Texts Like a Pro - Tips</u></a></li>
 </ul></div>
 

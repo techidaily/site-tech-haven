@@ -1,7 +1,7 @@
 ---
 title: "Innovative Approaches to CBT: Harnessing the Power of ChatGPT for Theraerpy"
-date: 2024-08-20T12:01:06.824Z
-updated: 2024-08-21T12:01:06.824Z
+date: 2024-12-09T19:41:31.577Z
+updated: 2024-12-13T16:45:59.619Z
 tags:
   - chatgpt
   - open-ai
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/9741597441538b9063ba6395b36f1ab44380cf26c
 
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, this is more compact and easier to look at than the default look.
 
 > 6\. The ‘Description’ must stay between 3 to 10 sentences.
@@ -74,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/9741597441538b9063ba6395b36f1ab44380cf26c
  Use a bit of discretion here for your own prompt. We preferred our own prompt to use D&D 5e rules for AC and d20 dice rolls to determine stats. However, you can change the rules to something more to your taste (perhaps, like Pathfinder’s AC system).
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
@@ -105,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/9741597441538b9063ba6395b36f1ab44380cf26c
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -128,9 +133,6 @@ thumbnail: https://thmb.techidaily.com/9741597441538b9063ba6395b36f1ab44380cf26c
 
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
 ## Add Combat and Magic Rules
@@ -160,8 +162,9 @@ thumbnail: https://thmb.techidaily.com/9741597441538b9063ba6395b36f1ab44380cf26c
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -177,8 +180,9 @@ And finally, don’t forget to actually start the game:
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
@@ -187,9 +191,6 @@ And finally, don’t forget to actually start the game:
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Complete ChatGPT RPG Prompt
 
  We've combined everything and put it here for you to copy, so you can start your own game immediately.
@@ -289,22 +290,20 @@ And finally, don’t forget to actually start the game:
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
 
  You can tap into that future now with ChatGPT and create your own fun-filled adventure text game on the chat. Have fun, but remember that right now, AI is still very limited.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -313,4 +312,23 @@ And finally, don’t forget to actually start the game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-youtubes-sound-enhancement-techniques/"><u>[Updated] Mastering YouTube's Sound Enhancement Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beyond-hype-assessing-the-genuine-ecological-footprint-of-evs/"><u>Beyond Hype: Assessing the Genuine Ecological Footprint of EVs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/education-on-the-house-secrets-to-scoring-a-tidal-learning-institution-reduction-for-students/"><u>Education on the House: Secrets to Scoring a Tidal Learning Institution Reduction for Students</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhance-your-livestreams-with-manycam-top-tier-virtual-webcam-technology/"><u>Enhance Your Livestreams with ManyCam: Top-Tier Virtual Webcam Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experiencing-the-apple-studio-display-stunning-27-5k-monitor-for-professionals-balancing-beauty-and-cost-on-mac-systems-insights-from-zdnet-reviewers/"><u>Experiencing the Apple Studio Display: Stunning 27 5K Monitor for Professionals, Balancing Beauty and Cost on Mac Systems - Insights From ZDNet Reviewers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-y78-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo Y78 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728462156975-hddssd/"><u>HDDをSSDに容易にデータ複製手順</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-safely-update-your-ipad-to-the-latest-ios-version-without-facing-bricking-problems-zdnet-insights/"><u>How to Safely Update Your iPad to the Latest iOS Version Without Facing Bricking Problems | ZDNET Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-honor-x9b-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor X9b Phone without Google Account?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-evaluation-of-the-new-apple-airpods-max-gen-3-significant-advancements-examined/"><u>In-Depth Evaluation of the New Apple AirPods Max (Gen 3): Significant Advancements Examined</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-education-tech-with-a-free-150-apple-gift-card-selecting-the-ideal-device/"><u>Maximize Your Education Tech with a Free $150 Apple Gift Card - Selecting the Ideal Device!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-apple-airpods-4-features-enhanced-locator-and-modern-usb-c-charging-insights-from-zdnet/"><u>New Apple AirPods 4: Features Enhanced Locator and Modern USB-C Charging - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/significant-aspects-in-the-deployment-of-bot-based-solutions/"><u>Significant Aspects in the Deployment of Bot-Based Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-price-of-your-carriers-complimentary-smartphone-a-deep-dive-into-the-real-cost/"><u>The Hidden Price of Your Carrier's Complimentary Smartphone: A Deep Dive Into the Real Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-cutting-edge-ipad-peripherals-insights/"><u>The Ultimate Guide to Cutting-Edge iPad Peripherals : Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ultimate-gameplay-modifications-in-terraria/"><u>Ultimate Gameplay Modifications in Terraria</u></a></li>
+</ul></div>
 

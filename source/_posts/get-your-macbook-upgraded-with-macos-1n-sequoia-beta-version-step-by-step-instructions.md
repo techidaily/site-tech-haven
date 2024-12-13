@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Upgraded with macOS 1N Sequoia Beta Version - Step-by-Step Instructions!
-date: 2024-12-01T22:17:27.522Z
-updated: 2024-12-07T20:36:50.131Z
+date: 2024-12-12T21:18:13.961Z
+updated: 2024-12-13T18:02:22.697Z
 tags:
   - apple
 categories:
@@ -27,13 +27,13 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -41,7 +41,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -51,10 +51,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -81,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -97,6 +93,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,24 +140,24 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-streamers-picks-top-5-noise-canceling-headsets/"><u>[Updated] 2024 Approved Streamer's Picks Top 5 Noise-Canceling Headsets</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-aesthetic-alchemy-grading-with-colors/"><u>[Updated] Aesthetic Alchemy Grading with Colors</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-sky-high-creativity-innovative-strategies-for-drone-video-enhancement/"><u>[Updated] In 2024, Sky-High Creativity Innovative Strategies for Drone Video Enhancement</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-winning-in-media-creation-with-ease-movies-maker-secrets-for-windows-8-users/"><u>[Updated] In 2024, Winning in Media Creation with Ease Movies Maker Secrets for Windows 8 Users</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-visualize-success-free-templates-to-elevate-your-youtube-presence/"><u>2024 Approved Visualize Success Free Templates to Elevate Your YouTube Presence</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/begin-immediate-use-of-8-tailored-generative-pre-trained-transformer-models/"><u>Begin Immediate Use of 8 Tailored Generative Pre-Trained Transformer Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-unveiled-a-comprehensive-ai-handbook-for-parents/"><u>ChatGPT Unveiled: A Comprehensive AI Handbook for Parents</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-a-windows-application-journey/"><u>ChatGPT: A Windows Application Journey</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/critical-faux-pas-to-watch-out-for-in-the-world-of-generative-artifice-intelligence-tools/"><u>Critical Faux Pas to Watch Out For in the World of Generative Artifice Intelligence Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-machine-learning-the-black-box-phenomenon/"><u>Deciphering Machine Learning: The Black Box Phenomenon</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-ai-tools-the-10-next-best-options-beyond-chatgpt/"><u>Essential AI Tools: The 10 Next-Best Options Beyond ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-fix-persistent-lagging-and-crashing-in-warzone-20-on-windowsmac-devices/"><u>How to Fix Persistent Lagging & Crashing in Warzone 2.0 on Windows/Mac Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-infinix-hot-40-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Infinix Hot 40 Pro PC | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-job-searches-utilizing-chatgpts-edge-to-achieve-professional-goals/"><u>Navigating Job Searches : Utilizing ChatGPT's Edge to Achieve Professional Goals</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-prosperous-path-share-tiktok-via-twitter/"><u>The Prosperous Path Share TikTok via Twitter</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ultimate-arena-crafting-the-quintessential-7-total-war-tactics-for-2024/"><u>Ultimate Arena Crafting the Quintessential 7 Total War Tactics for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-intrinsic-intelligence-implementations-in-hardware/"><u>Unraveling Intrinsic Intelligence Implementations in Hardware</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/writing-a-stellar-resume-with-chatgpt-a-step-by-step-guide/"><u>Writing a Stellar Resume with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-step-by-step-to-subscription-the-youtube-partner-program-route/"><u>[Updated] In 2024, Step-by-Step to Subscription The YouTube Partner Program Route</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-launches-cutting-edge-artificial-intelligence-training-initiative-for-student-community/"><u>Apple Launches Cutting-Edge Artificial Intelligence Training Initiative for Student Community</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/arm-vs-x86-can-windows-on-arm-outperform-the-mac-silicon-revolution-predicting-the-next-computing-landscape/"><u>ARM Vs. X86: Can Windows on ARM Outperform the Mac Silicon Revolution? Predicting the Next Computing Landscape</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/connecting-seamlessly-a-step-by-step-guide-to-joining-wifi-networks-yl-tech-tips/"><u>Connecting Seamlessly: A Step-by-Step Guide to Joining WiFi Networks - YL Tech Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-tom-comprehensive-pc-component-analysis/"><u>Exploring Hardware with Tom: Comprehensive PC Component Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fall-releases-exploring-the-latest-innovations-on-iphone-ipad-mac-and-beyond-from-apple-with-advanced-ai-integration-zdnet-insights/"><u>Fall Releases: Exploring the Latest Innovations on iPhone, iPad, Mac & Beyond From Apple with Advanced AI Integration - ZDNet Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-k11-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo K11 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-chipolo-one-trustworthy-and-effective-bluetooth-monitoring-gadget/"><u>In-Depth Review of the Chipolo One: Trustworthy and Effective Bluetooth Monitoring Gadget</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-apple-store-experience-evaluating-the-difference-of-next-gen-sleek-ipad-pro-at-just-008-inches/"><u>Inside Apple Store Experience: Evaluating the Difference of Next-Gen Sleek iPad Pro at Just 0.08 Inches!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipad-air-vs-ipad-pro-why-the-miniature-marvel-nearly-stole-my-heart-review/"><u>IPad Air Vs. IPad Pro: Why the Miniature Marvel Nearly Stole My Heart (Review)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-zen-5-cpu-triumphs-over-intels-20-core-and-apples-m3-max-with-outstanding-passmark-scores/"><u>Ryzen Zen 5 CPU Triumphs Over Intel's 20-Core and Apple's M3 Max with Outstanding PassMark Scores</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-transition-moving-your-whatsapp-from-android-to-iphone-a-step-by-step-guide/"><u>Seamless Transition: Moving Your WhatsApp From Android to iPhone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-rated-tools-for-professional-photo-restoration/"><u>Top Rated Tools for Professional Photo Restoration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-what-to-do-when-you-cant-find-d3dx934dll-in-device-manager/"><u>Troubleshooting: What to Do When You Can't Find D3Dx9_34.dll in Device Manager</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unboxing-apples-budget-friendly-usb-c-earpods-at-just-17-my-impulsive-prime-day-find-expert-analysis-by-zdnet/"><u>Unboxing Apple's Budget-Friendly USB-C EarPods at Just $17 – My Impulsive Prime Day Find | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-note-13-proplus-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Xiaomi Redmi Note 13 Pro+ 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-sticking-with-my-iphone-14-beats-the-hype-a-closer-look-at-four-key-points-against-upgrading-to-an-iphone-16-pro-insights-from-a-tech-expert/"><u>Why Sticking with My iPhone 14 Beats the Hype: A Closer Look at Four Key Points Against Upgrading to an iPhone 16 Pro - Insights From a Tech Expert</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/wochenstruktur-deutsche-sprache-erforschen/"><u>Wochenstruktur: Deutsche Sprache Erforschen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/zooms-next-level-collaboration-how-vision-pro-headset-support-will-transform-your-video-conferences-zdnet-exclusive-analysis/"><u>Zoom's Next-Level Collaboration: How Vision Pro Headset Support Will Transform Your Video Conferences - ZDNET Exclusive Analysis</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Mobile Filmmaking: Final Cut Now Available on iPhone, According to ZDNET"
-date: 2024-12-05T20:58:55.459Z
-updated: 2024-12-07T19:47:29.392Z
+date: 2024-12-11T19:24:28.306Z
+updated: 2024-12-13T21:47:58.101Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -60,10 +60,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -84,10 +80,6 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2010: Smartphones meet narcism, a match made in heaven
 
 Smartphones have evolved with a cadence we're all familiar with. Each year, new capabilities have been added and features improved. Cameras evolved from 3.0MP cameras to 48-50MP monsters like the [iPhone 15 Pro Max](https://www.zdnet.com/article/should-you-buy-an-iphone-15-heres-how-my-wife-and-i-are-deciding/), [Google Pixel 8](https://www.zdnet.com/article/pixel-8-pro-vs-pixel-7-pro/), [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and [Asus ROG Phone 8](https://rog.asus.com/articles/smartphones/the-rog-phone-8-and-rog-phone-8-pro-beyond-gaming-with-a-slim-new-design/).
@@ -107,6 +99,10 @@ Then there's the [Samsung Galaxy S23](https://shop-links.co/link/?url=https%3A%2
 Many smartphones today capture 8K video directly into phone storage. These include the [Samsung Galaxy S23](https://www.zdnet.com/article/samsung-galaxy-s23-plus-review/) (8K was supported as far back as the [S20](https://www.zdnet.com/article/galaxy-s20-s20-plus-s20-ultra-prices-specs-release-date-and-more-you-need-to-know/)), the [Asus ZenFone 9](https://www.zdnet.com/article/asus-zenfone-9-review/), the [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-max-50-photos-that-show-what-the-new-camera-system-can-do/) can all record 8K video directly into the device.
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
 
@@ -135,7 +131,7 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Image quality
@@ -153,7 +149,7 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Object knowledge
@@ -175,6 +171,10 @@ Some early facial recognition applications demonstrated bias. They were using ve
 This technique pits a "generator" algorithm against a "discriminator" algorithm process, where the discriminator provides feedback to the generator to drive improvement. The resulting learned effects, or style transfer processes, mimic the styles of various artists and techniques. This allows users to apply complex artistic styles to their photos, and for the resulting images to appear stylistically relevant. It also has [resulted in lawsuits](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/).
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
 
@@ -254,22 +254,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-beatsaver-recorder-app-review/"><u>[New] BeatSaver Recorder App Review</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-kindred-android-companions-for-nintendoenasportable-gaming-for-2024/"><u>[New] Kindred Android Companions for Nintendo'enasportable Gaming for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-whats-in-it-for-a-million-youtube-viewers/"><u>[Updated] What’s in It for a Million YouTube Viewers?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-compilation-4-websites-for-ringtone-hunt/"><u>2024 Approved The Ultimate Compilation 4 Websites for Ringtone Hunt</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-gpt-addons-trustworthy/"><u>Are GPT Addons Trustworthy?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-blueprint-for-stress-management/"><u>ChatGPT's Blueprint for Stress Management</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dissecting-the-turing-test-is-it-unbeatable-or-not/"><u>Dissecting the Turing Test: Is It Unbeatable or Not?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-risks-with-non-official-chatgpt-extensions-and-apps/"><u>Evaluating Risks with Non-Official ChatGPT Extensions and Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improve-your-startup-clearing-and-regenerating-windows-icons/"><u>Improve Your Startup: Clearing and Regenerating Windows Icons</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-7-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 7 Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-microsofts-copilot-for-unparalleled-ai-visual-creation/"><u>Leveraging Microsoft's Copilot for Unparalleled AI Visual Creation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcome-wide-monitor-distortion-in-window-os/"><u>Overcome Wide Monitor Distortion in Window OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-ai-assistance-enhancing-google-sheets-functionality-with-chatgpt/"><u>Seamless AI Assistance: Enhancing Google Sheets Functionality with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/setting-up-microsoft-copilot-on-macos-a-step-by-step-guide/"><u>Setting Up Microsoft Copilot on macOS: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-claude-pro-how-it-stands-against-chatgpt-plus-in-features-and-performance/"><u>Understanding Claude Pro - How It Stands Against ChatGPT Plus in Features and Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/who-steals-the-show-in-ai-dialogue-gpt-or-huggingface/"><u>Who Steals the Show in AI Dialogue, GPT or HuggingFace?</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12r-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12R Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-10-best-offline-ios-games-you-should-try-for-2024/"><u>[Updated] Top 10 Best Offline iOS Games You Should Try for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-discover-how-asmr-can-enhance-your-life-quality/"><u>2024 Approved Discover How ASMR Can Enhance Your Life Quality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-potential-issues-with-ipads-key-insights-on-the-risks-of-upgrading-to-ios-16-gizmodaily/"><u>Avoid Potential Issues with iPads – Key Insights on the Risks of Upgrading to iOS 16 | GizmoDaily</u></a></li>
+<li><a href="https://video-capture.techidaily.com/echoes-of-the-unliving-top-8-zombie-game-choices/"><u>Echoes of the Unliving Top 8 Zombie Game Choices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-superior-wallet-trackers-beyond-apple-and-tile-unveiled-s-in-depth-testing/"><u>Exploring Superior Wallet Trackers Beyond Apple and Tile - Unveiled 'S In-Depth Testing!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-your-hands-on-apple-m2-macbook-air-for-less-than-850-now-at-amazon-way-ahead-of-octobers-prime-day-specials-cnet-deals-spotlight/"><u>Get Your Hands on Apple M2 MacBook Air for Less Than $850 Now at Amazon, Way Ahead of October's Prime Day Specials! | CNET Deals Spotlight</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-your-startups-growth-with-these-top-social-media-tips/"><u>In 2024, Ignite Your Startup's Growth with These Top Social Media Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-your-brands-presence-in-spotify-advertising/"><u>In 2024, Optimizing Your Brand's Presence in Spotify Advertising</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-creativity-utilizing-chatgpt-for-innovative-writing-techniques/"><u>Mastering the Art of Creativity: Utilizing ChatGPT for Innovative Writing Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-photography-how-apple-integrates-user-inputted-descriptions-with-its-latest-artificial-intelligence-features/"><u>Revolutionizing Photography: How Apple Integrates User-Inputted Descriptions with Its Latest Artificial Intelligence Features</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/section-3-continuous-professional-development-in-social-work/"><u>Section 3: Continuous Professional Development in Social Work</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-strategies-for-saving-iphone-files-via-icloud-and-macos-utilities/"><u>Step-by-Step Strategies for Saving iPhone Files via iCloud and macOS Utilities</u></a></li>
 </ul></div>
 

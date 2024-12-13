@@ -1,7 +1,7 @@
 ---
 title: "Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch From ZDNet"
-date: 2024-12-06T17:42:22.686Z
-updated: 2024-12-07T19:20:43.755Z
+date: 2024-12-09T16:15:44.320Z
+updated: 2024-12-13T16:29:31.599Z
 tags:
   - apple
 categories:
@@ -27,12 +27,16 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -49,10 +53,6 @@ Screenshot by Lance Whitney/ZDNET
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -71,7 +71,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -81,7 +81,7 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -108,15 +108,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,19 +154,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-screen-capture-without-breaking-the-bank-our-top-picks/"><u>[New] 2024 Approved Screen Capture Without Breaking the Bank Our Top Picks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-methods-building-time-lapses-on-galaxy-devices/"><u>[Updated] Innovative Methods Building Time-Lapses on Galaxy Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-audiovisual-updates-integrating-sounds-with-statuses/"><u>2024 Approved Audiovisual Updates Integrating Sounds with Statuses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-ai-an-exploration-of-its-capabilities-and-associated-threats/"><u>Decoding AI: An Exploration of Its Capabilities and Associated Threats</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/expert-recommendations-for-downloading-snapchat-tunes/"><u>Expert Recommendations for Downloading Snapchat Tunes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fourfold-check-on-ai-learning-an-educators-primer/"><u>Fourfold Check on AI Learning: An Educator's Primer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/revolutionize-playtime-win11s-game-library/"><u>Revolutionize Playtime Win11's Game Library</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-how-to-convert-and-save-music-files-in-different-codes-mp3-wav-from-qobuz-library/"><u>Step-by-Step Tutorial: How to Convert and Save Music Files in Different Codes (MP3, WAV) From Qobuz Library</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tailoring-gpt-3-exchanges-the-art-of-file-segregation/"><u>Tailoring GPT-3 Exchanges: The Art of File Segregation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-walkthrough-on-how-to-erase-your-chatgpt-profile/"><u>The Ultimate Walkthrough on How To Erase Your ChatGPT Profile</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-ai-interactions-via-quora-poe-access/"><u>Unlocking AI Interactions via Quora PoE Access</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-creativity-top-8-uses-for-chatgpts-image-processing-skills/"><u>Unlocking Creativity: Top 8 Uses for ChatGPT's Image Processing Skills</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-guide-unobtrusive-android-video-capture/"><u>[New] In 2024, Essential Guide Unobtrusive Android Video Capture</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-ignores-iphone-protection-are-consumers-hearing-the-message/"><u>Apple Ignores iPhone Protection: Are Consumers Hearing the Message?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-the-divide-top-four-ai-innovations-apple-must-embrace-to-compete-with-android-devices/"><u>Bridging the Divide: Top Four AI Innovations Apple Must Embrace to Compete with Android Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-your-perfect-match-with-these-adered-by-free-and-html-editor-but-also-include-relevant-keywords-like-windows-code-editing-tools-or-webpage-builders-her1/"><u>Find Your Perfect Match with These Adered by Free and HTML Editor, but Also Include Relevant Keywords Like Windows, Code Editing Tools, or Webpage Builders. Here Are Five Examples of New SEO Titles that Convey a Similar Meaning to the Original Phrase:</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/spicing-up-videos-with-youtube-music-linking-techniques-for-2024/"><u>Spicing Up Videos with YouTube Music Linking Techniques for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211192941-9780811748537-the-big-book-of-texas-ghost-stories/"><u>The Big Book of Texas Ghost Stories | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-apple-devices-to-avoid-purchasing-at-this-moment-insights-from-zdnet/"><u>Top 4 Apple Devices To Avoid Purchasing at This Moment: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-browser-experience-7-essential-chatgpt-extensions-for-optimized-ai-engagement/"><u>Transform Browser Experience: 7 Essential ChatGPT Extensions for Optimized AI Engagement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-the-full-potential-of-your-iphone-expert-tips-on-mastering-secret-siri-shortcuts-techsavvy/"><u>Unleash the Full Potential of Your iPhone: Expert Tips on Mastering Secret Siri Shortcuts | TechSavvy</u></a></li>
 </ul></div>
 

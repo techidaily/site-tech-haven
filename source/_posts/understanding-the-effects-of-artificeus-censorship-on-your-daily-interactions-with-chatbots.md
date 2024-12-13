@@ -1,7 +1,7 @@
 ---
 title: Understanding the Effects of Artificeus' Censorship on Your Daily Interactions with Chatbots
-date: 2024-08-20T12:04:25.806Z
-updated: 2024-08-21T12:04:25.806Z
+date: 2024-12-12T19:11:48.749Z
+updated: 2024-12-13T20:10:23.735Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
  ChatGPT is a phenomenally powerful tool that has led the way in the rise of generative AI chatbots. However, exporting or saving your ChatGPT conversations in a useful format is not easy. Luckily, there are browser extensions to help you to achieve this easily and quickly.
 
  Let's look at some of the best apps and extensions to help you get the most from ChatGPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. ShareGPT
 
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
 
 ![Screenshot of ChatGPT conversation for Notion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-conversation-for-notion.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the chat is ready to export, you can access Export ChatGPT from the extensions drop-down from your browser (usually located to the right of the address bar). This brings up the dialog box shown below.
 
 ![Screenshot of Export ChatGPT dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-export-chatgpt-dialog-box.jpg)
@@ -55,13 +63,14 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
 
 ![Screenshot of ChatGPT conversation imported into Notion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-conversation-imported-into-notion.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Overall, if you are a Notion user, this delivers on all its promises. If you aren't a Notion user, there are probably better options. However, again it was simple to install on Microsoft Edge and Google Chrome.
 
 **Download** :[Export ChatGPT Conversation](https://chrome.google.com/webstore/detail/export-chatgpt-conversati/clgidpflecgaaabfcmdmkcgebpbadgoc) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 3\. ChatGPT Export and Share
 
  This extension works with Chrome, Edge, and Firefox. However, the installation isn't available through the proprietary extension sources for the browsers in question. That said, it is a nice tool once installed and worth a little effort.
@@ -76,13 +85,11 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
 4. Enable developer mode by switching the appropriate toggle switch. The picture below shows this in Microsoft Edge; Chrome users will find it at the top right of the page.  
 ![Screenshot of Edge Extensions Page ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-edge-extensions-page.jpg)
 5. Install the extension by clicking the**Load unpacked** button and selecting the folder where you extracted the files. ChatGPT Export and Share should now be activated.
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Installing ChatGPT Export and Share on Firefox
 
  The first two steps are identical for Firefox, with the obvious exception that you select the Firefox version. After ChatGPT Export and Share is downloaded and extracted, the following steps will install it in Firefox.
@@ -91,14 +98,15 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
 2. Click**This Firefox** and then click**Load Temporary Add-on** .  
 ![Screenshot of ChatGPT Export and Share Firefox Installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-export-and-share-firefox-installation.jpg)
 3. Select the**content\_script.js** from the extracted installer.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. You should now have access to the extension on the ChatGPT website.
 
  The unfortunate thing for Firefox users is that this extension will only be active as long as you keep Firefox open. If you close your browser, you must repeat the above steps each time you start Firefox. Not ideal!
 
 ![Screenshot Export and Share ChatGPT options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-export-and-share-chatgpt-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Apart from that, this simple tool allows you to export your ChatGPT conversations as a PDF, weblink, or PNG file. Simple to use, with no bells and whistles, but there are easier-to-install tools that do the same function.
 
@@ -121,9 +129,6 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
 
 ![Screenshot ChatGPT Prompt Genius](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-chatgpt-prompt-genius.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We liked the inclusion of Markdown language with this tool, which is very convenient if you are using text for web content. We tested each option, and they all worked perfectly with the link option, creating a unique, easily shared URL.
 
 ![Screenshot of Prompt Genius URL for sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-prompt-genius-url-for-sharing.jpg)
@@ -133,22 +138,20 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
 **Download** :[ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo/related) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Simplifying Sharing Your ChatGPT Conversations
 
  For something that began almost as a curiosity, AI-generative chatbots have rapidly become an important and powerful tool. As their usage continues to rise exponentially, the need to easily export and share conversations will become increasingly critical.
 
  The tools we covered here could be considered "early adopters" of a trend that can only go upwards. In the future, we can expect more functionality and features to become available as developers rush to take advantage of this burgeoning technology.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +160,20 @@ thumbnail: https://thmb.techidaily.com/b26ebe6269139cbbd405443b637f006fbb51cb081
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-dynamic-discussions-for-regular-streaming/"><u>[New] Dynamic Discussions for Regular Streaming</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-convert-srt-fastly-a-compreenas-the-minute-blueprint-2023/"><u>[Updated] 2024 Approved Convert SRT Fastly A Compreenas-the-Minute Blueprint 2023</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easily-transform-your-webm-videos-into-mp4-format-without-spending-a-dime/"><u>Easily Transform Your WebM Videos Into MP4 Format Without Spending a Dime</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-methods-for-converting-realplayer-interactive-voice-response-ivr-recordings-into-mp4-videos/"><u>Easy Methods for Converting RealPlayer Interactive Voice Response (IVR) Recordings Into MP4 Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-ultimate-beginners-tutorial-for-reducing-file-size-with-adobe-premiere-pro/"><u>Easy Steps: Ultimate Beginner's Tutorial for Reducing File Size with Adobe Premiere Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-tutorial-for-streaming-films-via-usb-onto-your-jvc-set-top-box-or-tv/"><u>Easy Tutorial for Streaming Films via USB Onto Your JVC Set Top Box or TV</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-downloads-discover-the-best-techniques-and-tools-for-getting-free-udemy-courses/"><u>Effortless Downloads: Discover the Best Techniques & Tools for Getting Free Udemy Courses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-guide-locating-and-downloading-your-favorite-disney-tunes/"><u>Effortless Guide: Locating & Downloading Your Favorite Disney Tunes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/me2-satawindows/"><u>M.e2 SATAドライブにWindowsを素早くコピーするガイド</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-audio-file-management-a-comprehensive-guide-by-yl-computing/"><u>Mastering Audio File Management: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-deleting-browser-history-and-cache-on-your-android-device/"><u>Step-by-Step Guide: Deleting Browser History & Cache on Your Android Device</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-voice-changer-software-for-youtube-videos-free-and-paid/"><u>Top 6 Voice Changer Software for Youtube Videos [Free & Paid]</u></a></li>
+</ul></div>
 

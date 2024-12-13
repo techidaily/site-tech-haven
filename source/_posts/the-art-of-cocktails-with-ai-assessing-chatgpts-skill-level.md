@@ -1,7 +1,7 @@
 ---
 title: "The Art of Cocktails with AI: Assessing ChatGPT's Skill Level"
-date: 2024-08-20T12:02:35.087Z
-updated: 2024-08-21T12:02:35.087Z
+date: 2024-12-11T17:02:36.815Z
+updated: 2024-12-13T19:41:05.902Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
 ---
 
 ## Master the Art of Hiding Your ChatConversations with GPT: No Deletions Involved
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -53,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
 
 ![Unarchiving conversation in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/unarchiving-conversation-in-chatgpt-web.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
 
 ## How to Hide ChatGPT Chats on Your iPhone
@@ -70,26 +71,21 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  If you don't see the**Archive** option, make sure your app is updated. Once you archive a chat, you won't be able to find it by searching for it from the sidebar.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to View Your Hidden Chats in the ChatGPT App
 
  Like the web version of ChatGPT, you need to head to ChatGPT's settings menu to access your archived chats. Here's what you need to do:
@@ -101,13 +97,18 @@ Close
 
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
 
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  As you can see, archiving your conversations is much more convenient than[deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) if all you want to do is quickly hide specific chats.
@@ -116,14 +117,11 @@ Close
 
  While archiving is a great way to organize your secret conversations with ChatGPT, it's not a perfect solution like[using ChatGPT Folders to sort all your chats](https://www.makeuseof.com/how-to-use-chatgpt-folders-to-manage-chatgpt-conversations/) . It'd be nice if OpenAI let users lock archived chats behind a password for extra protection in a future update.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,4 +130,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-boost-your-earnings-on-youtube-shorts-a-guide-for-2024/"><u>[New] Boost Your Earnings on YouTube Shorts A Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/battle-of-the-brains-llama-vs-gpt-4-unveiling-top-ai-contender/"><u>Battle of the Brains: Llama Vs. GPT-4 – Unveiling Top AI Contender</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beantechs-bitwatch-s1-plus-in-focus-a-compelling-look-at-an-economical-smartwatch-choice/"><u>Beantech's Bitwatch S1 Plus in Focus – A Compelling Look at an Economical Smartwatch Choice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-complexity-of-large-scale-ais/"><u>Deciphering the Complexity of Large-Scale AIs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-apples-hidden-gems-unveiling-exceptional-iphone-capabilities-you-might-be-missing/"><u>Discover Apple's Hidden Gems: Unveiling Exceptional iPhone Capabilities You Might Be Missing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/future-forward-unveiling-the-top-5-promising-ai-hardware-breakthroughs/"><u>Future Forward: Unveiling the Top 5 Promising AI Hardware Breakthroughs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-accurate-is-chatgpt-in-delivering-health-related-guidance/"><u>How Accurate Is ChatGPT in Delivering Health-Related Guidance?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-130-music-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia 130 Music to Outlook | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-issues-with-fire-stick-remote-a-compreh/"><u>Resolving Issues with Fire Stick Remote - A Compreh</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-pitfalls-in-utilizing-generative-ai-technologies/"><u>Top 7 Pitfalls in Utilizing Generative AI Technologies</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-mobile-to-pc-data-moving-solutions-unlimited-downloads-available-for-ios-and-android-devices/"><u>Top Mobile-to-PC Data Moving Solutions: Unlimited Downloads Available for iOS and Android Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-openais-shap-e-and-its-functionalities-for-model-interpretability/"><u>Understanding OpenAI’s Shap-E and Its Functionalities for Model Interpretability</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/worthiness-of-using-auto-gpt-without-integration-with-gpt-4/"><u>Worthiness of Using Auto-GPT without Integration with GPT-4</u></a></li>
+</ul></div>
 

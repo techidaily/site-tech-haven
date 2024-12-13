@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice on Mastering Your iPad: 10 Must-Know Settings and Tricks for Apple Enthusiasts | Featured by ZDNET"
-date: 2024-12-02T20:05:26.552Z
-updated: 2024-12-07T21:28:04.396Z
+date: 2024-12-06T23:06:29.028Z
+updated: 2024-12-13T22:26:47.263Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
@@ -59,7 +59,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
@@ -74,6 +74,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -81,10 +85,6 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -96,19 +96,11 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -123,6 +115,10 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to split**: Go to Settings > General > Keyboard and tap on "Split Keyboard." Then, when you open an app where the keyboard presents itself, touch and hold on the keyboard button in the bottom right corner and slide your finger to the split option. Your keyboard will then divide in half on either side of the screen. You can follow the same steps in reverse to turn it off.
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
 
@@ -139,6 +135,10 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,18 +180,17 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-maximizing-b-roll-effective-techniques/"><u>[New] 2024 Approved Maximizing B-Roll Effective Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-2023-timeline-turning-srt-into-txt-swiftly/"><u>[New] Ultimate 2023 Timeline Turning SRT Into TXT Swiftly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-enhancing-media-workflow-the-rise-of-magix-vpx/"><u>[Updated] Enhancing Media Workflow The Rise of Magix VPX</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-optimal-8-capture-tools-without-delay/"><u>2024 Approved Optimal 8 Capture Tools Without Delay</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/building-a-tailored-chatbot-with-gpt-technology-techniques-and-strategies/"><u>Building a Tailored Chatbot with GPT Technology: Techniques and Strategies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convert-gif-files-into-wmv-format-free-using-movavis-tools/"><u>Convert GIF Files Into WMV Format Free Using Movavi's Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/embrace-innovation-with-claude-ai-the-future-of-intelligent-dialogue-systems/"><u>Embrace Innovation with Claude AI – The Future of Intelligent Dialogue Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/identifying-fraudulent-copycat-chatgpt-applications-in-the-ios-app-store/"><u>Identifying Fraudulent Copycat ChatGPT Applications in the iOS App Store</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-uses-of-auto-gpt-in-business/"><u>Innovative Uses of Auto-GPT in Business</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-past-falsehoods-in-ai-conversation-with-6-techniques/"><u>Navigating Past Falsehoods in AI Conversation With 6 Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-site-building-through-chatgpts-innovative-approaches/"><u>Revolutionize Site Building Through ChatGPT's Innovative Approaches</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-leading-sites-for-accessing-true-nature-audio-archives/"><u>Updated In 2024, Leading Sites for Accessing True Nature Audio Archives</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/advanced-conversion-boosting-tools-from-the-cookiebot-initiative-elevate-user-interaction/"><u>Advanced Conversion Boosting Tools From The Cookiebot Initiative | Elevate User Interaction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-right-iphone-15-a-comprehensive-guide-to-models-regular-plus-pro-and-pro-max/"><u>Choosing the Right iPhone 15: A Comprehensive Guide to Models - Regular, Plus, Pro & Pro Max</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-epochal-passphrase-problem-in-windows-os/"><u>Deciphering “Epochal Passphrase Problem in Windows OS”</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-free-applications-for-transforming-media-into-av1-codec/"><u>Discover the Leading Free Applications for Transforming Media Into AV1 Codec</u></a></li>
+<li><a href="https://video-capture.techidaily.com/enable-zoom-grid-on-google-meet-for-2024/"><u>Enable Zoom Grid on Google Meet for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-enhanced-apple-airpods-pro-gen-3-comprehensive-review-and-key-upgrades-unveiled-techguardian/"><u>Experience Enhanced Apple AirPods Pro (Gen 3): Comprehensive Review & Key Upgrades Unveiled | TechGuardian</u></a></li>
+<li><a href="https://fox-http.techidaily.com/first-impressions-a-deep-dive-into-3d-printing-alone/"><u>First Impressions A Deep Dive Into 3D Printing Alone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-upload-and-save-your-license-as-a-digital-id-in-iphones-wallet-app-tips-for-varying-jurisdictions/"><u>How to Upload and Save Your License as a Digital ID in iPhone's Wallet App - Tips for Varying Jurisdictions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/m3-or-m2-a-comprehensive-review-of-apples-macbook-air-models-to-help-you-make-an-informed-buying-decision/"><u>M3 or M2? A Comprehensive Review of Apple's MacBook Air Models to Help You Make an Informed Buying Decision!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-era-with-insights-from-tome-hardware-haven/"><u>Navigating the Digital Era with Insights From Tom'e Hardware Haven</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-iphone-15-pros-a-must-have-upgrade-for-tech-enthusiasts-insights/"><u>Unveiling the iPhone 15 Pros: A Must-Have Upgrade for Tech Enthusiasts - Insights</u></a></li>
 </ul></div>
 

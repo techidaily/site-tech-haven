@@ -1,7 +1,7 @@
 ---
 title: "Step by Step Instructions: Downloading and Setting up Auto-GPT"
-date: 2024-08-20T12:08:39.492Z
-updated: 2024-08-21T12:08:39.492Z
+date: 2024-12-10T21:33:23.093Z
+updated: 2024-12-13T21:12:23.507Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
  Since Auto-GPT is still under development, you'll only be able to access Auto-GPT just how a developer would—which may require a bit of technical know-how.
 
  To make things easier for you, here is a step-by-step guide on how to download and install Auto-GPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 1: Download Python and AutoGPT
 
@@ -55,6 +59,10 @@ After Installing Python, you can download Auto-GPT from GitHub.
 
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3: Install Auto-GPT Dependencies
 
  Now that you have configured Auto-GPT, it's time to install its dependencies through a terminal.
@@ -65,15 +73,9 @@ pip install -r requirements.txt
 3. Once you press enter, your terminal will download and install all the required dependencies.  
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-4.jpg)
 4. After installation, try opening Auto-GPT using:  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 Congratulations! You have successfully Installed Auto-GPT.
 
 ## How to Use Auto-GPT
@@ -99,13 +101,9 @@ Congratulations! You have successfully Installed Auto-GPT.
 ![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Once you give your last goal, you can hit enter for Auto-GPT to run.
 
  While running, you can see the AI's thoughts, reasoning, plan, and criticism. For every action of the AI assistant, you will be asked to authorize its plan to execute. You can do so by typing "y" as yes.
@@ -115,6 +113,10 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
  One advantage of Auto-GPT over ChatGPT is that it is free to probe through the internet. As you can see here, our Recipe-Generator assistant downloads a file.
 
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This makes this[AI potentially dangerous](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) ; that's why Auto-GPT always asks you for authorization before executing plans. Always read and understand your AI assistant's thoughts, reasoning, and plan before authorizing its actions.
 
@@ -129,17 +131,19 @@ After making the recipe, our AI has now completed its task.
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Auto-GPT Limitations
 
  Although Auto-GPT's automation works, it's still quite limited. Through a series of testing, we discovered that Auto-GPT couldn't handle anything complex. Most of the time, it continued looping around the same thought and reasoning. Although you can keep providing helpful prompts, it feels more like ChatGPT stuck in a loop instead of the autonomous assistant it is meant to be.
@@ -152,23 +156,17 @@ After making the recipe, our AI has now completed its task.
 
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Future of Auto-GPT
 
  Ever since the start of August 2023, the Auto-GPT GitHub project has continuously gained support gaining over 140,000 GitHub Starts. Developments and updates don't seem to be slowing down. Future developments are expected to provide more functionalities, bug fixes, and improved stability in conjunction with the release of GPT-4 and its 32K model.
 
  With that said, Auto-GPT is still in its early development stage, and GPT-4 is still on its 8k model. As for now, Auto-GPT should not be used as a tool for any professional or business applications. Anyone using it should only be for the purpose of learning and experimentation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,4 +175,26 @@ After making the recipe, our AI has now completed its task.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-cutting-edge-techniques-for-aspiring-youtube-game-streamers/"><u>[New] 2024 Approved Cutting-Edge Techniques for Aspiring YouTube Game Streamers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-prime-8-converters-seamless-sub-and-srt-transition/"><u>[New] 2024 Approved Prime 8 Converters Seamless Sub and SRT Transition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-ultimate-guide-to-lgs-27in-widescreen-4k-display/"><u>[New] 2024 Approved The Ultimate Guide to LG's 27in Widescreen 4K Display</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-effective-streaming-strategies-facebook-crossposting/"><u>[New] In 2024, Effective Streaming Strategies Facebook Crossposting</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-preparing-for-a-mobile-cinematic-experience/"><u>[New] Preparing for a Mobile Cinematic Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-filmmakers-guide-to-using-standardized-color-luts/"><u>[Updated] The Filmmaker's Guide to Using Standardized Color Luts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-tutorial-for-engaging-with-nvidias-revolutionary-rtx-ai-chatbot-on-your-desktop/"><u>Comprehensive Tutorial for Engaging with Nvidia's Revolutionary RTX AI Chatbot on Your Desktop</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-ai-script-wondershare-virbo-for-2024/"><u>Create AI Avatar Video with AI Script | Wondershare Virbo for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-missing-libcurldll-error-fixes/"><u>Effective Solutions for Missing Libcurl.dll Error Fixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-your-excel-skills-3-powerful-uses-of-chatgpt/"><u>Enhancing Your Excel Skills: 3 Powerful Uses of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-rise-of-gpt-3-bot-unveiling-reasons-behind-website-restrictions/"><u>Exploring the Rise of GPT-3 Bot: Unveiling Reasons Behind Website Restrictions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-utilize-chatgpt-in-your-kitchen-adventures-a-seven-step-guide/"><u>How to Utilize ChatGPT in Your Kitchen Adventures - A Seven-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-mobile-experience-integrating-bing-ai-into-your-android-keyboard/"><u>Mastering the Mobile Experience: Integrating Bing AI Into Your Android Keyboard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-revolutionary-release-of-gpt-4-opening-new-avenues-in-ai-technology/"><u>The Revolutionary Release of GPT-4: Opening New Avenues in AI Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/toontales-detailed-breakdown-and-guidebook-2024/"><u>ToonTales Detailed Breakdown & Guidebook 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-ai-chatbots-exploring-their-rise-in-popularity/"><u>Understanding AI Chatbots: Exploring Their Rise in Popularity</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-top-11-deepfake-voice-apps-and-software-you-need-to-know-about/"><u>Updated 2024 Approved Top 11 Deepfake Voice Apps and Software You Need to Know About</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-ai-chatbot-dominates-an-in-depth-look-at-chatgpt-plus-vs-perplexity/"><u>Which AI Chatbot Dominates? An In-Depth Look at ChatGPT Plus Vs. Perplexity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-trusting-chatgpt-with-your-text-summarization-might-not-be-ideal-expert-insights/"><u>Why Trusting ChatGPT with Your Text Summarization Might Not Be Ideal: Expert Insights</u></a></li>
+</ul></div>
 
