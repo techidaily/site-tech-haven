@@ -1,7 +1,7 @@
 ---
 title: "Demystifying AI Governance: Key Takeaways on Increased Regulation Advocacy by OpenAI CEO"
-date: 2024-08-20T12:00:05.855Z
-updated: 2024-08-21T12:00:05.855Z
+date: 2024-12-15T19:29:14.187Z
+updated: 2024-12-22T23:47:54.072Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,22 +61,16 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-haven.techidaily.com/boosting-creative-project-success-using-chatgpts-advanced-tools/"><u>Boosting Creative Project Success Using ChatGPT's Advanced Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-remote-job-efficiency-top-6-uses-of-chatgpt/"><u>Boosting Remote Job Efficiency: Top 6 Uses of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-waiting-list-growing-longer-switch-to-this-award-winning-open-source-desktop-solution/"><u>ChatGPT Waiting List Growing Longer? Switch to This Award-Winning Open Source Desktop Solution!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-powered-solutions-for-holistic-healthcare/"><u>ChatGPT-Powered Solutions for Holistic Healthcare</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-wellness-queries-here-are-7-good-points-to-choose-chatgpt-as-your-ai-doctor/"><u>Navigating Wellness Queries? Here Are 7 Good Points to Choose ChatGPT as Your AI Doctor</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-start-to-finish-how-to-edit-video-files-on-mac-os-x-yosemite/"><u>New From Start to Finish How to Edit Video Files on Mac OS X Yosemite</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/oming-the-invisible-screen-hurdle-youtube-fixes/"><u>Overcoming the Invisible Screen Hurdle YouTube Fixes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-creating-gifs-for-2024/"><u>The Ultimate Guide to Creating GIFs for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/tips-and-tricks-for-capturing-high-quality-gotomeetings-a-step-by-step-guide/"><u>Tips and Tricks for Capturing High-Quality GoToMeetings: A Step-by-Step Guide</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->

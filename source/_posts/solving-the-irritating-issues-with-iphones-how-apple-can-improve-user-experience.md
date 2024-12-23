@@ -1,7 +1,7 @@
 ---
 title: "Solving the Irritating Issues with iPhones: How Apple Can Improve User Experience"
-date: 2024-12-07T20:32:24.812Z
-updated: 2024-12-13T21:38:33.710Z
+date: 2024-12-18T23:55:41.723Z
+updated: 2024-12-22T23:16:23.911Z
 tags:
   - apple
 categories:
@@ -29,20 +29,20 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,25 +52,21 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -80,6 +76,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,22 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-seamless-integration-of-obs-studio-with-android-tech/"><u>[New] 2024 Approved Seamless Integration of OBS Studio with Android Tech</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-android-video-and-screenshot-tools-top-5-selection-for-2024/"><u>[New] Advanced Android Video & Screenshot Tools, Top 5 Selection for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-transforming-xbox-experiences-through-effective-capture-techniques-for-2024/"><u>[Updated] Transforming Xbox Experiences Through Effective Capture Techniques for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-easy-memes-to-share-on-iphone/"><u>2024 Approved Easy Memes to Share on iPhone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-gamers-galaxy-100plus-spaces-of-play/"><u>2024 Approved Gamer's Galaxy 100+ Spaces of Play</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-update-comprehensive-guide-to-downloading-new-bluetooth-drivers-for-windows-devices/"><u>Find & Update: Comprehensive Guide to Downloading New Bluetooth Drivers for Windows Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-11-pro-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 11 Pro Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-fixes-for-color-balancing-in-ps/"><u>In 2024, Quick Fixes for Color Balancing in PS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simplifying-tough-office-communications-how-to-employ-chatgpt-for-email-writing-excellence/"><u>Simplifying Tough Office Communications: How to Employ ChatGPT for Email Writing Excellence</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-13-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 13 You Should Try Out</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-dangers-of-personalized-ai-securing-your-data-against-potential-leaks-with-chatgpt/"><u>The Hidden Dangers of Personalized AI: Securing Your Data Against Potential Leaks with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-triggers-for-hacking-incidents-involving-chatgpt-accounts/"><u>The Hidden Triggers for Hacking Incidents Involving ChatGPT Accounts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-potential-effects-of-artificial-intelligence-on-video-game-development/"><u>The Potential Effects of Artificial Intelligence on Video Game Development</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-quintessential-ai-enhanced-presentation-gear/"><u>The Quintessential AI-Enhanced Presentation Gear</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-surprising-instantaneous-banning-of-chatgpt-in-italy/"><u>The Surprising Instantaneous Banning of ChatGPT In Italy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-using-codegpt-plugin-in-your-visual-studio-code-setup/"><u>The Ultimate Guide to Using CodeGPT Plugin in Your Visual Studio Code Setup</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-utilizing-chatgpt-for-culinary-guidance/"><u>Top 7: Utilizing ChatGPT for Culinary Guidance</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-amplifying-your-brand-the-famebit-approach-to-youtube-affiliates-for-2024/"><u>[New] Amplifying Your Brand The FameBit Approach to YouTube Affiliates for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-leveraging-tiktok-to-mirror-your-best-features/"><u>[New] In 2024, Leveraging TikTok to Mirror Your Best Features</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-free-mobile-screen-snatching-androids-leading-eight/"><u>[Updated] In 2024, Free Mobile Screen Snatching - Android's Leading Eight</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-insta-twist-techniques-crafting-compelling-content-with-camera-angles/"><u>2024 Approved Insta Twist Techniques Crafting Compelling Content with Camera Angles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-simplified-guide-designing-your-podcasts-rss-feed/"><u>2024 Approved Simplified Guide Designing Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-display-after-it-stops-responding-and-recovers/"><u>Expert Tips to Restore Display After It Stops Responding and Recovers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-possible-to-use-chatgpt-through-a-vpn-connection/"><u>Is It Possible To Use ChatGPT Through A VPN Connection?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-the-power-of-chatgpt-for-an-impressive-and-effective-job-resume/"><u>Leverage the Power of ChatGPT for an Impressive and Effective Job Resume</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-cross-platform-messaging-imessage-for-windows-explained/"><u>Mastering Cross-Platform Messaging: IMessage for Windows Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mercedes-benz-introduces-chatgpt-with-voice-control-to-its-vehicles/"><u>Mercedes-Benz Introduces ChatGPT With Voice Control to Its Vehicles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-level-number-crunching-top-7-ai-applications-for-effortless-mathematics/"><u>Next-Level Number Crunching: Top 7 AI Applications for Effortless Mathematics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/podcast-topic-how-microsoft-takes-over-blizzard-plus-exploring-the-impact-of-ai-on-visual-arts-and-translation-tech/"><u>Podcast Topic: How Microsoft Takes Over Blizzard + Exploring the Impact of AI on Visual Arts & Translation Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/refining-ai-communication-top-prompting-methods-for-better-outputs/"><u>Refining AI Communication: Top Prompting Methods for Better Outputs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-performance-download-msis-b350-motherboard-drivers-supporting-windows-7-and-modern-os/"><u>Upgrade to Performance: Download MSI's B350 Motherboard Drivers Supporting Windows 7 & Modern OS</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Realme C51 | Dr.fone</u></a></li>
 </ul></div>
 

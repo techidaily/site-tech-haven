@@ -1,7 +1,7 @@
 ---
 title: "Unveiling NVIDIA AI Foundations: Tailored Solutions for Next-Gen Generative AI Applications"
-date: 2024-08-20T11:59:08.268Z
-updated: 2024-08-21T11:59:08.268Z
+date: 2024-12-15T19:50:36.528Z
+updated: 2024-12-22T18:13:27.947Z
 tags:
   - chatgpt
   - open-ai
@@ -36,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Access the GPT Store
 
  Access and use of the new GPT Store [requires a ChatGPT subscription](http://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Only users with ChatGPT Plus, ChatGPT Teams, or ChatGPT Enterprise accounts will be able to use the store's catalog of custom GPTs. You also need a ChatGPT subscription if you want to [create your own custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/).
@@ -48,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  On the left sidebar of the ChatGPT interface, you should see **Explore GPTs** instead of simply **Explore**. Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
@@ -59,26 +57,32 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 2. At the top of the store page, you will see featured categories like Writing, Productivity, Programming, Research and Analysis, and DALL-E for image generation. Click on a category to view a list of the top-performing custom GPT models in that specific category.  
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
  Since you need a ChatGPT subscription to use custom GPTs, you're probably wondering whether it's worth paying the $20 subscription fee to access the feature.
@@ -95,8 +99,6 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +106,23 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-engage-listeners-with-well-crafted-podcast-summaries/"><u>[New] 2024 Approved Engage Listeners with Well-Crafted Podcast Summaries</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-simple-steps-to-make-ipad-screen-captures-a-breeze/"><u>[Updated] 2024 Approved Simple Steps to Make iPad Screen Captures a Breeze</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-amplify-your-brands-voice-the-power-of-shaped-videos/"><u>[Updated] Amplify Your Brand’s Voice The Power of Shaped Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-top-7-crypto-creators-for-nft-conversion/"><u>[Updated] Unveiling Top 7 Crypto-Creators for NFT Conversion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-become-a-social-media-sensation-top-9-tips-for-instagram-stardom/"><u>2024 Approved Become a Social Media Sensation Top 9 Tips for Instagram Stardom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-unconventional-ways-to-leverage-chatbots/"><u>5 Unconventional Ways to Leverage ChatBots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-driven-acceleration-of-hr-procedures/"><u>AI-Driven Acceleration of HR Procedures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722184110133-awaiting-chatgpt-on-your-pc-discover-a-superior-free-and-open-source-substitute-today/"><u>Awaiting ChatGPT on Your PC? Discover a Superior Free and Open-Source Substitute Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-of-malicious-extensions-how-a-fake-chatgpt-plugin-compromises-social-media-security/"><u>Beware of Malicious Extensions: How a Fake ChatGPT Plugin Compromises Social Media Security</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-methods-for-installing-new-amd-display-adapters-drivers/"><u>Hassle-Free Methods for Installing New AMD Display Adapters Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-update-for-your-hid-keyboards-device-driver-software/"><u>Hassle-Free Update for Your HID Keyboard's Device Driver Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/hppc/"><u>HPノートPCにおけるビデオ編集手順</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722028317898-the-ultimate-guide-to-navigating-openais-exclusive-custom-gpt-offerings-today/"><u>The Ultimate Guide to Navigating OpenAI’s Exclusive Custom GPT Offerings Today!</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/top-list-best-5-tools-for-creating-talking-avatars/"><u>Top List Best 5 Tools for Creating Talking Avatars</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722138884995-unlock-hidden-capabilities-the-5-best-kept-secrets-of-chatgpt-revealed/"><u>Unlock Hidden Capabilities: The 5 Best Kept Secrets of ChatGPT Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/zerogpt-myths-debunked-why-you-should-doubt-these-common-ai-detectors-with-4-proof-points/"><u>ZeroGPT Myths Debunked: Why You Should Doubt These Common AI Detectors (With 4 Proof Points)</u></a></li>
+</ul></div>
 

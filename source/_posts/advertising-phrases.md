@@ -1,7 +1,7 @@
 ---
 title: Advertising Phrases
-date: 2024-12-04T19:51:41.223Z
-updated: 2024-12-07T18:00:19.720Z
+date: 2024-12-18T01:53:21.541Z
+updated: 2024-12-23T01:16:36.082Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ If you've ever wondered how we evaluate the [latest smartphones](https://www.zdn
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test phones in 2024
 
 Kerry Wan/ZDNET
@@ -45,7 +49,7 @@ For hands-on testing, five aspects determine whether or not a phone gets recomme
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design and ergonomics
@@ -59,7 +63,7 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance
@@ -72,10 +76,6 @@ Performance testing also includes putting phones through varying levels of graph
 
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Cameras
 
 Kerry Wan/ZDNET
@@ -87,7 +87,7 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life and charging
@@ -99,7 +99,7 @@ It's also important for us to evaluate how long phones last under light, moderat
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Special features
@@ -148,21 +148,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-building-captivating-online-media-summaries/"><u>[New] 2024 Approved Building Captivating Online Media Summaries</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-extracting-image-files-from-youtube-browser-based-os-techniques-for-2024/"><u>[New] Extracting Image Files From Youtube Browser-Based, OS Techniques for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-treasure-trove-sifting-through-the-top-10-economical-online-art-hubs/"><u>[New] In 2024, A Treasure Trove Sifting Through the Top 10 Economical Online Art Hubs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-prime-listings-photoplustune-recording-software-innovations-for-2024/"><u>[New] Prime Listings Photo+Tune Recording Software Innovations for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-smart-shopping-strategy-top-7-affordable-4k-mirrorless/"><u>[Updated] Smart Shopping Strategy Top 7 Affordable 4K Mirrorless</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoiding-common-blunders-for-successful-ai-discussions/"><u>Avoiding Common Blunders for Successful AI Discussions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-for-aspiring-poets-craft-beautiful-verse-in-minutes/"><u>ChatGPT for Aspiring Poets: Craft Beautiful Verse in Minutes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-connectivity-downloading-the-right-driver-for-asus-usb-bt500-on-win11-10-and-8/"><u>Effortless Connectivity: Downloading the Right Driver for Asus USB-BT500 on Win11, 10 & 8</u></a></li>
-<li><a href="https://win11.techidaily.com/enhanced-efficiency-integrating-to-dot-and-ifttt/"><u>Enhanced Efficiency: Integrating To-Dot & IFTTT</u></a></li>
-<li><a href="https://win-able.techidaily.com/experts-reveal-ultimate-tips-to-prevent-your-sword-and-faery-epic-continuation-from-breaking-down-on-pc/"><u>Experts Reveal Ultimate Tips to Prevent Your Sword & Faery Epic Continuation From Breaking Down on PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a2-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo A2 FRP</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-multicultural-communication-using-chatgpt-fluently-across-diverse-languages/"><u>Mastering Multicultural Communication: Using ChatGPT Fluently Across Diverse Languages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-essential-guide-to-vector-databases-and-their-influence-on-ai-development/"><u>The Essential Guide to Vector Databases and Their Influence on AI Development</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-chatgpt-potential-with-the-power-of-its-api/"><u>Unlocking ChatGPT Potential with the Power of Its API</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-nlp-with-hugbing-face-comprehensive-insights-into-its-functionality-and-benefits/"><u>Unlocking the Potential of NLP with Hugbing Face: Comprehensive Insights Into Its Functionality and Benefits</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-8-essential-video-metadata-editors-for-mac-users-updated-2023/"><u>Updated 8 Essential Video Metadata Editors for Mac Users (Updated 2023)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-estimating-byte-consumption-of-full-film-daily/"><u>[Updated] Estimating Byte Consumption of Full Film Daily</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-quick-tips-efficiently-post-videos-on-igtv/"><u>2024 Approved Quick Tips Efficiently Post Videos on IGTV</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-soft-sonata-reducing-volume-in-os/"><u>2024 Approved Soft Sonata Reducing Volume in OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-honor-magic-6-lite-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Honor Magic 6 Lite Phone</u></a></li>
+<li><a href="https://facebook.techidaily.com/integrating-digital-platforms-into-company-culture/"><u>Integrating Digital Platforms Into Company Culture</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-microsofts-chatbot-down-find-out-using-these-5-strategies/"><u>Is Microsoft's Chatbot Down? Find Out Using These 5 Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-daily-meditation-habits-insights-and-advice/"><u>Leveraging ChatGPT for Daily Meditation Habits - Insights & Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-ai-image-creation-utilizing-dall-e-with-chatgpt-4/"><u>Mastering AI Image Creation: Utilizing DALL-E with ChatGPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-new-skills-with-chatgpt-learning-board-games-and-creating-visual-content/"><u>Mastering New Skills with ChatGPT: Learning Board Games & Creating Visual Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-efficiency-3-insightful-approaches-to-utilizing-the-chatgpt-wolfram-plugin/"><u>Maximize Efficiency: 3 Insightful Approaches to Utilizing the ChatGPT-Wolfram Plugin</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-chatgpt-potential-10-custom-innovations/"><u>Maximizing ChatGPT Potential: 10 Custom Innovations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/most-popular-firefox-visual-recorders/"><u>Most Popular Firefox Visual Recorders</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-trim-mkv-files-on-mac-the-top-3-software/"><u>New Trim MKV Files on Mac The Top 3 Software</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-c53-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/yl-computing-reveals-strategies-for-successfully-debugging-your-programs/"><u>YL Computing Reveals Strategies for Successfully Debugging Your Programs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IPhone 16: Is It Worth the Upgrade? Insights Experts on Pros & Cons"
-date: 2024-12-08T17:39:48.735Z
-updated: 2024-12-13T22:10:02.605Z
+date: 2024-12-18T16:05:11.804Z
+updated: 2024-12-23T01:48:24.687Z
 tags:
   - apple
 categories:
@@ -30,13 +30,13 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. The camera
 
@@ -49,10 +49,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 **Also:** [**I want to be excited about the iPhone 16's new camera button, but can't (for now)**](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/)
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
 
@@ -89,7 +85,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
@@ -97,7 +93,7 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -111,7 +107,7 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -121,6 +117,10 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
 
@@ -168,22 +168,22 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fb-to-your-device-download-videos/"><u>[New] FB to Your Device - Download Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-meditative-tunes-compilation-top-10-legal-streams-for-2024/"><u>[New] Meditative Tunes Compilation - Top 10 Legal Streams for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-art-of-kinemaster-made-memes-for-2024/"><u>[New] The Art of KineMaster-Made Memes for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-apples-fall-lineup-enhancements-for-iphone-ipad-mac-embrace-the-future-with-advanced-ai-integration-tech-insights/"><u>Discover Apple's Fall Lineup Enhancements for iPhone, iPad, Mac - Embrace the Future with Advanced AI Integration | Tech Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-how-the-latest-iphone-sixteen-elevates-photography-with-its-exclusive-camera-feature/"><u>Discover How the Latest iPhone ˈSixteen Elevates Photography with Its Exclusive Camera Feature</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-ios-174s-new-capabilities-including-emoji-updates-and-podcast-text-for-accessibility-in-the-eu-exclusive-coverage-by-zdnet/"><u>Discover iOS 17.4'S New Capabilities Including Emoji Updates & Podcast Text for Accessibility in the EU | Exclusive Coverage by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expand-your-workspace-seamlessly-set-up-a-second-monitor-on-your-m1-mac-mini-with-ease-insights-by-zdnet/"><u>Expand Your Workspace: Seamlessly Set Up a Second Monitor on Your M1 Mac Mini with Ease | Insights by ZDNET</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-tecno-spark-10-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Tecno Spark 10 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-metaverse-brand-strategies/"><u>In 2024, The Essential Guide to Metaverse Brand Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-vanguard-20-top-anime-song-starters/"><u>In 2024, Vanguard 20 Top Anime Song Starters</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/in-depth-analysis-microsoft-surface-pro-8-the-ultimate-laptop-replacement-for-professionals/"><u>In-Depth Analysis: Microsoft Surface Pro 8 - The Ultimate Laptop Replacement for Professionals</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/in-depth-analysis-microsoft-surface-pro-8-enterprise-evaluation-on-zdnet/"><u>In-Depth Analysis: Microsoft Surface Pro 8 Enterprise Evaluation on ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211639834-re-sync-your-xbox-one-controller-a-step-by-nstep-guide-on-making-it-work/"><u>Re-Sync Your Xbox One Controller: A Step-by-nStep Guide on Making It Work</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/setting-up-slack-alerts-directly-on-your-apple-watch-a-step-by-step-guide/"><u>Setting Up Slack Alerts Directly on Your Apple Watch - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-ranked-mac-maintenance-tools-of-2022-expert-picks-and-reviews-techradar/"><u>Top-Ranked Mac Maintenance Tools of 2022: Expert Picks and Reviews | TechRadar</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transform-your-iphone-footage-filming-and-slowing-down-videos/"><u>Transform Your iPhone Footage Filming and Slowing Down Videos</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-magic-6-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Magic 6 Pro Device</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-insiders-guide-to-fixing-popular-youtube-short-problems/"><u>[New] 2024 Approved The Insider's Guide to Fixing Popular YouTube Short Problems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-pc-experience-innovation-at-your-fingertips/"><u>2024 Approved Superior PC Experience Innovation at Your Fingertips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/a-comprehensive-guide-to-modern-versatile-game-recording-software-for-2024/"><u>A Comprehensive Guide to Modern, Versatile Game Recording Software for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-9-chatbot-plug-ins-for-seamless-chatgpt-integration-today/"><u>Discover the Ultimate 9 Chatbot Plug-Ins for Seamless ChatGPT Integration Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-writing-flow-with-these-8-ai-tools-for-content-professionals/"><u>Enhance Your Writing Flow with These 8 AI Tools for Content Professionals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expertly-identifying-gpt-generated-text-top-5-tools-for-academics-and-leaders/"><u>Expertly Identifying GPT-Generated Text: Top 5 Tools for Academics and Leaders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-advantages-4-key-motivations-for-transitioning-to-claude-3-instead-of-sticking-with-chatgpt/"><u>Explore Advantages: 4 Key Motivations for Transitioning to Claude 3 Instead of Sticking with ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-new-dimensions-q500-typhoon-adventure-for-2024/"><u>Exploring New Dimensions Q500 Typhoon Adventure for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-depths-of-the-midland-gxt1000vp4-for-unmatched-communication-quality/"><u>Exploring the Depths of the Midland GXT1000VP4 for Unmatched Communication Quality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-effects-of-artificial-intelligence-censorship-in-chatbots/"><u>Exploring the Effects of Artificial Intelligence Censorship in Chatbots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/freedomgpt-unveiled-how-to-install-and-use-a-no-limit-gpt-tool-on-windows-pcs/"><u>FreedomGPT Unveiled: How to Install and Use a No-Limit GPT Tool on Windows PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-code-to-conversation-ai-titans-clash/"><u>From Code to Conversation: AI Titans Clash</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-simple-clips-to-complex-systems-ais-role-in-optimizing-paperclips/"><u>From Simple Clips to Complex Systems: AI's Role in Optimizing Paperclips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-14-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 14 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/supercharge-laptops-new-drivers-from-dell-and-windows/"><u>Supercharge Laptops: New Drivers From Dell and Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/swift-remedy-clear-video-playback-issues/"><u>Swift Remedy Clear Video Playback Issues</u></a></li>
 </ul></div>
 

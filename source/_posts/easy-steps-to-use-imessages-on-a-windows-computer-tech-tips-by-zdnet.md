@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Use iMessages on a Windows Computer | Tech Tips by ZDNet
-date: 2024-12-03T17:22:11.263Z
-updated: 2024-12-07T18:08:56.778Z
+date: 2024-12-16T18:31:39.609Z
+updated: 2024-12-22T16:11:07.793Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -56,15 +60,15 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -82,6 +86,10 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -94,25 +102,13 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -134,15 +130,15 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -155,6 +151,10 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,19 +192,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-design-marvels-japanese-homescape-in-mc-landscape/"><u>[New] Design Marvels Japanese Homescape in MC Landscape</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-from-novice-to-pro-an-extensive-guide-on-using-zd-softs-recording-features/"><u>[Updated] In 2024, From Novice to Pro An Extensive Guide on Using ZD Soft’s Recording Features</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-hear-the-difference-mac-in-sound-recording/"><u>[Updated] In 2024, Hear the Difference Mac in Sound Recording</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unwinding-film-narratives-the-art-of-reversing-on-instagram/"><u>[Updated] Unwinding Film Narratives The Art of Reversing on Instagram</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/iumrmoaviow9sewdjplusw6qpluseuoeeqhjrlhajpnaiv5ry46ycy5byplplusavlowwjew8jpluswplusjowcmeeoruwtkosnewtmowknplusidveplus8joihquwllewmluwuieaokuoagesruauueiih345/"><u>高效影像庫管理:全面/漸進式/比對式後備種子保存功能，自動化安排、修改與移除後備種子，更多高階設定選項</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-showdown-can-claude-outperform-chatgpt-in-conversation/"><u>Chatbot Showdown: Can Claude Outperform ChatGPT in Conversation?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-elon-musks-vision-for-advanced-ai-with-truthgpt/"><u>Decoding Elon Musk's Vision for Advanced AI with TruthGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-embracing-ai-can-benefit-educators-top-8-reasons/"><u>How Embracing AI Can Benefit Educators: Top 8 Reasons</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone SE (2022)?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-building-dungeons-and-dragons-heroes-via-chatgptdall-e/"><u>The Ultimate Guide to Building Dungeons & Dragons Heroes via ChatGPT/DALL-E</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-strategies-mastering-your-schedule-with-chatgpt/"><u>Top 4 Strategies: Mastering Your Schedule with ChatGPT</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-premier-widgets-for-the-ios-lockscreen-unlocking-new-possibilities/"><u>Ultimate Guide: Premier Widgets for the iOS Lockscreen Unlocking New Possibilities</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-pick-of-best-automatic-clicker-programs-for-your-android-phone/"><u>Ultimate Pick of Best Automatic Clicker Programs for Your Android Phone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/write-faster-better-unlock-your-creative-potential-with-these-nine-ways-to-use-chatgpt-in-writing-a-novel/"><u>Write Faster, Better: Unlock Your Creative Potential with These Nine Ways to Use ChatGPT in Writing a Novel</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aking-money-on-youtube-a-guide/"><u>[New] Making Money on YouTube A Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mobile-communication-redefined-best-10-secured-free-video-call-apps-to-keep-you-covered-on-devices/"><u>[Updated] 2024 Approved Mobile Communication Redefined Best 10 Secured, Free Video Call Apps to Keep You Covered on Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-navigating-the-social-maze-tweets-plus-tumble-videos/"><u>[Updated] Navigating the Social Maze Tweets + Tumble Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-y78plus-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo Y78+ Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-powered-resume-building-unleashing-the-potential-of-chatgpt-for-job-applications/"><u>AI-Powered Resume Building: Unleashing the Potential of ChatGPT for Job Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/behind-the-scenes-of-truthgpt-exposed-police-probe-into-mullvad-vpns-secrets-leading-free-pc-games-listed-and-best-practices-in-mechanical-keyboards/"><u>Behind the Scenes of TruthGPT Exposed! Police Probe Into Mullvad VPN's Secrets | Leading Free PC Games Listed & Best Practices in Mechanical Keyboards</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-a-robust-brand-partnership-portfolio-on-youtube-for-2024/"><u>Building a Robust Brand Partnership Portfolio on YouTube for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/carve-out-your-chatai-masterpiece/"><u>Carve Out Your ChatAI Masterpiece</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-new-plugins-feature-a-comprehensive-signup-process-explained/"><u>ChatGPT New Plugins Feature: A Comprehensive Signup Process Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-subscription-pause-causes-and-anticipated-reopening-timeline/"><u>ChatGPT Subscription Pause: Causes and Anticipated Reopening Timeline</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-the-ultimate-matchmaker-toolkit/"><u>ChatGPT: The Ultimate Matchmaker Toolkit</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-a-gamers-guide-to-high-quality-gameplay-recordings-on-ps4/"><u>In 2024, A Gamer's Guide to High-Quality Gameplay Recordings on PS4</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-installation-of-the-epson-et-4550-printer-driver-on-windows/"><u>Quick and Easy Installation of the Epson ET-4550 Printer Driver on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-your-skype-microphone-problem-in-windows-10-systems/"><u>Resolving Your Skype Microphone Problem in Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-fixes-for-acer-audio-hardware-driver-update-tips/"><u>Speedy Fixes for Acer Audio Hardware - Driver Update Tips</u></a></li>
 </ul></div>
 

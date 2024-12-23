@@ -1,7 +1,7 @@
 ---
 title: "Setting up Automatic Tab Closure on Safari in macOS Catalina: A Step-by-Step Guide"
-date: 2024-12-02T17:23:10.928Z
-updated: 2024-12-07T21:19:43.947Z
+date: 2024-12-15T21:31:19.300Z
+updated: 2024-12-22T23:24:02.036Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ I connect to a lot of different networks. At home, I have three different LANs t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -41,7 +41,7 @@ Let me show you how it works.
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create different network locations in MacOS
@@ -51,7 +51,7 @@ Let me show you how it works.
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open System Preferences
@@ -62,6 +62,10 @@ Click the Apple menu at the top right of your display and select System Preferen
 
 From within System Preferences, click the Network icon to open the Network section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Create a new network location
 
 From the Location drop-down, select Edit Locations. In the resulting pop-up, click + (the plus sign). You will be prompted to name the location, so type a new name and hit Enter on your keyboard, and then click Done.
@@ -71,7 +75,7 @@ Creating a new Network Location in MacOS Monterey.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Configure the new location
@@ -83,10 +87,6 @@ Configuring a network for the new location in MacOS.
 Image: Jack Wallen
 
 Once you've configured the location exactly how you need it, click Apply to save everything.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Switching to a different Network Location
 
@@ -131,24 +131,22 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-leading-drones-for-superior-gopro-camera-integration/"><u>[Updated] Leading Drones for Superior GoPro Camera Integration</u></a></li>
-<li><a href="https://win-guides.techidaily.com/comment-restaurer-vos-signets-precieux-dans-google-chrome-5-methodes-simples/"><u>Comment Restaurer Vos Signets Précieux Dans Google Chrome - [5 Méthodes Simples]</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-torment-tides-of-numenera-in-depth-game-review-and-insights-into-its-unique-sci-fi-setting/"><u>Exploring 'Torment: Tides of Numenera' - In-Depth Game Review & Insights Into Its Unique Sci-Fi Setting</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-picshot-simplifies-photo-collage-creation/"><u>How Picshot Simplifies Photo Collage Creation</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-6-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone 6 Plus Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-non-chatgpt-options-for-coding-autonomy/"><u>Innovative Non-ChatGPT Options for Coding Autonomy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/insights-into-artificial-intelligence-mastering-transfer-learning/"><u>Insights Into Artificial Intelligence: Mastering Transfer Learning</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-efficiency-how-chatgpt-can-transform-your-schedule/"><u>Maximizing Efficiency: How ChatGPT Can Transform Your Schedule</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-a60s-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on A60s</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategies-to-unblock-full-capacity-windows/"><u>Strategies to Unblock Full Capacity (Windows)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synthetic-symmetry-crafting-ai-art-with-gpt-assistance/"><u>Synthetic Symmetry: Crafting AI Art with GPT Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-top-rated-free-pc-gaming-experiences-and-insights-into-mechanical-keyboard-tech/"><u>The Ultimate Guide to Top-Rated Free PC Gaming Experiences & Insights Into Mechanical Keyboard Tech</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-urgent-need-for-more-regulation-in-ai-understanding-openais-ceo-perspective/"><u>The Urgent Need for More Regulation in AI: Understanding OpenAI’s CEO Perspective</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-poco-c65-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Poco C65</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-20-gratis-inspirationstools-for-video-arkitektur-2024-komplett-utbud/"><u>Top 20 Gratis Inspirationstools För Video Arkitektur 2024 - Komplett Utbud</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-your-polyglot-dreams-into-reality-with-chatgpt-plus/"><u>Transforming Your Polyglot Dreams Into Reality with ChatGPT Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-a-data-analysts-guide-to-6-innovative-approaches/"><u>Utilizing ChatGPT: A Data Analyst's Guide to 6 Innovative Approaches</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-choosing-chatgpt-could-be-a-smart-move-for-your-wellbeeing-a-seven-point-overview/"><u>Why Choosing ChatGPT Could Be a Smart Move for Your Wellbeeing: A Seven-Point Overview</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-cutting-edge-easy-to-use-mastering-magix-vpxs-capabilities/"><u>[New] Cutting Edge, Easy to Use Mastering Magix VPX's Capabilities</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unveiling-modernity-discover-these-top-10-digital-realms-for-artistic-font-styles/"><u>[Updated] 2024 Approved Unveiling Modernity Discover These Top 10 Digital Realms for Artistic Font Styles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategies-to-alleviate-vr-motion-woes/"><u>[Updated] Strategies to Alleviate VR Motion Woes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/four-instances-proving-the-untrustworthiness-of-zerogpt-and-other-artificeial-intelligence-detectors/"><u>Four Instances Proving the Untrustworthiness of ZeroGPT and Other Artificeial Intelligence Detectors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-4-is-now-free-for-everyone-but-there-are-still-6-reasons-to-keep-using-chatgpt-plus/"><u>GPT-4 Is Now Free for Everyone, but There Are Still 6 Reasons to Keep Using ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-powered-text-interaction-for-paper-files/"><u>GPT-Powered Text Interaction for Paper Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-pales-when-it-comes-to-nuanced-writing-tasks/"><u>How ChatGPT Pales When It Comes to Nuanced Writing Tasks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-igniting-passion-creating-a-trending-solo-podcast/"><u>In 2024, Igniting Passion Creating a Trending Solo Podcast</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/join-openais-quest-track-and-report-software-glitches/"><u>Join OpenAI's Quest: Track and Report Software Glitches!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mapping-ais-emergence-in-modern-times/"><u>Mapping AI's Emergence in Modern Times</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-the-marketplace-10-ways-chatgpt-enhances-your-linkedin-job-search-strategy/"><u>Master the Marketplace: 10 Ways ChatGPT Enhances Your LinkedIn Job Search Strategy</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-flippdf-a-complete-tutorial-for-dynamic-digital-books-on-flipbuildercom/"><u>Mastering FlipPDF: A Complete Tutorial for Dynamic Digital Books on FlipBuilder.com</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-image-generation-using-chatgpt-step-by-step-tips-and-tricks/"><u>Mastering Image Generation Using ChatGPT: Step-by-Step Tips and Tricks</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/optimizing-youtube-performance-crafting-perfect-titles-and-tags/"><u>Optimizing YouTube Performance Crafting Perfect Titles and Tags</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-strategy-batch-convert-heic-to-jpeg-in-windows-11/"><u>Proven Strategy: Batch Convert HEIC to JPEG in Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-getting-the-latest-epson-et-3760-printer-software-for-windows-computers/"><u>Step-by-Step Tutorial on Getting the Latest Epson ET-3760 Printer Software for Windows Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/zero-entry-workstation-access-the-hidden-side-of-rdp-in-win-11/"><u>Zero-Entry Workstation Access: The Hidden Side of RDP in Win 11</u></a></li>
 </ul></div>
 

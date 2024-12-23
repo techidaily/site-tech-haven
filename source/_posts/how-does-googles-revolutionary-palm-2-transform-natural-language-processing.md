@@ -1,7 +1,7 @@
 ---
 title: How Does Google's Revolutionary PaLM 2 Transform Natural Language Processing?
-date: 2024-08-20T11:57:28.300Z
-updated: 2024-08-21T11:57:28.300Z
+date: 2024-12-21T18:21:54.998Z
+updated: 2024-12-22T20:45:16.532Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/41df33583a82ea2d9923ca08fb1de828ddad2dc59
 ## What Does a Good Translation Look Like?
 
 ![A Translate keyboard button ](https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574b036e27c98e637af2bd24e8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The primary purpose of translation is to convey the meaning of a speech written or spoken in one language using another language. Consequently, a good translation must not just swap the meaning of words between two languages but must convey the meaning of the entire body of text as a whole.
 
@@ -65,13 +69,14 @@ ChatGPT had a go at it:
 
 ![ChatGPT tries to translate a Filipino idiomatic expression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-translate-filipino2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And so did Google:
 
 ![Google translates a Filipino idiomatic expression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-translates-filipino2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This clearly gave both tools a hard time, but Google Translate seemed to have an edge.
 
  Of course, things were made even harder, this time switching to the Malayalam language. The task was for both translation tools to interpret an excerpt from a fairly popular novel in Malayalam.
@@ -81,11 +86,16 @@ And so did Google:
 ![ChatGPT malayalam translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Google, on the other hand, did fairly well.
 
 ![Google Translate translating malayalam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/goo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  None of the tools could get it perfectly, but Google Translate was as close as you can get. This is a close contest. While Google Translate has an edge, ChatGPT can provide the meaning of idioms instead of just translations. This could be very useful when translating a larger body of text that contains an idiom. In such cases, translating an idiom literally could be a source of confusion when read together with the surrounding text.
 
@@ -115,9 +125,6 @@ Up next is a translation task in Filipino.
 
  None of the translations are particularly perfect, but ChatGPT got as close as possible.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Google Translate vs. ChatGPT: Translating Creoles
 
  Creoles, especially those that borrow many words from other languages, are notoriously hard to translate. We tasked both ChatGPT and Google Translate to interpret a creole called "Pidgin English," spoken in West Africa.
@@ -132,46 +139,39 @@ Below is the source text:
 
 ![Google Translate Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-translate-pidgin-translation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Although not flawlessly, ChatGPT's interpretation was able to clearly convey the meaning and intent of the speaker. Considering the highly contextual nature of Pidgin English, the results are very impressive.
 
 ![ChatGPT Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-pidgin-translation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Google Translate vs. ChatGPT: Language Coverage
 
  Comparing the language coverage between ChatGPT and Google Translate is a bit tricky. Google Translate covers more than 140 languages, and that number keeps growing. This is because Google regularly adds new languages to the Google Translate tool. For ChatGPT, on the other hand, there are no official numbers regarding how many languages the tool can cover. However, based on how ChatGPT was trained, there's a logical basis to suspect that the coverage is significantly more than ChatGPT.
 
  Of course, we tested ChatGPT on several languages not supported by Google Translate. It was able to provide translations for these additional languages, which Google Translate does not offer. However, the quality of ChatGPT's translations for these unsupported languages was a bit inconsistent. While some were considerably accurate, some were quite poor and inaccurate. While ChatGPT covers more languages, the translations it provides for many of them leave much to be desired in terms of accuracy.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Google Translate vs. ChatGPT: Which Translation Tool Is Better?
 
  It's hard to say with certainty. Both translation tools have their strong points. Google has been making massive investments in[Natural Language Processing (NLP)](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) . As a result, it outperforms ChatGPT in languages to which it has paid special attention. However, considering[how ChatGPT works and its training](https://www.makeuseof.com/how-does-chatgpt-work/) , it represents a unique and exciting approach to translation. Which of them should you use? Both tools are free, so feel free to experiment and settle for which one works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT: An Emerging Translation Tool
 
  Google Translate has made a name for itself in the machine translation space. However, ChatGPT, although relatively new, is not a pushover. One of ChatGPT's greatest advantages is its ability to adjust its translation based on the context or extra provided by the user. Google Translate can not currently do this.
 
  While we can't confidently say whether ChatGPT will challenge Google Translate's dominance as the preferred translation tool, the AI chatbot clearly has the potential to give Google a fight.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,4 +180,26 @@ Below is the source text:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-frame-your-cinematic-tales-three-paths-for-instagram-borders/"><u>[New] Frame Your Cinematic Tales Three Paths for Instagram Borders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhancing-visual-storytelling-applying-luts-from-cg-central/"><u>[Updated] 2024 Approved Enhancing Visual Storytelling Applying Luts From CG Central</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-virtual-revolution-ready-heres-a-list-of-top-7-must-haves/"><u>[Updated] 2024 Approved Virtual Revolution Ready? Here's a List of Top 7 Must-Haves</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-audiences-choice-prime-action-recorder-for-2024/"><u>[Updated] Audience's Choice Prime Action Recorder for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-creative-compactness-how-to-reduce-and-enhance-iphone-photos/"><u>[Updated] Creative Compactness How to Reduce and Enhance iPhone Photos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-erase-live-video-on-facebook-windows-android-tactics-for-2024/"><u>[Updated] Erase Live Video on Facebook Windows, Android Tactics for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-do-we-experience-realities-in-a-virtual-sense/"><u>2024 Approved How Do We Experience Realities in a Virtual Sense?</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/abbyy-unveils-the-power-of-smart-content-strategies-at-tech-summit-2018/"><u>ABBYY Unveils the Power of Smart Content Strategies at Tech Summit 2018</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/confronting-dangers-chatbot-wisdom-for-wilderness/"><u>Confronting Dangers: Chatbot Wisdom for Wilderness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/could-conversational-ai-be-your-lifesaver-in-the-wild/"><u>Could Conversational AI Be Your Lifesaver In The Wild?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-top-4-benefits-why-switching-to-claude-3-outshines-chatgpt/"><u>Discover the Top 4 Benefits: Why Switching to Claude 3 Outshines ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-the-features-of-chatgpt-copilot-extension-a-comprehensive-guide/"><u>Discovering the Features of ChatGPT Copilot Extension – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dive-into-ai-with-these-9-foundational-toolsets-ideal-for-beginners/"><u>Dive Into AI with These 9 Foundational Toolsets Ideal for Beginners</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-installation-tutorial-configuring-auto-gpt-for-ubuntu-users/"><u>Easy Installation Tutorial: Configuring Auto-GPT for Ubuntu Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-tabletop-roleplaying-games-using-ai-powered-chatgpt-solutions/"><u>Elevate Tabletop Roleplaying Games Using AI-Powered ChatGPT Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/examining-the-safety-of-gpt-web-extensions/"><u>Examining the Safety of GPT Web Extensions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exclusive-tips-for-unrestricted-gpt-access-worldwide/"><u>Exclusive Tips for Unrestricted GPT Access Worldwide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/from-bland-to-blockbuster-framing-videos-in-a-square-perspective-for-2024/"><u>From Bland to Blockbuster Framing Videos in a Square Perspective for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-cure-windows-dism-failure-error-0x800f082f/"><u>Steps to Cure Windows' DISM Failure Error 0X800F082F</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Microsoft Surface Pro # Problem
-date: 2024-12-05T21:34:41.913Z
-updated: 2024-12-07T18:44:53.695Z
+date: 2024-12-18T19:32:11.747Z
+updated: 2024-12-23T01:08:35.732Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
@@ -53,7 +49,7 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -78,6 +74,10 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -95,7 +95,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -105,10 +105,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -132,6 +128,10 @@ Speaking of which, I had the Pro 8 connected to a monitor for the majority of my
 The ability to connect a tablet to an external display and have it actually work how it's supposed to is a huge boost for my productivity. I was able to have apps like Slack and iCloud email open on the Pro 8's screen, while writing in iA Writer on the larger external monitor with multiple Edge tabs open. 
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -167,11 +167,11 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -210,17 +210,16 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-launchpad-logic-the-complete-framework-for-founders-of-a-reviews-channel/"><u>[New] 2024 Approved Launchpad Logic The Complete Framework for Founders of a Reviews Channel</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-mastering-rapid-downloads-for-the-latest-musicals-on-tiktok/"><u>[New] In 2024, Mastering Rapid Downloads for the Latest Musicals on TikTok</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-chatgpt-enterprise-features-value-proposition-and-distinctive-aspects/"><u>Comprehensive Guide to ChatGPT Enterprise - Features, Value Proposition, and Distinctive Aspects</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciding-on-top-gen-ai-tools-analyzing-the-benefits-of-notion-ai-and-chatgpt/"><u>Deciding on Top Gen AI Tools - Analyzing the Benefits of Notion AI and ChatGPT</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/gestion-des-donnees-manquantes-due-a-la-panne-de-lelectricite-strategies-efficaces-pour-reduire-le-risque/"><u>Gestion Des Données Manquantes Due a La Panne De L’Électricité: Stratégies Efficaces Pour Réduire Le Risque</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-samsung-galaxy-s21-fe-5g-2023-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Samsung Galaxy S21 FE 5G (2023) Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-sonys-blu-ray-revolution-s6700-updates/"><u>In 2024, Sony's Blu-Ray Revolution S6700 Updates</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reconstructing-disappeared-chatgpt-exchanges/"><u>Reconstructing Disappeared ChatGPT Exchanges</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-on-downloading-the-latest-synaptics-paddriver-software/"><u>Step-by-Step Instructions on Downloading the Latest Synaptics PadDriver Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-truth-behind-chatgpts-content-an-insight-into-possible-plagiarism-concerns/"><u>The Truth Behind ChatGPT's Content: An Insight Into Possible Plagiarism Concerns</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-plugin-tools-for-automating-pdf-generation-with-chatgpt-boost-productivity-and-minimize-workload/"><u>Top 10 Plugin Tools for Automating PDF Generation with ChatGPT: Boost Productivity & Minimize Workload</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-essential-insights-for-asmr-aficionados/"><u>[New] 2024 Approved Essential Insights for ASMR Aficionados</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-samsung-photo-editor-review-pros-con-features-and-guide/"><u>[New] Samsung Photo Editor Review - Pros, Con, Features, and Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-screen-capture-central-apowsort-vs-competitors-explored/"><u>[Updated] In 2024, Screen Capture Central Apowsort vs Competitors Explored</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-xbox-one-shutterbug-techniques/"><u>[Updated] The Ultimate Xbox One Shutterbug Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-ai-communication-the-ultimate-guide-to-crafting-effective-prompts-7-essentials/"><u>Advanced AI Communication: The Ultimate Guide to Crafting Effective Prompts (7 Essentials)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assisted-swindles-the-top-7-strategies-used-by-digital-fraudsters-in-romance-scams/"><u>AI Assisted Swindles: The Top 7 Strategies Used by Digital Fraudsters in Romance Scams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722193519626-emoji-free-tweet-space-linuss-revelations-shared-trojans-analyzed-and-chatgpt-critique/"><u>Emoji-Free Tweet Space, Linus's Revelations Shared, Trojans Analyzed, & ChatGPT Critique</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/fashion-and-fitness-collide-in-amazfit-gts-evaluation-a-comprehensive-analysis/"><u>Fashion and Fitness Collide in Amazfit GTS Evaluation – A Comprehensive Analysis</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-spin-swivel-and-shuffle-videos-effortlessly-using-vlc-player/"><u>In 2024, Spin, Swivel, and Shuffle Videos Effortlessly Using VLC Player</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unlock-the-power-of-green-screen-top-10-free-apps-for-android-and-ios/"><u>Unlock the Power of Green Screen Top 10 Free Apps for Android & iOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-does-the-shift-in-leadership-at-openai-imply-for-the-development-and-future-of-chatgpt/"><u>What Does the Shift in Leadership at OpenAI Imply for the Development and Future of ChatGPT?</u></a></li>
 </ul></div>
 

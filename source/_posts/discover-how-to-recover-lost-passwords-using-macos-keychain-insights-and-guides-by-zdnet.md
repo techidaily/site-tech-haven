@@ -1,7 +1,7 @@
 ---
 title: Discover How to Recover Lost Passwords Using macOS Keychain | Insights & Guides by ZDNET
-date: 2024-12-09T22:19:16.497Z
-updated: 2024-12-13T20:54:16.367Z
+date: 2024-12-17T22:07:54.298Z
+updated: 2024-12-22T19:21:39.041Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -27,7 +27,7 @@ I will start this out by reminding everyone that you should be using a password 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
@@ -39,7 +39,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -53,7 +53,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -70,10 +70,6 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -81,6 +77,10 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 **Figure 3**
 
 Creating a new password entry to be stored in the Keychain Access tool. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -113,18 +113,15 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-epitome-of-plot-crafting-through-eight-cinematic-fields-for-2024/"><u>[New] Epitome of Plot Crafting Through Eight Cinematic Fields for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-swift-simplified-steps-mastering-iphone-screen-recordings/"><u>[New] Swift, Simplified Steps Mastering Iphone Screen Recordings</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-androids-ultimate-sky-archive-sentries-2-written-by-a-user-not-an-ai-model/"><u>[Updated] 2024 Approved Android's Ultimate Sky Archive Sentries (2 Written by a User, Not an AI Model</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/onlinevideoconverter/"><u>【重要】OnlineVideoConverterでウイルスリスクが高まっている！安全な動画変換手段を学ぶ</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ace-your-phone-experience-with-apples-underrated-iphone-advantage-uncovered/"><u>Ace Your Phone Experience with Apple’s Underrated iPhone Advantage - Uncovered !</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-revolution-at-apple-embracing-the-future-of-technology-by-following-in-microsofts-bing-footsteps-exclusive/"><u>AI Revolution at Apple: Embracing the Future of Technology by Following in Microsoft's Bing Footsteps Exclusive</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-just-typing-discover-how-this-iphone-cases-leading-edge-technology-outshines-its-physical-keyboard-exclusive-review-by-zdnet/"><u>Beyond Just Typing: Discover How This iPhone Case's Leading-Edge Technology Outshines Its Physical Keyboard | Exclusive Review by ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-california-drivers-can-link-their-licenses-with-apple-pay-and-google-wallet-a-step-by-step-guide/"><u>How California Drivers Can Link Their Licenses with Apple Pay and Google Wallet: A Step-by-Step Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/solving-the-july-update-dilemma-preventing-your-pcs-encryption-woes-with-bitlocker-recovery-tips-cybersecurity-central/"><u>Solving the July Update Dilemma: Preventing Your PC's Encryption Woes with BitLocker Recovery Tips | CyberSecurity Central</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-mastering-the-art-of-airpods-resetting-and-optimal-timing-tips/"><u>Step-by-Step Guide: Mastering the Art of AirPods Resetting & Optimal Timing Tips!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-images-into-textbooks-photo-text-editor-hacks/"><u>Transform Images Into Textbooks Photo Text Editor Hacks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transition-made-simple-how-to-shift-your-photograph-collection-from-google-photos-to-icloud-services/"><u>Transition Made Simple: How to Shift Your Photograph Collection From Google Photos to iCloud Services</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-breathing-life-into-bios-a-zodiac-perspective/"><u>2024 Approved Breathing Life Into Bios A Zodiac Perspective</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-pc-from-falling-asleep-automatically-simple-fixes/"><u>How to Stop Your PC From Falling Asleep Automatically - Simple Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-honor-x50-gt-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Honor X50 GT Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-12-affordable-high-quality-video-apps-recommended-for-pc-and-android-devices-for-2024/"><u>Top 12 Affordable, High-Quality Video Apps Recommended for PC & Android Devices for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-conversations-enhanced-gpt-plus-available-to-us-us20mo/"><u>Transform Conversations: Enhanced GPT-Plus Available to US (US$20/Mo)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-smarter-mobile-searches-bings-ai-feature-expands-to-ios-and-android-applications/"><u>Unlock Smarter Mobile Searches: Bing's AI Feature Expands to iOS and Android Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-full-potential-of-ai-learn-from-the-best-with-7-dynamic-prompting-tricks-you-need/"><u>Unlock the Full Potential of AI: Learn From the Best With 7 Dynamic Prompting Tricks You Need</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-dungeon-mastery-chatgpts-role-in-epic-fantasy-games/"><u>Unlocking Dungeon Mastery: ChatGPT's Role in Epic Fantasy Games</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/windows-defenders-protection-arsenal-uncover-the-presence-of-a-firewall/"><u>Windows Defender's Protection Arsenal - Uncover the Presence of a Firewall</u></a></li>
 </ul></div>
 

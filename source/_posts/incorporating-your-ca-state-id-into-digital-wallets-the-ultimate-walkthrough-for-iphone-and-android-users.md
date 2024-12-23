@@ -1,7 +1,7 @@
 ---
 title: "Incorporating Your CA State ID Into Digital Wallets: The Ultimate Walkthrough for iPhone & Android Users"
-date: 2024-12-05T19:50:38.289Z
-updated: 2024-12-07T17:13:10.270Z
+date: 2024-12-17T16:19:47.527Z
+updated: 2024-12-22T21:31:22.957Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -43,6 +43,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -53,7 +57,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -62,19 +66,11 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,20 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nhancing-social-reach-youtube-videos-on-facebook-sites-for-2024/"><u>[New] Enhancing Social Reach YouTube Videos on Facebook Sites for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-duality-mastering-image-turnover-on-social-media-giants/"><u>[New] In 2024, The Art of Duality Mastering Image Turnover on Social Media Giants</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-picsart-breakdown-insights-and-instructions-2024/"><u>[New] The Complete PicsArt Breakdown Insights and Instructions 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-work-efficiency-the-power-of-onlyoffice-docspace-integrating-with-chatgpt/"><u>Boosting Work Efficiency: The Power of ONLYOFFICE DocSpace Integrating with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creating-poetry-with-ai-mastering-the-art-of-using-chatgpt/"><u>Creating Poetry with AI: Mastering the Art of Using ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/debunking-myth-no-legitimate-chatgpt-app-for-windows-beware-of-fake-versions/"><u>Debunking Myth: No Legitimate ChatGPT App for Windows - Beware of Fake Versions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/engage-and-scrutinize-your-pdfs-using-these-6-innovative-chatgpt-conversational-tools/"><u>Engage and Scrutinize Your PDFs Using These 6 Innovative ChatGPT Conversational Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-distinctions-between-auto-gpt-and-chatgpt/"><u>Exploring the Distinctions Between Auto-GPT & ChatGPT</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-motorola-edge-40-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Motorola Edge 40 Pro FRP?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-a24-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy A24 Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/redefining-intelligence-evaluation-beyond-the-classic-trial/"><u>Redefining Intelligence Evaluation Beyond the Classic Trial</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-hardware-drivers-in-device-manager/"><u>Resolving Hardware Drivers in Device Manager</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-prime-headset-mic-failure-solutions-at-hand/"><u>SteelSeries Arctis Prime Headset Mic Failure - Solutions at Hand</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-the-power-of-books-with-these-best-ai-based-reading-platforms/"><u>Unleash the Power of Books with These Best AI-Based Reading Platforms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-optimal-viewing-times-on-instagram-videos/"><u>[New] Optimal Viewing Times on Instagram Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-tips-for-effective-ppt-sharing-via-google-meet/"><u>[New] Tips for Effective PPT Sharing via Google Meet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-2-ways-to-fade-audio-in-ableton/"><u>[Updated] 2 Ways to Fade Audio in Ableton</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elevate-sound-recording-on-windows-the-ultimate-guide/"><u>[Updated] 2024 Approved Elevate Sound Recording on Windows The Ultimate Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-honor-magic-6-lite-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-next-gen-audio-gadget-leak-insights-on-pricing-launch-timeline-and-features/"><u>Apple's Next-Gen Audio Gadget Leak: Insights on Pricing, Launch Timeline & Features!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-auto-gpt-stand-alone-without-relying-on-gpt-narratives/"><u>Can Auto-GPT Stand Alone Without Relying on GPT-Narratives?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-for-mac-users-unleash-its-potential-today/"><u>ChatGPT for Mac Users: Unleash Its Potential Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-limitations-demystified-a-list-of-7-unprocessable-queries/"><u>ChatGPT's Limitations Demystified: A List of 7 Unprocessable Queries</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-right-chatgpt-tool-web-based-or-plugin-options/"><u>Choosing the Right ChatGPT Tool: Web-Based or Plugin Options?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conversational-efficiency-avoiding-chatgpt-slip-ups/"><u>Conversational Efficiency: Avoiding ChatGPT Slip-Ups</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-narrative-expert-tips-on-using-chatgpt-prompts-to-build-memorable-protagonists-and-antagonists/"><u>Elevate Your Narrative: Expert Tips on Using ChatGPT Prompts to Build Memorable Protagonists and Antagonists</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-classroom-engagement-with-five-chatgpt-strategies/"><u>Elevating Classroom Engagement with Five ChatGPT Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enlightening-your-ai-journey-7-must-try-tips/"><u>Enlightening Your AI Journey: 7 Must-Try Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-guide-unraveling-ios-screen-capture-magic/"><u>Essential Guide Unraveling IO's Screen Capture Magic</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-ultimate-list-of-chatgpt-extensions-for-immediate-use/"><u>Explore the Ultimate List of ChatGPT Extensions for Immediate Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-latest-features-mastering-anthropics-claude-3-ai-through-effective-prompt-strategies/"><u>Exploring the Latest Features: Mastering Anthropic's Claude 3 AI Through Effective Prompt Strategies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/htc-u23-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>HTC U23 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/virtual-frontiers-today-for-2024/"><u>Virtual Frontiers Today for 2024</u></a></li>
 </ul></div>
 

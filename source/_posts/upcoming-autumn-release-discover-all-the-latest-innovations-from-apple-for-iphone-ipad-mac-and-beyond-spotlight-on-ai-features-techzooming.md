@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Autumn Release: Discover All the Latest Innovations From Apple for iPhone, iPad, Mac, and Beyond - Spotlight on AI Features | TechZooming"
-date: 2024-12-11T16:44:38.609Z
-updated: 2024-12-13T18:23:03.514Z
+date: 2024-12-16T00:15:09.384Z
+updated: 2024-12-22T20:10:32.741Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -91,7 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -109,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -123,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -155,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -210,16 +210,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-sourav-joshis-blueprint-for-youtube-2024-income/"><u>[Updated] Sourav Joshi's Blueprint for YouTube 2024 Income</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/affordable-home-flight-enjoyed-with-the-syma-107g-rc-helicopter-our-expert-review-inside/"><u>Affordable Home Flight Enjoyed with the Syma 107G RC Helicopter - Our Expert Review Inside!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-efficiency-on-the-go-latest-advancements-in-xr-headsets-revealed-by-experts-at-zdnet/"><u>Boost Your Efficiency on the Go! Latest Advancements in XR Headsets Revealed by Experts at ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-new-ios-181-beta-release-with-enhanced-apple-smart-technology-join-now-for-free-tutorials-digitalworld-insights/"><u>Discover New iOS 18.1 Beta Release with Enhanced Apple Smart Technology - Join Now for Free Tutorials | DigitalWorld Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/early-access-snag-the-apple-m2-macbook-air-for-just-800-before-official-deals-kick-in-available-now-on-amazon/"><u>Early Access: Snag the Apple M2 MacBook Air for Just $800 Before Official Deals Kick In – Available Now on Amazon!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-reviews-on-the-most-durable-iphone-se-case-for-2eiwu-2022-in-depth-comparison-with-best-picks-from-zdnet/"><u>Expert Reviews on the Most Durable iPhone SE Case for 2Eiwu 2022 | In-Depth Comparison with Best Picks From ZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-unveiling-techniques-for-targeted-youtube-video-download/"><u>In 2024, Unveiling Techniques for Targeted YouTube Video Download</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/make-marine-scenes-fluidly-with-these-7-tricks-for-2024/"><u>Make Marine Scenes Fluidly with These 7 Tricks for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-art-of-audience-appreciation-fostering-viewer-relationships-for-2024/"><u>The Art of Audience Appreciation Fostering Viewer Relationships for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-fifa-matches-visualized-data-highlights-for-2024/"><u>Top FIFA Matches Visualized Data Highlights for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-tablet-reviews-and-comparisons-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated Tablet Reviews & Comparisons - In Depth Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-achieving-financial-independence-through-youtube-and-adsense/"><u>[New] In 2024, Achieving Financial Independence Through YouTube and AdSense</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-optimizing-youtube-profits-understanding-your-adsense-earnings-per-kv/"><u>2024 Approved Optimizing Youtube Profits Understanding Your AdSense Earnings per KV</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210198346-9781631593987-being-with-flowers/"><u>Being with Flowers | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-insight-into-mematics-app-features-for-2024/"><u>Exclusive Insight Into Mematic's App Features for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-11-year-old-video-sensation-unprecedented-wealth-accumulation/"><u>In 2024, 11-Year-Old Video Sensation Unprecedented Wealth Accumulation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-future-of-employment-6-reasons-to-embrace-chatgpt-in-your-professional-life/"><u>Navigating the Future of Employment: 6 Reasons to Embrace ChatGPT in Your Professional Life</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/professional-note-taking-mastery-leveraging-chatgpt-for-efficient-information-recording/"><u>Professional Note-Taking Mastery: Leveraging ChatGPT for Efficient Information Recording</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/shellscripts-for-shellgpt-interaction-with-gpt-models/"><u>ShellScripts for ShellGPT Interaction with GPT Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/silicon-valley-whispers-new-gpt-speculation/"><u>Silicon Valley Whispers: New GPT Speculation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-converting-dall-e-3s-webp-files-to-pngjpg-format/"><u>Simple Steps: Converting DALL-E 3'S WebP Files to PNG/JPG Format</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-journey-of-facebook-birth-appeal-and-essential-components-explored/"><u>The Journey of Facebook: Birth, Appeal, and Essential Components Explored</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Essential Improvements for Android: Steps Toward Surpassing Apple's iPhone | TechInsight"
-date: 2024-12-11T19:04:33.552Z
-updated: 2024-12-13T18:56:48.055Z
+date: 2024-12-21T00:58:10.666Z
+updated: 2024-12-22T21:54:20.962Z
 tags:
   - apple
 categories:
@@ -29,10 +29,14 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Apple Intelligence will bring to the company's operating system platforms
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI on the device and in the cloud
 
@@ -57,7 +61,7 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Embracing third-party AI providers
@@ -76,15 +80,15 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### AI image generation and Genmoji
 
 Apple has opened up a world of creative possibilities by integrating the [Image Playground](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) API into all apps. Users can create AI-generated images in three styles: Sketch, Animation, and Realism. Imagine creating and sharing these images directly within Messages or Pages -- it's a game-changer. In Notes, a new Image Wand tool can generate images based on the current page content. [Genmoji](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) allows users to create custom emojis, adding a personalized touch to communications.
 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
 
@@ -107,10 +111,6 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Also: [What is Apple Intelligence? How the iPhone's on-device and cloud-based AI works](https://www.zdnet.com/article/what-is-apple-intelligence-how-the-iphones-on-device-and-cloud-based-ai-will-work/)**
 
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The developer story
 
@@ -137,7 +137,7 @@ Finally, the new Translation API will be unveiled. It will help developers build
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
@@ -180,21 +180,22 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-lowering-the-quality-of-obs-streaming/"><u>[Updated] 2024 Approved Lowering the Quality of OBS Streaming</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quintet-of-top-10-royale-battles/"><u>[Updated] 2024 Approved Quintet of Top 10 Royale Battles</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-vegaspro-2019-a-comprehensive-analysis/"><u>[Updated] In 2024, VegasPro 2019 A Comprehensive Analysis</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-power-of-stories-in-youtube-expansion/"><u>[Updated] The Power of Stories in YouTube Expansion</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-novice-to-pro-a-complete-exploration-of-zd-software-recording-features/"><u>2024 Approved From Novice to Pro A Complete Exploration of ZD Software Recording Features</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722708292801-a-closer-look-at-budget-smartwatches-thrilling-review-and-insight-into-the-beantech-bitwatch-s1-plus/"><u>A Closer Look at Budget Smartwatches - Thrilling Review and Insight Into the Beantech Bitwatch S1 Plus.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-card-updates-identifying-future-partners-and-implications-for-users/"><u>Apple Card Updates: Identifying Future Partners and Implications for Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/connecting-on-the-go-using-your-apple-watch-to-stay-updated-with-loved-ones/"><u>Connecting on the Go: Using Your Apple Watch to Stay Updated with Loved Ones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/digitalize-your-driving-documents-adding-a-drivers-license-to-iphone-wallet-by-location/"><u>Digitalize Your Driving Documents: Adding a Driver's License to iPhone Wallet by Location</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/find-the-mean-of-these-absolute-deviations-85-plus-25-plus-15-plus-35-plus-45-plus-65-6-approx-270-groop6-approx-45/"><u>Find the Mean of These Absolute Deviations: $(8.5 + 2.5 + 1.5 + 3.5 + 4.5 + 6.5) / 6 Approx 27.0 / Groop(6) Approx 4.5$</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-launchpad-essentials-your-first-steps-in-streaming/"><u>In 2024, Launchpad Essentials Your First Steps in Streaming</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone-16-vs-iphone-15-showdown-key-comparisons-for-potential-upgrades-techadvisor/"><u>IPhone 16 Vs. IPhone 15 Showdown: Key Comparisons for Potential Upgrades | TechAdvisor</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-cross-device-cooperation-in-apple-pages-using-icloud-expert-strategies-by-zdnet/"><u>Mastering Cross-Device Cooperation in Apple Pages Using iCloud: Expert Strategies by ZDNet</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/prime-selection-8-best-free-mobile-mp3-downloaders-for-2024/"><u>Prime Selection - 8 Best Free Mobile MP3 Downloaders for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-iphone-models-best-avoided-at-the-moment-insights-from-tech-experts/"><u>Top 4 iPhone Models Best Avoided at the Moment: Insights From Tech Experts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-photo-enhancement-with-complete-guide-to-facetune-for-2024/"><u>[New] Mastering Photo Enhancement with Complete Guide to Facetune for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-wit-wave-twitters-funniest-content-for-2024/"><u>[New] Wit Wave Twitter's Funniest Content for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-increasing-your-youtube-traffic-with-100kplus-view-goals/"><u>[Updated] 2024 Approved Increasing Your YouTube Traffic with 100K+ View Goals</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-digital-film-composer/"><u>[Updated] Digital Film Composer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-the-dynamics-of-profit-distribution-in-video-shorts/"><u>[Updated] In 2024, Exploring the Dynamics of Profit Distribution in Video Shorts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-obs-studio-for-gamers-ps4-screenshots-and-recordings-guide/"><u>2024 Approved OBS Studio for Gamers PS4 Screenshots & Recordings Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/capturing-panoramic-views-fisheye-techniques/"><u>Capturing Panoramic Views Fisheye Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-top-picks-of-engaging-click-based-pc-gaming/"><u>In 2024, Top Picks of Engaging Click-Based PC Gaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-the-use-of-language-models-in-hacking/"><u>Probing the Use of Language Models in Hacking</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-forefront-ai-vs-chatgpt-which-one-wins/"><u>Understanding Forefront AI Vs. ChatGPT - Which One Wins?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-privacy-implications-when-interacting-with-chatgpt/"><u>Understanding Privacy Implications when Interacting with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-safety-measures-of-chatgpt-are-there-vulnerabilities/"><u>Understanding the Safety Measures of ChatGPT - Are There Vulnerabilities?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-potential-engage-with-gpts-new-web-integrations/"><u>Unleashing Potential: Engage with GPT's New Web Integrations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-advanced-conversations-with-chatgpt-on-windows-explore-the-free-local-version-using-gpt-4-all/"><u>Unlock Advanced Conversations with ChatGPT on Windows - Explore the Free, Local Version Using GPT-4 All</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-behind-claude-ai-technology-how-can-it-transform-your-workflows/"><u>Unveiling the Secrets Behind Claude AI Technology - How Can It Transform Your Workflows?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-professionals-should-prioritize-learning-chatgpt-the-6-key-points/"><u>Why Professionals Should Prioritize Learning ChatGPT - The 6 Key Points</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-the-chatgpt-mobile-app-outshines-its-web-counterpart-a-closer-look-at-ios-benefits/"><u>Why the ChatGPT Mobile App Outshines Its Web Counterpart: A Closer Look at iOS Benefits</u></a></li>
 </ul></div>
 

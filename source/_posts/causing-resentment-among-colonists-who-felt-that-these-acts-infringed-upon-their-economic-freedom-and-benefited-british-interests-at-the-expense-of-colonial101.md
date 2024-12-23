@@ -1,7 +1,7 @@
 ---
 title: Causing Resentment Among Colonists Who Felt that These Acts Infringed upon Their Economic Freedom and Benefited British Interests at the Expense of Colonial Development.
-date: 2024-12-06T17:45:56.255Z
-updated: 2024-12-07T20:57:00.340Z
+date: 2024-12-15T19:51:20.182Z
+updated: 2024-12-23T01:06:38.049Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -65,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -75,10 +75,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -112,6 +108,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -154,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,20 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-streaming-success-new-youtube-monetization-rules/"><u>[New] 2024 Approved Streaming Success New YouTube Monetization Rules</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-accelerated-cinematography-best-5-diy-hacks-for-quick-learning/"><u>[Updated] Accelerated Cinematography Best 5 DIY Hacks for Quick Learning</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-best-twitter-video-downloaders-how-to-save-twitter-videos/"><u>2024 Approved Best Twitter Video Downloaders How to Save Twitter Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dead-by-daylight-ultimate-troubleshooting-guide-fixes-for-the-persistent-2024-crash/"><u>Dead By Daylight - Ultimate Troubleshooting Guide: Fixes for the Persistent 2024 Crash</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-13-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 13 mini to Android? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-find-x6-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Oppo Find X6</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-elite-access-to-gpt-justifiable/"><u>Is Elite Access to GPT Justifiable?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/personal-growth-reflections-for-digital-platforms/"><u>Personal Growth Reflections for Digital Platforms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/rediscovering-the-classics-msn-gamespy-winamp-and-more-memorable-tech-relics/"><u>Rediscovering the Classics: MSN, GameSpy, Winamp & More Memorable Tech Relics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/roku-express-and-stick-comparison-unveiling-key-distinctions/"><u>Roku Express and Stick Comparison: Unveiling Key Distinctions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/securing-your-data-a-step-by-step-guide-to-encrypting-a-usb-drive-on-windows-1011/"><u>Securing Your Data: A Step-by-Step Guide to Encrypting a USB Drive on Windows 10/11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/soon-windows-11-tackles-and-overcomes-its-major-challenges-with-fat32-storage/"><u>Soon, Windows 11 Tackles and Overcomes Its Major Challenges with FAT32 Storage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/stardock-desktopgpt-the-ultimate-ai-driven-tool-superseding-traditional-power-user-assistants/"><u>Stardock DesktopGPT: The Ultimate AI-Driven Tool Superseding Traditional Power User Assistants</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-how-to-disable-ubuntus-top-panel-and-side-dock-for-a-clean-desktop-view/"><u>Step-by-Step Guide: How to Disable Ubuntu's Top Panel and Side Dock for a Clean Desktop View</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-transitioning-from-older-operating-systems-to-windows-11/"><u>Step-by-Step Guide: Transitioning From Older Operating Systems to Windows 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-address-mobile-devices-stalled-fb-videos/"><u>[New] In 2024, Address Mobile Devices Stalled FB Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/12-artificial-intelligence-helpers-for-perfecting-emails/"><u>12 Artificial Intelligence Helpers for Perfecting Emails</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-ways-ai-can-help-cybercriminals/"><u>5 Ways AI Can Help Cybercriminals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/8-innovative-methods-to-harness-the-power-of-chatgpt-visual-capabilities/"><u>8 Innovative Methods to Harness the Power of ChatGPT Visual Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assistance-showdown-copilot-vs-chatgpt-for-programmers/"><u>AI Assistance Showdown: Copilot Vs. ChatGPT for Programmers</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/design-chic-interactive-brochures-quickly-with-flipbooks-modern-and-user-friendly-templates-at-flipbuildercom/"><u>Design Chic Interactive Brochures Quickly with FlipBook's Modern and User-Friendly Templates at [FlipBuilder.com]</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/google-pixel-5-unveiled-an-exceptional-synthesis-of-budget-friendly-power-and-flagship-luxuries-in-our-comprehensive-review/"><u>Google Pixel 5 Unveiled: An Exceptional Synthesis of Budget-Friendly Power and Flagship Luxuries in Our Comprehensive Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harmonizing-highlights-how-to-add-soundtracks-to-powerpoint/"><u>Harmonizing Highlights How to Add Soundtracks to PowerPoint</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-x9a-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor X9a phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722082614161-impatient-for-a-direct-chat-with-chatgpt-on-your-computer-heres-why-you-shouldnt-overlook-open-source-substitutes/"><u>Impatient for a Direct Chat with ChatGPT on Your Computer? Here's Why You Shouldn’t Overlook Open Source Substitutes!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-video-resume-builder-showdown-4-best-options-free-templates/"><u>New In 2024, Video Resume Builder Showdown 4 Best Options Free Templates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-your-ip-terminal-window-steps/"><u>Unveiling Your IP: Terminal Window Steps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/xchange-reviews-top-tools-and-substitutes/"><u>XChange Reviews Top Tools & Substitutes</u></a></li>
 </ul></div>
 

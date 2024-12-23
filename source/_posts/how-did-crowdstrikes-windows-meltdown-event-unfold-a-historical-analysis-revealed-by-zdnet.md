@@ -1,7 +1,7 @@
 ---
 title: How Did CrowdStrike's Windows Meltdown Event Unfold ? A Historical Analysis Revealed by ZDNet
-date: 2024-11-30T21:40:30.059Z
-updated: 2024-12-07T21:24:03.783Z
+date: 2024-12-16T16:32:45.687Z
+updated: 2024-12-22T21:47:18.562Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,20 +176,16 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/efine-your-recordings-the-art-of-sound-reduction/"><u>[New] Refine Your Recordings The Art of Sound Reduction</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ensuring-long-term-access-to-itunes-videos-for-2024/"><u>[Updated] Ensuring Long-Term Access to iTunes Videos for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-streamline-your-meetings-with-these-tools/"><u>[Updated] In 2024, Streamline Your Meetings with These Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/building-a-restriction-free-gpt-experience-for-windows-users-with-freedomgpt-integration/"><u>Building a Restriction-Free GPT Experience for Windows Users with FreedomGPT Integration</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comprehensive-first-impressions-of-apple-vision-pro-after-a-month-all-your-top-concerns-addressed/"><u>Comprehensive First Impressions of Apple Vision Pro After a Month - All Your Top Concerns Addressed</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/compressing-files-on-windows-10-a-simple-guide-by-yl-computing/"><u>Compressing Files on Windows 10: A Simple Guide by YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-finest-ai-languages-for-programming-without-chatgpt/"><u>Discover the Finest AI Languages for Programming without ChatGPT</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-updated-wireless-n-network-adapter-drivers-for-multiple-windows-versions/"><u>Download Updated Wireless N Network Adapter Drivers for Multiple Windows Versions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-ai-on-the-rise-8-key-factors-for-growing-safety-concerns/"><u>Generative AI on the Rise: 8 Key Factors for Growing Safety Concerns</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y100i-power-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y100i Power 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/holistic-photo-tale-architect-platform/"><u>Holistic Photo Tale Architect Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/safeguarding-business-conversations-on-gpt-services/"><u>Safeguarding Business Conversations on GPT Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/social-media-engagement-boosted-with-gpt-wisdom/"><u>Social Media Engagement Boosted with GPT Wisdom</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-your-entertainment-choices-using-chatgpt/"><u>Streamline Your Entertainment Choices Using ChatGPT</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-is-my-mobile-devices-wi-fi-so-darn-slow-unveiling-7-surprising-culprits/"><u>Why Is My Mobile Device's Wi-Fi So Darn Slow? Unveiling 7 Surprising Culprits</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/eyes-on-the-digital-winners-top-channels/"><u>Eyes on the Digital Winners Top Channels</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-ai-into-development-processes-insights-from-experienced-coders/"><u>Integrating AI Into Development Processes: Insights From Experienced Coders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intuitive-driving-meets-innovation-mercedes-benzs-latest-feature-voice-controlled-chatgpt-system/"><u>Intuitive Driving Meets Innovation: Mercedes-Benz's Latest Feature - Voice-Controlled ChatGPT System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-courtesy-required-when-interacting-with-virtual-assistants-like-chatgpt-alexa-and-siri/"><u>Is Courtesy Required When Interacting with Virtual Assistants Like ChatGPT, Alexa, and Siri?</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/is-it-worth-the-expense-unveiling-the-capabilities-and-value-of-the-keychron-q5-on-zdnet/"><u>Is It Worth the Expense? Unveiling the Capabilities and Value of the Keychron Q5 on ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-excel-capabilities-ai-cant-match/"><u>Mastering Excel: Capabilities AI Can't Match!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-potential-here-are-erreason-10-upgrades-to-opt-for-with-chatgpt-plus/"><u>Maximize Your Potential: Here Are erReason 10 Upgrades To Opt For With ChatGPT Plus</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-amd-rx-570-for-windows-versions-downloading-now/"><u>Optimize AMD RX 570 for Windows Versions Downloading Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-the-troubles-how-to-fix-total-war-warhammer-ii-crashing-concerns-resolved-guide/"><u>Overcome the Troubles: How to Fix TOTAL WAR: Warhammer II Crashing Concerns | Resolved Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prepare-your-iphone-for-a-seamless-transition-to-ios-18-with-these-expert-approved-strategies-zdnet-insights/"><u>Prepare Your iPhone for a Seamless Transition to iOS 18 with These Expert-Approved Strategies | ZDNET Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-poco-c50-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Poco C50 Phone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Apple Pay Usage: A Guide for In-Store and E-Commerce Transactions - Expert Tips"
-date: 2024-12-08T22:54:14.617Z
-updated: 2024-12-13T21:03:45.256Z
+date: 2024-12-19T19:31:16.582Z
+updated: 2024-12-22T23:56:37.336Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
@@ -45,7 +41,7 @@ Tap on the Wallet app to open it.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
@@ -78,10 +74,6 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -89,6 +81,10 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -103,6 +99,10 @@ Once unlocked, hold your iPhone near the payment terminal to use Apple Pay.
 Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -124,7 +124,7 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
@@ -136,6 +136,10 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 **Also: [Venmo and PayPal now offer 'Tap to Pay' on iPhone for businesses](https://www.zdnet.com/article/venmo-and-paypal-now-offer-tap-to-pay-on-iphone-for-businesses/)**
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Apple Cash?
 
@@ -158,10 +162,6 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,17 +197,21 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-from-idea-to-action-founding-your-consumer-product-assessment-site/"><u>[New] 2024 Approved From Idea to Action Founding Your Consumer Product Assessment Site</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quick-fixes-for-seamless-phone-screencasting/"><u>[New] In 2024, Quick Fixes for Seamless Phone Screencasting</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-vs-video-edition-gopro-hero-or-polaroid-cube/"><u>[New] In 2024, Vs. Video Edition GoPro Hero or Polaroid Cube?</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-sword-and-fairy-7-keeps-crashing-on-pc/"><u>[SOLVED] Sword and Fairy 7 Keeps Crashing on PC</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/o-get-a-youtube-video-trending/"><u>How to Get a YouTube Video Trending</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-seamlessly-connect-chatgpt-with-siri-on-ios-devices/"><u>How to Seamlessly Connect ChatGPT with Siri on iOS Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722890149483-hulu-viewing-tips-for-lg-smart-tv-users-get-started-today/"><u>Hulu Viewing Tips for LG Smart TV Users - Get Started Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/human-actions-vs-natural-variability-in-global-warming-debates/"><u>Human Actions Vs. Natural Variability in Global Warming Debates</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/immediate-assistance-at-fingertips-bing-ai-on-the-go-with-android-keyboards/"><u>Immediate Assistance at Fingertips: Bing AI on the Go with Android Keyboards</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/jumping-to-ais-next-chapter-gpt-4-vs-gpt-35/"><u>Jumping to AI's Next Chapter: GPT-4 Vs. GPT-3.5</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unlocking-the-upside-exploring-asmrs-advantages-for-2024/"><u>Unlocking the Upside Exploring ASMR's Advantages for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-boost-your-post-with-three-video-border-methods/"><u>[New] Boost Your Post with Three Video Border Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-the-transition-moving-your-snapchat-savings-home/"><u>[New] In 2024, Mastering the Transition Moving Your Snapchat Savings Home</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-clinical-manifestations-of-fetal-alcohol-syndrome/"><u>[Updated] Clinical Manifestations of Fetal Alcohol Syndrome</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-simple-steps-to-master-no-cost-time-tracking/"><u>[Updated] Simple Steps to Master No-Cost Time Tracking</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-mastering-the-art-of-tiktok-closing-scenes/"><u>2024 Approved Mastering the Art of TikTok Closing Scenes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-8-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 8 Without iTunes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-elite-racing-titles-our-five-favorites/"><u>In 2024, Elite Racing Titles Our Five Favorites</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-gpt-interaction-across-borders/"><u>Seamless GPT Interaction Across Borders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-consequences-of-chatgpts-access-to-recent-information-for-general-users/"><u>The Consequences of ChatGPT’s Access to Recent Information for General Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-futuristic-ai-enhanced-crime-solving-adventures-interactive-online-mysteries-and-brain-teasers/"><u>Top 4 Futuristic AI-Enhanced Crime Solving Adventures: Interactive Online Mysteries & Brain Teasers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-job-with-ai-the-ultimate-guide-to-using-chatgpt-as-a-virtual-secretary/"><u>Transform Your Job with AI: The Ultimate Guide to Using ChatGPT as a Virtual Secretary</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-llama-2-usage-guide-essentials/"><u>Understanding Llama 2 - Usage Guide Essentials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-creativity-chatgpt-in-creative-writing/"><u>Unleash Creativity: ChatGPT in Creative Writing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-ultimate-ai-advanced-gemini-vs-enhanced-gptplus/"><u>Unleashing Ultimate AI: Advanced Gemini Vs. Enhanced GPT+</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-the-ideal-video-sizes-for-instagram-success-for-2024/"><u>Unveiling the Ideal Video Sizes for Instagram Success for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/windows-11-tpm/"><u>Windows 11 のクリーンインストールを容易に！セキュアブートと TPM 無視</u></a></li>
 </ul></div>
 

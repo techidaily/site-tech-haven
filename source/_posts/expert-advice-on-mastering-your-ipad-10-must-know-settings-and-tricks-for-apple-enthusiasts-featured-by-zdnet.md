@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice on Mastering Your iPad: 10 Must-Know Settings and Tricks for Apple Enthusiasts | Featured by ZDNET"
-date: 2024-12-06T23:06:29.028Z
-updated: 2024-12-13T22:26:47.263Z
+date: 2024-12-18T18:52:12.925Z
+updated: 2024-12-22T20:42:14.020Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
@@ -59,7 +59,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
@@ -75,7 +75,7 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
@@ -117,7 +117,7 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
@@ -128,6 +128,10 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Tweak the Control Center
 
 Max Buondonno/ZDNET
@@ -135,10 +139,6 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,17 +180,18 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://data-safeguard.techidaily.com/advanced-conversion-boosting-tools-from-the-cookiebot-initiative-elevate-user-interaction/"><u>Advanced Conversion Boosting Tools From The Cookiebot Initiative | Elevate User Interaction</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-right-iphone-15-a-comprehensive-guide-to-models-regular-plus-pro-and-pro-max/"><u>Choosing the Right iPhone 15: A Comprehensive Guide to Models - Regular, Plus, Pro & Pro Max</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-epochal-passphrase-problem-in-windows-os/"><u>Deciphering “Epochal Passphrase Problem in Windows OS”</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-leading-free-applications-for-transforming-media-into-av1-codec/"><u>Discover the Leading Free Applications for Transforming Media Into AV1 Codec</u></a></li>
-<li><a href="https://video-capture.techidaily.com/enable-zoom-grid-on-google-meet-for-2024/"><u>Enable Zoom Grid on Google Meet for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-enhanced-apple-airpods-pro-gen-3-comprehensive-review-and-key-upgrades-unveiled-techguardian/"><u>Experience Enhanced Apple AirPods Pro (Gen 3): Comprehensive Review & Key Upgrades Unveiled | TechGuardian</u></a></li>
-<li><a href="https://fox-http.techidaily.com/first-impressions-a-deep-dive-into-3d-printing-alone/"><u>First Impressions A Deep Dive Into 3D Printing Alone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-upload-and-save-your-license-as-a-digital-id-in-iphones-wallet-app-tips-for-varying-jurisdictions/"><u>How to Upload and Save Your License as a Digital ID in iPhone's Wallet App - Tips for Varying Jurisdictions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/m3-or-m2-a-comprehensive-review-of-apples-macbook-air-models-to-help-you-make-an-informed-buying-decision/"><u>M3 or M2? A Comprehensive Review of Apple's MacBook Air Models to Help You Make an Informed Buying Decision!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-era-with-insights-from-tome-hardware-haven/"><u>Navigating the Digital Era with Insights From Tom'e Hardware Haven</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-iphone-15-pros-a-must-have-upgrade-for-tech-enthusiasts-insights/"><u>Unveiling the iPhone 15 Pros: A Must-Have Upgrade for Tech Enthusiasts - Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-leveraging-frameworks-like-bootstrap-for-rapid-prototyping/"><u>[New] 2024 Approved Leveraging Frameworks Like Bootstrap for Rapid Prototyping</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-a-step-further-elite-video-editing-hacks-for-tiktok/"><u>[New] In 2024, A Step Further Elite Video Editing Hacks for TikTok</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/amplifying-photos-through-acoustics-internet-based/"><u>Amplifying Photos Through Acoustics, Internet-Based</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-of-the-best-12-screen-capture-tools-no-end-for-2024/"><u>Best of the Best 12 Screen Capture Tools (No End) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blend-pictures-with-computers-easily-for-2024/"><u>Blend Pictures with Computers Easily for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-laptop-and-mobile-guide-for-initiating-google-meet/"><u>In 2024, Laptop & Mobile Guide for Initiating Google Meet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-for-launching-modern-warfare-on-your-pc/"><u>Troubleshooting Guide for Launching Modern Warfare on Your PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-implications-of-gpt-on-malware-development/"><u>Unveiling the Implications of GPT on Malware Development</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/vanguard-technologies-this-years-most-promising-ai-chips-and-processors/"><u>Vanguard Technologies: This Year's Most Promising AI Chips and Processors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voice-controlled-ai-at-your-fingertips-integrating-voicegpt-with-chat-functionality-into-android-devices/"><u>Voice-Controlled AI at Your Fingertips: Integrating VoiceGPT with Chat Functionality Into Android Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/who-will-triumph-googles-bard-vs-microsofts-bing-chat/"><u>Who Will Triumph? Google's Bard Vs. Microsoft's Bing Chat</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-is-my-chatgpt-account-blocked-understanding-the-4-main-reasons-with-remedies/"><u>Why Is My ChatGPT Account Blocked? Understanding the 4 Main Reasons with Remedies</u></a></li>
 </ul></div>
 

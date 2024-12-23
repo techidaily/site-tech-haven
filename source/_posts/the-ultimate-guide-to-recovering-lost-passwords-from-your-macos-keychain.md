@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Recovering Lost Passwords From Your macOS Keychain
-date: 2024-12-08T17:36:40.293Z
-updated: 2024-12-13T21:30:18.964Z
+date: 2024-12-21T16:01:29.075Z
+updated: 2024-12-23T00:45:29.462Z
 tags:
   - apple
 categories:
@@ -18,12 +18,16 @@ I will start this out by reminding everyone that you should be using a password 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
@@ -35,7 +39,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -49,7 +53,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -66,10 +70,6 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -79,7 +79,7 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -113,14 +113,17 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-stepping-into-a-new-digital-era-mastering-your-tiktok-handle-change-process/"><u>[Updated] In 2024, Stepping Into a New Digital Era Mastering Your TikTok Handle Change Process</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/discover-locating-windows-system-settings-via-control-panel-a-comprehensive-guide-by-yl-tech-solutions/"><u>Discover Locating Windows System Settings via Control Panel: A Comprehensive Guide by YL Tech Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-apple-innovates-with-iphone-16s-camera-features-a-comprehensive-look-at-the-cutting-edge-camera-button-zdnet/"><u>How Apple Innovates with iPhone 16'S Camera Features: A Comprehensive Look at the Cutting-Edge Camera Button | ZDNET</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g14-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G14 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/incorporating-your-ca-state-id-into-digital-wallets-the-ultimate-walkthrough-for-iphone-and-android-users/"><u>Incorporating Your CA State ID Into Digital Wallets: The Ultimate Walkthrough for iPhone & Android Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ios-18-upgrade-simplifies-content-production-on-iphone-n-14-insights/"><u>IOS 18 Upgrade Simplifies Content Production on iPhone N 14 - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-recovering-lost-passwords-from-your-macos-keychain-on-zdnet/"><u>The Ultimate Guide to Recovering Lost Passwords From Your macOS Keychain on ZDNet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-ios-psp-games-and-emulators-revealed-in-2024/"><u>Top iOS PSP Games & Emulators Revealed, In 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-your-mailcoms-lifespan-when-is-it-time-to-reevaluate/"><u>Understanding Your Mail.com's Lifespan: When Is It Time to Reevaluate?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-streaming-made-easy-google-meet-to-youtube-guide/"><u>[New] In 2024, Streaming Made Easy Google Meet to YouTube Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-accelerates-your-website-creation-a-guide-with-5-key-points/"><u>How ChatGPT Accelerates Your Website Creation – A Guide with 5 Key Points</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-many-characters-can-you-enter-into-chatgpt-and-what-are-the-workarounds/"><u>How Many Characters Can You Enter Into ChatGPT, and What Are the Workarounds?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-y55s-5g-2023-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo Y55s 5G (2023) by Name | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-quickcapture-stopping-and-saving-screen-moments/"><u>In 2024, QuickCapture Stopping & Saving Screen Moments</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpts-power-to-design-compelling-presentations/"><u>Leveraging ChatGPT's Power to Design Compelling Presentations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-content-creation-with-chatgpt-4-critical-errors-to-dodge-for-optimal-results/"><u>Navigating Content Creation with ChatGPT: 4 Critical Errors to Dodge for Optimal Results</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-local-language-models-advantages-and-disadvantages-explained/"><u>Navigating Local Language Models: Advantages & Disadvantages Explained</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pioneering-non-udemy-virtual-classrooms-for-learning/"><u>Pioneering Non-Udemy Virtual Classrooms for Learning</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/stand-out-strategy-carving-a-niche-on-tiktoks-map-for-2024/"><u>Stand Out Strategy Carving a Niche on TikTok's Map for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/szallitasi-es-visszakoltozesek-iranyelvek-movavi-alapminosegei/"><u>Szállítási És Visszaköltözések Irányelvek - Movavi Alapminőségei</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-icloud-settings-top-strategies-for-iphone-and-ipad-users/"><u>Unlocking iCloud Settings: Top Strategies for iPhone and iPad Users</u></a></li>
 </ul></div>
 

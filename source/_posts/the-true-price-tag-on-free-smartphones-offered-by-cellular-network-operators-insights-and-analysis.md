@@ -1,7 +1,7 @@
 ---
 title: "The True Price Tag on 'Free' Smartphones Offered by Cellular Network Operators: Insights and Analysis"
-date: 2024-12-07T19:37:14.636Z
-updated: 2024-12-13T17:55:48.732Z
+date: 2024-12-20T17:05:17.063Z
+updated: 2024-12-22T19:30:50.552Z
 tags:
   - apple
 categories:
@@ -43,15 +43,7 @@ Cons
 * No offline mapping
 * May be too large for small wrists
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Watch Ultra 2
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best smartwatch overall
 
@@ -79,6 +71,10 @@ Pros
 
 Cons 
 * Less than two-day battery life
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Watch Series 9
 
@@ -115,7 +111,7 @@ Cons
 ## Google Pixel Watch 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Google smartwatch
@@ -150,6 +146,10 @@ Cons
 
 ## Samsung Galaxy Watch Ultra
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best Samsung smartwatch for outdoor adventurers
 
 Apple took a shot across the bow of serious GPS sports watch brands with the Apple Watch Ultra series, and now Samsung joins the party with the large Galaxy Watch Ultra. Samsung branded it the same way as Apple, along with a familiar orange button and waterproof silicone band. A few other advanced features found in Apple's model are present in the Samsung model, which is a great thing for Android phone owners, especially Samsung Galaxy phone owners.
@@ -181,7 +181,15 @@ Pros
 Cons 
 * Large display is likely to consumer more battery power
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Watch 7
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Samsung smartwatch for smaller wrists
 
@@ -212,7 +220,7 @@ Cons
 * Limited sleep details
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch SE
@@ -248,10 +256,6 @@ Pros
 
 Cons 
 * Expensive
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Garmin Venu 3S
 
@@ -318,7 +322,7 @@ Cons
 ## Withings ScanWatch 2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best hybrid smartwatch
@@ -334,10 +338,6 @@ With a hybrid design, the Withings ScanWatch 2 has standard analog watch hands o
 **Withings ScanWatch 2 tech** **specs:** **Display:** 0.63-inch OLED| **Battery life:** 30 days | **Dimensions:** 42 x 42 x 11 mm | **Weight:** 52.6 grams | **Water resistance:** 5 ATM | **LTE Cellular option:** No
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best smartwatch?
 
@@ -379,6 +379,10 @@ However, finding the best smartwatch for you can be more complicated, especially
 | Amazfit Balance               | An affordable smartwatch that punches far above its price. Its powerful smartphone application provides access to a wealth of health/fitness data while supporting calls and Amazon Alexa.                                                       |
 | Withings ScanWatch 2          | A hybrid watch that looks like a standard watch with analog hands, but underneath this elegant exterior is the power of the Withings health and wellness ecosystem.                                                                              |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when buying a smartwatch
 
 Smartwatches serve as companions to our smartphones, and there are several things to consider as you explore the many options available to you. Several factors will help you quickly narrow down available candidates, so let's take a closer look and help you select the best smartwatch for you.
@@ -399,10 +403,6 @@ All of the smartwatches included in this list were chosen based on how they perf
 
 For a deeper look into our testing process, check out our comprehensive [smartwatch testing methodology](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ## Are there any smartwatches I should avoid?
@@ -412,10 +412,6 @@ There are many reasons why a person might want a smartwatch, so depending on you
 Fossil has been offering smartwatches for a long time, and I still have a working Fossil Wrist PDA that is powered by Palm OS and has a tiny stylus. For the past few years, Fossil has been making Google Wear OS-powered smartwatches and offering a fairly compelling option with some unique styles. However, in January 2024 Fossil Group announced that it would no longer be releasing smartwatches, with the last Gen 6 model released in 2021\. You can still find some Fossil watches available, and Fossil Group stated that they will continue to update the watches for the next few years, but be careful when you are considering one of these watches.
 
 There was a great promise with a luxury Wear OS watch in 2022 when Montblanc released the [Summit 3 smartwatch](https://www.zdnet.com/article/montblanc-summit-3-review/). While we provided a preliminary review as we looked for a future update that was supposed to add some core functionality, that update never came, and the watch sits idly by running the same older version of Wear OS on a processor that is now a couple of generations old. It's a lovely luxury watch so if you want a basic smartwatch with those good looks, maybe you can find one on sale. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I set up my smartwatch?
 
@@ -449,6 +445,10 @@ Health and fitness tracking have been the areas with the most innovations and im
 
 These smartwatches can also serve as capable GPS sports watches to track the details of your outdoor activities. Exercise guidance is provided on the watch with connected health applications on your smartphone so you can keep track of your progress, too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the future of wearable technology?
 
 We will likely continue to see expansion of the health and wellness features in smartwatches, but what's next on the horizon for these wrist-based computing devices? With increased connectivity and widespread adoption, smartwatches will likely become more integral to our daily lives. This may include connectivity to other devices in our lives. For example, as you approach your electronic door lock, your paired smartwatch could unlock your door so you can keep both hands on your groceries or luggage when you return home. 
@@ -477,15 +477,15 @@ There are a [few models out there](https://www.healthline.com/health/best-blood-
 
 Samsung provides blood pressure monitoring via its Galaxy Watch models in countries outside the US, with rumors that Apple may launch watches supporting this functionality in 2024.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should I choose a smartwatch based on compatibility?
 
 Eric Potter, USA weightlifting Level 1 Coach and Performance Coach at [Future](https://www.future.co/) Fitness, encourages people to choose a smartwatch based on compatibility, recommending an Apple Watch for iPhone users and a Samsung Galaxy Watch for Android fans. He notes that both smartwatches can track steps, heart rate, and exercise, but there are also crucial differences.
 
 "The Apple Watch has a larger interface allowing for easier viewing," he said. "On the other hand, the Samsung Galaxy Watch is cheaper than the Apple Watch, and the battery life tends to last longer."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative smartwatches worth considering?
 
@@ -543,22 +543,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-jumpstart-your-channelstopwatch-seeking-viewers-with-these-youtube-seo-essentials/"><u>[New] In 2024, Jumpstart Your Channel’stopwatch-Seeking Viewers with These YouTube SEO Essentials.</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unlock-professional-vimeo-edits-without-paid-software/"><u>[Updated] In 2024, Unlock Professional Vimeo Edits Without Paid Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-discover-the-apple-studio-monitor-comprehensive-guide-on-specifications-design-highlights-and-key-insights/"><u>1. Discover the Apple Studio Monitor: Comprehensive Guide on Specifications, Design Highlights & Key Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-latest-breakthrough-bringing-google-lens-powered-visual-intelligence-to-iphone-16-cameras-exclusive-coverage-on-zdnet/"><u>Apple's Latest Breakthrough: Bringing Google Lens-Powered Visual Intelligence to iPhone 16 Cameras | Exclusive Coverage on ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-your-ideal-apple-laptop-in-depth-comparison-of-macbook-pro-vs-macbook-air-zdnet/"><u>Choosing Your Ideal Apple Laptop: In-Depth Comparison of MacBook Pro Vs. MacBook Air | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/download-the-ios-181-preview-version-featuring-advanced-apple-ai-tech-get-started-today/"><u>Download the IOS 18.1 Preview Version Featuring Advanced Apple AI Tech – Get Started Today!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-dive-into-iphones-audio-memos-made-simple/"><u>In 2024, Dive Into iPhone's Audio Memos Made Simple</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-tecno-spark-20-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Tecno Spark 20</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-unleash-potential-access-premium-sound-effects/"><u>In 2024, Unleash Potential Access Premium Sound Effects!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/odins-revenge-ragnarok-coming-soon-in-2024/"><u>Odin's Revenge Ragnarök - Coming Soon, In 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restore-gps-functionality-on-your-iphone-overcoming-location-unavailable-challenges/"><u>Restore GPS Functionality on Your iPhone: Overcoming 'Location Unavailable' Challenges</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-showdown-macbook-pro-vs-macbook-air-what-to-buy-insights-for-apple-enthusiasts-zdnet/"><u>The Ultimate Showdown: MacBook Pro Vs. MacBook Air – What to Buy? Insights for Apple Enthusiasts | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-new-possibilities-top-benefits-of-upgrading-to-macos-15-on-your-apple-macbook-tech-insights/"><u>Unlocking New Possibilities: Top Benefits of Upgrading to macOS 15 on Your Apple MacBook | Tech Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-maintenance-navigating-and-purge-of-vacant-directories/"><u>Windows Maintenance: Navigating & Purge of Vacant Directories</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zdnet-reviews-unveiling-the-creme-de-la-creme-of-iphone-12pro-sleeves-for-2ptransferring-a-similar-meaning-to-the-best-iphone-12-and-12-pro-cases-of-2023-zd132/"><u>ZDNET Reviews: Unveiling the Crème De La Crème of iPhone 12/Pro Sleeves for 2Ptransferring a Similar Meaning to The Best iPhone 12 and 12 Pro Cases of 2023 | ZDNET, Here Are Two Alternative Titles Tailored for SEO Optimization:</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zdnets-in-depth-analysis-of-apples-new-m3-macbook-air-affordable-intelligence-at-your-fingertips/"><u>ZDNet's In-Depth Analysis of Apple's New M3 MacBook Air: Affordable Intelligence at Your Fingertips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-exploring-advanced-screen-recording-software/"><u>[New] 2024 Approved Exploring Advanced Screen Recording Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-swipe-right-on-creativity-youtubes-top-techniques-for-greenscreens/"><u>[Updated] Swipe Right on Creativity YouTube’s Top Techniques for Greenscreens</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-why-the-lesser-used-asus-laptop-screen-is-its-unique-selling-point-insights/"><u>Discover Why the Lesser-Used ASUS Laptop Screen Is Its Unique Selling Point - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/examining-conversational-algorithms-gpt-versus-bing/"><u>Examining Conversational Algorithms: GPT Versus Bing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-tips-for-successfully-updating-your-asus-wifi-driver-software/"><u>Expert Tips for Successfully Updating Your ASUS WiFi Driver Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explaining-the-process-of-artificeal-transfer-learning-in-ai/"><u>Explaining the Process of Artificeal Transfer Learning in AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-turing-test-future-prospects-for-defeating-ai-challenges/"><u>Exploring the Turing Test - Future Prospects for Defeating AI Challenges</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-can-help-you-define-and-reach-your-fitness-goals/"><u>How ChatGPT Can Help You Define and Reach Your Fitness Goals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-accelerate-your-language-acquisition-with-chatgpt-plus/"><u>How to Accelerate Your Language Acquisition with ChatGPT Plus</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-disableremove-youtube-shorts-permanently-in-2024/"><u>How to Disable/Remove YouTube Shorts Permanently, In 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-successfully-install-and-configure-llama-2-locally-at-home-or-office/"><u>How to Successfully Install and Configure LLaMA 2 Locally at Home or Office</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-ai-chatbots-8-great-prompts-that-cut-through-the-noise-and-distraction/"><u>How to Use AI Chatbots: 8 Great Prompts That Cut Through the Noise and Distraction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-counterfeit-chatgpt-clones-in-the-apple-app-store-a-comprehensive-guide/"><u>Identifying Counterfeit ChatGPT Clones in the Apple App Store: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-every-user-dialogue-a-step-in-chatgpts-evolution/"><u>Is Every User Dialogue a Step in ChatGPT's Evolution?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/es-nook-making-eye-catching-mac-videos-for-youtube-for-2024/"><u>Newbies' Nook Making Eye-Catching Mac Videos for YouTube for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-zte-blade-a73-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of ZTE Blade A73 5G on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-and-tips-for-boosting-frame-rate-in-outriders/"><u>Resolved: Fixes & Tips for Boosting Frame Rate in Outriders</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleash-your-creativity-with-the-new-lenovo-mini-chromebox-ideal-for-crafters-builders-and-innovators/"><u>Unleash Your Creativity with the New Lenovo Mini Chromebox – Ideal for Crafters, Builders & Innovators</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unlocking-photo-magic-intro-to-snapseed-features-for-2024/"><u>Unlocking Photo Magic Intro to Snapseed Features for 2024</u></a></li>
 </ul></div>
 

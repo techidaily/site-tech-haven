@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Experience: How Apple's Intervention Could Benefit Disheartened Sonos Owners - Insights"
-date: 2024-12-03T16:01:41.642Z
-updated: 2024-12-07T22:03:43.834Z
+date: 2024-12-20T18:41:23.356Z
+updated: 2024-12-23T01:25:18.377Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -52,10 +48,6 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -72,6 +64,10 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
@@ -79,7 +75,7 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. New developer APIs
@@ -92,10 +88,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -103,6 +95,10 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -115,7 +111,7 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -126,6 +122,10 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,19 +171,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-navigating-aloneness-in-depth-review-of-3dr-tech/"><u>[Updated] Navigating Aloneness In-Depth Review of '3DR' Tech</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-y100t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo Y100t without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-look-at-huawei-p10-innovation-in-smartphone-technology/"><u>A Look at Huawei P10 Innovation in Smartphone Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-notion-ai-showdown-determining-the-leading-generative-artificial-intelligence-platform/"><u>ChatGPT vs Notion AI Showdown: Determining the Leading Generative Artificial Intelligence Platform</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/escape-high-prices-of-official-revamps-craft-custom-versions-via-modding-techniques/"><u>Escape High Prices of Official Revamps - Craft Custom Versions via Modding Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-ideas-to-articulation-the-power-of-chatgpt-in-creativity-writing/"><u>From Ideas to Articulation: The Power of ChatGPT in Creativity Writing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/premier-robotic-companions-online-for-2024/"><u>Premier Robotic Companions Online for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-computing-the-top-5-innovations-transforming-ai-hardware-today/"><u>Revolutionizing Computing: The Top 5 Innovations Transforming AI Hardware Today</u></a></li>
-<li><a href="https://win-studio.techidaily.com/scomparso-dalle-schermate-scorciatoie-desktop-che-spariscono-senza-lasciare-traccia/"><u>Scomparso Dalle Schermate: Scorciatoie Desktop Che Spariscono Senza Lasciare Traccia</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-art-of-audio-mastery-with-iphones-voice-recording/"><u>The Art of Audio Mastery with iPhone's Voice Recording</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-essentials-of-ai-explored-potential-threats-unveiled/"><u>The Essentials of AI Explored: Potential Threats Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-revolutionary-world-of-machine-learning-with-googles-ai-gemini-project/"><u>The Revolutionary World of Machine Learning with Google's AI Gemini Project</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-installing-and-leveraging-chatgpt-additional-tools/"><u>The Ultimate Guide to Installing and Leveraging ChatGPT Additional Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-note-30-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Note 30 Fingerprint Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-redmi-note-12-pro-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi Redmi Note 12 Pro 5G Phone?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-top-5-screen-selections-for-ps5-enthusiasts/"><u>In 2024, Top 5 Screen Selections for PS5 Enthusiasts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-indie-filmmakers-guide-top-7-low-budget-film-editing-software/"><u>New 2024 Approved Indie Filmmakers Guide Top 7 Low-Budget Film Editing Software</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-distracted-boyfriend-meme-generator-for-2024/"><u>New Distracted Boyfriend Meme Generator for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/spark-interest-with-animated-text-a-guide-for-instagram-storytellers/"><u>Spark Interest with Animated Text A Guide for Instagram Storytellers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-choosing-your-ai-gemini-advanced-versus-chatgpt-plus/"><u>The Ultimate Guide to Choosing Your AI: Gemini Advanced Versus ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-mastering-bings-ai-features-on-android/"><u>The Ultimate Guide to Mastering Bing's AI Features on Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-strategy-for-merging-chatgpt-and-whatsapp-in-your-customer-service-approach/"><u>The Ultimate Strategy for Merging ChatGPT and WhatsApp in Your Customer Service Approach</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-inquiries-unsolvable-by-chatgpt-understanding-its-limits/"><u>Top 7 Inquiries Unsolvable by ChatGPT: Understanding Its Limits</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-google-pixel-fold-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Google Pixel Fold Location | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-innovative-chatbot-tools-boosting-health-and-wellbeing/"><u>Top 8 Innovative Chatbot Tools Boosting Health & Wellbeing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-dropboxs-effect-on-video-size-and-image-clarity-during-upload/"><u>Understanding Dropbox's Effect on Video Size and Image Clarity During Upload</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How Artificial Intelligence Moderates Conversations Through Chatbot Oversight: Consequences for End-Users"
-date: 2024-08-20T11:58:59.932Z
-updated: 2024-08-21T11:58:59.932Z
+date: 2024-12-20T17:44:47.846Z
+updated: 2024-12-22T20:03:45.357Z
 tags:
   - chatgpt
   - open-ai
@@ -19,11 +19,19 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
  Will Bing overtake Google as the best search engine now that it's equipped with an immensely powered AI model? Read on as we discuss what you can expect from Microsoft's new version of Bing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
 
  OpenAI is the company responsible for[ChatGPT–the AI-powered chatbot](http://www.makeuseof.com/how-to-use-chatgpt-by-openai/) that can generate content, answer questions, create marketing strategies, fix code bugs, and more. The AI research lab also launched DALL-E 2 late last year, capable of[generating images based on textual prompts](https://www.makeuseof.com/how-to-use-dall-e-2/) .
 
 ![openai logo on code background feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/openai-logo-on-code-background-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft recently invested nearly 10 billion dollars into OpenAI, and Bing’s new AI prowess is just the start of this long-term strategic partnership.
 
@@ -44,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What's New in Microsoft Edge?
 
  Over the past few years, Microsoft has significantly improved Edge with incredible features that have allowed it to compete directly against Google Chrome. With the latest capabilities of Bing + AI, Microsoft has made Edge even more potent with new AI features and an updated look.
@@ -55,9 +64,9 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
  Building on the content-generation capabilities of ChatGPT,**Compose** within Microsoft Edge will let you generate content that customizes to the required tone, format, and length. You can compose emails to your coworkers, write about your new job in a post on LinkedIn, and even convert financial information into tables; the possibilities are limitless.
@@ -65,20 +74,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Microsoft Bing Reinvents Web Searching
 
  Today's youth may not have witnessed the space race of the 20th century, but now we’ve all got front-row tickets to the AI race of the 21st century, and Microsoft has just scored a home run. Only time will tell if Google’s Bard can compete with the new Bing.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,4 +94,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-chorus-collective-recordings-downloads-and-evaluation/"><u>[New] 2024 Approved Chorus Collective Recordings, Downloads & Evaluation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expand-picture-size-maintain-original-quality/"><u>[New] Expand Picture Size - Maintain Original Quality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-influencer-integration-amplifying-engagement-through-collaborations/"><u>[New] Influencer Integration Amplifying Engagement Through Collaborations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-techniques-to-effortlessly-record-your-instagram-experiences/"><u>[Updated] In 2024, Techniques to Effortlessly Record Your Instagram Experiences</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-list-of-5-chrome-addons-to-download-facebook-videos-for-2024/"><u>[Updated] The Ultimate List of 5 Chrome Addons to Download Facebook Videos for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/8-ai-tools-content-writers-can-use-to-improve-their-workflow/"><u>8 AI Tools Content Writers Can Use to Improve Their Workflow</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/android-mastery-empower-your-texting-with-microsofts-bing-on-any-phone/"><u>Android Mastery: Empower Your Texting with Microsoft's Bing on Any Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-artistry-with-chatgpt-guided-strategies/"><u>Boosting Artistry with ChatGPT-Guided Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-chatgpt-replace-student-essays-exploring-ais-role-in-academic-writing/"><u>Can ChatGPT Replace Student Essays? Exploring AI's Role in Academic Writing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-meets-android-unleash-voicepower/"><u>ChatGPT Meets Android: Unleash VoicePower</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/closure-on-chatgpt-registrations-causes-and-anticipated-restart-periods-unveiled/"><u>Closure on ChatGPT Registrations – Causes & Anticipated Restart Periods Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/communication-breakthrough-ai-engaging-in-real-time-dialogue/"><u>Communication Breakthrough: AI Engaging in Real-Time Dialogue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-when-coredll-wont-load-a-comprehensive-guide/"><u>Effective Fixes for When Core.dll Won’t Load: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-essential-blueprint-for-tiktok-on-zoom-platforms-for-2024/"><u>The Essential Blueprint for TikTok on Zoom Platforms for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-walks-unlocking-your-gaming-archives/"><u>Windows Walks: Unlocking Your Gaming Archives</u></a></li>
+</ul></div>
 

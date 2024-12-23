@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Management System - A Comprehensive Guide"
-date: 2024-12-06T16:32:38.696Z
-updated: 2024-12-13T16:54:36.002Z
+date: 2024-12-21T01:27:18.747Z
+updated: 2024-12-22T16:41:57.674Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,15 +129,16 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-are-product-critiques-online-generated-income/"><u>[New] In 2024, Are Product Critiques Online Generated Income?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-pixelcutter-studio/"><u>[Updated] PixelCutter Studio</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-the-new-airpods-pro-2-vs-original-model-is-it-a-leap-forward-or-just-more-of-the-same/"><u>Comparing the New AirPods Pro 2 vs Original Model: Is It a Leap Forward or Just More of the Same?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978368389-easy-install-of-epson-wf-2750-printer-driver-download-now/"><u>Easy Install of Epson WF-2750 Printer Driver - Download Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/embracing-innovation-how-apples-ipad-pro-stands-out-without-trying-to-replace-your-macbook-tech-reviews/"><u>Embracing Innovation: How Apple's IPad Pro Stands Out Without Trying to Replace Your MacBook Tech Reviews</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-frame-rate-issues-in-dying-light-2-how-to-improve-pc-gaming-performance/"><u>Fixing Frame Rate Issues in Dying Light 2: How to Improve PC Gaming Performance</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ipad-air-macbook-air-and-the-latest-ipad-pro-set-for-potential-early-launch-this-march-reports-suggest-tech-insight-via-zdnet/"><u>IPad Air, MacBook Air, and the Latest iPad Pro Set for Potential Early Launch This March, Reports Suggest | Tech Insight via ZDNET</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/stand-out-in-the-crowd-top-15-innovative-snapchat-posts-for-2024/"><u>Stand Out in the Crowd Top 15 Innovative Snapchat Posts for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-macbook-enhancers-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated MacBook Enhancers : Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-cosmic-comforts-top-10-starry-night-accessories-for-sj4000-for-2024/"><u>[New] Cosmic Comforts Top 10 Starry Night Accessories for SJ4000 for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-gameplay-modifications-in-terraria/"><u>[Updated] 2024 Approved Ultimate Gameplay Modifications in Terraria</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-capture-your-gaming-success-on-win10/"><u>[Updated] How to Capture Your Gaming Success on Win10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-diving-into-advanced-exposure-techniques-auto-smart-hdr-3-and-4-explained/"><u>2024 Approved Diving Into Advanced Exposure Techniques Auto, Smart HDR 3 & 4 Explained</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-lava-blaze-2-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hone-your-prompt-writing-skills-for-maximum-chatgpt-impact/"><u>Hone Your Prompt Writing Skills for Maximum ChatGPT Impact</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-good-is-chatgpt-at-making-cocktails/"><u>How Good Is ChatGPT at Making Cocktails?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-will-artificial-intelligence-impact-our-psychological-well-being-boon-or-bane/"><u>How Will Artificial Intelligence Impact Our Psychological Well-Being: Boon or Bane?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-deployment-top-8-adaptable-gpt-models-awaiting-your-use/"><u>Immediate Deployment: Top 8 Adaptable GPT Models Awaiting Your Use</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
 </ul></div>
 

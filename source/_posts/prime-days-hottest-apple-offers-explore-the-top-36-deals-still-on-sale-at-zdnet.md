@@ -1,7 +1,7 @@
 ---
 title: "Prime Day's Hottest Apple Offers: Explore the Top 36 Deals Still on Sale at ZDNET!"
-date: 2024-12-05T21:21:58.778Z
-updated: 2024-12-07T17:16:15.362Z
+date: 2024-12-16T01:21:24.616Z
+updated: 2024-12-22T23:00:47.941Z
 tags:
   - apple
 categories:
@@ -23,6 +23,10 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -75,6 +79,10 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727002800000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -92,7 +100,7 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
@@ -102,10 +110,6 @@ HPZDNET
 * [HP Envy x360 2-in-1 for $845 (save $50)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-2-1-Touch-Screen-i7-16GB%2Fdp%2FB0CZ37N6DL%2Fref%3Dsr%5F1%5F3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): We recently had a chance to go [hands-on with HP's newest version of the Envy x360 2-in-1](https://www.zdnet.com/article/ive-tested-dozens-of-2-in-1-laptops-this-one-hits-all-the-right-marks/), and praised the laptop for its gorgeous display and all-around optimization. If that laptop looked interesting to you, but you want to save some money, the previous version is on sale on Amazon for just $845 for the 16GB, 2TB version.
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
 
@@ -123,10 +127,6 @@ Kyle Kucharski/ZDNET
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -137,10 +137,6 @@ Kyle Kucharski/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
@@ -148,6 +144,10 @@ Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals con
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f19a87c-1a6c-4b96-84f2-19ed2c8ccd11%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
 
@@ -160,7 +160,7 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When will these deals expire?
@@ -230,15 +230,24 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-key-concepts-in-image-manipulation/"><u>[New] Key Concepts in Image Manipulation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-from-first-steps-to-expertise-lenovos-guide-to-recording-success/"><u>[Updated] From First Steps to Expertise Lenovo’s Guide to Recording Success</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-voice-over-advantage-elevating-video-quality/"><u>[Updated] The Voice-Over Advantage Elevating Video Quality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-a-revolutionary-tool-for-writing-an-impressive-resume/"><u>ChatGPT: A Revolutionary Tool for Writing an Impressive Resume</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-crafting-tough-business-correspondence-with-chatgpt/"><u>Effective Strategies for Crafting Tough Business Correspondence with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-fixes-for-6-common-gpt-flaws/"><u>Essential Fixes for 6 Common GPT Flaws</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-the-world-of-live-stream-with-switch-and-3-apps/"><u>Navigate the World of Live-Stream with Switch & 3 Apps</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/ripristina-il-tuo-computer-in-modo-efficiente-senza-ricominciare-da-zero-passaggi-semplici-ed-esatti-per-unoperazione-fluida/"><u>Ripristina Il Tuo Computer in Modo Efficiente Senza Ricominciare Da Zero: Passaggi Semplici Ed Esatti per Un'operazione Fluida</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-push-for-tighter-control-on-ai-by-openais-head-understanding-the-significance/"><u>The Push for Tighter Control on AI by OpenAI's Head: Understanding the Significance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gear-up-yourself-selecting-prime-lenses-for-successful-vlogging/"><u>[New] In 2024, Gear Up Yourself Selecting Prime Lenses for Successful Vlogging</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-power-of-listening-understanding-your-youtube-audience/"><u>[New] The Power of Listening Understanding Your YouTube Audience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-brighten-iphones-night-scenes-using-simple-tricks/"><u>[Updated] Brighten iPhone's Night Scenes Using Simple Tricks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-inverted-display-issue-in-windows-7/"><u>Addressing Inverted Display Issue in Windows 7</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/educational-history-vlogs-the-ultimate-list/"><u>Educational History Vlogs - The Ultimate List</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722069933815-excel-mastery-beating-chatgpt-with-these-3-unique-features/"><u>Excel Mastery - Beating ChatGPT with These 3 Unique Features</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-huawei-frp-by-drfone-android/"><u>Full Guide to Bypass Huawei FRP</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-intel-chipset-raid-drivers-to-optimize-your-windows-11-10-8-or-7-system-performance/"><u>Get the Latest Intel Chipset RAID Drivers to Optimize Your Windows 11, 10, 8, or 7 System Performance</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-insta-story-magic-embedding-youtube-links-like-a-pro/"><u>In 2024, Insta Story Magic Embedding YouTube Links Like a Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavi-trasforma-gratuitamente-gif-in-formato-video-m4v-online/"><u>Movavi: Trasforma Gratuitamente GIF in Formato Video M4V Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/uncovering-every-aspect-the-newest-insights-from-ai-showcased-at-apples-worldwide-developers-conference/"><u>Uncovering Every Aspect: The Newest Insights From AI Showcased at Apple's Worldwide Developers Conference</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-default-addons-in-chatgpt-how-to-leverage-them-effectively/"><u>Understanding Default Addons in ChatGPT: How to Leverage Them Effectively</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-secure-chat-with-gpt-via-vpn/"><u>Unlocking Secure Chat with GPT via VPN?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-auto-gpt-with-these-8-strategies/"><u>Unlocking the Potential of Auto-GPT with These 8 Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-claude-pro-insights-into-its-functionality/"><u>Unveiling Claude Pro: Insights Into Its Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-inside-nvidias-personalized-ai-experience/"><u>What Is Inside NVIDIA's Personalized AI Experience?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-makes-vector-databases-ideal-for-ai/"><u>What Makes Vector Databases Ideal for AI?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-you-should-choose-the-chatgpt-app-for-ios-devices-instead-of-the-website-6-essential-reasons/"><u>Why You Should Choose the ChatGPT App for iOS Devices Instead of the Website - 6 Essential Reasons!</u></a></li>
 </ul></div>
 

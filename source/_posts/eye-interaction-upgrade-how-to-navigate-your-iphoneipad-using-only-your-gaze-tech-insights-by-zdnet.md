@@ -1,7 +1,7 @@
 ---
 title: "Eye Interaction Upgrade: How to Navigate Your iPhone/iPad Using Only Your Gaze - Tech Insights by ZDNet"
-date: 2024-12-12T17:05:21.656Z
-updated: 2024-12-13T19:11:52.544Z
+date: 2024-12-21T23:40:08.921Z
+updated: 2024-12-22T21:30:56.842Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ If you're going to be one of those people, read on.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 * [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)
@@ -36,10 +32,6 @@ If you're going to be one of those people, read on.
 * [The best robot vacuum and mop combos (and if they're worth the money)](https://www.zdnet.com/article/best-robot-vacuum-mop/)
 
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  1\. Update
 
@@ -61,16 +53,12 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### read this
@@ -83,10 +71,6 @@ I'd definitely check any banking and financial apps for any special process invo
 
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3\. Protect your data
 
 Next up, I want you to think about your data. How upset would you be if you lost your notes, photos, texts or other data that's on your iPhone? 
@@ -98,6 +82,10 @@ Make sure to back up your data. To be honest, you should be doing that anyway. i
 Don't have enough iCloud space? Don't worry! Apple will let you borrow some [temporary iCloud storage](https://support.apple.com/en-us/HT212732). (It helps to [keep your iPhone storage under control](https://www.zdnet.com/article/running-out-of-space-on-your-iphone-do-this-before-you-buy-a-new-one/), and you really should consider getting more storage for your future backup needs.) 
 
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
 
@@ -112,6 +100,10 @@ Tap **Get Started** to begin the process of backing up your iPhone and getting r
 Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
 
@@ -140,12 +132,20 @@ Remember, once you start this process, there's no going back!
 
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [6 things you can do to give your devices a spring cleaning](https://www.zdnet.com/article/6-things-you-can-do-to-give-your-devices-a-spring-cleaning/)
 * [How to clean your Apple Watch in 5 steps](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/)
 * [How to clean and sanitize your AirPods](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
 
@@ -187,19 +187,21 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-grasping-fcp-obtain-it-at-no-cost/"><u>[New] Grasping FCP Obtain It at No Cost</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-weave-of-wisdom-mastering-looms-tech/"><u>[Updated] In 2024, The Weave of Wisdom Mastering Loom's Tech</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-ways-to-improve-your-keyboards-reaction-time-tips-and-tricks/"><u>Effortless Ways to Improve Your Keyboard's Reaction Time - Tips and Tricks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-secure-your-own-apple-gift-card-worth-150-for-educational-use/"><u>How To Secure Your Own Apple Gift Card Worth $150 For Educational Use</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-itel-a60-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Itel A60 Phone Pattern Lock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-time-to-switch-comparing-features-between-iphone-14-pro-and-iphone-13-pro-techinsights/"><u>Is It Time to Switch? Comparing Features Between iPhone 14 Pro and iPhone 13 Pro | TechInsights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/kostenlose-dvd-ripper-app-ohne-watermarking-umwandeln-sie-ihre-dvds-unbeschrankt/"><u>Kostenlose DVD Ripper App Ohne Watermarking – Umwandeln Sie Ihre DVDs Unbeschränkt</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/skilled-uav-operation-tips-for-filmmakers/"><u>Skilled UAV Operation Tips for Filmmakers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-next-generation-of-iphones-zdnet-exposes-spatial-recording-and-thinner-edges-in-the-upcoming-iphone-16-lineup/"><u>The Next Generation of iPhones: ZDNet Exposes Spatial Recording and Thinner Edges in the Upcoming iPhone 16 Lineup</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-hubs-for-digital-interaction-facebook-twitter-instagram-youtube/"><u>The Quintessential Hubs for Digital Interaction: Facebook, Twitter, Instagram, YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-unbeatable-savings-on-apple-watches-in-july-2024-exclusive-offers-zdnets-tech-guide/"><u>Top 10 Unbeatable Savings on Apple Watches in July 2024 - Exclusive Offers! | ZDNet's Tech Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-the-secrets-of-fixing-and-enhancing-images-with-stellars-photo-8-windows-guide-an-in-depth-overview/"><u>Unlock the Secrets of Fixing and Enhancing Images with Stellar's Photo 8 Windows Guide: An In-Depth Overview</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-updated-macbook-air-apple-introduces-13-and-15-models-featuring-the-powerful-m3-processor-key-updates-detailed-by-zdnet/"><u>Unveiling the Updated MacBook Air: Apple Introduces 13 & 15 Models Featuring the Powerful M3 Processor - Key Updates Detailed by ZDNet!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-every-iphone-16-owner-should-consider-getting-a-durable-case-insights-and-tips-zdnet/"><u>Why Every iPhone 16 Owner Should Consider Getting a Durable Case - Insights & Tips [ZDNet]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-expert-tips-for-capturing-and-storing-facebook-messages/"><u>[New] In 2024, Expert Tips for Capturing and Storing Facebook Messages</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-winning-with-windows-11-mastering-video-conferencing-via-zoom/"><u>[New] In 2024, Winning with Windows 11 Mastering Video Conferencing via Zoom</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-speed-up-filmmaking-skills-at-home-with-top-5-hacks/"><u>[Updated] In 2024, Speed Up Filmmaking Skills at Home with Top 5 Hacks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-vimeo-recording-techniques/"><u>2024 Approved Mastering Vimeo Recording Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clearing-up-your-youtube-video-bugs-green-screen-edition/"><u>Clearing Up Your YouTube Video Bugs: Green Screen Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discounted-phones-and-digital-locks-a-discourse-on-cybersecurity/"><u>Discounted Phones and Digital Locks: A Discourse on Cybersecurity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-clues-top-4-ai-enhanced-virtual-sleuthing-adventures/"><u>Discover the Clues: Top 4 AI-Enhanced Virtual Sleuthing Adventures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dissecting-the-price-performance-relationship-of-advanced-ai/"><u>Dissecting the Price-Performance Relationship of Advanced AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-writing-with-the-leading-4-artificial-intelligence-story-makers/"><u>Enhance Writing with the Leading 4 Artificial Intelligence Story Makers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-analysis-game-with-these-chatgpt-techniques/"><u>Enhance Your Analysis Game with These ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-elite-conversationalists-chatgpt-plus-vs-perplexity-unveiled/"><u>Evaluating Elite Conversationalists: ChatGPT Plus Vs. Perplexity Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-tips-for-picking-a-superior-ai-chatbot-solution-7-must-consider-features/"><u>Expert Tips for Picking a Superior AI Chatbot Solution (7 Must-Consider Features)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-poco-x5-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Poco X5 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-methods-for-securely-storing-and-protecting-your-valuable-information/"><u>Top 5 Methods for Securely Storing & Protecting Your Valuable Information</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-secrets-understanding-snapchats-emoji-language/"><u>Unraveling the Secrets: Understanding Snapchat's Emoji Language</u></a></li>
 </ul></div>
 

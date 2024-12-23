@@ -1,7 +1,7 @@
 ---
 title: Why Every iPhone 16 Owner Should Consider Getting a Durable Case - Insights & Tips [ZDNet]
-date: 2024-12-04T20:57:48.592Z
-updated: 2024-12-07T21:22:48.382Z
+date: 2024-12-20T00:05:33.147Z
+updated: 2024-12-22T21:19:38.073Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,24 +124,21 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-hdr-mastery-for-home-and-professional-pcs-for-2024/"><u>[New] HDR Mastery for Home and Professional PCs for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-streamlining-video-transfer-from-imovie-to-youtube-platform/"><u>[New] Streamlining Video Transfer From iMovie to YouTube Platform</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-engaging-sound-stories-podcast-scriptwriting-demystified/"><u>2024 Approved Unlocking Engaging Sound Stories Podcast Scriptwriting Demystified</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-for-developers-building-dynamic-web-apps-effortlessly/"><u>ChatGPT for Developers: Building Dynamic Web Apps Effortlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diving-into-digital-dialogue-myai-vs-openais-intelligence/"><u>Diving Into Digital Dialogue: MyAI vs OpenAI's Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diy-pc-repair-mastering-the-art-of-fixing-your-computer-with-chatgpt/"><u>DIY PC Repair: Mastering the Art of Fixing Your Computer with ChatGPT</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-xr-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone XR using find my iphone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-leap-forward-in-mobile-photography-iphone-x-unveiled/"><u>In 2024, A Leap Forward in Mobile Photography IPhone X Unveiled</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-five-mac-friendly-strategies-for-documenting-minecraft-games/"><u>In 2024, Five Mac-Friendly Strategies for Documenting Minecraft Games</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-narzo-60-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme Narzo 60 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/rated-recs-top-pages-for-obtaining-snapalert-tunes/"><u>Rated Recs Top Pages for Obtaining SnapAlert Tunes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reimagined-search-bing-embraces-ai/"><u>Reimagined Search: Bing Embraces AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-life-with-chatgpt-strategies-for-a-better-lifestyle/"><u>Transforming Life with ChatGPT: Strategies for a Better Lifestyle</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-gaming-visuals-achieved-by-tcl-with-4k-monitor-at-100nhz-refresh-rate/"><u>Ultimate Gaming Visuals Achieved by TCL with 4K Monitor at 1,00nHz Refresh Rate</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-battlefield-2042-directx-compatibility-issues/"><u>Ultimate Guide: Resolving Battlefield 2042 DirectX Compatibility Issues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-turing-test-is-beating-it-achievable-in-modern-ai/"><u>Understanding the Turing Test: Is Beating It Achievable in Modern AI?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/web-ai-deployment-made-easy-agentgpt-guide/"><u>Web AI Deployment Made Easy - AgentGPT Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-is-grok-ai-inside-look-at-the-latest-creation-of-elon-musk-and-how-much-to-expect-to-pay/"><u>What Is Grok AI? Inside Look at the Latest Creation of Elon Musk and How Much to Expect to Pay</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/who-benefits-from-nvidias-adaptable-generative-ai/"><u>Who Benefits From NVIDIA’s Adaptable Generative AI?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-essential-tools-for-adding-framing-to-digital-pictures-2023-edition/"><u>[New] Essential Tools for Adding Framing to Digital Pictures - 2023 Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-methods-to-utilize-dynamic-images-on-ios/"><u>[New] Innovative Methods to Utilize Dynamic Images on iOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tongue-treasures-selecting-superb-audio-to-text-applications/"><u>[New] Tongue Treasures Selecting Superb Audio to Text Applications</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-adding-visual-variety-to-instagram-stories-step-by-step/"><u>2024 Approved Adding Visual Variety to Instagram Stories Step-by-Step</u></a></li>
+<li><a href="https://extra-information.techidaily.com/introductory-tips-gradual-amplification-techniques/"><u>Introductory Tips Gradual Amplification Techniques</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c55-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C55 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prompt-engineering-as-a-career-navigating-the-factors-that-count-for-success/"><u>Prompt Engineering as a Career - Navigating the Factors that Count for Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-brainwriting-process-with-mind-mapping-strategies-enhanced-by-chatgpt-ai/"><u>Revolutionize Your Brainwriting Process with Mind Mapping Strategies Enhanced by ChatGPT AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/start-today-with-our-handpicked-selection-of-8-versatile-custom-gpts/"><u>Start Today with Our Handpicked Selection of 8 Versatile Custom GPTs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-erasing-your-presence-on-chatgpt/"><u>Step-by-Step Guide: Erasing Your Presence on ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/synthesizing-pros-and-cons-ai-in-the-writers-realm/"><u>Synthesizing Pros & Cons: AI in the Writer's Realm</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-seventh-wave-ais-role-in-workforce-change/"><u>The Seventh Wave: AI's Role in Workforce Change</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-strategies-how-pupils-utilize-chatgpt-for-academic-success/"><u>Top 5 Strategies: How Pupils Utilize ChatGPT for Academic Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-for-easily-opening-and-modifying-faxes-on-windows-11/"><u>Tricks for Easily Opening and Modifying Faxes on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-seconds-for-a-20mb-movie-for-2024/"><u>Understanding Seconds for a 20MB Movie for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-y17s-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y17s Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

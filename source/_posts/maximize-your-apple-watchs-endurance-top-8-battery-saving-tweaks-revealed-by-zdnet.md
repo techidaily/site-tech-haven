@@ -1,7 +1,7 @@
 ---
 title: Maximize Your Apple Watch's Endurance - Top 8 Battery-Saving Tweaks Revealed by ZDNet
-date: 2024-12-10T20:20:13.035Z
-updated: 2024-12-13T22:37:00.174Z
+date: 2024-12-18T21:55:44.765Z
+updated: 2024-12-22T21:12:18.891Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
@@ -50,10 +54,6 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -63,7 +63,7 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -84,15 +84,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -111,7 +111,7 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -121,7 +121,7 @@ I've heard from many folks who have faced issues with battery life on the Apple 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test smartwatches
@@ -165,20 +165,18 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-innovative-approaches-to-achieve-stunning-gopro-time-lapse/"><u>[New] In 2024, Innovative Approaches to Achieve Stunning GoPro Time Lapse</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-windows-11-audio-recording-techniques/"><u>[Updated] In 2024, Windows 11 Audio Recording Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-world-of-podcast-rss-formatting/"><u>[Updated] Navigating the World of Podcast RSS Formatting</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287415136-dvd/"><u>「市販・レンタルDVDのコピー方法：すぐに始められる手順ガイド」</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/799-apple-m2-macbook-air-release-sets-new-standard-before-prime-day-latest-news/"><u>$799 Apple M2 MacBook Air Release Sets New Standard Before Prime Day - Latest News</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-siri-the-new-evolution-of-bing-with-ai-consider-this-the-future-insights/"><u>Apple's Siri: The New Evolution of Bing with AI? Consider This the Future! - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/budget-friendly-tablet-showdown-of-2024-in-depth-analysis-and-ratings/"><u>Budget-Friendly Tablet Showdown of 2024: In-Depth Analysis & Ratings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-simplicity-and-hidden-quirks-of-sonos-latest-s2-app-according-to-zdnets-insightful-review/"><u>Discover the Simplicity & Hidden Quirks of Sonos' Latest S2 App, According to ZDNet's Insightful Review</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/eye-on-the-social-scene-top-tweets-of-2023/"><u>Eye on the Social Scene Top Tweets of 2023</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oneplus-ace-3-frp-by-drfone-android/"><u>In 2024, How Can We Bypass OnePlus Ace 3 FRP?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/setting-up-customized-finder-preferences-for-organizing-your-files-and-subfolders/"><u>Setting Up Customized Finder Preferences for Organizing Your Files & Subfolders</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-poco-x6-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-four-advanced-ai-capabilities-essential-for-iphones-to-match-androids-power-insights/"><u>Top Four Advanced AI Capabilities Essential for iPhones to Match Android's Power - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-magsafe-wallet-reviews-comprehensive-testing-and-analysis-by-tech-experts/"><u>Top-Rated MagSafe Wallet Reviews : Comprehensive Testing & Analysis by Tech Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-10-essential-ipad-hacks-and-configurations-for-novices-and-experts-alike-insights/"><u>Ultimate Guide: 10 Essential iPad Hacks & Configurations for Novices & Experts Alike - Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-conquer-the-crowd-reach-your-goal-of-1k-insta-admirers-monthly/"><u>[New] Conquer the Crowd Reach Your Goal of 1K Insta Admirers Monthly</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-breaking-personal-barriers-in-yt-content-creation/"><u>[New] In 2024, Breaking Personal Barriers in YT Content Creation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-simplified-approach-to-decoding-facebook-statistics/"><u>[New] Simplified Approach to Decoding Facebook Statistics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-art-of-differentiating-real-vs-fake-facebook-likes/"><u>[Updated] In 2024, The Art of Differentiating Real vs Fake Facebook Likes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-11-economical-cameras-for-professional-vloggers/"><u>[Updated] Top 11 Economical Cameras for Professional Vloggers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722157530351-exploring-the-use-of-chatgpt-for-controlling-connected-home-appliances/"><u>Exploring the Use of ChatGPT for Controlling Connected Home Appliances</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-response-time-for-gesture-inputs-in-windows-devices/"><u>Improving Response Time for Gesture Inputs in Windows Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-tech-ultimate-insights-on-computer-hardware/"><u>Inside Tom's Tech: Ultimate Insights on Computer Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-gpt-5-on-the-horizon-exploring-the-release-timeline/"><u>Is GPT-5 on the Horizon? Exploring the Release Timeline</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/learning-from-human-input-is-chatgpt-able-to-evolve/"><u>Learning From Human Input: Is ChatGPT Able to Evolve?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-chatgpts-strengths-in-7-health-factors/"><u>Leveraging AI: ChatGPT's Strengths in 7 Health Factors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-for-total-life-enhancement/"><u>Mastering ChatGPT for Total Life Enhancement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-generative-ai-the-7-critical-mistakes-you-should-not-make/"><u>Mastering Generative AI: The 7 Critical Mistakes You Should Not Make</u></a></li>
 </ul></div>
 

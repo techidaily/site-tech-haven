@@ -1,7 +1,7 @@
 ---
 title: How Apple's Hidden iPad Pro Sale Makes This Prime Day Historic - Exclusive Analysis by ZDNet
-date: 2024-12-12T20:00:21.945Z
-updated: 2024-12-13T20:31:42.507Z
+date: 2024-12-20T22:10:45.268Z
+updated: 2024-12-23T01:34:52.163Z
 tags:
   - apple
 categories:
@@ -38,7 +38,7 @@ Internally, the new iPad Pro features Apple's most powerful Silicon yet, the M4,
 Right now, Amazon has both the [11- and 13-inch options on sale for $928 and $1,198](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C928c76e0-7991-4296-835f-5fc747ca6ed4%7Cdtp&dtb=1), respectively. Again, you'll only be saving between $80 to $100, but the discount can be offloaded towards [additional accessories](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3Dipad%2Bpro%2B2024%2Baccessories%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C928c76e0-7991-4296-835f-5fc747ca6ed4%7Cdtp&dtb=1).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -85,20 +85,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-why-my-instagram-videos-turned-upside-down-whats-going-on-in-2024/"><u>[Updated] Why My Instagram Videos Turned Upside Down – What's Going On, In 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-zoom-to-elevate-your-facebook-lives/"><u>2024 Approved Navigating Zoom to Elevate Your Facebook Lives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-intelligence-vs-the-latest-tech-why-the-iphone-16-may-not-be-worth-it-insights/"><u>Apple Intelligence Vs. The Latest Tech: Why the iPhone 16 May Not Be Worth It - Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/aqua-resistant-smartwatch-guide-in-depth-analysis-and-ratings-from-industry-professionals-zdnet/"><u>Aqua-Resistant Smartwatch Guide : In-Depth Analysis and Ratings From Industry Professionals | ZDNet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/capturing-your-twitch-sessions-step-by-step-for-2024/"><u>Capturing Your Twitch Sessions Step by Step for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ensuring-security-in-silicon-valley-the-importance-of-apples-approach-to-guarding-cloud-based-ai-data-zdnet/"><u>Ensuring Security in Silicon Valley: The Importance of Apple's Approach to Guarding Cloud-Based AI Data | ZDNET</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/macbook-air-with-apple-m1-chip-unbeatable-deal-at-only-649-top-saving/"><u>MacBook Air with Apple M1 Chip: Unbeatable Deal at Only $649 – Top Saving</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/meta-quest-3-outpaces-apple-vision-pro-with-pre-installed-ai-features-learn-activation-steps/"><u>Meta Quest 3 Outpaces Apple Vision Pro with Pre-Installed AI Features – Learn Activation Steps</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-pro-level-video-editing-l-cuts-and-j-cuts-in-final-cut-pro-x/"><u>New In 2024, Pro-Level Video Editing L-Cuts and J-Cuts in Final Cut Pro X</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pros-and-cons-of-switching-to-iphone-16-insights-from-top-zdnet-editors/"><u>Pros and Cons of Switching to iPhone 16: Insights From Top ZDNet Editors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-setup-activating-auto-gpt-features-in-ubuntu-effortlessly/"><u>Quick Setup: Activating Auto-GPT Features in Ubuntu Effortlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-great-2024-crowdstrike-windows-crisis-explained-a-deep-dive-into-the-events-that-shook-cybersecurity/"><u>The Great 2024 CrowdStrike-Windows Crisis Explained: A Deep Dive Into the Events that Shook Cybersecurity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-how-to-setting-up-and-using-windows-11s-user-friendly-alarm-system/"><u>The Ultimate How-To: Setting Up & Using Windows 11'S User-Friendly Alarm System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-apple-watch-straps-thoroughly-evaluated-by-tech-gurus/"><u>Top Rated Apple Watch Straps - Thoroughly Evaluated by Tech Gurus</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-effortless-media-transfer-twitter-videos-on-whatsapp-for-2024/"><u>[New] Effortless Media Transfer Twitter Videos on WhatsApp for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-drone-shopping-mistakes-and-how-to-dodge-them-for-2024/"><u>[Updated] Top Drone Shopping Mistakes and How to Dodge Them for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-7-current-implementations-of-chatgpt-technology/"><u>Exploring 7 Current Implementations of ChatGPT Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-ai-understanding-the-mechanics-behind-prompt-injection-attacks/"><u>Exploring AI: Understanding the Mechanics Behind Prompt Injection Attacks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-vs-bert-what-are-the-differences-between-the-two-most-popular-language-models/"><u>GPT Vs. BERT: What Are the Differences Between the Two Most Popular Language Models?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-the-architect-of-adventures-designing-games-with-ai/"><u>GPT, the Architect of Adventures: Designing Games with AI</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-10-shopping-powerhouses-where-to-buy-personalized-present-wrappers/"><u>In 2024, 10 Shopping Powerhouses Where to Buy Personalized Present Wrappers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smartphones-with-superior-video-recording-features/"><u>In 2024, Smartphones with Superior Video Recording Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-guide-to-computer-components/"><u>Tom's Tech Insights: Expert Guide to Computer Components</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-15-youtube-playlists-catering-to-musicians-for-2024/"><u>Top 15 YouTube Playlists Catering to Musicians for 2024</u></a></li>
 </ul></div>
 

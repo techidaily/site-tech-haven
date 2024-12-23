@@ -1,7 +1,7 @@
 ---
 title: "1. Tackling the Maddening Bugs in Apple's iPhone: What They Must Do Now"
-date: 2024-12-04T18:39:34.079Z
-updated: 2024-12-07T19:17:04.914Z
+date: 2024-12-15T23:26:02.125Z
+updated: 2024-12-23T01:07:07.995Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -39,7 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,6 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -82,10 +86,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,24 +158,22 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-amp-up-the-sound-beat-downloads-on-fb-for-2024/"><u>[Updated] Amp Up the Sound Beat Downloads on FB for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates/"><u>[Updated] In 2024, How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-leading-techniques-for-video-transformation-youtube-to-mpeg/"><u>[Updated] In 2024, Leading Techniques for Video Transformation - YouTube-to-MPEG</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-learn-how-to-upload-music-to-your-youtube-channel/"><u>[Updated] Learn How to Upload Music to Your YouTube Channel</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-crafting-a-journalistic-closing-statement/"><u>2024 Approved Crafting a Journalistic Closing Statement</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-push-boundaries-in-filmmaking-with-these-essential-color-grades/"><u>2024 Approved Push Boundaries in Filmmaking with These Essential Color Grades</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/groundbreaking-release-openai-unveils-revolutionary-gpt-4-ai/"><u>Groundbreaking Release: OpenAI Unveils Revolutionary GPT-4 AI</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-solidify-iphone-hdr-quality-with-4-key-editing-steps/"><u>In 2024, [Ultimate Guide] Solidify iPhone HDR Quality with 4 Key Editing Steps</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-motorola-moto-e13-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Motorola Moto E13 Phones</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-complete-guide-to-adding-and-modifying-soundtracks-in-your-diy-video-projects-for-fee-free-options/"><u>New 2024 Approved The Complete Guide to Adding and Modifying Soundtracks in Your DIY Video Projects for Fee-Free Options</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimal-vs-code-mods-for-gpt-utilization/"><u>Optimal VS Code Mods for GPT Utilization</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/preserve-and-disguise-effective-ways-to-hide-chatgpt-messages-effortlessly/"><u>Preserve and Disguise: Effective Ways to Hide ChatGPT Messages Effortlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-linguistics-at-your-fingertips-with-palm-2/"><u>The Future of Linguistics at Your Fingertips with PaLM 2</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-choosing-a-stylus-tablet-in-202n-in-depth-analysis-by-experts-pcmag/"><u>The Ultimate Guide to Choosing a Stylus Tablet in 202N: In-Depth Analysis by Experts | PCMag</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-spotting-and-avoiding-chatgpt-phishing-sites/"><u>The Ultimate Guide to Spotting and Avoiding ChatGPT Phishing Sites</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-bot-safety-top-3-privacy-issues/"><u>Understanding Bot Safety: Top 3 Privacy Issues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-creativity-with-chatgpts-recent-upgrade-design-your-own-custom-gpt-experience/"><u>Unleash Creativity with ChatGPT's Recent Upgrade – Design Your Own Custom GPT Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-in-rpgs-how-to-employ-chatgpt-and-dall-e-for-custom-dungeons-and-dragons-figures/"><u>Unleashing Creativity in RPGs: How to Employ ChatGPT & DALL-E for Custom Dungeons & Dragons Figures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-5-promising-technologies-in-ai-hardware/"><u>Unveiling the Top 5 Promising Technologies in AI Hardware</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-much-money-does-mr-beast-make/"><u>[New] How Much Money Does Mr. Beast Make</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-creating-a-seamless-virtual-workspace-slack-filmora-combo-for-teams-for-2024/"><u>[Updated] Creating a Seamless Virtual Workspace Slack-Filmora Combo for Teams for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expand-audiences-quickly-using-short-form-content/"><u>[Updated] In 2024, Expand Audiences Quickly Using Short Form Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mastering-clownfish-tones-a-straightforward-windows-method/"><u>[Updated] Mastering Clownfish Tones A Straightforward Windows Method</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/aomei-backupper-pro-ferramenta-de-backup-ideal-para-computadores-e-notebooks/"><u>AOMEI Backupper Pro - Ferramenta De Backup Ideal Para Computadores E Notebooks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-reel-entertainment-top-20-youtube-film-sources/"><u>In 2024, Reel Entertainment Top 20 YouTube Film Sources</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-collaboration-with-chatgpt-tips-for-content-creators/"><u>Mastering Collaboration with ChatGPT - Tips for Content Creators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/microsofts-revolutionary-image-creator-tool-generate-one-of-a-kind-ai-images-today/"><u>Microsoft's Revolutionary Image Creator Tool – Generate One-of-a-Kind AI Images Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-chatgpt-access-roadblocks/"><u>Navigating Through ChatGPT Access Roadblocks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-your-visual-art-from-deepfake-dangers-with-advanced-nightshade-techniques/"><u>Protecting Your Visual Art From Deepfake Dangers with Advanced Nightshade Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguarding-sensitive-information-from-tailored-gpt-versions-essential-strategies/"><u>Safeguarding Sensitive Information From Tailored GPT Versions: Essential Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-how-to-convert-dall-e-3-webp-graphics-into-jpeg-or-png-images/"><u>Step-by-Step Tutorial: How to Convert DALL-E 3 WebP Graphics Into JPEG or PNG Images</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/switching-to-claude-3-heres-why-it-beats-gpt-3/"><u>Switching to Claude 3? Here's Why It Beats GPT-3</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-truth-behind-bingchatgpt-token-offers-a-comprehensive-look-at-spotting-deceptive-cryptocurrency-schemes/"><u>The Truth Behind BingChatGPT Token Offers: A Comprehensive Look at Spotting Deceptive Cryptocurrency Schemes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-review-of-kobo-nia-can-it-outshine-the-kindle-from-amazon/"><u>The Ultimate Review of Kobo Nia - Can It Outshine the Kindle From Amazon?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-reddit-triumphs-highly-upvoted-threads-compilation/"><u>Ultimate Reddit Triumphs Highly Upvoted Threads Compilation</u></a></li>
 </ul></div>
 

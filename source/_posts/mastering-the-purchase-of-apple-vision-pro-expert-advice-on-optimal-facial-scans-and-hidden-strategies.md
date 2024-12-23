@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Purchase of Apple Vision Pro: Expert Advice on Optimal Facial Scans & Hidden Strategies"
-date: 2024-12-07T21:45:20.947Z
-updated: 2024-12-13T17:55:27.077Z
+date: 2024-12-17T17:34:28.805Z
+updated: 2024-12-22T17:15:26.275Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,17 +129,18 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-20-youtube-time-savers-that-will-skyrocket-engagement-rates/"><u>[New] In 2024, 20 YouTube Time Savers That Will Skyrocket Engagement Rates</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/approach-consider-the-reactive-nature-of-both-substances-and-their-interaction-with-potential-liner-materials/"><u>Approach: Consider the Reactive Nature of Both Substances and Their Interaction with Potential Liner Materials.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-steps-to-correct-your-realtek-rtl8723be-driver-malfunction/"><u>Comprehensive Steps to Correct Your Realtek RTL8723BE Driver Malfunction</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-budget-friendly-iphone-14-pro-max-exceptional-battery-life-and-more-features-to-delight-your-senses-insights-from-zdnet/"><u>Discover the Budget-Friendly iPhone 14 Pro Max: Exceptional Battery Life & More Features to Delight Your Senses - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-the-durability-and-performance-of-airpods-pro-post-release-is-investing-in-them-worth-it/"><u>Evaluating the Durability and Performance of AirPods Pro Post-Release: Is Investing in Them Worth It?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-infinix-hot-30i-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Infinix Hot 30i?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-leading-audio-visual-artists-collaborating-photos/"><u>In 2024, Leading Audio-Visual Artists Collaborating Photos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-stay-updated-the-latest-instagram-filter-updates/"><u>In 2024, Stay Updated The Latest Instagram Filter Updates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/t-mobiles-wireless-roaming-agreements-and-how-they-enhance-your-data-experience/"><u>T-Mobile's Wireless Roaming Agreements and How They Enhance Your Data Experience</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-strategies-for-fixing-common-windows-10-problems-and-restoring-performance/"><u>Top Strategies for Fixing Common Windows 10 Problems & Restoring Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-extra-hours-on-your-apple-watch-with-these-essential-8-settings-adjustments-digital-gadget-guide/"><u>Unlock Extra Hours on Your Apple Watch with These Essential 8 Settings Adjustments | Digital Gadget Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-premium-free-excellence-analyzing-and-sharing-best-free-luts/"><u>[New] 2024 Approved Premium-Free Excellence Analyzing and Sharing Best Free LUTs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-12-best-tycoon-games-guaranteed-to-hook-you/"><u>[New] 2024 Approved Top 12 Best Tycoon Games Guaranteed to Hook You</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-melodious-memes-crafting-choreographed-reels-with-sound/"><u>[Updated] In 2024, Melodious Memes Crafting Choreographed Reels with Sound</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-stepping-into-the-spotlight-joining-tiktok-sessions/"><u>[Updated] In 2024, Stepping Into the Spotlight Joining TikTok Sessions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-solutions-for-balancing-iphone-hdr-footage-with-advanced-premiere-pro-tools/"><u>2024 Approved Solutions for Balancing iPhone HDR Footage with Advanced Premiere Pro Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/advanced-android-photography-essentials/"><u>Advanced Android Photography Essentials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-productivity-advanced-techniques-to-use-chatgpt-for-notes/"><u>Boost Productivity: Advanced Techniques to Use ChatGPT for Notes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-replies-from-chatgpt-vary-in-size-and-count/"><u>Can Replies From ChatGPT Vary in Size and Count?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-unleashed-10-innovative-modifications-revealed/"><u>ChatGPT Unleashed: 10 Innovative Modifications Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-the-key-to-simplified-web-application-creation-for-beginners/"><u>ChatGPT: The Key to Simplified Web Application Creation for Beginners</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-gpt-4-gpt-4-turbo-and-gpt-4o-unveiling-key-distinctions/"><u>Comparing GPT-4, GPT-4 Turbo, and GPT-4o: Unveiling Key Distinctions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-language-tools-chatgpt-vs-google-translate-who-wins-the-battle-of-accuracy/"><u>Comparing Language Tools: ChatGPT Vs. Google Translate – Who Wins the Battle of Accuracy?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/elevating-your-win11-capture-experience-with-top-tools-for-2024/"><u>Elevating Your Win11 Capture Experience with Top Tools for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple's 'Let Loose' Event Highlights: The Revolutionary M4 iPad Pro, Slimmer 13-Inch iPad Air & Improved Apple Pencil Pro Revealed - Detailed Coverage | GadgetPundit."
-date: 2024-12-12T16:02:47.837Z
-updated: 2024-12-13T21:59:18.804Z
+date: 2024-12-18T19:04:45.099Z
+updated: 2024-12-22T23:45:06.169Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything announced at Apple's 'Let Loose' event
@@ -37,7 +37,7 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -60,10 +60,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -81,7 +77,7 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -100,15 +96,15 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
@@ -125,6 +121,10 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -160,24 +160,18 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-a-step-by-step-approach-to-infusing-conversations-with-gifs-on-snapchat-for-2024/"><u>[Updated] A Step-by-Step Approach to Infusing Conversations with GIFs on Snapchat for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-spreading-smiles-building-a-solid-foundation-in-gif-humor/"><u>2024 Approved Spreading Smiles Building a Solid Foundation in GIF Humor</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/anticipate-a-new-era-of-siri-intelligence-upgrades-from-apple-with-key-developments-expected-by-er-2025-insights-for-tech-enthusiasts/"><u>Anticipate a New Era of Siri Intelligence Upgrades From Apple, with Key Developments Expected by Er 2025 - Insights for Tech Enthusiasts</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/balancing-act-how-microsofts-ai-tool-copilot-blends-helpful-tech-and-salesmanship-explored-by-zdnet/"><u>Balancing Act: How Microsoft’s AI Tool, Copilot, Blends Helpful Tech and Salesmanship | Explored by ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-microsoft-business-suite-for-ios-top-picks/"><u>Best Microsoft Business Suite for iOS - Top Picks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-perfect-fit-a-comparison-of-apple-watch-ultra-vs-series-8-find-your-match/"><u>Choosing the Perfect Fit: A Comparison of Apple Watch Ultra vs Series #8 - Find Your Match!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-how-the-affordable-anker-power-bank-revolutionized-portable-charging-expert-reviews-and-tips-on-zdnet/"><u>Discover How the Affordable Anker Power Bank Revolutionized Portable Charging: Expert Reviews & Tips on ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-ultra-slim-design-how-do-008-inches-change-the-game-for-latest-ipads-zdnet/"><u>Exploring the Ultra-Slim Design: How Do 0.08 Inches Change the Game for Latest iPads? | ZDNet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/harmonize-tech-new-drivers-for-hp-laserjet-in-windows-11/"><u>Harmonize Tech: New Drivers for HP Laserjet in Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-modern-computers-with-expertise-from-toms-hardware-review/"><u>Mastering Modern Computers with Expertise From Tom's Hardware Review</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/sion-in-playback-a-compreenhensive-guide-to-youtube-video-loops-for-2024/"><u>Precision in Playback A Compreenhensive Guide to Youtube Video Loops for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/proven-methods-to-supercharge-your-spotify-ad-results/"><u>Proven Methods to Supercharge Your Spotify Ad Results</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-enjoying-apples-stunning-3d-experience-on-the-meta-quest-3-zdnet/"><u>Step-by-Step Tutorial: Enjoying Apple's Stunning 3D Experience on the Meta Quest 3 | ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-airpods-pro-gear-and-add-ons-featuring-reviews/"><u>Top-Rated AirPods Pro Gear & Add-Ons - Featuring Reviews</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-battery-pack-bundle-in-depth-analysis-of-ankers-powercoreplus-26800b/"><u>Top-Rated Battery Pack Bundle: In-Depth Analysis of Anker's Powercore+ 26800B</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/uncover-the-most-competitive-headphone-bargains-of-march-2024-roundup/"><u>Uncover the Most Competitive Headphone Bargains of March 2024 Roundup!</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/understanding-the-role-of-a-gpu-insights-from-yl-computing-and-yl-software/"><u>Understanding the Role of a GPU: Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unmissable-35plus-tablet-discounts-on-prime-day-2atury-2024-active-deals-curated-by-zdnet/"><u>Unmissable 35+ Tablet Discounts on Prime Day 2Atury 2024: Active Deals Curated by ZDNET</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/window-warriors-choose-the-best-capture-apps/"><u>Window Warriors Choose the Best Capture Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-embellish-slides-with-sonic-elements/"><u>[New] Embellish Slides with Sonic Elements</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-hosting-and-joining-google-meet-your-free-comprehensive-guidebook-for-2024/"><u>[Updated] Hosting and Joining Google Meet Your Free, Comprehensive Guidebook for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/easy-to-use-onboard-shake-reduction-gadget/"><u>Easy-to-Use Onboard Shake Reduction Gadget</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-conversational-ai-top-5-customized-gpt-techniques/"><u>Elevating Conversational AI: Top 5 Customized GPT Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-user-needs-via-ai-in-microsofts-bing/"><u>Empowering User Needs via AI in Microsoft's Bing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-5-premier-cost-free-tools-for-ai-powered-image-synthesis/"><u>Explore 5 Premier, Cost-Free Tools for AI-Powered Image Synthesis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpt-enterprise-features-benefits-and-distinct-advantages/"><u>Exploring ChatGPT Enterprise: Features, Benefits, and Distinct Advantages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-essence-of-hugging-face/"><u>Exploring the Essence of Hugging Face</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-accessing-and-installing-the-latest-add-ons-on-chatgpt/"><u>Guide: Accessing and Installing the Latest Add-Ons on ChatGPT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-enhance-visual-quality-with-lut-filters-in-obs/"><u>How to Enhance Visual Quality with LUT Filters in OBS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-steps-for-retrieving-personal-hidden-snapchat-photos/"><u>In 2024, Steps for Retrieving Personal, Hidden Snapchat Photos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-video-visibility-barriers-in-social-networking-for-2024/"><u>Navigating Video Visibility Barriers in Social Networking for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/social-space-gamers-the-ultimate-top-10-list/"><u>Social Space Gamers The Ultimate Top 10 List</u></a></li>
 </ul></div>
 

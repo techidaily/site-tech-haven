@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Selection of Prime Deals: Save Big on HP, Apple, and Razer Laptops in Our 18-Pick Guide | ZDNET's Tech Savvy Picks"
-date: 2024-12-08T16:28:20.768Z
-updated: 2024-12-13T21:21:51.515Z
+date: 2024-12-18T22:49:10.331Z
+updated: 2024-12-22T23:20:39.775Z
 tags:
   - apple
 categories:
@@ -75,10 +75,6 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41726830000000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -94,6 +90,10 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M2) for $799 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): [The MacBook Air (M2)](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) combines performance and portability. It's one of our favorite laptops at ZDNET and our Product of the Year -- and it's on sale for just $799, the lowest price we've ever seen.
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
 
@@ -111,7 +111,7 @@ Lenovo/ZDNET
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
@@ -124,7 +124,7 @@ Kyle Kucharski/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
@@ -141,10 +141,6 @@ Kyle Kucharski/ZDNET
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C59ad337d-d02a-463b-89d6-274b2f9d6cc3%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
@@ -153,19 +149,23 @@ There are a lot of great gaming laptops on sale right now, but in our opinion, [
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How did we choose these Prime Day deals?
 
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -230,20 +230,19 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-crafting-an-apple-powered-athletic-broadcast-platform/"><u>[Updated] Crafting an Apple-Powered Athletic Broadcast Platform</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-guide-to-flawless-remote-recording-experience/"><u>[Updated] In 2024, The Ultimate Guide to Flawless Remote Recording Experience</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-classroom-captures-unveiling-the-ultimate-10-video-recorders-for-education/"><u>2024 Approved Classroom Captures Unveiling the Ultimate 10 Video Recorders for Education</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-the-new-apple-studio-display-tech-specifications-and-key-features/"><u>Comprehensive Guide to the New Apple Studio Display - Tech Specifications & Key Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/delayed-but-imminent-apples-latest-ipads-set-for-a-springtime-launch-in-march-or-april/"><u>Delayed but Imminent: Apple's Latest iPads Set for a Springtime Launch in March or April</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-data-protection-for-ios-devices-mastering-the-art-of-icloud-and-mac-integration-insights-by-zdnet/"><u>Effortless Data Protection for iOS Devices: Mastering the Art of iCloud and Mac Integration | Insights by ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-guide-activating-bluetooth-on-your-pc-with-windows-11-and-10/"><u>Effortless Guide: Activating Bluetooth on Your PC with Windows 11 & 10</u></a></li>
-<li><a href="https://fox-making.techidaily.com/free-clone-sd-card-and-windows-while-offering-a-promise-of-value-with-terms-like-top-rated-ultimate-guide-and-safely/"><u>Free, Clone, SD Card, and Windows While Offering a Promise of Value with Terms Like Top Rated, Ultimate Guide, and Safely.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/get-ahead-of-the-curve-uncover-these-amazing-experiments-in-ios-18-beta-version-zdnet/"><u>Get Ahead of the Curve: Uncover These Amazing Experiments in iOS 18 Beta Version | ZDNet</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-obtaining-professional-photo-banners-for-2024/"><u>Mastering the Art of Obtaining Professional Photo Banners for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-to-keep-your-windows-11-apps-running-as-an-admin/"><u>Step-by-Step Tutorial to Keep Your Windows 11 Apps Running as an Admin</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-pinnacle-of-playtime-apple-reinvents-fun-with-its-new-vision-pro-your-definitive-guide-to-the-top-device-on-the-market/"><u>The Pinnacle of Playtime: Apple Reinvents Fun with Its New 'Vision Pro' – Your Definitive Guide to the Top Device on the Market</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-boosting-call-sound-quality-on-your-iphone-expert-advice/"><u>Ultimate Guide to Boosting Call Sound Quality on Your iPhone - Expert Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-guide-sending-and-receiving-imessage-texts-like-a-pro-tips/"><u>Windows Guide: Sending & Receiving iMessage Texts Like a Pro - Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastery-guide-to-flawless-srt-file-construction/"><u>[New] Mastery Guide to Flawless SRT File Construction</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-binge-worthy-vids-the-most-shared-content-on-fb-featured-here-for-2024/"><u>[Updated] Binge-Worthy Vids! The Most Shared Content on FB Featured Here for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-window-wonders-how-to-capture-and-save/"><u>[Updated] Window Wonders How to Capture & Save</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-turning-tales-upside-down-iphone-video-guide/"><u>2024 Approved Turning Tales Upside Down IPhone Video Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-tale-of-two-botms-mistral-and-chatgpt-showdown/"><u>A Tale of Two Botms: Mistral and ChatGPT Showdown</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-decoded-for-the-curious-mind/"><u>AI Decoded for the Curious Mind</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-testing-creative-capabilities-across-three-innovative-chatbots/"><u>AI Showdown: Testing Creative Capabilities Across Three Innovative Chatbots</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/brilliance-bunch-leading-gk-video-channels/"><u>Brilliance Bunch Leading GK Video Channels</u></a></li>
+<li><a href="https://win-updates.techidaily.com/come-ripristinare-la-tua-partizione-gpt-una-guida-completa/"><u>Come Ripristinare La Tua Partizione GPT: Una Guida Completa</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-poco-x5-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Poco X5 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721954695236-overcoming-chatgpts-body-stream-error-learn-how-with-these-7-powerful-fixes/"><u>Overcoming ChatGPT's Body Stream Error – Learn How with These 7 Powerful Fixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/workforce-upheaval-will-chatgpt-replace-humans/"><u>Workforce Upheaval: Will ChatGPT Replace Humans?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Hands-On Review of ESR's Innovative Halolock - A Versatile Multi-Card Wallet & Compatible Adjustable Stand for iPhones
-date: 2024-11-30T19:13:45.938Z
-updated: 2024-12-07T20:43:03.639Z
+date: 2024-12-21T00:44:06.746Z
+updated: 2024-12-23T00:02:24.942Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A bigger screen option
@@ -39,7 +39,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -110,16 +110,17 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-mini-music-magic-tips-for-shortform-soundtracks/"><u>[Updated] Unlocking Mini-Music Magic Tips for Shortform Soundtracks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-the-security-of-chatgpt-extensions/"><u>Evaluating the Security of ChatGPT Extensions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-ai-operating-chatgpt-seamlessly-on-a-mac/"><u>Harness the Power of AI: Operating ChatGPT Seamlessly on a Mac</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-poco-c50-is-unlocked-by-drfone-android/"><u>How To Check if Your Poco C50 Is Unlocked</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagram-adding-borders-to-your-photos/"><u>In 2024, Mastering Instagram Adding Borders to Your Photos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/light-up-dull-iphone-videos-in-seconds-for-2024/"><u>Light Up Dull Iphone Videos in Seconds for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-reading-experience-with-these-5-cutting-edge-recommender-tools/"><u>Revolutionize Your Reading Experience with These 5 Cutting-Edge Recommender Tools</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-is-here-navigating-bing-after-microsoft-infuses-it-with-cutting-edge-ai/"><u>The Future Is Here: Navigating Bing After Microsoft Infuses It with Cutting-Edge AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/worth-the-extra-cash-the-benefits-of-premium-ai-prompt-platforms/"><u>Worth the Extra Cash: The Benefits of Premium AI Prompt Platforms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-what-experts-say-optimizing-your-4k-lens-selection-process/"><u>[New] In 2024, What Experts Say Optimizing Your 4K Lens Selection Process</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dragon-chronicles-unleashed-the-perfect-sequence-for-watching-how-to-train-your-dragon-films/"><u>Dragon Chronicles Unleashed: The Perfect Sequence for Watching How to Train Your Dragon Films</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/expedite-your-digital-agility-in-the-ai-and-machine-learning-industry-ebook-by-abbyy/"><u>Expedite Your Digital Agility in the AI & Machine Learning Industry - eBook by ABBYY</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hands-on-newly-released-audigy-fx-sound-card-drivers-free/"><u>Get Your Hands on Newly Released Audigy FX Sound Card Drivers – Free!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-build-a-successful-career-in-ai-prompt-design-and-stability-forecast/"><u>How to Build a Successful Career in AI Prompt Design and Stability Forecast</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-shape-revolutionary-ai-interpretability-solution-by-openai/"><u>Introducing SHAPE: Revolutionary AI Interpretability Solution by OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-your-emotional-well-being-at-risk-with-virtual-psychologists/"><u>Is Your Emotional Well-Being at Risk with Virtual Psychologists?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/machine-mastery-a-comparative-analysis-of-chatgpt-and-google-translate-capabilities/"><u>Machine Mastery: A Comparative Analysis of ChatGPT and Google Translate Capabilities</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/mastering-bare-metal-recovery-with-wbadmin-across-incompatible-pc-components/"><u>Mastering Bare Metal Recovery with WBAdmin Across Incompatible PC Components</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-video-glitches-in-latest-windows-version/"><u>Overcoming VIDEO Glitches in Latest Windows Version</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-managing-windows-registry-entries-with-revo-uninstaller/"><u>Ultimate Guide: Managing Windows Registry Entries with Revo Uninstaller</u></a></li>
 </ul></div>
 

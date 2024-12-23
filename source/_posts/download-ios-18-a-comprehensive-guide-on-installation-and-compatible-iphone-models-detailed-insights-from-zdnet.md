@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: A Comprehensive Guide on Installation and Compatible iPhone Models - Detailed Insights From ZDNet"
-date: 2024-12-07T17:27:15.556Z
-updated: 2024-12-13T19:20:43.766Z
+date: 2024-12-15T16:37:16.538Z
+updated: 2024-12-22T22:26:56.275Z
 tags:
   - apple
 categories:
@@ -32,17 +32,25 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -56,23 +64,19 @@ After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -83,7 +87,7 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
@@ -96,10 +100,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,24 +161,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/never-seen-before-bargain-post-prime-day-sale-exclusive-insights-on-website-name/"><u>-Never-Seen-Before Bargain Post-Prime Day Sale! Exclusive Insights on [Website Name</u></a></li>
-<li><a href="https://facebook.techidaily.com/disconnect-to-reconnect-insights-into-instagrams-social-media-suggestions/"><u>'Disconnect to Reconnect': Insights Into Instagram’s Social Media Suggestions</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ultimate-iphone-video-editor-comparison-cameo-or-filmorago/"><u>[New] In 2024, Ultimate iPhone Video Editor Comparison Cameo or FilmoraGo</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unlocking-your-creative-potential-style-and-niche/"><u>[Updated] In 2024, Unlocking Your Creative Potential Style & Niche</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-optimize-your-brand-presence-on-youtube-with-video-embellishments-for-2024/"><u>[Updated] Optimize Your Brand Presence on YouTube with Video Embellishments for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/buy-one-nomad-case-for-your-iphone-and-grab-a-second-free-today-limited-time-deal/"><u>Buy One Nomad Case for Your iPhone & Grab a Second FREE Today – Limited Time Deal !</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-ipads-future-with-ipados-17-the-exclusive-features-showcased-at-apples-worldwide-developer-conference-and-compatible-devices-digital-trends/"><u>Discover iPad's Future with iPadOS 17: The Exclusive Features Showcased at Apple's Worldwide Developer Conference and Compatible Devices | Digital Trends</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-new-frontier-discover-apples-ios-18-public-beta-gems-in-this-guide-by-zdnet/"><u>Explore the New Frontier: Discover Apple's iOS 18 Public Beta Gems in This Guide by ZDNet</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-easy-ways-to-record-vimeo-videos/"><u>In 2024, Easy Ways to Record Vimeo Videos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-z-fold-5-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy Z Fold 5 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-virtuocapture-pro-windows-10-edition/"><u>In 2024, VirtuoCapture Pro (Windows 10 Edition)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-productivity-transforming-your-home-office-with-the-latest-ipad-pro-tech-insights-from-zdnet/"><u>Maximizing Productivity: Transforming Your Home Office with the Latest iPad Pro Tech - Insights From ZDNet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-guide-to-single-platform-gaming-in-apex-legends-for-2024/"><u>The Ultimate Guide to Single-Platform Gaming in Apex Legends for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/the-ultimate-list-of-free-video-conversion-tools-from-flv-to-mp4-on-windows-including-easy-tutorials/"><u>The Ultimate List of Free Video Conversion Tools From FLV to MP4 on Windows, Including Easy Tutorials!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-miniature-computers-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Miniature Computers : Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-protective-gear-for-iphone-16pro-models-thoroughly-vetted-by-tech-experts-zdnet/"><u>Top-Rated Protective Gear for iPhone 16/Pro Models - Thoroughly Vetted by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-hidden-space-on-your-iphone-the-ultimate-decluttering-tutorial-for-more-gigs/"><u>Unlock Hidden Space on Your iPhone: The Ultimate Decluttering Tutorial for More Gigs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-smartphone-assessment-techniques-insights-from-zdnets-comprehensive-review/"><u>Unveiling Smartphone Assessment Techniques: Insights From ZDNet's Comprehensive Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrading-and-rebooting-usb-audio-control-drivers-on-windows-versions-11-10-and-7/"><u>Upgrading and Rebooting USB Audio Control Drivers on Windows Versions: 11, 10, & 7</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-infinite-visual-fidelity-premium-hdmi-21-gaming-displays-ps5/"><u>[New] 2024 Approved Infinite Visual Fidelity Premium HDMI 2.1 Gaming Displays (PS5)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-10-affordable-video-chat-for-android-users/"><u>[New] In 2024, Top 10 Affordable Video Chat for Android Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-formulating-flashy-podcast-teasers/"><u>[Updated] Formulating Flashy Podcast Teasers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mac-techniques-for-capturing-your-minecraft-adventures/"><u>2024 Approved Mac Techniques for Capturing Your Minecraft Adventures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/behind-the-scenes-how-chatgpt-revolutionized-my-podcast-writing-process/"><u>Behind the Scenes: How ChatGPT Revolutionized My Podcast Writing Process</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-helpdesk-efficiency-by-linking-chatgpt-and-whatsapp-together/"><u>Boost Your Helpdesk Efficiency by Linking ChatGPT and WhatsApp Together</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breaking-down-ai-concepts-in-simple-language/"><u>Breaking Down AI Concepts in Simple Language</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/challenges-with-ai-detection-software-more-harm-than-good/"><u>Challenges with AI Detection Software: More Harm Than Good?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-assisting-podcasts-phones-security-simplified/"><u>ChatGPT Assisting Podcasts: Phones, Security, Simplified</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-an-apple-centric-approach-to-dialogue/"><u>ChatGPT Mastery: An Apple-Centric Approach to Dialogue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-proficiency-6-essential-reasons-to-excel-in-the-modern-workforce/"><u>ChatGPT Proficiency: 6 Essential Reasons to Excel in the Modern Workforce</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-bing-bot-showdown-a-comprehensive-breakdown-of-their-10-main-distinctions/"><u>ChatGPT Vs. Bing Bot Showdown: A Comprehensive Breakdown of Their 10 Main Distinctions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/debunking-the-myth-evidence-that-proves-chatgpt-is-not-becoming-less-clever-says-openai/"><u>Debunking the Myth: Evidence that Proves ChatGPT Is Not Becoming Less Clever, Says OpenAI</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/framed-facets-guide-to-the-best-apps-and-websites-for-image-framing/"><u>Framed Facets Guide to the Best Apps and Websites for Image Framing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximize-visual-and-auditory-impact-in-windows-10-photos-app/"><u>In 2024, Maximize Visual & Auditory Impact in Windows 10 Photos App</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-screencast-guide-to-flawless-presentations-and-demos/"><u>The Screencast Guide to Flawless Presentations and Demos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-redmi-13c-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi Redmi 13C 5G for Streaming | Dr.fone</u></a></li>
 </ul></div>
 

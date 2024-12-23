@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Ideal Tablet: A Comprehensive Guide to Comparing Apple's M1 & M2 iPad Pro Models - Finding Your Perfect Match"
-date: 2024-12-08T20:42:57.485Z
-updated: 2024-12-13T18:59:50.507Z
+date: 2024-12-18T21:05:15.160Z
+updated: 2024-12-22T23:48:23.041Z
 tags:
   - apple
 categories:
@@ -23,12 +23,16 @@ Tablets run the gamut in terms of everything they can do (and all the prices the
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best note-taking tablet you can buy right now?
 
 ZDNET went hands-on with the following tablets, with our pick for the best note-taking tablet overall being the [iPad Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-10-9-inch-ipad-air-latest-model-5th-generation-with-wi-fi-64gb-purple%2F4909101.p&publisher_slug=itechdaily19598&exclusive=1), thanks to its lightweight build and compatibility with the second-generation Apple Pencil. But we also included tablets from Boox, Amazon, and more to take digital notes on this back-to-school season. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best note-taking tablets of 2024
 
@@ -45,11 +49,11 @@ Cons
 * Only compatible with iOS
 * Camera cannot be used with other apps
 
-## Apple iPad Air (5th generation)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Apple iPad Air (5th generation)
 
 ### Best note-taking tablet overall
 
@@ -81,7 +85,7 @@ Cons
 * Speaker could be better
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Boox Note Air 3 C
@@ -147,6 +151,10 @@ Cons
 
 ## Samsung Galaxy Tab S9
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best note-taking tablet for Android users
 
 The Samsung Galaxy Tab S9 is part of Samsung's latest tablet series released this year. The Tab S9 comes with 8GB or 12GB of memory and starts at 128GB of storage, which can be expanded by up to 1TB thanks to microSD card support. Inside the Tab S9 is Qualcomm's Snapdragon 8 Gen 2 processor. 
@@ -175,6 +183,10 @@ Pros
 Cons 
 * Performance is just alright
 * Important productivity apps are missing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Amazon Fire Max 11
 
@@ -222,10 +234,6 @@ However, if you want a tablet you can use for school and for everyday things lik
 | Samsung Galaxy Tab S9                 | An Android tablet for note-taking. An S Pen is included in the box.                                                                  |
 | Amazon Fire Max 11                    | A budget-friendly tablet for under $350\. It is compatible with the Amazon Stylus pen, and you can also attach a keyboard to it.     |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing the best note-taking tablet
 
 Before you buy a note-taking tablet, you'll want to consider the following:
@@ -234,10 +242,6 @@ Before you buy a note-taking tablet, you'll want to consider the following:
 * **Stylus compatibility:** Most people use a stylus when taking notes on a tablet, so consider tablets that either come with a stylus right out of the box or have the option to buy one from the maker separately. It's important to note most universal styluses will also work with these tablets.
 * **Size:** Tablets that you will mainly use for note-taking purposes will have different requirements than tablets you need to replace a laptop with. Smaller size tablets are best for note-taking purposes and are lightweight and portable.
 * **Price:** Tablets will vary in price from $150 all the way up to $1,000 or more, depending on storage capacity, display quality, processors, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test tablets
 
@@ -252,16 +256,12 @@ We also compare the display's performance with what the manufacturer promised, t
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do I need a stylus for a note-taking tablet?
 
 Using a stylus is totally up to you, but it can definitely help with functionality. Some tablets come with a stylus, while others will have them sold separately. If you're looking at this from a cost perspective, consider the fact that the stylus will often be an added expense, but you may find it worth it for ease of use, especially if you're the type that likes the feeling of writing out your notes rather than typing them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best note-taking apps?
 
@@ -321,21 +321,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-discovering-the-details-a-guide-to-roblox-closeups/"><u>[New] Discovering the Details A Guide to Roblox Closeups</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitters-viral-top-10-all-about-tiktoks-for-2024/"><u>[New] Twitter's Viral Top 10 All About TikToks for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-a-tale-of-high-quality-mobility-sony-xperia-xz-summary/"><u>[Updated] 2024 Approved A Tale of High-Quality Mobility Sony Xperia XZ Summary</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-livestream-giants-rivalry-facebook-vs-youtube-vs-periscope-for-2024/"><u>[Updated] Livestream Giants' Rivalry Facebook Vs. YouTube Vs. Periscope for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-navigating-zoom-setup-for-virtual-gatherings/"><u>[Updated] Navigating Zoom Setup for Virtual Gatherings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/are-the-newly-released-2022-airpods-pro-worth-your-money-a-comprehensive-review-by-an-expert-findings/"><u>Are the Newly Released 2022 AirPods Pro Worth Your Money? A Comprehensive Review by an Expert Findings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-right-apple-laptop-macbook-pro-vs-macbook-air-find-your-perfect-match/"><u>Choosing the Right Apple Laptop: MacBook Pro Vs. MacBook Air - Find Your Perfect Match</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crafting-compelling-short-videos-for-youtube-a-top-10-list/"><u>Crafting Compelling Short Videos for YouTube - A Top 10 List</u></a></li>
-<li><a href="https://win-blog.techidaily.com/free-online-converter-change-mp4-audio-files-into-various-formats-with-movavi/"><u>Free Online Converter: Change MP4 Audio Files Into Various Formats with Movavi</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-keep-your-windows-11-devices-running-smoothly-by-updating-drivers-with-revouninstaller/"><u>How to Keep Your Windows 11 Devices Running Smoothly by Updating Drivers with RevoUninstaller</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionary-magsafe-powered-charger-sleek-design-and-rapid-recharge-unveiled/"><u>Revolutionary MagSafe-Powered Charger: Sleek Design & Rapid Recharge Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/supercharge-your-macos-productivity-with-customized-hot-corners-explained-pro-tips/"><u>Supercharge Your macOS Productivity with Customized Hot Corners Explained – Pro Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-no-cost-driver-renewal-applications-july-2024-edition/"><u>The Ultimate List of No-Cost Driver Renewal Applications - July 2024 Edition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-mac-optimization-tools-of-2022-recommended-by-tech-experts-at-zdnet/"><u>Top Mac Optimization Tools of 2022 - Recommended by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-iphone-16s-enhanced-camera-capabilities-now-featuring-similar-smart-lens-tech-to-googles-offering/"><u>Unveiling iPhone 16'S Enhanced Camera Capabilities: Now Featuring Similar Smart Lens Tech to Google's Offering</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/upcoming-iphone-16-lineup-may-integrate-iphone-15-pros-top-attraction-says-tech-guru-at-zdnet/"><u>Upcoming iPhone 16 Lineup May Integrate iPhone 15 Pro's Top Attraction, Says Tech Guru at ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-top-10-tools-revolutionizing-the-art-of-virtual-performer-sound-design/"><u>[New] 2024 Approved Top 10 Tools Revolutionizing the Art of Virtual Performer Sound Design</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlocking-enigmas-ranked-puzzle-experiences-explored/"><u>[New] 2024 Approved Unlocking Enigmas Ranked Puzzle Experiences Explored</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-perfectly-sync-apple-music-to-your-videos/"><u>[New] In 2024, Perfectly Sync Apple Music to Your Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastery-over-cloud-expenses-cheapest-options-showcased/"><u>2024 Approved Mastery Over Cloud Expenses Cheapest Options Showcased</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-warrior-whistles-expertly-chosen-destinations-to-download-game-ringtones/"><u>2024 Approved Warrior Whistles Expertly Chosen Destinations to Download Game Ringtones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adapting-chatgpt-for-cross-cultural-dialogues/"><u>Adapting ChatGPT for Cross-Cultural Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificinas-and-labor-the-converging-pathways/"><u>Artificinas and Labor: The Converging Pathways</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-affordable-pc-obs-tuning-guide/"><u>In 2024, Affordable PC OBS Tuning Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722127092657-multiple-languages-support/"><u>Multiple Languages Support</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722860853633-the-upcoming-oneplus-10-insider-information-on-when-to-expect-it-what-it-may-offer-and-how-much-youll-pay/"><u>The Upcoming OnePlus 10 – Insider Information on When to Expect It, What It May Offer, and How Much You'll Pay</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-cars-speaker-issues-a-step-by-step-guide/"><u>Troubleshooting Your Car's Speaker Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-peak-performance-by-merging-onlyoffice-docspace-capabilities-with-chatgpt-ai-assistance/"><u>Unlocking Peak Performance by Merging ONLYOFFICE DocSpace Capabilities with ChatGPT AI Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-mystery-of-gpt-4-alls-working-processes/"><u>Unraveling the Mystery of GPT-4 All's Working Processes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-five-most-effective-generators-for-crafting-ai-prompts-across-various-tools/"><u>Unveiling the Five Most Effective Generators for Crafting AI Prompts Across Various Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-avoiding-ai-for-windows-key-generation-is-crucial/"><u>Why Avoiding AI for Windows Key Generation Is Crucial</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Water Resistant Wearables - Comprehensive Reviews by Tech Experts | ZDNet
-date: 2024-12-03T21:42:50.658Z
-updated: 2024-12-07T21:25:08.921Z
+date: 2024-12-15T19:25:49.201Z
+updated: 2024-12-22T20:16:05.030Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ With so many tablets on the market today from brands like Apple, Samsung, Google
 
 ZDNET went hands-on with tons of the best tablets on the market, using them for work and entertainment and even testing them out with our kids. Our pick for the best tablet for most people is the [Apple iPad (10th generation)](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), thanks to its versatility and lightweight form. Read on to find the best tablet for your needs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best tablets of 2024
 
 Show less 
@@ -45,7 +41,7 @@ Cons
 * Dongle required to charge Apple Pencil (1st gen)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple iPad (10th generation)
@@ -81,6 +77,10 @@ Cons
 
 ## Amazon Fire Max 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best Amazon Tablet
 
 The Fire Max 11 is Amazon's newest and best tablet yet. It still runs Fire OS, which means you'll lose access to any of Google's apps and services. However, Amazon's own App Store has many of the same apps that regular Android devices have access to -- including Netflix, Facebook, and Spotify.
@@ -111,7 +111,7 @@ Cons
 * Occasional app crashes
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab S9 Ultra
@@ -147,10 +147,6 @@ Cons
 * It looks and acts a lot like an iPad
 
 ## OnePlus Pad
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Android tablet for entertainment
 
@@ -240,14 +236,10 @@ Cons
 * No official keyboard case
 * Hub Mode could use some quality-of-life improvements
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Google Pixel Tablet
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Android tablet
@@ -279,14 +271,10 @@ Pros
 Cons 
 * Thicker and heavier than the iPad Pro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple iPad Air (6th generation)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best middle-of-the-road tablet
@@ -320,10 +308,6 @@ Cons
 
 ## Amazon Kindle Scribe
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best tablet for reading
 
 The Kindle Scribe is perhaps the perfect example of part e-reader, part tablet to satisfy your reading and note-taking needs. It has the same functions you've come to know and love in a Kindle, like a 300 ppi glare-free screen, weeks of battery life, and adjustable warm light. It's also compatible with Amazon's Basic or Premium Pen, so you can take handwritten notes or underline important quotations within the book you're reading. 
@@ -353,10 +337,6 @@ Cons
 * Performance will be an issue
 * Amazon's Appstore is hit or miss
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Fire HD 8 Kids Tablet
 
 ### Best tablet for kids
@@ -374,6 +354,10 @@ The tablet's kid-friendly case is also worth mentioning because it protects agai
 **Amazon Fire HD 8 Kids tech specs: Display:** 8-inch display | **Processor:** Hexa-core 2.0 Ghz | **Storage:** 32GB or 64GB (expandable by up to 1 TB) | **Memory:** 2GB | **Colors:** Blue, purple, Disney Mickey Mouse, or Disney princess **| Cameras:** 2 MP front and rear-facing cameras with 720p HD video recording | **Weight:** 18.3 ounces | **Dimensions:** 8.7 x 7.1 x 1.1 inches| **Connections:** 3.5mm headphone jack, USB-C port | **Battery life:** 13 hours
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best tablet?
 
@@ -394,6 +378,10 @@ If you want to see quickly how the 10th-generation iPad specifically compares to
 | Amazon Kindle Scribe         | $390      | 10.2 inches      | 16GB, 32GB, or 64GB           |
 | Amazon Fire HD 8 Kids        | $150      | 8 inches         | 32GB or 64GB                  |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which is the right tablet for you?
 
 The biggest question you'll need to answer about any tablet purchase is what you plan on using it for: Do you just want something to read a comic book and binge on some Netflix shows while you walk on the treadmill? If so, then a Fire tablet or the base model iPad is going to be more than enough for you. 
@@ -412,6 +400,10 @@ However, if you want to use a tablet more like a laptop, then you'll want to con
 | Apple iPad Air (6th gen)    | A lightweight tablet for those who want something for work and play, without big sacrifices in performance or features.                                                    |
 | Amazon Kindle Scribe        | An part e-reader, part tablet with an outstanding battery life and an included pen. It's even compatible with Microsoft Word.                                              |
 | Amazon Fire HD 8 Kids       | A kid-friendly tablet with built-in parental controls. It even has a kid-proof case and a two-year worry-free guarantee.                                                   |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best tablets:
 
@@ -442,11 +434,19 @@ When a tablet says it is "Wi-Fi Only," it requires a wireless internet connectio
 
 That depends on what you want to use your tablet or laptop for. Digital artists tend to prefer tablets since they're easier to draw on with a stylus. Tablets are also great for photo editing and streaming movies if you get one with a large enough screen size. But if you want to do things like create spreadsheets, type in a word processing program, or do intensive 3D animation or modeling, you're better off with a laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best tablet for students?
 
 Our top pick for the best tablet for students is the 10th-generation iPad, thanks to its affordable price and versatility of use. However, we'd also recommend the Samsung Galaxy Tab S9 FE+ or the Microsoft Surface Pro 9 for students looking to buy a tablet. 
 
 **Also:** [**The best tablets for students going back to school**](https://www.zdnet.com/article/best-tablets-for-students/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative tablets worth considering?
 
@@ -496,24 +496,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-expert-tips-for-mastering-iphones-sound-capture/"><u>[New] 2024 Approved Expert Tips for Mastering iPhone's Sound Capture</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-accidental-tiktok-update-restore-or-reload-content/"><u>[Updated] In 2024, Accidental TikTok Update Restore or Reload Content?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-miniature-drones-unveiled-top-10-list-ready/"><u>[Updated] Miniature Drones Unveiled Top 10 List Ready</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-ctrl-lock-up-in-windows-11-environments/"><u>Addressing Ctrl Lock-Up in Windows 11 Environments</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-exploring-the-evolution-from-gpt-1-through-gpt-4-by-openai/"><u>Comprehensive Guide: Exploring the Evolution From GPT-1 Through GPT-4 by OpenAI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-tech-game-top-6-strategies-for-chatgpts-tool/"><u>Elevate Your Tech Game - Top 6 Strategies for ChatGPT's Tool</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-artificial-intelligence-vulnerabilities-the-mechanics-of-prompt-injection-attacks/"><u>Exploring Artificial Intelligence Vulnerabilities: The Mechanics of Prompt Injection Attacks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-cutting-edge-googles-bard-ai-and-its-game-changing-innovations-showcased-at-io-2023/"><u>Exploring the Cutting-Edge: Google's BARD AI and Its Game-Changing Innovations Showcased at I/O 2023</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-worlds-to-words-blizzard-and-ms-leap-forward-with-ai-technology-breakthroughs-audio-report/"><u>From Worlds to Words: Blizzard and MS Leap Forward with AI Technology Breakthroughs [Audio Report]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-long-can-responses-be-for-chatgpt-is-there-a-set-character-or-word-cap/"><u>How Long Can Responses Be for ChatGPT: Is There a Set Character or Word Cap?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-honor-x9a-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Honor X9a to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50iplus-phone-without-pin-by-drfone-android/"><u>How to Unlock Honor X50i+ Phone without PIN</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-lava-blaze-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Lava Blaze Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-sound-stream-for-speakers/"><u>In 2024, Seamless Sound Stream for Speakers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/personal-projects-transformed-by-gpt-4s-arrival/"><u>Personal Projects Transformed by GPT-4's Arrival</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-methods-to-resolve-high-gpu-consumption-by-the-desktop-window-manager-on-windows-11/"><u>Top 5 Methods to Resolve High GPU Consumption by the Desktop Window Manager on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-tier-ai-driven-online-research-tools/"><u>Top-Tier AI-Driven Online Research Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unmasking-your-macs-secret-files-with-easy-terminal-commands/"><u>Unmasking Your Mac's Secret Files with Easy Terminal Commands</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/whats-the-maximum-wordcharacter-count-in-chatgpt/"><u>What's The Maximum Word/Character Count in ChatGPT?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rafting-chic-looks-the-ultimate-cosmetic-compendium/"><u>[New] Crafting Chic Looks The Ultimate Cosmetic Compendium</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/iscovering-where-youtube-video-management-happens/"><u>[New] Discovering Where YouTube Video Management Happens</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-how-to-write-amazing-podcast-descriptions-with-examples-for-2024/"><u>[New] How to Write Amazing Podcast Descriptions (With Examples) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-comedy-in-catchy-notes-best-parody-songs-list/"><u>[New] In 2024, Comedy in Catchy Notes Best Parody Songs List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tailored-sound-solutions-ideal-mics-for-educational-gaming-and-blogging-channels/"><u>[New] Tailored Sound Solutions Ideal Mics For Educational, Gaming & Blogging Channels</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-deeper-dive-into-claude-pro-and-its-competition-with-chatgptplus/"><u>A Deeper Dive Into Claude Pro and Its Competition with ChatGPT+</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-journey-through-cyberspace-security-the-role-and-advances-of-vpns/"><u>A Journey Through Cyberspace Security: The Role and Advances of VPNs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/activate-your-androids-voice-command-capabilities-with-a-customized-chatgpt-through-the-voicegpt-app/"><u>Activate Your Android's Voice Command Capabilities with a Customized ChatGPT Through the VoiceGPT App</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-s23-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy S23 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/auto-gpt-vs-gpt-4-determining-the-value-of-using-auto-gpt-without-the-next-generation-model/"><u>Auto-GPT Vs. GPT-4: Determining the Value of Using Auto-GPT Without the Next Generation Model</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bot-communication-how-they-pretend-to-speak/"><u>Bot Communication: How They Pretend to Speak</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-creative-writing-tool-explore-six-tactics-to-improve-your-craft/"><u>ChatGPT as a Creative Writing Tool: Explore Six Tactics to Improve Your Craft</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/connect-securely-with-the-power-of-duckduckgos-advanced-ai-enabled-chat-services-like-chatgpt/"><u>Connect Securely with the Power of DuckDuckGo's Advanced AI-Enabled Chat Services, Like ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-nutritious-routines-using-chatgpt-tips/"><u>Crafting Nutritious Routines Using ChatGPT Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/customizing-workouts-with-ai-how-chatgpt-empowers-fitness-coaches/"><u>Customizing Workouts with AI: How ChatGPT Empowers Fitness Coaches</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-10-best-video-calling-app-for-android-and-iphone/"><u>In 2024, 10 Best Video Calling App for Android and iPhone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-steps-for-adobe-presenter-recordings/"><u>In 2024, Essential Steps for Adobe Presenter Recordings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplify-lifes-complexities-with-expert-google-photos-guidance/"><u>In 2024, Simplify Life's Complexities with Expert Google Photos Guidance</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209560411-9781982100711-waking-the-witch/"><u>Waking the Witch | Free Book</u></a></li>
 </ul></div>
 

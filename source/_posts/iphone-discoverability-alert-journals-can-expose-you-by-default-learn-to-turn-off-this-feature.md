@@ -1,7 +1,7 @@
 ---
 title: "IPhone Discoverability Alert: Journals Can Expose You by Default - Learn To Turn Off This Feature"
-date: 2024-12-01T19:45:48.734Z
-updated: 2024-12-07T21:10:27.584Z
+date: 2024-12-18T19:18:21.797Z
+updated: 2024-12-22T19:02:16.774Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to disable Apple Journal's 'Discoverable by Others' setting
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
@@ -57,7 +61,7 @@ Scroll down and open Privacy & Security within your Apple device's Settings app.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Tap on Journaling Suggestions
@@ -67,7 +71,7 @@ Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverabl
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
@@ -81,7 +85,7 @@ Maria Diaz/ZDNET
 ## **FAQ**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where is the Journal app on iOS 17?
@@ -89,7 +93,7 @@ Maria Diaz/ZDNET
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
@@ -105,10 +109,6 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -148,20 +148,17 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-airborne-vigils-the-most-durable-drone-fleet/"><u>[Updated] Airborne Vigils The Most Durable Drone Fleet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/6-essential-enhancements-for-a-more-advanced-android-auto-experience/"><u>6 Essential Enhancements for a More Advanced Android Auto Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-methods-to-perform-a-soft-reset-on-your-iphone/"><u>Easy Methods to Perform a Soft Reset on Your iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-blank-startup-icons-issue-in-task-manager/"><u>Fixing Blank Startup Icons Issue in Task Manager</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-commence-your-filmmaking-adventure-with-xps-toolkit/"><u>In 2024, Commence Your Filmmaking Adventure with XP's Toolkit</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-dial-up-the-impact-with-50-free-branding-graphics/"><u>In 2024, Dial Up the Impact with 50 FREE Branding Graphics!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-google-pixel-8-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Google Pixel 8 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ssence-of-online-video-success-keywords-on-youtube-for-2024/"><u>The Essence of Online Video Success Keywords on YouTube for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-gopro-camera-leap-hero4-to-hero5/"><u>The GoPro Camera Leap (Hero4 to Hero5)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocked-macos-version-of-chatgpt-say-goodbye-to-monthly-fees/"><u>Unlocked macOS Version of ChatGPT – Say Goodbye to Monthly Fees!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-latest-update-microsoft-edges-beta-includes-built-in-ram-capacity-control/"><u>Unveiling the Latest Update: Microsoft Edge's Beta Includes Built-In Ram Capacity Control</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-5-indicators-why-switching-to-non-windows-systems-might-be-your-best-bet/"><u>Unveiling the Top 5 Indicators: Why Switching to Non-Windows Systems Might Be Your Best Bet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-10-masterclass-efficiently-arranging-several-screens-for-optimal-productivity/"><u>Windows 10 Masterclass: Efficiently Arranging Several Screens for Optimal Productivity</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/zero-dollar-mp3-recorders-skype-call-edition/"><u>Zero Dollar MP3 Recorders Skype Call Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-achieve-creative-vibrancy-with-picshots-assistance/"><u>[New] Achieve Creative Vibrancy with Picshot's Assistance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-websites-specializing-in-customized-text-aesthetics/"><u>[New] Guide to Websites Specializing in Customized Text Aesthetics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-best-screen-recorder-for-chrome-devices/"><u>[New] In 2024, Best Screen Recorder for Chrome Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-redefine-gaming-radeons-latest-release-for-2024/"><u>[New] Redefine Gaming Radeon's Latest Release for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unveiling-this-years-most-engaging-storytelling-youtubers-for-2024/"><u>[New] Unveiling This Year's Most Engaging Storytelling YouTubers for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-insights-into-apples-ai-innovations-from-the-latest-wwdc-event/"><u>Comprehensive Insights Into Apple's AI Innovations From the Latest WWDC Event</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/critical-alert-avoid-these-9-imitation-chatgpt-malware-tools-poised-to-steal-your-personal-data/"><u>Critical Alert: Avoid These 9 Imitation ChatGPT Malware Tools Poised to Steal Your Personal Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-the-paperclip-maximization-issue-the-intersection-between-ai-goals-and-human-values/"><u>Deciphering the Paperclip Maximization Issue: The Intersection Between AI Goals and Human Values</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-new-era-of-search-microsofts-ai-powered-bing-transformation/"><u>Discover the New Era of Search: Microsoft’s AI-Powered Bing Transformation</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-sony-xperia-1-v-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Sony Xperia 1 V Phone | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/permanent-data-erasure-solutions-discover-the-top-7-secure-deletion-strategies/"><u>Permanent Data Erasure Solutions: Discover the Top 7 Secure Deletion Strategies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-control-of-apple-tv-remotes-steps-for-connection-management-and-factory-restore/"><u>Ultimate Control of Apple TV Remotes: Steps for Connection Management & Factory Restore</u></a></li>
 </ul></div>
 

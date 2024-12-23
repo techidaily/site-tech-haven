@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Expert Guide: Unveiling the Apple Vision Pro - Pricing, Capabilities & Live Demo Walkthrough"
-date: 2024-11-30T19:35:53.680Z
-updated: 2024-12-07T16:36:56.469Z
+date: 2024-12-15T21:36:37.117Z
+updated: 2024-12-22T16:51:45.523Z
 tags:
   - apple
 categories:
@@ -80,6 +80,10 @@ The Apple Vision Pro is a mixed-reality headset that combines augmented reality 
 
 **Also: [7 upgrades Apple Vision Pro needs to succeed in business](https://www.zdnet.com/article/7-upgrades-apple-vision-pro-needs-to-succeed-in-business/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What can you do with the Vision Pro headset?
 
 The headset can run popular Apple apps, including Books, Camera, Contacts, FaceTime, Mail, Maps, Messages, Music, Notes, Photos, Safari, and more in mixed reality -- a blend of both AR and VR. The headset launched with [600 new apps](https://www.zdnet.com/article/apples-vision-pro-will-launch-with-600-new-apps-built-just-for-the-headset/), including [Zoom](https://www.zdnet.com/article/zoom-is-coming-to-the-vision-pro-headset-and-your-meetings-could-get-weird/), [Microsoft 365](https://www.zdnet.com/article/apples-vision-pro-to-get-word-excel-and-other-microsoft-365-apps-at-launch/), Slack, Todoist, and more.
@@ -126,6 +130,10 @@ Vision Pro scanning a user.
 
 Screenshot by Christina Darby/ZDNET 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much does the Vision Pro cost?
 
 The Vision Pro has a hefty price tag of $3,499 for the 256GB base storage model, setting a premium category apart from [Meta](https://www.zdnet.com/article/meta-quest-3-unveiled-price-features-and-when-you-can-buy-metas-new-vr-headset/), [HTC](https://www.zdnet.com/article/meetings-in-the-metaverse-our-experience-with-htc-vive-sync/), and other manufacturers that play in the sub-$1,000 range. 
@@ -150,6 +158,10 @@ Included in the $3,499 purchase price is the headset, the battery pack, a Dual L
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I wear the Apple Vision Pro with glasses?
 
 You should not wear the Apple Vision Pro with glasses on your face. The headset was not made to accommodate glasses. Wearing both simultaneously could result in an uncomfortable experience that could damage your headset. 
@@ -159,10 +171,6 @@ You should not wear the Apple Vision Pro with glasses on your face. The headset 
 However, Apple knows that people who wear glasses need to be able to see to use the headset, so the company also sells Zeiss Optical Inserts. They retail at $99 to $149, so if you are a glasses wearer considering buying the headset, make sure to factor in this additional cost. 
 
 June Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does the Apple Vision Pro have controllers?
 
@@ -174,10 +182,6 @@ However, if you want controllers in the future, you may be in luck. Apple recent
 
 **Also: [To rescue the Vision Pro, Apple must do these 3 things](https://www.zdnet.com/article/to-rescue-the-vision-pro-apple-must-do-these-3-things/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When is the Vision Pro available?
 
 The Apple Vision Pro is available for purchase on the Apple website and in stores. Preorders for the device began on January 19, and those units began arriving on February 2\. 
@@ -185,7 +189,7 @@ The Apple Vision Pro is available for purchase on the Apple website and in store
 **Also: [These are the Vision Pro apps Apple says will transform healthcare](https://www.zdnet.com/article/these-are-the-vision-pro-apps-apple-says-will-transform-healthcare/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can you try the Vision Pro before buying it?
@@ -204,10 +208,6 @@ Now that it has been over two weeks since the Vision Pro's launch, some users ha
 
 **Also: [How to return the Apple Vision Pro](https://www.zdnet.com/article/how-to-return-the-apple-vision-pro/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Apple Vision Pro updates were announced at WWDC 2024?
 
 At WWDC 2024, a year after the Apple Vision Pro headset was unveiled, the company updated [VisionOS 2](https://www.zdnet.com/article/new-visionos-2-features-unveiled-at-wwdc-2024-what-im-excited-about-and-puzzled-by/), adding many features to the headset. 
@@ -222,10 +222,6 @@ There were many announcements, but some of the highlights included:
 
 If you want to see the full list, you can read the VisionOS 2 section of this article: [Every new feature Apple unveiled for iPhone, iPad, Mac, and more this fall (including AI)](https://www.zdnet.com/article/every-new-feature-apple-unveiled-for-iphone-ipad-mac-and-more-this-fall-including-ai/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Apple Vision Pro better than Meta Quest 3?
 
 The Apple Vision Pro is more of a premium headset and, as a result, it costs seven times more than the $500 Meta Quest 3\. 
@@ -239,6 +235,10 @@ The products differ in display, weight, processors, controllers, and more, affec
 Jason Hiner/ZDNET
 
 **Also: [Why I returned my Apple Vision Pro and Meta Quest 3 for these XR glasses](https://www.zdnet.com/article/why-i-returned-my-apple-vision-pro-and-meta-quest-3-for-these-xr-glasses/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is the Apple Vision Pro worth the price?
 
@@ -283,18 +283,21 @@ ZDNET experts have Apple Vision Pro headsets in their hands, so stay tuned for m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-easy-steps-for-screenshotting-instagrams-story-section-for-2024/"><u>[New] Easy Steps for Screenshotting Instagram's Story Section for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-ranking-the-premier-online-church-service-providers/"><u>2024 Approved Ranking the Premier Online Church Service Providers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-evolution-uncovering-the-revolutionary-changes-of-chatgpt/"><u>AI Evolution: Uncovering the Revolutionary Changes of ChatGPT</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-12-mini-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 12 mini? Find the Best Solution Here</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/changing-leadership-at-openai-exploring-the-consequences-for-chatgpt-post-altman-era/"><u>Changing Leadership at OpenAI: Exploring the Consequences for ChatGPT Post-Altman Era</u></a></li>
-<li><a href="https://extra-information.techidaily.com/craft-captivating-gopro-time-lapse-footage-hacks-for-2024/"><u>Craft Captivating GoPro Time-Lapse Footage Hacks for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/engage-in-conversation-how-openai-upgraded-chatgpt-to-understand-prompts-audibly/"><u>Engage in Conversation: How OpenAI Upgraded ChatGPT to Understand Prompts Audibly</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/in-2024-waht-is-ai-pixel-art-generator/"><u>In 2024, Waht Is AI Pixel Art Generator?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-look-how-apple-showcased-ai-innovations-at-wwdc-2023/"><u>Inside Look: How Apple Showcased AI Innovations at WWDC 2023</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/intelligent-insights-await-how-microsoft-bing-is-revolutionizing-search-with-artificial-intelligence/"><u>Intelligent Insights Await: How Microsoft Bing Is Revolutionizing Search with Artificial Intelligence</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-aesthetics-and-convenience-with-satechis-new-car-bluetooth-charger/"><u>Revolutionary Aesthetics & Convenience with Satechi's New Car Bluetooth Charger!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-5-voice-trickery-skills-to-direct-chatgpts-functionality/"><u>The Ultimate 5 Voice Trickery Skills to Direct ChatGPT's Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unbounded-gpt-openais-concern/"><u>Unbounded GPT: OpenAI's Concern?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/apid-fortnite-tile-making-hacks/"><u>[New] Rapid Fortnite Tile-Making Hacks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-become-a-social-media-vanguard-top-10-pioneering-igtv-techniques-for-marketing-excellence/"><u>[Updated] Become a Social Media Vanguard Top 10 Pioneering IGTV Techniques for Marketing Excellence</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decoding-video-potential-dslr-vs-mirrorless-innovation/"><u>Decoding Video Potential DSLR vs Mirrorless Innovation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g-stylus-2023-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Moto G Stylus (2023) has native HEVC support?</u></a></li>
+<li><a href="https://discover-community.techidaily.com/halve-your-expenses-secure-a-full-lifetime-license-of-videoproc-at-an-unbeatable-price-save-up-to-55-today-with-our-special-coupon-code/"><u>Halve Your Expenses! Secure a Full Lifetime License of VideoProc at an Unbeatable Price - Save up to 55% Today with Our Special Coupon Code!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-14-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 14 or iPad?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-effortlessly-run-chatgpt-on-linux-a-comprehensive-guide-using-bavarder/"><u>How to Effortlessly Run ChatGPT on Linux - A Comprehensive Guide Using Bavarder</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-find-n3-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo Find N3 to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-effect-why-does-italy-ban-chatgpt/"><u>Immediate Effect: Why Does Italy Ban ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovate-your-online-research-choose-perplexity-ai/"><u>Innovate Your Online Research – Choose Perplexity AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/investigating-whether-chatgpt-can-be-involved-in-malware-design-processes/"><u>Investigating Whether ChatGPT Can Be Involved in Malware Design Processes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-androids-picture-in-picture-mode-a-step-by-step-guide/"><u>Mastering Android's Picture-in-Picture Mode: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-differences-a-deep-dive-into-snapchats-my-ai-and-microsofts-bing-ai-features-within-a-skype-environment/"><u>Navigating Differences: A Deep-Dive Into Snapchat's My AI & Microsoft’s Bing AI Features Within a Skype Environment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-future-of-ai-linguistics-introducing-palm-2/"><u>Navigating the Future of AI Linguistics: Introducing PaLM 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-fear-of-ai-in-schools-unlock-the-benefits-with-these-eight-convincing-arguments-for-educators/"><u>Overcoming Fear of AI in Schools: Unlock the Benefits with These Eight Convincing Arguments for Educators</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-unloading-of-enex-system-drivers-on-windows-11/"><u>Tackling Unloading of eNEX System Drivers on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Next Generation of iPhones: ZDNet Exposes Spatial Recording and Thinner Edges in the Upcoming iPhone 16 Lineup"
-date: 2024-12-03T20:26:10.146Z
-updated: 2024-12-07T17:38:41.063Z
+date: 2024-12-18T01:24:47.308Z
+updated: 2024-12-22T19:18:09.730Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -49,13 +45,13 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -64,6 +60,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -91,16 +91,12 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -112,7 +108,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -122,6 +118,10 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417993%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417993.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,17 +157,18 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/exclusive-review-prime-cars-surveillance-devices-for-2024/"><u>Exclusive Review Prime Cars Surveillance Devices for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-expansion-of-ai-understanding-gpt-ns-newfound-global-reach/"><u>Exploring the Expansion of AI: Understanding GPT-N's Newfound Global Reach</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-smart-7-hd-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Smart 7 HD to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-honor-play-8t-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Honor Play 8T to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-the-dji-phantom-3-pro-advantages/"><u>In 2024, Inside the DJI Phantom 3 Pro Advantages</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-7-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/safeguarding-corporate-data-in-chatai-exchanges/"><u>Safeguarding Corporate Data in ChatAI Exchanges</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-quest-for-ownership-in-the-age-of-ai-creations/"><u>The Quest for Ownership in the Age of AI Creations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/thrive-dont-just-survive-the-ultimate-guide-to-succeeding-with-ai-colleagues-top-6-methods/"><u>Thrive, Don't Just Survive: The Ultimate Guide to Succeeding with AI Colleagues (Top 6 Methods)</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-nokia-c12-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Nokia C12 for Parents | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlock-your-potential-mondly-endorses-ukraines-linguistic-renaissance/"><u>Unlock Your Potential: Mondly Endorses Ukraine's Linguistic Renaissance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extensive-insights-deconstructing-the-dji-inspire-1/"><u>[New] Extensive Insights Deconstructing the DJI Inspire 1</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-words-to-voices-scriptwriting-for-successful-podcasts/"><u>[New] From Words to Voices Scriptwriting for Successful Podcasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-engage-with-mematics-cloud-note-application/"><u>[New] In 2024, Engage with Mematic's Cloud Note Application</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-best-on-action-cameras-with-premium-mics/"><u>[Updated] In 2024, Best On-Action Cameras with Premium Mics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategic-steps-for-pinpointing-a-list-film-creators/"><u>[Updated] Strategic Steps for Pinpointing A-List Film Creators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-trust-chatgpts-responses-are-they-reliable-or-not/"><u>Can You Trust ChatGPT's Responses – Are They Reliable or Not?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-user-persona-development-a-guide-to-superior-results/"><u>ChatGPT and User Persona Development: A Guide to Superior Results</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dissecting-claudes-prowess-the-top-4-ways-it-surpasses-chatgpt/"><u>Dissecting Claude's Prowess: The Top 4 Ways It Surpasses ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/engaging-with-echoes-of-intelligence-gpt-vs-bingbot-overview/"><u>Engaging with Echoes of Intelligence: GPT Vs. BingBot Overview</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-team-workflow-with-onlyoffice-docspace-and-chatgpt-unlocking-new-levels-of-efficiency-in-document-management/"><u>Enhance Team Workflow with ONLYOFFICE DocSpace & ChatGPT: Unlocking New Levels of Efficiency in Document Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-a-leap-in-functionality-with-the-chatgpt-desktop-app-why-its-better-than-the-web-version/"><u>Experience a Leap in Functionality with the ChatGPT Desktop App – Why It's Better Than the Web Version</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-magic-5-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor Magic 5 Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/spark-interest-drive-engagement-top-30-video-ideas/"><u>Spark Interest, Drive Engagement Top 30 Video Ideas</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Smartphones Cherished Staff - A Behind-the-Scenes Look
-date: 2024-12-03T21:30:45.847Z
-updated: 2024-12-07T20:10:54.090Z
+date: 2024-12-17T20:55:09.908Z
+updated: 2024-12-22T16:35:41.095Z
 tags:
   - apple
 categories:
@@ -72,6 +72,10 @@ Cons
 
 ## Samsung Galaxy S21 Ultra
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steven J. Vaughan-Nichols and Charlie Osborne
 
 **Steven J. Vaughan-Nichols:** My Pixel 3 was starting to show its age, so I decided that since I was going to upgrade my phone, why not go for the gusto and get the top-of-the-line Samsung? So far, I'm glad I did. I love the 6.8-inch 120Hz Quad HD screen. The five cameras backed by a 108MP sensor and 10x optical zoom are insanely good. It also has 5G, which, at this point, isn't really that important on Verizon since I don't live next to a Verizon 5G UWB tower. What does matter to me is that it works well with my Samsung Galaxy Watch 3\. Samsung claimed early on that its watch would work well with other Android phones. It does but it doesn't come with all the health features. My only problem is the price: It lists for $1,199\. I didn't that pay that much, but I still paid a lot.
@@ -132,15 +136,7 @@ Pros
 Cons 
 * Gorgeous flat glass OLED Flat matte edges Vibrant blue color iOS 14 with Android elements 5G Loud stereo speakers
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 12
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Chris Matyszczyk
 
@@ -168,10 +164,6 @@ Cons
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ulefone Armor 9
 
 ### Adrian Kingsley-Hughes
@@ -190,10 +182,6 @@ Cons
 
 ## Google Pixel 2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tony Baer
 
 **Tony Baer:** I like the Pixel because unlike branded phones (e.g., Samsung Galaxy), it has just one operating system, and therefore, just one app for things like photos. This was an endless source of confusion for me during the days with my old Samsung phones: Which photo app did my pictures go in? (Etc., etc. for other bundled apps.) However, the Pixel 2 has one mechanical defect: The charging port is just slightly too large, meaning that when I plug in the charger, I can't always be sure that the phone is getting any juice. For work at home, this is just an inconvenience, but when we go back on the road again, this will be a show stopper. 
@@ -209,7 +197,7 @@ Show less
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Huawei P20 Pro
@@ -229,6 +217,10 @@ Cons
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
 
 ## iPhone XR
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
 
@@ -250,25 +242,21 @@ Cons
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###   
 
 ###   
 
 ## iPhone X
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Robin Harris
 
 I have a Moment wide-angle lens and case, which gives me the tech I need for landscape photography. There's a lot of landscape where I live, and picturing it never gets old. I keep looking at the newer iPhones each year, but things like a wider lens and low-light performance aren't hot buttons. I haven't used my Canon DSLR in years. 
 
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###   
 
@@ -279,10 +267,6 @@ Pros
 
 Cons 
 * Best smartphone display Worthwhile camera improvements Battery life is solid
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPhone XS Max
 
@@ -296,6 +280,10 @@ Show Expert Take Show less
 
 ## iPhone 7 Plus
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tiernan Ray
 
 Purchased in 2016, I've had no reason to upgrade in four years. The thing does a perfectly fine, which is to say, in Apple's case, fairly mediocre job of calling and texting and apps. I never take my phone out of my pocket, usually use it with AirPods, so I don't care about screen size or resolution upgrades. I have an actual digital camera, so I don't care about digital camera upgrades.
@@ -303,6 +291,10 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
 ## iPhone 6s Plus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### David Gewirtz and Iliana Meir
 
@@ -317,13 +309,13 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Lumia 1520
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mary Branscombe
@@ -334,7 +326,15 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 
 Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Note 8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Charles McLellan
 
@@ -376,24 +376,24 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-windows-10-voice-memos-explained/"><u>[New] 2024 Approved Windows 10 Voice Memos Explained</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-11-useful-youtube-seo-tips-to-rank-your-video/"><u>[Updated] 2024 Approved 11 Useful YouTube SEO Tips to Rank Your Video</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-navigating-the-path-iphone-file-exchange/"><u>[Updated] In 2024, Navigating the Path IPhone File Exchange</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-innovating-visual-storytelling-utilizing-dslr-for-facebook-live-through-personal-devices/"><u>[Updated] Innovating Visual Storytelling Utilizing DSLR for Facebook LIVE Through Personal Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-iphone-picture-perfection/"><u>[Updated] Step-by-Step Guide IPhone Picture Perfection</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-income-impact-of-sharing-on-youtube-shorts/"><u>2024 Approved The Income Impact of Sharing on YouTube Shorts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beginners-companion-to-ai/"><u>Beginner’s Companion to AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-ai-generate-personalized-risk-free-fitness-programs-with-the-help-of-chatgpt/"><u>Can AI Generate Personalized, Risk-Free Fitness Programs with the Help of ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-ai-powered-by-chatgpt-take-charge-of-your-home-automation-systems/"><u>Can AI Powered by ChatGPT Take Charge of Your Home Automation Systems?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-generative-ai-giants-notion-ai-vs-chatgpt-the-ultimate-showdown/"><u>Comparing Generative AI Giants: Notion AI Vs. ChatGPT - The Ultimate Showdown</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-codegpt-understanding-its-ability-in-coding/"><u>Exploring CodeGPT: Understanding Its Ability in Coding</u></a></li>
-<li><a href="https://driver-download.techidaily.com/geforce-rtx-3060-ti-graphics-card-drivers-download-for-windows-11-compatibility/"><u>GeForce RTX 3060 Ti Graphics Card Drivers: Download for Windows 11 Compatibility</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-keeping-the-chuckles-stealing-twitters-gif-content/"><u>In 2024, Keeping the Chuckles Stealing Twitter's GIF Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leading-6-plugins-to-transform-your-coding-experience-in-vs-code-featuring-gpt-integration/"><u>Leading 6 Plugins to Transform Your Coding Experience in VS Code - Featuring GPT Integration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/lost-in-time-retrieve-your-past-chatgpt-exchange-records/"><u>Lost in Time? Retrieve Your Past ChatGPT Exchange Records!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/responsive-dialogue-engine-chatgpts-voice-unveiled/"><u>Responsive Dialogue Engine: ChatGPT's Voice Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-enthusiasts-handbook-for-openai-api-mastery/"><u>The Enthusiast’s Handbook for OpenAI API Mastery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-wmvcoredll-not-found-issue-solutions-and-tips/"><u>Troubleshooting the wmvcore.dll Not Found Issue: Solutions and Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout/"><u>[New] 2024 Approved How To Streamline the Integration of YouTube Playlists Into a Site's Layout</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-transform-hidden-facebook-videos-with-these-12-must-try-steps/"><u>[New] 2024 Approved Transform Hidden Facebook Videos with These 12 Must-Try Steps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellence-in-image-making-via-premium-grid-makers-for-2024/"><u>Excellence in Image Making via Premium Grid Makers for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/explore-unrestricted-stock-content-in-key-4-video-channels/"><u>Explore Unrestricted Stock Content in Key 4 Video Channels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-address-and-remove-liquid-detected-notifications-from-your-iphone-charger-port/"><u>How to Address and Remove 'Liquid Detected' Notifications From Your iPhone Charger Port</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xr-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XR Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-acoustic-amplification-of-social-media-content-on-facebook/"><u>In 2024, Acoustic Amplification of Social Media Content on Facebook</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-restoring-your-obs-cameras-integrated-functionality/"><u>In 2024, Restoring Your OBS Camera’s Integrated Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-fix-a-comprehensive-guide-to-chatgpt-login-difficulties/"><u>Mastering the Fix: A Comprehensive Guide to ChatGPT Login Difficulties</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-web-development-via-gpts-fourfold-assistance/"><u>Navigating Web Development via GPT’s Fourfold Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-wild-terrain-with-technology-can-chatgpt-be-your-guide/"><u>Navigating Wild Terrain with Technology: Can ChatGPT Be Your Guide?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/outsmarting-love-scammers-discover-7-ai-tricks-used-by-online-con-artists-to-target-the-vulnerable/"><u>Outsmarting Love Scammers: Discover 7 AI Tricks Used by Online Con Artists to Target the Vulnerable</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-your-subtitle-skills-with-this-complete-guide-and-tips-for-2024/"><u>Perfect Your Subtitle Skills with This Complete Guide & Tips for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/phone-free-signup-a-comprehensive-guide-to-joining-chatgpt-telegram-and-whatsapp/"><u>Phone-Free Signup: A Comprehensive Guide to Joining ChatGPT, Telegram & WhatsApp</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sculpting-digital-prose-to-mirror-your-voice/"><u>Sculpting Digital Prose to Mirror Your Voice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/siri-or-chatgpt-discover-what-sets-them-apart-in-voice-assistant-technology/"><u>Siri or ChatGPT? Discover What Sets Them Apart in Voice Assistant Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-dichotomy-of-reality-and-fantasy-through-ai/"><u>The Dichotomy of Reality & Fantasy Through AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-impact-of-generative-algorithms-on-interactive-entertainment/"><u>The Impact of Generative Algorithms on Interactive Entertainment</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-potential-a-comprehensive-review-of-the-new-apple-ipad-boosting-productivity-with-ipados/"><u>Unveiling the Potential: A Comprehensive Review of the New Apple iPad - Boosting Productivity with IPadOS</u></a></li>
 </ul></div>
 

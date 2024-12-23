@@ -1,7 +1,7 @@
 ---
 title: "Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch From ZDNet"
-date: 2024-12-09T16:15:44.320Z
-updated: 2024-12-13T16:29:31.599Z
+date: 2024-12-20T23:18:48.951Z
+updated: 2024-12-22T21:06:49.827Z
 tags:
   - apple
 categories:
@@ -26,17 +26,9 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -48,11 +40,19 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -71,7 +71,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -81,7 +81,7 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -109,7 +109,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -154,14 +154,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-guide-unobtrusive-android-video-capture/"><u>[New] In 2024, Essential Guide Unobtrusive Android Video Capture</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-ignores-iphone-protection-are-consumers-hearing-the-message/"><u>Apple Ignores iPhone Protection: Are Consumers Hearing the Message?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bridging-the-divide-top-four-ai-innovations-apple-must-embrace-to-compete-with-android-devices/"><u>Bridging the Divide: Top Four AI Innovations Apple Must Embrace to Compete with Android Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-your-perfect-match-with-these-adered-by-free-and-html-editor-but-also-include-relevant-keywords-like-windows-code-editing-tools-or-webpage-builders-her1/"><u>Find Your Perfect Match with These Adered by Free and HTML Editor, but Also Include Relevant Keywords Like Windows, Code Editing Tools, or Webpage Builders. Here Are Five Examples of New SEO Titles that Convey a Similar Meaning to the Original Phrase:</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/spicing-up-videos-with-youtube-music-linking-techniques-for-2024/"><u>Spicing Up Videos with YouTube Music Linking Techniques for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211192941-9780811748537-the-big-book-of-texas-ghost-stories/"><u>The Big Book of Texas Ghost Stories | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-apple-devices-to-avoid-purchasing-at-this-moment-insights-from-zdnet/"><u>Top 4 Apple Devices To Avoid Purchasing at This Moment: Insights From ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-browser-experience-7-essential-chatgpt-extensions-for-optimized-ai-engagement/"><u>Transform Browser Experience: 7 Essential ChatGPT Extensions for Optimized AI Engagement</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-the-full-potential-of-your-iphone-expert-tips-on-mastering-secret-siri-shortcuts-techsavvy/"><u>Unleash the Full Potential of Your iPhone: Expert Tips on Mastering Secret Siri Shortcuts | TechSavvy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-render-and-upload-your-youtube-video-faster-in-2024/"><u>[Updated] How to Render and Upload Your YouTube Video Faster, In 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-peek-into-the-heart-of-youtubes-video-operations/"><u>[Updated] In 2024, A Peek Into the Heart of YouTube's Video Operations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/action-in-motion-best-surfing-cams-of-2023-update-for-2024/"><u>Action in Motion Best Surfing Cams of 2023 Update for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2060467-9780892546657-astrology-for-yourself/"><u>Astrology for Yourself | Free Book</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-12-pro-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 12 Pro Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-drone-friendly-vr-experiences/"><u>In 2024, Top 5 Drone-Friendly VR Experiences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/snapchat-vs-skype-decoding-the-language-of-ai/"><u>Snapchat vs Skype: Decoding the Language of AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-leveraging-gpt-3-within-the-openai-sandbox/"><u>Step-by-Step Tutorial on Leveraging GPT-3 Within the OpenAI Sandbox</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-hidden-hazards-the-perils-of-substituting-ai-for-a-real-life-therapist-or-psychiatrist/"><u>Understanding the Hidden Hazards: The Perils of Substituting AI for a Real-Life Therapist or Psychiatrist</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlockedchatgpt-subscription-deadline-clarity/"><u>UnlockedChatGPT: Subscription Deadline Clarity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-everything-you-need-to-know-about-apples-artificial-intelligence-unveiled-at-wwdc-24/"><u>Unlocking the Secrets: Everything You Need to Know About Apple's Artificial Intelligence Unveiled at WWDC 24</u></a></li>
 </ul></div>
 

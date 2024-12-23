@@ -1,7 +1,7 @@
 ---
 title: "Progressive Breakdown: Understanding and Comparing Every Version From GPT-1 to GPT-4"
-date: 2024-08-20T11:57:43.000Z
-updated: 2024-08-21T11:57:43.000Z
+date: 2024-12-16T23:46:58.956Z
+updated: 2024-12-23T00:52:28.233Z
 tags:
   - chatgpt
   - open-ai
@@ -17,9 +17,17 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 
  With the incredible success of OpenAI's chatbot tool, ChatGPT, many are excited to see what the company will do next. But OpenAI's CEO has now called for further regulation surrounding AI. So, why is this the case, what effect will it have, and is there a motive here for OpenAI?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Sam Altman Calling for More AI Regulation?
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
 
@@ -50,24 +58,17 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
  Some also feel that it's far too soon to be talking about AI regulation, though the presence of AI in so many industries today would seem to contradict that view.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is AI Regulation Good News for OpenAI?
 
 ![openai logo on smartphone place on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-ai-phone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Sam Altman's call for more AI regulation has raised questions about whether such constraints will actually benefit OpenAI.
 
  It's hard to say whether further regulation will be a net positive for OpenAI. However, in the aforementioned Senate hearing, Altman suggested that AI companies like OpenAI should be independently audited and properly licensed, which suggests that he is happy to participate in this increased regulation.
@@ -77,20 +78,18 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
  It isn't surprising that Altman has something of a bias here, as ChatGPT is the brainchild of the company he runs. But further regulation could lead to larger, pre-established AI companies having an advantage over smaller organizations, especially if licenses, permits, and long testing periods are made a legal requirement (as this could incur more costs and require more personnel).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI Regulation Is a Point of Contention
 
  At the moment, there are many different opinions and ideas surrounding the regulation of AI. While some think this technology needs to be reigned in, others would prefer it stay as it is. In the near future, countries across the world may introduce new AI laws, and we'll have to wait and see whether this turns out to be a blessing or a curse.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -99,4 +98,19 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-youtube-traffic-for-new-content-creators/"><u>[New] 2024 Approved Mastering YouTube Traffic for New Content Creators</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-ideal-tactic-fusing-gopro-footage-into-a-unified-360-video-experience-for-2024/"><u>[New] Ideal Tactic Fusing GoPro Footage Into a Unified 360 Video Experience for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-stealthy-speakers-sanctuary-discovering-quiet-voice-apps-androidios/"><u>[Updated] 2024 Approved Stealthy Speakers' Sanctuary Discovering Quiet Voice Apps (Android/iOS)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-t5-unboxed-the-revolution-in-action-filming/"><u>[Updated] T5 Unboxed - The Revolution in Action Filming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-trendsetters-guide-selecting-best-tools-to-craft-instagram-videos-for-2024/"><u>[Updated] Trendsetters’ Guide Selecting Best Tools to Craft Instagram Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elite-professionals-drone-choices-top-5/"><u>Elite Professionals' Drone Choices (Top 5)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-iphone-emoji-a-step-by-step-guide/"><u>Mastering iPhone Emoji: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-10-innovative-replacements-for-chatgpt/"><u>Top 10 Innovative Replacements for ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-artificial-intelligence-narrative-creators-you-should-experiment-with/"><u>Top 4 Artificial Intelligence Narrative Creators You Should Experiment With</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transcend-boundaries-with-effortless-anywhere-chatgpt-usage/"><u>Transcend Boundaries with Effortless Anywhere ChatGPT Usage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transformative-ai-in-online-content-discovery/"><u>Transformative AI in Online Content Discovery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-steps-resolve-plugin-service-connectivity-problems-with-chatgpt/"><u>Troubleshooting Steps: Resolve Plugin Service Connectivity Problems with ChatGPT</u></a></li>
+</ul></div>
 

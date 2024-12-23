@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Speedy Shortcut Actions - Insider Tips & Tricks
-date: 2024-11-30T19:33:54.600Z
-updated: 2024-12-07T16:07:29.497Z
+date: 2024-12-20T18:59:42.717Z
+updated: 2024-12-22T21:02:28.724Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ The MacOS file manager, Finder, has a lot of handy tricks up its sleeve, many of
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple
@@ -38,7 +38,7 @@ Of course, not every file type has an associated Quick Action but you can add ne
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What files offer Quick Actions?
@@ -51,19 +51,19 @@ By default, the following file types offer Quick Actions from within the Finder 
 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use Quick Actions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
 
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
 
@@ -92,7 +92,7 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -145,16 +145,20 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-wrapping-up-with-impactful-endings/"><u>[New] Wrapping Up with Impactful Endings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastermind-whatsapp-advanced-techniques-and-undisclosed-features/"><u>[Updated] In 2024, Mastermind WhatsApp Advanced Techniques and Undisclosed Features</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-petite-narrative-blueprint-for-2024/"><u>[Updated] Petite Narrative Blueprint for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/boosting-zoom-image-resolution-expert-advice-for-2024/"><u>Boosting Zoom Image Resolution Expert Advice for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-the-key-to-unlocking-the-door-to-your-perfect-job-position/"><u>ChatGPT: The Key to Unlocking the Door to Your Perfect Job Position</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725287713090-digiarty-dvd/"><u>Digiarty 公式ブログ： DVDコピーガイド - 最新のコピー手順とヒント</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-mastering-chatgpt-for-academic-success/"><u>Effective Strategies: Mastering ChatGPT for Academic Success</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/formulaic-finesse-excel-exudes-gpt-doesnt-offer/"><u>Formulaic Finesse Excel Exudes, GPT Doesn’t Offer</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/grau-gmbh-hardware-and-software-excellence-the-ultimate-toolkit-for-fixing-your-videos/"><u>Grau GmbH Hardware and Software Excellence: The Ultimate Toolkit for Fixing Your Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/privacy-meets-intelligence-utilize-duckduckgos-new-ai-chatting-service-including-access-to-chatgpt-and-additional-tools/"><u>Privacy Meets Intelligence: Utilize DuckDuckGo's New AI Chatting Service, Including Access to ChatGPT and Additional Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-multifaceted-use-of-ai-in-our-lives/"><u>Unveiling the Multifaceted Use of AI in Our Lives</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-speed-for-vimeo-playback/"><u>[New] Enhancing Speed for Vimeo Playback</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-netflix-recording-mac-edition-6-essential-steps/"><u>[New] Mastering Netflix Recording Mac Edition - 6 Essential Steps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-methods-for-a-no-ads-experience-on-social-platforms/"><u>[New] Methods for a No-Ads Experience on Social Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-free-vfx-resources-online/"><u>[Updated] Explore the Best FREE VFX Resources Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-disconnect-on-snapchat-are-they-blocked-in-2024/"><u>[Updated] The Disconnect on Snapchat Are They Blocked, In 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-standard-youtube-licenses-versus-cc/"><u>In 2024, Standard Youtube Licenses Versus CC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-microsoft-bing-with-ai-the-ultimate-sign-up-guide/"><u>Mastering Microsoft Bing with AI - The Ultimate Sign-Up Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-effects-of-censorship-in-ai-chatbot-interactions/"><u>Navigating the Effects of Censorship in AI Chatbot Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-shift-the-role-of-ai-in-changing-software-development/"><u>Navigating the Shift: The Role of AI in Changing Software Development</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sarah-silverman-joins-legal-battle-against-openai-and-meta-an-inside-look/"><u>Sarah Silverman Joins Legal Battle Against OpenAI & Meta: An Inside Look</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/setting-achievable-wellness-targets-using-chatgpt-a-comprehensive-guide/"><u>Setting Achievable Wellness Targets Using ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/share-your-ai-journey-apps-that-save-and-spread-your-chatgpt-dialogues/"><u>Share Your AI Journey: Apps That Save & Spread Your ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-combining-chatgpt-with-whatsapp-for-improved-support-services/"><u>Step-by-Step Guide to Combining ChatGPT with WhatsApp for Improved Support Services</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-faceshifting-mobile-solutions-iphonesandroid/"><u>Top 10 Faceshifting Mobile Solutions, iPhones/Android</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/top-10-risorse-online-per-scaricare-cartoons-free-nel-2024-guida-seo/"><u>Top 10 Risorse Online Per Scaricare Cartoons Free Nel 2024 - Guida SEO</u></a></li>
 </ul></div>
 

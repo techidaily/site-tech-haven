@@ -1,7 +1,7 @@
 ---
 title: Apple Pencil Inspired? Exploring the Uncanny Resemblance of Microsoft's Vision Pro Controller as Patented
-date: 2024-12-12T22:22:49.391Z
-updated: 2024-12-13T18:41:16.139Z
+date: 2024-12-15T18:29:37.768Z
+updated: 2024-12-22T19:26:36.114Z
 tags:
   - apple
 categories:
@@ -75,19 +75,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-essential-techniques-for-logitech-webcam-videos-for-2024/"><u>[New] Essential Techniques for Logitech Webcam Videos for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-smile-with-these-top-funny-tiktok-videos-and-jokes/"><u>[New] Smile with These Top Funny TikTok Videos and Jokes</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-guide-to-selecting-text-enhancement-websites-for-2024/"><u>[New] The Ultimate Guide to Selecting Text Enhancement Websites for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-rapidly-rise-as-a-social-media-star-on-instagram/"><u>[Updated] Rapidly Rise as a Social Media Star on Instagram</u></a></li>
-<li><a href="https://video-capture.techidaily.com/free-3gp-video-converter-factory-vs-pro-edition-key-differences-explored/"><u>Free 3GP Video Converter Factory Vs. Pro Edition: Key Differences Explored</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-turning-off-instagrams-igtv-in-a-nutshell/"><u>In 2024, Turning Off Instagram's IGTV in a Nutshell</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/negotiation-tactics/"><u>Negotiation Tactics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-apple-watchs-endurance-top-8-settings-tweaks-from-zdnet/"><u>Revolutionize Your Apple Watch's Endurance: Top 8 Settings Tweaks From ZDNet!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-leading-microsoft-enterprise-apps-of-2022-for-iphone-and-ipad-expert-picks/"><u>Top 10 Leading Microsoft Enterprise Apps of 2022 for iPhone & iPad - Expert Picks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-100-must-have-walmart-sales-for-the-festive-season-insider-tips/"><u>Top 100 Must-Have Walmart Sales for the Festive Season: Insider Tips</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-c53-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cloud-savvy-pinpointing-optimal-data-purchases/"><u>Cloud Savvy Pinpointing Optimal Data Purchases</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-x6-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco X6 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/shielding-integrity-openai-launches-gpt-fraud-detector/"><u>Shielding Integrity: OpenAI Launches GPT Fraud Detector</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silencing-intermittent-audio-in-bluetooth-devices-on-windows-10-and-11-pcs/"><u>Silencing Intermittent Audio in Bluetooth Devices on Windows 10 and 11 PCs</u></a></li>
+<li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2007-stellar-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2007 | Stellar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-2024-saga-of-crowdstrike-and-windows-meltdown-decoded-an-exclusive-history-from-zdnet/"><u>The 2024 Saga of CrowdStrike & Windows Meltdown Decoded | An Exclusive History From ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-20-essential-chatgpt-trigger-words-in-github-repositories/"><u>Top 20 Essential ChatGPT Trigger Words in GitHub Repositories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-factors-behind-chatgpts-unprecedented-rise-as-a-global-phenomenon/"><u>Top 5 Factors Behind ChatGPT's Unprecedented Rise as a Global Phenomenon</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-chatgpt-add-ons-skip-these-to-save-time/"><u>Top 6 ChatGPT Add-Ons: Skip These to Save Time</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-gpt-for-effective-office-dialogues/"><u>Unlocking the Power of GPT for Effective Office Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-new-functionalities-in-chatgpt-top-updates-for-users/"><u>Unveiling New Functionalities in ChatGPT – Top Updates for Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-real-world-applications-gpts-influence-today/"><u>Unveiling Real-World Applications: GPT's Influence Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-to-launching-a-career-in-natural-language-processing-and-prompts/"><u>Unveiling the Secrets to Launching a Career in Natural Language Processing and Prompts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-has-chatgpt-halted-new-registrations-unveiling-reasons-and-predicting-comeback-timelines/"><u>Why Has ChatGPT Halted New Registrations? Unveiling Reasons and Predicting Comeback Timelines</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

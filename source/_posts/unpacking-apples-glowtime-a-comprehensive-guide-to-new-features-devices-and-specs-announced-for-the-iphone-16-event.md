@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Apple's 'Glowtime': A Comprehensive Guide to New Features, Devices, and Specs Announced for the iPhone 16 Event"
-date: 2024-12-10T16:39:49.941Z
-updated: 2024-12-13T18:58:00.700Z
+date: 2024-12-21T20:46:45.194Z
+updated: 2024-12-22T20:02:58.630Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If you didn't get to tune in or want a detailed summary of the announcements, ke
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPhone 16 series
@@ -65,7 +65,7 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -89,7 +89,7 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -117,7 +117,7 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -135,7 +135,7 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -184,16 +184,18 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-skype-audio-capture-expert-picks-and-reviews/"><u>[New] 2024 Approved Skype Audio Capture Expert Picks and Reviews</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-best-screen-time-for-peaceful-phone-puzzles/"><u>[New] Best Screen-Time for Peaceful Phone Puzzles</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-cost-free-cgi-mastery-via-4-youtube-experts-insights/"><u>[New] The Ultimate Guide to Cost-Free CGI Mastery via 4 YouTube Experts' Insights</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-comprehensive-guide-youtube-to-mpeg-transcoding/"><u>[Updated] In 2024, Comprehensive Guide YouTube to MPEG Transcoding</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-apple-vision-pro-unveiling-costs-innovative-attributes-and-expert-user-reviews-comprehensive-guide/"><u>Exploring the Apple Vision Pro: Unveiling Costs, Innovative Attributes & Expert User Reviews - Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-waters-and-pages-with-the-durable-kobo-libra-h2c-a-full-review-on-its-features-and-usability/"><u>Exploring Waters and Pages with the Durable Kobo Libra H2C – A Full Review on Its Features & Usability</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-airpod-troubleshooting-timely-tips-for-effective-resets-digital-world-wisdom/"><u>Mastering AirPod Troubleshooting: Timely Tips for Effective Resets | Digital World Wisdom</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/portability-meets-precision-the-ideal-blend-of-functionality-in-sabrents-mini-travel-mouse-for-seamless-navigation/"><u>Portability Meets Precision: The Ideal Blend of Functionality in Sabrent's Mini Travel Mouse for Seamless Navigation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/secure-your-copy-of-apple-watch-series-10-today-exclusive-pre-order-guide-and-money-saving-tips-techwise/"><u>Secure Your Copy of Apple Watch Series 10 Today: Exclusive Pre-Order Guide & Money-Saving Tips | TechWise</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/three-years-later-the-evolution-of-my-iphone-journey-showcased-by-zdnet/"><u>Three Years Later: The Evolution of My iPhone Journey Showcased by ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-boost-stories-interaction-with-peculiar-creative-questions/"><u>[New] 2024 Approved Boost Stories Interaction with Peculiar Creative Questions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-maintain-a-seamless-video-experience-by-removing-stickers/"><u>[Updated] How to Maintain a Seamless Video Experience by Removing Stickers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722195861624-are-ai-writing-services-a-viable-way-to-make-extra-cash-lets-discuss-8-options/"><u>Are AI Writing Services a Viable Way to Make Extra Cash? Let's Discuss 8 Options!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722179648348-avoid-the-misleading-google-bard-protect-your-device/"><u>Avoid the Misleading Google Bard — Protect Your Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-cinematic-strategies-the-top-13-film-shooting-methods/"><u>Best Cinematic Strategies: The Top 13 Film Shooting Methods</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/comprehensive-guide-to-leveraging-your-apowerunlock-device-effectively/"><u>Comprehensive Guide to Leveraging Your ApowerUnlock Device Effectively</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-interactive-boundaries-the-vision-of-mixed-reality/"><u>In 2024, Exploring Interactive Boundaries The Vision of Mixed Reality</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-6-hdmi-21-monitor-for-2024/"><u>Top 6 HDMI 2.1 Monitor for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-chatgpts-boundaries-exploring-its-non-responsive-queries/"><u>Unlocking ChatGPT's Boundaries: Exploring Its Non-Responsive Queries</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-behind-chatgpts-syntax-conversion-why-it-matters-for-coders/"><u>Unveiling the Secrets Behind ChatGPT's Syntax Conversion: Why It Matters for Coders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voice-your-commands-getting-started-with-chatgpt-on-android-through-voicegpt/"><u>Voice Your Commands: Getting Started with ChatGPT on Android Through VoiceGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-does-it-mean-to-achieve-sync-demystifying-the-alignment-dilemma-in-ai-systems/"><u>What Does It Mean to Achieve Sync? Demystifying the Alignment Dilemma in AI Systems</u></a></li>
 </ul></div>
 

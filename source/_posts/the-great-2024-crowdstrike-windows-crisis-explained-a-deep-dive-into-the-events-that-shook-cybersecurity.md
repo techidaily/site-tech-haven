@@ -1,7 +1,7 @@
 ---
 title: "The Great 2024 CrowdStrike-Windows Crisis Explained: A Deep Dive Into the Events that Shook Cybersecurity"
-date: 2024-11-30T16:18:13.287Z
-updated: 2024-12-07T19:19:18.282Z
+date: 2024-12-19T01:20:27.180Z
+updated: 2024-12-22T18:32:06.146Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,22 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-a-guide-to-gathering-gold-from-guided-goods-gazes-online/"><u>[Updated] A Guide to Gathering Gold From Guided Goods' Gazes Online</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-maximizing-impact-using-youtube-analytics-for-content-strategy/"><u>[Updated] Maximizing Impact Using YouTube Analytics for Content Strategy</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-on-your-computer-why-its-superior-to-the-website-experience/"><u>ChatGPT on Your Computer: Why It's Superior to the Website Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatlaw-assessing-gpt-in-legal-discussions/"><u>ChatLaw: Assessing GPT in Legal Discussions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-imaginative-tales-using-chatgpt-strategies-for-success/"><u>Crafting Imaginative Tales Using ChatGPT: Strategies for Success</u></a></li>
-<li><a href="https://win-popular.techidaily.com/easy-steps-migrate-from-windows-7-or-81-to-windows-10-while-preserving-your-data/"><u>Easy Steps: Migrate From Windows 7 or 8.1 to Windows 10 While Preserving Your Data</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/empowered-by-poe-to-tap-into-ai-botsllms/"><u>Empowered by PoE to Tap Into AI Bots/LLMs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-chatgpt-enterprise-features-benefits-and-unique-advantages/"><u>Exploring ChatGPT Enterprise: Features, Benefits & Unique Advantages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-googles-latest-venture-unveiling-the-mysteries-of-artific/"><u>Exploring Google's Latest Venture: Unveiling the Mysteries of Artific</u></a></li>
-<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y100-by-drfone-android/"><u>How to Bypass FRP on Vivo Y100?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/srt-to-sub-shift-expert-strategies-and-actions-for-2024/"><u>SRT to SUB Shift Expert Strategies & Actions for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-evolution-of-nlp-dive-into-googles-enhanced-palm-2-large-language-system/"><u>The Evolution of NLP: Dive Into Google's Enhanced PaLM 2 Large Language System</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-resource-for-hardware-enthusiasts-discoveries-from-toms-tech-space/"><u>The Ultimate Resource for Hardware Enthusiasts: Discoveries From Tom's Tech Space</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-ai-assistance-a-comprehensive-guide-to-using-chatgpt-with-macos/"><u>Unleashing AI Assistance: A Comprehensive Guide to Using ChatGPT with macOS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-no-paywalls-here-learn-how-to-record-and-save-your-youtube-experience-for-free/"><u>[New] 2024 Approved No Paywalls Here! Learn How To Record and Save Your YouTube Experience For Free</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-steps-to-cure-intermittent-obs-frames/"><u>2024 Approved Steps to Cure Intermittent OBS Frames</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-11-pro-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 11 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-samsung-galaxy-f54-5g-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/from-scene-to-video-canons-pathway-to-timelapse-excellence-for-2024/"><u>From Scene to Video Canon's Pathway to Timelapse Excellence for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-checking-and-updating-your-powershell-in-the-new-windows-11-environment/"><u>Guide to Checking and Updating Your PowerShell in the New Windows 11 Environment</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-variations-america-vs-britain/"><u>Language Variations: America vs Britain</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/local-legal-solutions-understanding-the-pros-and-cons-for-your-business-needs/"><u>Local Legal Solutions: Understanding the Pros and Cons for Your Business Needs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-nutritional-meal-scheduling-with-ai-powered-chatgpt-guidance/"><u>Mastering the Art of Nutritional Meal Scheduling with AI-Powered ChatGPT Guidance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mercedes-benz-adds-voice-controlled-chatgpt-feature-in-new-car-models/"><u>Mercedes-Benz Adds Voice-Controlled ChatGPT Feature in New Car Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-career-prospects-in-ai-prompt-engineering-stability-and-growth-potential/"><u>Navigating Career Prospects in AI Prompt Engineering – Stability and Growth Potential</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-on-device-artificial-intelligence-mechanisms/"><u>Navigating On-Device Artificial Intelligence Mechanisms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-ceo-at-ai-hub-impact-on-gpt-usage/"><u>New CEO at AI Hub Impact on GPT Usage</u></a></li>
 </ul></div>
 

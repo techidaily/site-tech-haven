@@ -1,7 +1,7 @@
 ---
 title: Score the Sweetest Price Yet on Apple's New M2 MacBook Air at Amazon for Only $800 – No Prime Day Necessary | ZDNet Exclusive Deal
-date: 2024-12-11T18:48:34.048Z
-updated: 2024-12-13T17:06:10.422Z
+date: 2024-12-22T00:09:31.370Z
+updated: 2024-12-22T18:56:58.780Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ AI-powered laptops are the future, and right now, manufacturers are putting thei
 Many folks don't need top-of-the-line AI integration just yet. The reality is that day-to-day workflows for most people are still reliant on powerful, reliable laptops that can tackle whatever you throw at it, and the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C2R8MP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc29ebbda-99dd-4505-b503-7802d6019c7c%7Cdtp&dtb=1) is a machine that fulfills exactly that need, while being light as air. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,14 +79,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-optimal-video-formats-to-skyrocket-your-youtube-popularity/"><u>[New] In 2024, Optimal Video Formats to Skyrocket Your YouTube Popularity</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-improve-your-youtube-description-using-amazing-templates/"><u>[Updated] Improve Your YouTube Description Using Amazing Templates</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-your-fortnite-experience-by-resolving-stutter-and-buffer-issues-on-desktopslaptops/"><u>Enhance Your Fortnite Experience by Resolving Stutter and Buffer Issues on Desktops/Laptops</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-the-ultimate-zenith-of-pc-gameplay/"><u>In 2024, The Ultimate Zenith of PC Gameplay</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-leading-microsoft-enterprise-solutions-for-ios-in-2n-expert-picks-by-zdnet/"><u>Top 10 Leading Microsoft Enterprise Solutions for iOS in 2N - Expert Picks by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-ultimate-ai-prompt-creation-tools-compatible-with-various-ai-platforms/"><u>Top 5 Ultimate AI Prompt Creation Tools Compatible with Various AI Platforms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1727792261031-top-rated-tablet-computers-comprehensive-reviews-by-tech-experts/"><u>Top Rated Tablet Computers - Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-macos-software-of-2023-expert-reviews-and-picks/"><u>Top-Rated macOS Software of 2023 - Expert Reviews & Picks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-secrets-how-your-new-iphone-has-an-amazing-feature-you-might-not-know-about-exposed/"><u>Unlocking Secrets: How Your New iPhone Has an Amazing Feature You Might Not Know About, Exposed</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-rhymes-that-roam-a-list-of-must-have-tiktok-rap-songs/"><u>[New] In 2024, Rhymes That Roam A List of Must-Have TikTok Rap Songs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unleashing-true-potential-in-speech-interpretation-through-google/"><u>[Updated] 2024 Approved Unleashing True Potential in Speech Interpretation Through Google</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-seamlessly-download-and-install-movie-maker-6/"><u>[Updated] How to Seamlessly Download and Install Movie Maker 6</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-with-friends-and-family-making-facetime-work-on-a-windows-desktop-or-laptop/"><u>Connect with Friends and Family: Making Facetime Work on a Windows Desktop or Laptop</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/decouvrez-les-top-9-outils-gratuits-pour-animer-en-2d-le-guide-de-movavi/"><u>Découvrez Les Top 9 Outils Gratuits Pour Animer en 2D : Le Guide De Movavi</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-6-lite-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-c65-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco C65 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-starlight-strategies-dos-and-donts-for-perfect-nightscape-portraits/"><u>In 2024, Starlight Strategies Do's & Don'ts for Perfect Nightscape Portraits</u></a></li>
+<li><a href="https://discover-help.techidaily.com/overcoming-discord-challenges-solving-the-mystery-of-non-responsive-servers/"><u>Overcoming Discord Challenges: Solving the Mystery of Non-Responsive Servers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revealing-chatgpts-hidden-fun-here-are-the-best-games-to-engage-with/"><u>Revealing ChatGPT's Hidden Fun: Here Are The Best Games to Engage With!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revealing-hidden-ears-a-closer-look-at-unexpected-listeners-during-your-online-chats-understanding-the-dead-internet-concept/"><u>Revealing Hidden Ears: A Closer Look at Unexpected Listeners During Your Online Chats - Understanding the Dead Internet Concept</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-accessing-chatgpt-plugin-options/"><u>Step-by-Step Tutorial on Accessing ChatGPT Plugin Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-office-efficiency-a-comprehensive-look-at-making-chatgpt-your-work-bff/"><u>Streamline Office Efficiency: A Comprehensive Look at Making ChatGPT Your Work BFF</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-elite-quartet-of-ai-hardware-innovations-taking-center-stage/"><u>The Elite Quartet of AI Hardware Innovations Taking Center Stage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-students-secret-weapon-using-chatgpt-for-innovative-essay-writing-strategies/"><u>The Student's Secret Weapon: Using ChatGPT for Innovative Essay Writing Strategies</u></a></li>
 </ul></div>
 
