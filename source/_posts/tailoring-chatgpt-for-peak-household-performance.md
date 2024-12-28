@@ -1,7 +1,7 @@
 ---
 title: Tailoring ChatGPT for Peak Household Performance
-date: 2024-08-16T12:41:39.718Z
-updated: 2024-08-17T12:41:39.718Z
+date: 2024-12-20T19:33:24.219Z
+updated: 2024-12-27T20:36:44.203Z
 tags:
   - chatgpt
   - open-ai
@@ -15,15 +15,16 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 ## Tailor Your Text Experience – OpenAI's GPT Custom Shops
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Access the GPT Store](https://godlikehost.sjv.io/vnbxzv)
 * [How to Find the Best Custom GPTs in the GPT Store](https://ancheer.sjv.io/y96bgp)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://getlyla.pxf.io/ek9gkg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -39,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Access the GPT Store
 
  Access and use of the new GPT Store [requires a ChatGPT subscription](http://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Only users with ChatGPT Plus, ChatGPT Teams, or ChatGPT Enterprise accounts will be able to use the store's catalog of custom GPTs. You also need a ChatGPT subscription if you want to [create your own custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/).
@@ -58,28 +60,28 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 1. Once you can access the GPT Store, click **Explore GPTs** on the left sidebar of the ChatGPT interface to open the store.
 2. At the top of the store page, you will see featured categories like Writing, Productivity, Programming, Research and Analysis, and DALL-E for image generation. Click on a category to view a list of the top-performing custom GPT models in that specific category.  
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. You can also use the search bar to find GPTs by keyword or related terms.  
-![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
  Since you need a ChatGPT subscription to use custom GPTs, you're probably wondering whether it's worth paying the $20 subscription fee to access the feature.
@@ -96,8 +98,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +105,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ompletely-erase-your-connection-with-youtube-shorts/"><u>[New] Completely Erase Your Connection with YouTube Shorts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-elevate-note-taking-experience-mematic/"><u>[New] In 2024, Elevate Note-Taking - Experience Mematic</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-essentials-of-choosing-top-5-web-based-title-innovators/"><u>[Updated] 2024 Approved Essentials of Choosing Top 5 Web-Based Title Innovators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-5-best-voice-recorders-for-mac-devices-for-2024/"><u>[Updated] 5 Best Voice Recorders for Mac Devices for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-unveils-new-gaming-mouse-rog-keris-ii-ace-a-lightweight-rivals-to-the-iconic-deathadder-v3-pro/"><u>Asus Unveils New Gaming Mouse - ROG Keris II Ace, a Lightweight Rivals to the Iconic DeathAdder V3 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functional-voice-communication-in-overwatch-ptt/"><u>Effective Fixes for Non-Functional Voice Communication in Overwatch (PTT)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-k70-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi K70 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/overcoming-scanning-hurdles-how-to-make-your-scanner-compatible-with-any-software-advice-from-yl-technologies/"><u>Overcoming Scanning Hurdles: How to Make Your Scanner Compatible With Any Software – Advice From YL Technologies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategic-approaches-to-ai-assistance-in-professional-writing-services/"><u>Strategic Approaches to AI Assistance in Professional Writing Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-content-creation-leveraging-canva-plus-gpt-for-automated-design-workflows/"><u>Streamline Your Content Creation: Leveraging Canva Plus GPT for Automated Design Workflows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/teaching-chatgpt-your-voice-the-ultimate-guide-to-customizing-its-writing-abilities/"><u>Teaching ChatGPT Your Voice: The Ultimate Guide to Customizing Its Writing Abilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-mental-health-care-can-ai-provide-better-assistance/"><u>The Future of Mental Health Care: Can AI Provide Better Assistance?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-humorous-side-of-ai-plus-tracing-the-journey-of-laptop-innovation-and-vpn-enhancements/"><u>The Humorous Side of AI - Plus, Tracing the Journey of Laptop Innovation & VPN Enhancements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-effective-substitutes-for-the-chatgpt-mobile-application/"><u>Top 7 Effective Substitutes for the ChatGPT Mobile Application</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/transform-your-moments-engage-every-room-the-carver-review/"><u>Transform Your Moments, Engage Every Room - The Carver Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transformative-strategies-harness-the-power-of-auto-gpt-through-8-dynamic-methods/"><u>Transformative Strategies: Harness the Power of Auto-GPT Through 8 Dynamic Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-overcome-win11-update-issue-error-0xc1900208/"><u>Troubleshooting Steps to Overcome Win11 Update Issue - Error 0xC1900208</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/twitscam-alert-metasig-comes-alive/"><u>TwitScam Alert: Metasig Comes Alive</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-power-of-bing-chat-on-android-the-ultimate-walkthrough/"><u>Unlock the Power of Bing Chat on Android: The Ultimate Walkthrough</u></a></li>
+</ul></div>
 

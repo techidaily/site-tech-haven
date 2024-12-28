@@ -1,7 +1,7 @@
 ---
 title: Bard by Google Emerges to Test Its Mettle Against Competitor, ChatGPT
-date: 2024-08-16T12:40:37.986Z
-updated: 2024-08-17T12:40:37.986Z
+date: 2024-12-24T12:16:00.717Z
+updated: 2024-12-27T22:43:33.889Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 
 ![Programming codes on computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/markus-spiske-jg8nlwlrztm-unsplash-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One of the most exciting upgrades PaLM 2 brings to Bard AI is its support for over 20 programming languages, including Python, JavaScript, Fortran, C++, Verilog, and Prolog. As a result, the AI chatbot will now write, debug, and modify code in different computer languages; you only need to prompt it with any of the language instructions.
 
  PaLM 2's support for different programming languages is powered by massive training data, which includes GitHub code repositories. So you can ask Bard to debug a line of code in Python, and it will rightly do so while explaining the error in the code. This is beneficial, especially if you are[learning programming concepts and skills](https://www.makeuseof.com/coding-and-programming-basics/) .
@@ -30,37 +34,30 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 ## 2\. Multilingual Capabilities
 
 ![Different language dictionaries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Different-language-dictionaries.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  PaLM 2 will expand the multilingual capabilities of Bard AI, making it perform well with multilingual tasks, as it is being trained with diverse texts from over 100 languages.
 
  So Bard AI will be able to understand and, in turn, generate text in several languages from different parts of the world, including underrepresented languages on the internet. In addition, the AI chatbot can also understand more nuanced forms of language, like poems, proverbs, and riddles, than in its older versions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Better Logic and Reasoning
 
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) emphasize language, which is why computing mathematical questions and queries can be challenging. They need to use third-party plugins to circumvent this challenge.
 
  However, the PaLM 2 model will better adapt to mathematics, logic, and common sense reasoning. Google developed the model using many science and math texts, including mathematical expressions. Therefore, PaLM 2 will not only solve mathematical problems easily but also reason through the puzzles and offer appropriate diagram illustrations.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Med-PaLM 2
 
 ![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Med-PaLM 2 is a specialized medical LLM model that focuses on medical knowledge. This version is trained and equipped with massive medical texts, including journals, textbooks, clinical notes, and patient records.
 
@@ -76,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 
  With this, it can understand and generate security-related text and code in different languages and formats.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Third-Party Extension Support
 
 ![Adobe apps on a MacBook Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-apps-on-a-macbook-pro.jpg)
@@ -91,9 +85,17 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 
 ![Google Docs logo on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Google-Docs-Logo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another key area the company plans to upgrade Bard with PaLM 2 is the "Workspace AI collaborator." PaLM 2 will feature on the company's full product range—in Cloud, Colab, Meet, Docs, Maps, Sheets, and others.
 
  The process will become even more seamless as Google promises upgrades for exporting data. You can write codes with Bard and export them into Replit or Google Colab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PaLM 2 WIll Revolutionize Google Bard
 
@@ -101,14 +103,11 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 
  So keep your eyes open to see how these new upgrades to Bing AI will perform in the near future.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,4 +116,24 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elite-cameras-for-pixel-perfect-stop-motion/"><u>[New] 2024 Approved Elite Cameras for Pixel-Perfect Stop Motion</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-proven-iphone-tips-effortless-video-length-and-size-control/"><u>[New] Proven iPhone Tips Effortless Video Length & Size Control</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-enhancing-gaming-experience-with-steam-switch-control/"><u>[Updated] Enhancing Gaming Experience with Steam Switch Control</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-visualize-success-free-templates-to-elevate-your-youtube-presence/"><u>[Updated] Visualize Success Free Templates to Elevate Your YouTube Presence</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-functionality-of-system-restore-on-your-windows-11-pc/"><u>Exploring the Functionality of System Restore on Your Windows 11 PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-to-modify-user-numbers-in-tiktok-for-2024/"><u>Innovative Approaches to Modify User Numbers in TikTok for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/low-cost-screen-recorder-guide-for-old-computers-for-2024/"><u>Low-Cost Screen Recorder Guide for Old Computers for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-an-ai-infused-work-environment-6-key-strategies/"><u>Navigating an AI-Infused Work Environment: 6 Key Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-privacy-in-the-age-of-ai-safeguarding-yourself-from-chatgpt-risks/"><u>Navigating Privacy in the Age of AI: Safeguarding Yourself From ChatGPT Risks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-video-chats-zooming-in-on-xbox-for-2024/"><u>Navigating Video Chats Zooming In on Xbox for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/nutrition-blueprints-via-ai-gpt-tips/"><u>Nutrition Blueprints via AI: GPT Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-and-meta-face-litigation-as-artists-rally-behind-sarah-silverman-in-ai-controversy/"><u>OpenAI and Meta Face Litigation as Artists Rally Behind Sarah Silverman in AI Controversy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pros-vs-cons-leveraging-chatgpt-for-your-next-literary-project/"><u>Pros Vs. Cons: Leveraging ChatGPT for Your Next Literary Project</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/publicizing-personalized-gpt-dialogues-securely/"><u>Publicizing Personalized GPT Dialogues Securely</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-control-fixing-wi-fi-mouse-malfunctions-in-windows/"><u>Regain Control: Fixing Wi-Fi Mouse Malfunctions in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-information-access-the-role-of-ai-powered-search-engines-for-websites/"><u>Revolutionizing Information Access: The Role of AI-Powered Search Engines for Websites</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/side-earnings-strategies-with-ai-tools-like-chatgpt-expert-advice-on-pc-construction-projects-and-retro-gaming-devices-rundown/"><u>Side Earnings Strategies with AI Tools Like ChatGPT, Expert Advice on PC Construction Projects, and Retro Gaming Devices Rundown</u></a></li>
+</ul></div>
 

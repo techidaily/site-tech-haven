@@ -1,7 +1,7 @@
 ---
 title: Discover the Smartphones Cherished Staff - A Behind-the-Scenes Look
-date: 2024-12-17T20:55:09.908Z
-updated: 2024-12-22T16:35:41.095Z
+date: 2024-12-23T16:00:43.754Z
+updated: 2024-12-28T16:00:39.872Z
 tags:
   - apple
 categories:
@@ -73,7 +73,7 @@ Cons
 ## Samsung Galaxy S21 Ultra
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steven J. Vaughan-Nichols and Charlie Osborne
@@ -99,6 +99,10 @@ Cons
 * Long battery life Strong performance The camera is very impressive
 
 ## iPhone 12 Pro Max
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Matthew Miller
 
@@ -138,6 +142,10 @@ Cons
 
 ## iPhone 12
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Chris Matyszczyk
 
 **Chris Matyszczyk:** My XR became heavy and cumbersome. It had begun to fade. I saw the 12's blue color and thought it might be fetching. And then an Apple store employee took the time to talk me into the 12, just when I was at my weakest.
@@ -155,6 +163,10 @@ Cons
 * Fast performance New camera features Strong battery life
 
 ## iPhone 11 Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Ed Bott
 
@@ -180,6 +192,10 @@ Pros
 Cons 
 * Strong battery life Good performance More affordable
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Google Pixel 2
 
 ### Tony Baer
@@ -195,10 +211,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Huawei P20 Pro
 
@@ -217,10 +229,6 @@ Cons
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
 
 ## iPhone XR
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
 
@@ -242,6 +250,10 @@ Cons
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###   
 
 ###   
@@ -249,7 +261,7 @@ Show Expert Take Show less
 ## iPhone X
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Robin Harris
@@ -278,11 +290,11 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 
 Show Expert Take Show less 
 
-## iPhone 7 Plus
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## iPhone 7 Plus
 
 ### Tiernan Ray
 
@@ -290,11 +302,11 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
-## iPhone 6s Plus
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## iPhone 6s Plus
 
 ### David Gewirtz and Iliana Meir
 
@@ -308,14 +320,10 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lumia 1520
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mary Branscombe
@@ -326,15 +334,7 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 
 Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Note 8
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Charles McLellan
 
@@ -376,24 +376,18 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout/"><u>[New] 2024 Approved How To Streamline the Integration of YouTube Playlists Into a Site's Layout</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-transform-hidden-facebook-videos-with-these-12-must-try-steps/"><u>[New] 2024 Approved Transform Hidden Facebook Videos with These 12 Must-Try Steps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/excellence-in-image-making-via-premium-grid-makers-for-2024/"><u>Excellence in Image Making via Premium Grid Makers for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/explore-unrestricted-stock-content-in-key-4-video-channels/"><u>Explore Unrestricted Stock Content in Key 4 Video Channels</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-address-and-remove-liquid-detected-notifications-from-your-iphone-charger-port/"><u>How to Address and Remove 'Liquid Detected' Notifications From Your iPhone Charger Port</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xr-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XR Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-acoustic-amplification-of-social-media-content-on-facebook/"><u>In 2024, Acoustic Amplification of Social Media Content on Facebook</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-restoring-your-obs-cameras-integrated-functionality/"><u>In 2024, Restoring Your OBS Camera’s Integrated Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-fix-a-comprehensive-guide-to-chatgpt-login-difficulties/"><u>Mastering the Fix: A Comprehensive Guide to ChatGPT Login Difficulties</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-web-development-via-gpts-fourfold-assistance/"><u>Navigating Web Development via GPT’s Fourfold Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-wild-terrain-with-technology-can-chatgpt-be-your-guide/"><u>Navigating Wild Terrain with Technology: Can ChatGPT Be Your Guide?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/outsmarting-love-scammers-discover-7-ai-tricks-used-by-online-con-artists-to-target-the-vulnerable/"><u>Outsmarting Love Scammers: Discover 7 AI Tricks Used by Online Con Artists to Target the Vulnerable</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfect-your-subtitle-skills-with-this-complete-guide-and-tips-for-2024/"><u>Perfect Your Subtitle Skills with This Complete Guide & Tips for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/phone-free-signup-a-comprehensive-guide-to-joining-chatgpt-telegram-and-whatsapp/"><u>Phone-Free Signup: A Comprehensive Guide to Joining ChatGPT, Telegram & WhatsApp</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sculpting-digital-prose-to-mirror-your-voice/"><u>Sculpting Digital Prose to Mirror Your Voice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/siri-or-chatgpt-discover-what-sets-them-apart-in-voice-assistant-technology/"><u>Siri or ChatGPT? Discover What Sets Them Apart in Voice Assistant Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-dichotomy-of-reality-and-fantasy-through-ai/"><u>The Dichotomy of Reality & Fantasy Through AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-impact-of-generative-algorithms-on-interactive-entertainment/"><u>The Impact of Generative Algorithms on Interactive Entertainment</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-potential-a-comprehensive-review-of-the-new-apple-ipad-boosting-productivity-with-ipados/"><u>Unveiling the Potential: A Comprehensive Review of the New Apple iPad - Boosting Productivity with IPadOS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-streamer-capture-and-save-videos/"><u>[New] In 2024, FB-Streamer Capture and Save Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-trusted-6-online-communities-driving-business-growth/"><u>[New] Trusted 6 Online Communities Driving Business Growth</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-compact-cameras-for-1000-or-less-4k-for-2024/"><u>Best Compact Cameras for $1000 or Less (4K) for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/blur-unwanted-parts-of-your-videos-with-these-mobile-apps/"><u>Blur Unwanted Parts of Your Videos with These Mobile Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/checking-content-quality-by-gpt/"><u>Checking Content Quality by GPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-access-saved-login-information-on-a-mac-device/"><u>How to Access Saved Login Information on a Mac Device</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-6s-plus-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone 6s Plus Without Apple ID Password?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-your-hp-sound-devices-free-fast-track-setup-for-optimal-performance/"><u>Install Your HP Sound Devices Free: Fast Track Setup for Optimal Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-mouse-freeze-up-while-scaling-sheets-in-excel/"><u>Overcome Mouse Freeze-Up While Scaling Sheets in Excel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-ranked-artificial-intelligence-search-solutions-for-effective-web-exploration/"><u>Top-Ranked Artificial Intelligence Search Solutions for Effective Web Exploration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-job-applications-write-cover-letters-via-chatai/"><u>Transform Your Job Applications: Write Cover Letters via ChatAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/your-next-step-experience-8-custom-gpts-now/"><u>Your Next Step: Experience 8 Custom GPTs Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Black Friday Alert! Snatch Up a Steep Discount on Apple's Magic Keyboard for Just $90 Less – Your Guide to Savings Starts Here at ZDNet.
-date: 2024-12-20T23:50:26.637Z
-updated: 2024-12-22T20:12:57.174Z
+date: 2024-12-23T03:47:59.493Z
+updated: 2024-12-27T16:58:48.838Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ And while spending $100 on a four-pack doesn't seem that bad after living throug
 Since AirTags are powered by a CR2032 coin cell battery, you can [replace the battery](https://www.zdnet.com/article/how-to-change-the-battery-in-your-apple-airtag/) whenever it dies, preventing you from buying a new one each time. Remember, since AirTags are thin pocket-sized devices, you can use them for just about anything and repurpose them as often as you'd like. From helping you find a parking spot to tracking your child's favorite toy, there are endless possibilities with your AirTags -- you just have to get [creative](https://www.zdnet.com/article/seven-ways-apple-airtags-can-help-you-beyond-tracking-keys/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,18 +77,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-in-class-chromebook-recording-app/"><u>[New] Best in Class Chromebook Recording App</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-becoming-a-youtube-pro-the-ultimate-picture-post-guide/"><u>2024 Approved Becoming a YouTube Pro The Ultimate Picture Post Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-photography-101-simple-strategies/"><u>2024 Approved IPhone Photography 101 Simple Strategies</u></a></li>
-<li><a href="https://facebook.techidaily.com/5-hotspots-for-gaining-freelance-assignments/"><u>5 Hotspots for Gaining Freelance Assignments</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/a-critical-review-of-the-newest-vegaspro/"><u>A Critical Review of the Newest VegasPro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/accessing-messenger-features-without-linking-to-facebook-a-comprehensive-guide/"><u>Accessing Messenger Features without Linking to Facebook: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/bluetooth-troubleshooting-windows-11-recovery-procedures/"><u>Bluetooth Troubleshooting: Windows 11 Recovery Procedures</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-your-mov-videos-to-flv-for-free-with-movavis-easy-to-use-online-service/"><u>Convert Your MOV Videos to FLV for Free with Movavi's Easy-to-Use Online Service</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expertly-choose-the-perfect-hdmi-switcher-the-2023-leading-picks/"><u>Expertly Choose the Perfect HDMI Switcher: The 2023 Leading Picks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-ai-powered-tools-for-automating-pdf-creation-with-chatgpt/"><u>Top 10 AI-Powered Tools for Automating PDF Creation with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-tech-openais-latest-gpt-4-artificial-intelligence-breakthrough/"><u>Transforming Tech: OpenAI's Latest GPT-4 Artificial Intelligence Breakthrough</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ai-driven-innovation-navigating-ownership-and-copyright-laws-for-ai-creations/"><u>Understanding AI-Driven Innovation: Navigating Ownership and Copyright Laws for AI Creations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-enterprise-capabilities-and-unique-selling-points-explained/"><u>Understanding ChatGPT Enterprise - Capabilities and Unique Selling Points Explained</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discover-how-to-craft-videos-flawlessly-in-8-tools-for-2024/"><u>[Updated] Discover How to Craft Videos Flawlessly in 8 Tools for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-global-approach-to-chatgpt-expert-tips-for-language-adaptability/"><u>A Global Approach to ChatGPT: Expert Tips for Language Adaptability</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-and-humor-does-chatgpt-really-have-what-it-takes-to-entertain-us-with-jokes/"><u>AI and Humor: Does ChatGPT Really Have What It Takes to Entertain Us with Jokes?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/an-in-depth-look-at-what-you-can-achieve-using-claude-2-software/"><u>An In-Depth Look at What You Can Achieve Using Claude 2 Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/analyzing-chatgpts-impact-on-creative-writing-pros-vs-cons/"><u>Analyzing ChatGPT's Impact on Creative Writing: Pros Vs. Cons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ascend-the-skies-differences-between-copilot-levels/"><u>Ascend the Skies: Differences Between CoPilot Levels</u></a></li>
+<li><a href="https://blog-min.techidaily.com/buy-professional-macx-video-converter-get-the-ultimate-version/"><u>Buy Professional MacX Video Converter - Get the Ultimate Version!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dark-souls-crashes-and-bugs-heres-how-you-can-resolve-them/"><u>Dark Souls 지미: Crashes and Bugs? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722096911818-discover-top-6-engaging-games-available-on-chatgpt-start-your-fun/"><u>Discover Top 6 Engaging Games Available on ChatGPT - Start Your Fun!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/imovies-cropping-an-in-depth-look/"><u>IMovie's Cropping An In-Depth Look</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-platforms-for-personalized-present-packaging/"><u>In 2024, Premier Platforms for Personalized Present Packaging</u></a></li>
+<li><a href="https://fox-info.techidaily.com/innovative-ai-names-for-podcasts-the-ultimate-guide-for-2024/"><u>Innovative AI Names for Podcasts – The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/photoshop-shake-control-necessary-tool-or-unnecessary-in-2024/"><u>Photoshop Shake Control Necessary Tool or Unnecessary, In 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/vibey-vistas-your-guide-to-the-10-most-trending-discothemes/"><u>Vibey Vistas Your Guide to the 10 Most Trending DiscoThemes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo K11 5G? | Dr.fone</u></a></li>
 </ul></div>
 

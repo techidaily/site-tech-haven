@@ -1,7 +1,7 @@
 ---
 title: Essential AI Enhancements for iOS 18 That Would Bring It on Par With Android's Capabilities - Insights
-date: 2024-12-22T01:40:19.510Z
-updated: 2024-12-22T19:29:38.353Z
+date: 2024-12-23T16:00:59.594Z
+updated: 2024-12-28T16:00:30.943Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,21 +126,18 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-installing-social-media-adding-snapchat-to-your-mac/"><u>[Updated] 2024 Approved Installing Social Media Adding Snapchat to Your Mac</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-meme-magnate-monetization-pewdiepies-payday-for-2024/"><u>[Updated] Meme Magnate Monetization PewDiePie’s Payday for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-samsung-galaxy-a25-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Samsung Galaxy A25 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-artificial-intelligence-outperform-astrology-in-future-prediction/"><u>Can Artificial Intelligence Outperform Astrology in Future Prediction?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210839366-9781088123744-channeled-messages-for-the-traveler/"><u>Channeled Messages for the Traveler | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-tool-for-effective-work-scheduling/"><u>ChatGPT as a Tool for Effective Work Scheduling</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-woes-unveiled-top-issues-and-concerns-for-users/"><u>ChatGPT Woes Unveiled: Top Issues and Concerns for Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/counteracting-ai-mimicry-with-nightshades-artistic-shield/"><u>Counteracting AI Mimicry with Nightshade's Artistic Shield</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-engaging-slideshows-with-chatgpt-tips-and-techniques/"><u>Crafting Engaging Slideshows with ChatGPT: Tips and Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-efficient-ai-powered-mobile-search-via-bing-app/"><u>Discover Efficient AI-Powered Mobile Search via Bing App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-7-best-smart-tools-using-artificer-intelligence-to-craft-engaging-presentations/"><u>Discover the 7 Best Smart Tools Using Artificer Intelligence to Craft Engaging Presentations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-poco-x5-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Poco X5 online without jailbreak</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-6-plus-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 6 Plus Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-zte-nubia-flip-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best ZTE Nubia Flip 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/snapchat-spotlight-how-and-why-it-matters/"><u>Snapchat Spotlight How & Why It Matters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-navigating-apex-legends-gameplay-on-single-platforms-only/"><u>[New] 2024 Approved Navigating Apex Legends Gameplay on Single Platforms Only</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-defining-techniques-for-e-narrative-construction/"><u>[New] Defining Techniques for E-Narrative Construction</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-depth-guide-to-enhanced-video-clarity-on-google-meet-for-2024/"><u>[New] In-Depth Guide to Enhanced Video Clarity on Google Meet for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-excellent-envoys-top-laptops-to-edit-videos-in-4k/"><u>[Updated] In 2024, Excellent Envoys Top Laptops to Edit Videos in 4K</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-for-free-how-to-convert-twitter-videos-to-gifs/"><u>2024 Approved For Free! How to Convert Twitter Videos to GIFS?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-quick-quota-video-plus-voice-mix/"><u>2024 Approved Quick Quota Video + Voice Mix</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diy-fix-erasing-nvidia-graphics-driver-from-your-microsoft-windows-11-machine/"><u>DIY Fix: Erasing NVIDIA Graphics Driver From Your Microsoft Windows 11 Machine</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808315891-drive-smart-save-more-score-20-off-on-drivecare-with-our-authentic-discount-code/"><u>Drive Smart, Save More: Score 20% Off on Drivecare with Our Authentic Discount Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808282291-effortless-guide-set-google-as-your-default-browser-home-page/"><u>Effortless Guide: Set Google as Your Default Browser Home Page!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808323099-how-to-reduce-latency-for-gaming-2024-tips/"><u>How to Reduce Latency for Gaming – 2024 Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-vivo-v27-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo V27 Through Google Earth?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-texture-quality-issues-in-far-cry-island/"><u>Rectifying Texture Quality Issues in Far Cry Island</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808252249-step-by-step-guide-to-booting-windows-11-into-safe-mode-discover-all-4-methods-plus-visual-aids/"><u>Step-by-Step Guide to Booting Windows 11 Into Safe Mode – Discover All 4 Methods Plus Visual Aids!</u></a></li>
 </ul></div>
 

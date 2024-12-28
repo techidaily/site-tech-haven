@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Management System - A Comprehensive Guide"
-date: 2024-12-21T01:27:18.747Z
-updated: 2024-12-22T16:41:57.674Z
+date: 2024-12-25T11:34:56.807Z
+updated: 2024-12-28T14:30:56.963Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,16 +129,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-cosmic-comforts-top-10-starry-night-accessories-for-sj4000-for-2024/"><u>[New] Cosmic Comforts Top 10 Starry Night Accessories for SJ4000 for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-gameplay-modifications-in-terraria/"><u>[Updated] 2024 Approved Ultimate Gameplay Modifications in Terraria</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-capture-your-gaming-success-on-win10/"><u>[Updated] How to Capture Your Gaming Success on Win10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-diving-into-advanced-exposure-techniques-auto-smart-hdr-3-and-4-explained/"><u>2024 Approved Diving Into Advanced Exposure Techniques Auto, Smart HDR 3 & 4 Explained</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-lava-blaze-2-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/hone-your-prompt-writing-skills-for-maximum-chatgpt-impact/"><u>Hone Your Prompt Writing Skills for Maximum ChatGPT Impact</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-good-is-chatgpt-at-making-cocktails/"><u>How Good Is ChatGPT at Making Cocktails?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-will-artificial-intelligence-impact-our-psychological-well-being-boon-or-bane/"><u>How Will Artificial Intelligence Impact Our Psychological Well-Being: Boon or Bane?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/immediate-deployment-top-8-adaptable-gpt-models-awaiting-your-use/"><u>Immediate Deployment: Top 8 Adaptable GPT Models Awaiting Your Use</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-soundscape-elements-advanced-techniques-for-smooth-transitions-audacity/"><u>[New] Harmonizing Soundscape Elements Advanced Techniques for Smooth Transitions (Audacity)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-ultimate-meme-creation-with-kinemaster/"><u>[Updated] 2024 Approved The Ultimate Meme Creation with KineMaster</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bringing-text-to-life-dynamic-animated-content-on-ig-stories-for-2024/"><u>Bringing Text to Life Dynamic Animated Content on IG Stories for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comment-installer-et-utiliser-handbrake-sur-windows-7-8-10-ou-vista/"><u>Comment Installer Et Utiliser Handbrake Sur Windows 7, 8, 10 Ou Vista</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-need-for-more-robust-regulation-in-ai-according-to-openais-head/"><u>Decoding the Need for More Robust Regulation in AI According to OpenAI's Head</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-gpt-3s-sibling-the-comprehensive-guide-on-deploying-gpt-4-for-everyone/"><u>Demystifying GPT-3's Sibling: The Comprehensive Guide on Deploying GPT-4 for Everyone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diving-deep-into-gpt-3-usage-at-openai/"><u>Diving Deep Into GPT-3 Usage at OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-to-start-using-the-advanced-intelligent-bing-search-by-microsoft/"><u>Easy Steps to Start Using the Advanced, Intelligent Bing Search by Microsoft</u></a></li>
+<li><a href="https://techtrends.techidaily.com/economical-essentials-for-assembling-a-budget-friendly-home-theatre/"><u>Economical Essentials for Assembling a Budget-Friendly Home Theatre</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-linkedin-applications-using-these-10-chatgpt-techniques-for-successful-hiring/"><u>Elevate Your LinkedIn Applications Using These 10 ChatGPT Techniques for Successful Hiring</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-imagination-ai-assistance-in-your-dungeon-and-dragons-sessions/"><u>Enhancing Imagination: AI Assistance in Your Dungeon & Dragons Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/first-steps-for-aspiring-professionals-in-the-field-of-conversational-ai/"><u>First Steps for Aspiring Professionals in the Field of Conversational AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/futurescape-next-gen-ai-and-chatbots/"><u>Futurescape: Next-Gen AI & Chatbots</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-nokia-c02-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Nokia C02 Phones with/without a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-xsipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone XS/iPad Without Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/rhythmic-reinvention-the-art-of-voice-in-free-fire/"><u>Rhythmic Reinvention The Art of Voice in Free Fire</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-eliminate-dota-2-latency-issues-with-proven-strategies/"><u>Ultimate Guide: Eliminate Dota 2 Latency Issues with Proven Strategies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Thrills and Tires of Watching Favorite Shows on Apple Vision Pro; A Surprisingly Glorious & Odd Encounter, Featured
-date: 2024-11-22T16:15:12.798Z
-updated: 2024-11-28T16:03:37.729Z
+date: 2024-12-22T16:04:09.450Z
+updated: 2024-12-28T16:00:07.461Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ I've been wanting to rewatch the entire four seasons of _For All Mankind_, the a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Apple TV+ on the Vision Pro
 
 The Apple TV+ app provides a couple of viewing options on the Vision Pro. The first is just a window in passthrough mode, where you see the show floating in space, with whatever your room is as a backdrop. That didn't interest me at all. I wanted full immersion. 
@@ -81,12 +85,16 @@ It wasn't distracting enough for me to stop the show, but it was one of those an
 And yet, watching the show was incredible in that environment. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The reality of virtual reality
 
 But it wasn't all vintage 1969 Corvette Stingrays and Apollo 11\. There were some problems. The first was audio… 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. AirPods ala mode
 
@@ -120,10 +128,6 @@ So, yes, you can turn on noise cancellation. I just didn't know how to do it on 
 
 Just because I love you folks and want to give you the complete story, I later forced myself to watch the second episode of some of the best TV ever made, on what is probably the most intense giant TV screen I've ever watched. And yeah, both the AirPods Pro and AirPods Max worked just fine. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Eyestrain and itchy itch
 
 I watched the first 20 minutes of the show in entertainment center bliss, but then my eyes started to hurt and my face (the part inside the headset) started to itch. 
@@ -133,7 +137,7 @@ I made sure to close and blink my eyes throughout the viewing experience, but by
 To alleviate the itching, I stopped the video a few times, loosened the headset, and scratch it. That's a bit of an immersion killer. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. No coffee for you
@@ -145,10 +149,6 @@ Did you know you can't drink inside a Vision Pro? To be fair, you also can't dri
 I wound up drinking my coffee through a straw, but that was also a bit of a problem because I was in full VR, so finding the coffee cup was the first adventure, navigating the straw to my mouth the second challenge, and putting the cup safely back on a surface was the third hurdle. 
 
 After trying this once, I waited until the times I needed to scratch itches to take sips. Not ideal. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Jumpy-jump, flail, flail
 
@@ -171,7 +171,7 @@ I can confirm the sense of isolation some [Vision Pro reviewers have reported](h
 But when my pup came over, I could feel him and pet him, but he couldn't look at my face and I couldn't see him. It wasn't a terrible moment, because he has prodigious lap-sitting skills, but I wanted to look back at his little face and couldn't. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Is it worth it?
@@ -228,21 +228,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-kid-friendly-quadcopters-top-5-selection-guide/"><u>[New] Kid-Friendly Quadcopters Top 5 Selection Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-budget-friendly-viewer-contests-for-2024/"><u>[New] Ultimate Budget-Friendly Viewer Contests for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-complete-guide-to-iphone-silhouette-mastery/"><u>[Updated] The Complete Guide to iPhone Silhouette Mastery</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-guide-to-acquiring-elite-instagram-soundtracks-and-building-perfect-alarms/"><u>2024 Approved A Step-by-Step Guide to Acquiring Elite Instagram Soundtracks and Building Perfect Alarms</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-which-screen-recorder-reigns-supreme-obs-or-fraps/"><u>2024 Approved Which Screen Recorder Reigns Supreme OBS or Fraps?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatai-profits-and-pc-building-hacks-for-enthusiasts/"><u>ChatAI Profits & PC Building Hacks for Enthusiasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-cybersecurity-threat-are-our-banks-and-pcs-at-risk-from-smart-artifice-intrusions/"><u>ChatGPT as a Cybersecurity Threat: Are Our Banks and PCs at Risk From Smart Artifice Intrusions?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-on-iphone-not-responding-apply-any-of-our-9-proven-strategies/"><u>ChatGPT on iPhone Not Responding? Apply Any of Our 9 Proven Strategies!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-the-key-to-dynamic-dandd-storytelling/"><u>ChatGPT, the Key to Dynamic D&D Storytelling</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-your-secret-weapon-for-attaining-the-perfect-job-position/"><u>ChatGPT: Your Secret Weapon for Attaining the Perfect Job Position</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chrome-add-on-risk-impostor-chatgpt-extension-hijacks-social-media-passwords/"><u>Chrome Add-On Risk: Impostor ChatGPT Extension Hijacks Social Media Passwords</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/claim-your-prize-participate-in-openais-innovative-error-tracking-mission/"><u>Claim Your Prize: Participate in OpenAI's Innovative Error Tracking Mission</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comprehensive-breakdown-of-item-attributes-in-the-details-overview-panel/"><u>Comprehensive Breakdown of Item Attributes in the 'Details' Overview Panel</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oppo-reno-8t-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Oppo Reno 8T 5G online without jailbreak</u></a></li>
-<li><a href="https://blog-min.techidaily.com/quick-solutions-correcting-vertically-flipped-mp4-video-footage/"><u>Quick Solutions: Correcting Vertically Flipped MP4 Video Footage</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-editors-guide-best-for-youtube-content-for-2024/"><u>The Ultimate Editor's Guide Best for YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-become-a-periscope-expert-with-our-full-guide/"><u>[New] 2024 Approved Become a Periscope Expert with Our Full Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-on-the-side-balancing-employment-with-youtube/"><u>[Updated] 2024 Approved Creating on the Side Balancing Employment with YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-elevate-your-video-game-top-unboxer-techniques/"><u>[Updated] Elevate Your Video Game Top Unboxer Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-leveraging-tv-platforms-for-facebook-live-viewership/"><u>2024 Approved Leveraging TV Platforms for Facebook Live Viewership</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exclusive-free-trial-premium-us-based-vpn-services-ensure-ultimate-online-safety-and-access/"><u>Exclusive Free Trial: Premium U.S. Based VPN Services – Ensure Ultimate Online Safety & Access</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-newbie-to-ninja-an-easy-to-follow-guide-on-playing-fortnite-on-windows-or-mac/"><u>From Newbie to Ninja: An Easy-to-Follow Guide on Playing Fortnite on Windows or Mac</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-8-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 8 Plus Passcode not Working?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-zero-30-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Zero 30 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrect-your-keys-troubleshoot-win10-keyboard-problems/"><u>Resurrect Your Keys: Troubleshoot WIN10 Keyboard Problems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/riconnessione-di-file-avi-al-formato-mp4-con-il-miglior-convertitore-gratuito/"><u>Riconnessione Di File AVI Al Formato MP4 Con Il Miglior Convertitore Gratuito</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808325727-the-best-10-torrent-sites-most-popular-in-the-world/"><u>The Best 10 Torrent Sites – Most Popular in the World</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-capturing-images-from-your-laptop-screen/"><u>Ultimate Guide: Capturing Images From Your Laptop Screen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-mastering-the-art-of-system-restore-on-windows-10/"><u>Ultimate Guide: Mastering the Art of System Restore on Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-selection-of-vpns-boost-your-youtube-experience-securely/"><u>Ultimate Selection of VPNs: Boost Your YouTube Experience Securely</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-snapping-photos-of-your-desktop-on-windows-11/"><u>Ultimate Tutorial: Snapping Photos of Your Desktop on Windows 11</u></a></li>
 </ul></div>
 

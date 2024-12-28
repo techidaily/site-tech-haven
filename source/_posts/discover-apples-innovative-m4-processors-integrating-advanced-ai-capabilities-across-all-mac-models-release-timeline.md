@@ -1,7 +1,7 @@
 ---
 title: "Discover Apple's Innovative M4 Processors: Integrating Advanced AI Capabilities Across All Mac Models - Release Timeline"
-date: 2024-11-27T16:17:53.579Z
-updated: 2024-11-28T16:19:53.915Z
+date: 2024-12-24T16:02:38.540Z
+updated: 2024-12-28T16:02:01.529Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,20 +128,19 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-adding-linguistic-accessibility-to-your-igtv-videos/"><u>[New] In 2024, Adding Linguistic Accessibility to Your IGTV Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-business-mastery-through-youtubes-top-ten-channels/"><u>[Updated] In 2024, Business Mastery Through YouTube's Top Ten Channels</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-starting-from-scratch-stardews-ginger-island-guide/"><u>[Updated] In 2024, Starting From Scratch Stardew's Ginger Island Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-achieving-video-popularity-mastering-youtube-thumbnail-selection/"><u>In 2024, Achieving Video Popularity Mastering YouTube Thumbnail Selection</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-90-lite-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor 90 Lite via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-m54-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy M54 5G?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-integration-of-chatgpt-into-your-google-sheets-a-complete-guide/"><u>Mastering the Integration of ChatGPT Into Your Google Sheets: A Complete Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-document-management-efficiency-officedoc-and-ai-dialogue/"><u>Maximizing Document Management Efficiency: OfficeDoc & AI Dialogue</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/my-ai-encounters-vs-bings-virtual-assistant/"><u>My AI Encounters vs Bing's Virtual Assistant</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/practical-tips-and-tricks-for-integrating-artificial-intelligence-agents-into-your-web-browser-with-agentgpt/"><u>Practical Tips and Tricks for Integrating Artificial Intelligence Agents Into Your Web Browser with AgentGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/prevent-data-theft-by-ai-scrappers/"><u>Prevent Data Theft by AI Scrappers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/professional-note-capturing-techniques-with-chatgpt-simplified/"><u>Professional Note-Capturing Techniques with ChatGPT Simplified</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/silent-symphony-softening-computer-sounds-system-wide/"><u>Silent Symphony Softening Computer Sounds System-Wide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/solving-the-chatgpt-is-currently-overloaded-issue-in-windows/"><u>Solving the 'ChatGPT Is Currently Overloaded' Issue in Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-identifying-the-optimal-cloud-data-vaults/"><u>[New] Identifying the Optimal Cloud Data Vaults</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-charting-the-unknown-visual-facts-from-2017s-youtube-world/"><u>[New] In 2024, Charting the Unknown Visual Facts From 2017'S Youtube World</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-on-screen-recording-assistant/"><u>[New] On-Screen Recording Assistant</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-streamers-blueprint-achieving-peak-performance-on-macos-for-2024/"><u>[New] The Streamer's Blueprint Achieving Peak Performance on macOS for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-alienware-aurora-r7-high-end-gaming-at-what-cost/"><u>Comprehensive Analysis of the Alienware Aurora R7 - High-End Gaming at What Cost?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-youtube-economics-for-beginners-channel-creation-and-income-strategies/"><u>In 2024, Youtube Economics for Beginners Channel Creation & Income Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-blackberry-video-conversion-a-step-by-step-guide-with-factory-pro/"><u>Mastering BlackBerry Video Conversion: A Step-by-Step Guide with Factory Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-reinstall-how-to-setup-bluetooth-drivers-on-win-1011/"><u>Quick Reinstall: How To Setup Bluetooth Drivers on Win 10/11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-easy-way-to-detach-and-delete-epic-games-launcher-installer-on-windows-and-mac/"><u>The Easy Way to Detach and Delete Epic Games Launcher Installer on Windows and Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-reverting-to-defaults-with-a-full-hp-laptop-system-reboot/"><u>The Ultimate Tutorial: Reverting to Defaults with a Full HP Laptop System Reboot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tips-for-lowering-the-cpu-load-when-playing-call-of-duty-modern-warfare/"><u>Tips for Lowering the CPU Load When Playing Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-strategies-for-minimizing-game-lag-a-comprehensive-guide/"><u>Top Strategies for Minimizing Game Lag : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-guide-resolving-issues-with-arch-bluetooth-mouse-on-windows-11-creators-version/"><u>Troubleshooting Guide: Resolving Issues with Arch Bluetooth Mouse on Windows 11 Creators Version</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-success-resolving-the-windows-11-setup-error-80240020/"><u>Troubleshooting Success: Resolving the Windows 11 Setup Error 80240020</u></a></li>
 </ul></div>
 

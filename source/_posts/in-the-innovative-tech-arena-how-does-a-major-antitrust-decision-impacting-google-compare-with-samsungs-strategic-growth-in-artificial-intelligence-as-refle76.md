@@ -1,7 +1,7 @@
 ---
 title: In the Innovative Tech Arena, How Does a Major Antitrust Decision Impacting Google Compare with Samsung's Strategic Growth in Artificial Intelligence as Reflected on the Innovation Index?
-date: 2024-12-16T18:59:14.901Z
-updated: 2024-12-22T17:11:22.630Z
+date: 2024-12-24T00:06:18.555Z
+updated: 2024-12-28T05:14:31.966Z
 tags:
   - apple
 categories:
@@ -71,26 +71,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-elevating-your-youtube-comments-with-emoji-skills/"><u>[New] 2024 Approved Elevating Your YouTube Comments with Emoji Skills</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-supreme-reconciliation-of-vr-realms/"><u>2024 Approved Supreme Reconciliation of VR Realms</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-youtube-success-starts-here-best-tutorials-for-starters/"><u>2024 Approved YouTube Success Starts Here Best Tutorials for Starters</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-essential-aspects-to-think-about-with-chatgpt-for-emotional-well-being/"><u>5 Essential Aspects to Think About with ChatGPT for Emotional Well-Being</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/breaking-limits-free-saves-for-your-story-loads-for-2024/"><u>Breaking Limits Free Saves for Your Story Loads for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-13t-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi 13T for Free? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721981174818-introducing-openais-customizable-cutting-edge-gpt-stores/"><u>Introducing OpenAI's Customizable, Cutting-Edge GPT Stores</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/join-the-conversation-a-complete-guide-to-engaging-in-twitter-chats/"><u>Join the Conversation: A Complete Guide to Engaging in Twitter Chats</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721816290619-just-start-chatting-chatgpt-ready/"><u>Just Start Chatting - ChatGPT Ready</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/next-generation-apple-watch-ultra-2-anticipated-features-release-schedule-and-price-estimates-revealed/"><u>Next Generation Apple Watch Ultra 2: Anticipated Features, Release Schedule, and Price Estimates Revealed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-gpt-4-why-you-shouldnt-forget-about-chatgpt-plus/"><u>Unlocking the Potential of GPT-4: Why You Shouldn't Forget About ChatGPT Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-of-predictive-ai-operation/"><u>Unlocking the Secrets of Predictive AI Operation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-googles-vision-palm-2-future-of-language-models/"><u>Unveiling Google's Vision: PaLM 2, Future of Language Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-benefits-and-drawbacks-chatgpts-role-in-artistic-composition/"><u>Unveiling the Benefits and Drawbacks: ChatGPT's Role in Artistic Composition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-is-more-advanced-in-dialogue-tech-chatgpt-or-google-bard-analysis/"><u>Which Is More Advanced in Dialogue Tech: ChatGPT or Google Bard Analysis</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-gif-basics-crafting-your-first-animated-image-for-2024/"><u>[New] GIF Basics Crafting Your First Animated Image for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-advanced-techniques-for-trimming-youtube-footage/"><u>[New] In 2024, Advanced Techniques for Trimming YouTube Footage</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-extensive-review-the-hero4-black-journey/"><u>[New] In 2024, Extensive Review The Hero4 Black Journey</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-ppt-a-comprehensive-voice-guidance-manual/"><u>[New] Mastering PPT A Comprehensive Voice Guidance Manual</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streaming-showdown-obs-and-shadowtoolkit/"><u>[New] Streaming Showdown OBS & ShadowToolkit</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-youtubes-creative-commons-shapes-video-production/"><u>[Updated] 2024 Approved How YouTube's Creative Commons Shapes Video Production</u></a></li>
+<li><a href="https://extra-information.techidaily.com/auditory-aesthetics-incorporating-youtube-music-into-videos-for-2024/"><u>Auditory Aesthetics Incorporating YouTube Music Into Videos for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-your-twitch-account-security-with-2fa-step-by-step-instructions/"><u>Enhancing Your Twitch Account Security with 2FA: Step-by-Step Instructions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/head-to-head-battle-google-pixel-smartwatch-vs-apple-watch-series-8-expert-review-and-buyers-dilemma/"><u>Head-to-Head Battle: Google Pixel Smartwatch Vs. Apple Watch Series 8 - Expert Review & Buyer's Dilemma</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-worth-investing-in-auto-gpt-when-gpt-4-isnt-available-yet/"><u>Is It Worth Investing in Auto-GPT When GPT-4 Isn't Available Yet?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mac-mastery-how-to-make-the-most-of-chatgpt-technology/"><u>Mac Mastery: How to Make the Most of ChatGPT Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-around-these-6-common-errors-when-writing-chatgpt-prompts-for-optimal-results/"><u>Navigate Around These 6 Common Errors When Writing ChatGPT Prompts for Optimal Results</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-ais-influence-in-crafting-original-works/"><u>Navigating AI's Influence in Crafting Original Works</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-an-ai-prompt-engineers-journey-steady-income-potential-revealed/"><u>Navigating an AI Prompt Engineer's Journey: Steady Income Potential Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimize-your-workflow-the-best-8-chrome-extensions-using-ai-technology/"><u>Optimize Your Workflow: The Best 8 Chrome Extensions Using AI Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/proofread-with-chatgpt-effectiveness/"><u>Proofread with ChatGPT Effectiveness?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/propel-website-development-forward-with-four-gpt-techniques/"><u>Propel Website Development Forward with Four GPT Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seven-cutting-edge-ai-systems-for-effortless-mathematics-problem-solving/"><u>Seven Cutting-Edge AI Systems for Effortless Mathematics Problem-Solving</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-educational-savings-a-guide-to-youtube-premium-discounts-for-students/"><u>Unlocking Educational Savings: A Guide to YouTube Premium Discounts for Students</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

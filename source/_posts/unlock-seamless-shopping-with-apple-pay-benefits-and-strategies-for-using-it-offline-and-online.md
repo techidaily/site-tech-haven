@@ -1,7 +1,7 @@
 ---
 title: "Unlock Seamless Shopping with Apple Pay: Benefits & Strategies for Using It Offline and Online"
-date: 2024-12-18T19:14:28.171Z
-updated: 2024-12-22T22:42:45.217Z
+date: 2024-12-21T23:25:58.527Z
+updated: 2024-12-27T19:36:17.104Z
 tags:
   - apple
 categories:
@@ -28,17 +28,9 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -49,7 +41,7 @@ Tap on the Wallet app to open it.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
@@ -74,6 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -81,6 +77,10 @@ Double-clicking, or, rather, double-pressing, the button on the right side of yo
 Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
@@ -119,13 +119,13 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -137,6 +137,10 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -144,10 +148,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -197,24 +197,21 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-avoid-facebooks-targeted-video-promotions/"><u>[New] 2024 Approved Avoid Facebook's Targeted Video Promotions</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-dreamy-thumbnails-captivating-borders/"><u>[New] Dreamy Thumbnails Captivating Borders</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-how-to-use-video-enhancer-22/"><u>[Updated] In 2024, How To Use Video Enhancer 2.2</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-momentum-masters-youtubes-freshly-watched-hits/"><u>[Updated] Momentum Masters Youtube’s Freshly Watched Hits</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-xiaomi-11-series-where-every-snapshot-becomes-a-masterpiece/"><u>[Updated] Xiaomi 11 Series Where Every Snapshot Becomes a Masterpiece</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-immediate-view-of-windows-pics/"><u>2024 Approved Immediate View of Windows Pics</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/advanced-recording-software-outshining-fbx-methods-for-2024/"><u>Advanced Recording Software Outshining FBX Methods for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-perfect-process-for-embedding-youtube-playlists-on-websites-efficiently/"><u>In 2024, Perfect Process for Embedding YouTube Playlists on Websites Efficiently</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-your-vitality-top-9-uses-of-chatgpt-in-the-pursuit-of-good-health/"><u>Maximize Your Vitality: Top 9 Uses of ChatGPT in the Pursuit of Good Health</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-beyond-chatgpt-the-top-10-options-for-next-gen-dialogue-systems/"><u>Navigating Beyond ChatGPT: The Top 10 Options for Next-Gen Dialogue Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-generative-ai-7-common-missteps-and-how-to-dodge-them/"><u>Navigating Generative AI: 7 Common Missteps and How to Dodge Them</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-pc-glitches-with-chatgpt-the-ultimate-guide-for-beginners/"><u>Navigating Through PC Glitches with ChatGPT - The Ultimate Guide for Beginners</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimizing-ai-dialogue-the-ultimate-list-of-techniques/"><u>Optimizing AI Dialogue: The Ultimate List of Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/practicality-meets-potential-in-chatgpt-applications/"><u>Practicality Meets Potential in ChatGPT Applications</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/protect-your-privacy-avoid-unauthorized-access-by-computer-tech-experts/"><u>Protect Your Privacy: Avoid Unauthorized Access by Computer Tech Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/real-life-tests-of-chatgpts-potential/"><u>Real-Life Tests of ChatGPT's Potential</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sharing-ai-insights-how-to-properly-disseminate-chatgpt-interactions-globally/"><u>Sharing AI Insights: How to Properly Disseminate ChatGPT Interactions Globally</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-fix-for-chatgpt-user-authentication-errors/"><u>Step-by-Step Fix for ChatGPT User Authentication Errors</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1728482934186-windows-11-pc/"><u>Windows 11 PCへのソフトウェア移行手順 - 効率よく新システムにセットアップ</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/4-compelling-advantages-of-opting-for-microsoft-copilot-rather-than-chatgpt/"><u>4 Compelling Advantages of Opting for Microsoft Copilot Rather Than ChatGPT</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725289118620-winxvideo-ai4k8k10k/"><u>以WinXVideo AI技術進行高解析度圖片升級，轉化成4K、8K及10K清晰影像</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy-crowned-top-performer-by-everest-group-in-the-2020-idp-peak-matrix/"><u>ABBYY Crowned Top Performer by Everest Group in the 2020 IDP Peak Matrix</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/access-gpt-4-now-the-ultimate-guide-to-enhancing-your-chatgpt-experience/"><u>Access GPT-4 Now: The Ultimate Guide to Enhancing Your ChatGPT Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advancing-originality-in-writing-the-role-of-chatgpt-in-crafting-compelling-content-projects/"><u>Advancing Originality in Writing: The Role of ChatGPT in Crafting Compelling Content Projects</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-and-content-synergy-understanding-the-8-essential-impacts-of-chatbots/"><u>AI and Content Synergy: Understanding the 8 Essential Impacts of Chatbots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721869684834-chatgpt-conversation-storage-learn-how-to-stop-it-now/"><u>ChatGPT Conversation Storage? Learn How to Stop It Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722112995396-discover-the-deceptive-chrome-add-on-that-hijacks-your-facebook-credentials/"><u>Discover the Deceptive Chrome Add-On That Hijacks Your Facebook Credentials</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-craft-selecting-the-top-5-web-based-title-makers/"><u>In 2024, Mastering the Craft Selecting the Top 5 Web-Based Title Makers</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/movavis-learning-portal-essential-tips-and-guides-para-o-sucesso/"><u>Movavi's Learning Portal: Essential Tips & Guides Para O Sucesso</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722178257833-navigating-the-impact-of-intelligent-systems-on-psychological-support-and-well-being-improvement/"><u>Navigating the Impact of Intelligent Systems on Psychological Support and Well-Being Improvement.</u></a></li>
+<li><a href="https://win11.techidaily.com/the-forgotten-tools-of-windows-11-dont-miss-them/"><u>The Forgotten Tools of Windows 11 - Don’t Miss Them!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-10-steps-to-design-free-youtube-video-ads-for-2024/"><u>Top 10 Steps to Design Free YouTube Video Ads for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-xiaomi-redmi-k70-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Xiaomi Redmi K70 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-aim-unraveling-the-story-behind-aols-instant-messenger/"><u>What Is AIM? Unraveling the Story Behind AOL's Instant Messenger</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Every iPhone 16 Owner Should Consider Getting a Durable Case - Insights & Tips [ZDNet]
-date: 2024-12-20T00:05:33.147Z
-updated: 2024-12-22T21:19:38.073Z
+date: 2024-12-24T16:00:44.053Z
+updated: 2024-12-28T16:00:44.071Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,21 +124,19 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-essential-tools-for-adding-framing-to-digital-pictures-2023-edition/"><u>[New] Essential Tools for Adding Framing to Digital Pictures - 2023 Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-methods-to-utilize-dynamic-images-on-ios/"><u>[New] Innovative Methods to Utilize Dynamic Images on iOS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tongue-treasures-selecting-superb-audio-to-text-applications/"><u>[New] Tongue Treasures Selecting Superb Audio to Text Applications</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-adding-visual-variety-to-instagram-stories-step-by-step/"><u>2024 Approved Adding Visual Variety to Instagram Stories Step-by-Step</u></a></li>
-<li><a href="https://extra-information.techidaily.com/introductory-tips-gradual-amplification-techniques/"><u>Introductory Tips Gradual Amplification Techniques</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-c55-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C55 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/prompt-engineering-as-a-career-navigating-the-factors-that-count-for-success/"><u>Prompt Engineering as a Career - Navigating the Factors that Count for Success</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-brainwriting-process-with-mind-mapping-strategies-enhanced-by-chatgpt-ai/"><u>Revolutionize Your Brainwriting Process with Mind Mapping Strategies Enhanced by ChatGPT AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/start-today-with-our-handpicked-selection-of-8-versatile-custom-gpts/"><u>Start Today with Our Handpicked Selection of 8 Versatile Custom GPTs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-erasing-your-presence-on-chatgpt/"><u>Step-by-Step Guide: Erasing Your Presence on ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/synthesizing-pros-and-cons-ai-in-the-writers-realm/"><u>Synthesizing Pros & Cons: AI in the Writer's Realm</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-seventh-wave-ais-role-in-workforce-change/"><u>The Seventh Wave: AI's Role in Workforce Change</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-strategies-how-pupils-utilize-chatgpt-for-academic-success/"><u>Top 5 Strategies: How Pupils Utilize ChatGPT for Academic Success</u></a></li>
-<li><a href="https://windows11.techidaily.com/tricks-for-easily-opening-and-modifying-faxes-on-windows-11/"><u>Tricks for Easily Opening and Modifying Faxes on Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-seconds-for-a-20mb-movie-for-2024/"><u>Understanding Seconds for a 20MB Movie for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-vivo-y17s-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y17s Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-chasing-channel-currency-the-updated-youtube-partner-guide/"><u>[New] In 2024, Chasing Channel Currency The Updated Youtube Partner Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-competing-to-the-best-substitutes-for-samsungs-gear-360/"><u>[New] In 2024, Competing to the Best Substitutes for Samsung's Gear 360</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-video-editor-battle-filmora-versus-democracy-creator/"><u>[New] Top Video Editor Battle Filmora versus Democracy Creator</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-maximizing-collaboration-zoom-session-setup-and-management/"><u>[Updated] Maximizing Collaboration Zoom Session Setup and Management</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-eye-candy-index-the-top-8-videos/"><u>2024 Approved Eye Candy Index The Top 8 Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/clearing-past-interactions-how-to-remove-your-chat-history-on-chatgpt/"><u>Clearing Past Interactions: How to Remove Your Chat History on ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-appeal-of-artificial-intelligence-chatbots-whats-driving-their-popularity/"><u>Discover the Appeal of Artificial Intelligence Chatbots – What’s Driving Their Popularity?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eight-game-changing-ways-ai-chatbots-are-transforming-content-production/"><u>Eight Game-Changing Ways AI Chatbots Are Transforming Content Production</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-interaction-on-pc-with-nvidias-innovative-chatbot/"><u>Enhancing Interaction on PC With Nvidia’s Innovative Chatbot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpts-self-editing-shortcomings/"><u>GPT's Self-Editing Shortcomings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-gpt-tags-for-shambot-discovery-in-conversations/"><u>Harnessing GPT Tags for Shambot Discovery in Conversations</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-becoming-a-prompt-engineer-feasible-analyzing-9-critical-factors-first/"><u>Is Becoming a Prompt Engineer Feasible? Analyzing 9 Critical Factors First</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-your-guide-to-the-top-6-fee-free-digital-soundscape-editors-on-the-web/"><u>Updated In 2024, Your Guide to the Top 6 Fee-Free Digital Soundscape Editors on the Web</u></a></li>
 </ul></div>
 

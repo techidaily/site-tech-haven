@@ -1,7 +1,7 @@
 ---
 title: Explore New Horizons with Apple's Latest Upgrade - What to Expect From the Updated WatchOS 11 | ZDNET
-date: 2024-12-17T22:24:05.466Z
-updated: 2024-12-22T19:08:23.181Z
+date: 2024-12-23T03:05:12.813Z
+updated: 2024-12-28T11:36:46.826Z
 tags:
   - apple
 categories:
@@ -45,13 +45,13 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -60,10 +60,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -74,7 +70,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -96,7 +92,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
@@ -104,7 +100,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -114,6 +110,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 **Also: [iPhone 15 review: Why I recommend this model even to 'Pro' users in 2024](https://www.zdnet.com/article/iphone-15-plus-review/)**
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You're on a budget
 
@@ -157,22 +157,20 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-expert-insights-into-mov-file-recording-on-latest-win-11-edition/"><u>[New] 2024 Approved Expert Insights Into .MOV File Recording on Latest Win 11 Edition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-from-dungeon-crawlers-to-complex-gameplay-for-2024/"><u>[Updated] From Dungeon Crawlers to Complex Gameplay for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cyberpunk-2077s-dark-secret-how-to-fix-the-game-crashing-black-screen-error/"><u>Cyberpunk 2077'S Dark Secret: How to Fix the Game-Crashing Black Screen Error</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-the-flexibility-of-nvidias-artificial-intelligence-services-who-qualifies-for-use/"><u>Discovering the Flexibility of NVIDIA’s Artificial Intelligence Services – Who Qualifies for Use?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/embracing-gpt-3-the-path-to-excellence-at-openai/"><u>Embracing GPT-3: The Path to Excellence at OpenAI</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhancing-online-experience-with-cookiebot-technology/"><u>Enhancing Online Experience with Cookiebot Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-and-bing-battle-for-top-generative-bot-acclaim/"><u>GPT and Bing Battle for Top Generative Bot Acclaim</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt4all-demystified-operation-insights/"><u>GPT4All Demystified: Operation Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guiding-kids-in-the-age-of-ai-5-essential-practices-for-responsible-chatgpt-use/"><u>Guiding Kids in the Age of AI: 5 Essential Practices for Responsible ChatGPT Use</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/heres-what-10-global-tech-leaders-think-about-ai/"><u>Here's What 10 Global Tech Leaders Think About AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-ai-facilitates-cybercrime-understanding-the-top-5-methods/"><u>How AI Facilitates Cybercrime: Understanding the Top 5 Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-artificial-intelligence-chatbots-transform-the-landscape-of-creating-digital-content/"><u>How Artificial Intelligence Chatbots Transform the Landscape of Creating Digital Content</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-lava-blaze-2-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Lava Blaze 2 5G?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-7-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 7 Plus Unavailable Issue With Ease</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-adobes-premiere-pro-compatible-with-av1-encoding-and-decoding-functions/"><u>Is Adobe's Premiere Pro Compatible with AV1 Encoding and Decoding Functions?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/ultraspeed-audio-segmentation-breaking-down-mp3s-with-unprecedented-speed-for-2024/"><u>UltraSpeed Audio Segmentation Breaking Down MP3s with Unprecedented Speed for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveil-hidden-files-in-macos-a-comprehensive-guide-using-terminal-techniques/"><u>Unveil Hidden Files in macOS: A Comprehensive Guide Using Terminal Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-accelerate-with-these-key-windows-10-tricks/"><u>[New] Accelerate with These Key Windows 10 Tricks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pro-sniping-on-a-budget-try-these-affordable-pc-tools/"><u>[New] Pro Sniping on a Budget? Try These Affordable PC Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-8-strategies-livestreaming-webinars-without-costs/"><u>[Updated] 8 Strategies Livestreaming Webinars Without Costs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-leveraging-vimeos-end-credits-for-visual-impact/"><u>[Updated] Leveraging Vimeo's End Credits for Visual Impact</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/comparative-analysis-distinguishing-features-among-various-cryptocurrencies-a-guide-by-yl-computing/"><u>Comparative Analysis: Distinguishing Features Among Various Cryptocurrencies - A Guide by YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-best-a-comparative-analysis-of-chatgpt-and-gemini-for-coding-feats/"><u>Decoding the Best: A Comparative Analysis of ChatGPT and Gemini for Coding Feats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-power-of-generative-ai-in-modern-search-engines-and-its-corporate-pioneers/"><u>Decoding the Power of Generative AI in Modern Search Engines & Its Corporate Pioneers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-predictive-ai-technology-working-mechanism-revealed/"><u>Demystifying Predictive AI Technology: Working Mechanism Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-best-tools-to-spot-ai-generated-text-in-classrooms-and-offices/"><u>Discover the Best Tools to Spot AI-Generated Text in Classrooms and Offices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-leveraging-chatgpt-in-online-team-collaborations/"><u>Effective Strategies: Leveraging ChatGPT in Online Team Collaborations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-private-messaging-experience-access-chatgpt-and-additional-secure-options-on-duckduckgo/"><u>Elevate Your Private Messaging Experience: Access ChatGPT and Additional Secure Options on DuckDuckGo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ev-advantages-on-the-road-convenient-parking-options-and-hov-lane-freebies-for-eco-friendly-drivers/"><u>EV Advantages on the Road: Convenient Parking Options and HOV Lane Freebies for Eco-Friendly Drivers</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-play-8t-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Play 8T Quickly | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-graphics-a-guide-to-a-flourishing-career/"><u>In 2024, Mastering Graphics A Guide to a Flourishing Career</u></a></li>
 </ul></div>
 

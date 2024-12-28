@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Recovering Lost Passwords From Your macOS Keychain
-date: 2024-12-21T16:01:29.075Z
-updated: 2024-12-23T00:45:29.462Z
+date: 2024-12-25T21:58:54.024Z
+updated: 2024-12-28T07:14:46.949Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -27,7 +27,7 @@ I will start this out by reminding everyone that you should be using a password 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
@@ -39,7 +39,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -53,7 +53,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -70,6 +70,10 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -77,10 +81,6 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 **Figure 3**
 
 Creating a new password entry to be stored in the Keychain Access tool. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -113,17 +113,16 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-streaming-made-easy-google-meet-to-youtube-guide/"><u>[New] In 2024, Streaming Made Easy Google Meet to YouTube Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-chatgpt-accelerates-your-website-creation-a-guide-with-5-key-points/"><u>How ChatGPT Accelerates Your Website Creation – A Guide with 5 Key Points</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-many-characters-can-you-enter-into-chatgpt-and-what-are-the-workarounds/"><u>How Many Characters Can You Enter Into ChatGPT, and What Are the Workarounds?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-y55s-5g-2023-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo Y55s 5G (2023) by Name | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-quickcapture-stopping-and-saving-screen-moments/"><u>In 2024, QuickCapture Stopping & Saving Screen Moments</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpts-power-to-design-compelling-presentations/"><u>Leveraging ChatGPT's Power to Design Compelling Presentations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-content-creation-with-chatgpt-4-critical-errors-to-dodge-for-optimal-results/"><u>Navigating Content Creation with ChatGPT: 4 Critical Errors to Dodge for Optimal Results</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-local-language-models-advantages-and-disadvantages-explained/"><u>Navigating Local Language Models: Advantages & Disadvantages Explained</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/pioneering-non-udemy-virtual-classrooms-for-learning/"><u>Pioneering Non-Udemy Virtual Classrooms for Learning</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/stand-out-strategy-carving-a-niche-on-tiktoks-map-for-2024/"><u>Stand Out Strategy Carving a Niche on TikTok's Map for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/szallitasi-es-visszakoltozesek-iranyelvek-movavi-alapminosegei/"><u>Szállítási És Visszaköltözések Irányelvek - Movavi Alapminőségei</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-icloud-settings-top-strategies-for-iphone-and-ipad-users/"><u>Unlocking iCloud Settings: Top Strategies for iPhone and iPad Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-skullduggery-scribblers-den/"><u>[New] Skullduggery Scribbler's Den</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-tale-of-two-bots-gpt-plus-challenges-perplexity/"><u>A Tale of Two Bots: GPT Plus Challenges Perplexity</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/ensuring-uniformity-in-volume-levels-using-davinci-resolves-tools/"><u>Ensuring Uniformity in Volume Levels Using DaVinci Resolves Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-illustrating-a-novel-tiktok-end-slide/"><u>In 2024, Illustrating A Novel TikTok End Slide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-ceiling-sound-solutions/"><u>Leading Ceiling Sound Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-activating-your-bluetooth-device-on-windows-11-and-windows-10/"><u>Step-by-Step Tutorial: Activating Your Bluetooth Device on Windows 11 and Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-answer-eliminating-black-screen-glitches-during-discord-screen-broadcasts/"><u>The Definitive Answer: Eliminating Black Screen Glitches During Discord Screen Broadcasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-superior-performance-6-ways-the-chatgpt-app-surpasses-the-mobile-site/"><u>Unlocking Superior Performance: 6 Ways the ChatGPT App Surpasses the Mobile Site</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-latest-chatgpt-ios-app-for-smarter-mobile-interaction/"><u>Unveiling the Latest: ChatGPT iOS App for Smarter Mobile Interaction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-makes-a-chatgpt-code-interpreter-crucial-in-todays-ai-landscape/"><u>What Makes a ChatGPT Code Interpreter Crucial in Today's AI Landscape?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-blind-trust-can-lead-us-astray-in-the-age-of-ai/"><u>Why Blind Trust Can Lead Us Astray in the Age of AI</u></a></li>
 </ul></div>
 

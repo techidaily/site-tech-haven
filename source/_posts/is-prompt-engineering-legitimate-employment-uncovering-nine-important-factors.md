@@ -1,7 +1,7 @@
 ---
 title: Is Prompt Engineering Legitimate Employment? Uncovering Nine Important Factors
-date: 2024-08-16T12:42:33.876Z
-updated: 2024-08-17T12:42:33.876Z
+date: 2024-12-21T07:40:51.007Z
+updated: 2024-12-28T04:52:47.027Z
 tags:
   - chatgpt
   - open-ai
@@ -33,16 +33,10 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -52,15 +46,17 @@ False news can be categorized into three types:
 Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -71,6 +67,10 @@ Here's the fictitious article that ChatGPT came up with:
 * **Targeted personalization** : Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -89,8 +89,9 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -103,22 +104,20 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +126,26 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-lenssplit-viewer-insight/"><u>[New] In 2024, LensSplit Viewer Insight</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-seamless-network-broadcast-adopting-the-vlc-way/"><u>[New] In 2024, Seamless Network Broadcast Adopting the VLC Way</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-boost-engagement-on-instagram-stories-mastering-multi-image-techniques/"><u>[Updated] Boost Engagement on Instagram Stories Mastering Multi-Image Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-blueprint-for-creating-viral-trailers-in-the-world-of-youtube/"><u>[Updated] In 2024, Blueprint for Creating Viral Trailers in the World of YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unmatched-document-enhancements-for-2024/"><u>[Updated] Unmatched Document Enhancements for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728469693751-6/"><u>如何修正无法创建磁盘区点时间的6个问题及其解决方法</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-itel-p55-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Itel P55 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beyond-thinkpads-a-comprehensive-guide-to-choosing-the-ideal-2-in-1-laptop-for-business-efficiency-zdnet-insights/"><u>Beyond ThinkPads: A Comprehensive Guide to Choosing the Ideal 2-in-1 Laptop for Business Efficiency | ZDNET Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-effective-are-ai-plagiarism-detectors-understanding-the-inherent-challenges/"><u>How Effective Are AI Plagiarism Detectors? Understanding the Inherent Challenges</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-will-artificial-intelligence-impact-our-psychological-well-being-positively-or-negatively/"><u>How Will Artificial Intelligence Impact Our Psychological Well-Being Positively or Negatively?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-hands-free-tricks-capturing-gotomeetings-on-the-fly/"><u>In 2024, Hands-Free Tricks Capturing GoToMeetings on the Fly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovate-your-cooking-routine-using-these-7-chatgpt-strategies/"><u>Innovate Your Cooking Routine Using These 7 ChatGPT Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-strategies-to-build-engaging-presentations-with-chatgpt/"><u>Innovative Strategies to Build Engaging Presentations with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-chatgpt-susceptible-to-cybersecurity-threats-and-risks/"><u>Is ChatGPT Susceptible to Cybersecurity Threats and Risks?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-conversations-tips-for-utilizing-nvidias-advanced-rtx-chatbot-technology-at-home/"><u>Mastering Conversations: Tips for Utilizing Nvidia’s Advanced RTX Chatbot Technology at Home</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-future-of-work-6-essential-tips-to-excel-amidst-rising-artificial-intelligence/"><u>Mastering the Future of Work: 6 Essential Tips to Excel Amidst Rising Artific#ial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-digital-landscape-safely-strategies-for-spotting-deceptive-chatgpt-scam-pages/"><u>Navigating the Digital Landscape Safely: Strategies for Spotting Deceptive ChatGPT Scam Pages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-job-market-with-chatgpt-6-essential-techniques-for-success/"><u>Navigating the Job Market with ChatGPT: 6 Essential Techniques for Success</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-meizu-21-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Meizu 21.</u></a></li>
+</ul></div>
 

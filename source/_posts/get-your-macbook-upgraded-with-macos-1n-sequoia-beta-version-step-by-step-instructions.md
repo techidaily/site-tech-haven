@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Upgraded with macOS 1N Sequoia Beta Version - Step-by-Step Instructions!
-date: 2024-12-18T01:06:13.753Z
-updated: 2024-12-22T19:15:38.772Z
+date: 2024-12-27T12:31:24.241Z
+updated: 2024-12-28T13:10:04.432Z
 tags:
   - apple
 categories:
@@ -26,18 +26,18 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -49,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -61,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -80,6 +80,10 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -93,10 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,17 +140,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-binge-and-float-navigating-the-pip-functionality-for-seamless-watching/"><u>[New] 2024 Approved Binge & Float Navigating the PIP Functionality for Seamless Watching</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-prime-additions-for-newbie-gopro-photographers-for-2024/"><u>[New] Prime Additions for Newbie GoPro Photographers for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/advanced-technology-meets-luxury-pricing-discover-razers-newest-masterpiece-the-blade-18-with-amd-ryzen-9-and-cutting-edge-nvidia-graphics-at-just-4799/"><u>Advanced Technology Meets Luxury Pricing: Discover Razer's Newest Masterpiece - The Blade 18 with AMD Ryzen 9 & Cutting-Edge Nvidia Graphics at Just $4,799</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/charming-cyberspace-ai-for-romance-fraud/"><u>Charming Cyberspace: AI for Romance Fraud</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-secrets-for-crafting-engaging-posts-on-instagram-twitter-and-more/"><u>ChatGPT Secrets for Crafting Engaging Posts on Instagram, Twitter & More</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciding-between-snapchats-my-ai-and-chatgpt-expert-comparison-guide/"><u>Deciding Between Snapchat's My AI and ChatGPT: Expert Comparison Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-the-power-of-claude-2-what-can-this-ai-achieve/"><u>Demystifying the Power of Claude 2 - What Can This AI Achieve?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-transfer-learning-techniques-in-modern-ai-applications/"><u>Demystifying Transfer Learning Techniques in Modern AI Applications</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-guide-get-and-set-up-sandisk-drivers-on-windows-11/"><u>Effortless Guide: Get & Set Up SanDisk Drivers on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Phone without Google Account?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-g24-power-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola G24 Power Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/iuq4soyiooyxkoyencdshlhqs7xtlzjripqg67cp67kvoidrr7jrljtslrqg7kea7juq6ro8io2vtoqysoyxhsi/"><u>기술에서 성공하는 방법: 미디어 지원과 해결책</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-inside-look-obs-as-a-premier-screen-recorder/"><u>[New] In 2024, Inside Look OBS as a Premier Screen Recorder</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-soft-onset-visual-effects/"><u>[New] Soft Onset Visual Effects</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-comparing-recording-obs-studio-versus-bandicam/"><u>[Updated] 2024 Approved Comparing Recording OBS Studio Versus Bandicam</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-riding-the-wave-strategies-for-high-likes-tiktok-unpacking-videos/"><u>[Updated] Riding the Wave Strategies for High-Likes TikTok Unpacking Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-navigating-the-360-streaming-landscape-with-ease-on-youtube/"><u>2024 Approved Navigating the 360° Streaming Landscape with Ease on Youtube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479624232-boosting-mobile-data-speeds-top-10-tips-to-surf-faster/"><u>Boosting Mobile Data Speeds: Top 10 Tips to Surf Faster!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easily-customize-your-input-methods-with-microsofts-on-screen-keyboard-feature-for-windows-10/"><u>Easily Customize Your Input Methods with Microsoft's On-Screen Keyboard Feature for Windows 10</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-14-plus-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 14 Plus without Security Questions?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/love-engineered-ais-role-in-dating-frauds/"><u>Love Engineered: AI's Role in Dating Frauds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-character-creation-in-dungeons-and-dragons-with-ai-a-guide-to-using-chatgpt-and-dall-e/"><u>Mastering Character Creation in Dungeons & Dragons with AI: A Guide to Using ChatGPT & DALL-E</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-code-synthesis-a-tutorial-on-deploying-codegpt-in-vs-code/"><u>Mastering Code Synthesis: A Tutorial on Deploying CodeGPT in VS Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-llama-er-2-functionality-explained-with-practical-advice/"><u>Mastering Llama Er 2: Functionality Explained with Practical Advice</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-buggy-fcpx-learn-how-to-reset-and-reboot-for-2024/"><u>New Buggy FCPX? Learn How to Reset and Reboot for 2024</u></a></li>
 </ul></div>
 

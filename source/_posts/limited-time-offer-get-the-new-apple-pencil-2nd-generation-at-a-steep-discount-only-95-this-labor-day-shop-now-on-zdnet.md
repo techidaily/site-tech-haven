@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Offer: Get the New Apple Pencil (2Nd Generation) at a Steep Discount - Only $95 This Labor Day! Shop Now on ZDNet"
-date: 2024-12-16T19:26:25.133Z
-updated: 2024-12-22T20:35:54.982Z
+date: 2024-12-23T16:00:03.500Z
+updated: 2024-12-28T16:00:00.171Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,20 +71,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-achieving-perfect-time-lapses-with-ios-devices/"><u>[New] Achieving Perfect Time-Lapses with iOS Devices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-are-video-reviews-of-goods-paid-for-by-creators-in-2024/"><u>[New] Are Video Reviews of Goods Paid For by Creators, In 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-face-fluidity-adding-dynamic-blur-to-photos-via-picsart/"><u>[New] Face Fluidity Adding Dynamic Blur to Photos via Picsart</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-hear-divine-voices-downloading-and-altering-ringtone-audio/"><u>[Updated] Hear Divine Voices Downloading & Altering Ringtone Audio</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ace-your-ai-interactions-7-game-changing-tips-for-crafting-winning-prompts/"><u>Ace Your AI Interactions: 7 Game-Changing Tips for Crafting Winning Prompts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721914646213-chatgpt-lockout-here-are-4-reasons-and-their-fixes/"><u>ChatGPT Lockout? Here Are 4 Reasons and Their Fixes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722214295682-dipole-transitions-such-as-electronic-excitations-within-atoms-or-molecules/"><u>Dipole Transitions (Such as Electronic Excitations Within Atoms or Molecules)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722139258702-discover-the-ultimate-10-replacements-for-chatgpt-now/"><u>Discover the Ultimate 10 Replacements for ChatGPT Now!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-a25-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy A25 5G? Try These Fixes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210474891-9798985012293-secret-chief-revealed-revised-2nd-edition-2nd-ed/"><u>Secret Chief Revealed, Revised 2nd Edition (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/starting-with-hauls-a-step-by-step-editing-manual/"><u>Starting with Hauls A Step-by-Step Editing Manual</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-world-of-artific/"><u>Unveiling the World of Artific</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-mentions-as-a-litmus-test-for-authentic-bots/"><u>Utilizing Mentions as a Litmus Test for Authentic Bots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722127265058-waiting-for-chatgpt-on-your-pc-heres-a-top-notch-open-source-chat-ai-to-get-you-started/"><u>Waiting for ChatGPT on Your PC? Here's a Top-Notch Open Source Chat AI to Get You Started</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-obs-capture-directly-on-instagram-for-2024/"><u>[New] OBS Capture Directly on Instagram for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-elevate-your-channels-visibility-through-proven-methods/"><u>[Updated] 2024 Approved Elevate Your Channels Visibility Through Proven Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dissecting-the-financial-strategy-of-t-series-in-video-platforms-for-2024/"><u>[Updated] Dissecting the Financial Strategy of T-Series in Video Platforms for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-animators-artistry-archives/"><u>[Updated] In 2024, Animator's Artistry Archives</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-alternative-ways-to-employ-chatbots-like-gpt/"><u>5 Alternative Ways to Employ ChatBots Like GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-introduction-to-the-world-of-openai-apis/"><u>A Comprehensive Introduction to the World of OpenAI APIs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/academic-excellence-through-innovation-top-five-applications-of-chatgpt-for-students/"><u>Academic Excellence Through Innovation: Top Five Applications of ChatGPT for Students</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721897788645-affordable-phones-for-just-50-how-to-crack-ransomware-a-deep-dive-and-behind-the-scenes-with-chatgpt-on-our-show/"><u>Affordable Phones for Just $50, How to Crack Ransomware - A Deep Dive, and Behind the Scenes with ChatGPT on Our Show</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-gpt-3-responses-capped-at-a-specific-wordcharacter-number/"><u>Are GPT-3 Responses Capped at a Specific Word/Character Number?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722182901697-discover-the-power-of-chatgpt-in-personal-healthcare-learn-why-its-worth-considering-now/"><u>Discover the Power of ChatGPT in Personal Healthcare – Learn Why It's Worth Considering Now!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratuit-mxf-wmv-converter-online-deze-week-voor-movavi/"><u>Gratuit MXF-WMV Converter Online - Deze Week Voor Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fresh-take-on-the-enhanced-sony-s6500-media-device/"><u>In 2024, Fresh Take on the Enhanced Sony S6500 Media Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-packaging-growth-tactics/"><u>In 2024, Packaging Growth Tactics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722138198242-sharpen-your-deduction-skills-through-these-engaging-ai-murder-mysteries-and-puzzles-4-best-brain-boosting-challenges/"><u>Sharpen Your Deduction Skills Through These Engaging AI Murder Mysteries & Puzzles - #4 Best Brain-Boosting Challenges!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-first-to-decipher-encrypted-drives-stellar-enters-history-books/"><u>The First to Decipher Encrypted Drives, Stellar Enters History Books</u></a></li>
 </ul></div>
 

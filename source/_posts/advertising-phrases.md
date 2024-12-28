@@ -1,7 +1,7 @@
 ---
 title: Advertising Phrases
-date: 2024-12-18T01:53:21.541Z
-updated: 2024-12-23T01:16:36.082Z
+date: 2024-12-27T01:27:58.035Z
+updated: 2024-12-28T15:28:21.375Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ If you've ever wondered how we evaluate the [latest smartphones](https://www.zdn
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test phones in 2024
 
 Kerry Wan/ZDNET
@@ -42,6 +38,10 @@ Within the embargoed time frame, ZDNET reviewers can test the latest features (i
 
 While ZDNET primarily covers smartphone releases in the US market, we also evaluate international handsets to understand the competitive landscape better and have a frame of reference when making recommendations to international readers. We also attend trade shows, including [CES](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/) and [Mobile World Congress](https://www.zdnet.com/collection/mwc-2024/), to connect with industry experts and analysts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What makes a phone ZDNET recommended?
 
 For hands-on testing, five aspects determine whether or not a phone gets recommended : design, performance, cameras, battery life, and special features. The importance of each aspect will vary across users; some will value camera quality over battery life, and others just want a phone that's unique and different. Generally, the order of importance is cameras, battery life, design, performance, and then special features.
@@ -49,7 +49,7 @@ For hands-on testing, five aspects determine whether or not a phone gets recomme
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design and ergonomics
@@ -62,10 +62,6 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Performance
 
 Kerry Wan/ZDNET
@@ -75,6 +71,10 @@ Several factors affect a phone's performance, including LTE/5G signal, battery l
 Performance testing also includes putting phones through varying levels of graphic-intensive tasks, including importing and exporting spreadsheets, photo-editing in Adobe Lightroom, and playing mobile games like _Genshin Impact_ and _Asphalt 9\._ I'll oftentimes have a music player app running in the background or YouTube Picture-in-Picture just to push the mobile processor a little more.
 
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cameras
 
@@ -87,7 +87,7 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life and charging
@@ -99,7 +99,7 @@ It's also important for us to evaluate how long phones last under light, moderat
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Special features
@@ -148,20 +148,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-estimating-byte-consumption-of-full-film-daily/"><u>[Updated] Estimating Byte Consumption of Full Film Daily</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-quick-tips-efficiently-post-videos-on-igtv/"><u>2024 Approved Quick Tips Efficiently Post Videos on IGTV</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-soft-sonata-reducing-volume-in-os/"><u>2024 Approved Soft Sonata Reducing Volume in OS</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-honor-magic-6-lite-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Honor Magic 6 Lite Phone</u></a></li>
-<li><a href="https://facebook.techidaily.com/integrating-digital-platforms-into-company-culture/"><u>Integrating Digital Platforms Into Company Culture</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-microsofts-chatbot-down-find-out-using-these-5-strategies/"><u>Is Microsoft's Chatbot Down? Find Out Using These 5 Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-daily-meditation-habits-insights-and-advice/"><u>Leveraging ChatGPT for Daily Meditation Habits - Insights & Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-ai-image-creation-utilizing-dall-e-with-chatgpt-4/"><u>Mastering AI Image Creation: Utilizing DALL-E with ChatGPT-4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-new-skills-with-chatgpt-learning-board-games-and-creating-visual-content/"><u>Mastering New Skills with ChatGPT: Learning Board Games & Creating Visual Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-efficiency-3-insightful-approaches-to-utilizing-the-chatgpt-wolfram-plugin/"><u>Maximize Efficiency: 3 Insightful Approaches to Utilizing the ChatGPT-Wolfram Plugin</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-chatgpt-potential-10-custom-innovations/"><u>Maximizing ChatGPT Potential: 10 Custom Innovations</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/most-popular-firefox-visual-recorders/"><u>Most Popular Firefox Visual Recorders</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-trim-mkv-files-on-mac-the-top-3-software/"><u>New Trim MKV Files on Mac The Top 3 Software</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-c53-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme C53? | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/yl-computing-reveals-strategies-for-successfully-debugging-your-programs/"><u>YL Computing Reveals Strategies for Successfully Debugging Your Programs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-expert-guide-to-instantaneous-deletion-of-youtube-posts/"><u>[New] In 2024, Expert Guide to Instantaneous Deletion of Youtube Posts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-lg-monitor-driver-issues-on-windows-10-7-81/"><u>[Solved] LG Monitor Driver Issues on Windows 10, 7, 8.1</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-offbeat-uses-for-language-models/"><u>5 Offbeat Uses for Language Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-detailed-analysis-of-what-sets-claude-pro-apart-from-chatgpt-plus/"><u>A Detailed Analysis of What Sets Claude Pro Apart From ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-modern-ai-assessments-making-the-turing-test-obsolete-discover-5-contemporary-evaluation-methods/"><u>Are Modern AI Assessments Making the Turing Test Obsolete? Discover 5 Contemporary Evaluation Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artistic-advocacy-in-court-the-legal-standoff-between-celebrities-and-tech-giants-over-ai/"><u>Artistic Advocacy in Court: The Legal Standoff Between Celebrities & Tech Giants Over AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/augmenting-group-sessions-the-role-of-artificial-intelligence/"><u>Augmenting Group Sessions: The Role of Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722111254771-best-ai-for-chatting-clashing-titans-chatgpt-and-google-bard-face-off/"><u>Best AI for Chatting? Clashing Titans - ChatGPT and Google Bard Face-Off!</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-a58-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo A58 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722015224732-bypass-the-hold-up-on-chatgpt-for-desktop-embrace-an-exceptional-open-source-replacement-today/"><u>Bypass the Hold-Up on ChatGPT for Desktop: Embrace an Exceptional Open Source Replacement Today!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-warzone-stability-issues-solved-for-players-pcs/"><u>Call of Duty Warzone Stability Issues Solved for Players' PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/hosting-a-home-concert-a-comprehvealed-plan-for-throwing-a-successful-karaoke-bash/"><u>Hosting a Home Concert: A Comprehvealed Plan for Throwing a Successful Karaoke Bash</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-can-you-diagnose-and-fix-problems-with-your-computers-memory-expert-advice-from-yl-computing/"><u>How Can You Diagnose and Fix Problems with Your Computer's Memory? – Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721853382399-lost-in-time-retrieve-your-past-chatgpt-exchange-records/"><u>Lost in Time? Retrieve Your Past ChatGPT Exchange Records</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722143239568-redefine-mobile-browsing-bings-intelligent-search-now-available/"><u>Redefine Mobile Browsing - Bing's Intelligent Search Now Available.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-windows-to-its-fundamental-backup-state/"><u>Resetting Windows to Its Fundamental Backup State</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-common-errors-during-computer-boot-and-post-process/"><u>Troubleshooting Common Errors During Computer Boot and POST Process</u></a></li>
 </ul></div>
 

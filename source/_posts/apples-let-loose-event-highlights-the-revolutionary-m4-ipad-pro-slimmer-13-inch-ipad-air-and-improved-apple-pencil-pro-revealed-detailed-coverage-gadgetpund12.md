@@ -1,7 +1,7 @@
 ---
 title: "Apple's 'Let Loose' Event Highlights: The Revolutionary M4 iPad Pro, Slimmer 13-Inch iPad Air & Improved Apple Pencil Pro Revealed - Detailed Coverage | GadgetPundit."
-date: 2024-12-18T19:04:45.099Z
-updated: 2024-12-22T23:45:06.169Z
+date: 2024-12-22T00:27:28.301Z
+updated: 2024-12-28T07:42:14.749Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
@@ -37,7 +33,7 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -77,7 +73,7 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -96,19 +92,23 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,18 +160,20 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-embellish-slides-with-sonic-elements/"><u>[New] Embellish Slides with Sonic Elements</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-hosting-and-joining-google-meet-your-free-comprehensive-guidebook-for-2024/"><u>[Updated] Hosting and Joining Google Meet Your Free, Comprehensive Guidebook for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/easy-to-use-onboard-shake-reduction-gadget/"><u>Easy-to-Use Onboard Shake Reduction Gadget</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevating-conversational-ai-top-5-customized-gpt-techniques/"><u>Elevating Conversational AI: Top 5 Customized GPT Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/empowering-user-needs-via-ai-in-microsofts-bing/"><u>Empowering User Needs via AI in Microsoft's Bing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-5-premier-cost-free-tools-for-ai-powered-image-synthesis/"><u>Explore 5 Premier, Cost-Free Tools for AI-Powered Image Synthesis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-chatgpt-enterprise-features-benefits-and-distinct-advantages/"><u>Exploring ChatGPT Enterprise: Features, Benefits, and Distinct Advantages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-essence-of-hugging-face/"><u>Exploring the Essence of Hugging Face</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-accessing-and-installing-the-latest-add-ons-on-chatgpt/"><u>Guide: Accessing and Installing the Latest Add-Ons on ChatGPT</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-enhance-visual-quality-with-lut-filters-in-obs/"><u>How to Enhance Visual Quality with LUT Filters in OBS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-steps-for-retrieving-personal-hidden-snapchat-photos/"><u>In 2024, Steps for Retrieving Personal, Hidden Snapchat Photos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/navigating-video-visibility-barriers-in-social-networking-for-2024/"><u>Navigating Video Visibility Barriers in Social Networking for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/social-space-gamers-the-ultimate-top-10-list/"><u>Social Space Gamers The Ultimate Top 10 List</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-hidden-glance-guide-top-instagram-story-tools/"><u>[New] Hidden Glance Guide Top Instagram Story Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-hardware-choices-for-uhd-editors/"><u>[New] Premium Hardware Choices for UHD Editors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-enhancing-switch-gaming-with-top-cards/"><u>[Updated] Enhancing Switch Gaming with Top Cards</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-pickup-or-overkill-navigating-the-ultimate-android-photo-editor/"><u>2024 Approved PickUp or Overkill? Navigating the Ultimate Android Photo Editor</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/accelerated-productivity-with-the-top-8-ai-apps-on-your-phone/"><u>Accelerated Productivity with the Top 8 AI Apps on Your Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-revolution-in-finance-how-chatgpt-could-reshape-your-career-opportunities/"><u>AI Revolution in Finance: How ChatGPT Could Reshape Your Career Opportunities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/anticipating-challenges-in-artificial-intelligence-exploring-the-growing-concerns-over-generative-ai-security/"><u>Anticipating Challenges in Artificial Intelligence: Exploring the Growing Concerns Over Generative AI Security</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ascending-skills-from-copilot-to-pros-advantages/"><u>Ascending Skills: From CoPilot to Pro's Advantages</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-analysis-of-the-alienware-m18-r2-desktop-a-beastly-gaming-system-with-clicky-mechanical-keys/"><u>Comprehensive Analysis of the Alienware M18 R2 Desktop: A Beastly Gaming System with Clicky Mechanical Keys</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-todays-obstacles-dealing-with-imperfect-ai-output-and-doubts-on-reliability-insights-from-zdnet/"><u>Navigating Today's Obstacles: Dealing with Imperfect AI Output & Doubts on Reliability - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unmatched-add-ons-supercharging-your-gpt-experience-in-vs-code/"><u>Unmatched Add-Ons: Supercharging Your GPT Experience in VS Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrade-to-excellence-discover-9-superior-reasons-for-choosing-chatgpt-plus/"><u>Upgrade to Excellence: Discover 9 Superior Reasons for Choosing ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-ai-shines-brighter-evaluating-chatgpt-vs-gemini-in-the-world-of-software-development/"><u>Which AI Shines Brighter? Evaluating ChatGPT Vs. Gemini in the World of Software Development</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/xbox-one-screen-recording-easy-steps-for-gamers/"><u>Xbox One Screen Recording Easy Steps for Gamers</u></a></li>
 </ul></div>
 

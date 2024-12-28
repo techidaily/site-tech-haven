@@ -1,7 +1,7 @@
 ---
 title: "July's Top Discounted Apple Gadgets: IPhones to iPads - Special Deals Revealed by ZDNET"
-date: 2024-12-20T17:30:58.227Z
-updated: 2024-12-22T17:09:57.668Z
+date: 2024-12-23T02:13:23.114Z
+updated: 2024-12-27T22:56:18.845Z
 tags:
   - apple
 categories:
@@ -157,10 +157,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb8114c70-8128-4be6-9cd8-0cc4fe36c521%7Cdtp&dtb=1)
@@ -176,7 +172,7 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy an iPhone without a plan?
@@ -184,12 +180,16 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
 
@@ -198,7 +198,7 @@ This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
@@ -213,6 +213,10 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -234,10 +238,6 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -283,16 +283,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-superior-fb-extra-tools-video-grabs-firefox-version/"><u>[New] 2024 Approved Superior FB Extra Tools Video Grabs, Firefox Version</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-trusted-recommendations-the-ultimate-10-for-real-time-tennis-and-rugby-viewing/"><u>[New] 2024 Approved Trusted Recommendations The Ultimate 10 for Real-Time Tennis and Rugby Viewing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-regaining-exclusive-snap-privacy/"><u>[Updated] 2024 Approved Regaining Exclusive Snap Privacy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-inaccessible-roblox-game-on-windows-due-to-settings/"><u>Resolving Inaccessible Roblox Game on Windows Due to Settings</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-of-the-mohu-leaf-antenna-exceptional-balance-between-cost-and-quality/"><u>Review of the Mohu Leaf ˈAntenna - Exceptional Balance Between Cost and Quality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/stop-the-surveillance-with-a-simple-exit-from-chatgpt/"><u>Stop the Surveillance with a Simple Exit From ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategic-chattips-to-curb-anxiety/"><u>Strategic ChatTips to Curb Anxiety</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-attraction-of-ai-understanding-the-reasons-behind-hacker-interest-in-chatgpt/"><u>The Attraction of AI: Understanding the Reasons Behind Hacker Interest in ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-role-and-operation-of-artificial-intelligences-black-boxes-explained/"><u>The Role & Operation of Artificial Intelligence's Black Boxes Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tips-and-tricks-for-completely-clearing-old-gpt-dialogues/"><u>Tips and Tricks for Completely Clearing Old GPT Dialogues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-affordable-yet-powerful-gaming-laptops-under-1500/"><u>Ultimate Guide to Affordable Yet Powerful Gaming Laptops Under $1,500</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-bring-your-messages-to-life-on-tiktok-with-text-effects/"><u>[New] 2024 Approved Bring Your Messages to Life on TikTok with Text Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-symphony-of-shades-applying-complementary-colors/"><u>[Updated] A Symphony of Shades Applying Complementary Colors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-bright-horizons-pioneering-light-in-video-production/"><u>[Updated] Bright Horizons Pioneering Light in Video Production</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-illuminate-images-top-3-methods-for-captivating-comments-for-2024/"><u>[Updated] Illuminate Images Top 3 Methods for Captivating Comments for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-essential-techniques-for-excelling-at-your-career-with-artific-grophy-intelligence/"><u>6 Essential Techniques for Excelling at Your Career with Artific Grophy Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-detailed-overview-of-llama-2-for-enhanced-utilization/"><u>A Detailed Overview of Llama 2 for Enhanced Utilization</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-your-data-management-using-chatgpt-in-excel-made-simple/"><u>Ace Your Data Management: Using ChatGPT in Excel Made Simple</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/achieve-calmness-gpt-powered-stress-relief/"><u>Achieve Calmness: GPT-Powered Stress Relief</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/achieving-superior-responses-using-chatgpt-by-building-detailed-user-personas/"><u>Achieving Superior Responses Using ChatGPT by Building Detailed User Personas</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-programming-prowess-battle-who-wins-between-chatgpt-and-gemini/"><u>AI Programming Prowess Battle: Who Wins Between ChatGPT and Gemini?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-chatgpts-role-top-factors-to-weigh-for-mental-health-applications/"><u>Assessing ChatGPT's Role: Top Factors to Weigh for Mental Health Applications</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/o-record-screencast-from-youtube-for-free/"><u>How To Record Screencast From YouTube For Free</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exquisite-android-3d-media-experience/"><u>In 2024, Exquisite Android 3D Media Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-depth-analysis-of-inshots-features-and-rankings-for-2024/"><u>In-Depth Analysis of InShot's Features and Rankings for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722023224154-open-source-wins-get-the-best-of-chatgpt-desktop-experience-without-waiting/"><u>Open Source Wins: Get the Best of ChatGPT Desktop Experience Without Waiting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722208152618-openai-ceo-resignation-unpacking-the-implications-for-chatgpt-technology/"><u>OpenAI CEO Resignation: Unpacking the Implications for ChatGPT Technology</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pc-audio-logging-made-simple-install-x-recorder-for-2024/"><u>Pc Audio Logging Made Simple Install X-Recorder for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-tech-trends-with-toms-authoritative-hardware-guides/"><u>Stay Ahead of Tech Trends with Tom's Authoritative Hardware Guides</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/taking-wifi-speeds-to-new-heights-the-ultimate-guide-and-assessment-of-the-netgear-nighthawk-x1ad7200-router/"><u>Taking WiFi Speeds to New Heights: The Ultimate Guide and Assessment of the Netgear Nighthawk X1^AD7200 Router</u></a></li>
 </ul></div>
 

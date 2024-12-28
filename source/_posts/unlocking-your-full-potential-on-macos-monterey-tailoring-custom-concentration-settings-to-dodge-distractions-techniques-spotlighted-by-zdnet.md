@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Full Potential on macOS Monterey: Tailoring Custom Concentration Settings to Dodge Distractions - Techniques Spotlighted by ZDNet"
-date: 2024-12-17T18:49:12.393Z
-updated: 2024-12-22T17:46:11.460Z
+date: 2024-12-23T02:52:46.373Z
+updated: 2024-12-28T05:47:33.014Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -61,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -71,10 +75,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -95,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -111,10 +111,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -137,6 +133,10 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -154,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,20 +210,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-building-powerful-relationships-through-strategic-social-media-engagement/"><u>[New] 2024 Approved Building Powerful Relationships Through Strategic Social Media Engagement</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-transforming-your-tiktok-profile-altering-account-numbers/"><u>[New] Transforming Your TikTok Profile Altering Account Numbers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-money-top-stock-focused-yt-for-2024/"><u>[Updated] Mastering Money Top Stock-Focused YT for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/choreographed-combat-selecting-superior-fighting-titles/"><u>Choreographed Combat Selecting Superior Fighting Titles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/convenient-bavarder-implementation-in-linux/"><u>Convenient Bavarder Implementation in Linux</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-unverified-session-error-by-steams-vac/"><u>Fixing Unverified Session Error by Steam's VAC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-s17e-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo S17e FRP</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Infinix Zero 5G 2023 Turbo</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/open-source-meets-ai-conversation-what-makes-huggingchat-a-contender-with-chatgpt/"><u>Open Source Meets AI Conversation: What Makes HuggingChat a Contender with ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/social-media-polls-and-surveys-ai-assisted-crafting/"><u>Social Media Polls & Surveys: AI-Assisted Crafting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tailor-made-ai-communication-crafting-your-own-model/"><u>Tailor-Made AI Communication: Crafting Your Own Model</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-leveraging-chatgpt-and-siri-features-on-iphones/"><u>The Ultimate Guide to Leveraging ChatGPT and Siri Features on iPhones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-top-ai-chatbots-comparing-features-and-performance-between-chatgpt-bing-ai-and-google-bard/"><u>The Ultimate Guide to Top AI Chatbots: Comparing Features and Performance Between ChatGPT, Bing AI & Google Bard</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-enhancing-your-ai-communication-through-expert-prompt-writing-for-chatbots/"><u>The Ultimate Guide: Enhancing Your AI Communication Through Expert Prompt Writing for Chatbots</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-maximizing-lenovo-experience-through-effective-recording/"><u>[New] Maximizing Lenovo Experience Through Effective Recording</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-batch-save-presentations-in-video-format/"><u>[Updated] Batch Save Presentations in Video Format</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-expert-advice-on-valheim-seed-selection-for-2024/"><u>[Updated] Expert Advice on Valheim Seed Selection for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ultimate-guide-testing-mycam-recording-capabilities/"><u>2024 Approved Ultimate Guide Testing MyCam Recording Capabilities</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/breathing-life-into-your-ig-story-text-with-animation-for-2024/"><u>Breathing Life Into Your IG Story Text with Animation for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-live-game-networks-unveiled/"><u>In 2024, Leading Live Game Networks Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-top-notch-visuals-a-cost-free-approach/"><u>In 2024, Unlocking Top-Notch Visuals A Cost-Free Approach</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-stories-school-leaders-list-for-2024/"><u>Prime Stories School - Leaders List for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-gaming-at-a-steal-innocn-39g1r/"><u>Quality Gaming at a Steal: InnoCN 39G1R</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/scripted-escapades-your-path-to-interactive-storytelling/"><u>Scripted Escapades: Your Path to Interactive Storytelling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/selecting-your-ideal-chatgpt-experience-the-benefits-of-online-browsing-versus-plugin-support-systems/"><u>Selecting Your Ideal ChatGPT Experience: The Benefits of Online Browsing Versus Plugin Support Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-mastering-langchains-large-language-models-llm/"><u>Step-by-Step Guide to Mastering LangChain's Large Language Models (LLM)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tech-innovation-unveiled-transfer-learning-in-artificial-intelligence/"><u>Tech Innovation Unveiled: Transfer Learning in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-6-critical-considerations-for-leveraging-chatgpt-for-emotional-health-management/"><u>The 6 Critical Considerations for Leveraging ChatGPT for Emotional Health Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-complete-how-to-on-transforming-note-taking-skills-using-chatgpt/"><u>The Complete How-To on Transforming Note-Taking Skills Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-intersection-of-websites-and-artificial-intelligence/"><u>The Intersection of Websites and Artificial Intelligence</u></a></li>
 </ul></div>
 

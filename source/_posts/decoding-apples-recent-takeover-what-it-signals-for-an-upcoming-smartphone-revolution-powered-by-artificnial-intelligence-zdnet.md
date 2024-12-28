@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple's Recent Takeover: What It Signals for an Upcoming Smartphone Revolution Powered by Artificnial Intelligence | ZDNET"
-date: 2024-12-18T22:17:35.753Z
-updated: 2024-12-22T16:47:25.942Z
+date: 2024-12-24T20:42:48.559Z
+updated: 2024-12-27T22:00:01.602Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -88,7 +88,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -103,10 +103,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -118,6 +114,10 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -132,7 +132,7 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -151,10 +151,6 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -169,6 +165,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,22 +210,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-innovative-recorders-for-console-gameplay-footage/"><u>[New] 2024 Approved Innovative Recorders for Console Gameplay Footage</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-infusing-vitality-into-text-an-animated-adventure/"><u>[Updated] 2024 Approved Infusing Vitality Into Text An Animated Adventure</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-achieving-studio-quality-with-audacity/"><u>[Updated] Achieving Studio Quality with Audacity</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-craft-your-narrative-best-free-mobile-editors-android-focus/"><u>In 2024, Craft Your Narrative Best Free Mobile Editors, Android Focus</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tunes-terms-and-copyrights-on-instagram/"><u>In 2024, Tunes, Terms, and Copyrights on Instagram</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-slack-and-filmora-efficient-meeting-planning-and-recording-guide/"><u>Mastering Slack & Filmora Efficient Meeting Planning & Recording Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/move-beyond-siri-chatgpt-comparison-explore-how-they-serve-unique-roles-in-ai/"><u>Move Beyond Siri-ChatGPT Comparison – Explore How They Serve Unique Roles in AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-potential-threats-of-chatgpt/"><u>Navigating the Potential Threats of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-8-key-problematic-areas-with-openais-chatgpt/"><u>Navigating Through 8 Key Problematic Areas with OpenAI's ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/predictive-security-analysis-spotlight-on-the-biggest-7-upcoming-cyber-trends/"><u>Predictive Security Analysis: Spotlight on the Biggest 7 Upcoming Cyber Trends</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/prevent-access-breaches-without-a-key-mastering-anti-hijack-measures-with-malwarefox-insights/"><u>Prevent Access Breaches Without a Key: Mastering Anti-Hijack Measures with MalwareFox Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pros-and-cons-of-opting-for-a-local-llm-is-it-the-right-choice/"><u>Pros & Cons of Opting for a Local LLM: Is It the Right Choice?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/prove-your-prowess-in-programming-by-uncovering-hidden-flaws-at-openai/"><u>Prove Your Prowess in Programming by Uncovering Hidden Flaws at OpenAI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/redefine-your-browsing-experience-bings-smart-ai-search/"><u>Redefine Your Browsing Experience: Bing's Smart AI Search.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-browsing-experience-the-ultimate-list-of-chatgpt-extensions/"><u>Revolutionize Your Browsing Experience: The Ultimate List of ChatGPT Extensions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-review-of-kobo-nia-can-it-outshine-the-kindle-from-amazon/"><u>The Ultimate Review of Kobo Nia - Can It Outshine the Kindle From Amazon?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-lost-iphones-apps-methods-for-finding-and-restoring-unexpectedly-deleted-programs/"><u>Troubleshooting Lost IPhones Apps - Methods for Finding and Restoring Unexpectedly Deleted Programs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-decision-time-for-codecs-are-you-with-av1-or-vp9-for-2024/"><u>[New] Decision Time for Codecs Are You with Av1 or VP9 for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-budget-friendly-video-editing-masterclass-on-vimeo/"><u>[Updated] Budget-Friendly Video Editing Masterclass on Vimeo</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-charting-the-course-to-earnings-with-youtube-videos/"><u>[Updated] Charting the Course to Earnings with YouTube Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elite-corporate-space-for-secure-storage-for-2024/"><u>[Updated] Elite Corporate Space for Secure Storage for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-smooth-sailing-navigating-the-world-of-igtv-videos-for-2024/"><u>[Updated] Smooth Sailing Navigating the World of IGTV Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-up-to-date-techniques-for-screenshotting-idevices/"><u>2024 Approved Up-to-Date Techniques for Screenshotting iDevices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-top-6-engaging-games-available-on-chatgpt/"><u>Discover the Top 6 Engaging Games Available on ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dungeon-masters-aide-de-camp-unleashing-potential-with-chatgpt/"><u>Dungeon Masters' Aide-De-Camp: Unleashing Potential with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-organizing-chatgpt-interactions-with-custom-folders/"><u>Effective Strategies for Organizing ChatGPT Interactions with Custom Folders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-remote-dialogue-a-guide-to-using-chatgpt/"><u>Empowering Remote Dialogue: A Guide to Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enabling-others-to-access-your-informed-chatgpt-journey/"><u>Enabling Others to Access Your Informed ChatGPT Journey</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-ai-communications-for-bodybuilders/"><u>Enhancing AI Communications for Bodybuilders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-tips-navigating-safe-usage-of-chatgpt-in-mental-wellness-coaching/"><u>Essential Tips: Navigating Safe Usage of ChatGPT in Mental Wellness Coaching</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-googles-artifice-intelligence-initiative-insights-into-project-gemini/"><u>Exploring Google's Artifice Intelligence Initiative: Insights Into Project Gemini</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-features-of-the-chatgpt-copilot-plugin-for-browsers/"><u>Exploring the Features of the ChatGPT Copilot Plugin for Browsers</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-failure-in-windows-updates-a-complete-guide-to-fixes/"><u>Overcoming Failure in Windows Updates: A Complete Guide to Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-hp-victus-15-pro-at-an-unbelievable-price-of-530-dont-miss-out-on-our-in-depth-review-and-prime-day-blowout/"><u>Secure Your HP Victus 15 Pro at an Unbelievable Price of $530! Don't Miss Out on Our In-Depth Review & Prime Day Blowout!</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-eradicating-steam-errors-affecting-games-on-windows-11/"><u>Strategies for Eradicating Steam Errors Affecting Games on Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-iphone-photography-handbook-tips-and-tricks-for-2024/"><u>The iPhone Photography Handbook Tips & Tricks for 2024</u></a></li>
 </ul></div>
 

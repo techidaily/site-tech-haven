@@ -1,7 +1,7 @@
 ---
 title: "Pros and Cons of Switching to iPhone 16: Insights From Top ZDNet Editors"
-date: 2024-12-18T01:11:07.262Z
-updated: 2024-12-22T18:26:13.293Z
+date: 2024-12-26T16:00:35.532Z
+updated: 2024-12-28T16:01:41.482Z
 tags:
   - apple
 categories:
@@ -30,16 +30,12 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -55,7 +51,7 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
@@ -69,10 +65,6 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -96,9 +88,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -109,10 +109,6 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 **Also: [iOS 18 update: Every iPhone model that will support Apple's new AI features (for now)](https://www.zdnet.com/article/ios-18-1-update-every-iphone-model-that-will-support-apples-new-ai-features-for-now/)**
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
 
@@ -127,6 +123,10 @@ Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am st
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -168,18 +168,24 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ensuring-clear-audio-in-remote-recording/"><u>[New] 2024 Approved Ensuring Clear Audio in Remote Recording</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/2023s-elite-mechanical-keyboards-reviewed-insider-tips-from-zdnet/"><u>2023’S Elite Mechanical Keyboards Reviewed - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-chatgpt-ais-potent-generative-capabilities/"><u>Demystifying ChatGPT: AI's Potent Generative Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dream-trip-no-hurdles-choose-from-the-7-best-free-chatgpt-planning-tools/"><u>Dream Trip, No Hurdles - Choose From the 7 Best Free ChatGPT Planning Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-productivity-using-the-best-6-smart-ai-notetaking-tools-on-the-market/"><u>Enhance Productivity Using the Best 6 Smart AI Notetaking Tools on the Market</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-origins-tracing-the-inception-of-artificers-intellect/"><u>Exploring the Origins: Tracing the Inception of Artificer's Intellect</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-the-power-of-chatgpt-to-design-your-ideal-health-meal-plan/"><u>Harnessing the Power of ChatGPT to Design Your Ideal Health Meal Plan</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-openai-empowers-chatgpt-with-speech-features-to-answer-questions-and-execute-tasks/"><u>How OpenAI Empowers ChatGPT with Speech Features to Answer Questions & Execute Tasks</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-13-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone 13? Fixed | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-video-from-japanese-to-english-online-for-2024/"><u>New How To Translate Video From Japanese to English Online for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-objectives-of-googles-cutting-edge-ai-initiative-gemini/"><u>Unveiling the Objectives of Google's Cutting-Edge AI Initiative: Gemini</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-windows-11s-backup-functionality-details/"><u>Unveiling Windows 11'S Backup Functionality Details</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-flashback-flair-top-80s-video-tricks-for-a-contemporary-edge/"><u>[New] 2024 Approved Flashback Flair Top 80S Video Tricks for a Contemporary Edge</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-peervid-grabber-fb-live/"><u>[New] In 2024, PeerVid Grabber FB Live</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-simplified-speech-to-text-integration-into-visual-content/"><u>[New] In 2024, Simplified Speech-to-Text Integration Into Visual Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/utube-adsense-earnings-how-much-does-adsense-pay-per-1000-view/"><u>14- YouTube AdSense Earnings How Much Does AdSense Pay per 1,000 View</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-vpn-for-chrome-how-to-setup-vpn-for-chrome-easily/"><u>Best VPN for Chrome - How to Setup VPN for Chrome Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/capture-your-screen-with-ease-screenshoting-techniques-for-your-acer-notebook/"><u>Capture Your Screen with Ease: Screenshoting Techniques for Your Acer Notebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/connecting-your-printer-to-your-laptop-seamlessly-wireless-and-usb-methods-explained/"><u>Connecting Your Printer to Your Laptop Seamlessly: Wireless and USB Methods Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dynamic-enhancements-for-your-tiktok-projects/"><u>Dynamic Enhancements for Your TikTok Projects</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-methods-to-refresh-your-pcs-firmware-with-windows-11/"><u>Easy Methods to Refresh Your PC's Firmware with Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-pc-restoration-techniques-on-windows-10-operating-system/"><u>Effortless PC Restoration Techniques on Windows 10 Operating System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortlessly-move-chrome-bookmarks-to-firefox-master-the-simple-steps-now/"><u>Effortlessly Move Chrome Bookmarks to Firefox – Master the Simple Steps Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/eliminating-input-lag-for-a-smoother-gaming-session-on-a-secondary-display-using-windows-11/"><u>Eliminating Input Lag for a Smoother Gaming Session on a Secondary Display Using Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-guide-recognizing-and-preventing-phishing-scams/"><u>Essential Guide: Recognizing and Preventing Phishing Scams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-the-windows-1011-issue-a-step-by-step-guide-to-resolving-error-code-0xa00f4244/"><u>Fixing the Windows 10/11 Issue: A Step-by-Step Guide to Resolving Error Code 0xA00F4244</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-dynamic-videos-made-easy-with-best-stabilizers/"><u>In 2024, Dynamic Videos Made Easy with Best Stabilizers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-ultimate-top-viewers-playlist-on-youtube-history/"><u>In 2024, Ultimate Top Viewers' Playlist on YouTube History</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-overcoming-black-or-blank-screens-on-your-windows-11-pc/"><u>Step-by-Step Tips: Overcoming Black or Blank Screens on Your Windows 11 PC</u></a></li>
 </ul></div>
 

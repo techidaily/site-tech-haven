@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Apple's 'Glowtime': A Comprehensive Guide to New Features, Devices, and Specs Announced for the iPhone 16 Event"
-date: 2024-12-21T20:46:45.194Z
-updated: 2024-12-22T20:02:58.630Z
+date: 2024-12-20T20:06:56.035Z
+updated: 2024-12-28T00:11:32.020Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If you didn't get to tune in or want a detailed summary of the announcements, ke
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPhone 16 series
@@ -65,7 +65,7 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -89,7 +89,7 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -117,7 +117,7 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -135,7 +135,7 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -184,18 +184,16 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-boost-stories-interaction-with-peculiar-creative-questions/"><u>[New] 2024 Approved Boost Stories Interaction with Peculiar Creative Questions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-maintain-a-seamless-video-experience-by-removing-stickers/"><u>[Updated] How to Maintain a Seamless Video Experience by Removing Stickers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722195861624-are-ai-writing-services-a-viable-way-to-make-extra-cash-lets-discuss-8-options/"><u>Are AI Writing Services a Viable Way to Make Extra Cash? Let's Discuss 8 Options!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722179648348-avoid-the-misleading-google-bard-protect-your-device/"><u>Avoid the Misleading Google Bard — Protect Your Device</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-cinematic-strategies-the-top-13-film-shooting-methods/"><u>Best Cinematic Strategies: The Top 13 Film Shooting Methods</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comprehensive-guide-to-leveraging-your-apowerunlock-device-effectively/"><u>Comprehensive Guide to Leveraging Your ApowerUnlock Device Effectively</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-interactive-boundaries-the-vision-of-mixed-reality/"><u>In 2024, Exploring Interactive Boundaries The Vision of Mixed Reality</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-6-hdmi-21-monitor-for-2024/"><u>Top 6 HDMI 2.1 Monitor for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-chatgpts-boundaries-exploring-its-non-responsive-queries/"><u>Unlocking ChatGPT's Boundaries: Exploring Its Non-Responsive Queries</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-behind-chatgpts-syntax-conversion-why-it-matters-for-coders/"><u>Unveiling the Secrets Behind ChatGPT's Syntax Conversion: Why It Matters for Coders</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/voice-your-commands-getting-started-with-chatgpt-on-android-through-voicegpt/"><u>Voice Your Commands: Getting Started with ChatGPT on Android Through VoiceGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-does-it-mean-to-achieve-sync-demystifying-the-alignment-dilemma-in-ai-systems/"><u>What Does It Mean to Achieve Sync? Demystifying the Alignment Dilemma in AI Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint/"><u>[Updated] Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-steps-for-fresh-driver-installation-on-your-hp-elitebook-8460p-windows-compatible-solutions/"><u>Comprehensive Steps for Fresh Driver Installation on Your HP EliteBook 8460P - Windows Compatible Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/how-to-retreat-from-macos-sierras-latest-upgrade-for-2024/"><u>How to Retreat From MacOS Sierra's Latest Upgrade for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-10-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 10 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-your-creativity-workflow-with-mind-maps-and-conversational-ai-platforms/"><u>Revolutionizing Your Creativity Workflow with Mind Maps & Conversational AI Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/say-no-to-data-collection-how-to-disengage-from-chatgpt/"><u>Say No to Data Collection – How to Disengage From ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-local-setup-of-llama-2-on-your-machine/"><u>Step-by-Step Guide: Local Setup of LLAMA 2 on Your Machine</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-resolving-chatgpt-at-maximum-use-message-on-pcs/"><u>Step-by-Step Guide: Resolving ChatGPT at Maximum Use Message on PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-for-effective-chatgpt-utilization-in-academic-studies/"><u>Strategies for Effective ChatGPT Utilization in Academic Studies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/underwater-photographys-leading-seven-cams-for-2024/"><u>Underwater Photography's Leading Seven Cams for 2024</u></a></li>
 </ul></div>
 

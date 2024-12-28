@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Transform VitalSource VBK Books Into User-Friendly PDF Documents
-date: 2024-08-20T11:53:34.979Z
-updated: 2024-08-21T11:53:34.979Z
+date: 2024-12-26T21:05:46.833Z
+updated: 2024-12-28T01:10:08.206Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf1634f1f32732c80e0c8c7aa.jpg
@@ -14,8 +14,6 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
 Posted by [Iris Yan](https://www.facebook.com/iris.yan.16718) on 12/19/2018 10:12:52 AM.
 
 4.2 [(30 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -47,9 +45,17 @@ Open the book you want to print, then choose "Print" at the dropdown list of "Fi
 
 ![print vbk to pdf](http://www.epubor.com/images/uppic/print-vbk-to-pdf-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It will pop up a new window asking you to fill in the range of the pages you want to print. In this window, you will see that if there is print limitations. If yes, we can not bypass the limitations for now. Ignore this restriction and just click on "continue" to go to the next step. 
 
 ![choose the page range](http://www.epubor.com/images/uppic/choose-the-page-range.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The print window will pop up. Now you can fill in the copies, pages you want to print. At the buttom, you will see PDF options, click on "PDF" and select ”Save as PDF" at the dropdown list.
 
@@ -62,6 +68,10 @@ The print window will pop up. Now you can fill in the copies, pages you want to 
 Now you get your VBK file converted to PDF. Since there may be print limitations, you may have to follow the above guide to print the rest pages. When all pages has been printed to PDF, you can merge them to one PDF file with [Epubor PDF & Merger & Splitter](https://tools.techidaily.com/epubor/pdf-splitter-merger/). Now you can get a full book.
 
 ![save vbk as pdf](https://www.epubor.com/images/pdf-splitter-merger.htmlscreen1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Convert VBK to PDF on Windows
 
@@ -82,15 +92,17 @@ Open the VitalSource Bookshelf and download the book you want to convert. Open t
 ![print vbk to pdf](http://www.epubor.com/images/uppic/windows-print-VBK.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 The print preview window will pop up. You just have to click on "print" to go to the next step. 
 
 ![print options on windows](http://www.epubor.com/images/uppic/print-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Now you will see the print settings window. Choose "doPDF 9" as the virtual printer and select all pages. Then click on "Print". 
 
 ![select printer for vitalsource book](http://www.epubor.com/images/uppic/select-printer.png)
@@ -99,14 +111,12 @@ After you have clicked on "Print", the doPDF will save this file as PDF. You can
 
 ![print vbk to pdf on windows](http://www.epubor.com/images/uppic/print-vbk-to-pdf-on-windows.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 As there may be print limitation, you have to print the pages one by one. After all pages have been printed, you can use Epubor PDF & Merger & Splitter to merge all pdf files to one book. 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Convert VBK to PDF with Epubor VitalSource Downloader
 
 The above mentioned methods are very complex and time-consuming, and you need to install so many software to achieve your goal. It will take about your whole days to download a book with one thousand pages. That's why I want to introduce Epubor new software --[Epubor VitalSource Downloader](https://tools.techidaily.com/epubor/products/)to you. With this software, you can download the VitalSource books to pdf with one click.
@@ -125,9 +135,6 @@ Then run VitalSource Downloader and you will see a window as below.
 
 ![Vitalsource downloader login](http://www.epubor.com/images/uppic/vitalsource-downloader-login.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You just need to fill in your VitalSource account information to sign in your VitalSource Bookshelf. See? Very clean interface, right? 
 
 **Tips:** 
@@ -140,9 +147,6 @@ You just need to fill in your VitalSource account information to sign in your Vi
 
 ![Vitalsource downloader login](https://www.epubor.com/images/uppic/vitalsource-downloader-interface.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 When you log in, you will see all books you purchased from VitalSource website. If you found that not all purchased books are displayed in this library, close the software and restart it again please.
 
 #### Step 3: Download VitalSource Bookself to PDF 
@@ -174,6 +178,10 @@ Suggested reading:
 
 ![author](http://www.epubor.com/images/uppic/iris.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Iris Yan](https://www.facebook.com/iris.yan.16718) has been a passionate member of Epubor since 2017\. Her mission is to enhance your ebook reading experience by sharing insightful tips and tricks. Join her on a journey towards reading excellence today!
 
 SHARING IS GREAT!
@@ -181,8 +189,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 30 Comments
 
@@ -521,8 +527,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -530,4 +534,26 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hidden-gems-on-youtube-understanding-unlisted-videos/"><u>[New] 2024 Approved Hidden Gems on YouTube Understanding 'Unlisted' Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-superior-sound-top-10-podcast-recording-mics/"><u>[Updated] 2024 Approved Superior Sound Top 10 Podcast Recording Mics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-livestream-launchpad-duel-go-with-xsplit-or-opt-for-obs/"><u>2024 Approved Livestream Launchpad Duel Go with XSplit or Opt for OBS?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/common-subnet-size-for-an-organizations-allocation-is-48-in-ipv6-which-allows-significant-flexibility-within-the-network/"><u>Common Subnet Size for an Organization's Allocation Is /48 in IPv6, Which Allows Significant Flexibility Within the Network.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-gratuita-de-archivos-vob-a-formato-mp4-online-con-eficiencia-guia-de-movavi/"><u>Conversión Gratuita De Archivos VOB a Formato MP4 Online Con Eficiencia - Guía De Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-14-ultra-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi 14 Ultra Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-shortcut-to-engagement-analyzing-facebooks-video-trends/"><u>In 2024, Shortcut to Engagement Analyzing Facebook's Video Trends</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ios-16pc/"><u>IOS 16用:スマホカメラ画像をPCへ簡単にコピーする自由配布マニュアル</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-creme-de-la-creme-of-picture-correction-apps-top-10-selections-for-pc-and-mac-enthusiasts/"><u>The Crème De La Crème of Picture Correction Apps - Top 10 Selections for PC and Mac Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-strategies-for-integrating-chatgpt-into-your-academic-routine/"><u>Top 5 Strategies for Integrating ChatGPT Into Your Academic Routine</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-effective-strategies-integrating-chatgpt-into-your-career-hunt/"><u>Top 6 Effective Strategies: Integrating ChatGPT Into Your Career Hunt</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-dandd-adventures-with-chatgpt-enhancements/"><u>Transform Your D&D Adventures with ChatGPT Enhancements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-ideas-to-video-content-a-chatgpt-approach/"><u>Transforming Ideas to Video Content: A ChatGPT Approach</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-your-approach-persuasive-proposal-via-ai/"><u>Transforming Your Approach: Persuasive Proposal via AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/triple-pathways-to-augmenting-chatgpt-with-wolframalpha/"><u>Triple Pathways to Augmenting ChatGPT with WolframAlpha</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/twitters-emoji-free-linuss-unmasking-insights-trojans-explored-and-chatgpt-flaws-highlighted/"><u>Twitters Emoji-Free, Linus's Unmasking Insights, Trojans Explored, & ChatGPT Flaws Highlighted</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-risks-7-reasons-to-think-twice-before-using-ai-for-messaging-applications/"><u>Understanding the Risks: 7 Reasons to Think Twice Before Using AI for Messaging Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-creativity-with-our-top-picks/"><u>Unleash Creativity with Our Top Picks:</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-m54-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy M54 5G? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

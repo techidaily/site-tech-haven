@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices To Avoid Purchasing at This Moment: Insights From ZDNet"
-date: 2024-12-20T16:46:16.208Z
-updated: 2024-12-22T20:25:05.536Z
+date: 2024-12-27T11:57:53.784Z
+updated: 2024-12-28T02:49:36.351Z
 tags:
   - apple
 categories:
@@ -59,6 +59,10 @@ Don't buy these devices:
 
 ## **The 'Nice' list**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Apple iPhone 16**
 
 iPhone 16
@@ -66,10 +70,6 @@ iPhone 16
 Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
 
@@ -80,7 +80,7 @@ Kerry Wan/ZDNET
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
@@ -98,7 +98,7 @@ Along with the updated processor, this MacBook Air can also power two external m
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple Vision Pro**
@@ -116,7 +116,7 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
@@ -134,6 +134,10 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -148,10 +152,6 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -214,24 +214,18 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-screenmasterreview-latest-editions-performance-insights/"><u>[New] ScreenMasterReview Latest Edition's Performance Insights</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-tips-efficiently-capturing-moments-with-snap-features-in-meet/"><u>[Updated] 2024 Approved Quick Tips Efficiently Capturing Moments with Snap Features in Meet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/2024s-elite-lineup-for-in-room-ceiling-sound-experience/"><u>2024'S Elite Lineup for In-Room Ceiling Sound Experience</u></a></li>
-<li><a href="https://discover-best.techidaily.com/dvdmac-and-windows/"><u>対症療法: ドルビーシャインクDVDストレッチエラーに悩むMac & Windowsユーザーへの解決策とテクニック</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-movie-makers-for-windows-10-for-2024/"><u>Best Movie Makers for Windows 10 for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/busting-scams-crackdown-on-vpns-exposed/"><u>Busting Scams: Crackdown on VPNs Exposed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/celebrity-artists-take-on-tech-giants-the-case-of-sarah-silverman-vs-openai-and-meta/"><u>Celebrity Artists Take on Tech Giants: The Case of Sarah Silverman Vs. OpenAI & Meta</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-comparison-should-freelancers-trust-bing-chat-over-chatgpt-eight-essential-points-you-must-know/"><u>Chatbot Comparison: Should Freelancers Trust Bing Chat Over ChatGPT? Eight Essential Points You Must Know</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-fake-outs-staying-informed/"><u>ChatBot Fake-Outs: Staying Informed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-discretion-101-safeguarding-your-conversations-without-erasing-them/"><u>ChatGPT Discretion 101: Safeguarding Your Conversations Without Erasing Them</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-for-your-computer-screen-superior-benefits-over-web-based-interaction/"><u>ChatGPT for Your Computer Screen - Superior Benefits Over Web-Based Interaction</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehending-gptzeros-mechanism-for-ai-discovery/"><u>Comprehending GPTZero's Mechanism for AI Discovery</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-understanding-everything-about-openai/"><u>Comprehensive Guide: Understanding Everything About OpenAI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/conversational-ai-breath-of-life-to-virtual-queries/"><u>Conversational AI: Breath of Life to Virtual Queries</u></a></li>
-<li><a href="https://solve-info.techidaily.com/cookiebot-your-gateway-to-enhanced-web-analytics-and-personalized-marketing/"><u>Cookiebot: Your Gateway to Enhanced Web Analytics and Personalized Marketing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highlighting-heroics-at-the-x-olympics-2022-for-2024/"><u>Highlighting Heroics at the X-Olympics 2022 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-your-apple-watchs-lifespan-draining-fast-find-out-now-with-latest-insights/"><u>Is Your Apple Watch's Lifespan Draining Fast? Find Out Now with Latest Insights!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/unlock-your-true-instagram-potential-followers-guide/"><u>Unlock Your True Instagram Potential - Followers Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-hide-face-details-picart-privacy-mode/"><u>[New] 2024 Approved Hide Face Details PicArt Privacy Mode</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-does-youtube-count-views-its-not-as-simple-as-you-think/"><u>[New] In 2024, How Does YouTube Count Views? It's Not as Simple as You Think!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-key-to-exploring-without-boundaries-through-vr/"><u>2024 Approved The Ultimate Key to Exploring Without Boundaries Through VR</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/detailed-technical-specifications-winx-hd-video-converter-deluxe/"><u>Detailed Technical Specifications - WinX HD Video Converter Deluxe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-the-requires-elevation-error-in-windows-11-devices/"><u>Eliminating the Requires Elevation Error in Windows 11 Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-the-future-explore-eight-essential-uses-for-chatgpt-in-todays-world/"><u>Harnessing the Future: Explore Eight Essential Uses for ChatGPT in Today's World</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-install-non-app-store-apps-on-your-iphone-without-jailbreaking-expert-guide-techsavvy/"><u>How to Install Non-App Store Apps on Your iPhone Without Jailbreaking - Expert Guide | TechSavvy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-safeguard-personal-information-against-these-3-major-chatbot-risks/"><u>How to Safeguard Personal Information Against These 3 Major Chatbot Risks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-overcoming-virtual-negativity-a-content-makers-guide/"><u>In 2024, Overcoming Virtual Negativity A Content Maker's Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-ai-innovation-comparing-gpt-4-with-its-siblings-gpt-4-turbo-and-gpt-n/"><u>Inside AI Innovation: Comparing GPT-4 with Its Siblings, GPT-4 Turbo & GPT-N</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/justifying-auto-gpts-role-without-gpt-4/"><u>Justifying Auto-GPT's Role Without GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-troubleshooting-your-broken-computers-a-comprehensive-guide-using-chatgpt/"><u>Master Troubleshooting Your Broken Computers - A Comprehensive Guide Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-crypto-conversations-via-gpt-3/"><u>Mastering Crypto Conversations via GPT-3</u></a></li>
 </ul></div>
 

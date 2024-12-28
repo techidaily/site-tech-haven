@@ -1,7 +1,7 @@
 ---
 title: Organize Email Like a Pro with This Simple Trick—No Need for Complex Rules or Separate Accounts | ZDNET
-date: 2024-12-17T23:01:43.708Z
-updated: 2024-12-22T23:47:22.104Z
+date: 2024-12-23T16:02:03.462Z
+updated: 2024-12-28T16:00:24.325Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The magic of email aliases
@@ -65,7 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -77,7 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -91,7 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -105,7 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -146,19 +146,18 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-effortless-and-expert-use-of-obs-studio-with-android-devices/"><u>[New] 2024 Approved Effortless and Expert Use of OBS Studio with Android Devices</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-secrets-unveiled-best-practices-in-remote-audio-capture/"><u>[New] In 2024, Secrets Unveiled Best Practices in Remote Audio Capture</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-daily-use-to-extraordinary-experiences-phones-into-vr/"><u>2024 Approved From Daily Use to Extraordinary Experiences Phones Into VR</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-in-videos-with-quick-trims-on-windows-11/"><u>2024 Approved Unleash Creativity in Videos with Quick Trims on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-free-sound-editing-software-for-music-production-in-202e-expert-picks-from-movavi/"><u>Discover the Best Free Sound Editing Software for Music Production in 202E - Expert Picks From Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-csr-bluetooth-drivers-here-for-quick-installation-and-use/"><u>Get Your CSR Bluetooth Drivers Here for Quick Installation and Use</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/to-go-global-or-stay-local-9-pros-and-cons-of-each-for-llms/"><u>To Go Global or Stay Local? 9 Pros and Cons of Each for LLMs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-nubia-red-magic-8s-proplus-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Nubia Red Magic 8S Pro+ Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/turning-text-to-audio-with-ais-help/"><u>Turning Text to Audio with AI's Help</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/twitters-smileless-tweets-linuss-discoveries-unveiled-trojan-explanation-and-gpt-limitations-showcased/"><u>Twitters Smileless Tweets, Linus’s Discoveries Unveiled, Trojan Explanation, & GPT Limitations Showcased</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-fix-the-fnaf-security-intrusion-game-is-now-fully-operational-on-your-pc-say-goodbye-to-crashes/"><u>Ultimate Fix: The FNAF Security Intrusion Game Is Now Fully Operational on Your PC, Say Goodbye to Crashes!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-potential-with-chatgpt-discover-6-creative-ways-to-utilize-its-code-interpreter-feature/"><u>Unlock Potential with ChatGPT: Discover 6 Creative Ways to Utilize Its Code Interpreter Feature</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-greater-potential-with-these-10-advanced-gpt-personalizations-beating-out-chatgpt/"><u>Unlocking Greater Potential with These 10 Advanced GPT Personalizations Beating Out ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-gpt-4-top-5-methods-to-use-it-at-no-cost/"><u>Unlocking the Power of GPT-4: Top 5 Methods to Use It at No Cost</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-discovering-the-joy-of-iphones-vr-video-sphere/"><u>[New] In 2024, Discovering the Joy of iPhone's VR Video Sphere</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/astering-youtube-craft-your-ultimate-music-collection/"><u>[New] Mastering YouTube Craft Your Ultimate Music Collection</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-navigating-the-world-of-digital-gifs/"><u>[New] Navigating the World of Digital GIFs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ptimize-your-content-youtube-seo-techniques-and-gadgets/"><u>[New] Optimize Your Content YouTube SEO Techniques and Gadgets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808297314-solved-connect-bluetooth-speaker-to-laptop-quickly-and-easily/"><u>[SOLVED] Connect Bluetooth Speaker To Laptop. Quickly & Easily!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-ultimate-mobile-solutions-to-sharpen-dji-drone-shoots/"><u>2024 Approved Ultimate Mobile Solutions to Sharpen DJi Drone Shoots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improving-performance-in-rust-a-comprehensive-guide-to-increasing-your-frames-per-second-fps/"><u>Improving Performance in Rust - A Comprehensive Guide to Increasing Your Frames Per Second (FPS)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ingenious-tactics-to-outwit-windows-sign-in-prompts/"><u>Ingenious Tactics to Outwit Windows Sign-In Prompts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/metaverse-memetic-wisdom-for-a-laughter-filled-time/"><u>Metaverse Memetic Wisdom for a Laughter-Filled Time</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808355065-quick-and-secure-windows-10-installation-guide-get-set-up-in-minutes/"><u>Quick & Secure Windows 10 Installation Guide: Get Set Up in Minutes!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-install-of-directx-on-your-pc-with-windows-11-or-10-effortless-downloads/"><u>Quick Install of DirectX on Your PC with Windows 11 or 10: Effortless Downloads</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-defender-kit-top-cases-of-24-for-devices/"><u>The Ultimate Defender Kit: Top Cases of '24 for Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/updating-drivers-made-easy-steps-for-windows-10-and-11-users/"><u>Updating Drivers Made Easy: Steps for Windows 10 and 11 Users</u></a></li>
 </ul></div>
 

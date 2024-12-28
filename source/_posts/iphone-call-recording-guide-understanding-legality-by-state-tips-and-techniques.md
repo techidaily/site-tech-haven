@@ -1,7 +1,7 @@
 ---
 title: "IPhone Call Recording Guide: Understanding Legality by State - Tips & Techniques"
-date: 2024-11-22T16:17:21.161Z
-updated: 2024-11-28T16:16:18.198Z
+date: 2024-12-26T16:01:44.815Z
+updated: 2024-12-28T16:01:20.618Z
 tags:
   - apple
 categories:
@@ -46,12 +46,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to record a phone call on iPhone
 
 **What you need**: 
 
 * One [iPhone](https://www.zdnet.com/article/best-iphone/) to host the call, which we recommend putting on speakerphone
 * Another recording device (this could be another iPhone, an [iPad](https://www.zdnet.com/article/best-ipad/), or even an Android device) using Voice Memos or another recording app to record the call
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Test your Voice Memos app
 
@@ -66,7 +74,7 @@ Voice recordings autosave under different names based on whether Location Servic
 Screenshot by Radhika Rajkumar/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Play back the audio file and make adjustments
@@ -105,10 +113,6 @@ Spikes in the red waveform bar indicate a louder sound. A flatter bar indicates 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. End the recording and transfer the file
 
 When the conversation is over or you've got the information you need, end the recording by tapping the red button. 
@@ -133,10 +137,6 @@ Rev has a few options depending on what you need. If you want to record phone ca
 
 Plus, Rev offers AI-supported [transcription](https://www.rev.com/pricing) of your recordings for $0.25 per minute, or you can have a human professionally transcribe your recording for $1.50 per minute. Once you download your file, it will appear as an MP3 file on your device. This is a great option for recording phone calls and narrating screen recordings. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Google Voice
 
 The Google Voice [app for iOS](https://apps.apple.com/us/app/google-voice/id318698524) lets you make free and recorded calls using Wi-Fi via Google Voice. If you have a personal Google account, you can [only record incoming calls](https://support.google.com/voice/answer/115083?hl=en&co=GENIE.Platform%3DiOS#zippy=%2Crecord-a-call), and they must come to your Google Voice number. If you have a Google Workspace account through work or school, you'll have more recording capabilities, but you'll need to obtain the proper [Google Voice license](https://support.google.com/a/answer/9229433).
@@ -146,7 +146,7 @@ You can select the device from which you want to initiate a call via the app. Fo
 Once everyone is on the call, press the number four (4) on the keypad to start and end the recording. The call will end up in the record menu option after it ends. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easy Voice Recorder
@@ -158,7 +158,7 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -168,10 +168,6 @@ As the name suggests, this app is designed for users to be able to whip out thei
 Federal law requires at least one party's consent, which means that you need to be part of the conversation you're recording or have the consent of at least one person in the conversation. Otherwise, the recording can be construed as wiretapping or illegal eavesdropping. Some states have even stricter laws that require the consent of all people involved in the conversation.
 
 Before recording a conversation, [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22check%22%7D) your state laws. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is there an app to record calls on iPhone?
 
@@ -184,6 +180,10 @@ Alternatively, you can use most mic-equipped computers or tablets to record phon
 ## Does Apple have an app to record iPhone calls?
 
 Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but there are third-party apps available on the [App Store](https://www.apple.com/app-store/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.apple.com/app-store/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22App%20Store%22%7D). Also, Voice Memos is most likely automatically installed on your iOS device. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Does screen recording on iPhone record my call?
 
@@ -223,24 +223,20 @@ The Voice Memos app can record for an unlimited amount of time as long as you ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ratis-design-elements-for-youtube-channel/"><u>[New] Gratis Design Elements for YouTube Channel</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1716069674936-updated-using-inbuilt-recorders-for-screen-capture-on-huaweis-mate-and-p-series-devices-for-2024/"><u>[Updated] Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices. For 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/0x80073712-error-code-in-windows-11-solved/"><u>0X80073712 Error Code in Windows 11 [SOLVED]</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-customize-with-confidence-google-pixel-tunes/"><u>2024 Approved Customize with Confidence Google Pixel Tunes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-switch-from-youtube-thumbnail-view-to-live-stream/"><u>2024 Approved Switch From YouTube Thumbnail View to Live Stream</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-ea-play-hits-for-sony-console/"><u>Exclusive EA Play Hits for Sony Console</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-photo-mystery-why-your-gallery-wont-free-up-and-what-you-can-do-about-it/"><u>IPhone Photo Mystery: Why Your Gallery Won't Free Up, and What You Can Do About It</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolving-the-issue-fixing-windows-1011-camera-error-code-0xa00f4244/"><u>Resolving the Issue: Fixing Windows 10/11 Camera Error Code 0xA00F4244</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-digital-art-with-dall-e-3-eight-expertly-chosen-prompt-ideas/"><u>Revolutionize Your Digital Art with DALL-E 3: Eight Expertly Chosen Prompt Ideas</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-ai-dialogue-uncover-the-top-5-chatgpt-custom-strategies/"><u>Revolutionizing AI Dialogue: Uncover the Top 5 ChatGPT Custom Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/siri-or-chatgpt-uncover-the-intrinsic-qualities-that-distinguish-each-assistant/"><u>Siri or ChatGPT? Uncover the Intrinsic Qualities That Distinguish Each Assistant</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/steer-clear-of-the-dangerous-google-bard-app-its-infected-with-viruses/"><u>Steer Clear of the Dangerous Google Bard App – It's Infected with Viruses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/supercharge-your-workday-with-top-8-ai-driven-chrome-tools/"><u>Supercharge Your Workday with Top 8 AI-Driven Chrome Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/synergy-in-silicon-bots-tasked-with-equal-creativity-goals/"><u>Synergy in Silicon: Bots Tasked with Equal Creativity Goals</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tapping-into-dream-careers-with-artificial-intelligence/"><u>Tapping Into Dream Careers with Artificial Intelligence</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/teredos-struggle-in-sports-an-analysis-of-non-qualification-factors/"><u>Teredo's Struggle in Sports: An Analysis of Non-Qualification Factors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-art-of-communicating-with-ai-five-steps-to-perfect-your-chatgpt-requests-and-boost-replies/"><u>The Art of Communicating with AI: Five Steps to Perfect Your ChatGPT Requests and Boost Replies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-menace-of-fraudgpt-securing-your-cyber-domain/"><u>The Menace of FraudGPT: Securing Your Cyber Domain</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-tutorial-from-webp-to-jpeg/"><u>Ultimate Tutorial From WebP to JPEG</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-achieve-excellence-in-fb-video-marketing-essential-free-kit-included-for-2024/"><u>[New] Achieve Excellence in FB Video Marketing - Essential FREE Kit Included for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-zooctorial-template-goldmine-for-2024/"><u>[New] Zooctorial Template Goldmine for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-gain-more-loyal-viewers-unlock-top-strategies-for-enhancing-viewer-retention-on-youtube/"><u>[Updated] In 2024, Gain More Loyal Viewers Unlock Top Strategies for Enhancing Viewer Retention on YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-of-these-9-phony-chatgpt-clones-how-they-might-pillage-your-privacy/"><u>Beware of These 9 Phony ChatGPT Clones: How They Might Pillage Your Privacy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/busting-myths-around-truthgpt-currency/"><u>Busting Myths Around TruthGPT Currency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-revolutionizing-office-writing-the-new-norm-in-word/"><u>ChatGPT Revolutionizing Office Writing: The New Norm in Word</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dynamic-control-of-windows-11-taskbar-space/"><u>Dynamic Control of Windows 11 Taskbar Space</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-xiaomi-13-ultra-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Xiaomi 13 Ultra Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nokia-c12-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Nokia C12.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improving-user-experience-the-4-ways-we-can-upgrade-chatgpts-plugin-store/"><u>Improving User Experience: The 4 Ways We Can Upgrade ChatGPT's Plugin Store</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-embrace-the-thrill-how-to-engage-in-tiktok-livestreams/"><u>In 2024, Embrace the Thrill How to Engage in TikTok Livestreams</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-top-five-transformative-facebook-traits/"><u>In 2024, Unlocking Top Five Transformative Facebook Traits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/penning-perils-identifying-ai-assisted-texts-in-literature/"><u>Penning Perils: Identifying AI-Assisted Texts in Literature</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-a-frozen-dashboard-in-windows/"><u>Reviving a Frozen Dashboard in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-interview-preparation-with-ai-chatgpt/"><u>Revolutionizing Interview Preparation with AI: ChatGPT</u></a></li>
 </ul></div>
 

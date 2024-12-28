@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Doc Potential on macOS with Craft: Expert Usage Techniques Revealed"
-date: 2024-12-15T16:40:03.908Z
-updated: 2024-12-23T00:45:46.858Z
+date: 2024-12-23T20:01:09.063Z
+updated: 2024-12-27T17:04:13.062Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,17 +129,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-social-scrutiny-who-felt-the-glance-on-your-insta-image/"><u>[Updated] Social Scrutiny Who Felt the Glance on Your Insta Image?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1726226731192-mp3-mp4-movavi/"><u>立即開始 MP3 和 MP4 格式轉換 - 無限制的 Movavi 免費服務</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-upgrade-the-leading-8-chrome-plugins-to-supercharge-productivity/"><u>AI Upgrade: The Leading 8 Chrome Plugins to Supercharge Productivity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/are-there-any-safety-concerns-with-using-chatgpt/"><u>Are There Any Safety Concerns with Using ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/assessing-chatgpts-effect-on-online-anonymity/"><u>Assessing ChatGPT's Effect on Online Anonymity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-efficiency-in-human-resources-discover-5-game-changing-chatgpt-shortcuts/"><u>Boost Efficiency in Human Resources: Discover 5 Game-Changing ChatGPT Shortcuts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-reducing-windows-10s-memory-overuse-problem/"><u>Effective Solutions for Reducing Windows 10'S Memory Overuse Problem</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-guide-fixing-the-d3dx924dll-error-when-it-cant-be-located/"><u>Expert Guide: Fixing the 'D3DX9_24.DLL' Error When It Can't Be Located</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/faster-downloads-every-time-a-windows-guide-to-valorant-speed/"><u>Faster Downloads Every Time: A Windows Guide to Valorant Speed</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-monetization-mastery-unleashing-earnings-from-your-online-content/"><u>In 2024, Monetization Mastery Unleashing Earnings From Your Online Content</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/new-documents-fast-track-feature-via-system-icon-advanced-emeditor-software-suite/"><u>New Documents Fast Track Feature via System Icon - Advanced EmEditor Software Suite</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pixels-of-hilarity-with-adobe-tools-for-2024/"><u>Pixels of Hilarity with Adobe Tools for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-maximize-youtube-income-insights-and-techniques/"><u>[New] In 2024, Maximize Youtube Income Insights and Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-cutting-edge-approaches-for-iphoneipad-screen-capture/"><u>2024 Approved Cutting-Edge Approaches for iPhone/iPad Screen Capture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvd-conversion-and-ripping-mastery-on-windows-11-with-macx-pro-bundle-full-featured-multimedia-toolkit/"><u>DVD Conversion & Ripping Mastery on Windows 11 with MacX Pro Bundle – Full-Featured Multimedia Toolkit</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-health-management-explore-8-key-chatgpt-integrations-for-wellbeing/"><u>Elevate Health Management: Explore 8 Key ChatGPT Integrations for Wellbeing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-advice-optimizing-chatgpt-responses-through-five-key-user-inputs/"><u>Expert Advice: Optimizing ChatGPT Responses Through Five Key User Inputs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-power-of-personalization-with-openais-gpt-store/"><u>Explore the Power of Personalization with OpenAI's GPT Store</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-every-aspect-of-apples-ai-innovations-revealed-during-wwdc-2024-presentation/"><u>Exploring Every Aspect of Apple’s AI Innovations Revealed During WWDC 2024 Presentation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-gpt-4-amidst-verified-social-landscape/"><u>Exploring GPT-4 Amidst Verified Social Landscape</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-progressive-enhancements-in-ai-comparing-openais-gpt-series/"><u>Exploring Progressive Enhancements in AI: Comparing OpenAI's GPT Series</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-beta-to-breakthrough-an-analytical-comparison-across-all-versions-of-openais-revolutionary-generative-pre-trained-transformer-models-gpt-1-to-gpt-4/"><u>From Beta to Breakthrough: An Analytical Comparison Across All Versions of OpenAI's Revolutionary Generative Pre-Trained Transformer Models (GPT-1 to GPT- 4)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-words-to-visuals-harnessing-the-power-of-dall-e-and-chatgpt-4-for-ai-creations/"><u>From Words to Visuals: Harnessing the Power of DALL-E & ChatGPT-4 for AI Creations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-lava-yuva-3-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Lava Yuva 3 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-best-10-chinese-video-to-english-translator/"><u>New In 2024, Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-combining-audio-and-video-tracks-using-ffmpeg/"><u>Step-by-Step Guide: Combining Audio & Video Tracks Using FFmpeg</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-selection-of-frames-for-professional-ig-artistry/"><u>The Ultimate Selection of Frames for Professional IG Artistry</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-wireless-power-banks-of-2024-comprehensive-review-by-tech-gurus-zdnet/"><u>Top-Rated Wireless Power Banks of 2024 - Comprehensive Review by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/updating-intel-82579lm-on-windows-for-enhanced-device-functionality/"><u>Updating Intel 82579LM on Windows for Enhanced Device Functionality</u></a></li>
 </ul></div>
 

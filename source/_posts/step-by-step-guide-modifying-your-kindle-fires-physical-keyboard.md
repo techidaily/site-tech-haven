@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Modifying Your Kindle Fire's Physical Keyboard"
-date: 2024-08-20T11:53:38.591Z
-updated: 2024-08-21T11:53:38.591Z
+date: 2024-12-24T07:04:25.019Z
+updated: 2024-12-27T23:04:28.463Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807eeb04dedcab0ba4e1aebe611.jpg
@@ -9,13 +9,15 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 
 ## Step-by-Step Guide: Modifying Your Kindle Fire's Physical Keyboard
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change Kindle Fire Keyboard
 
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 4/15/2020 3:36:45 PM.
 
 4.8 [(8 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -43,6 +45,10 @@ There are many good keyboard apps. I choose the **ICS keyboard**. It's the origi
 
 ![ics-keyboard](https://www.epubor.com/images/remote/D4/1D/D41D8C_2-ics-keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3 Move keyboard app to system directory 
 
 In this step we need to copy the keyboard app to system directory so that Kindle Fire could "recognize" it. You need a file manager. Here I choose the ES File Explorer. You can download it from the Amazon Kindle App store.
@@ -63,11 +69,19 @@ Reboot your Kindle Fire and navigate to _**/system/app**_ again. Find the ICS ke
 
 ![reinstall-keyboard-app](https://www.epubor.com/images/remote/D4/1D/D41D8C_6-reinstall-keyboard-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now go to anywhere you will use keyboard. Let's take the search box on the home page fox example. Tap the search box and you just see the original Kindle Fire keyboard as usual. Press the white search box and a small window will pop up to let you choose the input method. Tap the "Input Method" and you will see the ICS keyboard. Tap to choose it. Then you can see the keyboard has changed into ICS keyboard!
 
 ![search-box](https://www.epubor.com/images/remote/D4/1D/D41D8C_7-search-box.jpg)
 
 ![input-method](https://www.epubor.com/images/remote/D4/1D/D41D8C_8-input-method.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![choose-ics-keyboard](https://www.epubor.com/images/remote/D4/1D/D41D8C_9-choose-ics-keyboard.jpg)
 
@@ -83,6 +97,10 @@ Not all keyboard apps have this problem. I guess it's the incompatibility. How t
 
 ![author](https://www.epubor.com/images/uppic/jonny.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -90,8 +108,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 8 Comments
 
@@ -201,8 +217,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,8 +224,24 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-explore-the-world-of-frames-5-free-youtube-tips-for-you/"><u>[New] In 2024, Explore the World of Frames 5 Free YouTube Tips for You</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unraveling-the-benefits-of-rapid-youtube-subscription/"><u>[Updated] Unraveling the Benefits of Rapid YouTube Subscription</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-navigating-screen-space-enlargement-on-youtube/"><u>2024 Approved Navigating Screen Space Enlargement on YouTube</u></a></li>
+<li><a href="https://win-updates.techidaily.com/samsung-ssd-860-evo/"><u>本物Samsung SSD 860 EVOクローンを簡単にダウンロードする方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-creative-domain-who-holds-the-title/"><u>AI's Creative Domain: Who Holds The Title?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/anticipating-chatgpt-desktop-launch-explore-an-exceptional-open-source-option-now/"><u>Anticipating ChatGPT Desktop Launch? Explore an Exceptional Open-Source Option Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-expensive-ai-solutions-effective-enough-to-warrant-their-price-tag/"><u>Are Expensive AI Solutions Effective Enough to Warrant Their Price Tag?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-pricier-prompts-merely-premium-fluff/"><u>Are Pricier Prompts Merely Premium Fluff?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-conversational-basics-the-future-prospects-for-cutting-edge-generative-ai-and-bot-interactions/"><u>Beyond Conversational Basics: The Future Prospects for Cutting-Edge Generative AI & Bot Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-productivity-with-these-three-tips-on-chatgpt-wolfram-plugin-usage/"><u>Boost Productivity with These Three Tips on ChatGPT-Wolfram Plugin Usage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-wellness-routine-with-these-8-powerful-chatgpt-plugins/"><u>Boost Your Wellness Routine with These 8 Powerful ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/building-an-ai-conversationalist-from-scratch-with-your-organizations-data/"><u>Building an AI Conversationalist From Scratch with Your Organization's Data</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cloud-price-wars-best-value-allocation-for-2024/"><u>Cloud Price Wars Best Value Allocation for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-notable-sites-elevating-youtube-videography/"><u>In 2024, Notable Sites Elevating YouTube Videography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-pro-top-notch-free-tool-for-converting-m2ts-videos-to-compatible-formats-on-a-mac-computer/"><u>MacX Pro: Top-Notch Free Tool for Converting M2TS Videos to Compatible Formats on a Mac Computer</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/shutter-smarts-expert-tips-for-photo-enhancement/"><u>Shutter Smarts Expert Tips for Photo Enhancement</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-canon-mg2900-with-new-drivers-quick-guide-to-free-downloads/"><u>Update Your Canon MG2900 with New Drivers - Quick Guide to Free Downloads</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

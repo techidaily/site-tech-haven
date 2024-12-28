@@ -1,7 +1,7 @@
 ---
 title: "IPhone Discoverability Alert: Journals Can Expose You by Default - Learn To Turn Off This Feature"
-date: 2024-12-18T19:18:21.797Z
-updated: 2024-12-22T19:02:16.774Z
+date: 2024-12-26T16:00:10.706Z
+updated: 2024-12-28T16:00:29.009Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to disable Apple Journal's 'Discoverable by Others' setting
@@ -61,7 +61,7 @@ Scroll down and open Privacy & Security within your Apple device's Settings app.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Tap on Journaling Suggestions
@@ -69,10 +69,6 @@ Maria Diaz/ZDNET
 Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverable by Others" setting will be enabled until you disable it.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
 
@@ -82,10 +78,14 @@ Maria Diaz/ZDNET
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **FAQ**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where is the Journal app on iOS 17?
@@ -93,7 +93,7 @@ Maria Diaz/ZDNET
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
@@ -148,17 +148,19 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-achieve-creative-vibrancy-with-picshots-assistance/"><u>[New] Achieve Creative Vibrancy with Picshot's Assistance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guide-to-websites-specializing-in-customized-text-aesthetics/"><u>[New] Guide to Websites Specializing in Customized Text Aesthetics</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-best-screen-recorder-for-chrome-devices/"><u>[New] In 2024, Best Screen Recorder for Chrome Devices</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-redefine-gaming-radeons-latest-release-for-2024/"><u>[New] Redefine Gaming Radeon's Latest Release for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-unveiling-this-years-most-engaging-storytelling-youtubers-for-2024/"><u>[New] Unveiling This Year's Most Engaging Storytelling YouTubers for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-insights-into-apples-ai-innovations-from-the-latest-wwdc-event/"><u>Comprehensive Insights Into Apple's AI Innovations From the Latest WWDC Event</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/critical-alert-avoid-these-9-imitation-chatgpt-malware-tools-poised-to-steal-your-personal-data/"><u>Critical Alert: Avoid These 9 Imitation ChatGPT Malware Tools Poised to Steal Your Personal Data</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-the-paperclip-maximization-issue-the-intersection-between-ai-goals-and-human-values/"><u>Deciphering the Paperclip Maximization Issue: The Intersection Between AI Goals and Human Values</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-new-era-of-search-microsofts-ai-powered-bing-transformation/"><u>Discover the New Era of Search: Microsoft’s AI-Powered Bing Transformation</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-sony-xperia-1-v-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Sony Xperia 1 V Phone | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/permanent-data-erasure-solutions-discover-the-top-7-secure-deletion-strategies/"><u>Permanent Data Erasure Solutions: Discover the Top 7 Secure Deletion Strategies</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-control-of-apple-tv-remotes-steps-for-connection-management-and-factory-restore/"><u>Ultimate Control of Apple TV Remotes: Steps for Connection Management & Factory Restore</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-streaming-twitter-videos-on-snapchat-platform/"><u>[New] In 2024, Streaming Twitter Videos on Snapchat Platform</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-quick-guide-how-to-revamp-facebook-profile-imagery/"><u>[New] Quick Guide How to Revamp Facebook Profile Imagery</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-revolutionizing-online-learning-with-zooms-transformative-tools/"><u>[New] Revolutionizing Online Learning with Zoom's Transformative Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-2023-guide-to-best-in-class-professionals-spinning-cameras-for-2024/"><u>[New] The 2023 Guide to Best-in-Class Professionals' Spinning Cameras for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-capture-the-essence-of-movement-in-iphone-photography/"><u>[Updated] In 2024, Capture the Essence of Movement in iPhone Photography</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-vr-unveiled-understanding-the-digital-illusion/"><u>[Updated] VR Unveiled Understanding the Digital Illusion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audience-favorites-screenplays-of-varied-genres/"><u>Audience Favorites Screenplays of Varied Genres</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-uncovered-the-art-of-ai-driven-creativity/"><u>ChatGPT Uncovered: The Art of AI-Driven Creativity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deception-by-design-google-barda-malware-masked-as-an-update/"><u>Deception by Design? Google Bard—A Malware Masked As An Update</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-gpt-4-the-inclusive-blueprint/"><u>Demystifying GPT-4: The Inclusive Blueprint</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-5-innovative-ai-applications-and-bots-that-serve-as-virtual-psychologists/"><u>Discover 5 Innovative AI Applications and Bots That Serve as Virtual Psychologists</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-vintage-visionaries-digitize-your-photos-into-videos/"><u>In 2024, Vintage Visionaries Digitize Your Photos Into Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-storytelling-with-chatgpt-a-six-step-approach-for-authors/"><u>Innovative Storytelling with ChatGPT: A Six-Step Approach for Authors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Making It Easier for iOS Users to Switch to Android - Apple's New Initiative | CNET News"
-date: 2024-12-21T22:25:13.691Z
-updated: 2024-12-22T21:21:22.145Z
+date: 2024-12-23T23:46:48.089Z
+updated: 2024-12-27T17:27:04.608Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -37,10 +37,6 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -67,7 +63,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -87,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -97,6 +93,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,22 +158,16 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-a-guide-to-excellent-live-cricket-online-watch-for-2024/"><u>[New] A Guide to Excellent Live Cricket Online Watch for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/onvert-and-edit-wonders-10-best-youtube-tools-feat-audio/"><u>[New] Convert & Edit Wonders 10 Best YouTube Tools Feat. Audio</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-artfully-diminish-image-details/"><u>[New] How to Artfully Diminish Image Details</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-redefining-digital-space-alternative-video-hosting-sites/"><u>2024 Approved Redefining Digital Space Alternative Video Hosting Sites</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expand-your-horizons-with-chatgpt-learning-its-usage-across-various-languages/"><u>Expand Your Horizons with ChatGPT - Learning Its Usage Across Various Languages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-insights-harnessing-chatgpts-capabilities-via-its-api/"><u>Expert Insights: Harnessing ChatGPT's Capabilities via Its API</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-strategies-for-maximizing-efficiency-in-anthropics-revamped-prompt-store-the-claude-3-revolution/"><u>Expert Strategies for Maximizing Efficiency in Anthropic's Revamped Prompt Store: The Claude 3 Revolution</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/file-analysis-at-your-fingertips-top-6-chatgpt-apps/"><u>File Analysis at Your Fingertips: Top 6 ChatGPT Apps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-dataset-to-dialogue-building-a-unique-bot/"><u>From Dataset to Dialogue: Building a Unique Bot</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/googles-latest-gemini-ai-vs-chatgpt-an-in-depth-comparison/"><u>Google's Latest Gemini AI Vs. ChatGPT - An In-Depth Comparison</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpt-plus-vs-perplexity-the-ultimate-ai-battle/"><u>GPT Plus Vs. Perplexity: The Ultimate AI Battle</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-4-free-and-open-to-all-yet-premium-users-reap-rewards-from-platinums-unparalleled-experience/"><u>GPT-4: Free and Open to All; Yet Premium Users Reap Rewards From Platinum's Unparalleled Experience.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-tailoring-secure-exercise-routines-for-personal-goals/"><u>GPT: Tailoring Secure Exercise Routines for Personal Goals</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-8-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 8 Plus Unavailable Issue With Ease</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-tips-to-mastering-the-art-of-hashtag-creation-on-youtube/"><u>In 2024, Top Tips to Mastering the Art of Hashtag Creation on YouTube</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/innovative-templates-for-stellar-youtube-video-decks/"><u>Innovative Templates for Stellar YouTube Video Decks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/value-meets-functionality-in-our-in-depth-review-of-the-mohu-leaf-30-tv-antenna/"><u>Value Meets Functionality in Our In-Depth Review of the Mohu Leaf 30 TV Antenna</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-funimate-video-mastery-a-comprehensible-guide/"><u>[New] 2024 Approved Funimate Video Mastery A Comprehensible Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-fuzzy-frames-to-sharpness-the-v22-journey/"><u>[New] From Fuzzy Frames to Sharpness - The V2.2 Journey</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-erase-unwanted-black-fringes-on-youtube-tracks/"><u>[New] In 2024, Erase Unwanted Black Fringes on YouTube Tracks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-best-way-to-perform-obs-streaming/"><u>[Updated] In 2024, Best Way to Perform OBS Streaming</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/benchmarking-brilliance-in-ai-which-chatbot-excels-at-replicating-human-creativity/"><u>Benchmarking Brilliance in AI: Which Chatbot Excels at Replicating Human Creativity?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-fitness-journey-with-these-8-powerful-chatgpt-add-ons/"><u>Boost Your Fitness Journey with These 8 Powerful ChatGPT Add-Ons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-tips-personalizing-your-next-movie-or-show-selection/"><u>ChatGPT Tips: Personalizing Your Next Movie or Show Selection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-updates-benefits-for-all-individuals/"><u>ChatGPT Updates: Benefits for All Individuals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/clear-and-bright-optimizing-visuals-in-zoom-calls/"><u>Clear and Bright Optimizing Visuals in Zoom Calls</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-se-2022-activation-lock-primer-by-drfone-ios-unlock-ios-unlock/"><u>iPhone SE (2022) activation lock primer</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-auditory-explorers-manual-crafting-unique-sounds-and-ringtones-for-android-users/"><u>The Auditory Explorer's Manual Crafting Unique Sounds & Ringtones for Android Users</u></a></li>
 </ul></div>
 

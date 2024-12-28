@@ -1,7 +1,7 @@
 ---
 title: "Crafting a Unique Chatbot Experience: Utilizing Personal Data for Your Custom GPT Creation"
-date: 2024-08-16T12:42:57.372Z
-updated: 2024-08-17T12:42:57.372Z
+date: 2024-12-27T07:13:00.845Z
+updated: 2024-12-28T07:09:19.478Z
 tags:
   - chatgpt
   - open-ai
@@ -21,18 +21,6 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -45,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -59,21 +44,23 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
  Developer[Lencx's open source ChatGPT](https://github.com/lencx/ChatGPT) gives you the option to try a desktop version right now, without waiting. It's a website wrapper that runs on Windows, macOS, and Linux, so it's a little basic, but it replicates the functionality of the website, and does a really good job, too.
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -85,8 +72,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Is the Official ChatGPT Desktop Version Launching?
 
  The official ChatGPT Desktop app is already slowly rolling out to macOS users.
@@ -95,14 +87,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,4 +100,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-complete-process-of-video-recording-and-editing-on-adobe-connect/"><u>[New] 2024 Approved The Complete Process of Video Recording & Editing on Adobe Connect</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-clean-slates-mastering-the-eraser-tool-in-photoshop/"><u>[New] Clean Slates Mastering the Eraser Tool in Photoshop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-effortless-recording-of-netflix-a-step-by-step-guide/"><u>[Updated] 2024 Approved Effortless Recording of Netflix A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-visual-virtuosity-unleashed-professional-tips-to-elevate-your-photos/"><u>[Updated] 2024 Approved Visual Virtuosity Unleashed Professional Tips to Elevate Your Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-9gag-pathway-to-piling-up-popular-memes-for-2024/"><u>[Updated] The 9GAG Pathway to Piling Up Popular Memes for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-keep-the-best-of-facebook-in-super-hd-quality/"><u>2024 Approved Keep the Best of Facebook in Super HD Quality</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-full-screen-capture-excellence-4-leading-pcmac-programs/"><u>In 2024, Full Screen Capture Excellence 4 Leading PC/Mac Programs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/scrutinizing-expenses-on-top-tier-ai-service-provisioning/"><u>Scrutinizing Expenses on Top-Tier AI Service Provisioning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlining-office-communication-with-chatgpt-a-guide-to-composing-tough-emails-effortlessly/"><u>Streamlining Office Communication with ChatGPT: A Guide to Composing Tough Emails Effortlessly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-risk-of-leveraging-ai-language-models-like-chatgpt-for-malware-generation/"><u>The Risk of Leveraging AI Language Models Like ChatGPT for Malware Generation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-list-of-mac-screen-capture-software-for-2024/"><u>The Ultimate List of Mac Screen Capture Software for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-advanced-llms-the-pinnacle-of-ai-conversational-models/"><u>Top 6 Advanced LLMs: The Pinnacle of AI Conversational Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-chatgpt-extensions-why-they-might-not-be-worth-investing-in/"><u>Top 6 ChatGPT Extensions: Why They Might Not Be Worth Investing In</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-revolutionary-ai-applications-for-mastering-mathematical-challenges/"><u>Top 7 Revolutionary AI Applications for Mastering Mathematical Challenges</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-strategies-leveraging-chatgpt-to-enhance-your-company/"><u>Top 8 Strategies: Leveraging ChatGPT to Enhance Your Company</u></a></li>
+</ul></div>
 

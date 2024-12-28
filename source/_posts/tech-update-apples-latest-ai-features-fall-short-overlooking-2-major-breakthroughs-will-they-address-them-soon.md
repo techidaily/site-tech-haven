@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Apple's Latest AI Features Fall Short, Overlooking 2 Major Breakthroughs - Will They Address Them Soon?"
-date: 2024-11-24T16:11:05.272Z
-updated: 2024-11-28T16:10:22.392Z
+date: 2024-12-24T16:01:16.202Z
+updated: 2024-12-28T16:03:19.636Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,18 +191,19 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigating-gopro-livestreams-to-popular-channels-facebook-and-periscope/"><u>[New] In 2024, Navigating GoPro Livestreams to Popular Channels (Facebook & Periscope)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-full-spectrum-maximizing-story-linking/"><u>[Updated] Facebook's Full Spectrum Maximizing Story Linking</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigating-the-clouds-and-crowds-stream-from-dji-to-facebook/"><u>2024 Approved Navigating the Clouds and Crowds Stream From DJI to Facebook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/in-depth-look-at-googles-gemini-advancing-the-frontiers-of-ai-research/"><u>In-Depth Look at Google's Gemini: Advancing the Frontiers of AI Research</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-economically-sensible-to-opt-for-high-quality-artificial-intelligence-prompts/"><u>Is It Economically Sensible to Opt for High-Quality Artificial Intelligence Prompts?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-cutting-edge-technology-using-microsofts-bing-app-on-android/"><u>Leveraging Cutting-Edge Technology: Using Microsoft's Bing App on Android</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-output-a-guide-to-using-canva-and-chatgpt-for-high-volume-designs/"><u>Maximize Output: A Guide to Using Canva & ChatGPT for High Volume Designs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-virtual-meetings-leveraging-chatgpt-for-efficient-team-collaboration/"><u>Maximizing Virtual Meetings: Leveraging ChatGPT for Efficient Team Collaboration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/misguided-treatment-the-five-pitfalls-of-using-chatgpt-for-your-health-questions/"><u>Misguided Treatment? The Five Pitfalls of Using ChatGPT for Your Health Questions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/os-melhores-ferramentas-publicas-top-9-para-a-criacao-de-discos-oticos-em-computadores-desktopportatil/"><u>Os Melhores Ferramentas Públicas Top 9 Para a Criação De Discos Óticos Em Computadores Desktop/Portátil</u></a></li>
-<li><a href="https://driver-download.techidaily.com/solution-steps-overcoming-samsung-multi-function-device-drivers-troubles-with-windows/"><u>Solution Steps: Overcoming Samsung Multi-Function Device Drivers' Troubles with Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-pinnacle-of-participation-chronicling-the-most-upvoted-posts-on-reddit-for-2024/"><u>The Pinnacle of Participation Chronicling the Most Upvoted Posts on Reddit for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-troubleshoot-helldivers-2-pc-issues/"><u>Ultimate Guide to Troubleshoot Helldivers 2 PC Issues</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-converting-spotify-playlist-content-for-youtube-music-compatibility/"><u>[New] Converting Spotify Playlist Content for YouTube Music Compatibility</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-permitted-recording-youtube-video-screenshots/"><u>[Updated] 2024 Approved Permitted Recording YouTube Video Screenshots?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-blended-vocalists-one-platform-at-a-time/"><u>[Updated] Blended Vocalists, One Platform at a Time</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-comprehensive-guide-for-digital-video-photo-effects-application/"><u>[Updated] Comprehensive Guide for Digital Video Photo Effects Application</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-vpn-for-school-to-unblock-websites/"><u>Best VPN for School to Unblock Websites</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-gaming-speed-ultimate-tricks-for-enhancing-game-performance-on-pc/"><u>Boost Your Gaming Speed: Ultimate Tricks for Enhancing Game Performance on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-performance-in-godfall-effective-tactics-to-improve-gameplay-speed/"><u>Boosting Performance in Godfall: Effective Tactics to Improve Gameplay Speed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-guide-to-managing-web-cookies-across-multiple-browsers-on-your-windows-11-pc-chrome-firefox-opera-and-edge-included/"><u>Complete Guide to Managing Web Cookies Across Multiple Browsers on Your Windows 11 PC - Chrome, Firefox, Opera and Edge Included</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-entry-into-windows-11-advanced-boot-settings-a-step-by-step-tutorial/"><u>Effortless Entry Into Windows 11 Advanced Boot Settings - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-methods-for-disconnecting-microsoft-account-on-windows-10-system/"><u>Effortless Methods for Disconnecting Microsoft Account on Windows 10 System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apple-envisions-the-role-of-ai-and-robots-in-shaping-our-living-spaces-an-insight-into-tomorrows-home-assistants/"><u>How Apple Envisions the Role of AI and Robots in Shaping Our Living Spaces - An Insight Into Tomorrow's Home Assistants</u></a></li>
+<li><a href="https://win-able.techidaily.com/speeding-up-your-chrome-in-no-time-expert-tips-and-tricks/"><u>Speeding Up Your Chrome in No Time - Expert Tips and Tricks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317492-9781848502338-through-my-eyes/"><u>Through My Eyes | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-fix-baldurs-gate-iii-failed-startup/"><u>Troubleshooting Tips: How to Fix Baldur's Gate III Failed Startup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Avoid Wasting Money on iPhone 16 - Understanding Apple's Tech Capabilities | ZDNet
-date: 2024-12-16T23:13:58.137Z
-updated: 2024-12-22T19:21:10.067Z
+date: 2024-12-26T16:00:18.445Z
+updated: 2024-12-28T16:00:10.451Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -46,16 +50,12 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -66,7 +66,7 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
@@ -76,6 +76,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -95,13 +99,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -118,10 +122,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,24 +157,16 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-photo-perfection-in-pixels-a-compreran-guide-to-polarrs-features/"><u>[New] 2024 Approved Photo Perfection in Pixels A Compreran Guide to Polarr’s Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hasten-haste-in-videos-with-top-apps-android/"><u>[New] Hasten Haste in Videos with Top Apps, Android</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unlocking-the-vault-of-online-videos-via-facebook/"><u>[New] In 2024, Unlocking the Vault of Online Videos via Facebook</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm44or44k944kz44oz5lik44gn57ch5y2y44gq44ot44oh44kq5yplusn6lui5lplusu5q2j44og44kv44ol44od44kv44cn/"><u>「パソコン上で簡単なビデオ反転修正テクニック」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-hr-tasks-with-ai-guidance/"><u>Augmenting HR Tasks with AI Guidance</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-hp-15-with-amd-processor-comprehensive-review-and-performance-analysis/"><u>Budget-Friendly HP 15 with AMD Processor: Comprehensive Review & Performance Analysis</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/correcting-time-jumps-fixing-obs-studio-problems/"><u>Correcting Time Jumps Fixing OBS Studio Problems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-utilize-chatgpt-in-building-and-deploying-your-personalized-web-application/"><u>How to Utilize ChatGPT in Building and Deploying Your Personalized Web Application</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-chatgpt-powering-a-future-shaped-by-generative-ai/"><u>Inside ChatGPT: Powering a Future Shaped by Generative AI</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/invisistorytelling-the-complete-guide-for-stealthy-sharing/"><u>InvisiStorytelling The Complete Guide for Stealthy Sharing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leading-open-source-platforms-for-creating-ai-powered-visual-content/"><u>Leading Open-Source Platforms for Creating AI-Powered Visual Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-artificial-minds-gpt-4-emergence/"><u>Mastering Artificial Minds: GPT-4 Emergence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-career-goals-using-chatgpt/"><u>Navigating Career Goals Using ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-languages-effortlessly-how-chatgpt-serves-as-your-personal-translation-assistant/"><u>Navigating Languages Effortlessly: How ChatGPT Serves as Your Personal Translation Assistant</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/personalized-screenplays-with-chatgpt-assistance/"><u>Personalized Screenplays with ChatGPT Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-company-8-essential-uses-of-chatgpt/"><u>Revolutionize Your Company: 8 Essential Uses of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/separating-sentence-of-science-from-online-healers-claims/"><u>Separating Sentence of Science From Online Healers' Claims</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unveiling-the-secrets-of-turko-korean-relationship/"><u>Unveiling the Secrets of Turko-Korean Relationship</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlimited-access-to-creative-mcb-resources/"><u>[Updated] Unlimited Access to Creative MCB Resources</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-20-free-public-license-pubg-gallery-mixes/"><u>2024 Approved Best 20 Free Public License PUBG Gallery Mixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-academic-achievement-how-students-can-benefit-from-chatgpt-5-key-methods/"><u>Boost Academic Achievement: How Students Can Benefit From ChatGPT (5 Key Methods)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/capture-more-than-memories-adding-fun-filters-to-snaps/"><u>Capture More Than Memories Adding Fun Filters to Snaps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-insights-elevating-soundscapes-in-daws/"><u>ChatGPT Insights: Elevating Soundscapes in DAWs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-tips-for-embarking-on-a-career-in-prompt-design/"><u>Essential Tips for Embarking on a Career in Prompt Design</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-accelerated-scanning-process-for-windows/"><u>In 2024, Accelerated Scanning Process for Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/insignia-10100-mbps-ethernet-to-usb-adapter-driver-download-now/"><u>Insignia 10/100 Mbps Ethernet to USB Adapter Driver - Download Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-gpt-3-with-python-best-practices-and-expert-tips-for-cutting-edge-development/"><u>Integrating GPT-3 with Python: Best Practices and Expert Tips for Cutting-Edge Development</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210450525-9781504068215-sand-and-foam/"><u>Sand and Foam | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-web-designs-using-ai-chatgpt-guide/"><u>Unlocking Potential Web Designs Using AI: ChatGPT Guide</u></a></li>
 </ul></div>
 

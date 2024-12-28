@@ -1,7 +1,7 @@
 ---
 title: "The Next Generation of iPhones: ZDNet Exposes Spatial Recording and Thinner Edges in the Upcoming iPhone 16 Lineup"
-date: 2024-12-18T01:24:47.308Z
-updated: 2024-12-22T19:18:09.730Z
+date: 2024-12-23T16:00:48.827Z
+updated: 2024-12-28T16:00:47.961Z
 tags:
   - apple
 categories:
@@ -45,12 +45,16 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
@@ -61,10 +65,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -72,6 +72,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -91,13 +95,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -108,7 +112,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -118,10 +122,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417993%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417993.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,18 +157,20 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-extensive-insights-deconstructing-the-dji-inspire-1/"><u>[New] Extensive Insights Deconstructing the DJI Inspire 1</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-words-to-voices-scriptwriting-for-successful-podcasts/"><u>[New] From Words to Voices Scriptwriting for Successful Podcasts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-engage-with-mematics-cloud-note-application/"><u>[New] In 2024, Engage with Mematic's Cloud Note Application</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-best-on-action-cameras-with-premium-mics/"><u>[Updated] In 2024, Best On-Action Cameras with Premium Mics</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-strategic-steps-for-pinpointing-a-list-film-creators/"><u>[Updated] Strategic Steps for Pinpointing A-List Film Creators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-trust-chatgpts-responses-are-they-reliable-or-not/"><u>Can You Trust ChatGPT's Responses – Are They Reliable or Not?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-user-persona-development-a-guide-to-superior-results/"><u>ChatGPT and User Persona Development: A Guide to Superior Results</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dissecting-claudes-prowess-the-top-4-ways-it-surpasses-chatgpt/"><u>Dissecting Claude's Prowess: The Top 4 Ways It Surpasses ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/engaging-with-echoes-of-intelligence-gpt-vs-bingbot-overview/"><u>Engaging with Echoes of Intelligence: GPT Vs. BingBot Overview</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-team-workflow-with-onlyoffice-docspace-and-chatgpt-unlocking-new-levels-of-efficiency-in-document-management/"><u>Enhance Team Workflow with ONLYOFFICE DocSpace & ChatGPT: Unlocking New Levels of Efficiency in Document Management</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-a-leap-in-functionality-with-the-chatgpt-desktop-app-why-its-better-than-the-web-version/"><u>Experience a Leap in Functionality with the ChatGPT Desktop App – Why It's Better Than the Web Version</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-magic-5-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor Magic 5 Device</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/spark-interest-drive-engagement-top-30-video-ideas/"><u>Spark Interest, Drive Engagement Top 30 Video Ideas</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-t5-thievery-hd-hands-on-review-for-2024/"><u>[New] T5 Thievery HD Hands-On Review for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-sw320-unveiled-a-deep-dive-into-the-ultimate-4k-screen/"><u>[Updated] 2024 Approved Sw320 Unveiled A Deep Dive Into The Ultimate 4K Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-ways-to-unlock-iphone-se-2020-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Best ways to unlock iPhone SE (2020) screen lock</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-screen-distortion-on-windows-11/"><u>Fixed Screen Distortion on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-chucklechamber-endless-options-to-spread-smiles/"><u>In 2024, ChuckleChamber Endless Options to Spread Smiles</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-gently-reducing-sound-levels-in-operating-systems/"><u>In 2024, Gently Reducing Sound Levels in Operating Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-list-of-premium-ai-tools-enhancing-note-efficiency/"><u>Master List of Premium AI Tools Enhancing Note Efficiency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-rag-seamlessly-merging-generative-ai-large-language-models-into-your-companys-expertise-insights-from-zdnet/"><u>Mastering the Art of RAG: Seamlessly Merging Generative AI Large Language Models Into Your Company's Expertise - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-use-of-claude-2-for-cutting-edge-innovation/"><u>Mastering the Use of Claude 2 for Cutting-Edge Innovation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sidestep-the-lure-of-a-gpt-phone-app/"><u>Sidestep the Lure of a GPT Phone App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fixes-for-the-elusive-coredll-file-not-found-issue/"><u>Step-by-Step Fixes for the Elusive Core.DLL File Not Found Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-mystery-behind-gptbot-and-web-blocking-policies/"><u>The Mystery Behind GPTBot & Web Blocking Policies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-optimal-ai-powered-prompt-creation-tools-for-enhanced-ai-interaction/"><u>Top 5 Optimal AI-Powered Prompt Creation Tools for Enhanced AI Interaction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-elon-musks-latest-project-an-inside-look-at-truthgpt/"><u>Unveiling Elon Musk's Latest Project: An Inside Look at TruthGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-new-horizons-googles-palm-2-elevates-bard-ai/"><u>Unveiling New Horizons: Google's PaLM 2 Elevates Bard AI</u></a></li>
 </ul></div>
 

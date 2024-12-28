@@ -1,7 +1,7 @@
 ---
 title: Maximize Your Apple Watch's Endurance - Top 8 Battery-Saving Tweaks Revealed by ZDNet
-date: 2024-12-18T21:55:44.765Z
-updated: 2024-12-22T21:12:18.891Z
+date: 2024-12-24T01:15:07.786Z
+updated: 2024-12-28T08:19:52.460Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn off the always-on display
@@ -45,6 +45,10 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
 
@@ -61,10 +65,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -85,7 +85,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Turn off irregular heart rate notifications
@@ -93,6 +93,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -111,7 +115,7 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -119,10 +123,6 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,18 +165,18 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-conquer-the-crowd-reach-your-goal-of-1k-insta-admirers-monthly/"><u>[New] Conquer the Crowd Reach Your Goal of 1K Insta Admirers Monthly</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-breaking-personal-barriers-in-yt-content-creation/"><u>[New] In 2024, Breaking Personal Barriers in YT Content Creation</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-simplified-approach-to-decoding-facebook-statistics/"><u>[New] Simplified Approach to Decoding Facebook Statistics</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-art-of-differentiating-real-vs-fake-facebook-likes/"><u>[Updated] In 2024, The Art of Differentiating Real vs Fake Facebook Likes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-11-economical-cameras-for-professional-vloggers/"><u>[Updated] Top 11 Economical Cameras for Professional Vloggers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722157530351-exploring-the-use-of-chatgpt-for-controlling-connected-home-appliances/"><u>Exploring the Use of ChatGPT for Controlling Connected Home Appliances</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-response-time-for-gesture-inputs-in-windows-devices/"><u>Improving Response Time for Gesture Inputs in Windows Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-toms-tech-ultimate-insights-on-computer-hardware/"><u>Inside Tom's Tech: Ultimate Insights on Computer Hardware</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-gpt-5-on-the-horizon-exploring-the-release-timeline/"><u>Is GPT-5 on the Horizon? Exploring the Release Timeline</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/learning-from-human-input-is-chatgpt-able-to-evolve/"><u>Learning From Human Input: Is ChatGPT Able to Evolve?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-ai-chatgpts-strengths-in-7-health-factors/"><u>Leveraging AI: ChatGPT's Strengths in 7 Health Factors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-for-total-life-enhancement/"><u>Mastering ChatGPT for Total Life Enhancement</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-generative-ai-the-7-critical-mistakes-you-should-not-make/"><u>Mastering Generative AI: The 7 Critical Mistakes You Should Not Make</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-removing-unwanted-audio-from-videos-essential-steps-for-2024/"><u>[New] Removing Unwanted Audio From Videos - Essential Steps for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-6-substitutes-best-periscope-rivals-on-mobile-devices/"><u>[New] Top 6 Substitutes Best Periscope Rivals on Mobile Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-public-domain-zen-soundscape/"><u>[Updated] 2024 Approved Public Domain Zen Soundscape</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-quick-fire-methods-to-record-and-save-your-virtual-gatherings-windows-and-mac/"><u>In 2024, Quick-Fire Methods to Record and Save Your Virtual Gatherings (Windows & Mac)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-the-world-of-chatgpt-plus-membership/"><u>Inside the World of ChatGPT Plus Membership</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-chatgpt-more-accurate-at-forecasting-your-destiny-than-traditional-astrology-magazines/"><u>Is ChatGPT More Accurate at Forecasting Your Destiny than Traditional Astrology Magazines?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-blockchain-with-gpt-top-10-chatbot-prompts-revealed/"><u>Mastering Blockchain with GPT: Top 10 Chatbot Prompts Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-productivity-navigating-the-use-of-chatgpt-in-freelancing/"><u>Maximize Your Productivity: Navigating the Use of ChatGPT in Freelancing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mercedes-benzs-latest-tech-feature-conversational-ai-and-voice-control-for-enhanced-driving-experience/"><u>Mercedes-Benz's Latest Tech Feature: Conversational AI and Voice Control for Enhanced Driving Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-generative-ai-an-essential-handbook-for-parents-on-chatgpt-use/"><u>Navigating Generative AI: An Essential Handbook for Parents on ChatGPT Use</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secure-optimal-results-the-latest-intel-gpu-drivers-for-windows-pcs/"><u>Secure Optimal Results: The Latest Intel GPU Drivers for Windows PCs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/mlined-search-for-personalized-song-collection-on-youtube-for-2024/"><u>Streamlined Search for Personalized Song Collection on YouTube for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-distortions-resolving-crackles-with-arctisound-pro-v7-on-a-windows-pc/"><u>Troubleshooting Audio Distortions: Resolving Crackles with ArctiSound Pro v7 on a Windows PC</u></a></li>
 </ul></div>
 

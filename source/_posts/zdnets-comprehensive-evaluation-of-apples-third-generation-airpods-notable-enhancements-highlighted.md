@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Comprehensive Evaluation of Apple's Third-Generation AirPods: Notable Enhancements Highlighted"
-date: 2024-11-21T16:07:15.839Z
-updated: 2024-11-28T16:09:52.503Z
+date: 2024-12-25T16:01:12.925Z
+updated: 2024-12-28T16:02:21.744Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ I've been an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) user
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the best Apple Watch band right now?
 
 After months of wearing different bands during my daily activities and considering the rest of the ZDNET staff's extensive hands-on analysis of watch bands, my pick for the best Apple Watch band overall is [Nomad's Sport Band](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fsubid%255Fvalue%2Fhttps%3A%2F%2Fnomadgoods.com%2Fproducts%2Fsport-band-black) thanks to its comfortable and breathable wear and its numerous color choices, including limited edition drops, for a nice upgrade over the [plain sports band](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWMR3AM%2FA%2F41mm-soft-mint-sport-band-s-m%3F&subId1=subid%5Fvalue) that came with my Apple Watch.
@@ -33,10 +29,6 @@ After months of wearing different bands during my daily activities and consideri
 Not looking for a sport band pick? Don't worry. This list includes options that work perfectly for heavy exercise, swimming, everyday comfort, work, or dressing up. 
 
 **Also:** [**The best Apple Watch Ultra bands of 2024**](https://www.zdnet.com/article/best-apple-watch-ultra-strap/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best Apple Watch bands of 2024
 
@@ -55,11 +47,11 @@ Cons
 * Wish there were more pastel color options
 * Some wear on stainless steel pin
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Nomad Sport Band
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Apple Watch band overall
 
@@ -96,10 +88,14 @@ Cons
 * Clasp can sometimes clip skin
 * Requires careful wear/proper care
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Burga Stainless Steel Two-Tone Apple Watch Band
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best metal Apple Watch band for style
@@ -167,6 +163,10 @@ Cons
 * Needs breaking in
 * Silicone not the most malleable
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Spigen Liquid Crystal Pro Apple Watch Case and Band
 
 ### Best clear Apple Watch case and band
@@ -194,6 +194,10 @@ Pros
 Cons 
 * Dust and residue collect in the holes
 * Requires cleaning
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Nike Apple Watch Sport Band
 
@@ -228,7 +232,7 @@ Cons
 * A bit pricey
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Zulu Alpha Apple Watch Strap
@@ -265,7 +269,7 @@ Here's how our top picks compare to each other in cost and material, but be sure
 \*MSRP price at the time of writing. Please note that prices may vary based on retailer and available promotions, sales, or discounts. The Zulu Alpha band is UK-based, and price conversion is based on the time of publication. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the best Apple Watch band for you?
@@ -290,10 +294,6 @@ When searching for the best Apple Watch bands, I recommend considering a few fac
 * **Cost**: As with other purchases, what you're willing to spend is critical. Establishing a budget can help narrow down your search parameters and ensure you're purchasing within your comfort range. Keep in mind that the material will often drive the cost of Apple Watch bands up. Several metal band options on this list, particularly the titanium options, are over $100\.
 * **Comfort:** If you're purchasing a watch band, you might want it to be comfortable. When I tested watch bands over the last several months, I considered comfort on my own wrist before recommending anything on this list. Your watch band must be secure, too, especially if you're using your watch during intense workouts or for heart rate monitoring.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we test these best Apple Watch bands?
 
 We went hands-on with every Apple Watch band on this list before selecting and recommending our picks. I conducted hands-on testing over several months on over a dozen watch bands and incorporated even more analysis and hands-on testing  staff. 
@@ -303,6 +303,10 @@ We spent time wearing these bands in our day-to-day lives, during work, errands,
 If we think another product is worth your money, we'll update this list or write up a spotlight review highlighting its best qualities and specifying who it's for. 
 
 Plus, we routinely scour the web for new products worthy of testing, follow news on product rollouts and upgrades, and source the best deals. We know buying anything in the current economy is not just for your whims, and that's why this list, as well as our other advice, is tailored to your needs, wants, and budget. Our picks are expert-tested and expert-vetted. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I know what size Apple Watch band to buy?
 
@@ -325,7 +329,7 @@ Other band options include the Ocean Band, Alpine Loop, Milanese Loop, Trail Loo
 Apple has a lengthy lineup of Apple Watches, with several iterations over the last few years. The two newest watch releases are the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple old and new models available, you'll be sure to find a watch that fits your needs and your price point. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do Apple Watches track my AFib?
@@ -334,13 +338,13 @@ Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Other Apple Watch Bands we've tested
 
 We've tested numerous Apple Watch bands from many brands. Here are a few other picks our expert team tested that didn't make our top spots. We broke them down by material. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Metal Apple Watch bands
 
@@ -349,10 +353,6 @@ We've tested numerous Apple Watch bands from many brands. Here are a few other p
 ## Fabric Apple Watch bands
 
 [View at Amazon](https://www.amazon.com/Spigen-Lite-Designed-Apple-Watch/dp/B08KWSRNT5/ref=asc%5Fdf%5FB08KWSRNT5/?tag=zdnet-buy-button-20)[View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMT5F3AM%2FA%2F45mm-light-pink-sport-loop&subId1=subid%5Fvalue)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Leather Apple Watch bands
 
@@ -398,22 +398,18 @@ Still can't find something you like? Here's a few more picks our editors came ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-capture-the-crash-top-surf-cameras-of-2023/"><u>[New] Capture the Crash Top Surf Cameras of 2023</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-pros-secret-windows-11-gems-uncovered/"><u>[New] In 2024, Pro's Secret Windows 11 Gems Uncovered</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-jokesinframe-instant-memes-and-more/"><u>[New] JokesInFrame Instant Memes & More</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-exploring-vlcs-screen-recorder-features-for-2024/"><u>[Updated] Exploring VLC's Screen Recorder Features for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebooks-vanished-video-suggestions-explained/"><u>2024 Approved Facebook's Vanished Video Suggestions Explained</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-tips-for-adding-captions-and-text-in-microsoft-photos-app/"><u>Essential Tips for Adding Captions & Text in Microsoft Photos App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-bard-ais-new-horizons-the-7-most-engaging-updates-from-google-io-2023/"><u>Explore Bard AI's New Horizons: The 7 Most Engaging Updates From Google I/O 2023</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-world-of-mysteries-4-cutting-edge-ai-murder-puzzles-for-aspiring-investigators/"><u>Explore the World of Mysteries: 4 Cutting-Edge AI Murder Puzzles for Aspiring Investigators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-mechanics-of-generative-ai-how-it-powers-company-innovations/"><u>Exploring the Mechanics of Generative AI: How It Powers Company Innovations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/faulty-nvidiaamd-fixing-crashes-in-minecraft/"><u>Faulty Nvidia/AMD: Fixing Crashes in Minecraft</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generate-expert-level-professional-emails-and-simplify-your-correspondence-with-5-free-ai-tools-leveraging-chatgpt-insights-save-time-on-email-management/"><u>Generate Expert-Level Professional Emails & Simplify Your Correspondence with 5 Free AI Tools Leveraging ChatGPT Insights - Save Time on Email Management</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/giggle-engineering-with-chatgpt-is-ai-the-new-joker/"><u>Giggle Engineering with ChatGPT: Is AI the New Joker?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/governments-role-supervising-ai-through-four-lenses/"><u>Government's Role: Supervising AI Through Four Lenses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-update-your-email-on-the-proton-vpn-browser-add-on-safely/"><u>How to Update Your Email on the Proton VPN Browser Add-On Safely</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-why-hackers-target-chatgpt-accounts/"><u>Inside Why Hackers Target ChatGPT Accounts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/snatching-the-best-videos-from-facebook-feed-for-2024/"><u>Snatching the Best Videos From Facebook Feed for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-and-dailymotion-unveiling-core-variations/"><u>YouTube & Dailymotion Unveiling Core Variations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-joy-of-journeys-end-innovative-box-revelations/"><u>[Updated] In 2024, The Joy of Journey's End Innovative Box Revelations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-iphones-simple-guide-for-efficient-screen-recording/"><u>2024 Approved IPhone's Simple Guide for Efficient Screen Recording</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-vids-made-simple-as-mp4-downloads/"><u>Facebook Vids Made Simple as MP4 Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-in-on-it-exclusive-spotlight-on-metas-premier-vr-deal-for-the-512gb-quest-best-value-alert-from-zdnet/"><u>Get in On It! Exclusive Spotlight on Meta's Premier VR Deal for the 512GB Quest | Best Value Alert From ZDNET</u></a></li>
+<li><a href="https://discover-data.techidaily.com/gratis-programme-fur-die-synchronisierung-von-dokumenten-und-fotos-unter-windows-funktionen-vergleichen/"><u>Gratis Programme Für Die Synchronisierung Von Dokumenten Und Fotos Unter Windows - Funktionen Vergleichen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-successfully-reformat-your-drive-after-a-failed-attempt-on-windows/"><u>How To Successfully Reformat Your Drive After A Failed Attempt on Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-command-prompt-wizardry-opening-srt-in-winosx/"><u>In 2024, Command Prompt Wizardry Opening SRT in Win/OSX</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-navigating-snapchats-new-spotlight-functionality/"><u>In 2024, Navigating Snapchat's New Spotlight Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-pc-maintenence-crafting-a-restore-point-for-windows-8-and-81-systems/"><u>Mastering PC Maintenence: Crafting a Restore Point for Windows 8 and 8.1 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-multi-screen-setup-how-to-address-monitor-lag-when-gaming-on-your-windows-11-system/"><u>Mastering the Multi-Screen Setup: How to Address Monitor Lag When Gaming on Your Windows 11 System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-latency-expert-strategies-for-smoothing-out-cold-war-gameplay-on-your-computer-updated/"><u>Overcoming Latency: Expert Strategies for Smoothing Out Cold War Gameplay on Your Computer - Updated</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-sluggish-battlenet-speeds-essential-fixes-and-hacks/"><u>Overcoming Sluggish Battle.net Speeds : Essential Fixes and Hacks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-methods-accessing-the-windows-7-control-panel-with-minimal-effort/"><u>Quick Methods: Accessing the Windows 7 Control Panel with Minimal Effort</u></a></li>
 </ul></div>
 

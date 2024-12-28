@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Customize & Optimize Your iPhone Control Center with Expert Advice From ZDNET"
-date: 2024-12-22T01:49:39.558Z
-updated: 2024-12-22T19:29:43.469Z
+date: 2024-12-22T16:01:50.816Z
+updated: 2024-12-28T16:01:19.634Z
 tags:
   - apple
 categories:
@@ -27,17 +27,21 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -48,6 +52,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -55,10 +63,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -76,10 +80,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,24 +140,24 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-best-kept-secrets-top-5-social-platforms-beyond-tiktok/"><u>[New] Best-Kept Secrets Top 5 Social Platforms Beyond TikTok</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-exceptional-hd-video-capturing-options-compiled-here-for-2024/"><u>[New] Exceptional HD Video Capturing Options Compiled Here for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-guide-to-incredible-gopro-timelapse-cinematography-mastery/"><u>[Updated] Guide to Incredible GoPro Timelapse Cinematography Mastery</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-10-online-photo-editing-tools-to-unblur-photos-effectively/"><u>[Updated] In 2024, Top 10 Online Photo Editing Tools to Unblur Photos Effectively</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exposing-effective-promotions/"><u>2024 Approved Exposing Effective Promotions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/4-stronger-motives-to-embrace-microsoft-copilot/"><u>4 Stronger Motives to Embrace Microsoft Copilot</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/battle-of-the-giants-unveiling-8-crucial-contrasts-between-snapchat-and-bing-ai-on-skype/"><u>Battle of the Giants: Unveiling 8 Crucial Contrasts Between Snapchat and Bing AI on Skype</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-content-production-with-these-8-innovative-ai-technologies/"><u>Boost Your Content Production with These 8 Innovative AI Technologies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-indoor-digital-broadcast-quality-how-to-optimize-your-antenna-for-perfect-reception/"><u>Boost Your Indoor Digital Broadcast Quality: How To Optimize Your Antenna for Perfect Reception</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bridging-the-gap-tying-chatgpt-to-whatsapps-helpdesk/"><u>Bridging the Gap: Tying ChatGPT to WhatsApp's Helpdesk</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-honor-x7b-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Honor X7b</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comment-numeriser-et-deplacer-des-videos-vhs-vers-un-disque-dur-avec-windows/"><u>Comment Numériser Et Déplacer Des Vidéos VHS Vers Un Disque Dur Avec Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 13 Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722196892059-ransomware-demystified-on-a-budget-50-phones-and-chatgpts-revolutionary-role-in-podcast-creation/"><u>Ransomware Demystified on a Budget: $50 Phones & ChatGPT's Revolutionary Role in Podcast Creation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-ai-the-first-steps-in-9-essential-forums/"><u>Unlocking AI: The First Steps in 9 Essential Forums</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-emotional-ai-does-it-truly-grasp-what-we-feel/"><u>Unlocking the Potential of Emotional AI: Does It Truly Grasp What We Feel?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-content-authors-should-think-twice-before-trusting-ai-chatbots-8-key-reasons/"><u>Why Content Authors Should Think Twice Before Trusting AI Chatbots: 8 Key Reasons</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-ios-takes-the-lead-for-your-next-chatgpt-session/"><u>Why iOS Takes the Lead for Your Next ChatGPT Session</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nokia-g310-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-illusory-journeys-through-time-and-dimensions/"><u>[New] In 2024, Illusory Journeys Through Time and Dimensions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-in-search-of-the-best-fps-experience-ever/"><u>[New] In 2024, In Search of the Best FPS Experience Ever</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smart-shopping-for-cloud-storages-best-price-secrets-revealed/"><u>[Updated] Smart Shopping for Cloud Storages Best Price Secrets Revealed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-for-effective-youtube-comment-engagement/"><u>2024 Approved Strategies for Effective YouTube Comment Engagement</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-efficacy-of-quick-subscribing-in-video-platforms/"><u>2024 Approved The Efficacy of Quick-Subscribing in Video Platforms</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-technology-for-superior-sleep-unlocking-serene-rest-every-night/"><u>Advanced Technology for Superior Sleep: Unlocking Serene Rest Every Night</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ease-into-ai-starting-point-with-9-community-driven-tools/"><u>Ease Into AI: Starting Point with 9 Community-Driven Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/educational-transformation-why-teachers-should-embrace-ai-8-key-arguments/"><u>Educational Transformation: Why Teachers Should Embrace AI (8 Key Arguments)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-ai-excellence-unveiling-7-ways-palm-2-revolutionizes-googles-bard-system/"><u>Enhancing AI Excellence: Unveiling 7 Ways PaLM 2 Revolutionizes Google's Bard System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-efficiency-with-copilot-the-ultimate-guide-to-leveraging-free-gpt-4-power/"><u>Maximize Your Efficiency with Copilot: The Ultimate Guide to Leveraging Free GPT-4 Power</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/paperclip-maximizer-quandary-explained-bridging-concepts-with-modern-ai-applications/"><u>Paperclip Maximizer Quandary Explained: Bridging Concepts with Modern AI Applications</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photoshops-secret-weapon-advanced-techniques-for-3d-lut-mastery-for-2024/"><u>Photoshop's Secret Weapon Advanced Techniques for 3D Lut Mastery for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solving-connectivity-issues-a-guide-to-reviving-your-logitech-k780-keyboard/"><u>Solving Connectivity Issues: A Guide to Reviving Your Logitech K780 Keyboard</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-s24-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy S24 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-how-to-implementing-two-factor-authentication-on-your-email-for-enhanced-safety/"><u>Ultimate How-To: Implementing Two-Factor Authentication on Your Email for Enhanced Safety</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unique-to-excel-precision-and-analysis-not-achieved-by-chatgpt/"><u>Unique to Excel: Precision & Analysis Not Achieved by ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-chatgpt-potential-today/"><u>Unlocking ChatGPT Potential Today</u></a></li>
 </ul></div>
 

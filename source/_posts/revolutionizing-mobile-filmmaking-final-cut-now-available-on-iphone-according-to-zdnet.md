@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Mobile Filmmaking: Final Cut Now Available on iPhone, According to ZDNET"
-date: 2024-12-21T21:10:19.287Z
-updated: 2024-12-22T19:58:01.654Z
+date: 2024-12-26T01:47:29.570Z
+updated: 2024-12-27T20:34:13.400Z
 tags:
   - apple
 categories:
@@ -23,10 +23,6 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
 
@@ -61,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
@@ -85,7 +81,7 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
@@ -119,7 +115,7 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
@@ -139,7 +135,7 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Image quality
@@ -198,6 +194,10 @@ One thing that's important to note: [Generative AI](https://www.zdnet.com/articl
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Looking to the future
 
 We've been doing a tremendous amount of coverage of [generative AI](https://www.zdnet.com/topic/artificial-intelligence/) this past year. And every year, phone vendors introduce even more smartphone capabilities. So what does the future hold?
@@ -254,21 +254,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-accelerated-actions-saving-ppts-quickly/"><u>[New] Accelerated Actions Saving PPTs Quickly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-transcoding-approaches-to-boost-zoom-videos/"><u>[Updated] 2024 Approved Top Transcoding Approaches to Boost Zoom Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-mastering-podcast-beginnings-eye-catching-strategies/"><u>[Updated] In 2024, Mastering Podcast Beginnings Eye-Catching Strategies</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-deciding-on-ideal-vimeo-subscription-plan/"><u>2024 Approved Deciding on Ideal Vimeo Subscription Plan</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-best-10-online-subtitle-editors/"><u>2024 Approved The Best 10 Online Subtitle Editors</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-apple-iphone-se-2020-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the Apple iPhone SE (2020) iCloud Lock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-look-at-ai-threats-chatgpts-potential-for-financial-heists/"><u>A Look at AI Threats: ChatGPT’s Potential for Financial Heists</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-step-by-step-guide-to-crafting-your-health-ambitions-with-chatgpt/"><u>A Step-by-Step Guide to Crafting Your Health Ambitions with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-on-demand-connecting-to-chatgpt-from-any-location-using-the-power-of-chatgpt-everywhere/"><u>AI on Demand: Connecting to ChatGPT From Any Location Using the Power of ChatGPT Everywhere</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-showdown-deciding-between-claude-and-chatgpt-for-your-routine-use/"><u>AI Showdown: Deciding Between Claude & ChatGPT for Your Routine Use</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/begin-discreet-dialogues-with-chatgpt-and-additional-services-on-duckduckgos-ai-chat-tool/"><u>Begin Discreet Dialogues with ChatGPT and Additional Services on DuckDuckGo's AI Chat Tool</u></a></li>
-<li><a href="https://win-trending.techidaily.com/luna-latin-for-moon/"><u>Luna (Latin for Moon)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722000453912-unlock-the-potential-communicating-with-chatgpt-revealed/"><u>Unlock the Potential: Communicating with ChatGPT Revealed!</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-free-android-speech-to-text-tools/"><u>Updated Top Free Android Speech-to-Text Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-conversational-agents-like-chatgpt-to-improve-cbt-outcomes/"><u>Utilizing Conversational Agents Like ChatGPT to Improve CBT Outcomes</u></a></li>
-<li><a href="https://win-trending.techidaily.com/windows-10qnap-nas2/"><u>Windows 10資料夾備份至QNAP NAS：運用2種有效方法</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-10-top-tools-for-dynamic-image-background-alterations/"><u>[New] 10 Top Tools for Dynamic Image Background Alterations</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/erfahren-sie-wie-sie-verlorene-bilder-wiederherstellen-konnen-picsart-wiederholungsempfehlung-geloschte-fotos-zuruckbringen/"><u>Erfahren Sie, Wie Sie Verlorene Bilder Wiederherstellen Können! PicsArt Wiederholungsempfehlung - Gelöschte Fotos Zurückbringen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-xr21-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Nokia XR21 Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-s23-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideas-for-customizing-your-tiktok-video-scene/"><u>In 2024, Ideas for Customizing Your TikTok Video Scene</u></a></li>
+<li><a href="https://solve-news.techidaily.com/step-by-step-tutorial-on-how-to-link-external-libraries-with-plex-for-enhanced-content-management/"><u>Step-by-Step Tutorial on How to Link External Libraries with Plex for Enhanced Content Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-impostor-gpt-through-mention-driven-inspection/"><u>Unveiling Impostor GPT Through Mention-Driven Inspection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-practical-use-cases-for-chatgpt-a-look-at-seven-key-areas/"><u>Unveiling the Practical Use Cases for ChatGPT: A Look at Seven Key Areas</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-truth-the-top-7-reasons-why-chatgpt-jailbreak-attempts-fail/"><u>Unveiling the Truth: The Top 7 Reasons Why ChatGPT Jailbreak Attempts Fail</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/vacation-internet-tips-maximize-your-experience/"><u>Vacation Internet Tips: Maximize Your Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visualwave-upgrader-windows-mac-and-online-version/"><u>VisualWave Upgrader Windows, Mac & Online Version</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voice-enabled-chatgpt-on-your-android-device-the-ultimate-how-to/"><u>Voice-Enabled ChatGPT on Your Android Device - The Ultimate How-To</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-artificial-intelligence-isnt-a-one-size-fits-all-solution-for-content-creators/"><u>Why Artificial Intelligence Isn't a One-Size-Fits-All Solution for Content Creators</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/yl-software-solutions-are-they-aligned-with-gdpr-regulations/"><u>YL Software Solutions: Are They Aligned With GDPR Regulations?</u></a></li>
 </ul></div>
 

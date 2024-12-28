@@ -1,7 +1,7 @@
 ---
 title: "Surviving the Wild with Help From AI: Can ChatGPT Assist You?"
-date: 2024-08-16T12:41:44.117Z
-updated: 2024-08-17T12:41:44.117Z
+date: 2024-12-27T00:46:06.561Z
+updated: 2024-12-28T13:25:18.402Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/7e8f336fc2079d7aea2b749496409ce99e4eee388
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,16 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-haven.techidaily.com/discover-the-best-4-ai-powered-storytelling-engines-of-the-year/"><u>Discover the Best 4 AI-Powered Storytelling Engines of the Year</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-solutions-to-resolve-chatgpt-access-problems/"><u>Effective Solutions to Resolve ChatGPT Access Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-tabletop-adventures-with-ai-leveraging-chatgpt-in-your-rpg-sessions/"><u>Enhancing Tabletop Adventures with AI: Leveraging ChatGPT in Your RPG Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-accuracy-in-online-health-advice-fact-checking-techniques-for-ai-sources-including-chatgpt/"><u>Ensuring Accuracy in Online Health Advice: Fact-Checking Techniques for AI Sources Including ChatGPT</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-xs-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone XS?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-2023s-premier-action-cameras-for-ocean-thrills/"><u>In 2024, 2023'S Premier Action Cameras for Ocean Thrills</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-sd-card-compatible-with-a7s-ii-for-2024/"><u>Superior SD Card Compatible with A7S II for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-secure-usage-resolving-the-issue-of-malfunctioned-airtags-due-to-faulty-battery-protection-a-comprehensive-guide/"><u>Unlocking Secure Usage: Resolving the Issue of Malfunctioned AirTags Due to Faulty Battery Protection - A Comprehensive Guide</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

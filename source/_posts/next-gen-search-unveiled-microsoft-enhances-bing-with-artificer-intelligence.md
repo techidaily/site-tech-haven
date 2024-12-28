@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Search Unveiled: Microsoft Enhances Bing with Artificer Intelligence"
-date: 2024-08-16T12:42:25.444Z
-updated: 2024-08-17T12:42:25.444Z
+date: 2024-12-23T10:09:28.117Z
+updated: 2024-12-28T07:29:06.362Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c5954b26aae847d226df8714f23c02a4ef32990ac
 
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/c5954b26aae847d226df8714f23c02a4ef32990ac
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -36,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/c5954b26aae847d226df8714f23c02a4ef32990ac
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -47,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/c5954b26aae847d226df8714f23c02a4ef32990ac
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to[join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -60,9 +70,9 @@ thumbnail: https://thmb.techidaily.com/c5954b26aae847d226df8714f23c02a4ef32990ac
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -71,14 +81,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  And in its mobile form, it is still very much a search tool, so is not something that's going to be replacing Google Assistant, Siri, Bixby, or any other voice assistant any time soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,4 +94,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-taking-igtv-viewership-to-new-peaks-5-innovative-approaches/"><u>[New] 2024 Approved Taking IGTV Viewership to New Peaks 5 Innovative Approaches</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-free-online-video-communication-tools-rated-best/"><u>[New] Free Online Video Communication Tools Rated Best</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-streamlining-video-conferences-background-shifts-in-google-meet-for-2024/"><u>[New] Streamlining Video Conferences Background Shifts in Google Meet for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-no-cost-windowsmac-video-players-top-16-lists-for-2024/"><u>[Updated] No-Cost Windows/Mac Video Players, Top 16 Lists for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/5-best-mid-range-gaming-keyboards-for-enthusiasts-for-2024/"><u>5 Best Mid-Range Gaming Keyboards for Enthusiasts for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-latest-from-openai-unlocking-your-custom-gpt-experience-now/"><u>Discover the Latest From OpenAI: Unlocking Your Custom GPT Experience Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-leading-6-mega-language-understanding-models/"><u>Discover the Leading 6 Mega Language Understanding Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/employing-attention-mechanisms-detecting-fabricated-ai/"><u>Employing Attention Mechanisms: Detecting Fabricated AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-excel-users-with-chatgpt-a-strategy-to-tackle-spreadsheet-fears/"><u>Empowering Excel Users with ChatGPT: A Strategy to Tackle Spreadsheet Fears</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-guide-to-understanding-ai-vocabulary-mastering-29-crucial-terms/"><u>Essential Guide to Understanding AI Vocabulary: Mastering 29 Crucial Terms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-first-9-artificial-intelligence-instruments-for-novices/"><u>Exploring the First 9 Artificial Intelligence Instruments for Novices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-potential-effects-of-artificial-intelligence-on-game-development/"><u>Exploring the Potential Effects of Artificial Intelligence on Game Development</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpts-impact-on-cybersecurity-landscapes/"><u>GPT's Impact on Cybersecurity Landscapes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-beginners-walkthrough-setting-up-vrecord-software/"><u>In 2024, Beginner’s Walkthrough Setting Up VRecord Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-elevate-with-these-top-10-igtv-experts/"><u>In 2024, Elevate with These Top 10 IGTV Experts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-elite-text-enhancement-tools-and-techniques/"><u>In 2024, Elite Text Enhancement Tools & Techniques</u></a></li>
+</ul></div>
 

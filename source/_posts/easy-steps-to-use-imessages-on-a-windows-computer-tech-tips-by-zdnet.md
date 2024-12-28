@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Use iMessages on a Windows Computer | Tech Tips by ZDNet
-date: 2024-12-16T18:31:39.609Z
-updated: 2024-12-22T16:11:07.793Z
+date: 2024-12-24T16:00:55.471Z
+updated: 2024-12-28T16:00:17.698Z
 tags:
   - apple
 categories:
@@ -42,11 +42,11 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to send and receive iMessages on Windows
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
 
@@ -61,7 +61,7 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
@@ -86,15 +86,15 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -109,6 +109,10 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -130,15 +134,15 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -151,10 +155,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,20 +192,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/aking-money-on-youtube-a-guide/"><u>[New] Making Money on YouTube A Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mobile-communication-redefined-best-10-secured-free-video-call-apps-to-keep-you-covered-on-devices/"><u>[Updated] 2024 Approved Mobile Communication Redefined Best 10 Secured, Free Video Call Apps to Keep You Covered on Devices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-navigating-the-social-maze-tweets-plus-tumble-videos/"><u>[Updated] Navigating the Social Maze Tweets + Tumble Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-y78plus-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo Y78+ Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-powered-resume-building-unleashing-the-potential-of-chatgpt-for-job-applications/"><u>AI-Powered Resume Building: Unleashing the Potential of ChatGPT for Job Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/behind-the-scenes-of-truthgpt-exposed-police-probe-into-mullvad-vpns-secrets-leading-free-pc-games-listed-and-best-practices-in-mechanical-keyboards/"><u>Behind the Scenes of TruthGPT Exposed! Police Probe Into Mullvad VPN's Secrets | Leading Free PC Games Listed & Best Practices in Mechanical Keyboards</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/building-a-robust-brand-partnership-portfolio-on-youtube-for-2024/"><u>Building a Robust Brand Partnership Portfolio on YouTube for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/carve-out-your-chatai-masterpiece/"><u>Carve Out Your ChatAI Masterpiece</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-new-plugins-feature-a-comprehensive-signup-process-explained/"><u>ChatGPT New Plugins Feature: A Comprehensive Signup Process Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-subscription-pause-causes-and-anticipated-reopening-timeline/"><u>ChatGPT Subscription Pause: Causes and Anticipated Reopening Timeline</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-the-ultimate-matchmaker-toolkit/"><u>ChatGPT: The Ultimate Matchmaker Toolkit</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-a-gamers-guide-to-high-quality-gameplay-recordings-on-ps4/"><u>In 2024, A Gamer's Guide to High-Quality Gameplay Recordings on PS4</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-easy-installation-of-the-epson-et-4550-printer-driver-on-windows/"><u>Quick and Easy Installation of the Epson ET-4550 Printer Driver on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-your-skype-microphone-problem-in-windows-10-systems/"><u>Resolving Your Skype Microphone Problem in Windows 10 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-fixes-for-acer-audio-hardware-driver-update-tips/"><u>Speedy Fixes for Acer Audio Hardware - Driver Update Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-10-essential-cam-shields-for-privacy/"><u>[New] 2024 Approved 10 Essential Cam Shields for Privacy</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ultimate-steps-to-document-lol-encounters/"><u>2024 Approved Ultimate Steps to Document LOL Encounters</u></a></li>
+<li><a href="https://win-dash.techidaily.com/associated-references-and-connections/"><u>Associated References & Connections</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-health-with-these-9-innovative-uses-of-chatgpt/"><u>Boost Your Health with These 9 Innovative Uses of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/four-easy-steps-to-experience-free-gpt-4-capabilities/"><u>Four Easy Steps to Experience Free GPT-4 Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-started-with-openais-new-gpt-store-immediate-access-and-usage-guide/"><u>Get Started with OpenAI's New GPT Store: Immediate Access & Usage Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-itel-a60-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Itel A60 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-huawei-nova-y71-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Huawei Nova Y71</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-4-platforms-for-free-skype-ringtones/"><u>In 2024, Top 4 Platforms for Free Skype Ringtones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-myth-taming-unalterable-chatgpt/"><u>The Myth: Taming Unalterable ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-process-for-discontinuing-your-chatgpt-account/"><u>The Ultimate Process for Discontinuing Your ChatGPT Account</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-unlocking-the-possibilities-with-next-gen-generative-intelligence-systems/"><u>Understanding ChatGPT: Unlocking the Possibilities with Next-Gen Generative Intelligence Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-6-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 6 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
 

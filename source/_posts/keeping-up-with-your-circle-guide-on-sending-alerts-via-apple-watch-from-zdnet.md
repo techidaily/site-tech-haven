@@ -1,7 +1,7 @@
 ---
 title: "Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch From ZDNet"
-date: 2024-12-20T23:18:48.951Z
-updated: 2024-12-22T21:06:49.827Z
+date: 2024-12-21T06:29:54.709Z
+updated: 2024-12-27T17:45:28.080Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
@@ -41,7 +45,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -49,10 +53,6 @@ Screenshot by Lance Whitney/ZDNET
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -70,10 +70,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
@@ -81,7 +77,7 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -100,6 +96,10 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -109,7 +109,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -154,16 +154,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-render-and-upload-your-youtube-video-faster-in-2024/"><u>[Updated] How to Render and Upload Your YouTube Video Faster, In 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-peek-into-the-heart-of-youtubes-video-operations/"><u>[Updated] In 2024, A Peek Into the Heart of YouTube's Video Operations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/action-in-motion-best-surfing-cams-of-2023-update-for-2024/"><u>Action in Motion Best Surfing Cams of 2023 Update for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2060467-9780892546657-astrology-for-yourself/"><u>Astrology for Yourself | Free Book</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-12-pro-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 12 Pro Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-drone-friendly-vr-experiences/"><u>In 2024, Top 5 Drone-Friendly VR Experiences</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/snapchat-vs-skype-decoding-the-language-of-ai/"><u>Snapchat vs Skype: Decoding the Language of AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-leveraging-gpt-3-within-the-openai-sandbox/"><u>Step-by-Step Tutorial on Leveraging GPT-3 Within the OpenAI Sandbox</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-hidden-hazards-the-perils-of-substituting-ai-for-a-real-life-therapist-or-psychiatrist/"><u>Understanding the Hidden Hazards: The Perils of Substituting AI for a Real-Life Therapist or Psychiatrist</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlockedchatgpt-subscription-deadline-clarity/"><u>UnlockedChatGPT: Subscription Deadline Clarity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-everything-you-need-to-know-about-apples-artificial-intelligence-unveiled-at-wwdc-24/"><u>Unlocking the Secrets: Everything You Need to Know About Apple's Artificial Intelligence Unveiled at WWDC 24</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-innovative-techniques-for-ppts-and-webcams-2023-edition/"><u>[New] Innovative Techniques for PPTs and Webcams, 2023 Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-a-step-by-step-approach-to-zooming-success/"><u>[Updated] 2024 Approved A Step-by-Step Approach to Zooming Success</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-laughlens-pictorial-humor-studio/"><u>[Updated] LaughLens Pictorial Humor Studio</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-best-virtual-race-games-roundup/"><u>In 2024, Best Virtual Race Games Roundup</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-redmi-a2-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Redmi A2 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-seamlessly-share-videos-on-mstream-services/"><u>In 2024, Seamlessly Share Videos on MStream Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-storytelling-skills-using-chatgpt-a-guide-to-six-effective-strategies/"><u>Revolutionize Your Storytelling Skills Using ChatGPT - A Guide to Six Effective Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/siri-or-chatgpt-understanding-what-sets-them-apart-in-voice-assistance/"><u>Siri or ChatGPT? Understanding What Sets Them Apart in Voice Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-evolution-of-conversational-ai-7-benefits-with-palm-2-for-googles-bard-system/"><u>The Evolution of Conversational AI: 7 Benefits with PaLM 2 for Google's BARD System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-10-chatbot-substitutes-as-good-as-chatgpt/"><u>Top 10 Chatbot Substitutes as Good as ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-10-strategies-how-using-chatgpt-can-boost-your-linkedin-employment-success/"><u>Top 10 Strategies: How Using ChatGPT Can Boost Your LinkedIn Employment Success</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-exceptional-savings-your-guide-to-premier-samsung-promotions-for-early-spring-2023/"><u>Unlocking Exceptional Savings: Your Guide to Premier Samsung Promotions for Early Spring 2023</u></a></li>
 </ul></div>
 

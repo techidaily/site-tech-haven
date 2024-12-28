@@ -1,7 +1,7 @@
 ---
 title: Hands-On Review of ESR's Innovative Halolock - A Versatile Multi-Card Wallet & Compatible Adjustable Stand for iPhones
-date: 2024-12-21T00:44:06.746Z
-updated: 2024-12-23T00:02:24.942Z
+date: 2024-12-21T16:01:56.669Z
+updated: 2024-12-28T16:01:51.271Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A bigger screen option
@@ -39,7 +39,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -110,17 +110,18 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-what-experts-say-optimizing-your-4k-lens-selection-process/"><u>[New] In 2024, What Experts Say Optimizing Your 4K Lens Selection Process</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dragon-chronicles-unleashed-the-perfect-sequence-for-watching-how-to-train-your-dragon-films/"><u>Dragon Chronicles Unleashed: The Perfect Sequence for Watching How to Train Your Dragon Films</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/expedite-your-digital-agility-in-the-ai-and-machine-learning-industry-ebook-by-abbyy/"><u>Expedite Your Digital Agility in the AI & Machine Learning Industry - eBook by ABBYY</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-hands-on-newly-released-audigy-fx-sound-card-drivers-free/"><u>Get Your Hands on Newly Released Audigy FX Sound Card Drivers – Free!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-build-a-successful-career-in-ai-prompt-design-and-stability-forecast/"><u>How to Build a Successful Career in AI Prompt Design and Stability Forecast</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nokia 105 Classic? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/introducing-shape-revolutionary-ai-interpretability-solution-by-openai/"><u>Introducing SHAPE: Revolutionary AI Interpretability Solution by OpenAI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-your-emotional-well-being-at-risk-with-virtual-psychologists/"><u>Is Your Emotional Well-Being at Risk with Virtual Psychologists?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/machine-mastery-a-comparative-analysis-of-chatgpt-and-google-translate-capabilities/"><u>Machine Mastery: A Comparative Analysis of ChatGPT and Google Translate Capabilities</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/mastering-bare-metal-recovery-with-wbadmin-across-incompatible-pc-components/"><u>Mastering Bare Metal Recovery with WBAdmin Across Incompatible PC Components</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/overcoming-video-glitches-in-latest-windows-version/"><u>Overcoming VIDEO Glitches in Latest Windows Version</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-managing-windows-registry-entries-with-revo-uninstaller/"><u>Ultimate Guide: Managing Windows Registry Entries with Revo Uninstaller</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-fastest-phone-apps-for-faster-audio-streaming-for-2024/"><u>[New] Fastest Phone Apps for Faster Audio Streaming for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-step-by-step-method-for-altering-youtube-style-thumbnails-on-twitter/"><u>[New] In 2024, Step-by-Step Method for Altering YouTube-Style Thumbnails on Twitter</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-win-mac-and-beyond-best-8-tools-that-transform-sub-to-universal-srtr-standards/"><u>[New] Win, Mac & Beyond Best 8 Tools that Transform SUB to Universal SRTR Standards</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-bringing-your-ideas-to-life-vo-plus-ppt-perfection/"><u>[Updated] In 2024, Bringing Your Ideas to Life VO + PPT Perfection</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-shaping-stories-the-art-of-deformed-photographyvideo-words/"><u>[Updated] In 2024, Shaping Stories The Art of Deformed Photography/Video Words</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-perfecting-time-sync-in-video-postings-on-youtube/"><u>[Updated] Perfecting Time Sync in Video Postings on YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-uninstall-apps-in-windows-11-step-by-step/"><u>How to Uninstall Apps in Windows 11 [Step-by-Step]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Itel P40 Phones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-time-reminders-a-beginners-guide-to-using-alarms-in-windows-10/"><u>Mastering Time Reminders: A Beginner's Guide to Using Alarms in Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-windows-11s-safety-net-entering-safe-mode-through-four-methods-complete-with-illustrated-guides/"><u>Navigating Windows 11'S Safety Net: Entering Safe Mode Through Four Methods, Complete with Illustrated Guides</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-easy-guide-how-to-remove-sound-from-your-favorite-youtube-video/"><u>Quick and Easy Guide: How to Remove Sound From Your Favorite YouTube Video</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1142784-9780857010087-traditional-chinese-medicine-approaches-to-cancer/"><u>Traditional Chinese Medicine Approaches to Cancer | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029594348-wmv/"><u>WMVファイルの効率的なコンパクト化方法</u></a></li>
 </ul></div>
 

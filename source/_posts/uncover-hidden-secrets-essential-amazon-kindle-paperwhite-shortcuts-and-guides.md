@@ -1,7 +1,7 @@
 ---
 title: "Uncover Hidden Secrets: Essential Amazon Kindle Paperwhite Shortcuts & Guides"
-date: 2024-08-20T11:54:24.104Z
-updated: 2024-08-21T11:54:24.104Z
+date: 2024-12-25T02:13:31.918Z
+updated: 2024-12-27T22:02:18.656Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d461697393364ab3bd89b9977de72.jpg
@@ -9,15 +9,21 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 
 ## Uncover Hidden Secrets: Essential Amazon Kindle Paperwhite Shortcuts & Guides
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9 Kindle Paperwhite Tips and Tricks Amazon Doesn't Want You to Know
 
 Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 7/18/2019 10:05:28 AM.
 
 4.5 [(10 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Kindle Paperwhite has a 6 inch, 212 PPI E Ink Pearl display (758×1024 resolution) with four built-in LEDs to illuminate the screen. The light is one of the main features of the Paperwhite and it has a manually adjusted light level. Battery life is advertised as up to eight weeks of reading with half an hour per day with wireless off and constant light usage; this usage equals 28 hours. This device was the first Kindle to track one's reading speed to estimate when one will finish a chapter of book.
 
@@ -26,6 +32,10 @@ But, are you still just reading Kindle books with it? Haven't you tried reading 
 ![kindle paperwhite tips and tricks](http://www.epubor.com/images/uppic/kindle-paperwhite-tips-and-tricks.jpg)
 
 As a big fans of Kindle, I also concern those questions deeply, so I searched the internet to find out some good solutions, and tried those suggested methods on my Kindle Paperwhite. Based on my own experience, now I finally realize that in fact there are more fantastic things that we can do on Kindle Paperwhite Amazon doesn't want us to know. And this is also the reason that I decide to write this article to show you best 9 Kindle Paperwhite tips and tricks to help you get the most out of your Kindle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Trick 1: EPUB books on Kindle Paperwhite
 
@@ -59,9 +69,6 @@ It helps convert books from EPUB format to Kindle supported mobi, no matter your
 
 Note that this tool is an all-in-one product that could resolve nearly all your eBooks' problems with your eReaders. It supports ebooks from stores like Google, Apple iBooks, B&N, Rakuten Kobo, Sony, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Trick 2: How to add and change Kindle dictionary quickly
 
 While looking up a unfamiliar word when reading, Amazon allows us to use their custom dictionaries just by pressing and holding on the words. This is so convenient.
@@ -74,20 +81,25 @@ Just download the dictionaries you need. Download the files to your computer, th
 
 ![change kindle paperwhite dictionary](http://www.epubor.com/images/uppic/change-kindle-paperwhite-dictionary.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 Go to Menu > Settings > Device Options > Language and Dictionaries > Dictionaries. Then you can set each one that you want to use.
 
 The default dictionary will be changed quickly. Don't worry it won't remove the existing dictionaries. you will be able to switch between them.
 
 [How to add dictinary to Kindle](https://tools.techidaily.com/epubor/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Trick 3: Add custom fonts to Kindle Paperwhite easily without hacking
 
 You may wonder if there was an easy way to add additional font types to the original list. 
 
 ![add fonts to kindle paperwhite](http://www.epubor.com/images/uppic/add-fonts-to-kindle-paperwhite.jpg)Yes, you can, and you can easily achieve this goal with this trick. All you need to do is just to create a new folder named **"fonts"**, then download some fonts types you like from the internet to this folder. Below the fonts file, create a new text file and rename is as "**USE\_ALT\_FONTS**".
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The left job is to let your Kindle adopt the newly added fonts. Reboot your Kindle, then open a book to enjoy! 
 
@@ -96,6 +108,10 @@ This solution only works well on Kindle Paperwhite 1\. For Kindle Paperwhite 2, 
 There is also another easier way to add custom fonts to Kindle Paperwhite. You can click [here](https://tools.techidaily.com/epubor/products/) to learn more details.
 
 [How to add fonts to Kindle Paperwhite](https://tools.techidaily.com/epubor/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Trick 4: Jailbreak Kindle Paperwhite
 
@@ -113,13 +129,6 @@ Firstly [download](http://ixtab.tk/kindle-touch-updates/update%5Fkindle%5F5.3.5.
 
 [How to jailbreak Kindle Paperwhite](https://tools.techidaily.com/epubor/products/)[](https://tools.techidaily.com/epubor/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Trick 5: Change screensavers on Kindle Paperwhite
 
 ![change screensaver kindle paperwhite](http://www.epubor.com/images/uppic/kindle-paperwhite-change-screensaver.jpg)
@@ -134,9 +143,6 @@ Connect Kindle to computer. From the extracted file drag these two files to your
 
 [How to change Kindle Paperwhite screensavers](https://tools.techidaily.com/epubor/products/)[](https://tools.techidaily.com/epubor/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Trick 6: Download games and apps for Kindle Paperwhite
 
 Though you may think this is a funny question but it is true that you can install apps to Kindle Paperwhite. 
@@ -159,9 +165,6 @@ If you are looking for a fashionable way to get some beautiful and practical cas
 
 [The most slim Kindle Paperwhite cases](https://tools.techidaily.com/epubor/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Trick 8: Remove Ads from Kindle
 
 Have you ever purchased the special offer of Kindle Paperwhite? I did. One of the annoying thing about the special offer is its advertisement. If you feel uncomfortable with these ads, here are 4 different methods to remove ads from Kindle Paperwhite or Kindle fire.
@@ -169,8 +172,9 @@ Have you ever purchased the special offer of Kindle Paperwhite? I did. One of th
 [4 Methods to Remove Ads from Kindle eReaders, Kindle Fire](https://tools.techidaily.com/epubor/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Trick 9: Turn off Kindle Highlight
 
 It is the first time that you read a new book on Kindle paperwhite. You just want to finish this book and don't want to be distracted, but there are many places have been marked as popupar higlights. Actually, I don't care what other people think about this book, but just want to turn off the Kindle highlight. If you are also seeking for the method to turn off kindle highlights, you should read the following article.
@@ -200,8 +204,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 10 Comments
 
@@ -333,8 +335,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -342,4 +342,23 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-ultimate-guide-10-superior-image-replacement-for-videos/"><u>[New] 2024 Approved The Ultimate Guide 10 Superior Image Replacement for Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-building-your-asmr-empire-key-concepts-and-best-practices/"><u>[Updated] 2024 Approved Building Your ASMR Empire Key Concepts and Best Practices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2023-how-to-download-facebook-status-videos-for-2024/"><u>2023 | How to Download Facebook Status Videos for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/challenge-accepted-7-questions-too-complex-for-chatgpt-to-answer/"><u>Challenge Accepted? 7 Questions Too Complex for ChatGPT to Answer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbots-clash-discovering-best-generative-ai-rivals/"><u>ChatBots Clash: Discovering Best Generative AI Rivals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-management-made-easy-creating-and-utilizing-separate-folders-for-organized-conversations/"><u>ChatGPT Management Made Easy: Creating and Utilizing Separate Folders for Organized Conversations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/connecting-with-chatgpt-through-a-vpn-what-you-need-to-know/"><u>Connecting with ChatGPT Through a VPN: What You Need to Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/counteracting-ai-reproduction-protective-measures-using-nightshades/"><u>Counteracting AI Reproduction: Protective Measures Using Nightshades</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-future-with-elon-musk-and-his-ambitious-truthgpt-project/"><u>Decoding the Future with Elon Musk and His Ambitious TruthGPT Project</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/diccionario-integral-para-usuarios-de-aomei-backupper-un-recurso-facil-y-util/"><u>Diccionario Integral Para Usuarios De AOMEI Backupper: Un Recurso Fácil Y Útil</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-best-ai-tools-for-automated-professional-quality-slideshows/"><u>Discover the Best AI Tools for Automated, Professional-Quality Slideshows</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-play-your-favorite-spotify-tracks-on-mac-or-pc-using-airplay-technology/"><u>How to Play Your Favorite Spotify Tracks on Mac or PC Using AirPlay Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-nx-release-exclusive-breakdown-of-most-popular-models-and-their-availability-timelines-coverage/"><u>IPhone nX Release: Exclusive Breakdown of Most Popular Models and Their Availability Timelines Coverage</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1763403-9781776584208-mind-and-body/"><u>Mind and Body | Free Book</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-smart-choice-unveiled-comprehensive-review-of-the-iphone-se-202n-model/"><u>The Smart Choice Unveiled: Comprehensive Review of the iPhone SE (202N Model)</u></a></li>
+</ul></div>
 

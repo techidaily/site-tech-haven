@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Guide: Accessing and Enjoying Amazon Kindle Ebooks on Your Windows 8 PC"
-date: 2024-08-20T11:53:57.451Z
-updated: 2024-08-21T11:53:57.451Z
+date: 2024-12-21T05:35:40.605Z
+updated: 2024-12-27T16:10:55.311Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf462fe90ad515f1ed2896ad3.jpg
@@ -9,19 +9,25 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
 
 ## A Comprehensive Guide: Accessing and Enjoying Amazon Kindle Ebooks on Your Windows 8 PC
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Read Kindle Books on Windows 8
 
 Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 6/21/2019 11:27:21 AM.
 
 4.8 [(12 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
 More and more people have moved to the camp of Windows 8 nowadays partly due to its chic combination of traditional PC interface and Touchscreen-oriented tile style. It was reported recently that Microsoft would stop support for Windows XP in 2014, which might push more people to Windows 8 OS. As to eBook reading, what should we do when we want to read Amazon Kindle books on Windows 8? This is what will be discussed in this article.
 
 **Note:** If you are using any other Windows system, here are three methods to [read Kindle books on PC](https://tools.techidaily.com/epubor/products/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Read Kindle books on Windows 8
 
@@ -32,6 +38,10 @@ To read Kindle eBooks on Windows 8, you need to first install corresponding Kind
 If you can’t find the “store” icon on the Start screen, right-click to select “All Apps”. Right-click “Store” and select “Pin” to make the Store show on the Start screen.
 
 ![read Kindle books on Win 8 - Windows 8 Store](https://www.epubor.com/images/uppic/win8_start.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Search for “Kindle” on Windows 8 app store, select Amazon Kindle app and click download.
 
@@ -49,13 +59,14 @@ Kindle for Windows 8 app enables readers to pin favorite Kindle books to the Sta
 
 ![read Kindle books on Win 8](https://www.epubor.com/images/uppic/Win8-read-on-kindle-for-win8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Follow above steps when you want to **read Kindle books on Windows 8 (Pro) PC, Surface RT / Pro as well as other tablets running Windows 8 RT OS**.
 
 Besides Kindle books, you can [follow this guide to read **eBooks** on Windows 8 / Surface RT / Pro](https://tools.techidaily.com/epubor/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Read Kindle books on Windows 8 mobile
 
 To read Kindle books on Windows Phone 8 such as Nokia Lumia 920, simply tap “Marketplace” icon on the phone, search for “Kindle” and follow the instructions to install. The latest version of Kindle for Windows Phone 8 app is 2.0.0.2, which comes with a resizable live tile and additional formatting options.
@@ -63,12 +74,9 @@ To read Kindle books on Windows Phone 8 such as Nokia Lumia 920, simply tap “M
 ![read Kindle books on Windows Phone 8](https://www.epubor.com/images/uppic/Win8-kindle_for_windows_phone_8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### More about Amazon Kindle eBook reading
 
 Together with reading Kindle eBooks on Windows 8 devices, you are likely to have other devices to read Kindle books on. As a result of DRM restrictions imposed on Kindle books, however, things are a bit tough and constrained. Thus you might have to **use DRM Removal tools to remove Kindle DRM**, so that you will be able to read Kindle books on non-Kindle devices.
@@ -87,9 +95,6 @@ Related instructions:
 
 [How to read Kindle books on Android phones / tablets](https://tools.techidaily.com/epubor/products/)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Troubleshooting: Can't install kindle app on windows 8
 
 **#1** Provided you have no access to Microsoft app store and can't install Kindle for Windows 8 app, you can also read Kindle books on your Win 8 device by [installing Kindle for PC app from Amazon's official site](https://www.amazon.com/kindle-dbs/fd/kcp). Press "Windows" key on the keyboard (next to "Alt" key) to go back to desktop if necessary.
@@ -98,9 +103,6 @@ Related instructions:
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -108,8 +110,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 12 Comments
 
@@ -265,8 +265,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -274,4 +272,24 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-file-flow-fixtures-easy-moves-for-your-machine/"><u>[New] In 2024, File Flow Fixtures Easy Moves for Your Machine</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-pixelprofessionalzoom7-expertly-scaling-your-photography/"><u>[New] In 2024, PixelProfessionalZoom7 Expertly Scaling Your Photography</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-ready-yourself-for-youtube-video-production-finalcut-pro-techniques/"><u>[New] In 2024, Ready Yourself for YouTube Video Production - FinalCut Pro Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-maximizing-visual-potential-with-hdr-technology/"><u>[Updated] In 2024, Maximizing Visual Potential with HDR Technology</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-2019-game-changer-in-vegaspro-for-2024/"><u>[Updated] The 2019 Game-Changer in VegasPro for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-conversational-dynamics-the-evolution-of-response-mechanisms/"><u>AI Conversational Dynamics: The Evolution of Response Mechanisms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-in-the-wild-can-chatgpt-be-your-key-to-overcoming-wilderness-dangers/"><u>AI in the Wild: Can ChatGPT Be Your Key to Overcoming Wilderness Dangers?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-pioneering-role-in-prompt-creation-and-its-career-sustainability/"><u>AI's Pioneering Role in Prompt Creation & Its Career Sustainability</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bard-by-google-emerges-as-a-potent-contender-in-the-ai-arena-against-chatgpt/"><u>Bard by Google Emerges as a Potent Contender in the AI Arena Against ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-rely-on-auto-gpt-successfully-in-absence-of-gpt-n/"><u>Can You Rely on Auto-GPT Successfully in Absence of GPT-N?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-jailbreaking-explained-navigating-the-gray-area-of-ai-unleashing/"><u>ChatGPT Jailbreaking Explained – Navigating the Gray Area of AI Unleashing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-plus-evaluation-unpacking-its-strengths-and-weaknesses-for-users/"><u>ChatGPT Plus Evaluation: Unpacking Its Strengths and Weaknesses for Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-plus-an-in-depth-guide-to-its-potential-and-pitfalls/"><u>ChatGPT Plus: An In-Depth Guide to Its Potential and Pitfalls</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/midnight-marauder-vs-daylight-defender-black-vs-silver-for-2024/"><u>Midnight Marauder Vs Daylight Defender Black vs Silver for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/premiere-add-ons-for-firefox-recording-for-2024/"><u>Premiere Add-Ons for Firefox Recording for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722984361776-re7s-sequel-plagued-by-black-pixels-heres-how-to-solve-the-re-village-visual-glitch/"><u>RE7's Sequel Plagued by Black Pixels? Here's How to Solve the RE Village Visual Glitch!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-advanced-ai-gpt-4-no-price-tag-needed/"><u>Unlocking Advanced AI: GPT-4, No Price Tag Needed</u></a></li>
+</ul></div>
 

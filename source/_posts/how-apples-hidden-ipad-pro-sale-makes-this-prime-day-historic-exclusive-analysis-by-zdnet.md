@@ -1,7 +1,7 @@
 ---
 title: How Apple's Hidden iPad Pro Sale Makes This Prime Day Historic - Exclusive Analysis by ZDNet
-date: 2024-12-20T22:10:45.268Z
-updated: 2024-12-23T01:34:52.163Z
+date: 2024-12-27T02:20:47.698Z
+updated: 2024-12-27T20:51:47.757Z
 tags:
   - apple
 categories:
@@ -38,7 +38,7 @@ Internally, the new iPad Pro features Apple's most powerful Silicon yet, the M4,
 Right now, Amazon has both the [11- and 13-inch options on sale for $928 and $1,198](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C928c76e0-7991-4296-835f-5fc747ca6ed4%7Cdtp&dtb=1), respectively. Again, you'll only be saving between $80 to $100, but the discount can be offloaded towards [additional accessories](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3Dipad%2Bpro%2B2024%2Baccessories%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C928c76e0-7991-4296-835f-5fc747ca6ed4%7Cdtp&dtb=1).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -85,16 +85,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-effortless-media-transfer-twitter-videos-on-whatsapp-for-2024/"><u>[New] Effortless Media Transfer Twitter Videos on WhatsApp for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-top-drone-shopping-mistakes-and-how-to-dodge-them-for-2024/"><u>[Updated] Top Drone Shopping Mistakes and How to Dodge Them for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-7-current-implementations-of-chatgpt-technology/"><u>Exploring 7 Current Implementations of ChatGPT Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-ai-understanding-the-mechanics-behind-prompt-injection-attacks/"><u>Exploring AI: Understanding the Mechanics Behind Prompt Injection Attacks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-vs-bert-what-are-the-differences-between-the-two-most-popular-language-models/"><u>GPT Vs. BERT: What Are the Differences Between the Two Most Popular Language Models?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-the-architect-of-adventures-designing-games-with-ai/"><u>GPT, the Architect of Adventures: Designing Games with AI</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-10-shopping-powerhouses-where-to-buy-personalized-present-wrappers/"><u>In 2024, 10 Shopping Powerhouses Where to Buy Personalized Present Wrappers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-smartphones-with-superior-video-recording-features/"><u>In 2024, Smartphones with Superior Video Recording Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-guide-to-computer-components/"><u>Tom's Tech Insights: Expert Guide to Computer Components</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-15-youtube-playlists-catering-to-musicians-for-2024/"><u>Top 15 YouTube Playlists Catering to Musicians for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-discovering-the-best-uses-for-nikon-d7500/"><u>[New] 2024 Approved Discovering the Best Uses for Nikon D7500</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1728474265537-google/"><u>「スムーズな移行実践：ネットワークフォルダをGoogleドライブにシンクロさせる手順」</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-top-10-cost-free-image-format-change-software/"><u>Discover Top 10 Cost-Free Image Format Change Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-critical-examination-of-vlcs-rivals/"><u>In 2024, A Critical Examination of VLC's Rivals</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-mastering-the-art-of-srt-files-an-all-inclusive-guide-to-subtitles/"><u>In 2024, Mastering the Art of SRT Files An All-Inclusive Guide to Subtitles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-stalling-during-installation-how-to/"><u>Overcoming Windows 11 Stalling During Installation – How To</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/supercharge-productivity-with-these-chatgpt-plugins/"><u>Supercharge Productivity with These ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tailored-ai-solutions-our-top-5-prompt-generator-lists/"><u>Tailored AI Solutions: Our Top 5 Prompt Generator Lists</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/techniques-for-highlighting-illicit-gpt-interactions/"><u>Techniques for Highlighting Illicit GPT Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-latest-in-mobile-internet-for-holiday-goers/"><u>The Latest in Mobile Internet for Holiday Goers</u></a></li>
 </ul></div>
 

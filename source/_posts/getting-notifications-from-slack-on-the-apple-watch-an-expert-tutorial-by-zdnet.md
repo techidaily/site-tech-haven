@@ -1,7 +1,7 @@
 ---
 title: "Getting Notifications From Slack on the Apple Watch: An Expert Tutorial by ZDNet"
-date: 2024-11-26T16:20:02.432Z
-updated: 2024-11-28T16:01:10.343Z
+date: 2024-12-26T16:01:06.160Z
+updated: 2024-12-28T16:02:33.378Z
 tags:
   - apple
 categories:
@@ -55,7 +55,7 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
@@ -63,7 +63,7 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -76,17 +76,9 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -105,6 +97,10 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -126,6 +122,10 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,16 +179,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-data-analysis-in-excel-through-chatgpt-methods/"><u>Augmenting Data Analysis in Excel Through ChatGPT Methods</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-samsung-galaxy-s24-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Samsung Galaxy S24</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-lag-woes-pro-tips-for-smooth-gameplay-in-fallout/"><u>Fixing Lag Woes: Pro Tips for Smooth Gameplay in Fallout</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100t-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100t to Outlook | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mac-users-manual-how-to-implement-microsoft-copilot-seamlessly/"><u>Mac Users' Manual: How to Implement Microsoft Copilot Seamlessly</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/navigating-tech-choices-reliable-information-straight-from-toms-hardware-specialists/"><u>Navigating Tech Choices: Reliable Information Straight From Tom's Hardware Specialists</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-walkthrough-for-disabling-your-chatgpt-username-and-data/"><u>The Ultimate Walkthrough for Disabling Your ChatGPT Username and Data</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-misconits-about-using-chatgpt-for-financial-data/"><u>Top 5 Misconits About Using ChatGPT for Financial Data</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ais-intellectual-property-who-holds-copyright-on-artificial-intelligence-inventions/"><u>Understanding AI's Intellectual Property: Who Holds Copyright on Artificial Intelligence Inventions?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-impact-of-up-to-the-minute-information-gathering-by-chatgpt-for-everyone/"><u>Understanding the Impact of Up-to-the-Minute Information Gathering by ChatGPT for Everyone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-full-potential-of-chatgpt-for-a-better-lifestyle/"><u>Unlocking the Full Potential of ChatGPT for a Better Lifestyle</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-comparing-the-best-gopro-max-360-vs-hero-11/"><u>[Updated] In 2024, Comparing the Best GoPro Max 360 VS Hero 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-maintaining-image-integrity-effective-instagram-photowatermarking/"><u>[Updated] Maintaining Image Integrity Effective Instagram Photowatermarking</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-on-pc-drivers-troubleshooting-techniques-for-windows-users/"><u>A Comprehensive Guide on PC Drivers: Troubleshooting Techniques for Windows Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-performance-ultimate-tips-to-accelerate-windows-10-efficiency/"><u>Boosting Performance: Ultimate Tips to Accelerate Windows 10 Efficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-guide-factory-resetting-your-windows-11-in-just-four-simple-steps/"><u>Complete Guide: Factory Resetting Your Windows 11 in Just Four Simple Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/configuring-wireless-internet-on-your-pc-with-windows-7-quick-fixes-and-tips/"><u>Configuring Wireless Internet on Your PC with Windows 7 - Quick Fixes & Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/connecting-beats-wireless-headphones-to-your-windows-desktop-made-easy/"><u>Connecting Beats Wireless Headphones to Your Windows Desktop Made Easy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-how-to-quickly-identify-your-windows-10-operating-system-version/"><u>Discover How to Quickly Identify Your Windows 10 Operating System Version</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-asus-drivers-for-windows-10-and-7/"><u>Download ASUS Drivers for Windows 10 & 7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808339328-how-to-share-games-on-ps4-2021-easy-guide/"><u>How to Share Games on PS4 - 2021 Easy Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-economical-dslrs-and-camcorders-4k-edition/"><u>In 2024, Economical DSLRs & Camcorders, 4K Edition</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mp4-converter-on-gorillavid-effortless-video-download-from-gorillavid-streams/"><u>MP4 Converter on GorillaVid: Effortless Video Download From GorillaVid Streams</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/remove-automatically-suggested-podcasts-from-your-spotify-playlist-for-2024/"><u>Remove Automatically Suggested Podcasts From Your Spotify Playlist for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/seamless-offsite-data-safety-unveiling-three-key-methods-to-back-up-your-synology-efficiently/"><u>Seamless Offsite Data Safety: Unveiling Three Key Methods to Back Up Your Synology Efficiently</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/step-by-step-tutorial-for-installing-blinks-outdoor-4-cameras-with-light-features/"><u>Step-by-Step Tutorial for Installing Blink's Outdoor 4 Cameras with Light Features</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/vfx-essentials-unlocked-top-8-sites-for-free-high-quality-green-screen-imagery-for-2024/"><u>VFX Essentials Unlocked Top 8 Sites for FREE High-Quality Green Screen Imagery for 2024</u></a></li>
 </ul></div>
 
